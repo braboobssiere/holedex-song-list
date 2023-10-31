@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hololive Song List</title>
+    <title>Hololive Sing List</title>
     <style>
         .video-container {
             max-width: 100%;
@@ -18,7 +18,7 @@
         }
     </style>
     <script>
-        var frameSize = 'fit'; // Frame size set to "fit" by default
+        var frameSize = 'fit'; // Default frame size is fit screen
 
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -42,6 +42,12 @@
             document.cookie = "apiKey=" + apiKey + "; " + expires;
         }
 
+        // Function to change the frame size based on user selection
+        function changeFrameSize() {
+            var frameSizeSelect = document.getElementById('frame-size-select');
+            frameSize = frameSizeSelect.value;
+        }
+
         // Function to call the API
         function callApi() {
             var apiKey = getApiKeyFromCookie();
@@ -53,7 +59,7 @@
             } else {
                 // Display the API key input form
                 var apiKeyInput = document.getElementById('api-key-input');
-                apiKeyInput.style.display = 'block';
+                apiKeyInput.style display = 'block';
             }
         }
 
@@ -91,7 +97,7 @@
 
                     // Display the formatted data on the webpage
                     var responseElement = document.getElementById('api-response');
-                    responseElement.innerHTML = formatData(response, frameSize);
+                    responseElement.innerHTML = formatData(response);
 
                     // Save the API key in cookies if the "remember" checkbox is checked
                     if (document.getElementById('remember-api-key').checked) {
@@ -105,7 +111,7 @@
         }
 
         // Function to format data
-        function formatData(jsonData, frameSize) {
+        function formatData(jsonData) {
             var formattedData = '';
 
             // Iterate through the JSON data and format it
@@ -114,12 +120,26 @@
                 var title = item.title;
                 var availableAt = new Date(item.available_at);
                 
-                var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="100%" height="auto"></iframe></div>';
+                var frameWidth = '100%';
+                var frameHeight = 'auto';
+                
+                if (frameSize === '854x480') {
+                    frameWidth = '854px';
+                    frameHeight = '480px';
+                } else if (frameSize === '1280x720') {
+                    frameWidth = '1280px';
+                    frameHeight = '720px';
+                } else if (frameSize === '1920x1080') {
+                    frameWidth = '1920px';
+                    frameHeight = '1080px';
+                }
+                
+                var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
 
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += '[' localDateFormat + '] ' + '<br>';
+                formattedData += '[' + localDateFormat + ']' + '<br>';
                 formattedData += youtubeEmbedLink + '<br><br>';
             }
 
@@ -128,7 +148,15 @@
     </script>
 </head>
 <body>
-    <div id="api-key-input">
+    <div id="frame-size-input">
+        <label for="frame-size-select">Frame Size:</label>
+        <select id="frame-size-select" onchange="changeFrameSize()">
+            <option value="fit">Fit Screen</option>
+            <option value="854x480">480p</option>
+            <option value="1280x720" selected>720p</option>
+            <option value="1920x1080">1080p</option>
+        </select>
+        
         <label for="api-key">Holodex API Key:</label>
         <input type="text" id="api-key">
         <label for="remember-api-key">Remember API Key:</label>
