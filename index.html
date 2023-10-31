@@ -71,6 +71,79 @@
                     var response = JSON.parse(xhr.responseText);
 
                     // Display the formatted data on the webpage
+<!DOCTYPE html>
+<html>
+<head>
+    <title>API Request</title>
+    <script>
+        // Function to get the API key from cookies
+        function getApiKeyFromCookie() {
+            var name = "apiKey=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var cookieArray = decodedCookie.split(';');
+            for (var i = 0; i < cookieArray.length; i++) {
+                var cookie = cookieArray[i].trim();
+                if (cookie.indexOf(name) === 0) {
+                    return cookie.substring(name.length, cookie.length);
+                }
+            }
+            return "";
+        }
+
+        // Function to set the API key in cookies
+        function setApiKeyInCookie(apiKey) {
+            var d = new Date();
+            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // Cookie expires in 1 year
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = "apiKey=" + apiKey + "; " + expires;
+        }
+
+        // Function to call the API
+        function callApi() {
+            var apiKey = getApiKeyFromCookie();
+            
+            // Check if a valid API key is present in cookies
+            if (apiKey) {
+                // If a valid API key is found, skip the input form
+                performApiRequest(apiKey);
+            } else {
+                // Display the API key input form
+                var apiKeyInput = document.getElementById('api-key-input');
+                apiKeyInput.style.display = 'block';
+            }
+        }
+
+        // Function to perform the API request
+        function performApiRequest(apiKey) {
+            // API endpoint URL
+            var apiUrl = 'https://holodex.net/api/v2/videos';
+
+            // Query parameters
+            var queryParams = {
+                type: 'stream',
+                topic: 'singing',
+                org: 'Hololive'
+            };
+
+            // Construct the query string
+            var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
+
+            // Create a new XMLHttpRequest
+            var xhr = new XMLHttpRequest();
+
+            // Open a GET request to the API endpoint with the query string
+            xhr.open('GET', apiUrl + '?' + queryString, true);
+
+            // Set the X-APIKEY header
+            xhr.setRequestHeader('X-APIKEY', apiKey);
+
+            // Define the function to handle the API response
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    // Parse the JSON response
+                    var response = JSON.parse(xhr.responseText);
+
+                    // Display the formatted data on the webpage
                     var responseElement = document.getElementById('api-response');
                     responseElement.innerHTML = formatData(response);
 
@@ -100,11 +173,14 @@
     </script>
 </head>
 <body>
-    <div id="api-response"></div>
     <div id="api-key-input" style="display: none;">
         <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
+    <div id="api-response"></div>
+    <script>
+        callApi();
+    </script>
 </body>
 </html>
