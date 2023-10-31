@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>API Request</title>
+    <title>Karaoke Request</title>
     <style>
         .iframe-container {
             max-width: 100%;
@@ -105,28 +105,14 @@
                 var item = jsonData[i];
                 var title = item.title;
                 var availableAt = new Date(item.available_at);
-                var frameWidth;
-                var frameHeight;
-                
-                if (frameSize === '480p') {
-                    frameWidth = 854;
-                    frameHeight = 480;
-                } else if (frameSize === '720p') {
-                    frameWidth = 1280;
-                    frameHeight = 720;
-                } else if (frameSize === '1080p') {
-                    frameWidth = 1920;
-                    frameHeight = 1080;
-                }
-
-                var youtubeEmbedLink = '<iframe width="' + frameWidth + '" height="' + frameHeight + '" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe>';
+                var youtubeEmbedLink = '<iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="100%" height="auto"></iframe>';
 
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                
-formattedData += localDateFormat + title + '<br>';
-formattedData += youtubeEmbedLink + '<br><br>';
+                formattedData += 'Title: ' + title + '<br>';
+                formattedData += 'Available Date and Time: ' + localDateFormat + '<br>';
+                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br><br>';
             }
 
             return formattedData;
@@ -137,15 +123,15 @@ formattedData += youtubeEmbedLink + '<br><br>';
     <div id="frame-size-input">
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select">
-            <option value="854x480">480p</option>
-            <option value="1280x720" selected>720p</option>
-            <option value="1920x1080">1080p</option>
+            <option value="854x480">480p: 854x480 pixels</option>
+            <option value="1280x720" selected>720p: 1280x720 pixels</option>
+            <option value="1920x1080">1080p: 1920x1080 pixels</option>
         </select>
     </div>
     <div id="api-key-input">
         <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key:</label>
+        <label for="remember-api-key">Remember API Key and Skip Form Next Time:</label>
         <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
@@ -154,5 +140,4 @@ formattedData += youtubeEmbedLink + '<br><br>';
         callApi();
     </script>
 </body>
-    </html>
-    
+</html>
