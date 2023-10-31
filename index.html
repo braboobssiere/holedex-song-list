@@ -2,6 +2,12 @@
 <html>
 <head>
     <title>API Request</title>
+    <style>
+        iframe {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
     <script>
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -89,12 +95,18 @@
         function formatData(jsonData) {
             var formattedData = '';
 
-            // Iterate through the JSON data and format it vertically
+            // Iterate through the JSON data and format it
             for (var i = 0; i < jsonData.length; i++) {
                 var item = jsonData[i];
-                formattedData += 'Title: ' + item.title + '<br>';
-                formattedData += 'Available Date and Time: ' + item.available_at + '<br>';
-                formattedData += 'YouTube Embed Link: <iframe width="1280" height="720" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe><br><br>';
+                var title = item.title;
+                var availableAt = new Date(item.available_at);
+                var youtubeEmbedLink = '<iframe width="1280" height="720" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe>';
+
+                // Format the available date and time in the user's local format
+                var localDateFormat = availableAt.toLocaleString();
+
+                formattedData += '【' + localDateFormat + '】 ' + title + '<br>';
+                formattedData += youtubeEmbedLink + '<br><br>';
             }
 
             return formattedData;
