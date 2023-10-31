@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>API Request</title>
+    <title>Hololive Song List</title>
     <style>
         .video-container {
             max-width: 100%;
@@ -18,7 +18,7 @@
         }
     </style>
     <script>
-        var frameSize = 'fit'; // Default frame size is fit screen
+        var frameSize = 'fit'; // Frame size set to "fit" by default
 
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -40,12 +40,6 @@
             d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // Cookie expires in 1 year
             var expires = "expires=" + d.toUTCString();
             document.cookie = "apiKey=" + apiKey + "; " + expires;
-        }
-
-        // Function to change the frame size based on user selection
-        function changeFrameSize() {
-            var frameSizeSelect = document.getElementById('frame-size-select');
-            frameSize = frameSizeSelect.value;
         }
 
         // Function to call the API
@@ -97,7 +91,7 @@
 
                     // Display the formatted data on the webpage
                     var responseElement = document.getElementById('api-response');
-                    responseElement.innerHTML = formatData(response);
+                    responseElement.innerHTML = formatData(response, frameSize);
 
                     // Save the API key in cookies if the "remember" checkbox is checked
                     if (document.getElementById('remember-api-key').checked) {
@@ -111,7 +105,7 @@
         }
 
         // Function to format data
-        function formatData(jsonData) {
+        function formatData(jsonData, frameSize) {
             var formattedData = '';
 
             // Iterate through the JSON data and format it
@@ -125,7 +119,7 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += '[' + localDateFormat + '] ' + title + '<br>';
+                formattedData += '[' localDateFormat + '] ' + '<br>';
                 formattedData += youtubeEmbedLink + '<br><br>';
             }
 
@@ -134,14 +128,7 @@
     </script>
 </head>
 <body>
-    <div id="frame-size-input">
-        <label for="frame-size-select">Frame Size:</label>
-        <select id="frame-size-select" onchange="changeFrameSize()">
-            <option value="fit">Fit Screen</option>
-            <option value="854x480">480p: 854x480 pixels</option>
-            <option value="1280x720" selected>720p: 1280x720 pixels</option>
-            <option value="1920x1080">1080p: 1920x1080 pixels</option>
-        </select>
+    <div id="api-key-input">
         <label for="api-key">Holodex API Key:</label>
         <input type="text" id="api-key">
         <label for="remember-api-key">Remember API Key:</label>
