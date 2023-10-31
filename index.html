@@ -120,9 +120,8 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += 'Title: ' + title + '<br>';
-                formattedData += 'Available Date and Time: ' + localDateFormat + '<br>';
-                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br><br>';
+                formattedData += localDateFormat + title + '<br>';
+                formattedData += youtubeEmbedLink + '<br><br>';
             }
 
             return formattedData;
@@ -130,18 +129,16 @@
     </script>
 </head>
 <body>
-    <div id="frame-size-input">
+    <div id="frame-size-api-key-input">
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select">
-            <option value="854x480">480p: 854x480 pixels</option>
-            <option value="1280x720" selected>720p: 1280x720 pixels</option>
-            <option value="1920x1080">1080p: 1920x1080 pixels</option>
+            <option value="854x480">480p</option>
+            <option value="1280x720" selected>720p</option>
+            <option value="1920x1080">1080p</option>
         </select>
-    </div>
-    <div id="api-key-input">
         <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key and Skip Form Next Time:</label>
+        <label for="remember-api-key">Remember API Key:</label>
         <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
