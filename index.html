@@ -18,6 +18,8 @@
         }
     </style>
     <script>
+        var frameSize = 'fit'; // Default frame size is fit screen
+
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
             var name = "apiKey=";
@@ -38,6 +40,12 @@
             d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // Cookie expires in 1 year
             var expires = "expires=" + d.toUTCString();
             document.cookie = "apiKey=" + apiKey + "; " + expires;
+        }
+
+        // Function to change the frame size based on user selection
+        function changeFrameSize() {
+            var frameSizeSelect = document.getElementById('frame-size-select');
+            frameSize = frameSizeSelect.value;
         }
 
         // Function to call the API
@@ -61,9 +69,6 @@
             var apiUrl = 'https://holodex.net/api/v2/videos';
 
             // Query parameters
-            var frameSizeSelect = document.getElementById('frame-size-select');
-            var frameSize = frameSizeSelect.value;
-
             var queryParams = {
                 type: 'stream',
                 topic: 'singing',
@@ -92,7 +97,7 @@
 
                     // Display the formatted data on the webpage
                     var responseElement = document.getElementById('api-response');
-                    responseElement.innerHTML = formatData(response, frameSize);
+                    responseElement.innerHTML = formatData(response);
 
                     // Save the API key in cookies if the "remember" checkbox is checked
                     if (document.getElementById('remember-api-key').checked) {
@@ -106,7 +111,7 @@
         }
 
         // Function to format data
-        function formatData(jsonData, frameSize) {
+        function formatData(jsonData) {
             var formattedData = '';
 
             // Iterate through the JSON data and format it
@@ -115,12 +120,12 @@
                 var title = item.title;
                 var availableAt = new Date(item.available_at);
                 
-                var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe></div>';
+                var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="100%" height="auto"></iframe></div>';
 
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += localDateFormat + title + '<br>';
+                formattedData += '[' + localDateFormat + '] ' + title + '<br>';
                 formattedData += youtubeEmbedLink + '<br><br>';
             }
 
@@ -129,14 +134,15 @@
     </script>
 </head>
 <body>
-    <div id="frame-size-api-key-input">
+    <div id="frame-size-input">
         <label for="frame-size-select">Frame Size:</label>
-        <select id="frame-size-select">
-            <option value="854x480">480p</option>
-            <option value="1280x720" selected>720p</option>
-            <option value="1920x1080">1080p</option>
+        <select id="frame-size-select" onchange="changeFrameSize()">
+            <option value="fit">Fit Screen</option>
+            <option value="854x480">480p: 854x480 pixels</option>
+            <option value="1280x720" selected>720p: 1280x720 pixels</option>
+            <option value="1920x1080">1080p: 1920x1080 pixels</option>
         </select>
-        <label for="api-key">Enter API Key:</label>
+        <label for="api-key">Holodex API Key:</label>
         <input type="text" id="api-key">
         <label for="remember-api-key">Remember API Key:</label>
         <input type="checkbox" id="remember-api-key">
