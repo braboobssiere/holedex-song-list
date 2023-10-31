@@ -7,6 +7,16 @@
             width: auto;
             height: auto;
         }
+
+        .video-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .video-details {
+            flex: 1;
+            padding: 10px;
+        }
     </style>
     <script>
         // Function to get the API key from cookies
@@ -42,7 +52,7 @@
             } else {
                 // Display the API key input form
                 var apiKeyInput = document.getElementById('api-key-input');
-                apiKeyInput.style display = 'block';
+                apiKeyInput.style.display = 'block';
             }
         }
 
@@ -124,9 +134,15 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
+                formattedData += '<div class="video-container">';
+                formattedData += '<div class="video-details">';
                 formattedData += 'Title: ' + title + '<br>';
                 formattedData += 'Available Date and Time: ' + localDateFormat + '<br>';
-                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br><br>';
+                formattedData += '</div>';
+                formattedData += '<div>';
+                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br>';
+                formattedData += '</div>';
+                formattedData += '</div><br>';
             }
 
             return formattedData;
@@ -137,9 +153,9 @@
     <div id="frame-size-input">
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select">
-            <option value="480p">480p</option>
-            <option value="720p" selected>720p</option>
-            <option value="1080p">1080p</option>
+            <option value="854x480">480p: 854x480 pixels</option>
+            <option value="1280x720" selected>720p: 1280x720 pixels</option>
+            <option value="1920x1080">1080p: 1920x1080 pixels</option>
         </select>
     </div>
     <div id="api-key-input">
