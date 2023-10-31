@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hololive Sing List</title>
+    <title>API Request</title>
     <style>
         .video-container {
             max-width: 100%;
@@ -18,7 +18,7 @@
         }
     </style>
     <script>
-        var frameSize = 'fit'; // Default frame size is fit screen
+        var frameSize = '1280x720'; // Default frame size is 1280x720
 
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -59,7 +59,7 @@
             } else {
                 // Display the API key input form
                 var apiKeyInput = document.getElementById('api-key-input');
-                apiKeyInput.style display = 'block';
+                apiKeyInput.style.display = 'block';
             }
         }
 
@@ -139,8 +139,9 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += '[' + localDateFormat + ']' + '<br>';
-                formattedData += youtubeEmbedLink + '<br><br>';
+                formattedData += 'Title: ' + title + '<br>';
+                formattedData += 'Available Date and Time: ' + localDateFormat + '<br>';
+                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br><br>';
             }
 
             return formattedData;
@@ -152,14 +153,15 @@
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select" onchange="changeFrameSize()">
             <option value="fit">Fit Screen</option>
-            <option value="854x480">480p</option>
-            <option value="1280x720" selected>720p</option>
-            <option value="1920x1080">1080p</option>
+            <option value="854x480">480p: 854x480 pixels</option>
+            <option value="1280x720" selected>720p: 1280x720 pixels</option>
+            <option value="1920x1080">1080p: 1920x1080 pixels</option>
         </select>
-        
-        <label for="api-key">Holodex API Key:</label>
+    </div>
+    <div id="api-key-input">
+        <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key:</label>
+        <label for="remember-api-key">Remember API Key and Skip Form Next Time:</label>
         <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
