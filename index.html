@@ -136,11 +136,10 @@
 
                 formattedData += '<div class="video-container">';
                 formattedData += '<div class="video-details">';
-                formattedData += 'Title: ' + title + '<br>';
-                formattedData += 'Available Date and Time: ' + localDateFormat + '<br>';
+                formattedData += localDateFormat + title + '<br>';
                 formattedData += '</div>';
                 formattedData += '<div>';
-                formattedData += 'YouTube Embed Link: ' + youtubeEmbedLink + '<br>';
+                formattedData += youtubeEmbedLink + '<br>';
                 formattedData += '</div>';
                 formattedData += '</div><br>';
             }
@@ -153,15 +152,15 @@
     <div id="frame-size-input">
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select">
-            <option value="854x480">480p: 854x480 pixels</option>
-            <option value="1280x720" selected>720p: 1280x720 pixels</option>
-            <option value="1920x1080">1080p: 1920x1080 pixels</option>
+            <option value="854x480">480p</option>
+            <option value="1280x720" selected>720p</option>
+            <option value="1920x1080">1080p</option>
         </select>
     </div>
     <div id="api-key-input">
         <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key and Skip Form Next Time:</label>
+        <label for="remember-api-key">Remember API Key:</label>
         <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
@@ -170,4 +169,5 @@
         callApi();
     </script>
 </body>
-</html>
+    </html>
+    
