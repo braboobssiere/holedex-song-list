@@ -134,14 +134,9 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += '<div class="video-container">';
-                formattedData += '<div class="video-details">';
-                formattedData += localDateFormat + title + '<br>';
-                formattedData += '</div>';
-                formattedData += '<div>';
-                formattedData += youtubeEmbedLink + '<br>';
-                formattedData += '</div>';
-                formattedData += '</div><br>';
+                
+formattedData += localDateFormat + title + '<br>';
+formattedData += youtubeEmbedLink + '<br><br>';
             }
 
             return formattedData;
