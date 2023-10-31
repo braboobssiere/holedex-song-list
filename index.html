@@ -4,7 +4,7 @@
     <title>API Request</title>
     <style>
         iframe {
-            max-width: 100%;
+            width: auto;
             height: auto;
         }
     </style>
@@ -52,6 +52,9 @@
             var apiUrl = 'https://holodex.net/api/v2/videos';
 
             // Query parameters
+            var frameSizeSelect = document.getElementById('frame-size-select');
+            var frameSize = frameSizeSelect.value;
+
             var queryParams = {
                 type: 'stream',
                 topic: 'singing',
@@ -78,7 +81,7 @@
 
                     // Display the formatted data on the webpage
                     var responseElement = document.getElementById('api-response');
-                    responseElement.innerHTML = formatData(response);
+                    responseElement.innerHTML = formatData(response, frameSize);
 
                     // Save the API key in cookies if the "remember" checkbox is checked
                     if (document.getElementById('remember-api-key').checked) {
@@ -92,7 +95,7 @@
         }
 
         // Function to format data
-        function formatData(jsonData) {
+        function formatData(jsonData, frameSize) {
             var formattedData = '';
 
             // Iterate through the JSON data and format it
@@ -100,13 +103,14 @@
                 var item = jsonData[i];
                 var title = item.title;
                 var availableAt = new Date(item.available_at);
-                var youtubeEmbedLink = '<iframe width="1280" height="720" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe>';
+                var youtubeEmbedLink = '<iframe width="' + frameSize + '" height="' + (frameSize * 9 / 16) + '" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen></iframe>';
 
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
                 formattedData += '【' + localDateFormat + '】 ' + title + '<br>';
                 formattedData += youtubeEmbedLink + '<br><br>';
+           
             }
 
             return formattedData;
@@ -114,10 +118,18 @@
     </script>
 </head>
 <body>
-    <div id="api-key-input" style="display: none;">
+    <div id="frame-size-input">
+        <label for="frame-size-select">Frame Size:</label>
+        <select id="frame-size-select">
+            <option value="854x480">480p</option>
+            <option value="1280x720" selected>720p</option>
+            <option value="1920x1080">1080p</option>
+        </select>
+    </div>
+    <div id="api-key-input">
         <label for="api-key">Enter API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key and Skip Form Next Time:</label>
+        <label for="remember-api-key">Remember API Key?:</label>
         <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
