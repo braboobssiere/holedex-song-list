@@ -79,13 +79,17 @@
 
         // Function to perform the API request
         function performApiRequest(apiKey) {
+            
+            // Get the selected topic
+            var selectedTopic = document.getElementById('topic').value;
+            
             // API endpoint URL
             var apiUrl = 'https://holodex.net/api/v2/videos';
 
             // Query parameters
             var queryParams = {
                 type: 'stream',
-                topic: 'singing',
+                topic: selectedTopic,
                 org: 'Hololive',
                 limit: 20,
                 max_upcoming_hours: 12
@@ -174,6 +178,12 @@
 </head>
 <body>
     <div id="frame-size-input">
+    <label for="topic">Stream Type:</label>
+    <select id="topic" onchange="changeTopic()">
+        <option value="singing" selected>Singing</option>
+        <option value="asmr">ASMR</option>
+        <option value="Musical_Instrument">Musical Instrument</option>
+    </select>
         <label for="frame-size-select">Frame Size:</label>
         <select id="frame-size-select" onchange="changeFrameSize()">
             <option value="fit" selected>Fit Screen</option>
