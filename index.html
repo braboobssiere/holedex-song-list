@@ -117,10 +117,8 @@
                     var responseElement = document.getElementById('api-response');
                     responseElement.innerHTML = formatData(response);
 
-                    // Save the API key in cookies if the "remember" checkbox is checked
-                    if (document.getElementById('remember-api-key').checked) {
-                        setApiKeyInCookie(apiKey);
-                    }
+                    // Save the API key in cookies 
+                    setApiKeyInCookie(apiKey);
                 }
             };
 
@@ -178,13 +176,13 @@
 </head>
 <body>
     <div id="frame-size-input">
-    <label for="topic">Stream Type:</label>
+    <label for="topic"></label>
     <select id="topic" onchange="changeTopic()">
         <option value="singing" selected>Singing</option>
         <option value="asmr">ASMR</option>
         <option value="Musical_Instrument">Musical Instrument</option>
     </select>
-        <label for="frame-size-select">Frame Size:</label>
+        <label for="frame-size-select"></label>
         <select id="frame-size-select" onchange="changeFrameSize()">
             <option value="fit" selected>Fit Screen</option>
             <option value="854x480">480p</option>
@@ -193,8 +191,6 @@
         </select>
         <label for="api-key">Holodex API Key:</label>
         <input type="text" id="api-key">
-        <label for="remember-api-key">Remember API Key:</label>
-        <input type="checkbox" id="remember-api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
     <div id="api-response"></div>
