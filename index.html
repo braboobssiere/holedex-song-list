@@ -136,11 +136,21 @@
                 }
                 
                 var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
+                // Define options for the date and time formatting
+                var dateFormatOptions = {
+                    day: '2-digit',
+                    month: '2-digit',
+                    year: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    second: '2-digit',
+                    hour12: false, 
+                };
 
-                // Format the available date and time in the user's local format
-                var localDateFormat = availableAt.toLocaleString();
+                // Format the available date and time in the desired format
+                var localDateFormat = availableAt.toLocaleString(undefined, dateFormatOptions);
 
-                formattedData += '<code>Start [' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
+                formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
                 formattedData += youtubeEmbedLink + '<br>';
             }
 
