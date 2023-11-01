@@ -118,6 +118,7 @@
             for (var i = 0; i < jsonData.length; i++) {
                 var item = jsonData[i];
                 var title = item.title;
+                var englishName = item.channel.english_name;
                 var availableAt = new Date(item.available_at);
                 
                 var frameWidth = '100%';
@@ -139,7 +140,7 @@
                 // Format the available date and time in the user's local format
                 var localDateFormat = availableAt.toLocaleString();
 
-                formattedData += 'Start [' + localDateFormat + ']' + '<br>';
+                formattedData += 'Start [' + localDateFormat + '] ' + title + ' / ' + englishName + '<br>';
                 formattedData += youtubeEmbedLink + '<br>';
             }
 
