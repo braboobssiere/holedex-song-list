@@ -42,6 +42,18 @@
             document.cookie = "apiKey=" + apiKey + "; " + expires;
         }
 
+        // Function to check for a valid API key in cookies and autofill the form
+        function checkApiKeyInCookies() {
+            var apiKey = getApiKeyFromCookie();
+            if (apiKey) {
+                // If a valid API key is found, autofill the input field and check the "Remember API Key" checkbox
+                var apiKeyInput = document.getElementById('api-key');
+                var rememberApiKeyCheckbox = document.getElementById('remember-api-key');
+                apiKeyInput.value = apiKey;
+                rememberApiKeyCheckbox.checked = true;
+            }
+        }
+
         // Function to change the frame size based on user selection
         function changeFrameSize() {
             var frameSizeSelect = document.getElementById('frame-size-select');
@@ -54,6 +66,7 @@
             
             // Check if a valid API key is present in cookies
             if (apiKey) {
+                checkApiKeyInCookies();
                 // If a valid API key is found, skip the input form
                 performApiRequest(apiKey);
             } else {
