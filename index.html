@@ -62,6 +62,11 @@
             frameSize = frameSizeSelect.value;
         }
 
+        // Function to change the topic based on user selection
+        function changeTopic() {
+            var selectedTopic = document.getElementById('topic').value;
+        }
+
         // Function to call the API
         function callApi() {
             var apiKey = getApiKeyFromCookie();
