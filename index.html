@@ -45,14 +45,15 @@
 
         // Function to check for a valid API key in cookies and autofill the form
         function checkApiKeyInCookies() {
-            var apiKey = getApiKeyFromCookie();
-            if (apiKey) {
-                // If a valid API key is found, autofill the input field and check the "Remember API Key" checkbox
+            
+                //autofill the input field and check the "Remember API Key" checkbox
                 var apiKeyInput = document.getElementById('api-key');
                 var rememberApiKeyCheckbox = document.getElementById('remember-api-key');
                 apiKeyInput.value = apiKey;
                 rememberApiKeyCheckbox.checked = true;
-            }
+                
+                // Call the API request function with the retrieved API key
+                performApiRequest(apiKey);
         }
 
         // Function to change the frame size based on user selection
@@ -68,8 +69,6 @@
             // Check if a valid API key is present in cookies
             if (apiKey) {
                 checkApiKeyInCookies();
-                // If a valid API key is found, skip the input form
-                performApiRequest(apiKey);
             } else {
                 // Display the API key input form
                 var apiKeyInput = document.getElementById('api-key-input');
