@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hololive Karaoke List</title>
+    <title>Hololive Stream List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .video-container {
@@ -185,7 +185,8 @@
             <option value="1280x720">720p</option>
             <option value="1920x1080">1080p</option>
         </select>
-        <label for="api-key">Holodex API Key:</label>
+        <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
+        </label>
         <input type="text" id="api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
