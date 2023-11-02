@@ -13,16 +13,13 @@
         /* 16:9 aspect ratio */
       }
 
-.iframe-container {  
-  width: auto !important;
-  height: auto !important;
-  max-width: {
-    '854x480': '854px',
-    '1280x720': '1280px',
-    '1920x1080': '1920px',
-  }[document.getElementById('frame-size-select').value];
-  aspect-ratio: 16/9;
-}
+      .iframe-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
 
     </style>
 
@@ -66,32 +63,12 @@
         return getApiKeyFromCookie() || '';
       }
 
-// Function to change the frame size based on user selection
-function changeFrameSize() {
-  var frameSizeSelect = document.getElementById('frame-size-select');
-  var frameWidth = 854;
-  var frameHeight = 480;
+      // Function to change the frame size based on user selection
+      function changeFrameSize() {
+        var frameSizeSelect = document.getElementById('frame-size-select');
+        frameSize = frameSizeSelect.value;
+      }
 
-  if (frameSizeSelect.value === '854x480') {
-    frameWidth = 854;
-    frameHeight = 480;
-  } else if (frameSizeSelect.value === '1280x720') {
-    frameWidth = 1280;
-    frameHeight = 720;
-  } else if (frameSizeSelect.value === '1920x1080') {
-    frameWidth = 1920;
-    frameHeight = 1080;
-  }
-
-  // Resize the iframe
-  var iframe = document.querySelector('.iframe-container');
-  iframe.width = frameWidth;
-  iframe.height = frameHeight;
-
-    performApiRequest(document.getElementById('api-key').value);
-
-}
-      
       // Function to change the topic based on user selection
       function changeTopic() {
         var selectedTopic = document.getElementById('topic').value;
@@ -241,9 +218,6 @@ function changeFrameSize() {
     <div id="api-response"></div>
     <script>
       callApi();
-
-      var frameSizeSelect = document.getElementById('frame-size-select');
-      frameSizeSelect.addEventListener('change', changeFrameSize);
 
     </script>
   </body>
