@@ -78,6 +78,17 @@
     }
   });
 
+  // Update the max-width of video containers
+  if (frameSize === 'fit') {
+    videoContainers.forEach(function(container) {
+      container.style.maxWidth = '100%';
+    });
+  } else {
+    videoContainers.forEach(function(container) {
+      container.style.maxWidth = frameSize.split('x')[0] + 'px';
+    });
+  }
+
   // Call the API with the new frame size
   performApiRequest(document.getElementById('api-key').value);
 }
