@@ -74,12 +74,10 @@ function changeFrameSize() {
   // Update the width and height of iframe containers
   iframeContainers.forEach(function(container) {
     if (frameSize === 'fit') {
-      container.style.width = '100%';
-      container.style.height = 'auto';
+      container.style.cssText = 'width: 100% !important; height: auto !important;';
     } else {
       var size = frameSize.split('x');
-      container.style.width = size[0] + 'px';
-      container.style.height = size[1] + 'px';
+      container.style.cssText = 'width: ' + size[0] + 'px !important; height: ' + size[1] + 'px !important;';
     }
   });
 
