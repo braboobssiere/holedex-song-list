@@ -45,12 +45,21 @@
             document.cookie = "apiKey=" + apiKey + "; " + expires;
         }
 
-                // Function to get API key from URL parameters
-        function getApiKeyFromURL() {
-            var urlParams = new URLSearchParams(window.location.search);
-            var apiKey = urlParams.get('api-key');
-            return apiKey || ''; 
-        }
+// Function to get API key from URL parameters or cookies
+function getApiKeyFromURLAndCookies() {
+    var urlParams = new URLSearchParams(window.location.search);
+    var apiKey = urlParams.get('api-key');
+
+    // Use a regular expression to match the parameter
+    var apiKeyMatch = apiKey.match(/api-key=(.*)/);
+
+    if (apiKeyMatch) {
+        // If a match is found, return the captured wildcard value
+        return apiKeyMatch[1];
+    }
+    // If no API key in URL, check for cookies
+    return getApiKeyFromCookie() || '';
+}
 
 
         // Function to change the frame size based on user selection
@@ -67,15 +76,12 @@
         // Function to call the API
     function callApi() {
     var apiKeyInput = document.getElementById('api-key');
-    var apiKeyFromURL = getApiKeyFromURL(); // Get API key from URL
-    var apiKeyFromCookie = getApiKeyFromCookie(); // Get API key from cookies
+        // Get API key from URL
+    var apiKeyFromURL = getApiKeyFromURLAndCookies(); 
 
     if (apiKeyFromURL) {
         // If API key is in URL, set it in the input field
         apiKeyInput.value = apiKeyFromURL;
-    } else if (apiKeyFromCookie) {
-        // If no URL API key, check cookies and autofill
-        apiKeyInput.value = apiKeyFromCookie;
         // Check the "Remember API Key" checkbox if needed
         var rememberApiKeyCheckbox = document.getElementById('remember-api-key');
         rememberApiKeyCheckbox.checked = true;
