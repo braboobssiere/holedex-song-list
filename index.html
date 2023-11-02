@@ -68,6 +68,21 @@ function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
   frameSize = frameSizeSelect.value;
 
+  // Get all the iframe containers
+  var iframeContainers = document.querySelectorAll('.iframe-container');
+
+  // Update the width and height of iframe containers
+  iframeContainers.forEach(function(container) {
+    if (frameSize === 'fit') {
+      container.style.width = '100%';
+      container.style.height = 'auto';
+    } else {
+      var size = frameSize.split('x');
+      container.style.width = size[0] + 'px';
+      container.style.height = size[1] + 'px';
+    }
+  });
+
   // Get all the video containers
   var videoContainers = document.querySelectorAll('.video-container');
 
@@ -76,7 +91,7 @@ function changeFrameSize() {
     while (container.firstChild) {
       container.removeChild(container.firstChild);
     }
-  });
+  }
 
   // Update the max-width of video containers
   videoContainers.forEach(function(container) {
