@@ -45,6 +45,14 @@
             document.cookie = "apiKey=" + apiKey + "; " + expires;
         }
 
+                // Function to get API key from URL parameters
+        function getApiKeyFromURL() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var apiKey = urlParams.get('api-key');
+            return apiKey || ''; 
+        }
+
+
         // Function to change the frame size based on user selection
         function changeFrameSize() {
     var frameSizeSelect = document.getElementById('frame-size-select');
@@ -57,21 +65,24 @@
         }
 
         // Function to call the API
-        function callApi() {
-            var apiKey = getApiKeyFromCookie();
-            // Check if a valid API key is present in cookies
-            if (apiKey) { 
-                // Autofill the input field
-                var apiKeyInput = document.getElementById('api-key');
-                apiKeyInput.value = apiKey;
-                // Call the API request function with the retrieved API key
-                performApiRequest(apiKey);
-            } else {
-                // Display the API key input form
-                var apiKeyInput = document.getElementById('api-key-input');
-                apiKeyInput.style.display = 'block';
-            }
-        }
+    function callApi() {
+    var apiKeyInput = document.getElementById('api-key');
+    var apiKeyFromURL = getApiKeyFromURL(); // Get API key from URL
+    var apiKeyFromCookie = getApiKeyFromCookie(); // Get API key from cookies
+
+    if (apiKeyFromURL) {
+        // If API key is in URL, set it in the input field
+        apiKeyInput.value = apiKeyFromURL;
+    } else if (apiKeyFromCookie) {
+        // If no URL API key, check cookies and autofill
+        apiKeyInput.value = apiKeyFromCookie;
+        // Check the "Remember API Key" checkbox if needed
+        var rememberApiKeyCheckbox = document.getElementById('remember-api-key');
+        rememberApiKeyCheckbox.checked = true;
+    } else {
+        // If no URL or cookie API key, display the API key input form
+        apiKeyInput.style.display = 'block';
+    }
 
         // Function to perform the API request
         function performApiRequest(apiKey) {
