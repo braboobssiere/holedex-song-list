@@ -48,13 +48,6 @@
     var frameSizeSelect = document.getElementById('frame-size-select');
     frameSize = frameSizeSelect.value;
 
-    // Call the API request function to update the video frame with the new size
-    var apiKey = getApiKeyFromCookie();
-    if (apiKey) {
-        performApiRequest(apiKey);
-    }
-}
-
         // Function to change the topic based on user selection
         function changeTopic() {
             var selectedTopic = document.getElementById('topic').value;
@@ -127,51 +120,54 @@
         }
 
         // Function to format data
-        function formatData(jsonData) {
-            var formattedData = '';
+function formatData(jsonData) {
+    var formattedData = '';
 
-            // Iterate through the JSON data and format it
-            for (var i = 0; i < jsonData.length; i++) {
-                var item = jsonData[i];
-                var title = item.title;
-                var englishName = item.channel.english_name;
-                var availableAt = new Date(item.available_at);
-                
-                var frameWidth = '100%';
-                var frameHeight = 'auto';
-                
-                if (frameSize === '854x480') {
-                    frameWidth = '854px';
-                    frameHeight = '480px';
-                } else if (frameSize === '1280x720') {
-                    frameWidth = '1280px';
-                    frameHeight = '720px';
-                } else if (frameSize === '1920x1080') {
-                    frameWidth = '1920px';
-                    frameHeight = '1080px';
-                }
-                
-                var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
-                // Define options for the date and time formatting
-                var dateFormatOptions = {
-                    day: '2-digit',
-                    month: '2-digit',
-                    year: 'numeric',
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    second: '2-digit',
-                    hour12: false, 
-                };
+    // Iterate through the JSON data and format it
+    for (var i = 0; i < jsonData.length; i++) {
+        var item = jsonData[i];
+        var title = item.title;
+        var englishName = item.channel.english_name;
+        var availableAt = new Date(item.available_at);
 
-                // Format the available date and time in the desired format
-                var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
-
-                formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
-                formattedData += youtubeEmbedLink + '<br>';
-            }
-
-            return formattedData;
+        // Set the frame width and height based on the selected frameSize
+        var frameWidth, frameHeight;
+        if (frameSize === '854x480') {
+            frameWidth = '854px';
+            frameHeight = '480px';
+        } else if (frameSize === '1280x720') {
+            frameWidth = '1280px';
+            frameHeight = '720px';
+        } else if (frameSize === '1920x1080') {
+            frameWidth = '1920px';
+            frameHeight = '1080px';
+        } else if (frameSize === 'fit') {
+            frameWidth = '100%';
+            frameHeight = 'auto';
         }
+
+        var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
+
+        // Define options for the date and time formatting
+        var dateFormatOptions = {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit',
+            hour12: false,
+        };
+
+        // Format the available date and time in the desired format
+        var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
+
+        formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
+        formattedData += youtubeEmbedLink + '<br>';
+    }
+
+    return formattedData;
+}
     </script>
 </head>
 <body>
