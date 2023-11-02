@@ -5,23 +5,30 @@
     <title>Hololive Stream List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-      .video-container {
-        max-width: 100%;
-        position: relative;
-        padding-bottom: 56.25%;
-        /* 16:9 aspect ratio */
-      }
+<style>
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  }
 
-      .iframe-container {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-      }
+  .iframe-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 
-    </style>
+  .video-container.fit-frame {
+    max-width: 100%;
+  }
+
+  .iframe-container.fit-frame {
+    width: 100% !important;
+    height: auto !important;
+  }
+</style>
+
 
     <script>
       var frameSize = '1280x720'; // Default value 
@@ -62,8 +69,7 @@
         return getApiKeyFromCookie() || '';
       }
 
-
-// Function to change the frame size based on user selection
+      // Function to change the frame size based on user selection
 function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
   frameSize = frameSizeSelect.value;
@@ -73,33 +79,28 @@ function changeFrameSize() {
 
   // Update the width and height of iframe containers
   iframeContainers.forEach(function(container) {
+    container.classList.remove('fit-frame');
     if (frameSize === 'fit') {
-      container.style.cssText = 'width: 100% !important; height: auto !important;';
-    } else {
-      var size = frameSize.split('x');
-      container.style.cssText = 'width: ' + size[0] + 'px !important; height: ' + size[1] + 'px !important;';
+      container.classList.add('fit-frame');
     }
   });
 
   // Get all the video containers
   var videoContainers = document.querySelectorAll('.video-container');
 
-  // Remove existing iframes from the video containers
-  videoContainers.forEach(function(container) {
-    while (container.firstChild) {
-      container.removeChild(container.firstChild);
-    }
-  });
-
   // Update the max-width of video containers
   videoContainers.forEach(function(container) {
-    container.style.maxWidth = frameSize === 'fit' ? '100%' : frameSize.split('x')[0] + 'px';
+    container.classList.remove('fit-frame');
+    if (frameSize === 'fit') {
+      container.classList.add('fit-frame');
+    }
   });
 
   // Call the API with the new frame size
   performApiRequest(document.getElementById('api-key').value);
 }
 
+      
       // Function to change the topic based on user selection
       function changeTopic() {
         var selectedTopic = document.getElementById('topic').value;
