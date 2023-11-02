@@ -66,6 +66,8 @@
       // Function to change the topic based on user selection
       function changeTopic() {
         var selectedTopic = document.getElementById('topic').value;
+        // Call the API with the new topic
+        performApiRequest(document.getElementById('api-key').value);
       }
 
       // Function to call the API
