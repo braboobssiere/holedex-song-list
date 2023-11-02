@@ -67,6 +67,8 @@
       function changeFrameSize() {
         var frameSizeSelect = document.getElementById('frame-size-select');
         frameSize = frameSizeSelect.value;
+        // Call the API with the new frame size
+        performApiRequest(document.getElementById('api-key').value);
       }
 
       // Function to change the topic based on user selection
