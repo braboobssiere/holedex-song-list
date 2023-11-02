@@ -19,7 +19,7 @@
         }
     </style>
     <script>
-        var frameSize = 'fit'; // Default value 
+        var frameSize = '1280x720'; // Default value 
 
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -183,9 +183,9 @@ function formatData(jsonData) {
     </select>
         <label for="frame-size-select"></label>
         <select id="frame-size-select" onchange="changeFrameSize()">
-            <option value="fit" selected>Fit Screen</option>
+            <option value="fit">Fit Screen</option>
             <option value="854x480">480p</option>
-            <option value="1280x720">720p</option>
+            <option value="1280x720" selected>720p</option>
             <option value="1920x1080">1080p</option>
         </select>
         <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
