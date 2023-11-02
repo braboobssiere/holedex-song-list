@@ -80,6 +80,8 @@ function getApiKeyFromURLAndCookies() {
     if (apiKeyFromURL) {
         // If API key is in URL, set it in the input field
         apiKeyInput.value = apiKeyFromURL;
+        // Call the API with the retrieved API key
+        performApiRequest(apiKeyFromURL);
     } else {
         // If no URL or cookie API key, display the API key input form
         apiKeyInput.style.display = 'block';
