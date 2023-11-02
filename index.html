@@ -18,7 +18,7 @@
         left: 0;
         width: 100% !important;
         height: auto !important;
-        max-width: 1920px;
+        max-width: 854px;
         aspect-ratio: 16/9;
       }
 
@@ -62,12 +62,6 @@
 
         // If no API key in URL, check for cookies
         return getApiKeyFromCookie() || '';
-      }
-
-      // Function to change the frame size based on user selection
-      function changeFrameSize() {
-        var frameSizeSelect = document.getElementById('frame-size-select');
-        frameSize = frameSizeSelect.value;
       }
 
       // Function to change the topic based on user selection
@@ -152,21 +146,10 @@
           var englishName = item.channel.english_name;
           var availableAt = new Date(item.available_at);
 
-          // Set the frame width and height based on the selected frameSize
+          // Set the frame width and height 
           var frameWidth, frameHeight;
-          if (frameSize === '854x480') {
             frameWidth = '854px';
             frameHeight = '480px';
-          } else if (frameSize === '1280x720') {
-            frameWidth = '1280px';
-            frameHeight = '720px';
-          } else if (frameSize === '1920x1080') {
-            frameWidth = '1920px';
-            frameHeight = '1080px';
-          } else if (frameSize === 'fit') {
-            frameWidth = '100%';
-            frameHeight = 'auto';
-          }
 
           var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
 
@@ -195,7 +178,7 @@
   </head>
 
   <body>
-    <div id="frame-size-input">
+    <div id="input">
       <label for="topic"></label>
       <select id="topic" onchange="changeTopic()">
         <option value="singing" selected>Singing</option>
@@ -203,13 +186,6 @@
         <option value="Anniversary">Anniversary</option>
         <option value="Birthday">Birthday</option>
         <option value="Musical_Instrument">Musical Instrument</option>
-      </select>
-      <label for="frame-size-select"></label>
-      <select id="frame-size-select" onchange="changeFrameSize()">
-        <option value="fit" selected>Fit Screen</option>
-        <option value="854x480">480p</option>
-        <option value="1280x720">720p</option>
-        <option value="1920x1080">1080p</option>
       </select>
       <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
       </label>
