@@ -17,8 +17,8 @@
         position: absolute;
         top: 0;
         left: 0;
-        width: 100%;
-        height: 100%;
+        width: 100% !important;
+        height: 100% !important;
       }
 
     </style>
@@ -66,9 +66,27 @@
 // Function to change the frame size based on user selection
 function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
-  frameSize = frameSizeSelect.value;
-  // Call the API with the new frame size
-  performApiRequest(document.getElementById('api-key').value);
+  var frameWidth = 854;
+  var frameHeight = 480;
+
+  if (frameSizeSelect.value === '854x480') {
+    frameWidth = 854;
+    frameHeight = 480;
+  } else if (frameSizeSelect.value === '1280x720') {
+    frameWidth = 1280;
+    frameHeight = 720;
+  } else if (frameSizeSelect.value === '1920x1080') {
+    frameWidth = 1920;
+    frameHeight = 1080;
+  }
+
+  // Resize the iframe
+  var iframe = document.querySelector('.iframe-container');
+  iframe.width = frameWidth;
+  iframe.height = frameHeight;
+
+    performApiRequest(document.getElementById('api-key').value);
+
 }
       
       // Function to change the topic based on user selection
@@ -220,6 +238,9 @@ function changeFrameSize() {
     <div id="api-response"></div>
     <script>
       callApi();
+
+      var frameSizeSelect = document.getElementById('frame-size-select');
+      frameSizeSelect.addEventListener('change', changeFrameSize);
 
     </script>
   </body>
