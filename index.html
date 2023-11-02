@@ -65,11 +65,17 @@
 
       // Function to change the frame size based on user selection
       function changeFrameSize() {
-        var frameSizeSelect = document.getElementById('frame-size-select');
-        frameSize = frameSizeSelect.value;
-        // Call the API with the new frame size
-        performApiRequest(document.getElementById('api-key').value);
-      }
+  var frameSizeSelect = document.getElementById('frame-size-select');
+  frameSize = frameSizeSelect.value;
+  
+  // Loop through all iframes and update their width and height attributes
+  var iframes = document.querySelectorAll('.iframe-container');
+  for (var i = 0; i < iframes.length; i++) {
+    var iframe = iframes[i];
+    iframe.width = frameSize.split('x')[0] + 'px';
+    iframe.height = frameSize.split('x')[1] + 'px';
+  }
+}
 
       // Function to change the topic based on user selection
       function changeTopic() {
