@@ -50,13 +50,11 @@ function getApiKeyFromURLAndCookies() {
     var urlParams = new URLSearchParams(window.location.search);
     var apiKey = urlParams.get('api-key');
 
-    // Use a regular expression to match the parameter
-    var apiKeyMatch = apiKey.match(/api-key=(.*)/);
-
-    if (apiKeyMatch) {
-        // If a match is found, return the captured wildcard value
-        return apiKeyMatch[1];
+    if (apiKey) {
+        // If API key is in the URL, return it
+        return apiKey;
     }
+
     // If no API key in URL, check for cookies
     return getApiKeyFromCookie() || '';
 }
@@ -82,9 +80,6 @@ function getApiKeyFromURLAndCookies() {
     if (apiKeyFromURL) {
         // If API key is in URL, set it in the input field
         apiKeyInput.value = apiKeyFromURL;
-        // Check the "Remember API Key" checkbox if needed
-        var rememberApiKeyCheckbox = document.getElementById('remember-api-key');
-        rememberApiKeyCheckbox.checked = true;
     } else {
         // If no URL or cookie API key, display the API key input form
         apiKeyInput.style.display = 'block';
