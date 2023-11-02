@@ -45,9 +45,15 @@
 
         // Function to change the frame size based on user selection
         function changeFrameSize() {
-            var frameSizeSelect = document.getElementById('frame-size-select');
-            frameSize = frameSizeSelect.value;
-        }
+    var frameSizeSelect = document.getElementById('frame-size-select');
+    frameSize = frameSizeSelect.value;
+
+    // Call the API request function to update the video frame with the new size
+    var apiKey = getApiKeyFromCookie();
+    if (apiKey) {
+        performApiRequest(apiKey);
+    }
+}
 
         // Function to change the topic based on user selection
         function changeTopic() {
