@@ -13,14 +13,16 @@
         /* 16:9 aspect ratio */
       }
 
-      .iframe-container {
-        position: relative;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: auto !important;
-        aspect-ratio: 16/9;
-      }
+.iframe-container {  
+  width: auto !important;
+  height: auto !important;
+  max-width: {
+    '854x480': '854px',
+    '1280x720': '1280px',
+    '1920x1080': '1920px',
+  }[document.getElementById('frame-size-select').value];
+  aspect-ratio: 16/9;
+}
 
     </style>
 
