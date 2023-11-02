@@ -63,7 +63,7 @@
       }
 
 
-      // Function to change the frame size based on user selection
+// Function to change the frame size based on user selection
 function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
   frameSize = frameSizeSelect.value;
@@ -91,7 +91,7 @@ function changeFrameSize() {
     while (container.firstChild) {
       container.removeChild(container.firstChild);
     }
-  }
+  });
 
   // Update the max-width of video containers
   videoContainers.forEach(function(container) {
