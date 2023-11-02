@@ -5,29 +5,23 @@
     <title>Hololive Stream List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-  .video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  }
+    <style>
+      .video-container {
+        max-width: 100%;
+        position: relative;
+        padding-bottom: 56.25%;
+        /* 16:9 aspect ratio */
+      }
 
-  .iframe-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
+      .iframe-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
 
-  .video-container.fit-frame {
-    max-width: 100%;
-  }
-
-  .iframe-container.fit-frame {
-    width: 100% !important;
-    height: auto !important;
-  }
-</style>
+    </style>
 
 
     <script>
@@ -73,22 +67,6 @@
 function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
   frameSize = frameSizeSelect.value;
-
-  // Get all the video containers
-  var videoContainers = document.querySelectorAll('.video-container');
-
-  // Remove existing iframes from the video containers
-  videoContainers.forEach(function(container) {
-    while (container.firstChild) {
-      container.removeChild(container.firstChild);
-    }
-  });
-
-  // Update the max-width of video containers
-  videoContainers.forEach(function(container) {
-    container.style.maxWidth = frameSize === 'fit' ? '100%' : frameSize.split('x')[0] + 'px';
-  });
-
   // Call the API with the new frame size
   performApiRequest(document.getElementById('api-key').value);
 }
