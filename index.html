@@ -69,37 +69,29 @@
         return getApiKeyFromCookie() || '';
       }
 
-      // Function to change the frame size based on user selection
+// Function to change the frame size based on user selection
 function changeFrameSize() {
   var frameSizeSelect = document.getElementById('frame-size-select');
   frameSize = frameSizeSelect.value;
 
-  // Get all the iframe containers
-  var iframeContainers = document.querySelectorAll('.iframe-container');
-
-  // Update the width and height of iframe containers
-  iframeContainers.forEach(function(container) {
-    container.classList.remove('fit-frame');
-    if (frameSize === 'fit') {
-      container.classList.add('fit-frame');
-    }
-  });
-
   // Get all the video containers
   var videoContainers = document.querySelectorAll('.video-container');
 
+  // Remove existing iframes from the video containers
+  videoContainers.forEach(function(container) {
+    while (container.firstChild) {
+      container.removeChild(container.firstChild);
+    }
+  });
+
   // Update the max-width of video containers
   videoContainers.forEach(function(container) {
-    container.classList.remove('fit-frame');
-    if (frameSize === 'fit') {
-      container.classList.add('fit-frame');
-    }
+    container.style.maxWidth = frameSize === 'fit' ? '100%' : frameSize.split('x')[0] + 'px';
   });
 
   // Call the API with the new frame size
   performApiRequest(document.getElementById('api-key').value);
 }
-
       
       // Function to change the topic based on user selection
       function changeTopic() {
