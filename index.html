@@ -196,6 +196,11 @@
     <div id="api-response"></div>
     <script>
       callApi();
+      //prevent page refresh 
+      window.addEventListener('beforeunload', function (e) {
+      e.preventDefault();
+      e.returnValue = ''; // This line is required for some older browsers
+    });
 
     </script>
   </body>
