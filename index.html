@@ -197,9 +197,9 @@
     <script>
       callApi();
       //prevent page refresh 
-      window.addEventListener('beforeunload', function (e) {
-      e.preventDefault();
-      e.returnValue = ''; // This line is required for some older browsers
+      window.addEventListener('beforeunload', function (exit) {
+      exit.preventDefault();
+      exit.returnValue = '';
     });
 
     </script>
