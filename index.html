@@ -4,7 +4,7 @@
   <head>
     <title>Hololive Stream List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    
     <style>
       .video-container {
         max-width: 100%;
@@ -20,6 +20,9 @@
         max-width: 854px;
         aspect-ratio: 16/9;
       }
+          #bgm {
+      display: none; /* Hide the audio element */
+          }
 
     </style>
 
@@ -196,7 +199,8 @@
     <div id="api-response"></div>
     <script>
       callApi();
-      
+    </script>
+          
     // Create an audio element with a silent audio source and set it to muted
     const audio = new Audio();
     audio.src = "data:audio/wav;base64,UklGRnVzEhAKzKecgAOYACkCABtFAAAc6A8FWFABAABAA3IQBAAEbmAAZAA";
@@ -205,8 +209,7 @@
     // Play the audio and loop it
     audio.play();
     audio.loop = true;
-
-    </script>
+    
   </body>
 
 </html>
