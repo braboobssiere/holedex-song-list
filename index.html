@@ -197,19 +197,18 @@
       <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
     <div id="api-response"></div>
+
+      <audio id="bgm">
+    <source src="data:audio/wav;base64,UklGRnVzEhAKzKecgAOYACkCABtFAAAc6A8FWFABAABAA3IQBAAEbmAAZAA" type="audio/wav">
+      </audio>
+    
     <script>
       callApi();
-    </script>
-          
-    // Create an audio element with a silent audio source and set it to muted
-    const audio = new Audio();
-    audio.src = "data:audio/wav;base64,UklGRnVzEhAKzKecgAOYACkCABtFAAAc6A8FWFABAABAA3IQBAAEbmAAZAA";
+          // JavaScript code to play silent audio and set it to muted
+    const audio = document.getElementById("bgm");
     audio.muted = true;
-
-    // Play the audio and loop it
     audio.play();
     audio.loop = true;
-    
+    </script>
   </body>
-
 </html>
