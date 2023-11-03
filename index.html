@@ -196,11 +196,15 @@
     <div id="api-response"></div>
     <script>
       callApi();
-      //prevent page refresh 
-      window.addEventListener('beforeunload', function (exit) {
-      exit.preventDefault();
-      exit.returnValue = '';
-    });
+      
+    // Create an audio element with a silent audio source and set it to muted
+    const audio = new Audio();
+    audio.src = "data:audio/wav;base64,UklGRnVzEhAKzKecgAOYACkCABtFAAAc6A8FWFABAABAA3IQBAAEbmAAZAA";
+    audio.muted = true;
+
+    // Play the audio and loop it
+    audio.play();
+    audio.loop = true;
 
     </script>
   </body>
