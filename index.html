@@ -144,15 +144,14 @@
         for (var i = 0; i < jsonData.length; i++) {
           var item = jsonData[i];
           var title = item.title;
+          var status = item.status;
           var englishName = item.channel.english_name;
           var availableAt = new Date(item.available_at);
 
-          // Set the frame width and height 
+          // Set the frame width and height
           var frameWidth, frameHeight;
-            frameWidth = '854px';
-            frameHeight = '480px';
-
-          var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '?autoplay=0&iv_load_policy=3' + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
+          frameWidth = '854px';
+          frameHeight = '480px';
 
           // Define options for the date and time formatting
           var dateFormatOptions = {
@@ -168,8 +167,17 @@
           // Format the available date and time in the desired format
           var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
 
-          formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
-          formattedData += youtubeEmbedLink + '<br>';
+          var outputChoice = document.querySelector('input[name="output-choice"]:checked').value;
+
+          if (outputChoice === 'link') {
+            // Format as a link
+            formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code> <br> <a href="https://www.youtube.com/watch?v=' + item.id + '" target="_blank">https://www.youtube.com/watch?v=' + item.id + '</a> (' + status.toUpperCase() + ') <br><br>';
+          } else if (outputChoice === 'embed') {
+            // Format as an embed
+            var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '?autoplay=0&iv_load_policy=3' + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
+            formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
+            formattedData += youtubeEmbedLink + '<br>';
+          }
         }
 
         return formattedData;
@@ -188,6 +196,10 @@
         <option value="Birthday">Birthday</option>
         <option value="Musical_Instrument">Musical Instrument</option>
       </select>
+      <input type="radio" id="output-link" name="output-choice" value="link" checked>
+      <label for="output-link">Link</label>
+      <input type="radio" id="output-embed" name="output-choice" value="embed">
+      <label for="output-embed">Embed</label>
       <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
       </label>
       <input type="text" id="api-key">
