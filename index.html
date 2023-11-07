@@ -1,9 +1,13 @@
 <!DOCTYPE html>
+
 <html> 
 
 <head>
   <title>Hololive Stream List</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="alternate" type="application/rss+xml" title="Hololive Stream RSS" href="/rss" />
+
 
   <style>
     .video-container {
@@ -192,7 +196,9 @@
       rss += '<rss version="2.0">\n';
       rss += '  <channel>\n';
       rss += '    <title>Hololive Stream RSS</title>\n';
+
       rss += '    <link>' + window.location.origin + window.location.pathname + '</link>\n';
+
       rss += '    <description>Hololive stream updates</description>\n';
       rss += '    <language>en-us</language>\n';
 
@@ -257,5 +263,6 @@
   </script>
 </body>
 
-        </html>
-        
+
+</html>
+
