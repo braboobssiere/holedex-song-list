@@ -203,69 +203,71 @@
             xhr.send();
         }
 
-        // Function to format data
-        function formatData(jsonData) {
-            var formattedData = '';
+// Function to format data
+function formatData(jsonData) {
+    var formattedData = '';
 
-            // Iterate through the JSON data and format it
-            for (var i = 0; i < jsonData.length; i++) {
-                var item = jsonData[i];
-                var title = item.title;
-                var status = item.status;
-                var englishName = item.channel.english_name;
-                var availableAt = new Date(item.available_at);
+    // Iterate through the JSON data and format it
+    for (var i = 0; i < jsonData.length; i++) {
+        var item = jsonData[i];
+        var title = item.title;
+        var status = item.status;
+        var englishName = item.channel.english_name;
+        var availableAt = new Date(item.available_at);
 
-                // Set the frame width and height
-                var frameWidth, frameHeight;
-                frameWidth = '854px';
-                frameHeight = '480px';
+        // Set the frame width and height
+        var frameWidth, frameHeight;
+        frameWidth = '854px';
+        frameHeight = '480px';
 
-                // Define options for the date and time formatting
-                var dateFormatOptions = {
-                    day: '2-digit',
-                    month: '2-digit',
-                    year: 'numeric',
-                    hour: '2-digit',
-                    minute: '2-digit',
-                    second: '2-digit',
-                    hour12: false,
-                };
+        // Define options for the date and time formatting
+        var dateFormatOptions = {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit',
+            hour12: false,
+        };
 
-                // Format the available date and time in the desired format
-                var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
+        // Format the available date and time in the desired format
+        var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
 
-                var outputChoice = document.querySelector('input[name="output-choice"]:checked').value;
+        var outputChoice = document.querySelector('input[name="output-choice"]:checked').value;
 
-                if (outputChoice === 'link') {
-                    // Format as a link
-                    formattedData += '<div class="video-card">';
-                    formattedData += '<div class="video-thumbnail">';
-                    formattedData += '<img src="https://img.youtube.com/vi/' + item.id + '/maxresdefault.jpg" alt="' + title + '">';
-                    formattedData += '</div>';
-                    formattedData += '<div class="video-info">';
-                    formattedData += '<div class="video-title">' + title + '</div>';
-                    formattedData += '<div class="video-channel">' + englishName + '</div>';
-                    formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
-                    formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
-                    formattedData += '</div>';
-                    formattedData += '</div>';
-                } else if (outputChoice === 'embed') {
-                    // Format as an embed
-                    var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '?autoplay=0&iv_load_policy=3' + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
-                    formattedData += '<div class="video-card">';
-                    formattedData += '<div class="video-info">';
-                    formattedData += '<div class="video-title">' + title + '</div>';
-                    formattedData += '<div class="video-channel">' + englishName + '</div>';
-                    formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
-                    formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
-                    formattedData += '</div>';
-                    formattedData += youtubeEmbedLink;
-                    formattedData += '</div>';
-                }
-            }
-
-            return formattedData;
+        if (outputChoice === 'link') {
+            // Format as a link
+            formattedData += '<div class="video-card">';
+            formattedData += '<a href="https://www.youtube.com/watch?v=' + item.id + '" target="_blank">';
+            formattedData += '<div class="video-thumbnail">';
+            formattedData += '<img src="https://img.youtube.com/vi/' + item.id + '/maxresdefault.jpg" alt="' + title + '">';
+            formattedData += '</div>';
+            formattedData += '</a>';
+            formattedData += '<div class="video-info">';
+            formattedData += '<div class="video-title">' + title + '</div>';
+            formattedData += '<div class="video-channel">' + englishName + '</div>';
+            formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
+            formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
+            formattedData += '</div>';
+            formattedData += '</div>';
+        } else if (outputChoice === 'embed') {
+            // Format as an embed
+            var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '?autoplay=0&iv_load_policy=3' + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
+            formattedData += '<div class="video-card">';
+            formattedData += '<div class="video-info">';
+            formattedData += '<div class="video-title">' + title + '</div>';
+            formattedData += '<div class="video-channel">' + englishName + '</div>';
+            formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
+            formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
+            formattedData += '</div>';
+            formattedData += youtubeEmbedLink;
+            formattedData += '</div>';
         }
+    }
+
+    return formattedData;
+}
     </script>
 </head>
 
