@@ -34,22 +34,28 @@ body {
             grid-gap: 20px;
         }
 
-        .video-card {
-            background-color: #ffffff;
-            border-radius: 5px;
-            overflow: hidden;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
+.video-card {
+    display: flex; /* Use flexbox */
+    flex-direction: column; /* Stack items vertically */
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
 
-        .video-thumbnail img {
-            width: 100%;
-            height: auto;
-            border-bottom: 1px solid #eee;
-        }
+.video-thumbnail img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #eee;
+    flex-shrink: 0; /* Prevent image from shrinking */
+}
 
-        .video-info {
-            padding: 10px;
-        }
+.video-info {
+    padding: 10px;
+    display: flex; /* Use flexbox */
+    flex-direction: column; /* Stack items vertically */
+    flex-grow: 1; /* Expand to fill remaining space */
+}
 
         .video-title {
             font-size: 18px;
