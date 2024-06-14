@@ -15,9 +15,10 @@
 
         #header {
             background-color: #ff0000;
-            padding: 10px;
+            padding: 5px 10px;
             text-align: center;
             color: white;
+            font-size: 24px;
         }
 
         #container {
@@ -63,11 +64,35 @@
             font-size: 14px;
             color: #333;
             margin-top: 5px;
+            display: inline-block;
+        }
+
+        .video-date-time {
+            font-size: 14px;
+            color: #777;
+            display: inline-block;
+            margin-right: 10px;
         }
     </style>
 
+    <script src="topics.js"></script>
     <script>
-        var frameSize = 'fit'; // Default value 
+        // Function to populate the topic select dropdown
+        function populateTopics() {
+            var topicSelect = document.getElementById('topic');
+            topics.forEach(function(topic) {
+                var option = document.createElement('option');
+                option.value = topic.value;
+                option.textContent = topic.label;
+                topicSelect.appendChild(option);
+            });
+        }
+
+        // Call the populateTopics function when the page loads
+        window.onload = function() {
+            populateTopics();
+            callApi();
+        };
 
         // Function to get the API key from cookies
         function getApiKeyFromCookie() {
@@ -220,6 +245,7 @@
                     formattedData += '<div class="video-info">';
                     formattedData += '<div class="video-title">' + title + '</div>';
                     formattedData += '<div class="video-channel">' + englishName + '</div>';
+                    formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
                     formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
                     formattedData += '</div>';
                     formattedData += '</div>';
@@ -230,6 +256,7 @@
                     formattedData += '<div class="video-info">';
                     formattedData += '<div class="video-title">' + title + '</div>';
                     formattedData += '<div class="video-channel">' + englishName + '</div>';
+                    formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
                     formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
                     formattedData += '</div>';
                     formattedData += youtubeEmbedLink;
@@ -242,22 +269,15 @@
     </script>
 </head>
 
-<body onload="callApi()">
+<body>
     <div id="header">
-        <h1>Hololive Stream List</h1>
+        Hololive Stream List
     </div>
     <div id="container">
         <div id="input">
             <label for="topic">Select Topic:</label>
             <select id="topic" onchange="changeTopic()">
-                <option value="singing" selected>Singing</option>
-                <option value="asmr">ASMR</option>
-                <option value="Anniversary">Anniversary</option>
-                <option value="Birthday">Birthday</option>
-                <option value="Musical_Instrument">Musical Instrument</option>
-                <option value="Original_Song">Original</option>
-                <option value="Music_Cover">Cover</option>
-                <option value="3D_Stream">3D LIVE</option>
+                <!-- Topics will be dynamically populated here -->
             </select>
             <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
             <label for="output-link" hidden>Link</label>
