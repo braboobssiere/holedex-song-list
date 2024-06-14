@@ -13,20 +13,6 @@ body {
     background-color: #7ec8ed; /* Light blue background */
 }
 
-        #input {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.input-group label {
-    margin-right: 5px;
-}
-
-.input-group input[type="text"],
-.input-group button {
-    height: 30px;
-}
 
 #header {
     background-color: white; /* White header background */
@@ -73,7 +59,6 @@ body {
         .video-channel {
             font-size: 14px;
             color: #777;
-            display: inline-block;
         }
 
         .video-status {
@@ -292,19 +277,19 @@ function formatData(jsonData) {
         Hololive Stream List
     </div>
     <div id="container">
-<div id="input">
-    <div class="input-group">
-        <label for="topic">Select Topic:</label>
-        <select id="topic" onchange="changeTopic()">
-            <!-- Topics will be dynamically populated here -->
-        </select>
-    </div>
-    <div class="input-group">
-        <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
-        <input type="text" id="api-key">
-        <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
-    </div>
-</div>
+        <div id="input">
+            <label for="topic">Select Topic:</label>
+            <select id="topic" onchange="changeTopic()">
+                <!-- Topics will be dynamically populated here -->
+            </select>
+            <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
+            <label for="output-link" hidden>Link</label>
+            <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
+            <label for="output-embed" hidden>Video</label>
+            <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
+            <input type="text" id="api-key">
+            <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
+        </div>
         <div id="video-list">
             <!-- Video cards will be dynamically populated here -->
         </div>
