@@ -34,6 +34,18 @@ body {
             grid-gap: 20px;
         }
 
+        .input-container {
+    display: flex;
+    align-items: center; /* Align items vertically */
+}
+
+.input-container label,
+.input-container select,
+.input-container input[type="text"],
+.input-container button {
+    margin-right: 10px; /* Adjust margin between elements */
+}
+
         .video-card {
             background-color: #ffffff;
             border-radius: 5px;
@@ -277,19 +289,19 @@ function formatData(jsonData) {
         Hololive Stream List
     </div>
     <div id="container">
-        <div id="input">
-            <label for="topic">Select Topic:</label>
-            <select id="topic" onchange="changeTopic()">
-                <!-- Topics will be dynamically populated here -->
-            </select>
-            <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
-            <label for="output-link" hidden>Link</label>
-            <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
-            <label for="output-embed" hidden>Video</label>
-            <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
-            <input type="text" id="api-key">
-            <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
-        </div>
+    <div id="input" class="input-container">
+        <label for="topic">Select Topic:</label>
+        <select id="topic" onchange="changeTopic()">
+            <!-- Topics will be dynamically populated here -->
+        </select>
+        <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
+        <label for="output-link" hidden>Link</label>
+        <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
+        <label for="output-embed" hidden>Video</label>
+        <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
+        <input type="text" id="api-key">
+        <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
+    </div>
         <div id="video-list">
             <!-- Video cards will be dynamically populated here -->
         </div>
