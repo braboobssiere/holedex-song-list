@@ -1,96 +1,31 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  
+  <head>
     <title>Hololive Stream List</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="max-age=900">
+    <meta http-equiv="Cache-Control" content="max-age=900">    
     <style>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #7ec8ed; /* Light blue background */
-}
+      .video-container {
+        max-width: 100%;
+        position: relative;
+      }
 
+      .iframe-container {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+        max-width: 854px;
+        aspect-ratio: 16/9;
+      }
 
-#header {
-    background-color: white; /* White header background */
-    padding: 10px;
-    text-align: center;
-    color: #46c2f2; /* Blue text color */
-    font-size: 24px;
-}
-
-        #container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        #video-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            grid-gap: 20px;
-        }
-
-   .input-container {
-    display: flex;
-    align-items: center; /* Align items vertically */
-    margin-bottom: 10px; /* Add margin bottom */
-}
-
-.input-container label,
-.input-container select,
-.input-container input[type="text"],
-.input-container button {
-    margin-right: 10px; /* Adjust margin between elements */
-}
-
-        .video-card {
-            background-color: #ffffff;
-            border-radius: 5px;
-            overflow: hidden;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        .video-thumbnail img {
-            width: 100%;
-            height: auto;
-            border-bottom: 1px solid #eee;
-        }
-
-        .video-info {
-            padding: 10px;
-        }
-
-        .video-title {
-            font-size: 18px;
-            margin: 5px 0;
-        }
-
-        .video-channel {
-            font-size: 14px;
-            color: #777;
-        }
-
-        .video-status {
-            font-size: 14px;
-            color: #333;
-            margin-top: 5px;
-            display: inline-block;
-        }
-
-        .video-date-time {
-            font-size: 14px;
-            color: #777;
-            display: inline-block;
-            margin-right: 10px;
-        }
     </style>
 
     <script src="topics.js"></script>
     <script>
+        var frameSize = 'fit'; // Default value 
         // Function to populate the topic select dropdown
         function populateTopics() {
             var topicSelect = document.getElementById('topic');
@@ -107,135 +42,135 @@ body {
             populateTopics();
             callApi();
         };
+        
+      // Function to get the API key from cookies
+      function getApiKeyFromCookie() {
+        var name = "apiKey=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var cookieArray = decodedCookie.split(';');
+        for (var i = 0; i < cookieArray.length; i++) {
+          var cookie = cookieArray[i].trim();
+          if (cookie.indexOf(name) === 0) {
+            return cookie.substring(name.length);
+          }
+        }
+        return "";
+      }
 
-        // Function to get the API key from cookies
-        function getApiKeyFromCookie() {
-            var name = "apiKey=";
-            var decodedCookie = decodeURIComponent(document.cookie);
-            var cookieArray = decodedCookie.split(';');
-            for (var i = 0; i < cookieArray.length; i++) {
-                var cookie = cookieArray[i].trim();
-                if (cookie.indexOf(name) === 0) {
-                    return cookie.substring(name.length);
-                }
-            }
-            return "";
+      // Function to set the API key in cookies
+      function setApiKeyInCookie(apiKey) {
+        var d = new Date();
+        d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // Cookie expires in 1 year
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = "apiKey=" + apiKey + "; " + expires;
+      }
+
+      // Function to get API key from URL parameters or cookies
+      function getApiKeyFromURLAndCookies() {
+        var urlParams = new URLSearchParams(window.location.search);
+        var apiKey = urlParams.get('api-key');
+
+        if (apiKey) {
+          // If API key is in the URL, return it
+          return apiKey;
         }
 
-        // Function to set the API key in cookies
-        function setApiKeyInCookie(apiKey) {
-            var d = new Date();
-            d.setTime(d.getTime() + (365 * 24 * 60 * 60 * 1000)); // Cookie expires in 1 year
-            var expires = "expires=" + d.toUTCString();
-            document.cookie = "apiKey=" + apiKey + "; " + expires;
+        // If no API key in URL, check for cookies
+        return getApiKeyFromCookie() || '';
+      }
+
+      // Function to change the topic based on user selection
+      function changeTopic() {
+        var selectedTopic = document.getElementById('topic').value;
+        // Call the API with the new topic
+        performApiRequest(document.getElementById('api-key').value);
+      }
+
+      // Function to call the API
+      function callApi() {
+        var apiKeyInput = document.getElementById('api-key');
+        // Get API key from URL
+        var apiKeyFromURL = getApiKeyFromURLAndCookies();
+
+        if (apiKeyFromURL) {
+          // If API key is in URL, set it in the input field
+          apiKeyInput.value = apiKeyFromURL;
+          // Call the API with the retrieved API key
+          performApiRequest(apiKeyFromURL);
+        } else {
+          // If no URL or cookie API key, display the API key input form
+          apiKeyInput.style.display = 'block';
         }
+      }
 
-        // Function to get API key from URL parameters or cookies
-        function getApiKeyFromURLAndCookies() {
-            var urlParams = new URLSearchParams(window.location.search);
-            var apiKey = urlParams.get('api-key');
+      // Function to perform the API request
+      function performApiRequest(apiKey) {
 
-            if (apiKey) {
-                // If API key is in the URL, return it
-                return apiKey;
-            }
+        // Get the selected topic
+        var selectedTopic = document.getElementById('topic').value;
 
-            // If no API key in URL, check for cookies
-            return getApiKeyFromCookie() || '';
-        }
+        // API endpoint URL
+        var apiUrl = 'https://holodex.net/api/v2/videos';
 
-        // Function to change the topic based on user selection
-        function changeTopic() {
-            var selectedTopic = document.getElementById('topic').value;
-            // Call the API with the new topic
-            performApiRequest(document.getElementById('api-key').value);
-        }
+        // Query parameters
+        var queryParams = {
+          type: 'stream',
+          topic: selectedTopic,
+          org: 'Hololive',
+          limit: 50,
+          max_upcoming_hours: 18
+        };
 
-        // Function to call the API
-        function callApi() {
-            var apiKeyInput = document.getElementById('api-key');
-            // Get API key from URL
-            var apiKeyFromURL = getApiKeyFromURLAndCookies();
+        // Construct the query string
+        var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
 
-            if (apiKeyFromURL) {
-                // If API key is in URL, set it in the input field
-                apiKeyInput.value = apiKeyFromURL;
-                // Call the API with the retrieved API key
-                performApiRequest(apiKeyFromURL);
-            } else {
-                // If no URL or cookie API key, display the API key input form
-                apiKeyInput.style.display = 'block';
-            }
-        }
+        // Create a new XMLHttpRequest
+        var xhr = new XMLHttpRequest();
 
-        // Function to perform the API request
-        function performApiRequest(apiKey) {
+        // Open a GET request to the API endpoint with the query string
+        xhr.open('GET', apiUrl + '?' + queryString, true);
 
-            // Get the selected topic
-            var selectedTopic = document.getElementById('topic').value;
+        // Set the X-APIKEY header
+        xhr.setRequestHeader('X-APIKEY', apiKey);
 
-            // API endpoint URL
-            var apiUrl = 'https://holodex.net/api/v2/videos';
+        // Define the function to handle the API response
+        xhr.onreadystatechange = function() {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            // Parse the JSON response
+            var response = JSON.parse(xhr.responseText);
 
-            // Query parameters
-            var queryParams = {
-                type: 'stream',
-                topic: selectedTopic,
-                org: 'Hololive',
-                limit: 50,
-                max_upcoming_hours: 18
-            };
+            // Display the formatted data on the webpage
+            var responseElement = document.getElementById('api-response');
+            responseElement.innerHTML = formatData(response);
 
-            // Construct the query string
-            var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
+            // Save the API key in cookies 
+            setApiKeyInCookie(apiKey);
+          }
+        };
 
-            // Create a new XMLHttpRequest
-            var xhr = new XMLHttpRequest();
+        // Send the API request
+        xhr.send();
+      }
 
-            // Open a GET request to the API endpoint with the query string
-            xhr.open('GET', apiUrl + '?' + queryString, true);
+      // Function to format data
+      function formatData(jsonData) {
+        var formattedData = '';
 
-            // Set the X-APIKEY header
-            xhr.setRequestHeader('X-APIKEY', apiKey);
+        // Iterate through the JSON data and format it
+        for (var i = 0; i < jsonData.length; i++) {
+          var item = jsonData[i];
+          var title = item.title;
+          var status = item.status;
+          var englishName = item.channel.english_name;
+          var availableAt = new Date(item.available_at);
 
-            // Define the function to handle the API response
-            xhr.onreadystatechange = function() {
-                if (xhr.readyState === 4 && xhr.status === 200) {
-                    // Parse the JSON response
-                    var response = JSON.parse(xhr.responseText);
+          // Set the frame width and height
+          var frameWidth, frameHeight;
+          frameWidth = '854px';
+          frameHeight = '480px';
 
-                    // Display the formatted data on the webpage
-                    var responseElement = document.getElementById('video-list');
-                    responseElement.innerHTML = formatData(response);
-
-                    // Save the API key in cookies 
-                    setApiKeyInCookie(apiKey);
-                }
-            };
-
-            // Send the API request
-            xhr.send();
-        }
-
-// Function to format data
-function formatData(jsonData) {
-    var formattedData = '';
-
-    // Iterate through the JSON data and format it
-    for (var i = 0; i < jsonData.length; i++) {
-        var item = jsonData[i];
-        var title = item.title;
-        var status = item.status;
-        var englishName = item.channel.english_name;
-        var availableAt = new Date(item.available_at);
-
-        // Set the frame width and height
-        var frameWidth, frameHeight;
-        frameWidth = '854px';
-        frameHeight = '480px';
-
-        // Define options for the date and time formatting
-        var dateFormatOptions = {
+          // Define options for the date and time formatting
+          var dateFormatOptions = {
             day: '2-digit',
             month: '2-digit',
             year: 'numeric',
@@ -243,70 +178,53 @@ function formatData(jsonData) {
             minute: '2-digit',
             second: '2-digit',
             hour12: false,
-        };
+          };
 
-        // Format the available date and time in the desired format
-        var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
+          // Format the available date and time in the desired format
+          var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
 
-        var outputChoice = document.querySelector('input[name="output-choice"]:checked').value;
+          var outputChoice = document.querySelector('input[name="output-choice"]:checked').value;
 
-        if (outputChoice === 'link') {
+          if (outputChoice === 'link') {
             // Format as a link
-            formattedData += '<div class="video-card">';
-            formattedData += '<a href="https://www.youtube.com/watch?v=' + item.id + '" target="_blank">';
-            formattedData += '<div class="video-thumbnail">';
-            formattedData += '<img src="https://img.youtube.com/vi/' + item.id + '/maxresdefault.jpg" alt="' + title + '">';
-            formattedData += '</div>';
-            formattedData += '</a>';
-            formattedData += '<div class="video-info">';
-            formattedData += '<div class="video-title">' + title + '</div>';
-            formattedData += '<div class="video-channel">' + englishName + '</div>';
-            formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
-            formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
-            formattedData += '</div>';
-            formattedData += '</div>';
-        } else if (outputChoice === 'embed') {
+            formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + ' (' + status.toUpperCase() + ')</code> <br>';
+            formattedData += '<div style="position: relative; max-width: 854px; overflow: hidden;">';
+            formattedData += '<a href="https://www.youtube.com/watch?v=' + item.id + '" target="_blank" style="display: block; position: relative;">';
+            formattedData += '<img style="max-width: 100%; height: auto; width: 100%;" src="https://img.youtube.com/vi/' + item.id + '/maxresdefault.jpg" alt="' + title + '">';
+            // formattedData += '<img src="yt_icon_rgb.png" alt="' + title + '" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 20%; height: auto;">';
+            formattedData += '</a></div> <br><br>';
+          } else if (outputChoice === 'embed') {
             // Format as an embed
             var youtubeEmbedLink = '<div class="video-container"><iframe class="iframe-container" src="https://www.youtube.com/embed/' + item.id + '?autoplay=0&iv_load_policy=3' + '" frameborder="0" allowfullscreen width="' + frameWidth + '" height="' + frameHeight + '"></iframe></div>';
-            formattedData += '<div class="video-card">';
-            formattedData += '<div class="video-info">';
-            formattedData += '<div class="video-title">' + title + '</div>';
-            formattedData += '<div class="video-channel">' + englishName + '</div>';
-            formattedData += '<div class="video-date-time">' + localDateFormat + '</div>';
-            formattedData += '<div class="video-status">' + status.toUpperCase() + '</div>';
-            formattedData += '</div>';
-            formattedData += youtubeEmbedLink;
-            formattedData += '</div>';
+            formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + '</code><br>';
+            formattedData += youtubeEmbedLink + '<br>';
+          }
         }
-    }
 
-    return formattedData;
-}
+        return formattedData;
+      }
+
     </script>
-</head>
+  </head>
 
-<body>
-    <div id="header">
-        Hololive Stream List
+  <body>
+    <div id="input">
+      <label for="topic"></label>
+      <select id="topic" onchange="changeTopic()">
+      </select>      <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
+      <label for="output-link" hidden>Link</label>
+      <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
+      <label for="output-embed" hidden>Video</label>
+      <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
+      </label>
+      <input type="text" id="api-key">
+      <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
     </div>
-    <div id="container">
-    <div id="input" class="input-container">
-        <label for="topic">Select Topic:</label>
-        <select id="topic" onchange="changeTopic()">
-            <!-- Topics will be dynamically populated here -->
-        </select>
-        <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
-        <label for="output-link" hidden>Link</label>
-        <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
-        <label for="output-embed" hidden>Video</label>
-        <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
-        <input type="text" id="api-key">
-        <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
-    </div>
-        <div id="video-list">
-            <!-- Video cards will be dynamically populated here -->
-        </div>
-    </div>
-</body>
+    <div id="api-response"></div>
+    <script>
+      callApi();
+
+    </script>
+  </body>
 
 </html>
