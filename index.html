@@ -35,51 +35,42 @@ body {
         }
 
 .video-card {
-    display: flex; /* Use flexbox */
-    flex-direction: column; /* Stack items vertically */
+    display: flex;
+    flex-direction: column;
     background-color: #ffffff;
     border-radius: 5px;
     overflow: hidden;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 300px; /* Set a fixed height for all cards */
+}
+
+.video-thumbnail {
+    flex: 0 0 60%; /* Image takes up 60% of card height */
 }
 
 .video-thumbnail img {
     width: 100%;
-    height: auto;
-    border-bottom: 1px solid #eee;
-    flex-shrink: 0; /* Prevent image from shrinking */
+    height: 100%;
+    object-fit: cover; /* Maintain aspect ratio */
 }
 
 .video-info {
     padding: 10px;
-    display: flex; /* Use flexbox */
-    flex-direction: column; /* Stack items vertically */
-    flex-grow: 1; /* Expand to fill remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Vertically align items */
+    flex: 1; /* Take up remaining space */
 }
 
-        .video-title {
-            font-size: 18px;
-            margin: 5px 0;
-        }
-
-        .video-channel {
-            font-size: 14px;
-            color: #777;
-        }
-
-        .video-status {
-            font-size: 14px;
-            color: #333;
-            margin-top: 5px;
-            display: inline-block;
-        }
-
-        .video-date-time {
-            font-size: 14px;
-            color: #777;
-            display: inline-block;
-            margin-right: 10px;
-        }
+.video-channel,
+.video-date-time,
+.video-status {
+    font-size: 14px;
+    color: #777;
+    overflow: hidden;
+    text-overflow: ellipsis; /* Add ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+}
     </style>
 
     <script src="topics.js"></script>
