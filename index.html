@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="max-age=900">
     <style>
+
       body {
         font-family: Arial, sans-serif;
         margin: 0;
@@ -93,6 +94,8 @@
         display: inline-block;
         margin-right: 10px;
       }
+
+
 
     </style>
 
@@ -298,10 +301,13 @@
       Hololive Stream List
     </div>
     <div id="container">
+
       <div id="input" class="input-container">
         <label for="topic">Select Topic:</label>
         <select id="topic" onchange="changeTopic()">
           <!-- Topics will be dynamically populated here -->
+
+
         </select>
         <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
         <label for="output-link" hidden>Link</label>
@@ -310,10 +316,13 @@
         <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
         <input type="text" id="api-key">
         <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
+
       </div>
       <div id="video-list">
         <!-- Video cards will be dynamically populated here -->
       </div>
+
+
     </div>
   </body>
 
