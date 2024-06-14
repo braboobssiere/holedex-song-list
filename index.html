@@ -6,106 +6,99 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Cache-Control" content="max-age=900">
     <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #7ec8ed;
-        /* Light blue background */
-      }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #7ec8ed;
+}
 
+#header {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    color: #46c2f2;
+    font-size: 24px;
+}
 
-      #header {
-        background-color: white;
-        /* White header background */
-        padding: 10px;
-        text-align: center;
-        color: #46c2f2;
-        /* Blue text color */
-        font-size: 24px;
-      }
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
-      #container {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 20px;
-      }
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
 
-      #video-list {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-        grid-gap: 20px;
-      }
+.input-container label,
+.input-container select,
+.input-container input[type="text"],
+.input-container button {
+    margin-right: 10px;
+}
 
-      .input-container {
-        display: flex;
-        align-items: center;
-        /* Align items vertically */
-        margin-bottom: 10px;
-        /* Add margin bottom */
-      }
+.video-card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
 
-      .input-container label,
-      .input-container select,
-      .input-container input[type="text"],
-      .input-container button {
-        margin-right: 10px;
-        /* Adjust margin between elements */
-      }
+.video-thumbnail img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #eee;
+}
 
-      .video-card {
-        background-color: #ffffff;
-        border-radius: 5px;
-        overflow: hidden;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      }
+.video-info {
+    padding: 10px;
+}
 
-      .video-thumbnail img {
-        width: 100%;
-        height: auto;
-        border-bottom: 1px solid #eee;
-      }
+.video-title {
+    font-size: 18px;
+    margin: 5px 0;
+}
 
-      .video-info {
-        padding: 10px;
-      }
+.video-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Distribute space between elements */
+}
 
-      .video-title {
-        font-size: 18px;
-        margin: 5px 0;
-      }
+.video-details > * {
+    margin-right: 10px;
+    margin-bottom: 5px; /* Add margin-bottom for spacing */
+}
 
-      .video-channel {
-        font-size: 14px;
-        color: #777;
-      }
+.video-details > :last-child {
+    margin-right: 0;
+}
 
-      .video-status {
-        font-size: 14px;
-        color: #333;
-        margin-top: 5px;
-        display: inline-block;
-      }
+.video-status {
+    align-self: flex-start; /* Align the status with other elements */
+    margin-bottom: 0; /* Reset margin-bottom */
+}
 
-      .video-date-time {
-        font-size: 14px;
-        color: #777;
-        display: inline-block;
-        margin-right: 10px;
-      }
+.video-channel {
+    font-size: 14px;
+    color: #777;
+}
 
-      .video-details {
-        display: flex;
-        align-items: center;
-      }
+.video-date-time {
+    font-size: 14px;
+    color: #777;
+}
 
-      .video-details>* {
-        margin-right: 10px;
-      }
+.video-status {
+    font-size: 14px;
+    color: #333;
+    align-self: flex-start; /* Align the status with other elements */
+    margin-bottom: 0; /* Reset margin-bottom */
+}
 
-      .video-details> :last-child {
-        margin-right: 0;
-      }
 
     </style>
 
