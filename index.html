@@ -46,6 +46,8 @@ body {
 
 .video-thumbnail {
     flex: 0 0 60%; /* Image takes up 60% of card height */
+    max-height: 60%; /* Set max height for the image */
+    overflow: hidden; /* Hide overflow */
 }
 
 .video-thumbnail img {
@@ -57,9 +59,15 @@ body {
 .video-info {
     padding: 10px;
     display: flex;
-    flex-direction: column;
-    justify-content: space-between; /* Vertically align items */
+    flex-wrap: wrap; /* Allow items to wrap */
+    justify-content: space-between; /* Align items */
     flex: 1; /* Take up remaining space */
+}
+
+.video-title {
+    flex-basis: 100%; /* Allow title to take full width */
+    margin-bottom: 5px; /* Add margin */
+    font-size: 18px;
 }
 
 .video-channel,
