@@ -42,9 +42,9 @@ function populateTopics() {
 }
 
         // Call the populateTopics function when the page loads
-      document.addEventListener('DOMContentLoaded', function() {
-        populateTopics();
-        callApi();
+        window.onload = function() {
+            populateTopics();
+            callApi();
         };
         
       // Function to get the API key from cookies
