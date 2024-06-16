@@ -23,15 +23,10 @@
 
     </style>
 
-    <script src="topics.js" defer></script>
+    <script src="topics.js"></script>
     <script>
         var frameSize = 'fit'; // Default value 
 
-        // Call the populateTopics function when the page loads
-window.onload = function() {
-    populateTopics();
-};
-      
       // Function to populate the topic select dropdown
 function populateTopics() {
     var topicSelect = document.getElementById('topic');
@@ -43,9 +38,14 @@ function populateTopics() {
             option.selected = true; // Set the first option as selected
         }
         topicSelect.appendChild(option);
-    })
-      callApi();
-      }
+    });
+}
+
+        // Call the populateTopics function when the page loads
+        window.onload = function() {
+            populateTopics();
+            callApi();
+        };
         
       // Function to get the API key from cookies
       function getApiKeyFromCookie() {
