@@ -39,7 +39,10 @@
         topicSelect.appendChild(option);
       });
       // Call the API after populating topics dropdown
-      callApi();
+document.addEventListener('DOMContentLoaded', function() {
+  populateTopics();
+  callApi();
+});
     }
 
     // Function to get the API key from cookies
