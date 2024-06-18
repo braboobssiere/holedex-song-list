@@ -103,54 +103,74 @@ function callApi() {
   }
 }
 
-    // Function to perform the API request
-    function performApiRequest(apiKey) {
+// Function to perform the API request
+function performApiRequest(apiKey) {
+  // Get the selected topic
+  var selectedTopic = document.getElementById('topic').value;
 
-      // Get the selected topic
-      var selectedTopic = document.getElementById('topic').value;
+  // API endpoint URL
+  var apiUrl = 'https://holodex.net/api/v2/videos';
 
-      // API endpoint URL
-      var apiUrl = 'https://holodex.net/api/v2/videos';
+  // Query parameters
+  var queryParams = {
+    type: 'stream',
+    topic: selectedTopic,
+    org: 'Hololive',
+    limit: 50,
+    max_upcoming_hours: 18
+  };
 
-      // Query parameters
-      var queryParams = {
-        type: 'stream',
-        topic: selectedTopic,
-        org: 'Hololive',
-        limit: 50,
-        max_upcoming_hours: 18
-      };
+  // Construct the query string
+  var queryString = Object.keys(queryParams)
+    .map(key => key + '=' + encodeURIComponent(queryParams[key]))
+    .join('&');
 
-      // Construct the query string
-      var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
+  // Create a new XMLHttpRequest
+  var xhr = new XMLHttpRequest();
 
-      // Create a new XMLHttpRequest
-      var xhr = new XMLHttpRequest();
+  // Open a GET request to the API endpoint with the query string
+  xhr.open('GET', apiUrl + '?' + queryString, true);
 
-      // Open a GET request to the API endpoint with the query string
-      xhr.open('GET', apiUrl + '?' + queryString, true);
+  // Set the X-APIKEY header
+  xhr.setRequestHeader('X-APIKEY', apiKey);
 
-      // Set the X-APIKEY header
-      xhr.setRequestHeader('X-APIKEY', apiKey);
+  // Define the function to handle the API response
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) {
+      if (xhr.status === 200) {
+        // Parse the JSON response
+        var response = JSON.parse(xhr.responseText);
 
-      // Define the function to handle the API response
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-          // Parse the JSON response
-          var response = JSON.parse(xhr.responseText);
+        // Display the formatted data on the webpage
+        var responseElement = document.getElementById('api-response');
+        responseElement.innerHTML = formatData(response);
 
-          // Display the formatted data on the webpage
-          var responseElement = document.getElementById('api-response');
-          responseElement.innerHTML = formatData(response);
+        // Save the API key in localStorage
+        setApiKeyInLocalStorage(apiKey);
+      } else {
+        // Handle HTTP errors
+        var errorMessage = 'Error: ' + xhr.status + ' ' + xhr.statusText;
+        console.error(errorMessage);
 
-          // Save the API key in localStorage
-          setApiKeyInLocalStorage(apiKey);
-        }
-      };
-
-      // Send the API request
-      xhr.send();
+        // Display error message to user
+        var responseElement = document.getElementById('api-response');
+        responseElement.innerHTML = '<div style="color: red;">' + errorMessage + '</div>';
+      }
     }
+  };
+
+  // Handle network errors
+  xhr.onerror = function() {
+    console.error('Network request failed');
+
+    // Display error message to user
+    var responseElement = document.getElementById('api-response');
+    responseElement.innerHTML = '<div style="color: red;">Network request failed. Please check your internet connection.</div>';
+  };
+
+  // Send the API request
+  xhr.send();
+}
 
     // Function to format data
     function formatData(jsonData) {
@@ -235,9 +255,6 @@ function toggleApiKeyVisibility() {
     <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
 </div>
   <div id="api-response"></div>
-  <script>
-    callApi();
-  </script>
 </body>
 
 </html>
