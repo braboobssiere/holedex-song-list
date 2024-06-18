@@ -77,22 +77,31 @@
       performApiRequest(document.getElementById('api-key').value);
     }
 
-    // Function to call the API
-    function callApi() {
-      var apiKeyInput = document.getElementById('api-key');
-      // Get API key from URL or localStorage
-      var apiKeyFromURL = getApiKeyFromURLAndLocalStorage();
+// Function to call the API
+function callApi() {
+  var apiKeyInput = document.getElementById('api-key');
+  // Get API key from URL or localStorage
+  var apiKeyFromURL = getApiKeyFromURLAndLocalStorage();
 
-      if (apiKeyFromURL) {
-        // If API key is in URL, set it in the input field
-        apiKeyInput.value = apiKeyFromURL;
-        // Call the API with the retrieved API key
-        performApiRequest(apiKeyFromURL);
-      } else {
-        // If no URL or localStorage API key, display the API key input form
-        apiKeyInput.style.display = 'block';
-      }
+  if (apiKeyFromURL) {
+    // If API key is in URL, set it in the input field
+    apiKeyInput.value = apiKeyFromURL;
+    // Call the API with the retrieved API key
+    performApiRequest(apiKeyFromURL);
+  } else {
+    // Check if API key is stored in localStorage
+    var apiKeyFromLocalStorage = getApiKeyFromLocalStorage();
+    if (apiKeyFromLocalStorage) {
+      // If API key is in localStorage, autofill the input field
+      apiKeyInput.value = apiKeyFromLocalStorage;
+      // Call the API with the retrieved API key
+      performApiRequest(apiKeyFromLocalStorage);
+    } else {
+      // If no URL or localStorage API key, display the API key input form
+      apiKeyInput.style.display = 'block';
     }
+  }
+}
 
     // Function to perform the API request
     function performApiRequest(apiKey) {
@@ -194,6 +203,19 @@
 
       return formattedData;
     }
+
+    // Function to toggle API key visibility
+function toggleApiKeyVisibility() {
+  var apiKeyInput = document.getElementById('api-key');
+  var showApiKeyCheckbox = document.getElementById('show-api-key');
+
+  if (showApiKeyCheckbox.checked) {
+    apiKeyInput.type = 'text'; // Show API key as plain text
+  } else {
+    apiKeyInput.type = 'password'; // Hide API key
+  }
+}
+
   </script>
 </head>
 
@@ -209,6 +231,8 @@
     <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
     </label>
     <input type="password" id="api-key" placeholder="Enter your API key">
+    <input type="checkbox" id="show-api-key" onchange="toggleApiKeyVisibility()">
+    <label for="show-api-key">Revealed API Key</label>
     <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
   </div>
   <div id="api-response"></div>
