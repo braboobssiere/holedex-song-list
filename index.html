@@ -26,29 +26,29 @@
   <script>
     var frameSize = 'fit'; // Default value 
 
-// Function to populate the topic select dropdown
-function populateTopics() {
-  var topicSelect = document.getElementById('topic');
-  topics.forEach(function(topic, index) {
-    var option = document.createElement('option');
-    option.value = topic.value;
-    option.textContent = topic.label;
-    if (index === 0) {
-      option.selected = true; // Set the first option as selected
+    // Function to populate the topic select dropdown
+    function populateTopics() {
+      var topicSelect = document.getElementById('topic');
+      topics.forEach(function(topic, index) {
+        var option = document.createElement('option');
+        option.value = topic.value;
+        option.textContent = topic.label;
+        if (index === 0) {
+          option.selected = true; // Set the first option as selected
+        }
+        topicSelect.appendChild(option);
+      });
     }
-    topicSelect.appendChild(option);
-  });
-}
 
-// Call the populateTopics function when the page loads
-window.onload = function() {
-  populateTopics();
-  callApi(); // Call the API initially when the page loads
-};
+    // Call the populateTopics function when the page loads
+    window.onload = function() {
+      populateTopics();
+      callApi();
+    };
 
     // Function to get the API key from localStorage
     function getApiKeyFromLocalStorage() {
-      return localStorage.getItem('apiKey') || '';
+      return localStorage.getItem('apiKey');
     }
 
     // Function to set the API key in localStorage
@@ -56,109 +56,101 @@ window.onload = function() {
       localStorage.setItem('apiKey', apiKey);
     }
 
-    // Function to get API key from URL parameters or localStorage
-    function getApiKeyFromURLAndLocalStorage() {
-      var urlParams = new URLSearchParams(window.location.search);
-      var apiKey = urlParams.get('api-key');
+// Function to get API key from URL parameters or localStorage
+function getApiKeyFromURLAndLocalStorage() {
+  var urlParams = new URLSearchParams(window.location.search);
+  var apiKey = urlParams.get('api-key');
 
-      if (apiKey) {
-        // If API key is in the URL, return it
-        return apiKey;
-      }
+  if (apiKey) {
+    // If API key is in the URL, return it
+    return apiKey;
+  }
 
-      // If no API key in URL, check localStorage
-      return getApiKeyFromLocalStorage() || '';
-    }
+  // If no API key in URL, check localStorage
+  return getApiKeyFromLocalStorage();
+}
 
 // Function to change the topic based on user selection
 function changeTopic() {
-  var apiKey = document.getElementById('api-key').value;
-  performApiRequest(apiKey); // Call performApiRequest when topic changes
+  var selectedTopic = document.getElementById('topic').value;
+  // Call the API with the new topic
+  performApiRequest(getApiKeyFromLocalStorage());
 }
 
 // Function to call the API
 function callApi() {
   var apiKeyInput = document.getElementById('api-key');
-  var apiKey = apiKeyInput.value.trim();
+  // Get API key from URL or localStorage
+  var apiKeyFromURL = getApiKeyFromURLAndLocalStorage();
 
-  // Check if API key is present
-  if (!apiKey) {
-    // Display error message or handle missing API key scenario
-    console.error('API key is required.');
-    return;
-  }
-
-  performApiRequest(apiKey);
-}
-
-// Function to perform the API request
-function performApiRequest(apiKey) {
-  // Get the selected topic
-  var selectedTopic = document.getElementById('topic').value;
-
-  // API endpoint URL
-  var apiUrl = 'https://holodex.net/api/v2/videos';
-
-  // Query parameters
-  var queryParams = {
-    type: 'stream',
-    topic: selectedTopic,
-    org: 'Hololive',
-    limit: 50,
-    max_upcoming_hours: 18
-  };
-
-  // Construct the query string
-  var queryString = Object.keys(queryParams)
-    .map(key => key + '=' + encodeURIComponent(queryParams[key]))
-    .join('&');
-
-  // Create a new XMLHttpRequest
-  var xhr = new XMLHttpRequest();
-
-  // Open a GET request to the API endpoint with the query string
-  xhr.open('GET', apiUrl + '?' + queryString, true);
-
-  // Set the X-APIKEY header
-  xhr.setRequestHeader('X-APIKEY', apiKey);
-
-  // Define the function to handle the API response
-  xhr.onreadystatechange = function() {
-    if (xhr.readyState === 4) {
-      if (xhr.status === 200) {
-        // Parse the JSON response
-        var response = JSON.parse(xhr.responseText);
-
-        // Display the formatted data on the webpage
-        var responseElement = document.getElementById('api-response');
-        responseElement.innerHTML = formatData(response);
-
-        // Save the API key in localStorage
-        setApiKeyInLocalStorage(apiKey);
-      } else {
-        // Handle HTTP errors
-        var errorMessage = 'Error: ' + xhr.status + ' ' + xhr.statusText;
-        console.error(errorMessage);
-
-        // Display error message to user
-        var responseElement = document.getElementById('api-response');
-        responseElement.innerHTML = '<div style="color: red;">' + errorMessage + '</div>';
-      }
+  if (apiKeyFromURL) {
+    // If API key is in URL, set it in the input field
+    apiKeyInput.value = apiKeyFromURL;
+    // Call the API with the retrieved API key
+    performApiRequest(apiKeyFromURL);
+  } else {
+    // If no URL API key, check localStorage API key
+    var apiKeyFromLocalStorage = getApiKeyFromLocalStorage();
+    if (apiKeyFromLocalStorage) {
+      // If API key is in localStorage and not empty, autofill the input field
+      apiKeyInput.value = apiKeyFromLocalStorage;
+      // Call the API with the retrieved API key
+      performApiRequest(apiKeyFromLocalStorage);
+    } else {
+      // If no URL or localStorage API key, display the API key input form
+      apiKeyInput.style.display = 'block';
     }
-  };
-
-  // Handle network errors
-  xhr.onerror = function() {
-    console.error('Network request failed');
-
-    // Display error message to user
-    var responseElement = document.getElementById('api-response');
-    responseElement.innerHTML = '<div style="color: red;">Network request failed. Please check your internet connection.</div>';
-  };
-
-  // Send the API request
-  xhr.send();
+  }
 }
+
+    // Function to perform the API request
+    function performApiRequest(apiKey) {
+
+      // Get the selected topic
+      var selectedTopic = document.getElementById('topic').value;
+
+      // API endpoint URL
+      var apiUrl = 'https://holodex.net/api/v2/videos';
+
+      // Query parameters
+      var queryParams = {
+        type: 'stream',
+        topic: selectedTopic,
+        org: 'Hololive',
+        limit: 50,
+        max_upcoming_hours: 18
+      };
+
+      // Construct the query string
+      var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
+
+      // Create a new XMLHttpRequest
+      var xhr = new XMLHttpRequest();
+
+      // Open a GET request to the API endpoint with the query string
+      xhr.open('GET', apiUrl + '?' + queryString, true);
+
+      // Set the X-APIKEY header
+      xhr.setRequestHeader('X-APIKEY', apiKey);
+
+      // Define the function to handle the API response
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          // Parse the JSON response
+          var response = JSON.parse(xhr.responseText);
+
+          // Display the formatted data on the webpage
+          var responseElement = document.getElementById('api-response');
+          responseElement.innerHTML = formatData(response);
+
+          // Save the API key in localStorage
+          setApiKeyInLocalStorage(apiKey);
+        }
+      };
+
+      // Send the API request
+      xhr.send();
+    }
 
     // Function to format data
     function formatData(jsonData) {
@@ -211,38 +203,25 @@ function performApiRequest(apiKey) {
 
       return formattedData;
     }
-
-    // Function to toggle API key visibility
-function toggleApiKeyVisibility() {
-  var apiKeyInput = document.getElementById('api-key');
-  var showApiKeyCheckbox = document.getElementById('show-api-key');
-
-  if (showApiKeyCheckbox.checked) {
-    apiKeyInput.type = 'text'; // Show API key as plain text
-  } else {
-    apiKeyInput.type = 'password'; // Hide API key
-  }
-}
-
   </script>
 </head>
 
 <body>
-<div id="input" style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
-    <label for="topic" style="margin-right: 10px;"></label>
-    <select id="topic" onchange="changeTopic()" style="margin-right: 10px;">
+  <div id="input">
+    <label for="topic"></label>
+    <select id="topic" onchange="changeTopic()">
     </select>
-    <input type="radio" id="output-link" name="output-choice" value="link" checked hidden style="margin-right: 10px;">
-    <label for="output-link" hidden style="margin-right: 10px;"></label>
-    <input type="radio" id="output-embed" name="output-choice" value="embed" hidden style="margin-right: 10px;">
-    <label for="output-embed" hidden style="margin-right: 10px;"></label>
-    <label for="api-key" style="margin-right: 10px;"></label>
-    <input type="password" id="api-key" placeholder="Enter your API key" style="margin-right: 10px;">
-    <input type="checkbox" id="show-api-key" onchange="toggleApiKeyVisibility()" style="margin-right: 10px;">
-    <label for="show-api-key" style="margin-right: 10px;"></label>
+    <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
+    <label for="output-link" hidden>Link</label>
+    <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
+    <label for="output-embed" hidden>Video</label>
+    <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
+    </label>
+    <input type="password" id="api-key" placeholder="Enter your API key">
     <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
-</div>
+  </div>
   <div id="api-response"></div>
+
 </body>
 
 </html>
