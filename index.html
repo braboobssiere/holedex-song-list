@@ -220,21 +220,20 @@ function toggleApiKeyVisibility() {
 </head>
 
 <body>
-<div id="input" style="display: flex; align-items: center;">
-    <label for="topic"></label>
-    <select id="topic" onchange="changeTopic()">
+<div id="input" style="display: flex; flex-wrap: wrap; margin-bottom: 10px;">
+    <label for="topic" style="margin-right: 10px;"></label>
+    <select id="topic" onchange="changeTopic()" style="margin-right: 10px;">
     </select>
-    <input type="radio" id="output-link" name="output-choice" value="link" checked hidden>
-    <label for="output-link" hidden>Link</label>
-    <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
-    <label for="output-embed" hidden>Video</label>
-    <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
-    <input type="password" id="api-key" placeholder="Enter your API key">
-    <input type="checkbox" id="show-api-key" onchange="toggleApiKeyVisibility()">
-    <label for="show-api-key">Show Key</label>
+    <input type="radio" id="output-link" name="output-choice" value="link" checked hidden style="margin-right: 10px;">
+    <label for="output-link" hidden style="margin-right: 10px;"></label>
+    <input type="radio" id="output-embed" name="output-choice" value="embed" hidden style="margin-right: 10px;">
+    <label for="output-embed" hidden style="margin-right: 10px;"></label>
+    <label for="api-key" style="margin-right: 10px;"></label>
+    <input type="password" id="api-key" placeholder="Enter your API key" style="margin-right: 10px;">
+    <input type="checkbox" id="show-api-key" onchange="toggleApiKeyVisibility()" style="margin-right: 10px;">
+    <label for="show-api-key" style="margin-right: 10px;"></label>
     <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
 </div>
-
   <div id="api-response"></div>
   <script>
     callApi();
