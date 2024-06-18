@@ -183,7 +183,9 @@
 
             if (outputChoice === 'link') {
               // Format as a link
+
               formattedData += '<code>[' + localDateFormat + '] ' + title + ' / ' + englishName + ' (' + status.toUpperCase() + ')</code> <br>';
+
               formattedData += '<div style="position: relative; max-width: 854px; overflow: hidden;">';
               formattedData += '<a href="https://www.youtube.com/watch?v=' + item.id + '" target="_blank" style="display: block; position: relative;">';
               formattedData += '<img style="max-width: 100%; height: auto; width: 100%;" src="https://img.youtube.com/vi/' + item.id + '/maxresdefault.jpg" alt="' + title + '">';
