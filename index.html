@@ -220,7 +220,7 @@ function toggleApiKeyVisibility() {
 </head>
 
 <body>
-  <div id="input">
+<div id="input" style="display: flex; align-items: center;">
     <label for="topic"></label>
     <select id="topic" onchange="changeTopic()">
     </select>
@@ -228,13 +228,13 @@ function toggleApiKeyVisibility() {
     <label for="output-link" hidden>Link</label>
     <input type="radio" id="output-embed" name="output-choice" value="embed" hidden>
     <label for="output-embed" hidden>Video</label>
-    <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:
-    </label>
+    <label for="api-key"><a href="https://holodex.net/" target="_blank">Holodex</a> API Key:</label>
     <input type="password" id="api-key" placeholder="Enter your API key">
     <input type="checkbox" id="show-api-key" onchange="toggleApiKeyVisibility()">
-    <label for="show-api-key">Revealed API Key</label>
+    <label for="show-api-key">Show Key</label>
     <button onclick="performApiRequest(document.getElementById('api-key').value)">Submit</button>
-  </div>
+</div>
+
   <div id="api-response"></div>
   <script>
     callApi();
