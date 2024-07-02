@@ -12,7 +12,6 @@
     </style>
 
     <script src="topics.js" defer></script>
-    <script src="queryParams.js" defer></script>
     <script>
       var frameSize = 'fit'; // Default value 
 
@@ -96,6 +95,15 @@
 
         // API endpoint URL
         var apiUrl = 'https://holodex.net/api/v2/videos';
+
+        // Query parameters
+      var queryParams = {
+        type: 'stream',
+        topic: selectedTopic,
+        org: 'Hololive',
+        limit: 50,
+        max_upcoming_hours: 18
+      };
 
         // Construct the query string
         var queryString = Object.keys(queryParams).map(key => key + '=' + encodeURIComponent(queryParams[key])).join('&');
