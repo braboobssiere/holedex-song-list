@@ -4,6 +4,7 @@
     }
   #input {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
   }
 
@@ -11,6 +12,8 @@
   #input select,
   #input input[type="radio"],
   #input button {
+    margin-right: 10px;
+    margin-bottom: 6px;
     flex: 0 0 auto; /* Prevent flex items from growing */
   }
 
