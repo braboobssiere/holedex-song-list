@@ -64,12 +64,6 @@
       });
     }
 
-    // Call the populateTopics function when the page loads
-    window.onload = function() {
-      populateTopics();
-      callApi();
-    };
-
     // Function to get the API key from localStorage
     function getApiKeyFromLocalStorage() {
       return localStorage.getItem('apiKey');
@@ -126,6 +120,12 @@ function callApi() {
     }
   }
 }
+
+// Call the populateTopics function when the page loads
+window.onload = function() {
+  populateTopics();
+  callApi(); // Call the API function on page load
+};
 
     // Function to perform the API request
     function performApiRequest(apiKey) {
