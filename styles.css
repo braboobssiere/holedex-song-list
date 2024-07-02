@@ -24,6 +24,7 @@
   #input input[type="radio"],
   #input input[type="password"],
   #input button {
+    margin-right: 10px;
     flex: 0 0 auto;
   }
 
