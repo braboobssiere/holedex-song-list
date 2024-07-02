@@ -74,14 +74,19 @@
       localStorage.setItem('apiKey', apiKey);
     }
 
+    // Function to get API key from URL parameters
+function getApiKeyFromURL() {
+  var urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get('api-key');
+}
+
 // Function to get API key from URL parameters or localStorage
 function getApiKeyFromURLAndLocalStorage() {
-  var urlParams = new URLSearchParams(window.location.search);
-  var apiKey = urlParams.get('api-key');
+  var apiKeyFromURL = getApiKeyFromURL();
 
-  if (apiKey) {
+  if (apiKeyFromURL) {
     // If API key is in the URL, return it
-    return apiKey;
+    return apiKeyFromURL;
   }
 
   // If no API key in URL, check localStorage
@@ -95,31 +100,21 @@ function changeTopic() {
   performApiRequest(getApiKeyFromLocalStorage());
 }
 
-// Function to call the API
-function callApi() {
-  var apiKeyInput = document.getElementById('api-key');
-  // Get API key from URL or localStorage
-  var apiKeyFromURL = getApiKeyFromURLAndLocalStorage();
+    // Function to call the API
+    function callApi() {
+      var apiKeyInput = document.getElementById('api-key');
+      var apiKeyFromURLAndLocalStorage = getApiKeyFromURLAndLocalStorage();
 
-  if (apiKeyFromURL) {
-    // If API key is in URL, set it in the input field
-    apiKeyInput.value = apiKeyFromURL;
-    // Call the API with the retrieved API key
-    performApiRequest(apiKeyFromURL);
-  } else {
-    // If no URL API key, check localStorage API key
-    var apiKeyFromLocalStorage = getApiKeyFromLocalStorage();
-    if (apiKeyFromLocalStorage) {
-      // If API key is in localStorage and not empty, autofill the input field
-      apiKeyInput.value = apiKeyFromLocalStorage;
-      // Call the API with the retrieved API key
-      performApiRequest(apiKeyFromLocalStorage);
-    } else {
-      // If no URL or localStorage API key, display the API key input form
-      apiKeyInput.style.display = 'block';
+      if (apiKeyFromURLAndLocalStorage) {
+        // If API key is in URL or localStorage, set it in the input field
+        apiKeyInput.value = apiKeyFromURLAndLocalStorage;
+        // Call the API with the retrieved API key
+        performApiRequest(apiKeyFromURLAndLocalStorage);
+      } else {
+        // If no API key in URL or localStorage, display the API key input form
+        apiKeyInput.style.display = 'block';
+      }
     }
-  }
-}
 
 // Call the populateTopics function when the page loads
 window.onload = function() {
