@@ -10,6 +10,30 @@
       max-width: 100%;
       position: relative;
     }
+      #input {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  #input label,
+  #input select,
+  #input input[type="radio"],
+  #input button {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  #input label {
+    flex: 0 0 auto;
+  }
+
+  #input select,
+  #input input[type="radio"],
+  #input input[type="password"],
+  #input button {
+    flex: 1 1 auto;
+  }
 
     .iframe-container {
       position: relative;
