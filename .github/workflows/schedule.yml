@@ -18,21 +18,23 @@ jobs:
       with:
         node-version: '14'
 
+    - name: Create feeds directory
+      run: mkdir -p feeds
+
     - name: Install dependencies
       run: npm install
 
     - name: Run the script
       env:
-        HOLODEX_API_KEY: ${{ secrets.HOLODEX_APIKEY }}
+        HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
       run: node generate_atom_feed.js
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add holodex.atom
+        git add feeds/holodex.atom
         git commit -m 'Update Atom feed'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_T
-        OKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
