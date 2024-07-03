@@ -45,7 +45,7 @@
           xhr.response.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
           // Convert the JSON response to an Atom feed
-          const feed = createAtomFeed(xhr.response);
+          let feed = createAtomFeed(xhr.response);
 
           // Create a new Blob object with the Atom feed
           const blob = new Blob([feed], {type: 'application/atom+xml'});
@@ -75,7 +75,7 @@
 
       // Function to create an Atom feed from an array of video objects
       function createAtomFeed(videos) {
-        const feed = `<?xml version="1.0" encoding="UTF-8"?>
+        let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Holodex API Example</title>
   <link href="${apiUrl}?${queryString}" rel="self" type="application/atom+xml"/>
@@ -95,7 +95,7 @@
     <title>${title}</title>
     <link href="${link}" rel="alternate" type="text/html"/>
     <published>${published}</published>
-        <author>
+    <author>
       <name>${authorName}</name>
       <uri>${authorUrl}</uri>
     </author>
