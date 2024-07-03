@@ -1,5 +1,6 @@
 const https = require('https');
 const fs = require('fs');
+const path = require('path');
 const { URL, URLSearchParams } = require('url');
 
 // Define the API endpoint URL
@@ -69,8 +70,13 @@ function handleResponse(response) {
       const videos = JSON.parse(data);
       videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
       const feed = createAtomFeed(videos);
-      fs.writeFileSync('holodex.atom', feed);
-      console.log('Atom feed generated successfully.');
+
+      // Define the output path to the feeds directory
+      const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
+      
+      // Save the Atom feed to the specified path
+      fs.writeFileSync(outputPath, feed);
+      console.log('Atom feed generated successfully at', outputPath);
     } else {
       console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
     }
