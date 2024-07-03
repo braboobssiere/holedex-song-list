@@ -15,6 +15,7 @@
       // Define the query parameters
       const queryParams = {
         type: 'stream',
+        topic: 'singing',
         org: 'Hololive',
         limit: 50,
         max_upcoming_hours: 18
@@ -22,11 +23,6 @@
 
       // Construct the query string
       const queryString = new URLSearchParams(queryParams).toString();
-
-      // Add the API key to the query string if present
-      if (apiKey) {
-        queryString += `&token=${apiKey}`;
-      }
 
       // Create a new XMLHttpRequest
       const xhr = new XMLHttpRequest();
