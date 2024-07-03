@@ -23,7 +23,7 @@ jobs:
 
     - name: Run the script
       env:
-        HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+        HOLODEX_API_KEY: ${{ secrets.HOLODEX_APIKEY }}
       run: node generate_atom_feed.js
 
     - name: Commit and push changes
