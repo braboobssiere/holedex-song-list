@@ -30,8 +30,8 @@
       // Open a GET request to the API endpoint with the query string
       xhr.open('GET', `${apiUrl}?${queryString}`);
 
-      // Set the responseType to 'blob' to automatically download the response as a file
-      xhr.responseType = 'blob';
+      // Set the responseType to 'json' to parse the response as JSON
+      xhr.responseType = 'json';
 
       // Set the X-APIKEY header if an API key is present
       if (apiKey) {
@@ -41,8 +41,14 @@
       // Define a callback function to handle the response
       xhr.onload = function() {
         if (xhr.status === 200) {
-          // Create a new Blob object with the response data
-          const blob = new Blob([xhr.response], {type: 'application/json'});
+          // Sort the videos array by available timestamp in descending order
+          xhr.response.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
+
+          // Convert the JSON response to an Atom feed
+          const feed = createAtomFeed(xhr.response);
+
+          // Create a new Blob object with the Atom feed
+          const blob = new Blob([feed], {type: 'application/atom+xml'});
 
           // Create a new URL object with the Blob object
           const url = URL.createObjectURL(blob);
@@ -51,8 +57,8 @@
           const a = document.createElement('a');
           a.href = url;
 
-          // Set the download attribute to the filename of the response data
-          a.download = 'response.json';
+          // Set the download attribute to the filename of the Atom feed
+          a.download = 'holodex.atom';
 
           // Simulate a click on the anchor element to download the file
           a.click();
@@ -66,6 +72,45 @@
 
       // Send the request
       xhr.send();
+
+      // Function to create an Atom feed from an array of video objects
+      function createAtomFeed(videos) {
+        const feed = `<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Holodex API Example</title>
+  <link href="${apiUrl}?${queryString}" rel="self" type="application/atom+xml"/>
+  <updated>${new Date().toISOString()}</updated>
+`;
+
+        for (const video of videos) {
+          const title = video.title;
+          const link = `https://www.youtube.com/watch?v=${video.id}`;
+          const published = new Date(video.published_at).toISOString();
+          const authorName = video.channel.name;
+          const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
+          const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
+
+          feed += `
+  <entry>
+    <title>${title}</title>
+    <link href="${link}" rel="alternate" type="text/html"/>
+    <published>${published}</published>
+        <author>
+      <name>${authorName}</name>
+      <uri>${authorUrl}</uri>
+    </author>
+    <content type="html">${description}</content>
+  </entry>
+`;
+        }
+
+        feed += `
+  <id>urn:uuid:${Math.floor(Math.random() * 0x100000000).toString(16)}</id>
+</feed>
+`;
+
+        return feed;
+      }
     </script>
   </body>
 </html>
