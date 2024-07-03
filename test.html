@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Holodex API Example</title>
+  </head>
+  <body>
+    <script>
+      // Get the API key from the URL if present
+      const urlParams = new URLSearchParams(window.location.search);
+      const apiKey = urlParams.get('token');
+
+      // Define the API endpoint URL
+      const apiUrl = 'https://holodex.net/api/v2/videos';
+
+      // Define the query parameters
+      const queryParams = {
+        type: 'stream',
+        org: 'Hololive',
+        limit: 50,
+        max_upcoming_hours: 18
+      };
+
+      // Construct the query string
+      const queryString = new URLSearchParams(queryParams).toString();
+
+      // Add the API key to the query string if present
+      if (apiKey) {
+        queryString += `&token=${apiKey}`;
+      }
+
+      // Create a new XMLHttpRequest
+      const xhr = new XMLHttpRequest();
+
+      // Open a GET request to the API endpoint with the query string
+      xhr.open('GET', `${apiUrl}?${queryString}`);
+
+      // Set the responseType to 'blob' to automatically download the response as a file
+      xhr.responseType = 'blob';
+
+      // Set the X-APIKEY header if an API key is present
+      if (apiKey) {
+        xhr.setRequestHeader('X-APIKEY', apiKey);
+      }
+
+      // Define a callback function to handle the response
+      xhr.onload = function() {
+        if (xhr.status === 200) {
+          // Create a new Blob object with the response data
+          const blob = new Blob([xhr.response], {type: 'application/json'});
+
+          // Create a new URL object with the Blob object
+          const url = URL.createObjectURL(blob);
+
+          // Create a new anchor element with the URL object as the href attribute
+          const a = document.createElement('a');
+          a.href = url;
+
+          // Set the download attribute to the filename of the response data
+          a.download = 'response.json';
+
+          // Simulate a click on the anchor element to download the file
+          a.click();
+
+          // Revoke the URL object to free up memory
+          URL.revokeObjectURL(url);
+        } else {
+          console.log(`Error: ${xhr.statusText}`);
+        }
+      };
+
+      // Send the request
+      xhr.send();
+    </script>
+  </body>
+</html>
