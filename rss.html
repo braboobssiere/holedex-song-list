@@ -85,8 +85,18 @@
         for (const video of videos) {
           const title = video.title;
           const link = `https://www.youtube.com/watch?v=${video.id}`;
-          const published = new Date(video.published_at).toISOString();
-          const authorName = video.channel.name;
+          const availableAt = new Date(video.available_at);
+          const dateFormatOptions = {
+            day: '2-digit',
+            month: '2-digit',
+            year: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit',
+            second: '2-digit',
+            hour12: false,
+          };
+          const published = availableAt.toLocaleString('en-GB', dateFormatOptions);
+          const authorName = video.channel.english_name;
           const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
           const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
 
