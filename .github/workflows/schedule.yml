@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual triggering of the workflow
 
+permissions:
+  contents: write # Grants write permission to the `GITHUB_TOKEN`
+
 jobs:
   build:
     runs-on: ubuntu-latest
