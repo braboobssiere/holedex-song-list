@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hololive Karaoke Stream</title>
-  <link href="https://holodex.net/api/v2/videos?type=stream&topic=singing&org=Hololive&limit=50&max_upcoming_hours=18" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-04T08:19:40.543Z</updated>
+  <link href="https://docs.holodex.net/" rel="self" type="application/atom+xml"/>
+  <updated>2024-07-04T08:51:35.451Z</updated>
 
   <entry>
     <title>【UNARCHIVED KARAOKE REBROADCAST】 The Rainbow Ruze Special: Even More Special Than Before</title>
@@ -554,5 +554,5 @@
     <content type="html"><p>【歌枠】お披露目あり!可愛い曲やアイドルソングうたう!【湊あくあ/ホロライブ】</p><p><a href="https://www.youtube.com/watch?v=DYNxsLQgucQ">Watch on YouTube</a></p></content>
   </entry>
 
-  <id>urn:uuid:582f8aed</id>
+  <id>urn:uuid:203987d9</id>
 </feed>
