@@ -31,7 +31,7 @@ jobs:
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
         run: |
-          node generate_rss_feed.js  # Adjust script filename if necessary
+          node generate_atom_feed.js  # Adjust script filename if necessary
           ls feeds  # Output directory contents for debugging
 
       - name: Check if RSS feed file exists
