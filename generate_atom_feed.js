@@ -28,7 +28,7 @@ function formatDate(date) {
   const yyyy = utcDate.getFullYear();
   const hh = String(utcDate.getHours()).padStart(2, '0');
   const min = String(utcDate.getMinutes()).padStart(2, '0');
-  return `[${dd}/${mm}/${yyyy} ${hh}:${min}]`;
+  return `[${dd}/${mm}/${yyyy} ${hh}:${min} (GMT+7)]`;
 }
 
 // Function to create an Atom feed from an array of video objects
