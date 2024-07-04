@@ -1,12 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const { URL, URLSearchParams } = require('url');
 
-// Define the API endpoint URL
-const apiUrl = 'https://holodex.net/api/v2/videos';
-
-// Define the query parameters
 const queryParams = {
   type: 'stream',
   topic: 'singing',
@@ -15,45 +10,44 @@ const queryParams = {
   max_upcoming_hours: 18,
 };
 
-// Construct the query string
-const queryString = new URLSearchParams(queryParams).toString();
-const apiKey = process.env.HOLODEX_API_KEY;
-
-// Function to create an Atom feed from an array of video objects
-function createAtomFeed(videos) {
+// Function to create an RSS feed from an array of video objects
+function createRSSFeed(videos) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <id>urn:uuid:${Math.floor(Math.random() * 0x100000000).toString(16)}</id>
-  <title>Hololive Karaoke Stream</title>
-  <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>${new Date().toISOString()}</updated>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <atom:link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.rss" rel="self" type="application/rss+xml"/>
+    <title>Hololive Karaoke Stream</title>
+    <link>https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.rss</link>
+    <description>Hololive Karaoke Stream RSS Feed</description>
+    <language>en-us</language>
+    <ttl>55</ttl>
 `;
 
   for (const video of videos) {
     const title = video.title;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
-    const availableAt = new Date(video.available_at);
-    const published = availableAt.toISOString();
-    const authorName = video.channel.english_name;
-    const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
+    const pubDate = new Date(video.available_at).toUTCString();
+    const creator = `@${video.channel.english_name}`;
+    const description = `${title} - Watch on YouTube: ${link}`;
 
     feed += `
-  <entry>
-    <id>urn:uuid:${video.id}</id>
-    <title>${title}</title>
-    <link href="${link}" rel="alternate" type="text/html"/>
-    <published>${published}</published>
-    <author>
-      <name>${authorName}</name>
-      <uri>${authorUrl}</uri>
-    </author>
-    <content type="html">${description}</content>
-  </entry>
+    <item>
+      <title><![CDATA[${title}]]></title>
+      <dc:creator>${creator}</dc:creator>
+      <description><![CDATA[
+        <p>${title} <a href="${link}">Watch on YouTube</a></p>
+      ]]></description>
+      <pubDate>${pubDate}</pubDate>
+      <guid>${link}</guid>
+      <link>${link}</link>
+    </item>
 `;
   }
 
-  feed += `</feed>`;
+  feed += `
+  </channel>
+</rss>`;
+  
   return feed;
 }
 
@@ -67,28 +61,35 @@ function handleResponse(response) {
     if (response.statusCode === 200) {
       const videos = JSON.parse(data);
       videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
-      const feed = createAtomFeed(videos);
+      const feed = createRSSFeed(videos);
 
       // Define the output path to the feeds directory
-      const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
-      
-      // Save the Atom feed to the specified path
-      fs.writeFileSync(outputPath, feed);
-      console.log('Atom feed generated successfully at', outputPath);
+      const outputPath = path.join(__dirname, 'feeds', 'holodex.rss');
+
+      // Write the feed to a file
+      fs.writeFile(outputPath, feed, (err) => {
+        if (err) {
+          console.error('Error writing RSS feed:', err);
+        } else {
+          console.log('RSS feed generated successfully.');
+        }
+      });
     } else {
-      console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
+      console.error('Failed to fetch data:', response.statusCode);
     }
   });
 }
 
-// Create the request to the API endpoint
-const requestOptions = new URL(`${apiUrl}?${queryString}`);
-const req = https.request(requestOptions, handleResponse);
+// Make an HTTPS request to fetch data
+const apiUrl = 'https://holodex.net/api/v2/videos';
+const queryString = new URLSearchParams(queryParams).toString();
+const apiKey = process.env.HOLODEX_API_KEY;
+const url = `${apiUrl}?${queryString}`;
 
-// Set the X-APIKEY header if an API key is present
-if (apiKey) {
-  req.setHeader('X-APIKEY', apiKey);
-}
-
-// Send the request
-req.end();
+https.get(url, {
+  headers: {
+    'x-api-key': apiKey,
+  }
+}, handleResponse).on('error', (err) => {
+  console.error('Error fetching data:', err.message);
+});
