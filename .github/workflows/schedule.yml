@@ -1,12 +1,12 @@
-name: Generate Atom Feed
+name: Generate RSS Feed
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual triggering of the workflow
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:    # Allows manual triggering of the workflow
 
 permissions:
-  contents: write # Grants write permission to the `GITHUB_TOKEN`
+  contents: write       # Grants write permission to the `GITHUB_TOKEN`
 
 jobs:
   build:
@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4   # Update to v4 of actions/checkout
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4  # Update to v4 of actions/setup-node
         with:
-          node-version: '14'
+          node-version: '20'  # Use Node.js version 20
 
       - name: Create feeds directory
         run: mkdir -p feeds
@@ -27,17 +27,22 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run the script
+      - name: Run the script to generate RSS feed
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
-        run: node generate_atom_feed.js
-
-      - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add feeds/holodex.rss
-          git commit -m 'Update Rss feed'
-          git push
+          node generate_atom_feed.js  # Adjust script filename if necessary
+          ls feeds  # Output directory contents for debugging
+
+      - name: Check if RSS feed file exists
+        run: |
+          if [ -f feeds/holodex.rss ]; then
+            git add feeds/holodex.rss
+            git commit -m 'Update RSS feed'
+            git push
+          else
+            exit 1
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     env:          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
