@@ -19,7 +19,7 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
-// Function to format date to dd/mm/yyyy hh:mm (GMT+7)
+// Function to format date to [dd/mm/yyyy hh:mm] (GMT+7)
 function formatDate(date) {
   const utcOffset = 7; // GMT+7 (Indochina Time)
   const utcDate = new Date(date.getTime() + utcOffset * 60 * 60 * 1000); // Adjusted UTC date
@@ -28,8 +28,7 @@ function formatDate(date) {
   const yyyy = utcDate.getFullYear();
   const hh = String(utcDate.getHours()).padStart(2, '0');
   const min = String(utcDate.getMinutes()).padStart(2, '0');
-  const timezone = 'GMT+7'; // Indochina Time
-  return `${dd}/${mm}/${yyyy} ${hh}:${min} ${timezone}`;
+  return `[${dd}/${mm}/${yyyy} ${hh}:${min}]`;
 }
 
 // Function to create an Atom feed from an array of video objects
@@ -48,22 +47,19 @@ function createAtomFeed(videos) {
     const published = availableAt.toISOString();
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
-    const startsAt = formatDate(availableAt);
+    const description = `<p><a href="${link}">Watch on YouTube</a></p>`;
+    const timestamp = formatDate(availableAt);
 
     feed += `
   <entry>
-    <title>${title}</title>
+    <title>${timestamp} ${title}</title>
     <link href="${link}" rel="alternate" type="text/html"/>
     <author>
       <name>${authorName}</name>
       <uri>${authorUrl}</uri>
     </author>
     <published>${published}</published>
-    <content type="html">
-      ${description}
-      <p>Starts at: ${startsAt}</p>
-    </content>
+    <content type="html">${description}</content>
   </entry>
 `;
   }
