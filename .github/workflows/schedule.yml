@@ -31,18 +31,19 @@ jobs:
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
         run: |
-          node generate_atom_feed.js  # Adjust script filename if necessary
+          node generate_rss_feed.js  # Adjust script filename if necessary
           ls feeds  # Output directory contents for debugging
 
       - name: Check if RSS feed file exists
         run: |
           if [ -f feeds/holodex.rss ]; then
+            echo "RSS feed generated successfully!"
             git add feeds/holodex.rss
             git commit -m 'Update RSS feed'
             git push
           else
+            echo "RSS feed file not found. Check your script output."
             exit 1
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     env:          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
