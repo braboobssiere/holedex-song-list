@@ -23,8 +23,9 @@ const apiKey = process.env.HOLODEX_API_KEY;
 function createAtomFeed(videos) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <id>urn:uuid:${Math.floor(Math.random() * 0x100000000).toString(16)}</id>
   <title>Hololive Karaoke Stream</title>
-  <link href="https://docs.holodex.net/" rel="self" type="application/atom+xml"/>
+  <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
   <updated>${new Date().toISOString()}</updated>
 `;
 
@@ -39,6 +40,7 @@ function createAtomFeed(videos) {
 
     feed += `
   <entry>
+    <id>urn:uuid:${video.id}</id>
     <title>${title}</title>
     <link href="${link}" rel="alternate" type="text/html"/>
     <published>${published}</published>
@@ -51,11 +53,7 @@ function createAtomFeed(videos) {
 `;
   }
 
-  feed += `
-  <id>urn:uuid:${Math.floor(Math.random() * 0x100000000).toString(16)}</id>
-</feed>
-`;
-
+  feed += `</feed>`;
   return feed;
 }
 
