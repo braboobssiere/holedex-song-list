@@ -30,5 +30,4 @@ jobs:
     - name: Initialize npm project
       run: npm init -y
 
-    # Optional: Any additional steps 
-    you need
+    # Optional: Any additional ste
