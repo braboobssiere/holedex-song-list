@@ -37,10 +37,16 @@ function createAtomFeed(videos) {
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
 
+    // Generate Unix timestamp
+    const unixTimestamp = Math.floor(availableAt.getTime() / 1000);
+
+    // Discord timestamp using date and time formats
+    const discordTimestamp = `<t:${unixTimestamp}:d> <t:${unixTimestamp}:T>`;
+
     feed += `
   <entry>
     <title>${title}</title>
-    <link href="${link}" rel="alternate" type="text/html"/>
+    ${discordTimestamp} <link href="${link}" rel="alternate" type="text/html"/>
     <published>${published}</published>
     <author>
       <name>${authorName}</name>
