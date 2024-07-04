@@ -30,4 +30,15 @@ jobs:
     - name: Initialize npm project
       run: npm init -y
 
-    # Optional: Any additional ste
+    - name: Create success marker file
+      run: echo "Workflow run successful: $(date)" > workflow_success.txt
+
+    - name: Commit and push success marker
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add workflow_success.txt
+        git commit -m "Add workflow success marker"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
