@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const { URL, URLSearchParams } = require('url');
+const { URLSearchParams } = require('url');
 
 // Define the API endpoint URL
 const apiUrl = 'https://holodex.net/api/v2/videos';
@@ -19,12 +19,24 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
+// Function to format date to [dd/mm/yyyy hh:mm] (GMT+7)
+function formatDate(date) {
+  const utcOffset = 7; // GMT+7 (Indochina Time)
+  const utcDate = new Date(date.getTime() + utcOffset * 60 * 60 * 1000); // Adjusted UTC date
+  const dd = String(utcDate.getDate()).padStart(2, '0');
+  const mm = String(utcDate.getMonth() + 1).padStart(2, '0'); // January is 0
+  const yyyy = utcDate.getFullYear();
+  const hh = String(utcDate.getHours()).padStart(2, '0');
+  const min = String(utcDate.getMinutes()).padStart(2, '0');
+  return `[${dd}/${mm}/${yyyy} ${hh}:${min}]`;
+}
+
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hololive Karaoke Stream</title>
-  <link href="${apiUrl}?${queryString}" rel="self" type="application/atom+xml"/>
+  <link href="https://holodex.net" rel="self" type="application/atom+xml"/>
   <updated>${new Date().toISOString()}</updated>
 `;
 
@@ -35,18 +47,18 @@ function createAtomFeed(videos) {
     const published = availableAt.toISOString();
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
+    const timestamp = formatDate(availableAt);
 
     feed += `
   <entry>
-    <title>${title}</title>
-    <link href="${link}" rel="alternate" type="text/html"/>
-    <published>${published}</published>
+    <title>${timestamp} ${title}</title>
+    <link href="${encodeURI(link)}" rel="alternate" type="text/html"/>
     <author>
       <name>${authorName}</name>
-      <uri>${authorUrl}</uri>
+      <uri>${encodeURI(authorUrl)}</uri>
     </author>
-    <content type="html">${description}</content>
+    <published>${published}</published>
+    <content type="text">${title} - ${timestamp} [${link}]</content>
   </entry>
 `;
   }
@@ -84,13 +96,14 @@ function handleResponse(response) {
 }
 
 // Create the request to the API endpoint
-const requestOptions = new URL(`${apiUrl}?${queryString}`);
+const requestOptions = {
+  hostname: 'holodex.net',
+  path: `/api/v2/videos?${queryString}`,
+  headers: {
+    'X-APIKEY': apiKey,
+  },
+};
 const req = https.request(requestOptions, handleResponse);
-
-// Set the X-APIKEY header if an API key is present
-if (apiKey) {
-  req.setHeader('X-APIKEY', apiKey);
-}
 
 // Send the request
 req.end();
