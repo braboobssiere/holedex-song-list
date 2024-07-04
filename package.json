@@ -1,0 +1,14 @@
+{
+  "name": "hololive-atom-feed",
+  "version": "1.0.0",
+  "description": "Generate Atom feed for Hololive Karaoke Streams",
+  "main": "generate_atom_feed.js",
+  "scripts": {
+    "start": "node generate_atom_feed.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
