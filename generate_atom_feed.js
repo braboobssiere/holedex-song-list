@@ -23,6 +23,7 @@ function createAtomFeed(videos, feedUrl) {
   <title>Hololive Karaoke Stream</title>
   <link href="${feedUrl}" rel="self" type="application/atom+xml"/>
   <updated>${new Date().toISOString()}</updated>
+  <ttl>60</ttl>
 `;
 
   videos.forEach(video => {
