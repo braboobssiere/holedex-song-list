@@ -71,7 +71,7 @@ async function generateAtomFeed() {
 
     videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
-    const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
+    const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex2.atom'; // actual feed URL
     const feed = createAtomFeed(videos, feedUrl);
 
     const outputPath = path.join(__dirname, 'feeds', 'holodex2.atom');
