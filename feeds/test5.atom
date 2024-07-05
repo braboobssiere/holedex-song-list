@@ -2,31 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:60a76c80-3c79-11e1-b86c-0800200c9a66</id>
   <title>test111</title>
-  <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/test4.atom" rel="self" type="application/atom+xml"/>
+  <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/test5.atom" rel="self" type="application/atom+xml"/>
   <updated>2024-07-05T12:01:00Z</updated>
 
   <entry>
     <id>urn:uuid:a148e78f-2167-4f70-a4fa-978b3573ecc0</id>
     <title>【 お歌と雑談 】『 んなたんはルーナイトとお話がしたいそして覚えた歌も歌いたい でありんす 』なのら! 【姫森ルーナ/ホロライブ】</title>
-    <published>2024-07-05T04:08:44.000Z</published>
-    <updated>2024-07-05T13:00:00.000Z</updated>
+    <published>2024-07-05T04:08:44Z</published>
+    <updated>2024-07-05T13:00:00Z</updated>
     <author>
       <name>Himemori Luna</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
     </author>
-    <summary><![CDATA[[05/07/2024, 20:00 (GMT+7)] https://www.youtube.com/watch?v=foJdNNxc5E8]]></summary>
+    <content type="text"><![CDATA[[05/07/2024, 20:00 (GMT+7)] https://www.youtube.com/watch?v=foJdNNxc5E8]]></content>
   </entry>
   
   <entry>
     <id>urn:uuid:123e4567-e89b-12d3-a456-426614174000</id>
     <title>Sample Video</title>
-    <link href="http://example.org/2003/12/13/atom03"/>
     <updated>2024-07-05T12:35:56Z</updated>
     <author>
       <name>Author Name</name>
       <uri>https://www.youtube.com/channel/UC1234567890</uri>
     </author>
-    <summary>[05/07/2024 19:35 (GMT+7)] Sample Video Watch on YouTube: hbo_oslztH8</summary>
+    <content type="text"><![CDATA[[05/07/2024 19:35 (GMT+7)] Sample Video Watch on YouTube: hbo_oslztH8]]></content>
   </entry>
 
 </feed>
