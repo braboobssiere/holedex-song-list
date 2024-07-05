@@ -33,11 +33,18 @@ function createAtomFeed(videos, feedUrl) {
     const availableAt = new Date(video.available_at);
     const published = publishedAt.toISOString();
     const updated = availableAt.toISOString();
+    const timeZoneOptions = {
+      timeZone: 'Asia/Jakarta', // Replace with your desired time zone
+      hour12: true,
+      hour: 'numeric',
+      minute: 'numeric'
+    };
     const authorName = video.channel.name;
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const summary = `<![CDATA[【LIVE ${availableAt.toLocaleString('en-US', { timeZone: 'GMT+7', hour12: true, hour: 'numeric', minute: 'numeric' })}】 Watch on YouTube: ${link}]]>`;
-
+    const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+7';
+    const summary = `<![CDATA[【LIVE ${formattedAvailableTime}】 Watch on YouTube: ${link}]]>`;
+    
     feed += `
   <entry>
     <id>urn:uuid:${uuidv4()}</id>
