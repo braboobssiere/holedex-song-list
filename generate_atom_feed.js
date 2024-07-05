@@ -35,7 +35,8 @@ function createAtomFeed(videos, feedUrl) {
     const updated = availableAt.toISOString();
     const timeZoneOptions = {
       timeZone: 'Asia/Jakarta', // Replace with your desired time zone
-      hour12: true,
+      day: 'numeric',
+      month: 'long',
       hour: 'numeric',
       minute: 'numeric'
     };
