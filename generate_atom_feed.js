@@ -26,7 +26,7 @@ function createAtomFeed(videos, feedUrl) {
 `;
 
   videos.forEach(video => {
-    const title = video.title;
+    const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
     const publishedAt = new Date(video.published_at);
