@@ -55,7 +55,7 @@ function createAtomFeed(videos, feedUrl) {
   <entry>
     <id>urn:uuid:${uuidv4()}</id>
     <title>${title}</title>
-    <link href="${link}"/>
+    <link href="${link}" rel="alternate" type="text/html"/>
     <published>${published}</published>
     <updated>${updated}</updated>
     <author>
