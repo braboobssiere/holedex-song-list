@@ -37,11 +37,10 @@ function createAtomFeed(videos) {
     const published = availableAt.toISOString();
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const description = `<p>${title}</p><p><a href="${link}">Watch on YouTube</a></p>`;
+    const description = `${title} <a href="${link}">Watch on YouTube</a>`;
 
     feed += `
   <entry>
-    // <id>urn:uuid:${video.id}</id>
     <id>urn:uuid:${uuidv4()}</id>
     <title>${title}</title>
     <link href="${link}" rel="alternate" type="text/html"/>
