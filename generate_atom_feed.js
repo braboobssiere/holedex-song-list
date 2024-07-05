@@ -15,20 +15,6 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
-// Function to format date to [dd/mm/yyyy hh:mm (GMT+7)]
-function formatDateToGMT7(date) {
-  const options = {
-    timeZone: 'Etc/GMT-7',
-    day: '2-digit',
-    month: '2-digit',
-    year: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false,
-  };
-  return new Intl.DateTimeFormat('en-GB', options).format(date) + ' (GMT+7)';
-}
-
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -41,21 +27,22 @@ function createAtomFeed(videos, feedUrl) {
 
   videos.forEach(video => {
     const title = video.title;
+    const shortlink = `https://youtu.be/${video.id}`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
     const publishedAt = new Date(video.published_at);
     const availableAt = new Date(video.available_at);
     const published = publishedAt.toISOString();
     const updated = availableAt.toISOString();
-    const authorName = video.channel.english_name;
+    const authorName = video.channel.name;
+    const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const formattedAvailableAt = formatDateToGMT7(availableAt);
-    const summary = `【${formattedAvailableAt}】 ${link}`;
+    const summary = `<![CDATA[【LIVE ${availableAt.toLocaleString('en-US', { timeZone: 'GMT+7', hour12: true, hour: 'numeric', minute: 'numeric' })}】 Watch on YouTube: ${link}]]>`;
 
     feed += `
   <entry>
     <id>urn:uuid:${uuidv4()}</id>
     <title>${title}</title>
-    <link href="${link}" rel="alternate" type="text/html"/>
+    <link href="${shortlink}" rel="alternate" type="text/html"/>
     <published>${published}</published>
     <updated>${updated}</updated>
     <author>
@@ -84,7 +71,7 @@ function handleResponse(response) {
       const videos = JSON.parse(data);
       videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
-      const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // Replace with your actual feed URL
+      const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
       const feed = createAtomFeed(videos, feedUrl);
 
       const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
