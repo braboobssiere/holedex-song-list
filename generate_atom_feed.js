@@ -37,6 +37,7 @@ function createAtomFeed(videos, feedUrl) {
       timeZone: 'Asia/Jakarta', // Replace with your desired time zone
       day: 'numeric',
       month: 'long',
+      hour12: false,
       hour: 'numeric',
       minute: 'numeric'
     };
