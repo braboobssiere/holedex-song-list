@@ -45,7 +45,7 @@ function createAtomFeed(videos, feedUrl) {
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+7';
-    const summary = `<![CDATA[【LIVE ${formattedAvailableTime}】 Watch on YouTube: ${link}]]>`;
+    const summary = `<![CDATA[【LIVE at ${formattedAvailableTime}】 Watch on YouTube: ${link}]]>`;
     
     feed += `
   <entry>
