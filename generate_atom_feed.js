@@ -49,20 +49,20 @@ function createAtomFeed(videos, feedUrl) {
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableAt = formatDateToGMT7(availableAt);
-    const summary = `[${formattedAvailableAt}] ${title} / ${authorName}`;
+    const summary = `【${formattedAvailableAt}】 ${link}`;
 
     feed += `
   <entry>
     <id>urn:uuid:${uuidv4()}</id>
     <title>${title}</title>
-    <link href="${link}" rel="alternate" type="text/html"/>
+    <link href="${link}"/>
     <published>${published}</published>
     <updated>${updated}</updated>
     <author>
       <name>${authorName}</name>
       <uri>${authorUrl}</uri>
     </author>
-    <summary type="text">${summary}</summary>
+    <summary>${summary}</summary>
   </entry>
 `;
   });
