@@ -15,23 +15,8 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
-// Function to replace invalid characters
-function replaceInvalidCharacters(str, originalStr) {
-  if (!str.includes('�')) return str;
-
-  let correctedStr = '';
-  for (let i = 0; i < str.length; i++) {
-    if (str[i] === '�' && originalStr[i] !== '�') {
-      correctedStr += originalStr[i];
-    } else {
-      correctedStr += str[i];
-    }
-  }
-  return correctedStr;
-}
-
 // Function to create an Atom feed from an array of video objects
-function createAtomFeed(videos, feedUrl, originalData) {
+function createAtomFeed(videos, feedUrl) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>urn:uuid:${uuidv4()}</id>
@@ -40,9 +25,8 @@ function createAtomFeed(videos, feedUrl, originalData) {
   <updated>${new Date().toISOString()}</updated>
 `;
 
-  videos.forEach((video, index) => {
-    const originalVideo = originalData[index];
-    const title = replaceInvalidCharacters(video.title, originalVideo.title);
+  videos.forEach(video => {
+    const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
     const publishedAt = new Date(video.published_at);
@@ -57,11 +41,11 @@ function createAtomFeed(videos, feedUrl, originalData) {
       hour: 'numeric',
       minute: 'numeric'
     };
-    const authorName = replaceInvalidCharacters(video.channel.name, originalVideo.channel.name);
+    const authorName = video.channel.name;
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+7';
-    const summary = replaceInvalidCharacters(`【LIVE on ${formattedAvailableTime}】${link}`, `【LIVE on ${formattedAvailableTime}】${link}`);
+    const summary = `<![CDATA[【LIVE on ${formattedAvailableTime}】${link}]]>`;
     
     feed += `
   <entry>
@@ -91,17 +75,16 @@ function handleResponse(response) {
     data += chunk;
   });
 
-  response.on('end', async () => {
+  response.on('end', () => {
     if (response.statusCode === 200) {
-      const originalData = JSON.parse(data);
       const videos = JSON.parse(data);
       videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
       const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
-      const feed = createAtomFeed(videos, feedUrl, originalData);
+      const feed = createAtomFeed(videos, feedUrl);
 
       const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
-      fs.writeFileSync(outputPath, feed);
+      fs.writeFileSync(outputPath, feed, 'utf8');
       console.log('Atom feed generated successfully at', outputPath);
     } else {
       console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
@@ -117,8 +100,5 @@ const requestOptions = {
   }
 };
 
-const req = https.get(apiUrl, requestOptions, handleResponse);
-req.on('error', (e) => {
-  console.error(`Problem with request: ${e.message}`);
-});
+const req = https.request(apiUrl, requestOptions, handleResponse);
 req.end();
