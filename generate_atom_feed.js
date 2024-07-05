@@ -18,7 +18,7 @@ const apiKey = process.env.HOLODEX_API_KEY;
 // Function to format date to [dd/mm/yyyy hh:mm (GMT+7)]
 function formatDateToGMT7(date) {
   const options = {
-    timeZone: 'Asia/Bangkok',
+    timeZone: 'Etc/GMT-7',
     day: '2-digit',
     month: '2-digit',
     year: 'numeric',
@@ -49,7 +49,7 @@ function createAtomFeed(videos, feedUrl) {
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableAt = formatDateToGMT7(availableAt);
-    const summary = `[${formattedAvailableAt}] ${title} (Watch on YouTube: ${link})`;
+    const summary = `[${formattedAvailableAt}] ${title} / ${authorName}`;
 
     feed += `
   <entry>
