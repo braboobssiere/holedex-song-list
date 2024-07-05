@@ -15,6 +15,20 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
+// Function to format date to [dd/mm/yyyy hh:mm (GMT+7)]
+function formatDateToGMT7(date) {
+  const options = {
+    timeZone: 'Asia/Bangkok',
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  };
+  return new Intl.DateTimeFormat('en-GB', options).format(date) + ' (GMT+7)';
+}
+
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -34,7 +48,8 @@ function createAtomFeed(videos, feedUrl) {
     const updated = availableAt.toISOString();
     const authorName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const description = `${title} (Watch on YouTube: ${link})`;
+    const formattedAvailableAt = formatDateToGMT7(availableAt);
+    const summary = `[${formattedAvailableAt}] ${title} (Watch on YouTube: ${link})`;
 
     feed += `
   <entry>
@@ -47,7 +62,7 @@ function createAtomFeed(videos, feedUrl) {
       <name>${authorName}</name>
       <uri>${authorUrl}</uri>
     </author>
-    <content type="text">${description}</content>
+    <summary type="text">${summary}</summary>
   </entry>
 `;
   });
@@ -89,6 +104,5 @@ const requestOptions = {
   }
 };
 
-const req = https.request(apiUrl, requestOptions, handleResponse
-                         );
+const req = https.request(apiUrl, requestOptions, handleResponse);
 req.end();
