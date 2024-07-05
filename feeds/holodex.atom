@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>urn:uuid:30d12570-7aa5-4ab4-8f36-0cb8b6f28a3c</id>
+  <id>urn:uuid:272662f5-bdd6-4b1b-bdfe-d4ebfb375392</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-05T03:10:40.194Z</updated>
+  <updated>2024-07-05T03:39:35.727Z</updated>
 
   <entry>
-    <content type="text/xml">
-        <p:Customer xmlns:p="http://www.ibm.com/crm" xmlns="http://www.ibm.com/crm">
-            <id>10</id>
-            <firstName>John</firstName>
-            <lastName>Doe</lastName>
-        </p:Customer>
-    </content>
-    <title>Atom-Powered Robots Run Amok</title>
-    <link href="http://example.org/2003/12/13/atom03"/>
-    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
-    <updated>2024-07-05T01:01:30.000Z</updated>
-    <summary>Some text.</summary>
-  </entry>
-
-
-  <entry>
-    <id>urn:uuid:b83642f3-dc51-4274-a86d-321bb1c7451b</id>
+    <id>urn:uuid:5893b683-36a2-4cc7-88f1-7965156b1947</id>
     <title>【KARAOKE】4th of July SKY EXPLOSIONS🦅 (unarchived singing stream~)</title>
     <link href="https://www.youtube.com/watch?v=hbo_oslztH8" rel="alternate" type="text/html"/>
     <published>2024-07-04T21:16:22.000Z</published>
@@ -31,11 +15,11 @@
       <name>Watson Amelia</name>
       <uri>https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg</uri>
     </author>
-    <content type="text">【KARAOKE】4th of July SKY EXPLOSIONS🦅 (unarchived singing stream~) (Watch on YouTube: https://www.youtube.com/watch?v=hbo_oslztH8)</content>
+    <summary type="text">[05/07/2024, 08:01 (GMT+7)] 【KARAOKE】4th of July SKY EXPLOSIONS🦅 (unarchived singing stream~) (Watch on YouTube: https://www.youtube.com/watch?v=hbo_oslztH8)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:5b3c874b-8237-4d73-b5fd-cbee3bd836bd</id>
+    <id>urn:uuid:ff9b28ed-475a-4b64-bb47-709f85e21ecb</id>
     <title>【UNARCHIVED KARAOKE REBROADCAST】 The Rainbow Ruze Special: Even More Special Than Before</title>
     <link href="https://www.youtube.com/watch?v=lNj7ac_dMjE" rel="alternate" type="text/html"/>
     <published>2024-07-04T07:48:21.000Z</published>
@@ -44,11 +28,11 @@
       <name>Crimzon Ruze</name>
       <uri>https://www.youtube.com/channel/UCajbFh6e_R8QZdHAMbbi4rQ</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE REBROADCAST】 The Rainbow Ruze Special: Even More Special Than Before (Watch on YouTube: https://www.youtube.com/watch?v=lNj7ac_dMjE)</content>
+    <summary type="text">[05/07/2024, 01:00 (GMT+7)] 【UNARCHIVED KARAOKE REBROADCAST】 The Rainbow Ruze Special: Even More Special Than Before (Watch on YouTube: https://www.youtube.com/watch?v=lNj7ac_dMjE)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:2d5f51db-8622-4a8e-98f0-657bda90d149</id>
+    <id>urn:uuid:fa9ab8ae-ee71-42ed-bd81-eeccc5631cb1</id>
     <title>【縦型歌枠】190万人になるまで心を込めて歌いますッ🎶【白銀ノエル/ホロライブ】#shorts</title>
     <link href="https://www.youtube.com/watch?v=Z8hSuF8PZvc" rel="alternate" type="text/html"/>
     <published>2024-06-26T18:23:28.000Z</published>
@@ -57,11 +41,11 @@
       <name>Shirogane Noel</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
     </author>
-    <content type="text">【縦型歌枠】190万人になるまで心を込めて歌いますッ🎶【白銀ノエル/ホロライブ】#shorts (Watch on YouTube: https://www.youtube.com/watch?v=Z8hSuF8PZvc)</content>
+    <summary type="text">[04/07/2024, 16:00 (GMT+7)] 【縦型歌枠】190万人になるまで心を込めて歌いますッ🎶【白銀ノエル/ホロライブ】#shorts (Watch on YouTube: https://www.youtube.com/watch?v=Z8hSuF8PZvc)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:a1c12637-780b-487e-89f9-e5b59d769942</id>
+    <id>urn:uuid:4d6cdade-0015-425f-89ba-004eea435ae2</id>
     <title>【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ</title>
     <link href="https://www.youtube.com/watch?v=rrVQv6XFKOE" rel="alternate" type="text/html"/>
     <published>2024-07-03T15:22:42.000Z</published>
@@ -70,11 +54,11 @@
       <name>Ichijou Ririka</name>
       <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
     </author>
-    <content type="text">【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ (Watch on YouTube: https://www.youtube.com/watch?v=rrVQv6XFKOE)</content>
+    <summary type="text">[03/07/2024, 20:20 (GMT+7)] 【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ (Watch on YouTube: https://www.youtube.com/watch?v=rrVQv6XFKOE)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:31d22445-e38d-46ff-acd7-e313b5ce59cd</id>
+    <id>urn:uuid:5caec4f7-128f-4878-8741-3e95bcbd859b</id>
     <title>【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ</title>
     <link href="https://www.youtube.com/watch?v=pUOhgzcITbI" rel="alternate" type="text/html"/>
     <published>2024-07-03T07:35:04.000Z</published>
@@ -83,11 +67,11 @@
       <name>Ichijou Ririka</name>
       <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
     </author>
-    <content type="text">【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ (Watch on YouTube: https://www.youtube.com/watch?v=pUOhgzcITbI)</content>
+    <summary type="text">[03/07/2024, 20:01 (GMT+7)] 【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ (Watch on YouTube: https://www.youtube.com/watch?v=pUOhgzcITbI)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:1c2050b7-2ebd-4b71-8c7b-570758c38fbd</id>
+    <id>urn:uuid:09542efd-5ddb-4c86-9683-74feb0326a11</id>
     <title>【UNARCHIVED KARAOKE REBROADCAST】Singing A LOT and doing my best!</title>
     <link href="https://www.youtube.com/watch?v=ojWR5DJARPo" rel="alternate" type="text/html"/>
     <published>2024-07-03T01:20:31.000Z</published>
@@ -96,11 +80,11 @@
       <name>Octavio</name>
       <uri>https://www.youtube.com/channel/UCLk1hcmxg8rJ3Nm1_GvxTRA</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE REBROADCAST】Singing A LOT and doing my best! (Watch on YouTube: https://www.youtube.com/watch?v=ojWR5DJARPo)</content>
+    <summary type="text">[03/07/2024, 18:57 (GMT+7)] 【UNARCHIVED KARAOKE REBROADCAST】Singing A LOT and doing my best! (Watch on YouTube: https://www.youtube.com/watch?v=ojWR5DJARPo)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:ed7227f8-9983-43cf-a0fd-91cac38dec8a</id>
+    <id>urn:uuid:9ff2fabc-7c7e-46bb-85ff-45b1c497667a</id>
     <title>【歌枠】夜ですね。歌うよ~!!【ときのそら/ホロライブ】</title>
     <link href="https://www.youtube.com/watch?v=zBQf4yKmbUk" rel="alternate" type="text/html"/>
     <published>2024-07-03T12:36:08.000Z</published>
@@ -109,11 +93,11 @@
       <name>Tokino Sora</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
     </author>
-    <content type="text">【歌枠】夜ですね。歌うよ~!!【ときのそら/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=zBQf4yKmbUk)</content>
+    <summary type="text">[03/07/2024, 18:01 (GMT+7)] 【歌枠】夜ですね。歌うよ~!!【ときのそら/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=zBQf4yKmbUk)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:93169638-da1d-47e5-9108-e9b9142c4ff8</id>
+    <id>urn:uuid:d9201648-2538-4fc2-9f7d-5ca168c661e8</id>
     <title>【歌枠/KARAOKE】もうすぐ47万人!キリがいいので歌います!【火威青】#hololiveDEV_IS #ReGLOSS</title>
     <link href="https://www.youtube.com/watch?v=oiJwwuwFTzw" rel="alternate" type="text/html"/>
     <published>2024-07-03T11:24:42.000Z</published>
@@ -122,11 +106,11 @@
       <name>Hiodoshi Ao</name>
       <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
     </author>
-    <content type="text">【歌枠/KARAOKE】もうすぐ47万人!キリがいいので歌います!【火威青】#hololiveDEV_IS #ReGLOSS (Watch on YouTube: https://www.youtube.com/watch?v=oiJwwuwFTzw)</content>
+    <summary type="text">[03/07/2024, 16:05 (GMT+7)] 【歌枠/KARAOKE】もうすぐ47万人!キリがいいので歌います!【火威青】#hololiveDEV_IS #ReGLOSS (Watch on YouTube: https://www.youtube.com/watch?v=oiJwwuwFTzw)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:a40e3cc9-9121-4fe3-8b47-5a416883bcea</id>
+    <id>urn:uuid:b0b26543-5c2e-47ea-a67d-2788c9f1a430</id>
     <title>【UNARCHIVED KARAOKE】Daddy Cool~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=-GNpW_6JuTo" rel="alternate" type="text/html"/>
     <published>2024-07-02T21:35:26.000Z</published>
@@ -135,11 +119,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】Daddy Cool~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=-GNpW_6JuTo)</content>
+    <summary type="text">[03/07/2024, 16:02 (GMT+7)] 【UNARCHIVED KARAOKE】Daddy Cool~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=-GNpW_6JuTo)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:89cf9a81-51a6-41c9-92ed-a0af80d6ef63</id>
+    <id>urn:uuid:744330d2-ccab-403a-b301-e69c5e06ee3f</id>
     <title>歌が歌いたい気分なので調子いい間に歌う!【 桃鈴ねね / hololive 】#shorts</title>
     <link href="https://www.youtube.com/watch?v=GRmIJ3myhQ8" rel="alternate" type="text/html"/>
     <published>2024-07-02T09:12:34.000Z</published>
@@ -148,11 +132,11 @@
       <name>Momosuzu Nene</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
     </author>
-    <content type="text">歌が歌いたい気分なので調子いい間に歌う!【 桃鈴ねね / hololive 】#shorts (Watch on YouTube: https://www.youtube.com/watch?v=GRmIJ3myhQ8)</content>
+    <summary type="text">[02/07/2024, 13:16 (GMT+7)] 歌が歌いたい気分なので調子いい間に歌う!【 桃鈴ねね / hololive 】#shorts (Watch on YouTube: https://www.youtube.com/watch?v=GRmIJ3myhQ8)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:4cb5596a-39f1-49a3-9858-12fc0c5efed0</id>
+    <id>urn:uuid:e2275712-ed22-418d-ac82-6790b84f7c54</id>
     <title>【Unarchived Karaoke】Anime Girl Goes Through Her Gangsta Arc #shorts</title>
     <link href="https://www.youtube.com/watch?v=WDBp2BmRmq0" rel="alternate" type="text/html"/>
     <published>2024-06-19T06:55:17.000Z</published>
@@ -161,11 +145,11 @@
       <name>Shiori Novella</name>
       <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
     </author>
-    <content type="text">【Unarchived Karaoke】Anime Girl Goes Through Her Gangsta Arc #shorts (Watch on YouTube: https://www.youtube.com/watch?v=WDBp2BmRmq0)</content>
+    <summary type="text">[02/07/2024, 09:59 (GMT+7)] 【Unarchived Karaoke】Anime Girl Goes Through Her Gangsta Arc #shorts (Watch on YouTube: https://www.youtube.com/watch?v=WDBp2BmRmq0)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:56dba434-eb7e-4fe3-9e4f-29d916deb8a2</id>
+    <id>urn:uuid:8ed89182-7c85-4101-b3ab-fbf1d3c79527</id>
     <title>最近なきそさんの曲にはまってるんだけど、ちょっと歌った!MIXしてないから音程ご愛敬で・・・・・・・</title>
     <link href="https://www.youtube.com/watch?v=VMKju9TTjq8" rel="alternate" type="text/html"/>
     <published>2024-07-01T09:23:31.000Z</published>
@@ -174,11 +158,11 @@
       <name>Momosuzu Nene</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
     </author>
-    <content type="text">最近なきそさんの曲にはまってるんだけど、ちょっと歌った!MIXしてないから音程ご愛敬で・・・・・・・ (Watch on YouTube: https://www.youtube.com/watch?v=VMKju9TTjq8)</content>
+    <summary type="text">[01/07/2024, 16:23 (GMT+7)] 最近なきそさんの曲にはまってるんだけど、ちょっと歌った!MIXしてないから音程ご愛敬で・・・・・・・ (Watch on YouTube: https://www.youtube.com/watch?v=VMKju9TTjq8)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:ea65e1ac-1153-4c83-9ba2-0b818cc01cb4</id>
+    <id>urn:uuid:50139be0-7f80-42a3-8088-64ed28adb89d</id>
     <title>REBROADCAST =【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=wc2JvwyyfNM" rel="alternate" type="text/html"/>
     <published>2024-06-30T22:35:47.000Z</published>
@@ -187,11 +171,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">REBROADCAST =【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=wc2JvwyyfNM)</content>
+    <summary type="text">[01/07/2024, 16:05 (GMT+7)] REBROADCAST =【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=wc2JvwyyfNM)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:05ce5285-77ec-4b79-a270-8217451736f6</id>
+    <id>urn:uuid:4b6883d3-68a1-4a00-ab98-03dd39f6f0e2</id>
     <title>brown moom singin in the dead of night</title>
     <link href="https://www.youtube.com/watch?v=oG9b_I3GoI0" rel="alternate" type="text/html"/>
     <published>2024-07-01T06:24:49.000Z</published>
@@ -200,11 +184,11 @@
       <name>Nanashi Mumei</name>
       <uri>https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA</uri>
     </author>
-    <content type="text">brown moom singin in the dead of night (Watch on YouTube: https://www.youtube.com/watch?v=oG9b_I3GoI0)</content>
+    <summary type="text">[01/07/2024, 14:02 (GMT+7)] brown moom singin in the dead of night (Watch on YouTube: https://www.youtube.com/watch?v=oG9b_I3GoI0)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:53cb024f-35ad-4531-b1e1-f5c352126a6f</id>
+    <id>urn:uuid:15e328b6-8b9d-4957-8e58-a6fb519dbaeb</id>
     <title>おやすみ歌枠 その0120 【 奏手イヅル / ホロスターズ 】</title>
     <link href="https://www.youtube.com/watch?v=s_dg_y4bGGA" rel="alternate" type="text/html"/>
     <published>2024-06-30T14:58:46.000Z</published>
@@ -213,11 +197,11 @@
       <name>Kanade Izuru</name>
       <uri>https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA</uri>
     </author>
-    <content type="text">おやすみ歌枠 その0120 【 奏手イヅル / ホロスターズ 】 (Watch on YouTube: https://www.youtube.com/watch?v=s_dg_y4bGGA)</content>
+    <summary type="text">[30/06/2024, 20:08 (GMT+7)] おやすみ歌枠 その0120 【 奏手イヅル / ホロスターズ 】 (Watch on YouTube: https://www.youtube.com/watch?v=s_dg_y4bGGA)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:07d5abad-e3ac-470c-b837-7016c8647a4e</id>
+    <id>urn:uuid:0b62b4ce-9f31-4739-8e75-9daf34e3336c</id>
     <title>【ARCHIVED KARAOKE】SINGING TIME !!!!【Ayunda Risu】</title>
     <link href="https://www.youtube.com/watch?v=dWIYFg7r9tQ" rel="alternate" type="text/html"/>
     <published>2024-06-30T18:11:45.000Z</published>
@@ -226,11 +210,11 @@
       <name>Ayunda Risu</name>
       <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
     </author>
-    <content type="text">【ARCHIVED KARAOKE】SINGING TIME !!!!【Ayunda Risu】 (Watch on YouTube: https://www.youtube.com/watch?v=dWIYFg7r9tQ)</content>
+    <summary type="text">[30/06/2024, 19:59 (GMT+7)] 【ARCHIVED KARAOKE】SINGING TIME !!!!【Ayunda Risu】 (Watch on YouTube: https://www.youtube.com/watch?v=dWIYFg7r9tQ)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:10789406-27f5-47ce-b292-3e73252fa9a0</id>
+    <id>urn:uuid:2334f80a-248d-4608-905d-634ff68529c3</id>
     <title>~REBROADCAST~【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts</title>
     <link href="https://www.youtube.com/watch?v=pU4PWKOpxjw" rel="alternate" type="text/html"/>
     <published>2024-06-29T16:18:59.000Z</published>
@@ -239,11 +223,11 @@
       <name>Takanashi Kiara</name>
       <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
     </author>
-    <content type="text">~REBROADCAST~【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts (Watch on YouTube: https://www.youtube.com/watch?v=pU4PWKOpxjw)</content>
+    <summary type="text">[30/06/2024, 11:00 (GMT+7)] ~REBROADCAST~【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts (Watch on YouTube: https://www.youtube.com/watch?v=pU4PWKOpxjw)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:193ed280-505f-4eac-be22-9a8993759db7</id>
+    <id>urn:uuid:d5cd6c4c-13d8-412d-9bdd-92d42ada1c9b</id>
     <title>【UNARCHIVED KARAOKE】IT'S TIME TO SING OUR HEARTS OUT HAKKITO✨</title>
     <link href="https://www.youtube.com/watch?v=5kZEhVkD1Ac" rel="alternate" type="text/html"/>
     <published>2024-06-29T18:10:54.000Z</published>
@@ -252,11 +236,11 @@
       <name>Banzoin Hakka</name>
       <uri>https://www.youtube.com/channel/UC7gxU6NXjKF1LrgOddPzgTw</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】IT'S TIME TO SING OUR HEARTS OUT HAKKITO✨ (Watch on YouTube: https://www.youtube.com/watch?v=5kZEhVkD1Ac)</content>
+    <summary type="text">[30/06/2024, 09:55 (GMT+7)] 【UNARCHIVED KARAOKE】IT'S TIME TO SING OUR HEARTS OUT HAKKITO✨ (Watch on YouTube: https://www.youtube.com/watch?v=5kZEhVkD1Ac)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:e5f091bc-c253-4518-a656-b0ddf0089d49</id>
+    <id>urn:uuid:3c79fab8-17c1-4a96-a018-d5e374489e91</id>
     <title>【UNARCHIVED KARAOKE】Singing A LOT and doing my best!</title>
     <link href="https://www.youtube.com/watch?v=U8EbQLvBaLU" rel="alternate" type="text/html"/>
     <published>2024-06-29T15:57:48.000Z</published>
@@ -265,11 +249,11 @@
       <name>Octavio</name>
       <uri>https://www.youtube.com/channel/UCLk1hcmxg8rJ3Nm1_GvxTRA</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】Singing A LOT and doing my best! (Watch on YouTube: https://www.youtube.com/watch?v=U8EbQLvBaLU)</content>
+    <summary type="text">[30/06/2024, 09:02 (GMT+7)] 【UNARCHIVED KARAOKE】Singing A LOT and doing my best! (Watch on YouTube: https://www.youtube.com/watch?v=U8EbQLvBaLU)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:3b8a4584-d2b8-4ac2-ab12-286ded862d74</id>
+    <id>urn:uuid:92aebf4c-2a8f-4664-8993-21830cea4f0b</id>
     <title>【KARAOKE REBROADCAST】100K KARAOKE SPECIAL</title>
     <link href="https://www.youtube.com/watch?v=ONNx7xCH-Lo" rel="alternate" type="text/html"/>
     <published>2024-06-29T09:19:55.000Z</published>
@@ -278,11 +262,11 @@
       <name>Jurard T Rexford</name>
       <uri>https://www.youtube.com/channel/UCTVSOgYuSWmNAt-lnJPkEEw</uri>
     </author>
-    <content type="text">【KARAOKE REBROADCAST】100K KARAOKE SPECIAL (Watch on YouTube: https://www.youtube.com/watch?v=ONNx7xCH-Lo)</content>
+    <summary type="text">[30/06/2024, 06:07 (GMT+7)] 【KARAOKE REBROADCAST】100K KARAOKE SPECIAL (Watch on YouTube: https://www.youtube.com/watch?v=ONNx7xCH-Lo)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:11780085-d9e7-429b-afa8-dc30f080ebb4</id>
+    <id>urn:uuid:b7a536b4-97e3-497a-9a91-1c355be18280</id>
     <title>【UNARCHIVED KARAOKE】big singing hours (rebroadcast) #shorts</title>
     <link href="https://www.youtube.com/watch?v=QxsgkG4KpoA" rel="alternate" type="text/html"/>
     <published>2024-06-28T09:52:24.000Z</published>
@@ -291,11 +275,11 @@
       <name>Mori Calliope</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】big singing hours (rebroadcast) #shorts (Watch on YouTube: https://www.youtube.com/watch?v=QxsgkG4KpoA)</content>
+    <summary type="text">[30/06/2024, 02:00 (GMT+7)] 【UNARCHIVED KARAOKE】big singing hours (rebroadcast) #shorts (Watch on YouTube: https://www.youtube.com/watch?v=QxsgkG4KpoA)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:ccfca117-9eb5-478d-885e-dbf538e48a86</id>
+    <id>urn:uuid:41555d8f-a3be-4e29-8ed3-a1b908a65c2d</id>
     <title>【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=J2_-OpQa9XU" rel="alternate" type="text/html"/>
     <published>2024-06-29T13:52:17.000Z</published>
@@ -304,11 +288,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=J2_-OpQa9XU)</content>
+    <summary type="text">[30/06/2024, 01:01 (GMT+7)] 【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=J2_-OpQa9XU)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:f389a85a-9069-4edb-83d0-35c68bcff968</id>
+    <id>urn:uuid:4504bdaa-16ef-4c07-97c1-8290110933e8</id>
     <title>【UNARCHIVED KARAOKE】 The Rainbow Ruze Special</title>
     <link href="https://www.youtube.com/watch?v=H1JqQ_S48EQ" rel="alternate" type="text/html"/>
     <published>2024-06-28T07:08:15.000Z</published>
@@ -317,11 +301,11 @@
       <name>Crimzon Ruze</name>
       <uri>https://www.youtube.com/channel/UCajbFh6e_R8QZdHAMbbi4rQ</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】 The Rainbow Ruze Special (Watch on YouTube: https://www.youtube.com/watch?v=H1JqQ_S48EQ)</content>
+    <summary type="text">[29/06/2024, 08:13 (GMT+7)] 【UNARCHIVED KARAOKE】 The Rainbow Ruze Special (Watch on YouTube: https://www.youtube.com/watch?v=H1JqQ_S48EQ)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:8c53c702-324e-410d-abf2-09f0c519987c</id>
+    <id>urn:uuid:f7129fd7-58d7-4afd-8bbb-26226e4a6661</id>
     <title>🛸【歌枠】おはよう~🎤♡ ̖́-SINGING! 久しぶり朝枠!✧︎【ラプラス・ダークネス/ホロライブ】💜</title>
     <link href="https://www.youtube.com/watch?v=Z5XEGbsUZc0" rel="alternate" type="text/html"/>
     <published>2024-06-29T01:43:08.000Z</published>
@@ -330,11 +314,11 @@
       <name>La+ Darknesss</name>
       <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
     </author>
-    <content type="text">🛸【歌枠】おはよう~🎤♡ ̖́-SINGING! 久しぶり朝枠!✧︎【ラプラス・ダークネス/ホロライブ】💜 (Watch on YouTube: https://www.youtube.com/watch?v=Z5XEGbsUZc0)</content>
+    <summary type="text">[29/06/2024, 05:36 (GMT+7)] 🛸【歌枠】おはよう~🎤♡ ̖́-SINGING! 久しぶり朝枠!✧︎【ラプラス・ダークネス/ホロライブ】💜 (Watch on YouTube: https://www.youtube.com/watch?v=Z5XEGbsUZc0)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:32aa376f-2f7e-4b51-88bb-4daa1b6bd6c1</id>
+    <id>urn:uuid:d71626cb-0407-47f5-8b6f-ec8f7e657a6f</id>
     <title>【 歌枠 / Karaoke 】音楽を教えてください / #燃えろアステル</title>
     <link href="https://www.youtube.com/watch?v=B8AAg73BHiE" rel="alternate" type="text/html"/>
     <published>2024-06-28T17:30:37.000Z</published>
@@ -343,11 +327,11 @@
       <name>Astel Leda</name>
       <uri>https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg</uri>
     </author>
-    <content type="text">【 歌枠 / Karaoke 】音楽を教えてください / #燃えろアステル (Watch on YouTube: https://www.youtube.com/watch?v=B8AAg73BHiE)</content>
+    <summary type="text">[28/06/2024, 20:04 (GMT+7)] 【 歌枠 / Karaoke 】音楽を教えてください / #燃えろアステル (Watch on YouTube: https://www.youtube.com/watch?v=B8AAg73BHiE)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:41da050c-950c-4cd8-9e8a-2d0391f8baed</id>
+    <id>urn:uuid:61ead838-42ce-4537-8846-9050e8ed6c30</id>
     <title>【歌枠/KARAOKE】歌うフラワーゴールドデーつまり華金・・・ってコト!?【尾丸ポルカ/ホロライブ】</title>
     <link href="https://www.youtube.com/watch?v=vDqtxP1Ds1k" rel="alternate" type="text/html"/>
     <published>2024-06-28T15:19:56.000Z</published>
@@ -356,11 +340,11 @@
       <name>Omaru Polka</name>
       <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
     </author>
-    <content type="text">【歌枠/KARAOKE】歌うフラワーゴールドデーつまり華金・・・ってコト!?【尾丸ポルカ/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=vDqtxP1Ds1k)</content>
+    <summary type="text">[28/06/2024, 20:03 (GMT+7)] 【歌枠/KARAOKE】歌うフラワーゴールドデーつまり華金・・・ってコト!?【尾丸ポルカ/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=vDqtxP1Ds1k)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:64a2a515-a061-4a41-a912-d54d55806b3a</id>
+    <id>urn:uuid:ee277e15-ba80-417a-9416-631edcdb4d2a</id>
     <title>【歌枠】KAWAII SONG🎵【ホロライブ/夏色まつり】</title>
     <link href="https://www.youtube.com/watch?v=jyrQX5eC9Eg" rel="alternate" type="text/html"/>
     <published>2024-06-28T13:07:52.000Z</published>
@@ -369,11 +353,11 @@
       <name>Natsuiro Matsuri</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
     </author>
-    <content type="text">【歌枠】KAWAII SONG🎵【ホロライブ/夏色まつり】 (Watch on YouTube: https://www.youtube.com/watch?v=jyrQX5eC9Eg)</content>
+    <summary type="text">[28/06/2024, 18:59 (GMT+7)] 【歌枠】KAWAII SONG🎵【ホロライブ/夏色まつり】 (Watch on YouTube: https://www.youtube.com/watch?v=jyrQX5eC9Eg)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:f206547d-84fb-4d12-8d70-7f47e5821216</id>
+    <id>urn:uuid:6c63f827-beee-47f8-81d5-451ae198eace</id>
     <title>REBROADCAST =【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=vGWI990wZrA" rel="alternate" type="text/html"/>
     <published>2024-06-27T23:59:39.000Z</published>
@@ -382,11 +366,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">REBROADCAST =【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=vGWI990wZrA)</content>
+    <summary type="text">[28/06/2024, 12:00 (GMT+7)] REBROADCAST =【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=vGWI990wZrA)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:99e64afa-351e-4163-bb1a-c27cbcc0d040</id>
+    <id>urn:uuid:52e51cb3-aec2-4267-bcd7-6e253b09db3b</id>
     <title>FFXIV Fan Concert - Dawntrail Launch Celebration 【100+ GUESTS】</title>
     <link href="https://www.youtube.com/watch?v=MSdm1bpMlXI" rel="alternate" type="text/html"/>
     <published>2024-06-28T05:47:09.000Z</published>
@@ -395,11 +379,11 @@
       <name>Obake PAM</name>
       <uri>https://www.youtube.com/channel/UCZIFph1bYyGxmFkkNNLAKdA</uri>
     </author>
-    <content type="text">FFXIV Fan Concert - Dawntrail Launch Celebration 【100+ GUESTS】 (Watch on YouTube: https://www.youtube.com/watch?v=MSdm1bpMlXI)</content>
+    <summary type="text">[28/06/2024, 06:15 (GMT+7)] FFXIV Fan Concert - Dawntrail Launch Celebration 【100+ GUESTS】 (Watch on YouTube: https://www.youtube.com/watch?v=MSdm1bpMlXI)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:7c09b569-0588-4393-9032-0434bf2214c6</id>
+    <id>urn:uuid:74965aa4-841d-46eb-94b2-2533458c778e</id>
     <title>【KARAOKE UNARCHIVED REBROADCAST】Vertical Singing 🎼#shorts</title>
     <link href="https://www.youtube.com/watch?v=tAt2UWdjLFw" rel="alternate" type="text/html"/>
     <published>2024-06-27T16:02:34.000Z</published>
@@ -408,11 +392,11 @@
       <name>Nerissa Ravencroft</name>
       <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
     </author>
-    <content type="text">【KARAOKE UNARCHIVED REBROADCAST】Vertical Singing 🎼#shorts (Watch on YouTube: https://www.youtube.com/watch?v=tAt2UWdjLFw)</content>
+    <summary type="text">[27/06/2024, 23:03 (GMT+7)] 【KARAOKE UNARCHIVED REBROADCAST】Vertical Singing 🎼#shorts (Watch on YouTube: https://www.youtube.com/watch?v=tAt2UWdjLFw)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:4221ae63-f631-40fb-9f07-1aafb8748454</id>
+    <id>urn:uuid:89acd6c0-a9e6-464a-855b-f7e370958727</id>
     <title>【ARCHIVED KARAOKE】No More Road Rage【Pavolia Reine/hololiveID 2nd gen】</title>
     <link href="https://www.youtube.com/watch?v=t0OFLL8rerI" rel="alternate" type="text/html"/>
     <published>2024-06-27T17:17:57.000Z</published>
@@ -421,11 +405,11 @@
       <name>Pavolia Reine</name>
       <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
     </author>
-    <content type="text">【ARCHIVED KARAOKE】No More Road Rage【Pavolia Reine/hololiveID 2nd gen】 (Watch on YouTube: https://www.youtube.com/watch?v=t0OFLL8rerI)</content>
+    <summary type="text">[27/06/2024, 21:30 (GMT+7)] 【ARCHIVED KARAOKE】No More Road Rage【Pavolia Reine/hololiveID 2nd gen】 (Watch on YouTube: https://www.youtube.com/watch?v=t0OFLL8rerI)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:99e517f6-13f0-4fc0-8a62-f81e4e20a2bf</id>
+    <id>urn:uuid:7ee650ad-2692-4a0f-8909-700bfa53772b</id>
     <title>【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】</title>
     <link href="https://www.youtube.com/watch?v=Nkd02kieO04" rel="alternate" type="text/html"/>
     <published>2024-06-27T16:30:03.000Z</published>
@@ -434,11 +418,11 @@
       <name>Minato Aqua</name>
       <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
     </author>
-    <content type="text">【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=Nkd02kieO04)</content>
+    <summary type="text">[27/06/2024, 20:03 (GMT+7)] 【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=Nkd02kieO04)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:162e225a-efdf-47a2-b266-6ad29c1c5d98</id>
+    <id>urn:uuid:2390bd49-2852-4803-8e2d-ac3ea6849f8d</id>
     <title>【歌枠】今日の歌枠は○○縛り!!【花咲みやび/ホロスターズ】</title>
     <link href="https://www.youtube.com/watch?v=WBD1OAjuTBM" rel="alternate" type="text/html"/>
     <published>2024-06-27T12:02:38.000Z</published>
@@ -447,12 +431,12 @@
       <name>Hanasaki Miyabi</name>
       <uri>https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw</uri>
     </author>
-    <content type="text">【歌枠】今日の歌枠は○○縛り!!【花咲みやび/ホロスターズ】 (Watch on YouTube: https://www.youtube.com/watch?v=WBD1OAjuTBM)</content>
+    <summary type="text">[27/06/2024, 18:01 (GMT+7)] 【歌枠】今日の歌枠は○○縛り!!【花咲みやび/ホロスターズ】 (Watch on YouTube: https://www.youtube.com/watch?v=WBD1OAjuTBM)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:8c81b384-d9f8-4f16-a3bc-02cbee7d356e</id>
-    <title>【歌枠】そらりりコラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】</title>
+    <id>urn:uuid:20728c7b-85b0-4bd9-8c11-de0e3012560c</id>
+    <title>【歌枠】そらりり��ラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】</title>
     <link href="https://www.youtube.com/watch?v=HN7EbsQnOo4" rel="alternate" type="text/html"/>
     <published>2024-06-27T11:40:03.000Z</published>
     <updated>2024-06-27T10:16:29.000Z</updated>
@@ -460,11 +444,11 @@
       <name>Tokino Sora</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
     </author>
-    <content type="text">【歌枠】そらりりコラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】 (Watch on YouTube: https://www.youtube.com/watch?v=HN7EbsQnOo4)</content>
+    <summary type="text">[27/06/2024, 17:16 (GMT+7)] 【歌枠】そらりり��ラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】 (Watch on YouTube: https://www.youtube.com/watch?v=HN7EbsQnOo4)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:733b5c6f-60c3-48b6-9d89-778d3607d537</id>
+    <id>urn:uuid:99ba76dc-e149-424e-b468-8ab8bbcac536</id>
     <title>【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】</title>
     <link href="https://www.youtube.com/watch?v=dxBVEirha7M" rel="alternate" type="text/html"/>
     <published>2024-06-26T15:34:12.000Z</published>
@@ -473,11 +457,11 @@
       <name>Tsunomaki Watame</name>
       <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
     </author>
-    <content type="text">【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】 (Watch on YouTube: https://www.youtube.com/watch?v=dxBVEirha7M)</content>
+    <summary type="text">[26/06/2024, 20:01 (GMT+7)] 【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】 (Watch on YouTube: https://www.youtube.com/watch?v=dxBVEirha7M)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:923d8693-0280-418b-a920-8d9865c8a4a4</id>
+    <id>urn:uuid:c822910d-bab7-43f8-9a8c-117d8e653c56</id>
     <title>【歌枠】登録者150万人まで歌う耐久🔥🔥【天音かなた/ホロライブ】</title>
     <link href="https://www.youtube.com/watch?v=Otb3etOEe0A" rel="alternate" type="text/html"/>
     <published>2024-06-26T11:12:54.000Z</published>
@@ -486,11 +470,11 @@
       <name>Amane Kanata</name>
       <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
     </author>
-    <content type="text">【歌枠】登録者150万人まで歌う耐久🔥🔥【天音かなた/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=Otb3etOEe0A)</content>
+    <summary type="text">[26/06/2024, 17:03 (GMT+7)] 【歌枠】登録者150万人まで歌う耐久🔥🔥【天音かなた/ホロライブ】 (Watch on YouTube: https://www.youtube.com/watch?v=Otb3etOEe0A)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:f483dd90-9f36-4651-be68-8e0eae0d69b5</id>
+    <id>urn:uuid:608010d3-dd6b-458b-a4c3-9c2949129f29</id>
     <title>【歌枠】うれしいお知らせのお知らせがあります!【 桃鈴ねね / hololive 】</title>
     <link href="https://www.youtube.com/watch?v=fjGFjs_7dTg" rel="alternate" type="text/html"/>
     <published>2024-06-26T10:48:23.000Z</published>
@@ -499,11 +483,11 @@
       <name>Momosuzu Nene</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
     </author>
-    <content type="text">【歌枠】うれしいお知らせのお知らせがあります!【 桃鈴ねね / hololive 】 (Watch on YouTube: https://www.youtube.com/watch?v=fjGFjs_7dTg)</content>
+    <summary type="text">[26/06/2024, 16:01 (GMT+7)] 【歌枠】うれしいお知らせのお知らせがあります!【 桃鈴ねね / hololive 】 (Watch on YouTube: https://www.youtube.com/watch?v=fjGFjs_7dTg)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:a013a8ae-81d7-4199-817f-d98a8427b1f0</id>
+    <id>urn:uuid:8d7c5075-825a-43b5-9ffe-ebdca03bcf10</id>
     <title>【50万人耐久】50万人様迎えるまで歌います!【轟はじめ/ReGLOSS】 #shorts</title>
     <link href="https://www.youtube.com/watch?v=f-P3iKsGMf0" rel="alternate" type="text/html"/>
     <published>2024-06-26T13:10:19.000Z</published>
@@ -512,11 +496,11 @@
       <name>Todoroki Hajime</name>
       <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
     </author>
-    <content type="text">【50万人耐久】50万人様迎えるまで歌います!【轟はじめ/ReGLOSS】 #shorts (Watch on YouTube: https://www.youtube.com/watch?v=f-P3iKsGMf0)</content>
+    <summary type="text">[26/06/2024, 15:54 (GMT+7)] 【50万人耐久】50万人様迎えるまで歌います!【轟はじめ/ReGLOSS】 #shorts (Watch on YouTube: https://www.youtube.com/watch?v=f-P3iKsGMf0)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:b56ce056-a7fe-47ac-acdd-eb973968060f</id>
+    <id>urn:uuid:125c7ecf-6c60-4e41-8c91-38946e416408</id>
     <title>📢UNARCHIVED KARAOKE~</title>
     <link href="https://www.youtube.com/watch?v=xcdlTH2FZEo" rel="alternate" type="text/html"/>
     <published>2022-01-19T01:25:40.000Z</published>
@@ -525,11 +509,11 @@
       <name>Watson Amelia</name>
       <uri>https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg</uri>
     </author>
-    <content type="text">📢UNARCHIVED KARAOKE~ (Watch on YouTube: https://www.youtube.com/watch?v=xcdlTH2FZEo)</content>
+    <summary type="text">[26/06/2024, 11:00 (GMT+7)] 📢UNARCHIVED KARAOKE~ (Watch on YouTube: https://www.youtube.com/watch?v=xcdlTH2FZEo)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:542c9617-aa9d-46fe-bf96-24fc0589617b</id>
+    <id>urn:uuid:fd594fbc-0087-4cb6-80bf-ccd1613e105e</id>
     <title>【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=PzrdX0I814s" rel="alternate" type="text/html"/>
     <published>2024-06-25T15:33:47.000Z</published>
@@ -538,11 +522,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=PzrdX0I814s)</content>
+    <summary type="text">[26/06/2024, 00:59 (GMT+7)] 【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=PzrdX0I814s)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:af01991a-4815-4dec-9d82-1c8e2bae5ac9</id>
+    <id>urn:uuid:2bc08aa3-25b6-487a-91fa-fa05c247f235</id>
     <title>【ゲリラ】割と静かな歌枠【儒烏風亭らでん #ReGLOSS 】</title>
     <link href="https://www.youtube.com/watch?v=4WuHfQyof-g" rel="alternate" type="text/html"/>
     <published>2024-06-25T17:24:20.000Z</published>
@@ -551,11 +535,11 @@
       <name>Juufuutei Raden</name>
       <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
     </author>
-    <content type="text">【ゲリラ】割と静かな歌枠【儒烏風亭らでん #ReGLOSS 】 (Watch on YouTube: https://www.youtube.com/watch?v=4WuHfQyof-g)</content>
+    <summary type="text">[25/06/2024, 21:39 (GMT+7)] 【ゲリラ】割と静かな歌枠【儒烏風亭らでん #ReGLOSS 】 (Watch on YouTube: https://www.youtube.com/watch?v=4WuHfQyof-g)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:18d183df-fd8f-4fb1-9ab8-e40f5e5522fa</id>
+    <id>urn:uuid:2f9a1b21-e3ab-490b-a233-0f71c5d4224c</id>
     <title>【歌枠】mocopiでオリ曲踊りながら歌えるかな?【ホロライブ/ときのそら】</title>
     <link href="https://www.youtube.com/watch?v=bG747G7wxks" rel="alternate" type="text/html"/>
     <published>2024-06-25T12:16:00.000Z</published>
@@ -564,11 +548,11 @@
       <name>Tokino Sora</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
     </author>
-    <content type="text">【歌枠】mocopiでオリ曲踊りながら歌えるかな?【ホロライブ/ときのそら】 (Watch on YouTube: https://www.youtube.com/watch?v=bG747G7wxks)</content>
+    <summary type="text">[25/06/2024, 18:02 (GMT+7)] 【歌枠】mocopiでオリ曲踊りながら歌えるかな?【ホロライブ/ときのそら】 (Watch on YouTube: https://www.youtube.com/watch?v=bG747G7wxks)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:8ba68479-d7b8-48f4-bab8-0ec5e45292f9</id>
+    <id>urn:uuid:8a37f05a-7b9b-45e2-95ec-c5732ae2ae40</id>
     <title>REBROADCAST =【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=rYlB82OyEGU" rel="alternate" type="text/html"/>
     <published>2024-06-25T01:14:12.000Z</published>
@@ -577,11 +561,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">REBROADCAST =【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=rYlB82OyEGU)</content>
+    <summary type="text">[25/06/2024, 14:59 (GMT+7)] REBROADCAST =【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=rYlB82OyEGU)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:c3b3e088-658f-4862-bdad-4f475cef7188</id>
+    <id>urn:uuid:baf513c5-590a-4144-b34e-8534fdf12a0b</id>
     <title>【歌枠】梅雨入り、雨ソング、歌うよ。最後に大事な告知あり! Singing Stream【ホロライブ / AZKi】</title>
     <link href="https://www.youtube.com/watch?v=7SUdCBmrdIw" rel="alternate" type="text/html"/>
     <published>2024-06-24T15:12:07.000Z</published>
@@ -590,11 +574,11 @@
       <name>AZKi</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
     </author>
-    <content type="text">【歌枠】梅雨入り、雨ソング、歌うよ。最後に大事な告知あり! Singing Stream【ホロライブ / AZKi】 (Watch on YouTube: https://www.youtube.com/watch?v=7SUdCBmrdIw)</content>
+    <summary type="text">[24/06/2024, 20:01 (GMT+7)] 【歌枠】梅雨入り、雨ソング、歌うよ。最後に大事な告知あり! Singing Stream【ホロライブ / AZKi】 (Watch on YouTube: https://www.youtube.com/watch?v=7SUdCBmrdIw)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:cad55719-e89c-4b82-8c8b-24a1e72e97fe</id>
+    <id>urn:uuid:4d5dc6ef-ce57-4ff5-b77b-bdc87c4c9fc3</id>
     <title>【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=7AON-46cnOQ" rel="alternate" type="text/html"/>
     <published>2024-06-23T18:10:36.000Z</published>
@@ -603,11 +587,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=7AON-46cnOQ)</content>
+    <summary type="text">[24/06/2024, 03:11 (GMT+7)] 【UNARCHIVED KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=7AON-46cnOQ)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:7b88b13a-2023-4102-b887-1329490bfa77</id>
+    <id>urn:uuid:f090d504-6efc-4705-8f03-8ac19931654d</id>
     <title>【KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice</title>
     <link href="https://www.youtube.com/watch?v=5CM2dON8xhY" rel="alternate" type="text/html"/>
     <published>2024-06-23T20:13:54.000Z</published>
@@ -616,11 +600,11 @@
       <name>Elizabeth Rose Bloodflame</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <content type="text">【KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=5CM2dON8xhY)</content>
+    <summary type="text">[24/06/2024, 02:05 (GMT+7)] 【KARAOKE】Sing Song Innit~! 💄 #hololiveEnglish #holoJustice (Watch on YouTube: https://www.youtube.com/watch?v=5CM2dON8xhY)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:f257768f-e8ef-4e7c-832a-8a2c279077df</id>
+    <id>urn:uuid:2d2c82a1-b63c-4b55-ab89-78f03dec0113</id>
     <title>【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts</title>
     <link href="https://www.youtube.com/watch?v=eufP7tAaWWw" rel="alternate" type="text/html"/>
     <published>2024-06-23T16:20:52.000Z</published>
@@ -629,11 +613,11 @@
       <name>Takanashi Kiara</name>
       <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
     </author>
-    <content type="text">【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts (Watch on YouTube: https://www.youtube.com/watch?v=eufP7tAaWWw)</content>
+    <summary type="text">[24/06/2024, 01:00 (GMT+7)] 【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts (Watch on YouTube: https://www.youtube.com/watch?v=eufP7tAaWWw)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:4f3de28d-ba11-4e0b-96f7-8ba184f556cd</id>
+    <id>urn:uuid:de5b0eeb-c81a-489d-88a6-1fd585bc05a1</id>
     <title>【火威青x宝鐘マリン 】歌青マリ【コラボ歌枠/KARAOKE】#hololiveDEV_IS #ReGLOSS</title>
     <link href="https://www.youtube.com/watch?v=ncjFI9Kfhao" rel="alternate" type="text/html"/>
     <published>2024-06-23T13:18:03.000Z</published>
@@ -642,11 +626,11 @@
       <name>Hiodoshi Ao</name>
       <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
     </author>
-    <content type="text">【火威青x宝鐘マリン 】歌青マリ【コラボ歌枠/KARAOKE】#hololiveDEV_IS #ReGLOSS (Watch on YouTube: https://www.youtube.com/watch?v=ncjFI9Kfhao)</content>
+    <summary type="text">[23/06/2024, 19:00 (GMT+7)] 【火威青x宝鐘マリン 】歌青マリ【コラボ歌枠/KARAOKE】#hololiveDEV_IS #ReGLOSS (Watch on YouTube: https://www.youtube.com/watch?v=ncjFI9Kfhao)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:731840c3-0380-4d83-8abf-cccfa28ddc74</id>
+    <id>urn:uuid:9a7fda7e-117b-4e3e-a9a6-f99bf75d7f99</id>
     <title>【ARCHIVED KARAOKE】road rage【Pavolia Reine/hololiveID 2nd gen】</title>
     <link href="https://www.youtube.com/watch?v=aeIhgOLf2qc" rel="alternate" type="text/html"/>
     <published>2024-06-22T17:52:39.000Z</published>
@@ -655,11 +639,11 @@
       <name>Pavolia Reine</name>
       <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
     </author>
-    <content type="text">【ARCHIVED KARAOKE】road rage【Pavolia Reine/hololiveID 2nd gen】 (Watch on YouTube: https://www.youtube.com/watch?v=aeIhgOLf2qc)</content>
+    <summary type="text">[22/06/2024, 23:14 (GMT+7)] 【ARCHIVED KARAOKE】road rage【Pavolia Reine/hololiveID 2nd gen】 (Watch on YouTube: https://www.youtube.com/watch?v=aeIhgOLf2qc)</summary>
   </entry>
 
   <entry>
-    <id>urn:uuid:6a34ca08-1cdc-4e07-9f9f-25f07cc19403</id>
+    <id>urn:uuid:a7ee440e-c492-46cb-aa44-125f0d9b86dc</id>
     <title>【KARAOKE】かっこいい女、ちゃま。</title>
     <link href="https://www.youtube.com/watch?v=FKkTi3SZVgU" rel="alternate" type="text/html"/>
     <published>2024-06-21T18:15:52.000Z</published>
@@ -668,6 +652,6 @@
       <name>Akai Haato</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
     </author>
-    <content type="text">【KARAOKE】かっこいい女、ちゃま。 (Watch on YouTube: https://www.youtube.com/watch?v=FKkTi3SZVgU)</content>
+    <summary type="text">[21/06/2024, 21:02 (GMT+7)] 【KARAOKE】かっこいい女、ちゃま。 (Watch on YouTube: https://www.youtube.com/watch?v=FKkTi3SZVgU)</summary>
   </entry>
 </feed>
