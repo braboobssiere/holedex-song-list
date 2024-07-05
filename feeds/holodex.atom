@@ -6,6 +6,22 @@
   <updated>2024-07-05T03:10:30.194Z</updated>
 
   <entry>
+    <content type="text/xml">
+        <p:Customer xmlns:p="http://www.ibm.com/crm" xmlns="http://www.ibm.com/crm">
+            <id>10</id>
+            <firstName>John</firstName>
+            <lastName>Doe</lastName>
+        </p:Customer>
+    </content>
+    <title>Atom-Powered Robots Run Amok</title>
+    <link href="http://example.org/2003/12/13/atom03"/>
+    <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <summary>Some text.</summary>
+  </entry>
+
+
+  <entry>
     <id>urn:uuid:b83642f3-dc51-4274-a86d-321bb1c7451b</id>
     <title>【KARAOKE】4th of July SKY EXPLOSIONS🦅 (unarchived singing stream~)</title>
     <link href="https://www.youtube.com/watch?v=hbo_oslztH8" rel="alternate" type="text/html"/>
