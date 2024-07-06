@@ -67,7 +67,7 @@ function createAtomFeed(videos, feedUrl) {
   return feed;
 }
 
-// Define a callback function to handle the API response
+// Define a callback function to handle the API response 
 function handleResponse(response) {
   let data = [];
 
