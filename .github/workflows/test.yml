@@ -29,6 +29,8 @@ jobs:
 
       - name: Push Changes
         if: github.ref == 'refs/heads/main'  # Ensure changes are pushed to the correct branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push origin ${{ github.ref }}
-        # Pushes changes to the remote re sitory
+        # Pushes changes to the remote repository using the provided GitHub token
