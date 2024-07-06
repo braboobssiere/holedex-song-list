@@ -141,17 +141,19 @@ function handleResponse(response) {
 
         // Refetch logic
         hasRefetched = true;
-        const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
-        const requestOptions = {
-          headers: {
-            'X-APIKEY': apiKey
-          }
-        };
+        setTimeout(() => {
+          const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
+          const requestOptions = {
+            headers: {
+              'X-APIKEY': apiKey
+            }
+          };
 
-        const req = https.request(apiUrl, requestOptions, handleResponse);
-        req.end();
+          const req = https.request(apiUrl, requestOptions, handleResponse);
+          req.end();
+        }, 1000); // 1-second delay
         return;
-      }
+    }
 
       // If refetched, compare with initial videos and clean the fields
       if (hasRefetched) {
