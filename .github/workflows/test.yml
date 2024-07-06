@@ -10,6 +10,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Git
+        run: |
+          git config --global user.email "github7gazpuv@pettan.line.pm"
+          git config --global user.name "Boobs"
+
       - name: Verify .gitignore
         run: |
           cat .gitignore
