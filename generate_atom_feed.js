@@ -75,11 +75,14 @@ function createAtomFeed(videos, feedUrl) {
 
 // Function to replace '�' characters in a string
 function replaceInvalidCharacters(str) {
+
   return str.replace(/�+/g, '');
+
 }
 
 // Function to count '�' characters in a string
 function countInvalidCharacters(str) {
+
   return (str.match(/�/g) || []).length;
 }
 
@@ -105,6 +108,7 @@ function compareAndCleanField(field1, field2) {
   
   const cleanField = invalidCount1 <= invalidCount2 ? field1 : field2;
   return replaceInvalidCharacters(cleanField);
+
 }
 
 // Define a callback function to handle the API response
@@ -126,6 +130,7 @@ function handleResponse(response) {
       }
 
       // Check if any '�' characters are present in any video fields
+
       let hasInvalidCharacters = videos.some(video => hasInvalidCharacterInVideo(video));
 
       if (hasInvalidCharacters && !hasRefetched) {
@@ -153,6 +158,7 @@ function handleResponse(response) {
         videos = videos.map((video, index) => cleanVideoFields(video, initialVideos[index]));
       }
 
+
       // Replace '�' characters in the response data
       let cleanedVideos = videos.map(video => {
         return {
@@ -170,6 +176,7 @@ function handleResponse(response) {
           // Add other fields as needed
         };
       });
+
 
       // Process videos and generate Atom feed
       cleanedVideos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
