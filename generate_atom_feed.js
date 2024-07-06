@@ -67,7 +67,7 @@ function createAtomFeed(videos, feedUrl) {
   return feed;
 }
 
-// Function to replace '�' characters in a string
+// Function to replace '�' characters in a strings
 function replaceInvalidCharacters(str) {
   // Replace '�' characters using a regular expression that matches any sequence of '�'
   return str.replace(/�+/g, '');  
