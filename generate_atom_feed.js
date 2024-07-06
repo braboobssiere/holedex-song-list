@@ -112,7 +112,49 @@ function countInvalidCharacters(str) {
   return str.split('�').length - 1;
 }
 
-// Define a callback function to handle the API response
+// Function to handle retrying the API request
+function retryApiRequest(apiUrl, requestOptions, attemptNumber) {
+  return new Promise((resolve, reject) => {
+    console.log(`Attempt ${attemptNumber}: Retrying API request...`);
+
+    const reqRetry = https.request(apiUrl, requestOptions, response => {
+      let data = '';
+      response.on('data', chunk => {
+        data += chunk;
+      });
+
+      response.on('end', () => {
+        if (response.statusCode === 200) {
+          let videos;
+          try {
+            videos = JSON.parse(data);
+          } catch (error) {
+            reject(new Error(`Error parsing JSON: ${error.message}`));
+            return;
+          }
+
+          // Check if any '�' characters are present in any video fields
+          if (hasInvalidCharacterInResponse(videos)) {
+            resolve(false); // Retry needed
+          } else {
+            resolve(videos); // No retry needed, proceed with videos
+          }
+
+        } else {
+          reject(new Error(`Error: ${response.statusCode} ${response.statusMessage}`));
+        }
+      });
+    });
+
+    reqRetry.on('error', err => {
+      reject(new Error(`Error making API request: ${err.message}`));
+    });
+
+    reqRetry.end();
+  });
+}
+
+// Function to handle the API response
 function handleResponse(response, attemptNumber) {
   let data = '';
 
@@ -120,7 +162,7 @@ function handleResponse(response, attemptNumber) {
     data += chunk;
   });
 
-  response.on('end', () => {
+  response.on('end', async () => {
     if (response.statusCode === 200) {
       let videos;
       try {
@@ -130,58 +172,47 @@ function handleResponse(response, attemptNumber) {
         return;
       }
 
-      // Check if any '�' characters are present in any video fields
+      // Retry logic (only retry once)
       if (hasInvalidCharacterInResponse(videos)) {
         console.log(`Attempt ${attemptNumber}: Invalid characters found in some fields. Retrying...`);
-
-        // Retry logic (only retry once)
-        if (attemptNumber === 1) {
-          console.log(`Attempt ${attemptNumber}: Retrying API request...`);
-          const reqRetry = https.request(apiUrl, requestOptions, response => {
-            handleResponse(response, attemptNumber + 1);
-          });
-          reqRetry.end();
-        } else {
+        const retrySuccessful = await retryApiRequest(apiUrl, requestOptions, attemptNumber + 1);
+        if (!retrySuccessful) {
           console.log(`Attempt ${attemptNumber}: Maximum retries reached. Unable to fetch clean data.`);
+          return;
         }
-        return;
+        // Retry succeeded, proceed with cleaned videos
       }
 
       // Process videos and generate Atom feed
-      const promises = videos.map(video => compareVideos(
-        {
-          ...video,
-          title: replaceInvalidCharacters(video.title),
-          id: replaceInvalidCharacters(video.id),
-          published_at: replaceInvalidCharacters(video.published_at),
-          available_at: replaceInvalidCharacters(video.available_at),
-          channel: {
-            ...video.channel,
-            name: replaceInvalidCharacters(video.channel.name),
-            english_name: replaceInvalidCharacters(video.channel.english_name),
-            id: replaceInvalidCharacters(video.channel.id),
+      const cleanedVideos = await Promise.all(videos.map(video =>
+        compareVideos(
+          {
+            ...video,
+            title: replaceInvalidCharacters(video.title),
+            id: replaceInvalidCharacters(video.id),
+            published_at: replaceInvalidCharacters(video.published_at),
+            available_at: replaceInvalidCharacters(video.available_at),
+            channel: {
+              ...video.channel,
+              name: replaceInvalidCharacters(video.channel.name),
+              english_name: replaceInvalidCharacters(video.channel.english_name),
+              id: replaceInvalidCharacters(video.channel.id),
+            },
+            // Add other fields as needed
           },
-          // Add other fields as needed
-        },
-        video
+          video
+        )
       ));
 
-      // Wait for all comparisons to complete
-      Promise.all(promises)
-        .then(cleanedVideos => {
-          // Sort cleanedVideos as needed
-          cleanedVideos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
+      // Sort cleanedVideos as needed
+      cleanedVideos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
-          const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
-          const feed = createAtomFeed(cleanedVideos, feedUrl);
+      const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
+      const feed = createAtomFeed(cleanedVideos, feedUrl);
 
-          const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
-          fs.writeFileSync(outputPath, feed, 'utf8');
-          console.log('Atom feed generated successfully at', outputPath);
-        })
-        .catch(error => {
-          console.error('Error comparing videos:', error);
-        });
+      const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
+      fs.writeFileSync(outputPath, feed, 'utf8');
+      console.log('Atom feed generated successfully at', outputPath);
 
     } else {
       console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
