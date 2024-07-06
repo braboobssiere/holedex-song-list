@@ -3,6 +3,7 @@ name: Remove Feeds Directory
 on:
   pull_request:
     types: [opened, synchronize]
+  workflow_dispatch:  # This enables manual triggering of the workflow
 
 jobs:
   remove-feeds:
