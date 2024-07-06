@@ -78,6 +78,12 @@ function handleResponse(response) {
   response.on('end', () => {
     if (response.statusCode === 200) {
       const videos = JSON.parse(data);
+
+      // Save the JSON response to a file
+      const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
+      fs.writeFileSync(jsonOutputPath, JSON.stringify(videos, null, 2), 'utf8');
+      console.log('JSON response saved successfully at', jsonOutputPath);
+      
       videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
       const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
