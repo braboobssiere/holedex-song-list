@@ -133,13 +133,18 @@ function handleResponse(response) {
       });
 
       if (hasInvalidCharacters) {
-        console.log("Invalid characters found in some fields. Retrying once...");
+        console.log("Invalid characters found in some fields. Retrying immediately...");
 
         // Retry logic
-        setTimeout(() => {
-          const req = https.request(apiUrl, requestOptions, handleResponse);
-          req.end();
-        }, 1000);  // Retry after 1 second
+        const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
+        const requestOptions = {
+          headers: {
+            'X-APIKEY': apiKey
+          }
+        };
+
+        const req = https.request(apiUrl, requestOptions, handleResponse);
+        req.end();
         return;
       }
 
