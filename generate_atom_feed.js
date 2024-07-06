@@ -69,29 +69,40 @@ function createAtomFeed(videos, feedUrl) {
 
 // Define a callback function to handle the API response
 function handleResponse(response) {
-  let data = '';
+  let data = [];
+
+  // Set the response encoding to utf8
+  response.setEncoding('utf8');
 
   response.on('data', chunk => {
-    data += chunk;
+    data.push(chunk);
   });
 
   response.on('end', () => {
     if (response.statusCode === 200) {
-      const videos = JSON.parse(data);
+      try {
+        // Join the chunks into a single string
+        const completeData = data.join('');
+        // Parse the JSON data
+        const videos = JSON.parse(completeData);
 
-      // Save the JSON response to a file
-      const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
-      fs.writeFileSync(jsonOutputPath, JSON.stringify(videos, null, 2), 'utf8');
-      console.log('JSON response saved successfully at', jsonOutputPath);
-      
-      videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
+        // Save the JSON response to a file
+        const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
+        fs.writeFileSync(jsonOutputPath, JSON.stringify(videos, null, 2), 'utf8');
+        console.log('JSON response saved successfully at', jsonOutputPath);
+        
+        // Sort videos by availability date
+        videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
 
-      const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
-      const feed = createAtomFeed(videos, feedUrl);
+        const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
+        const feed = createAtomFeed(videos, feedUrl);
 
-      const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
-      fs.writeFileSync(outputPath, feed, 'utf8');
-      console.log('Atom feed generated successfully at', outputPath);
+        const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
+        fs.writeFileSync(outputPath, feed, 'utf8');
+        console.log('Atom feed generated successfully at', outputPath);
+      } catch (e) {
+        console.error('Error parsing JSON or writing files:', e);
+      }
     } else {
       console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
     }
