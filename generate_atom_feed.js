@@ -15,6 +15,12 @@ const queryParams = {
 const queryString = new URLSearchParams(queryParams).toString();
 const apiKey = process.env.HOLODEX_API_KEY;
 
+// Track if the API has been refetched
+let hasRefetched = false;
+
+// Store the initial fetch data for comparison
+let initialVideos = [];
+
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
@@ -69,41 +75,36 @@ function createAtomFeed(videos, feedUrl) {
 
 // Function to replace '�' characters in a string
 function replaceInvalidCharacters(str) {
-  // Replace '�' characters using a regular expression that matches any sequence of '�'
-  return str.replace(/�+/g, '');  
+  return str.replace(/�+/g, '');
 }
 
 // Function to count '�' characters in a string
 function countInvalidCharacters(str) {
-  return str.split('�').length - 1;
+  return (str.match(/�/g) || []).length;
 }
 
-// Compare two video objects based on their fields
-function compareVideos(video1, video2) {
-  // Compare 'title' field
-  video1.title = compareFields(video1.title, video2.title);
-  
-  // Compare 'id' field (assuming it's a string or number)
-  video1.id = compareFields(video1.id, video2.id);
-  
-  // Compare 'published_at' and 'available_at' fields (assuming they are dates or ISO strings)
-  video1.published_at = compareFields(video1.published_at, video2.published_at);
-  video1.available_at = compareFields(video1.available_at, video2.available_at);
-  
-  // Compare 'channel' object fields
-  video1.channel.name = compareFields(video1.channel.name, video2.channel.name);
-  video1.channel.english_name = compareFields(video1.channel.english_name, video2.channel.english_name);
-  video1.channel.id = compareFields(video1.channel.id, video2.channel.id);
-  
-  return video1;
+// Function to compare and clean video fields
+function cleanVideoFields(video1, video2) {
+  return {
+    title: compareAndCleanField(video1.title, video2.title),
+    id: compareAndCleanField(video1.id, video2.id),
+    published_at: compareAndCleanField(video1.published_at, video2.published_at),
+    available_at: compareAndCleanField(video1.available_at, video2.available_at),
+    channel: {
+      name: compareAndCleanField(video1.channel.name, video2.channel.name),
+      english_name: compareAndCleanField(video1.channel.english_name, video2.channel.english_name),
+      id: compareAndCleanField(video1.channel.id, video2.channel.id)
+    }
+  };
 }
 
-// Compare two fields and return the one with fewer '�' characters
-function compareFields(field1, field2) {
+// Function to compare and clean a single field
+function compareAndCleanField(field1, field2) {
   const invalidCount1 = countInvalidCharacters(field1);
   const invalidCount2 = countInvalidCharacters(field2);
   
-  return invalidCount1 <= invalidCount2 ? field1 : field2;
+  const cleanField = invalidCount1 <= invalidCount2 ? field1 : field2;
+  return replaceInvalidCharacters(cleanField);
 }
 
 // Define a callback function to handle the API response
@@ -125,17 +126,16 @@ function handleResponse(response) {
       }
 
       // Check if any '�' characters are present in any video fields
-      let hasInvalidCharacters = false;
-      videos.forEach(video => {
-        if (hasInvalidCharacterInVideo(video)) {
-          hasInvalidCharacters = true;
-        }
-      });
+      let hasInvalidCharacters = videos.some(video => hasInvalidCharacterInVideo(video));
 
-      if (hasInvalidCharacters) {
-        console.log("Invalid characters found in some fields. Retrying immediately...");
+      if (hasInvalidCharacters && !hasRefetched) {
+        console.log("Invalid characters found in some fields. Refetching once...");
 
-        // Retry logic
+        // Store the initial fetch data for comparison
+        initialVideos = videos;
+
+        // Refetch logic
+        hasRefetched = true;
         const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
         const requestOptions = {
           headers: {
@@ -146,6 +146,11 @@ function handleResponse(response) {
         const req = https.request(apiUrl, requestOptions, handleResponse);
         req.end();
         return;
+      }
+
+      // If refetched, compare with initial videos and clean the fields
+      if (hasRefetched) {
+        videos = videos.map((video, index) => cleanVideoFields(video, initialVideos[index]));
       }
 
       // Replace '�' characters in the response data
@@ -164,11 +169,6 @@ function handleResponse(response) {
           },
           // Add other fields as needed
         };
-      });
-
-      // Compare each video with its cleaned counterpart and choose the one with fewer '�' characters
-      videos.forEach((video, index) => {
-        cleanedVideos[index] = compareVideos(cleanedVideos[index], video);
       });
 
       // Process videos and generate Atom feed
