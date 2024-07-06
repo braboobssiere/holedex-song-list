@@ -75,9 +75,13 @@ function createAtomFeed(videos, feedUrl) {
 
 // Function to replace '�' characters in a string
 function replaceInvalidCharacters(str) {
-
-  return str.replace(/�+/g, '');
-
+  // Replace all occurrences of '�' except one in each sequence
+  let replaced = str.replace(/(�+)/g, (match, group) => {
+    // Keep only the first occurrence of each sequence of '�' and remove the rest
+    return group.charAt(0) + group.slice(1).replace(/�/g, '');
+  });
+  
+  return replaced;
 }
 
 // Function to count '�' characters in a string
