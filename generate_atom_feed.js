@@ -25,7 +25,7 @@ function createAtomFeed(videos, feedUrl) {
   <updated>${new Date().toISOString()}</updated>
 `;
 
-  for (const video of videos) {
+  videos.forEach(video => {
     const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
@@ -61,7 +61,7 @@ function createAtomFeed(videos, feedUrl) {
     <summary>${summary}</summary>
   </entry>
 `;
-  }
+  });
 
   feed += `</feed>`;
   return feed;
