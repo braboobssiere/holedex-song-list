@@ -49,7 +49,8 @@ function createAtomFeed(videos, feedUrl) {
     }
     
     const timeZoneOptions = {
-      // Replace with your desired time zone
+      
+      // Replace with your desired time zone 
       timeZone: 'Etc/GMT-9', 
       day: 'numeric',
       month: 'long',
@@ -57,11 +58,16 @@ function createAtomFeed(videos, feedUrl) {
       hour: 'numeric',
       minute: 'numeric'
     };
+    
     const authorName = video.channel.name;
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+9';
-    const summary = `<![CDATA[【LIVE on ${formattedAvailableTime}】${link}]]>`;
+    // const summary = `<![CDATA[【LIVE on ${formattedAvailableTime}】${link}]]>`;
+  
+    // Convert availableAt to Discord Dynamic Timestamp and use it instead
+    const discordTimestamp = `&lt;t:${Math.floor(availableAt.getTime() / 1000)}:f&gt;`; 
+    const summary = `<![CDATA[【LIVE on ${discordTimestamp}】${link}]]>`;
     
     feed += `
   <entry>
