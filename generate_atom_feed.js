@@ -98,9 +98,11 @@ function handleResponse(response) {
         const videos = JSON.parse(completeData);
         
         // Save the JSON response to a file
-        /* const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
+        // /*
+        const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
         fs.writeFileSync(jsonOutputPath, JSON.stringify(videos, null, 2), 'utf8');
-        console.log('JSON response saved successfully at', jsonOutputPath); */
+        console.log('JSON response saved successfully at', jsonOutputPath); 
+        // */
         
         // Sort videos by availability date
         videos.sort((a, b) => new Date(b.available_at) - new Date(a.available_at));
