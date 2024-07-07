@@ -99,12 +99,13 @@ function handleResponse(response) {
 
         const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
         fs.writeFileSync(outputPath, feed, 'utf8');
+        
         console.log('Atom feed generated successfully at', outputPath);
       } catch (e) {
         console.error('Error parsing JSON or writing files:', e);
       }
     } else {
-      console.log(`Error: ${response.statusCode} ${response.statusMessage}`);
+      console.error(`Error: ${response.statusCode} ${response.statusMessage}`);
     }
   });
 }
@@ -118,4 +119,9 @@ const requestOptions = {
 };
 
 const req = https.request(apiUrl, requestOptions, handleResponse);
+
+req.on('error', (e) => {
+  console.error('Request error:', e.message);
+});
+
 req.end();
