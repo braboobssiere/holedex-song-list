@@ -1,12 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>urn:uuid:07704fc4-c255-4803-851f-86b8a49a3d9e</id>
+  <id>urn:uuid:2a03048c-3df9-49b4-9deb-e09606e5a489</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-07T01:22:12.436Z</updated>
+  <updated>2024-07-07T02:02:34.704Z</updated>
 
   <entry>
-    <id>urn:uuid:ae10e3f4-ac31-44b3-b4f3-90626b46b8f8</id>
+    <id>urn:uuid:862c7c66-4125-4639-8f86-9587bfd54bbf</id>
+    <title><![CDATA[【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います!リレー最後まで盛り上がって行こ~!🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/IuoVrIn4OcM" rel="alternate" type="text/html"/>
+    <published>2024-07-06T16:09:05.000Z</published>
+    <updated>2024-07-06T16:09:05.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[【LIVE on July 7, 19:00 GMT+7】https://www.youtube.com/watch?v=IuoVrIn4OcM]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f976a829-236e-453a-a945-0a34a7d53c32</id>
+    <title><![CDATA[【 #ReGLOSS歌枠リレー 】七夕だ~!リクエスト曲に応えるぜ!!【轟はじめ/ReGLOSS】#hololivedev_is]]></title>
+    <link href="https://youtu.be/kLeLDmpP9P4" rel="alternate" type="text/html"/>
+    <published>2024-07-06T17:05:00.000Z</published>
+    <updated>2024-07-06T17:05:00.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[【LIVE on July 7, 18:00 GMT+7】https://www.youtube.com/watch?v=kLeLDmpP9P4]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9b88fee9-2299-49f7-8021-ca0c9e8926c2</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー願いをReGLOSSへ】2番手!!らでん歌います!!!【儒烏風亭らでん #ReGLOSS 】]]></title>
+    <link href="https://youtu.be/PecMnY19ipM" rel="alternate" type="text/html"/>
+    <published>2024-07-06T15:38:06.000Z</published>
+    <updated>2024-07-06T15:38:06.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[【LIVE on July 7, 17:30 GMT+7】https://www.youtube.com/watch?v=PecMnY19ipM]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:701f93d6-6890-493d-9c57-7eba16ce8d1d</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】七夕のリクエスト歌枠🎶初出曲多め!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】]]></title>
+    <link href="https://youtu.be/2kmA8A20yMQ" rel="alternate" type="text/html"/>
+    <published>2024-07-07T01:26:20.000Z</published>
+    <updated>2024-07-07T01:26:20.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[【LIVE on July 7, 17:00 GMT+7】https://www.youtube.com/watch?v=2kmA8A20yMQ]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0d0e55f7-5cee-4ead-8435-3b0aeef2cfdf</id>
     <title><![CDATA[朝の ウクレレ 歌枠【 奏手イヅル / ホロスターズ 】]]></title>
     <link href="https://youtu.be/g6QLLDb4O7Y" rel="alternate" type="text/html"/>
     <published>2024-07-06T07:00:34.000Z</published>
@@ -19,7 +71,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:eb49c72a-ac33-4fd6-9d79-a9d02fc40126</id>
+    <id>urn:uuid:7177655f-feba-49cf-80cc-6c486611132e</id>
     <title><![CDATA[🛸【歌枠】深夜歌枠～🌃✧︎SINGING! ✧︎【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/-hLnjmeYQV0" rel="alternate" type="text/html"/>
     <published>2024-07-06T16:26:05.000Z</published>
@@ -32,7 +84,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:657a48e1-418a-4344-a3f3-44ca9b6f02c8</id>
+    <id>urn:uuid:b51533a5-ee27-458f-b013-4e34966f6e0b</id>
     <title><![CDATA[【縦型歌枠】目標の155万人目指して歌います！Singing Stream🎤【角巻わため/ホロライブ４期生】　#shorts #vtuber]]></title>
     <link href="https://youtu.be/nQGhvZ-tWUw" rel="alternate" type="text/html"/>
     <published>2024-07-05T16:46:48.000Z</published>
@@ -45,7 +97,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:072421bb-c761-4295-8cf3-63a62ab04653</id>
+    <id>urn:uuid:a8725738-c018-4f02-9023-7b5a68109eca</id>
     <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Daddy Cool~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/WuDVyJo44Jc" rel="alternate" type="text/html"/>
     <published>2024-07-05T17:00:57.000Z</published>
@@ -58,7 +110,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bb3e03f2-c261-4319-842b-4889f3845030</id>
+    <id>urn:uuid:b903deb3-76e4-4670-af8a-00baa928dc9e</id>
     <title><![CDATA[【歌枠】歌うぞ!!何たって配信ができるんだからな!【風真いろは/ホロライブ】#shorts]]></title>
     <link href="https://youtu.be/ll0SzFDKU6s" rel="alternate" type="text/html"/>
     <published>2024-07-05T11:19:48.000Z</published>
@@ -71,7 +123,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:8544acbd-4e8e-4d0f-9d2b-04b4df413e05</id>
+    <id>urn:uuid:46e6bd7a-9014-4540-9897-270eebcd85ac</id>
     <title><![CDATA[【KARAOKE】4th of July SKY EXPLOSIONS🦅 (unarchived singing stream~)]]></title>
     <link href="https://youtu.be/hbo_oslztH8" rel="alternate" type="text/html"/>
     <published>2024-07-04T21:16:22.000Z</published>
@@ -84,7 +136,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:327b1908-e217-4dd1-b466-c8cb6181d6f7</id>
+    <id>urn:uuid:a8662c2f-1d35-4702-8430-170e20fe7ca0</id>
     <title><![CDATA[【UNARCHIVED KARAOKE REBROADCAST】 The Rainbow Ruze Special: Even More Special Than Before]]></title>
     <link href="https://youtu.be/lNj7ac_dMjE" rel="alternate" type="text/html"/>
     <published>2024-07-04T07:48:21.000Z</published>
@@ -97,7 +149,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a2624ad6-5a01-403c-8f75-b96b6783daf7</id>
+    <id>urn:uuid:1e09b704-47de-468a-aa49-5811bd509eb2</id>
     <title><![CDATA[【縦型歌枠】190万人になるまで心を込めて歌いますッ🎶【白銀ノエル/ホロライブ】#shorts]]></title>
     <link href="https://youtu.be/Z8hSuF8PZvc" rel="alternate" type="text/html"/>
     <published>2024-07-04T13:23:53.000Z</published>
@@ -110,7 +162,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:854cebc6-eca9-4445-9371-be9428c5bb40</id>
+    <id>urn:uuid:5bf95b75-9d46-4b86-80a4-0a3291dcb700</id>
     <title><![CDATA[【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ]]></title>
     <link href="https://youtu.be/rrVQv6XFKOE" rel="alternate" type="text/html"/>
     <published>2024-07-03T15:22:42.000Z</published>
@@ -123,7 +175,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:8b6f7770-ed5b-448a-b4a0-13dc7c31bf05</id>
+    <id>urn:uuid:49044ec5-dded-49c2-b47b-43b8a04c6a4f</id>
     <title><![CDATA[【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ]]></title>
     <link href="https://youtu.be/pUOhgzcITbI" rel="alternate" type="text/html"/>
     <published>2024-07-03T07:35:04.000Z</published>
@@ -136,7 +188,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0ff3ebc1-1941-47ad-b1ef-63116fa45944</id>
+    <id>urn:uuid:61e58663-e19d-439a-b11e-41e923ba40f1</id>
     <title><![CDATA[【UNARCHIVED KARAOKE REBROADCAST】Singing A LOT and doing my best!]]></title>
     <link href="https://youtu.be/ojWR5DJARPo" rel="alternate" type="text/html"/>
     <published>2024-07-03T01:20:31.000Z</published>
@@ -149,7 +201,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:05dc112b-0e6a-4e81-92c1-3abb004162bc</id>
+    <id>urn:uuid:4ed426a3-0632-4b6d-bcf4-3ba38583c88d</id>
     <title><![CDATA[【歌枠】夜ですね。歌うよ~!!【ときのそら/ホロライブ】]]></title>
     <link href="https://youtu.be/zBQf4yKmbUk" rel="alternate" type="text/html"/>
     <published>2024-07-03T12:36:08.000Z</published>
@@ -162,7 +214,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3d011e51-24b0-40af-bba7-ddc80e1ad6fa</id>
+    <id>urn:uuid:7e8104a9-c6f3-4251-882c-a7dcd8f61e2f</id>
     <title><![CDATA[【歌枠/KARAOKE】もうすぐ47万人!キリがいいので歌います!【火威青】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/oiJwwuwFTzw" rel="alternate" type="text/html"/>
     <published>2024-07-03T11:24:42.000Z</published>
@@ -175,7 +227,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d66113cc-0158-4f3c-b884-12ff3fbe3a9d</id>
+    <id>urn:uuid:2cbbb544-d68a-4c90-985a-feaae8baf754</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】Daddy Cool~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/-GNpW_6JuTo" rel="alternate" type="text/html"/>
     <published>2024-07-02T21:35:26.000Z</published>
@@ -188,7 +240,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:53bb2eba-3603-492c-a216-fda21d0ec126</id>
+    <id>urn:uuid:09ea5a1c-17a4-4ee7-a3ef-62e4ac45e0ff</id>
     <title><![CDATA[歌が歌いたい気分なので調子いい間に歌う!【 桃鈴ねね / hololive 】#shorts]]></title>
     <link href="https://youtu.be/GRmIJ3myhQ8" rel="alternate" type="text/html"/>
     <published>2024-07-02T09:12:34.000Z</published>
@@ -201,7 +253,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ebd29a52-f557-429c-9f4d-75b0e20c9633</id>
+    <id>urn:uuid:a9b816ad-ad5c-4172-ade8-69f9e7c33669</id>
     <title><![CDATA[【Unarchived Karaoke】Anime Girl Goes Through Her Gangsta Arc #shorts]]></title>
     <link href="https://youtu.be/WDBp2BmRmq0" rel="alternate" type="text/html"/>
     <published>2024-06-19T06:55:17.000Z</published>
@@ -214,7 +266,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:37a54b87-614b-4b4a-9632-cd4a8152ba6b</id>
+    <id>urn:uuid:0199ac38-31c7-4b9b-b7ec-4164a01a3b20</id>
     <title><![CDATA[最近なきそさんの曲にはまってるんだけど、ちょっと歌った!MIXしてないから音程ご愛敬で・・・・・・・]]></title>
     <link href="https://youtu.be/VMKju9TTjq8" rel="alternate" type="text/html"/>
     <published>2024-07-01T09:23:31.000Z</published>
@@ -227,7 +279,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3f23af12-1c35-45ad-a345-9ddac88fb23d</id>
+    <id>urn:uuid:3ebd2582-7f5f-4c07-80ad-d9c26d2affe1</id>
     <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/wc2JvwyyfNM" rel="alternate" type="text/html"/>
     <published>2024-06-30T22:35:47.000Z</published>
@@ -240,7 +292,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d857c9db-9b62-4e9c-b718-44ff4110aefb</id>
+    <id>urn:uuid:55483e1c-199b-46d5-9ceb-9a0a14bc6489</id>
     <title><![CDATA[brown moom singin in the dead of night]]></title>
     <link href="https://youtu.be/oG9b_I3GoI0" rel="alternate" type="text/html"/>
     <published>2024-07-01T06:24:49.000Z</published>
@@ -253,7 +305,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:70fd7f9b-05f2-45d7-9f0f-298c3bfd8a03</id>
+    <id>urn:uuid:6394f5c4-4ad0-463d-8d7d-46e5a01fa70b</id>
     <title><![CDATA[おやすみ歌枠 その0120 【 奏手イヅル / ホロスターズ 】]]></title>
     <link href="https://youtu.be/s_dg_y4bGGA" rel="alternate" type="text/html"/>
     <published>2024-06-30T14:58:46.000Z</published>
@@ -266,7 +318,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:5facc3b4-54d4-4049-a724-e3135d259432</id>
+    <id>urn:uuid:360ae5e1-a21f-426c-a358-3ab82ef7fb4d</id>
     <title><![CDATA[【ARCHIVED KARAOKE】SINGING TIME !!!!【Ayunda Risu】]]></title>
     <link href="https://youtu.be/dWIYFg7r9tQ" rel="alternate" type="text/html"/>
     <published>2024-06-30T18:11:45.000Z</published>
@@ -279,7 +331,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6a89b6ec-ddb1-4dd4-a143-67980fc97ff7</id>
+    <id>urn:uuid:bd2b8417-a9c5-47b3-b06e-e2ca4151d8fc</id>
     <title><![CDATA[~REBROADCAST~【KARAOKE】70s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts]]></title>
     <link href="https://youtu.be/pU4PWKOpxjw" rel="alternate" type="text/html"/>
     <published>2024-06-29T16:18:59.000Z</published>
@@ -292,7 +344,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bbb4ea39-7b10-4d9c-9dbd-98f693ca7815</id>
+    <id>urn:uuid:09838c10-4628-48aa-b41c-73fca3d0a7c0</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】IT'S TIME TO SING OUR HEARTS OUT HAKKITO✨]]></title>
     <link href="https://youtu.be/5kZEhVkD1Ac" rel="alternate" type="text/html"/>
     <published>2024-06-29T18:10:54.000Z</published>
@@ -305,7 +357,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1ffe5e47-ab9c-4b86-93c1-31b1ebadbfb6</id>
+    <id>urn:uuid:330a0e91-7bf6-472a-b6d0-e73ed83812e1</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】Singing A LOT and doing my best!]]></title>
     <link href="https://youtu.be/U8EbQLvBaLU" rel="alternate" type="text/html"/>
     <published>2024-06-29T15:57:48.000Z</published>
@@ -318,7 +370,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:58c500eb-68ca-4aaf-a741-4a9bef6b3b7b</id>
+    <id>urn:uuid:cd02f164-8a85-4f67-ba83-8288d9a0caf8</id>
     <title><![CDATA[【KARAOKE REBROADCAST】100K KARAOKE SPECIAL]]></title>
     <link href="https://youtu.be/ONNx7xCH-Lo" rel="alternate" type="text/html"/>
     <published>2024-06-29T09:19:55.000Z</published>
@@ -331,7 +383,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b1d7e8f7-54d9-4d1f-9258-89bdfad7dddb</id>
+    <id>urn:uuid:c6a723e8-6eed-446e-9286-b238a02cea4b</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】big singing hours (rebroadcast) #shorts]]></title>
     <link href="https://youtu.be/QxsgkG4KpoA" rel="alternate" type="text/html"/>
     <published>2024-06-28T09:52:24.000Z</published>
@@ -344,7 +396,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:39f7cf9c-5552-44c2-9541-d3b4513f57df</id>
+    <id>urn:uuid:49368866-6e77-4752-a5e6-9afae88ce281</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】Shall We Dance?~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/J2_-OpQa9XU" rel="alternate" type="text/html"/>
     <published>2024-06-29T13:52:17.000Z</published>
@@ -357,7 +409,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d355c766-2e9f-4eed-b8e4-3ba727ee261e</id>
+    <id>urn:uuid:b3b32555-9ab2-4957-9218-267371539d7b</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】 The Rainbow Ruze Special]]></title>
     <link href="https://youtu.be/H1JqQ_S48EQ" rel="alternate" type="text/html"/>
     <published>2024-06-28T07:08:15.000Z</published>
@@ -370,7 +422,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4a20a529-d5c9-4234-87c0-62f54a9d7f6e</id>
+    <id>urn:uuid:0b15741a-7272-42b6-8062-091ad9ef2a3c</id>
     <title><![CDATA[🛸【歌枠】おはよう~🎤♡ ̖́-SINGING! 久しぶり朝枠!✧︎【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/Z5XEGbsUZc0" rel="alternate" type="text/html"/>
     <published>2024-06-29T01:43:08.000Z</published>
@@ -383,7 +435,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:46bbea78-1e72-490b-a5fc-12454c95b160</id>
+    <id>urn:uuid:e36efd2a-b5c6-43cc-bc19-3d700df40a73</id>
     <title><![CDATA[【 歌枠 / Karaoke 】音楽を教えてください / #燃えろアステル]]></title>
     <link href="https://youtu.be/B8AAg73BHiE" rel="alternate" type="text/html"/>
     <published>2024-06-28T17:30:37.000Z</published>
@@ -396,7 +448,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:77a7bf28-1161-475c-a1c5-836e6df73fe2</id>
+    <id>urn:uuid:bc42eaf1-8423-4211-bf07-35d94e9b6d91</id>
     <title><![CDATA[【歌枠/KARAOKE】歌うフラワーゴールドデーつまり華金・・・ってコト!?【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/vDqtxP1Ds1k" rel="alternate" type="text/html"/>
     <published>2024-06-28T15:19:56.000Z</published>
@@ -409,7 +461,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e83e64d0-9ae3-4e01-b741-390f26c44c1c</id>
+    <id>urn:uuid:36e222af-e5fc-4968-8d2b-e2013d8a865d</id>
     <title><![CDATA[【歌枠】KAWAII SONG🎵【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/jyrQX5eC9Eg" rel="alternate" type="text/html"/>
     <published>2024-06-28T13:07:52.000Z</published>
@@ -422,7 +474,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1f7300e2-f60f-481e-bf0f-f4e9031e8ebd</id>
+    <id>urn:uuid:46fb9654-d909-4172-89cb-c9bbc347eebc</id>
     <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/vGWI990wZrA" rel="alternate" type="text/html"/>
     <published>2024-06-27T23:59:39.000Z</published>
@@ -435,7 +487,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:85ac1749-b135-4e37-9015-79d37448cf5d</id>
+    <id>urn:uuid:82abd213-7d6b-4e45-a701-fc6832b64616</id>
     <title><![CDATA[FFXIV Fan Concert - Dawntrail Launch Celebration 【100+ GUESTS】]]></title>
     <link href="https://youtu.be/MSdm1bpMlXI" rel="alternate" type="text/html"/>
     <published>2024-06-28T05:47:09.000Z</published>
@@ -448,7 +500,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:5fa00b14-94b2-4a2b-a78c-fb204263193a</id>
+    <id>urn:uuid:75870602-8a98-4a77-b841-1e2e9797fd66</id>
     <title><![CDATA[【KARAOKE UNARCHIVED REBROADCAST】Vertical Singing 🎼#shorts]]></title>
     <link href="https://youtu.be/tAt2UWdjLFw" rel="alternate" type="text/html"/>
     <published>2024-06-27T16:02:34.000Z</published>
@@ -461,7 +513,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3dffdd34-1e41-4c25-96ad-3fb396579496</id>
+    <id>urn:uuid:a8c8d458-e29d-4d25-8301-f9e9f0fc0826</id>
     <title><![CDATA[【ARCHIVED KARAOKE】No More Road Rage【Pavolia Reine/hololiveID 2nd gen】]]></title>
     <link href="https://youtu.be/t0OFLL8rerI" rel="alternate" type="text/html"/>
     <published>2024-06-27T17:17:57.000Z</published>
@@ -474,7 +526,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:46df90e3-69d3-4ed8-b60d-25eda0937d74</id>
+    <id>urn:uuid:0257ac80-40af-4ca2-ae00-5fdd7ca8b79c</id>
     <title><![CDATA[【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】]]></title>
     <link href="https://youtu.be/Nkd02kieO04" rel="alternate" type="text/html"/>
     <published>2024-06-27T16:30:03.000Z</published>
@@ -487,7 +539,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:8b0b90a4-c47e-435a-b430-715985391339</id>
+    <id>urn:uuid:2baa60a1-8166-4879-9afa-c27f89e958d5</id>
     <title><![CDATA[【歌枠】今日の歌枠は○○縛り!!【花咲みやび/ホロスターズ】]]></title>
     <link href="https://youtu.be/WBD1OAjuTBM" rel="alternate" type="text/html"/>
     <published>2024-06-27T12:02:38.000Z</published>
@@ -500,7 +552,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f1feb89d-4594-46d2-9502-eff7d5d0bcb4</id>
+    <id>urn:uuid:27651824-7714-4a37-85f5-953af8e874f6</id>
     <title><![CDATA[【歌枠】そらりりコラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】]]></title>
     <link href="https://youtu.be/HN7EbsQnOo4" rel="alternate" type="text/html"/>
     <published>2024-06-27T11:40:03.000Z</published>
@@ -513,7 +565,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:8ea6927a-5e68-4ce6-876b-8813ae45b3c2</id>
+    <id>urn:uuid:dd66c90b-7e71-4d52-81da-2ec6a6313935</id>
     <title><![CDATA[【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/dxBVEirha7M" rel="alternate" type="text/html"/>
     <published>2024-06-26T15:34:12.000Z</published>
@@ -526,7 +578,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9b8834be-6920-4de1-92a8-c7ec816d1d02</id>
+    <id>urn:uuid:cfeddb78-f333-4735-b7c3-7ee6f816a366</id>
     <title><![CDATA[【歌枠】登録者150万人まで歌う耐久🔥🔥【天音かなた/ホロライブ】]]></title>
     <link href="https://youtu.be/Otb3etOEe0A" rel="alternate" type="text/html"/>
     <published>2024-06-26T11:12:54.000Z</published>
@@ -539,7 +591,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0eeaff58-ab85-41db-9fd1-aa51993b4e2a</id>
+    <id>urn:uuid:546f7b38-553b-4b1f-8a0c-30a3705a5412</id>
     <title><![CDATA[【歌枠】うれしいお知らせのお知らせがあります!【 桃鈴ねね / hololive 】]]></title>
     <link href="https://youtu.be/fjGFjs_7dTg" rel="alternate" type="text/html"/>
     <published>2024-06-26T10:48:23.000Z</published>
@@ -552,7 +604,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e69490e5-995f-4bb9-8667-e7823e4f64bd</id>
+    <id>urn:uuid:e76a3955-c5e4-45fc-a42d-8590056c5fa2</id>
     <title><![CDATA[【50万人耐久】50万人様迎えるまで歌います!【轟はじめ/ReGLOSS】 #shorts]]></title>
     <link href="https://youtu.be/f-P3iKsGMf0" rel="alternate" type="text/html"/>
     <published>2024-06-26T13:10:19.000Z</published>
@@ -565,7 +617,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0f309856-e029-45ba-b699-abcd6aed3be5</id>
+    <id>urn:uuid:9df0d3e7-55c5-4921-992c-997e2047c916</id>
     <title><![CDATA[📢UNARCHIVED KARAOKE~]]></title>
     <link href="https://youtu.be/xcdlTH2FZEo" rel="alternate" type="text/html"/>
     <published>2022-01-19T01:25:40.000Z</published>
@@ -578,7 +630,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e524b66d-284d-4bcb-900d-2d32cada26a4</id>
+    <id>urn:uuid:734fa77a-cf95-40b1-af23-bde960f9a041</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】Kiss From A Rose?~! 💄 #hololiveEnglish #holoJustice]]></title>
     <link href="https://youtu.be/PzrdX0I814s" rel="alternate" type="text/html"/>
     <published>2024-06-25T15:33:47.000Z</published>
@@ -591,7 +643,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:530d07d4-0a7d-431f-abc0-af29f538c518</id>
+    <id>urn:uuid:59d1d12b-a57b-4592-8ead-69a86c6a49e7</id>
     <title><![CDATA[【ゲリラ】割と静かな歌枠【儒烏風亭らでん #ReGLOSS 】]]></title>
     <link href="https://youtu.be/4WuHfQyof-g" rel="alternate" type="text/html"/>
     <published>2024-06-25T17:24:20.000Z</published>
@@ -601,18 +653,5 @@
       <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
     </author>
     <summary><![CDATA[【LIVE on June 25, 21:39 GMT+7】https://www.youtube.com/watch?v=4WuHfQyof-g]]></summary>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2fa59746-47fe-4777-afb2-9a1e4a08c3ab</id>
-    <title><![CDATA[【歌枠】mocopiでオリ曲踊りながら歌えるかな?【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/bG747G7wxks" rel="alternate" type="text/html"/>
-    <published>2024-06-25T12:16:00.000Z</published>
-    <updated>2024-06-25T11:02:09.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[【LIVE on June 25, 18:02 GMT+7】https://www.youtube.com/watch?v=bG747G7wxks]]></summary>
   </entry>
 </feed>

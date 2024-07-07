@@ -57,14 +57,33 @@
     }
   },
   {
+    "id": "2kmA8A20yMQ",
+    "title": "【#ReGLOSS歌枠リレー】七夕のリクエスト歌枠🎶初出曲多め!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-07-07T01:26:20.000Z",
+    "available_at": "2024-07-07T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/TQwdYxMCQYmBQskSxmdAbfAqRR__ROlB-mFGlCFqLF4C-6vHpjYkWj9GbnlKOoOTaOMssRGw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "g6QLLDb4O7Y",
     "title": "朝の ウクレレ 歌枠【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-07-06T07:00:34.000Z",
     "available_at": "2024-07-07T00:02:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6479,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -103,6 +122,7 @@
     "available_at": "2024-07-06T09:02:30.000Z",
     "duration": 15743,
     "status": "past",
+    "songcount": 25,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -121,7 +141,7 @@
     "published_at": "2024-07-05T17:00:57.000Z",
     "available_at": "2024-07-05T18:01:05.000Z",
     "duration": 11727,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -958,26 +978,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MrOx47-A0RkLxHN5Wh8stc3SYfbPGNHdJY9AnjD5mRkuKYVeYjxlBSnzKHtqTjDQ3Lm_MRCjcA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "bG747G7wxks",
-    "title": "【歌枠】mocopiでオリ曲踊りながら歌えるかな?【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-06-25T12:16:00.000Z",
-    "available_at": "2024-06-25T11:02:09.000Z",
-    "duration": 4192,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   }
 ]
