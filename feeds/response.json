@@ -1,32 +1,13 @@
 [
   {
-    "id": "mOese-wPEwU",
-    "title": "【歌枠】七夕の夜に、一曲、聞いていきませんか? Singing Stream【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-07-07T11:40:38.000Z",
-    "available_at": "2024-07-07T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "dUiJxDfCNa4",
     "title": "【歌/song】七夕の日に贈るボクのバラード…みんなの願いは?🎋【ホロライブ / ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-07-07T07:54:15.000Z",
-    "available_at": "2024-07-07T14:00:00.000Z",
+    "available_at": "2024-07-07T14:01:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -35,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "mOese-wPEwU",
+    "title": "【歌枠】七夕の夜に、一曲、聞いていきませんか? Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-07-07T11:40:38.000Z",
+    "available_at": "2024-07-07T14:00:32.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
