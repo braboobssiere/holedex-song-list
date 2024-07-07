@@ -31,8 +31,19 @@ function createAtomFeed(videos, feedUrl) {
     const link = `https://www.youtube.com/watch?v=${video.id}`;
     const publishedAt = new Date(video.published_at);
     const availableAt = new Date(video.available_at);
-    const published = publishedAt.toISOString();
-    const updated = availableAt.toISOString();
+    const now = new Date();
+
+    let published;
+    let updated;
+    
+    if (now > availableAt) {
+      published = publishedAt.toISOString();
+      updated = availableAt.toISOString();
+    } else {
+      published = publishedAt.toISOString();
+      updated = publishedAt.toISOString();
+    }
+    
     const timeZoneOptions = {
       timeZone: 'Asia/Jakarta', // Replace with your desired time zone
       day: 'numeric',
