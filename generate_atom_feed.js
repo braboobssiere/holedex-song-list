@@ -26,6 +26,10 @@ function createAtomFeed(videos, feedUrl) {
 `;
 
   videos.forEach(video => {
+  // Skip videos with status "missing"
+  if (video.status === "missing") {
+    return;
+  }
     const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
