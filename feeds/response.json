@@ -1,5 +1,24 @@
 [
   {
+    "id": "mOese-wPEwU",
+    "title": "【歌枠】七夕の夜に、一曲、聞いていきませんか? Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-07-07T11:40:38.000Z",
+    "available_at": "2024-07-07T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "dUiJxDfCNa4",
     "title": "【歌/song】七夕の日に贈るボクのバラード…みんなの願いは?🎋【ホロライブ / ロボ子さん】",
     "type": "stream",
@@ -24,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-07-06T16:09:05.000Z",
-    "available_at": "2024-07-07T12:00:00.000Z",
+    "available_at": "2024-07-07T11:59:48.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -43,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-07-07T06:58:58.000Z",
-    "available_at": "2024-07-07T11:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-07-07T11:30:51.000Z",
+    "duration": 1722,
+    "status": "past",
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
       "name": "Ao Ch. 火威青 ‐ ReGLOSS",
@@ -63,8 +82,8 @@
     "topic_id": "singing",
     "published_at": "2024-07-06T17:05:00.000Z",
     "available_at": "2024-07-07T11:00:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1805,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -82,8 +101,8 @@
     "topic_id": "singing",
     "published_at": "2024-07-07T09:36:09.000Z",
     "available_at": "2024-07-07T10:59:30.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3702,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -954,29 +973,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "f-P3iKsGMf0",
-    "title": "【50万人耐久】50万人様迎えるまで歌います!【轟はじめ/ReGLOSS】 #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-06-26T13:10:19.000Z",
-    "available_at": "2024-06-26T08:54:07.000Z",
-    "duration": 14633,
-    "status": "past",
-    "songcount": 32,
-    "live_tl_count": {
-      "en": 85
-    },
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vMM_SKbkipyDVJkUYPPWlQkgThE1rXMSh7hkhqvC_Qs-iTigfyKW23OfLH5U1HFTZIcsHR2Z=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   }
 ]
