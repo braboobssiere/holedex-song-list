@@ -49,7 +49,8 @@ function createAtomFeed(videos, feedUrl) {
     }
     
     const timeZoneOptions = {
-      timeZone: 'Asia/Jakarta', // Replace with your desired time zone
+      // Replace with your desired time zone
+      timeZone: 'Etc/GMT-9', 
       day: 'numeric',
       month: 'long',
       hour12: false,
@@ -59,7 +60,7 @@ function createAtomFeed(videos, feedUrl) {
     const authorName = video.channel.name;
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
-    const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+7';
+    const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+9';
     const summary = `<![CDATA[【LIVE on ${formattedAvailableTime}】${link}]]>`;
     
     feed += `
@@ -109,7 +110,8 @@ function handleResponse(response) {
         // Sort videos by published date
         videos.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
 
-        const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; // actual feed URL
+        // actual feed URL
+        const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; 
         const feed = createAtomFeed(videos, feedUrl);
 
         const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
