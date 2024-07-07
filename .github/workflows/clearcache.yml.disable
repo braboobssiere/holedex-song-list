@@ -15,7 +15,7 @@ jobs:
 
       - name: Set up Git
         run: |
-          git config --global user.email "github7gazpuv@pettan.line.pm"
+          git config --global user.email "<redacted>"
           git config --global user.name "Boobs"
 
       - name: Verify .gitignore
