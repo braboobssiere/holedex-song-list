@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>urn:uuid:83df780b-7bb4-4219-b922-bcd59bbec7b2</id>
+  <id>urn:uuid:b031c270-a794-4ab7-9a65-4f5bb53d4580</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-08T13:12:29.884Z</updated>
+  <updated>2024-07-08T14:09:32.782Z</updated>
 
   <entry>
-    <id>urn:uuid:4ab16c85-ad24-49b9-897f-c835ecf52317</id>
+    <id>urn:uuid:cbcd52d0-629f-4903-9bff-12221215980f</id>
     <title><![CDATA[【MoonUtau】Use me as your radio【unarchive】]]></title>
     <link href="https://youtu.be/G6s5IcfeqDM" rel="alternate" type="text/html"/>
     <published>2024-07-08T11:34:48.000Z</published>
@@ -19,7 +19,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9d85d050-5813-4c5d-b59c-5c4b1e2f98a8</id>
+    <id>urn:uuid:ea631945-cad1-413c-b6c9-763ddf596307</id>
     <title><![CDATA[【歌枠】1日遅れの七夕!織姫あくたんうたいます!!!【湊あくあ/ホロライブ】]]></title>
     <link href="https://youtu.be/MtfhX5YiX0M" rel="alternate" type="text/html"/>
     <published>2024-07-08T08:30:36.000Z</published>
@@ -32,7 +32,33 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1a88201f-2d05-4abe-b882-43d391a63b62</id>
+    <id>urn:uuid:6c4f01cd-77e6-482c-8b83-e79eff1bfa7b</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】七夕なので織姫(キミ)からのリクエスト曲を歌う✨【火威青】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/PLf45ylc9AE" rel="alternate" type="text/html"/>
+    <published>2024-07-07T12:11:19.000Z</published>
+    <updated>2024-07-07T11:30:51.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[【LIVE on &lt;t:1720351851:f&gt;】https://www.youtube.com/watch?v=PLf45ylc9AE]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac97645b-8500-4611-8b27-347590ad3ec2</id>
+    <title><![CDATA[【七夕歌枠】夜空へ向けて届けまつりの歌🌠 / Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/I8ICeTijuwA" rel="alternate" type="text/html"/>
+    <published>2024-07-07T12:06:30.000Z</published>
+    <updated>2024-07-07T10:59:30.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[【LIVE on &lt;t:1720349970:f&gt;】https://www.youtube.com/watch?v=I8ICeTijuwA]]></summary>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:72b05c59-95a5-4865-b427-ad942590b1f9</id>
     <title><![CDATA[【歌枠】七夕の夜に、一曲、聞いていきませんか？ Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/mOese-wPEwU" rel="alternate" type="text/html"/>
     <published>2024-07-07T11:40:38.000Z</published>
@@ -45,7 +71,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b65fa6fa-be5a-4c9c-960a-a8dafa623a62</id>
+    <id>urn:uuid:10e5d0c6-7738-424a-8562-81835972668c</id>
     <title><![CDATA[【 #ReGLOSS歌枠リレー 】七夕だ~!リクエスト曲に応えるぜ!!【轟はじめ/ReGLOSS】#hololivedev_is]]></title>
     <link href="https://youtu.be/kLeLDmpP9P4" rel="alternate" type="text/html"/>
     <published>2024-07-07T11:33:02.000Z</published>
@@ -58,7 +84,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f5829011-e95d-467f-b9b1-698f2a537b35</id>
+    <id>urn:uuid:64378c90-e60a-4c77-aeff-8788690d529f</id>
     <title><![CDATA[【#ReGLOSS歌枠リレー】七夕のリクエスト歌枠🎶初出曲多め!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】]]></title>
     <link href="https://youtu.be/2kmA8A20yMQ" rel="alternate" type="text/html"/>
     <published>2024-07-07T11:23:51.000Z</published>
@@ -71,7 +97,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:09a8d500-989e-435b-bdb5-5e41b5b87d0e</id>
+    <id>urn:uuid:70f0df6a-4b51-416c-92c7-04c95b039b03</id>
     <title><![CDATA[【#ReGLOSS歌枠リレー願いをReGLOSSへ】2番手!!らでん歌います!!!【儒烏風亭らでん #ReGLOSS 】]]></title>
     <link href="https://youtu.be/PecMnY19ipM" rel="alternate" type="text/html"/>
     <published>2024-07-07T11:03:31.000Z</published>
@@ -84,20 +110,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4cf36151-2c74-41e9-a86b-ab2f410ad17e</id>
-    <title><![CDATA[【七夕歌枠】夜空へ向けて届けまつりの歌🌠 / Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/I8ICeTijuwA" rel="alternate" type="text/html"/>
-    <published>2024-07-07T09:36:09.000Z</published>
-    <updated>2024-07-07T10:59:30.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[【LIVE on &lt;t:1720349970:f&gt;】https://www.youtube.com/watch?v=I8ICeTijuwA]]></summary>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:628b35da-02ea-42c1-8404-c7ab36b252c2</id>
+    <id>urn:uuid:3bf783d1-d211-4d71-8e12-59b5a3d8976a</id>
     <title><![CDATA[【歌/song】七夕の日に贈るボクのバラード…みんなの願いは?🎋【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/dUiJxDfCNa4" rel="alternate" type="text/html"/>
     <published>2024-07-07T07:54:15.000Z</published>
@@ -110,20 +123,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:27310e86-2102-4e09-a7e4-1ae5fa2c4591</id>
-    <title><![CDATA[【#ReGLOSS歌枠リレー】七夕なので織姫(キミ)からのリクエスト曲を歌う✨【火威青】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/PLf45ylc9AE" rel="alternate" type="text/html"/>
-    <published>2024-07-07T06:58:58.000Z</published>
-    <updated>2024-07-07T11:30:51.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[【LIVE on &lt;t:1720351851:f&gt;】https://www.youtube.com/watch?v=PLf45ylc9AE]]></summary>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c4e57675-5a1c-4e89-8094-2cbb15d1758e</id>
+    <id>urn:uuid:198326ec-1be6-46b4-a3f9-63be1c9d1939</id>
     <title><![CDATA[朝の ウクレレ 歌枠【 奏手イヅル / ホロスターズ 】]]></title>
     <link href="https://youtu.be/g6QLLDb4O7Y" rel="alternate" type="text/html"/>
     <published>2024-07-07T02:09:45.000Z</published>
@@ -136,7 +136,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a363d69e-43d3-4a5f-a68b-b6a21f990078</id>
+    <id>urn:uuid:19967291-dcff-45a7-921c-819ae656a0b4</id>
     <title><![CDATA[🛸【歌枠】深夜歌枠~🌃✧︎SINGING! ✧︎【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/-hLnjmeYQV0" rel="alternate" type="text/html"/>
     <published>2024-07-06T16:26:05.000Z</published>
@@ -149,7 +149,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6adf6337-1765-4d29-9ecc-6f3b1cc021fc</id>
+    <id>urn:uuid:cacee376-817e-4b8f-b6e5-32aace3095d6</id>
     <title><![CDATA[【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/IuoVrIn4OcM" rel="alternate" type="text/html"/>
     <published>2024-07-06T16:09:05.000Z</published>
@@ -162,7 +162,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:96d3122f-10c9-4cd4-85ef-443e1c140bbe</id>
+    <id>urn:uuid:93e0a6e4-60b5-4923-a61e-4e124f42b794</id>
     <title><![CDATA[【縦型歌枠】目標の155万人目指して歌います!Singing Stream🎤【角巻わため/ホロライブ4期生】 #shorts #vtuber]]></title>
     <link href="https://youtu.be/nQGhvZ-tWUw" rel="alternate" type="text/html"/>
     <published>2024-07-06T13:48:14.000Z</published>
@@ -175,7 +175,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e0b1bab9-3072-43ab-b4b2-f5fd35d2e8be</id>
+    <id>urn:uuid:3cef7376-2a33-48a7-8431-1a7b68e51384</id>
     <title><![CDATA[【歌枠】歌うぞ!!何たって配信ができるんだからな!【風真いろは/ホロライブ】#shorts]]></title>
     <link href="https://youtu.be/ll0SzFDKU6s" rel="alternate" type="text/html"/>
     <published>2024-07-05T11:19:48.000Z</published>
@@ -188,7 +188,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3570bcd2-19c8-43ea-8190-ba0e62676c1c</id>
+    <id>urn:uuid:02ac50dc-2e6b-4eb9-b8ab-d34834a74d04</id>
     <title><![CDATA[【縦型歌枠】190万人になるまで心を込めて歌いますッ🎶【白銀ノエル/ホロライブ】#shorts]]></title>
     <link href="https://youtu.be/Z8hSuF8PZvc" rel="alternate" type="text/html"/>
     <published>2024-07-04T13:23:53.000Z</published>
@@ -201,7 +201,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2744af98-460a-4c40-958a-6dbed2b8a4b3</id>
+    <id>urn:uuid:66965406-0eb9-4245-a243-1e9aad9bc3c6</id>
     <title><![CDATA[【Singing】 3D目標の50万人のために歌う歌枠!!part1 #一条莉々華 #Shorts #ホロライブ]]></title>
     <link href="https://youtu.be/rrVQv6XFKOE" rel="alternate" type="text/html"/>
     <published>2024-07-03T15:22:42.000Z</published>
@@ -214,7 +214,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9051cfed-23ab-4ec9-9d60-80cb7ea58702</id>
+    <id>urn:uuid:85e92956-c8d9-4b06-9854-1e5922e91c09</id>
     <title><![CDATA[【歌枠】夜ですね。歌うよ~!!【ときのそら/ホロライブ】]]></title>
     <link href="https://youtu.be/zBQf4yKmbUk" rel="alternate" type="text/html"/>
     <published>2024-07-03T12:36:08.000Z</published>
@@ -227,7 +227,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:307373cb-ce27-450d-895a-86bf62dc414a</id>
+    <id>urn:uuid:067ff4b7-2b34-4abb-b7cf-8532c75c358f</id>
     <title><![CDATA[【歌枠/KARAOKE】もうすぐ47万人!キリがいいので歌います!【火威青】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/oiJwwuwFTzw" rel="alternate" type="text/html"/>
     <published>2024-07-03T11:24:42.000Z</published>
@@ -240,7 +240,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:07128d8c-1d38-43e5-bdcc-3c999a636016</id>
+    <id>urn:uuid:b3dde83f-01b7-4b56-99f1-f2db70cc4951</id>
     <title><![CDATA[歌が歌いたい気分なので調子いい間に歌う!【 桃鈴ねね / hololive 】#shorts]]></title>
     <link href="https://youtu.be/GRmIJ3myhQ8" rel="alternate" type="text/html"/>
     <published>2024-07-02T09:12:34.000Z</published>
@@ -253,7 +253,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:03132c81-789b-4826-9e9d-209fc1251a6e</id>
+    <id>urn:uuid:7e99d74a-7f83-45a9-834a-574ecb3b7b4e</id>
     <title><![CDATA[最近なきそさんの曲にはまってるんだけど、ちょっと歌った!MIXしてないから音程ご愛敬で・・・・・・・]]></title>
     <link href="https://youtu.be/VMKju9TTjq8" rel="alternate" type="text/html"/>
     <published>2024-07-01T09:23:31.000Z</published>
@@ -266,7 +266,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:934b7be9-65d4-4635-8374-cdd0593e48bc</id>
+    <id>urn:uuid:b51bee0a-8160-418a-8793-3aaba8ba242f</id>
     <title><![CDATA[【ARCHIVED KARAOKE】SINGING TIME !!!!【Ayunda Risu】]]></title>
     <link href="https://youtu.be/dWIYFg7r9tQ" rel="alternate" type="text/html"/>
     <published>2024-06-30T18:11:45.000Z</published>
@@ -279,7 +279,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:71e966af-775a-49d5-bc87-9f729333c005</id>
+    <id>urn:uuid:770db19e-30c2-44f9-bc12-1ef2602cbcd8</id>
     <title><![CDATA[おやすみ歌枠 その0120 【 奏手イヅル / ホロスターズ 】]]></title>
     <link href="https://youtu.be/s_dg_y4bGGA" rel="alternate" type="text/html"/>
     <published>2024-06-30T14:58:46.000Z</published>
@@ -292,7 +292,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:18b1843c-e28d-424d-aa6c-46fbbd60205c</id>
+    <id>urn:uuid:66bb9f58-15e0-49cc-9e17-23585e5451e4</id>
     <title><![CDATA[🛸【歌枠】おはよう~🎤♡ ̖́-SINGING! 久しぶり朝枠!✧︎【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/Z5XEGbsUZc0" rel="alternate" type="text/html"/>
     <published>2024-06-29T01:43:08.000Z</published>
@@ -305,7 +305,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2ac1c49e-1ecf-446c-a1c4-7f39404e7d9d</id>
+    <id>urn:uuid:e9167937-f100-4d58-91ac-6bc1f9659b3a</id>
     <title><![CDATA[【 歌枠 / Karaoke 】音楽を教えてください / #燃えろアステル]]></title>
     <link href="https://youtu.be/B8AAg73BHiE" rel="alternate" type="text/html"/>
     <published>2024-06-28T17:30:37.000Z</published>
@@ -318,7 +318,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:12b4c662-7683-4bbe-b680-f787d5bfb1cf</id>
+    <id>urn:uuid:f40d3e38-1c16-4b59-bd1c-b6bb0fc74778</id>
     <title><![CDATA[【歌枠/KARAOKE】歌うフラワーゴールドデーつまり華金・・・ってコト!?【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/vDqtxP1Ds1k" rel="alternate" type="text/html"/>
     <published>2024-06-28T15:19:56.000Z</published>
@@ -331,7 +331,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b904fcce-4fce-40c8-b2d8-da45d571bc55</id>
+    <id>urn:uuid:a2f6c434-5e74-439b-b636-d9c39f92f3b5</id>
     <title><![CDATA[【歌枠】KAWAII SONG🎵【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/jyrQX5eC9Eg" rel="alternate" type="text/html"/>
     <published>2024-06-28T13:07:52.000Z</published>
@@ -344,7 +344,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c2d819b8-f142-4ade-897b-9dfd271e1a44</id>
+    <id>urn:uuid:eb4cafdc-496e-43b8-b0c8-b1baa4386ff6</id>
     <title><![CDATA[FFXIV Fan Concert - Dawntrail Launch Celebration 【100+ GUESTS】]]></title>
     <link href="https://youtu.be/MSdm1bpMlXI" rel="alternate" type="text/html"/>
     <published>2024-06-28T05:47:09.000Z</published>
@@ -357,7 +357,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:456ed8a3-412b-4b9d-a8fd-d5583e8f2f3b</id>
+    <id>urn:uuid:1339b92a-3a8d-47b9-80b3-e13b98a602ae</id>
     <title><![CDATA[【ARCHIVED KARAOKE】No More Road Rage【Pavolia Reine/hololiveID 2nd gen】]]></title>
     <link href="https://youtu.be/t0OFLL8rerI" rel="alternate" type="text/html"/>
     <published>2024-06-27T17:17:57.000Z</published>
@@ -370,7 +370,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:285b0846-1f46-4ac4-a550-1c027a4a29be</id>
+    <id>urn:uuid:42059e5f-2efe-4c6d-9f2d-ea3ee6b400a1</id>
     <title><![CDATA[【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】]]></title>
     <link href="https://youtu.be/Nkd02kieO04" rel="alternate" type="text/html"/>
     <published>2024-06-27T16:30:03.000Z</published>
@@ -383,7 +383,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d85bec0f-7b84-450c-828e-c7642a6e9e0a</id>
+    <id>urn:uuid:3ff921ea-79dc-4646-9505-814045344259</id>
     <title><![CDATA[【歌枠】今日の歌枠は○○縛り!!【花咲みやび/ホロスターズ】]]></title>
     <link href="https://youtu.be/WBD1OAjuTBM" rel="alternate" type="text/html"/>
     <published>2024-06-27T12:02:38.000Z</published>
@@ -396,7 +396,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c81d7e94-bfc8-4222-801a-10a6d35009f9</id>
+    <id>urn:uuid:71dc94d1-574a-47f5-823f-f49af19de171</id>
     <title><![CDATA[【歌枠】そらりりコラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】]]></title>
     <link href="https://youtu.be/HN7EbsQnOo4" rel="alternate" type="text/html"/>
     <published>2024-06-27T11:40:03.000Z</published>
@@ -409,7 +409,7 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:80246d49-33cb-4c4e-8c72-c62465ad3bd7</id>
+    <id>urn:uuid:4eb3949c-657d-4189-b36f-a3a9fd6cccc3</id>
     <title><![CDATA[【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/dxBVEirha7M" rel="alternate" type="text/html"/>
     <published>2024-06-26T15:34:12.000Z</published>
