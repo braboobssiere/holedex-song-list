@@ -34,6 +34,7 @@ function createAtomFeed(videos, feedUrl) {
     }
     const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
+    const thumbnail = `https://img.youtube.com/vi/${video.id}/maxresdefault.jpg`;
     const link = `https://www.youtube.com/watch?v=${video.id}`;
     const publishedAt = new Date(video.published_at);
     const availableAt = new Date(video.available_at);
@@ -83,6 +84,7 @@ function createAtomFeed(videos, feedUrl) {
       <uri>${authorUrl}</uri>
     </author>
     <summary>${summary}</summary>
+    <media:thumbnail url="${thumbnail}" width="1280" height="720"/>
   </entry>
 `;
   });
