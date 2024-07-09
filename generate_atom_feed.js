@@ -21,7 +21,7 @@ function createAtomFeed(videos, feedUrl) {
 
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>${feedId}</id>
+  <id>urn:uuid:${feedId}</id>
   <title>Hololive Karaoke Stream</title>
   <link href="${feedUrl}" rel="self" type="application/atom+xml"/>
   <updated>${new Date().toISOString()}</updated>
@@ -72,7 +72,7 @@ function createAtomFeed(videos, feedUrl) {
 
     feed += `
   <entry>
-    <id>${entryId}</id>
+    <id>urn:uuid:${entryId}</id>
     <title>${title}</title>
     <link href="${shortlink}" rel="alternate" type="text/html"/>
     <published>${published}</published>
