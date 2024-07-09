@@ -36,7 +36,7 @@ function createAtomFeed(videos, feedUrl) {
     const publishedAt = new Date(video.published_at);
     const availableAt = new Date(video.available_at);
     const now = new Date();
-    const entryId = uuidv5("${link}", uuidv5.URL);
+    const entryId = uuidv5(link, uuidv5.URL);
 
     let published;
     let updated;
@@ -119,7 +119,7 @@ function handleResponse(response) {
 
         // actual feed URL
         const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; 
-        const feedId = uuidv5("${feedUrl}", uuidv5.URL); 
+        const feedId = uuidv5(feedUrl, uuidv5.URL); 
         const feed = createAtomFeed(videos, feedUrl);
 
         const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
