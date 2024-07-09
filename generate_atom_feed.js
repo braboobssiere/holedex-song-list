@@ -28,9 +28,9 @@ function createAtomFeed(videos, feedUrl) {
 `;
 
   videos.forEach(video => {
-    // Skip videos with status "missing"
-    if (video.status === "missing") {
-      return;
+    // Skip missing videos or holostars
+    if (video.status === "missing" || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
+    return;
     }
     const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
