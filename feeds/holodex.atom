@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-09T14:08:28.618Z</updated>
+  <updated>2024-07-09T15:09:21.429Z</updated>
+
+  <entry>
+    <id>urn:uuid:50e00c42-64c5-5b52-af6b-a3ae7565ee76</id>
+    <title><![CDATA[【歌枠】1日遅れの七夕!織姫あくたんうたいます!!!【湊あくあ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MtfhX5YiX0M" rel="alternate" type="text/html"/>
+    <published>2024-07-08T13:06:33.000Z</published>
+    <updated>2024-07-08T13:06:33.000Z</updated>
+    <author>
+      <name>Aqua Ch. 湊あくあ</name>
+      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
+    </author>
+    <summary><![CDATA[【LIVE on &lt;t:1720436445:f&gt;】https://www.youtube.com/watch?v=MtfhX5YiX0M]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MtfhX5YiX0M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:02c1a7d9-269d-5e8d-9382-a8c51174735a</id>
@@ -17,20 +31,6 @@
     </author>
     <summary><![CDATA[【LIVE on &lt;t:1720440107:f&gt;】https://www.youtube.com/watch?v=G6s5IcfeqDM]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G6s5IcfeqDM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:50e00c42-64c5-5b52-af6b-a3ae7565ee76</id>
-    <title><![CDATA[【歌枠】１日遅れの七夕！織姫あくたんうたいます！！！【湊あくあ/ホロライブ】]]></title>
-    <link href="https://youtu.be/MtfhX5YiX0M" rel="alternate" type="text/html"/>
-    <published>2024-07-08T08:30:36.000Z</published>
-    <updated>2024-07-08T08:30:36.000Z</updated>
-    <author>
-      <name>Aqua Ch. 湊あくあ</name>
-      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
-    </author>
-    <summary><![CDATA[【LIVE on &lt;t:1720436445:f&gt;】https://www.youtube.com/watch?v=MtfhX5YiX0M]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MtfhX5YiX0M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
