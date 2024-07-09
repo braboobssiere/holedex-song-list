@@ -84,7 +84,7 @@ function createAtomFeed(videos, feedUrl) {
       <uri>${authorUrl}</uri>
     </author>
     <summary>${summary}</summary>
-    <media:thumbnail url="${thumbnail}" width="1280" height="720"/>
+    <link rel="enclosure" type="image/jpeg" href="${thumbnail}"/>
   </entry>
 `;
   });
