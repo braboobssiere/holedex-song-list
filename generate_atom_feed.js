@@ -17,7 +17,7 @@ const apiKey = process.env.HOLODEX_API_KEY;
 
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
-  const feedId = uuidv5(feedUrl, uuidv5.URL); // Define feedId inside the function
+  const feedId = uuidv5(feedUrl, uuidv5.URL); 
 
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -52,7 +52,8 @@ function createAtomFeed(videos, feedUrl) {
     }
 
     const timeZoneOptions = {
-      timeZone: 'Etc/GMT-9', // Replace with your desired time zone
+      // Replace with your desired time zone
+      timeZone: 'Etc/GMT-9', 
       day: 'numeric',
       month: 'long',
       hour12: false,
