@@ -165,8 +165,8 @@
           };
 
               if (item.channel.suborg && item.channel.suborg.toLowerCase().includes("holostar")) {
-    return;
-              }
+      continue;
+      }
 
           // Format the available date and time in the desired format
           var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
