@@ -1,7 +1,7 @@
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
-const { v4: uuidv4 } = require('uuid');
+const { v5: uuidv5 } = require('uuid');
 const { URLSearchParams } = require('url');
 
 const queryParams = {
@@ -19,7 +19,7 @@ const apiKey = process.env.HOLODEX_API_KEY;
 function createAtomFeed(videos, feedUrl) {
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>urn:uuid:${uuidv4()}</id>
+  <id>${feedId}</id>
   <title>Hololive Karaoke Stream</title>
   <link href="${feedUrl}" rel="self" type="application/atom+xml"/>
   <updated>${new Date().toISOString()}</updated>
@@ -36,6 +36,7 @@ function createAtomFeed(videos, feedUrl) {
     const publishedAt = new Date(video.published_at);
     const availableAt = new Date(video.available_at);
     const now = new Date();
+    const entryId = uuidv5("${link}", uuidv5.URL);
 
     let published;
     let updated;
@@ -71,7 +72,7 @@ function createAtomFeed(videos, feedUrl) {
     
     feed += `
   <entry>
-    <id>urn:uuid:${uuidv4()}</id>
+    <id>${entryId}</id>
     <title>${title}</title>
     <link href="${shortlink}" rel="alternate" type="text/html"/>
     <published>${published}</published>
@@ -118,6 +119,7 @@ function handleResponse(response) {
 
         // actual feed URL
         const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom'; 
+        const feedId = uuidv5("${feedUrl}", uuidv5.URL); 
         const feed = createAtomFeed(videos, feedUrl);
 
         const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
