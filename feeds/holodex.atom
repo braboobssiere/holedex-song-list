@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-10T04:12:56.528Z</updated>
+  <updated>2024-07-10T05:09:24.689Z</updated>
+
+  <entry>
+    <id>urn:uuid:dc06d069-0f9d-5d4b-b5fa-3ebe4a41a169</id>
+    <title><![CDATA[KARAOKE + Birthday Announcements !]]></title>
+    <link href="https://youtu.be/yOPTDM1dwkE" rel="alternate" type="text/html"/>
+    <published>2024-07-10T02:54:19.000Z</published>
+    <updated>2024-07-10T02:54:19.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yOPTDM1dwkE 【LIVE on &lt;t:1720620000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yOPTDM1dwkE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:50e00c42-64c5-5b52-af6b-a3ae7565ee76</id>
@@ -367,19 +381,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HN7EbsQnOo4 【LIVE on &lt;t:1719483389:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HN7EbsQnOo4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1000ee15-cb52-540e-8217-a92be4f04d58</id>
-    <title><![CDATA[【歌枠】第115回!わためぇ Night Fever!!【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/dxBVEirha7M" rel="alternate" type="text/html"/>
-    <published>2024-06-26T15:34:12.000Z</published>
-    <updated>2024-06-26T15:34:12.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dxBVEirha7M 【LIVE on &lt;t:1719406901:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dxBVEirha7M/maxresdefault.jpg"/>
   </entry>
 </feed>
