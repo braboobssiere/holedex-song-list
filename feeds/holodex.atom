@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-10T12:17:18.345Z</updated>
+  <updated>2024-07-10T13:12:59.664Z</updated>
+
+  <entry>
+    <id>urn:uuid:3c746735-dc72-5ea9-a028-450f7df99480</id>
+    <title><![CDATA[【Singing】 3D目標の50万人のために歌う歌枠!!part2 #一条莉々華 #Shorts #ホロライブ]]></title>
+    <link href="https://youtu.be/VJr6MTeMAJQ" rel="alternate" type="text/html"/>
+    <published>2024-07-10T12:50:12.000Z</published>
+    <updated>2024-07-10T12:50:12.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VJr6MTeMAJQ 【LIVE on &lt;t:1720616455:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VJr6MTeMAJQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dc06d069-0f9d-5d4b-b5fa-3ebe4a41a169</id>
@@ -367,19 +381,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Nkd02kieO04 【LIVE on &lt;t:1719493414:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nkd02kieO04/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f5c4f778-4f36-51c8-9500-d7f450ee7a8f</id>
-    <title><![CDATA[【歌枠】そらりりコラボで仲良く歌うよ!!【ホロライブ/ときのそら/一条莉々華】]]></title>
-    <link href="https://youtu.be/HN7EbsQnOo4" rel="alternate" type="text/html"/>
-    <published>2024-06-27T11:40:03.000Z</published>
-    <updated>2024-06-27T11:40:03.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HN7EbsQnOo4 【LIVE on &lt;t:1719483389:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HN7EbsQnOo4/maxresdefault.jpg"/>
   </entry>
 </feed>
