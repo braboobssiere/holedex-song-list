@@ -66,11 +66,11 @@ function createAtomFeed(videos, feedUrl) {
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+9';
-    // const summary = `<![CDATA[【LIVE on ${formattedAvailableTime}】${link}]]>`;
+    // const summary = `<![CDATA[${link} 【LIVE on ${formattedAvailableTime}】]]>`;
 
     // Convert availableAt to Discord Dynamic Timestamp and use it instead
     const discordTimestamp = `&lt;t:${Math.floor(availableAt.getTime() / 1000)}:f&gt;`;
-    const summary = `<![CDATA[【LIVE on ${discordTimestamp}】${link}]]>`;
+    const summary = `<![CDATA[${link} 【LIVE on ${discordTimestamp}】]]>`;
 
     feed += `
   <entry>
