@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-11T13:12:49.896Z</updated>
+  <updated>2024-07-11T14:08:31.650Z</updated>
+
+  <entry>
+    <id>urn:uuid:1c2ce991-91d7-546e-935d-4d6026c8d9cb</id>
+    <title><![CDATA[【歌枠】夜中のゲリラ歌枠🎤ボイトレの成果も見てほしいなっ🎶JapanExpo2024行ってきたよおおお!!!✨【博衣こより/ホロライブ】 #shorts]]></title>
+    <link href="https://youtu.be/gWA94KkNj-o" rel="alternate" type="text/html"/>
+    <published>2024-07-11T13:26:23.000Z</published>
+    <updated>2024-07-11T13:26:23.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gWA94KkNj-o 【LIVE on &lt;t:1720706439:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gWA94KkNj-o/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ff3fe45d-3a36-5b0b-aff2-a677c9efd9e8</id>
@@ -381,19 +395,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=t0OFLL8rerI 【LIVE on &lt;t:1719498612:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/t0OFLL8rerI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:401144b6-ac11-5ae2-bfa0-20565dc4c99e</id>
-    <title><![CDATA[【歌枠】古のニコニコ老人会・・・始まる!!!!!!!!!【湊あくあ/ホロライブ】]]></title>
-    <link href="https://youtu.be/Nkd02kieO04" rel="alternate" type="text/html"/>
-    <published>2024-06-27T16:30:03.000Z</published>
-    <updated>2024-06-27T16:30:03.000Z</updated>
-    <author>
-      <name>Aqua Ch. 湊あくあ</name>
-      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Nkd02kieO04 【LIVE on &lt;t:1719493414:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nkd02kieO04/maxresdefault.jpg"/>
   </entry>
 </feed>
