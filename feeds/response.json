@@ -1,5 +1,24 @@
 [
   {
+    "id": "VqqMr_ME9hA",
+    "title": "【歌枠】配信予定地【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-07-12T10:05:12.000Z",
+    "available_at": "2024-07-12T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "mzHu_X0gFAQ",
     "title": "【karaoke】昼休みBGMどぞ!【 桃鈴ねね / hololive 】#shorts",
     "type": "stream",
@@ -963,25 +982,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Obake PAM"
-    }
-  },
-  {
-    "id": "tAt2UWdjLFw",
-    "title": "【KARAOKE UNARCHIVED REBROADCAST】Vertical Singing 🎼#shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-06-27T16:02:34.000Z",
-    "available_at": "2024-06-27T16:03:30.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   }
 ]
