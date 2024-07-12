@@ -14,7 +14,7 @@ const queryParams = {
 };
 
 // Define the topics e.g. 'singing', 'asmr', 'Music_Cover', 'Original_Song', 'Musical_Instrument', 'Birthday', 'Anniversary', '3D_Stream'
-const topics = ['singing'];
+const topics = ['singing', 'Musical_Instrument', 'asmr', 'Original_Song', 'Music_Cover'];
 
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
