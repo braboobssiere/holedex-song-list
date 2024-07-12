@@ -101,30 +101,30 @@ function fetchVideos(topic) {
       }
     };
 
-    https.get(apiUrl, requestOptions, (response) => {
-      let data = [];
+  https.get(apiUrl, requestOptions, (response) => {
+  let data = [];
 
-      response.on('data', chunk => {
-        data.push(chunk);
-      });
-
-      response.on('end', () => {
-        if (response.statusCode === 200) {
-          try {
-            const completeData = data.join('');
-            const videos = JSON.parse(completeData);
-            resolve(videos);
-          } catch (e) {
-            reject('Error parsing JSON: ' + e);
-          }
-        } else {
-          reject(`Error: ${response.statusCode} ${response.statusMessage}`);
-        }
-      });
-    }).on('error', (e) => {
-      reject('Request error: ' + e.message);
-    });
+  response.on('data', chunk => {
+    data.push(chunk);
   });
+
+  response.on('end', () => {
+    if (response.statusCode === 200) {
+      try {
+        const completeData = Buffer.concat(data).toString(); // Changed to use Buffer.concat
+        const videos = JSON.parse(completeData);
+        resolve(videos);
+      } catch (e) {
+        reject('Error parsing JSON: ' + e);
+      }
+    } else {
+      reject(`Error: ${response.statusCode} ${response.statusMessage}`);
+    }
+  });
+}).on('error', (e) => {
+  reject('Request error: ' + e.message);
+});
+    });
 }
 
 // Function to handle multiple API requests sequentially
