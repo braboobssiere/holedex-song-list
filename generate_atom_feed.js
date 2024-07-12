@@ -4,20 +4,21 @@ const path = require('path');
 const { v5: uuidv5 } = require('uuid');
 const { URLSearchParams } = require('url');
 
+const apiKey = process.env.HOLODEX_API_KEY;
+
 const queryParams = {
   type: 'stream',
-  topic: 'singing',
   org: 'Hololive',
   limit: 50,
   max_upcoming_hours: 18,
 };
 
-const queryString = new URLSearchParams(queryParams).toString();
-const apiKey = process.env.HOLODEX_API_KEY;
+// Define the topics e.g. 'singing', 'asmr', 'Music_Cover', 'Original_Song', 'Musical_Instrument', 'Birthday', 'Anniversary', '3D_Stream'
+const topics = ['singing', 'Original_Song', 'Music_Cover'];
 
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
-  const feedId = uuidv5(feedUrl, uuidv5.URL); 
+  const feedId = uuidv5(feedUrl, uuidv5.URL);
 
   let feed = `<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -28,9 +29,8 @@ function createAtomFeed(videos, feedUrl) {
 `;
 
   videos.forEach(video => {
-    // Skip missing videos or holostars
     if (video.status === "missing" || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
-    return;
+      return;
     }
     const title = `<![CDATA[${video.title}]]>`;
     const shortlink = `https://youtu.be/${video.id}`;
@@ -53,8 +53,7 @@ function createAtomFeed(videos, feedUrl) {
     }
 
     const timeZoneOptions = {
-      // Replace with your desired time zone
-      timeZone: 'Etc/GMT-9', 
+      timeZone: 'Etc/GMT-9',
       day: 'numeric',
       month: 'long',
       hour12: false,
@@ -66,9 +65,6 @@ function createAtomFeed(videos, feedUrl) {
     const englishName = video.channel.english_name;
     const authorUrl = `https://www.youtube.com/channel/${video.channel.id}`;
     const formattedAvailableTime = availableAt.toLocaleString('en-US', timeZoneOptions) + ' GMT+9';
-    // const summary = `<![CDATA[${link} 【LIVE on ${formattedAvailableTime}】]]>`;
-
-    // Convert availableAt to Discord Dynamic Timestamp and use it instead
     const discordTimestamp = `&lt;t:${Math.floor(availableAt.getTime() / 1000)}:f&gt;`;
     const summary = `<![CDATA[${link} 【LIVE on ${discordTimestamp}】]]>`;
 
@@ -93,62 +89,74 @@ function createAtomFeed(videos, feedUrl) {
   return feed;
 }
 
-// Define a callback function to handle the API response
-function handleResponse(response) {
-  let data = [];
-
-  // Set the response encoding to utf8
-  response.setEncoding('utf8');
-
-  response.on('data', chunk => {
-    data.push(chunk);
-  });
-
-  response.on('end', () => {
-    if (response.statusCode === 200) {
-      try {
-        // Join the chunks into a single string
-        const completeData = data.join('');
-        // Parse the JSON data
-        const videos = JSON.parse(completeData);
-
-        // Save the JSON response to a file
-        const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
-        fs.writeFileSync(jsonOutputPath, JSON.stringify(videos, null, 2), 'utf8');
-        console.log('JSON response saved successfully at', jsonOutputPath);
-
-        // Sort videos by published date
-        videos.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
-
-        // actual feed URL
-        const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom';
-        const feed = createAtomFeed(videos, feedUrl);
-
-        const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
-        fs.writeFileSync(outputPath, feed, 'utf8');
-
-        console.log('Atom feed generated successfully at', outputPath);
-      } catch (e) {
-        console.error('Error parsing JSON or writing files:', e);
+// Function to make API request and return a promise
+function fetchVideos(topic) {
+  return new Promise((resolve, reject) => {
+    const queryParamsWithTopic = { ...queryParams, topic };
+    const queryString = new URLSearchParams(queryParamsWithTopic).toString();
+    const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
+    const requestOptions = {
+      headers: {
+        'X-APIKEY': apiKey
       }
-    } else {
-      console.error(`Error: ${response.statusCode} ${response.statusMessage}`);
-    }
+    };
+
+    https.get(apiUrl, requestOptions, (response) => {
+      let data = [];
+
+      response.on('data', chunk => {
+        data.push(chunk);
+      });
+
+      response.on('end', () => {
+        if (response.statusCode === 200) {
+          try {
+            const completeData = data.join('');
+            const videos = JSON.parse(completeData);
+            resolve(videos);
+          } catch (e) {
+            reject('Error parsing JSON: ' + e);
+          }
+        } else {
+          reject(`Error: ${response.statusCode} ${response.statusMessage}`);
+        }
+      });
+    }).on('error', (e) => {
+      reject('Request error: ' + e.message);
+    });
   });
 }
 
-// Create the request to the Holodex API endpoint
-const apiUrl = `https://holodex.net/api/v2/videos?${queryString}`;
-const requestOptions = {
-  headers: {
-    'X-APIKEY': apiKey
+// Function to handle multiple API requests sequentially
+async function fetchAllVideos(topics) {
+  let allVideos = [];
+
+  for (let topic of topics) {
+    try {
+      const videos = await fetchVideos(topic);
+      allVideos = allVideos.concat(videos);
+      await new Promise(resolve => setTimeout(resolve, 1000)); // Wait for 1 second
+    } catch (error) {
+      console.error(error);
+    }
   }
-};
 
-const req = https.request(apiUrl, requestOptions, handleResponse);
+  // Save the combined JSON response to a file
+  const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
+  fs.writeFileSync(jsonOutputPath, JSON.stringify(allVideos, null, 2), 'utf8');
+  console.log('Combined JSON response saved successfully at', jsonOutputPath);
 
-req.on('error', (e) => {
-  console.error('Request error:', e.message);
-});
+  // Sort videos by published date
+  allVideos.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
 
-req.end();
+  // Generate the Atom feed
+  const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom';
+  const feed = createAtomFeed(allVideos, feedUrl);
+
+  const outputPath = path.join(__dirname, 'feeds', 'holodex.atom');
+  fs.writeFileSync(outputPath, feed, 'utf8');
+  console.log('Atom feed generated successfully at', outputPath);
+}
+
+// Fetch videos for all topics
+fetchAllVideos(topics);
