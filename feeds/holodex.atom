@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-13T18:11:01.479Z</updated>
+  <updated>2024-07-13T19:07:44.285Z</updated>
 
   <entry>
     <id>urn:uuid:8416bab1-8adf-50f3-af4c-bd4acfbbde26</id>
@@ -21,10 +21,10 @@
 
   <entry>
     <id>urn:uuid:d22eaf22-af3e-5eaa-80e3-95ef32b2077d</id>
-    <title><![CDATA[【 歌枠 】 深夜や夏に聴きたい曲多めにJPOPなど歌います！【ホロライブ/沙花叉クロヱ】]]></title>
+    <title><![CDATA[【 歌枠 】 深夜や夏に聴きたい曲多めにJPOPなど歌います!【ホロライブ/沙花叉クロヱ】]]></title>
     <link href="https://youtu.be/65nLXVnYlF8" rel="alternate" type="text/html"/>
-    <published>2024-07-12T12:47:52.000Z</published>
-    <updated>2024-07-12T12:47:52.000Z</updated>
+    <published>2024-07-12T17:57:03.000Z</published>
+    <updated>2024-07-12T17:57:03.000Z</updated>
     <author>
       <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
       <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
@@ -1812,6 +1812,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:9b5c3239-61e7-5aeb-873d-c3d0d8c060c2</id>
+    <title><![CDATA[ジュビリー (M@STER Version) 星街すいせいソロ・リミックス]]></title>
+    <link href="https://youtu.be/scvHQqUAHus" rel="alternate" type="text/html"/>
+    <published>2024-05-14T10:02:14.000Z</published>
+    <updated>2024-05-14T10:02:14.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=scvHQqUAHus 【LIVE on &lt;t:1715680934:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/scvHQqUAHus/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:274ee224-e34b-55a1-8bc9-bf84a80e3f24</id>
     <title><![CDATA[ジュビリー (M@STER Version)]]></title>
     <link href="https://youtu.be/IiZbT1vPQk8" rel="alternate" type="text/html"/>
@@ -1935,20 +1949,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=u2q_EElgwwY 【LIVE on &lt;t:1714719627:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u2q_EElgwwY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:43a16596-d284-5c7b-8f83-d1a0caf4a7c6</id>
-    <title><![CDATA[【322】[feat. 星街すいせい, sakuma.] なんもない / MAISONdes]]></title>
-    <link href="https://youtu.be/HpZUkwUvv30" rel="alternate" type="text/html"/>
-    <published>2024-05-01T11:00:06.000Z</published>
-    <updated>2024-05-01T11:00:06.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HpZUkwUvv30 【LIVE on &lt;t:1714561206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HpZUkwUvv30/maxresdefault.jpg"/>
   </entry>
 
   <entry>
