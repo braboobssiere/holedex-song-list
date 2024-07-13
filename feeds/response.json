@@ -2974,6 +2974,7 @@
     "available_at": "2024-07-12T12:00:08.000Z",
     "duration": 194,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -3645,26 +3646,6 @@
     }
   },
   {
-    "id": "Ia1cudTuhYY",
-    "title": "【オリジナル楽曲MV】夕星と帰り道【HOLOSTARS / UPROAR!!】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-06-03T12:00:07.000Z",
-    "available_at": "2024-06-03T12:00:07.000Z",
-    "duration": 272,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCWsfcksUUpoEvhia0_ut0bA",
-      "name": "holostars ホロスターズ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0bOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HOLOSTARS Official"
-    }
-  },
-  {
     "id": "iH6_WbFsI3g",
     "title": "【original MV】大還元祭!夢のフレアチャンネル!/不知火フレア(official)",
     "type": "stream",
@@ -3682,6 +3663,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "Ia1cudTuhYY",
+    "title": "【オリジナル楽曲MV】夕星と帰り道【HOLOSTARS / UPROAR!!】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-06-03T12:00:07.000Z",
+    "available_at": "2024-06-03T12:00:07.000Z",
+    "duration": 272,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
     }
   },
   {
