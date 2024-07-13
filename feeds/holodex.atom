@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Karaoke Stream</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-07-13T14:07:38.748Z</updated>
+  <updated>2024-07-13T15:08:54.944Z</updated>
+
+  <entry>
+    <id>urn:uuid:8416bab1-8adf-50f3-af4c-bd4acfbbde26</id>
+    <title><![CDATA[【ピザ屋の店長と歌ってみた】???【火威青/アルランディス】]]></title>
+    <link href="https://youtu.be/6AakPuLx7QQ" rel="alternate" type="text/html"/>
+    <published>2024-07-13T11:32:18.000Z</published>
+    <updated>2024-07-13T11:32:18.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6AakPuLx7QQ 【LIVE on &lt;t:1720947600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6AakPuLx7QQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d22eaf22-af3e-5eaa-80e3-95ef32b2077d</id>
@@ -1504,20 +1518,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9f561175-54e1-5c55-8ac3-b26b44a81f16</id>
-    <title><![CDATA[【original MV】大還元祭!夢のフレアチャンネル!/不知火フレア(official)]]></title>
-    <link href="https://youtu.be/iH6_WbFsI3g" rel="alternate" type="text/html"/>
-    <published>2024-06-03T12:00:07.000Z</published>
-    <updated>2024-06-03T12:00:07.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=iH6_WbFsI3g 【LIVE on &lt;t:1717416007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iH6_WbFsI3g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:45438712-4421-5796-9e33-0ff4cc5c2750</id>
     <title><![CDATA[【オリジナル楽曲MV】夕星と帰り道【HOLOSTARS / UPROAR!!】]]></title>
     <link href="https://youtu.be/Ia1cudTuhYY" rel="alternate" type="text/html"/>
@@ -1529,6 +1529,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ia1cudTuhYY 【LIVE on &lt;t:1717416007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ia1cudTuhYY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f561175-54e1-5c55-8ac3-b26b44a81f16</id>
+    <title><![CDATA[【original MV】大還元祭!夢のフレアチャンネル!/不知火フレア(official)]]></title>
+    <link href="https://youtu.be/iH6_WbFsI3g" rel="alternate" type="text/html"/>
+    <published>2024-06-03T12:00:07.000Z</published>
+    <updated>2024-06-03T12:00:07.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iH6_WbFsI3g 【LIVE on &lt;t:1717416007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iH6_WbFsI3g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
