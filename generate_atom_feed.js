@@ -29,7 +29,8 @@ function createAtomFeed(videos, feedUrl) {
 `;
 
   videos.forEach(video => {
-    if (video.status === "missing" || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
+    //skip missing, holostars video
+    if (video.status === "missing" || video.channel.name.toLowerCase().includes("holostar") || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
       return;
     }
     const title = `<![CDATA[${video.title}]]>`;
@@ -111,7 +112,7 @@ function fetchVideos(topic) {
   response.on('end', () => {
     if (response.statusCode === 200) {
       try {
-        const completeData = Buffer.concat(data).toString(); // Changed to use Buffer.concat
+        const completeData = Buffer.concat(data).toString(); 
         const videos = JSON.parse(completeData);
         resolve(videos);
       } catch (e) {
@@ -134,8 +135,10 @@ async function fetchAllVideos(topics) {
   for (let topic of topics) {
     try {
       const videos = await fetchVideos(topic);
-      Array.prototype.push.apply(allVideos, videos); // Join arrays
-      await new Promise(resolve => setTimeout(resolve, 1000)); // Wait for 1 second
+      Array.prototype.push.apply(allVideos, videos); 
+      // Join arrays
+      await new Promise(resolve => setTimeout(resolve, 1000)); 
+      // Wait for 1 second
     } catch (error) {
       console.error(error);
     }
