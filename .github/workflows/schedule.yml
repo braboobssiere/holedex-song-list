@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4  # Checkout repository 
+      - uses: actions/checkout@v4  # Checkout repository (fetch behavior remains the same)
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -23,22 +23,22 @@ jobs:
       - name: Create feeds directory (if needed)
         run: mkdir -p feeds  # Only create directory if it doesn't exist
 
-      - name: Upload required files 
+      - name: Upload required files (assuming they exist locally)
         uses: actions/upload-artifact@v4
         with:
           name: holodex-feed-files
           path: |
-            generate_atom_feed.js  # Upload the script itself
-            feeds/holodex.atom  # Upload specific files needed 
+            generate_atom_feed.js  
+            feeds/holodex.atom  
             feeds/response.json
 
       - name: Install dependencies
         run: npm install
 
       - name: Download uploaded files
-        run: |
-          mkdir -p feeds  # Create directory if not uploaded
-          curl -L --fail ${{ github.action_url }}/artifacts/holodex-feed-files/download | tar -xzf -
+        uses: actions/download-artifact@v4  
+        with:
+          name: holodex-feed-files  # Specify the artifact name to download
 
       - name: Run the script
         env:
