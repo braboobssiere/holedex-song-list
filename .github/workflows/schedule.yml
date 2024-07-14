@@ -13,33 +13,47 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git diff
+      - uses: actions/checkout@v4  # Checkout repository 
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '14'
 
-      - name: Create feeds directory
-        run: mkdir -p feeds
+      - name: Create feeds directory (if needed)
+        run: mkdir -p feeds  # Only create directory if it doesn't exist
+
+      - name: Upload required files 
+        uses: actions/upload-artifact@v4
+        with:
+          name: holodex-feed-files
+          path: |
+            generate_atom_feed.js  # Upload the script itself
+            feeds/holodex.atom  # Upload specific files needed 
+            feeds/response.json
 
       - name: Install dependencies
         run: npm install
+
+      - name: Download uploaded files
+        run: |
+          mkdir -p feeds  # Create directory if not uploaded
+          curl -L --fail ${{ github.action_url }}/artifacts/holodex-feed-files/download | tar -xzf -
 
       - name: Run the script
         env:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
         run: node generate_atom_feed.js
 
-      - name: Commit and push changes
+      - name: Commit and push changes (if script generates files)
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -f feeds/holodex.atom feeds/response.json
-          git commit -m 'Update Atom feed and JSON response'
-          git push
+          # Stage and commit only if feeds directory has content
+          if [ "$(ls -A feeds)" ]; then
+            git add -f feeds/holodex.atom feeds/response.json  
+            git commit -m 'Update Atom feed and JSON response'
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
