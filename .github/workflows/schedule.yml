@@ -1,0 +1,44 @@
+name: Generate Holodex.atom
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+permissions:
+  contents: write # Grants write permission to the `GITHUB_TOKEN`
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+     
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '14'
+
+      - name: Create feeds directory (if needed)
+        run: mkdir -p feeds 
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run the script
+        env:
+          HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
+        run: node generate_atom_feed.js
+
+      - name: Commit and push changes (if script generates files)
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -f feeds/holodex.atom feeds/response.json    
+          git commit -m 'Update Atom feed and JSON response'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
