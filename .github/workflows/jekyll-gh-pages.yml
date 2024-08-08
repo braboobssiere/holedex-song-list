@@ -2,9 +2,11 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
-  # push:
-  #   branches: ["main"]
+  # Runs on pushes targeting the default branch, but only for HTML files
+  push:
+    branches: ["main"]
+    paths:
+      - '**/*.html'  # Only trigger on changes to HTML files
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
