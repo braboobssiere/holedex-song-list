@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-08T11:09:13.783Z</updated>
+  <updated>2024-08-08T12:17:24.020Z</updated>
+
+  <entry>
+    <id>urn:uuid:6247fe65-b2d0-5921-8f16-f0672cd1724c</id>
+    <title><![CDATA[【original】恋愛ストラテジック【湊あくあ/ホロライブ】]]></title>
+    <link href="https://youtu.be/lFcB1xKOwEw" rel="alternate" type="text/html"/>
+    <published>2024-08-08T12:00:07.000Z</published>
+    <updated>2024-08-08T12:00:07.000Z</updated>
+    <author>
+      <name>Aqua Ch. 湊あくあ</name>
+      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lFcB1xKOwEw 【LIVE on &lt;t:1723118407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lFcB1xKOwEw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8aaa0e5c-0f22-5d43-a59c-9b01c4bdb814</id>
-    <title><![CDATA[【とあるMV】???【白銀ノエル/ホロライブ】]]></title>
+    <title><![CDATA[【original】Wander!【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/jupJ5t0Gdy8" rel="alternate" type="text/html"/>
     <published>2024-08-08T10:55:06.000Z</published>
     <updated>2024-08-08T10:55:06.000Z</updated>
@@ -21,7 +35,7 @@
 
   <entry>
     <id>urn:uuid:19926c8c-2fa0-53c2-ae6a-b50569f6fdba</id>
-    <title><![CDATA[※枠とり直し【歌枠】ボイトレ帰り!上達中なこよの歌を聴いて~~~!🎤🎶【博衣こより/ホロライブ】 #shorts]]></title>
+    <title><![CDATA[※枠とり直し【歌枠】ボイトレ帰り！上達中なこよの歌を聴いて～～～！🎤🎶【博衣こより/ホロライブ】 #shorts]]></title>
     <link href="https://youtu.be/Apyxk1CVut4" rel="alternate" type="text/html"/>
     <published>2024-08-08T09:08:40.000Z</published>
     <updated>2024-08-08T09:08:40.000Z</updated>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PpEk9x1X9s8 【LIVE on &lt;t:1723107606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PpEk9x1X9s8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6247fe65-b2d0-5921-8f16-f0672cd1724c</id>
-    <title><![CDATA[【original】恋愛ストラテジック【湊あくあ/ホロライブ】]]></title>
-    <link href="https://youtu.be/lFcB1xKOwEw" rel="alternate" type="text/html"/>
-    <published>2024-08-08T08:33:48.000Z</published>
-    <updated>2024-08-08T08:33:48.000Z</updated>
-    <author>
-      <name>Aqua Ch. 湊あくあ</name>
-      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lFcB1xKOwEw 【LIVE on &lt;t:1723118400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lFcB1xKOwEw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -566,20 +566,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
     <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
     <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
@@ -591,6 +577,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
+    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
+    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
