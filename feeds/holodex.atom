@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-09T16:11:57.047Z</updated>
+  <updated>2024-08-09T17:08:32.424Z</updated>
 
   <entry>
     <id>urn:uuid:e1f462af-1565-57c0-96b6-78555c595e54</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jupJ5t0Gdy8 【LIVE on &lt;t:1723114506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jupJ5t0Gdy8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8319e22-ba53-51cb-8520-f4ffad3136ca</id>
+    <title><![CDATA[ReGLOSS '泡沫メイビー' OFFICIAL MV]]></title>
+    <link href="https://youtu.be/-pfI25EsoRs" rel="alternate" type="text/html"/>
+    <published>2024-08-08T09:08:41.000Z</published>
+    <updated>2024-08-08T09:08:41.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-pfI25EsoRs 【LIVE on &lt;t:1723287300:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-pfI25EsoRs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -580,20 +594,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -605,6 +605,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1305,20 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9rp3TO4iu7Y 【LIVE on &lt;t:1719921606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9rp3TO4iu7Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ec6bca6f-0696-5cde-b829-30ba22f966e2</id>
-    <title><![CDATA[HI:STREET TIME - hololive ID [Original Song]]]></title>
-    <link href="https://youtu.be/0Jvss8cjpec" rel="alternate" type="text/html"/>
-    <published>2024-07-01T13:15:08.000Z</published>
-    <updated>2024-07-01T13:15:08.000Z</updated>
-    <author>
-      <name>hololive Indonesia</name>
-      <uri>https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Jvss8cjpec 【LIVE on &lt;t:1719839708:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Jvss8cjpec/maxresdefault.jpg"/>
   </entry>
 
   <entry>
