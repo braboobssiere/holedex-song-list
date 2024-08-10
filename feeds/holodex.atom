@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-10T16:11:28.580Z</updated>
+  <updated>2024-08-10T17:08:00.339Z</updated>
+
+  <entry>
+    <id>urn:uuid:aa25f51e-f935-52db-b7cd-95c7fe4389ac</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】First time! Cecilia (me!) edition!]]></title>
+    <link href="https://youtu.be/scqBcyoQ9ro" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:45:10.000Z</published>
+    <updated>2024-08-10T15:45:10.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=scqBcyoQ9ro 【LIVE on &lt;t:1723316400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/scqBcyoQ9ro/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:eb24e1e3-5723-58e0-8a2f-49241b5d7985</id>
@@ -636,20 +650,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
     <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
     <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
@@ -661,6 +661,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
+    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
+    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -941,20 +955,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jLNp86NUWRU 【LIVE on &lt;t:1721483987:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jLNp86NUWRU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fb88d7bb-2023-5752-a585-fa31adc30aea</id>
-    <title><![CDATA[【歌枠】昭和の歌を歌ってみる【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/RYlNB6-aRmQ" rel="alternate" type="text/html"/>
-    <published>2024-07-20T13:34:58.000Z</published>
-    <updated>2024-07-20T13:34:58.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RYlNB6-aRmQ 【LIVE on &lt;t:1721476881:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RYlNB6-aRmQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
