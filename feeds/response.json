@@ -65,7 +65,7 @@
     "published_at": "2024-08-10T04:40:02.000Z",
     "available_at": "2024-08-10T05:03:54.000Z",
     "duration": 5466,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "name": "Ouro Kronii Ch. hololive-EN",
@@ -1969,10 +1969,10 @@
     "title": "Virtual Medley Lagu Daerah 2024 Ver. - hololive ID [Cover]",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-10T11:07:19.000Z",
-    "available_at": "2024-08-11T08:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-11T08:00:08.000Z",
+    "available_at": "2024-08-11T08:00:08.000Z",
+    "duration": 542,
+    "status": "past",
     "channel": {
       "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
       "name": "hololive Indonesia",
@@ -2996,8 +2996,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3016,8 +3016,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
