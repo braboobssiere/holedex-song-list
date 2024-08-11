@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-10T23:09:31.683Z</updated>
+  <updated>2024-08-11T00:48:34.397Z</updated>
 
   <entry>
     <id>urn:uuid:aa25f51e-f935-52db-b7cd-95c7fe4389ac</id>
@@ -720,20 +720,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -745,6 +731,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1126,6 +1126,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:94fc567e-e606-5272-b893-95122a8f8480</id>
+    <title><![CDATA[【 Original Song 】 Here I am【 Airani Iofifteen | イオフィ 】]]></title>
+    <link href="https://youtu.be/EVKGLK4NPXU" rel="alternate" type="text/html"/>
+    <published>2024-07-15T14:15:07.000Z</published>
+    <updated>2024-07-15T14:15:07.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EVKGLK4NPXU 【LIVE on &lt;t:1721052907:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EVKGLK4NPXU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:59c68494-7a14-58de-a990-cf3e7c07f8c5</id>
     <title><![CDATA[世界一可愛い私 / 藤田ことね covered by 博衣こより (Cover)【歌ってみた】]]></title>
     <link href="https://youtu.be/bdOVtVfWVm8" rel="alternate" type="text/html"/>
@@ -1434,6 +1448,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:605ef26e-740c-5712-a050-04dbe4b4455c</id>
+    <title><![CDATA[マトリョシカ]]></title>
+    <link href="https://youtu.be/_4gUkpEia4Q" rel="alternate" type="text/html"/>
+    <published>2024-06-25T10:04:59.000Z</published>
+    <updated>2024-06-25T10:04:59.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_4gUkpEia4Q 【LIVE on &lt;t:1719309899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_4gUkpEia4Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:f23ab4c4-13e4-5061-abb3-5aedb4559129</id>
     <title><![CDATA[白金ディスコ / 姫森ルーナ (cover)]]></title>
     <link href="https://youtu.be/2oLkdkuqTGM" rel="alternate" type="text/html"/>
@@ -1613,34 +1641,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vJtat7vOSro 【LIVE on &lt;t:1718366406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vJtat7vOSro/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b09258c9-1ace-5f6f-aef9-f2f48217cc70</id>
-    <title><![CDATA[Bling-Bang-Bang-Born  /夏色まつり(cover)【ホロライブ】]]></title>
-    <link href="https://youtu.be/R5Z35aXCv9Q" rel="alternate" type="text/html"/>
-    <published>2024-06-13T13:00:06.000Z</published>
-    <updated>2024-06-13T13:00:06.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R5Z35aXCv9Q 【LIVE on &lt;t:1718283606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R5Z35aXCv9Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8af006df-64b9-524c-a02b-3cbb65fcf249</id>
-    <title><![CDATA[【SorAZ/ときのそら/AZKi】ラムのラブソング【歌ってみた/Cover】]]></title>
-    <link href="https://youtu.be/6691fQLWdY0" rel="alternate" type="text/html"/>
-    <published>2024-06-13T10:00:06.000Z</published>
-    <updated>2024-06-13T10:00:06.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6691fQLWdY0 【LIVE on &lt;t:1718272806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6691fQLWdY0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
