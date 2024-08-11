@@ -1,5 +1,24 @@
 [
   {
+    "id": "qjfxUmY5X2Q",
+    "title": "≪#BAEBISleepover≫ Top of the Mornin' to ya!!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-10T16:14:28.000Z",
+    "available_at": "2024-08-11T21:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "scqBcyoQ9ro",
     "title": "【UNARCHIVED KARAOKE】First time! Cecilia (me!) edition!",
     "type": "stream",
@@ -967,26 +986,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "eacNsPH50g0",
-    "title": "夏の妖怪 弾き語り男【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-07-20T17:12:49.000Z",
-    "available_at": "2024-07-20T12:33:53.000Z",
-    "duration": 5781,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -2126,26 +2125,6 @@
     }
   },
   {
-    "id": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた+ユ!隊(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 123,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "NxpZNBOW-P4",
     "title": "Habit / 沙花叉クロヱ(cover)",
     "type": "stream",
@@ -2163,6 +2142,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた+ユ!隊(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 123,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -2998,8 +2997,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3018,8 +3017,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
