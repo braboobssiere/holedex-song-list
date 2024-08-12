@@ -1,24 +1,5 @@
 [
   {
-    "id": "p4-1EfaGVsM",
-    "title": "【重大告知】なんだか久しぶりなような気がする歌枠告知!【ホロライブ/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-12T00:30:54.000Z",
-    "available_at": "2024-08-12T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
-    }
-  },
-  {
     "id": "s2VsW5cP00Y",
     "title": "【50万人耐久/KARAOKE】目標の50万まで!僕の歌を聞いてくれーっ!【火威青 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -35,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/-D2Cf4dIQGO_CcY_1F9i63TcHyY0EuPV1pYskJQmQHIClJGOt34BoI84zlgje_THCw8AprB6=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hiodoshi Ao"
+    }
+  },
+  {
+    "id": "p4-1EfaGVsM",
+    "title": "【重大告知】なんだか久しぶりなような気がする歌枠告知!【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-12T00:30:54.000Z",
+    "available_at": "2024-08-12T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -2004,6 +2004,25 @@
     }
   },
   {
+    "id": "SkAyiEOg3VM",
+    "title": "【Cover】踊り子(Vaundy) / 奏手イヅル",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-09T12:44:10.000Z",
+    "available_at": "2024-08-09T12:44:10.000Z",
+    "duration": 228,
+    "status": "past",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "PpEk9x1X9s8",
     "title": "【SorAZ/ときのそら/AZKi】Yeah!めっちゃホリディ【歌ってみた/Cover】",
     "type": "stream",
@@ -2935,26 +2954,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "gT_KADLkNew",
-    "title": "7icons - PLAYBOY Cover by hololive Indonesia",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-06-15T12:00:07.000Z",
-    "available_at": "2024-06-15T12:00:07.000Z",
-    "duration": 213,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {
