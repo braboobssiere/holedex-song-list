@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-12T06:57:30.000Z",
     "available_at": "2024-08-12T07:15:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6173,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -2957,6 +2957,26 @@
     }
   },
   {
+    "id": "lhzIgTidMqU",
+    "title": "【original】わたしを甘やかすなら【雪花ラミィ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-08-12T05:40:09.000Z",
+    "available_at": "2024-08-12T10:50:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "gzJzumPevNE",
     "title": "『ライカを追って』 - feat. 鏡音リン",
     "type": "stream",
@@ -3916,26 +3936,6 @@
     "topic_id": "Original_Song",
     "published_at": "2024-07-17T11:00:06.000Z",
     "available_at": "2024-07-17T11:00:06.000Z",
-    "duration": 264,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "VckiNiAuoFw",
-    "title": "map in the cup",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-07-16T10:00:33.000Z",
-    "available_at": "2024-07-16T10:00:33.000Z",
     "duration": 264,
     "status": "past",
     "songcount": 1,
