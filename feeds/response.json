@@ -1,24 +1,5 @@
 [
   {
-    "id": "s2VsW5cP00Y",
-    "title": "【50万人耐久/KARAOKE】目標の50万まで!僕の歌を聞いてくれーっ!【火威青 】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-11T18:28:09.000Z",
-    "available_at": "2024-08-12T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/-D2Cf4dIQGO_CcY_1F9i63TcHyY0EuPV1pYskJQmQHIClJGOt34BoI84zlgje_THCw8AprB6=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiodoshi Ao"
-    }
-  },
-  {
     "id": "p4-1EfaGVsM",
     "title": "【重大告知】なんだか久しぶりなような気がする歌枠告知!【ホロライブ/大神ミオ】",
     "type": "stream",
@@ -35,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "s2VsW5cP00Y",
+    "title": "【50万人耐久/KARAOKE】目標の50万まで!僕の歌を聞いてくれーっ!【火威青 】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-11T18:28:09.000Z",
+    "available_at": "2024-08-12T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
+      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/-D2Cf4dIQGO_CcY_1F9i63TcHyY0EuPV1pYskJQmQHIClJGOt34BoI84zlgje_THCw8AprB6=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hiodoshi Ao"
     }
   },
   {
@@ -2981,10 +2981,10 @@
     "title": "『ライカを追って』 - feat. 鏡音リン",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-08-11T11:59:00.000Z",
-    "available_at": "2024-08-12T09:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-12T09:30:06.000Z",
+    "available_at": "2024-08-12T09:30:06.000Z",
+    "duration": 242,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -3034,8 +3034,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3054,8 +3054,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
