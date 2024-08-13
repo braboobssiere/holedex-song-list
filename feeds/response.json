@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-12T10:00:58.000Z",
-    "available_at": "2024-08-13T12:00:00.000Z",
+    "available_at": "2024-08-13T12:00:54.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -2958,6 +2958,26 @@
     }
   },
   {
+    "id": "hcSuSzbj38M",
+    "title": "【MV】Breaking Dimensions【hololive English Original Song】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-08-13T07:35:44.000Z",
+    "available_at": "2024-08-13T23:57:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
+    }
+  },
+  {
     "id": "lhzIgTidMqU",
     "title": "【original】わたしを甘やかすなら【雪花ラミィ/ホロライブ】",
     "type": "stream",
@@ -3035,8 +3055,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3055,8 +3075,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3928,26 +3948,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "P6S-_MJvgLA",
-    "title": "AZKi「map in the cup」【Official Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-07-17T11:00:06.000Z",
-    "available_at": "2024-07-17T11:00:06.000Z",
-    "duration": 264,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
