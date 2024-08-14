@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-14T09:28:19.000Z",
-    "available_at": "2024-08-14T10:15:00.000Z",
+    "available_at": "2024-08-14T10:14:18.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -2145,26 +2148,6 @@
     }
   },
   {
-    "id": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた+ユ!隊(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 123,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "NxpZNBOW-P4",
     "title": "Habit / 沙花叉クロヱ(cover)",
     "type": "stream",
@@ -2182,6 +2165,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた+ユ!隊(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 123,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -2963,10 +2966,10 @@
     "title": "ときのそら｢おかえりなさい｣",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-08-01T13:36:42.000Z",
-    "available_at": "2024-08-14T10:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-14T10:30:07.000Z",
+    "available_at": "2024-08-14T10:30:07.000Z",
+    "duration": 225,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",

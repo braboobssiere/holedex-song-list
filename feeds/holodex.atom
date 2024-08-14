@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-14T10:10:49.867Z</updated>
+  <updated>2024-08-14T11:08:25.885Z</updated>
+
+  <entry>
+    <id>urn:uuid:c1a65249-ae8f-5db4-9065-957243502160</id>
+    <title><![CDATA[ときのそら｢おかえりなさい｣]]></title>
+    <link href="https://youtu.be/jRaEr1LcbSo" rel="alternate" type="text/html"/>
+    <published>2024-08-14T10:30:07.000Z</published>
+    <updated>2024-08-14T10:30:07.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jRaEr1LcbSo 【LIVE on &lt;t:1723631407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jRaEr1LcbSo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e4479854-0217-5a57-8ea5-12b9b329ba5e</id>
@@ -15,7 +29,7 @@
       <name>SoraCh. ときのそらチャンネル</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Yf5UGCABiUs 【LIVE on &lt;t:1723630500:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Yf5UGCABiUs 【LIVE on &lt;t:1723630458:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yf5UGCABiUs/maxresdefault.jpg"/>
   </entry>
 
@@ -692,20 +706,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c1a65249-ae8f-5db4-9065-957243502160</id>
-    <title><![CDATA[ときのそら｢おかえりなさい｣]]></title>
-    <link href="https://youtu.be/jRaEr1LcbSo" rel="alternate" type="text/html"/>
-    <published>2024-08-01T13:36:42.000Z</published>
-    <updated>2024-08-01T13:36:42.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jRaEr1LcbSo 【LIVE on &lt;t:1723631400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jRaEr1LcbSo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:868bb1bf-1cf2-5b24-9fe6-0b13efff5c3e</id>
     <title><![CDATA[【夏歌枠】ワンマンライブ直前!前前夜祭!夏曲を歌う!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/SbiR0Eb538A" rel="alternate" type="text/html"/>
@@ -818,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
     <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
     <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
@@ -843,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
+    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
+    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
