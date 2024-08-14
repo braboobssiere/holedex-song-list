@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-14T09:10:32.304Z</updated>
+  <updated>2024-08-14T10:10:49.867Z</updated>
+
+  <entry>
+    <id>urn:uuid:e4479854-0217-5a57-8ea5-12b9b329ba5e</id>
+    <title><![CDATA[【初主題歌】「おかえりなさい」MVを見ていこう!!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/Yf5UGCABiUs" rel="alternate" type="text/html"/>
+    <published>2024-08-14T09:28:19.000Z</published>
+    <updated>2024-08-14T09:28:19.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Yf5UGCABiUs 【LIVE on &lt;t:1723630500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yf5UGCABiUs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bee7c89d-045b-5e9e-9a1c-df18b0b06386</id>
@@ -804,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -829,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -899,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R0g0Rm3B5HE 【LIVE on &lt;t:1721985142:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R0g0Rm3B5HE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:67464c3f-35c2-5139-ae74-085c52a69d04</id>
-    <title><![CDATA[The Stream Where Fauna Speedruns Writing and Performing an Original Rap Song]]></title>
-    <link href="https://youtu.be/orTap5eCZk8" rel="alternate" type="text/html"/>
-    <published>2024-07-25T00:19:25.000Z</published>
-    <updated>2024-07-25T00:19:25.000Z</updated>
-    <author>
-      <name>Ceres Fauna Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=orTap5eCZk8 【LIVE on &lt;t:1721858419:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/orTap5eCZk8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
