@@ -2006,25 +2006,6 @@
     }
   },
   {
-    "id": "SkAyiEOg3VM",
-    "title": "【Cover】踊り子(Vaundy) / 奏手イヅル",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-09T12:44:10.000Z",
-    "available_at": "2024-08-09T12:44:10.000Z",
-    "duration": 228,
-    "status": "past",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "PpEk9x1X9s8",
     "title": "【SorAZ/ときのそら/AZKi】Yeah!めっちゃホリディ【歌ってみた/Cover】",
     "type": "stream",
@@ -2959,6 +2940,26 @@
     }
   },
   {
+    "id": "vJtat7vOSro",
+    "title": "【6周年コラボ歌ってみた】YuNi×ときのそら×尾丸ポルカ×樋口楓×緑仙  「青春のアーカイブ(TVsize)」TVアニメ「ブルーアーカイブ The Animation 」OP",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-06-14T12:00:06.000Z",
+    "available_at": "2024-06-14T12:00:06.000Z",
+    "duration": 89,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCHTnX0CSX_KObo5I9WuZ64g",
+      "name": "YuNi - official channel -",
+      "org": "Independents",
+      "suborg": "TFToy's Factory",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_m_KUysAaTVb7g_hYb4T9AEqw1WBGY6vSj7Bg18WNzZVik=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "YuNi"
+    }
+  },
+  {
     "id": "jRaEr1LcbSo",
     "title": "ときのそら｢おかえりなさい｣",
     "type": "stream",
@@ -2983,10 +2984,10 @@
     "title": "【MV】Breaking Dimensions【hololive English Original Song】",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-08-13T07:35:44.000Z",
-    "available_at": "2024-08-13T23:57:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-13T23:57:07.000Z",
+    "available_at": "2024-08-13T23:57:07.000Z",
+    "duration": 206,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
@@ -3076,8 +3077,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3096,8 +3097,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3124,6 +3125,7 @@
     "available_at": "2024-08-10T12:05:08.000Z",
     "duration": 195,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
