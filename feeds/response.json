@@ -7,7 +7,7 @@
     "published_at": "2024-08-15T11:37:28.000Z",
     "available_at": "2024-08-15T14:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -16,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
+    }
+  },
+  {
+    "id": "QqL6IRSGoyE",
+    "title": "【縦型歌枠】まったりリクエスト歌枠【轟はじめ/ReGLOSS】 #shorts",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-15T13:31:26.000Z",
+    "available_at": "2024-08-15T13:31:44.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vMM_SKbkipyDVJkUYPPWlQkgThE1rXMSh7hkhqvC_Qs-iTigfyKW23OfLH5U1HFTZIcsHR2Z=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -974,22 +993,22 @@
     }
   },
   {
-    "id": "3aT80O_iZw0",
-    "title": "【 歌枠 / Karaoke 】ぽろんぽろんぽろん / #燃えろアステル",
+    "id": "y6PMvF68aFI",
+    "title": "【録画はメン限】悪魔の吐息ASMR【ホロライブ/癒月ちょこ】",
     "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-07-25T06:06:02.000Z",
-    "available_at": "2024-07-25T03:39:20.000Z",
-    "duration": 8236,
-    "status": "past",
+    "topic_id": "asmr",
+    "published_at": "2024-08-14T20:34:04.000Z",
+    "available_at": "2024-08-15T14:15:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
     "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
       "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "suborg": "d 2nd Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
+      "photo": "https://yt3.ggpht.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
     }
   },
   {
@@ -1947,25 +1966,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "3sg9J3cg0YM",
-    "title": "【無料/KU100】🔴ぺこーらありがとうASMR✨一緒に温泉旅行、いかがですか?♨ ※兎田ぺこら専用ボイスです【天音かなた、AZKi、沙花叉クロヱ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-03-06T11:31:18.000Z",
-    "available_at": "2024-03-06T11:31:18.000Z",
-    "duration": 146,
-    "status": "past",
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
     }
   },
   {
