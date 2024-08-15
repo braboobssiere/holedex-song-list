@@ -1,5 +1,24 @@
 [
   {
+    "id": "MqziWJr3K9w",
+    "title": "【KARAOKE】Early Karaoke for a change! (unarchived)",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-15T20:00:14.000Z",
+    "available_at": "2024-08-15T20:15:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCyl1z3jo3XHR1riLFKG5UAg",
+      "name": "Watson Amelia Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Watson Amelia"
+    }
+  },
+  {
     "id": "DAyyyhNjuww",
     "title": "SINGING!",
     "type": "stream",
@@ -971,25 +990,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kU3qKIJYEfUnFV1ikRs92qVoxgvWQLf8XGpoUJVJEdUcc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "_Yc4DumQJhI",
-    "title": "【KARAOKE / 歌枠】It is time for some Unarchived Singing♪ #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-07-24T15:52:12.000Z",
-    "available_at": "2024-07-25T04:00:28.000Z",
-    "duration": 8400,
-    "status": "missing",
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
@@ -1989,25 +1989,6 @@
     }
   },
   {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2025,6 +2006,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
