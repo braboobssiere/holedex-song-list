@@ -146,6 +146,7 @@
     "duration": 772,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCr4fZBNv69P-09f98l7CshA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -1989,33 +1990,14 @@
     }
   },
   {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-14T14:11:37.000Z",
-    "available_at": "2024-08-15T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-14T11:41:30.000Z",
-    "available_at": "2024-08-15T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 257,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -2025,6 +2007,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2077,6 +2078,7 @@
     "duration": 231,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UC3G2QylAJ8NN3_ZzrPV6vzg",
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -2117,6 +2119,7 @@
     "duration": 232,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCuBGv7lV1XwcG2ThRHjJTXQ",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -2208,26 +2211,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2245,6 +2228,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -2713,6 +2716,7 @@
     "duration": 202,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCuBGv7lV1XwcG2ThRHjJTXQ",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -3050,6 +3054,7 @@
     "duration": 174,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChiB81fg1nY_OQ37LuJwIEA",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS",
@@ -3069,6 +3074,7 @@
     "duration": 174,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChiB81fg1nY_OQ37LuJwIEA",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS",
@@ -3076,26 +3082,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-08-10T15:01:36.000Z",
-    "available_at": "2024-08-10T15:01:36.000Z",
-    "duration": 197,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
@@ -3108,6 +3094,28 @@
     "duration": 197,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-08-10T15:01:36.000Z",
+    "available_at": "2024-08-10T15:01:36.000Z",
+    "duration": 197,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -3227,6 +3235,7 @@
     "duration": 247,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCt7ySm60GFB2I9I4syaJfDA",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -3247,6 +3256,7 @@
     "duration": 208,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCaqURDDJdLP7l0TFOovDJ2g",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -3267,6 +3277,7 @@
     "duration": 247,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCt7ySm60GFB2I9I4syaJfDA",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -3287,6 +3298,7 @@
     "duration": 193,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCaqURDDJdLP7l0TFOovDJ2g",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -3307,6 +3319,7 @@
     "duration": 170,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCaqURDDJdLP7l0TFOovDJ2g",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -3327,6 +3340,7 @@
     "duration": 200,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCaqURDDJdLP7l0TFOovDJ2g",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -3367,6 +3381,7 @@
     "duration": 177,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3387,6 +3402,7 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3407,6 +3423,7 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3427,6 +3444,7 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3447,6 +3465,7 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3467,6 +3486,7 @@
     "duration": 177,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -3487,6 +3507,7 @@
     "duration": 196,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -3546,6 +3567,7 @@
     "duration": 187,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCkbBRzB3Hfiz97G_f8nl7qA",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -3586,6 +3608,7 @@
     "duration": 143,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UC5g0kkbZtBX6_rwRcDSqZBQ",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3606,6 +3629,7 @@
     "duration": 264,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -3626,6 +3650,7 @@
     "duration": 264,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -3686,6 +3711,7 @@
     "duration": 316,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3706,6 +3732,7 @@
     "duration": 196,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -3726,6 +3753,7 @@
     "duration": 255,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3746,6 +3774,7 @@
     "duration": 201,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3766,6 +3795,7 @@
     "duration": 273,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3786,6 +3816,7 @@
     "duration": 144,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3806,6 +3837,7 @@
     "duration": 194,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3826,6 +3858,7 @@
     "duration": 234,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3846,6 +3879,7 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3866,6 +3900,7 @@
     "duration": 265,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3886,6 +3921,7 @@
     "duration": 268,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3906,6 +3942,7 @@
     "duration": 238,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -3926,6 +3963,7 @@
     "duration": 194,
     "status": "past",
     "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
