@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-16T04:58:11.000Z",
-    "available_at": "2024-08-16T08:00:00.000Z",
+    "available_at": "2024-08-16T08:00:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -45,7 +45,7 @@
     "published_at": "2024-08-15T11:27:22.000Z",
     "available_at": "2024-08-16T07:00:19.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
@@ -1970,6 +1970,25 @@
     }
   },
   {
+    "id": "MURvvu0EtM4",
+    "title": "【悲しみで花が咲くものか】世界はそれを愛と呼ぶんだぜ/COVER LIVE Ver.【2024誕生記念】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-16T08:02:22.000Z",
+    "available_at": "2024-08-16T10:50:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "L32ujSiNH7w",
     "title": "【AREA15】アイドル / IDOL - YOASOBI【Cover】",
     "type": "stream",
@@ -2211,26 +2230,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2248,6 +2247,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -2946,33 +2965,13 @@
     }
   },
   {
-    "id": "WAPmRxw18c8",
-    "title": "ラグトレイン /  covered by 羽継烏有",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-06-19T09:00:32.000Z",
-    "available_at": "2024-06-19T09:00:32.000Z",
-    "duration": 252,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-      "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/IU7hPSrqpET8vB5HWKnueKfXnjLFG8OvUn3U_bnJn2l2OrIQy6JZPz5hTEqCInQZ-xZJXUwS=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Utsugi Uyu"
-    }
-  },
-  {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2987,13 +2986,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3155,13 +3154,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3176,13 +3175,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3316,8 +3315,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3337,8 +3336,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
