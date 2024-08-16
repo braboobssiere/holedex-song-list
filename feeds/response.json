@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-16T13:34:18.000Z",
-    "available_at": "2024-08-16T18:00:00.000Z",
+    "available_at": "2024-08-16T18:00:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -141,7 +141,7 @@
     "title": "【縦型歌枠】まったりリクエスト歌枠【轟はじめ/ReGLOSS】 #shorts",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-08-15T13:31:26.000Z",
+    "published_at": "2024-08-15T15:30:05.000Z",
     "available_at": "2024-08-15T13:31:44.000Z",
     "duration": 5232,
     "status": "past",
@@ -1001,9 +1001,9 @@
     "title": "【録画はメン限】悪魔の吐息ASMR【ホロライブ/癒月ちょこ】",
     "type": "stream",
     "topic_id": "asmr",
-    "published_at": "2024-08-14T20:34:04.000Z",
+    "published_at": "2024-08-15T15:17:42.000Z",
     "available_at": "2024-08-15T14:30:33.000Z",
-    "duration": 2592,
+    "duration": 2617,
     "status": "past",
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
@@ -1973,6 +1973,25 @@
     }
   },
   {
+    "id": "nL_L1Jn4lNE",
+    "title": "ECHO Crusher-P / Covered by Moona Hoshinova & Nato Tsukinami【歌ってみた】#MooNato",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-16T12:41:52.000Z",
+    "available_at": "2024-08-17T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCBFK95CIJNQmAlsCx22tZDQ",
+      "name": "月波 ナト-Nato Tsukinami-",
+      "org": "Independents",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FCc2GC8rmHvzSvFS0a7b7tUwfUwl3zyt1oZLLYMNYqvjg3AJniLEZJP-sn47-UlfQ2L-rUjJd14=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsukinami Nato"
+    }
+  },
+  {
     "id": "MURvvu0EtM4",
     "title": "【悲しみで花が咲くものか】世界はそれを愛と呼ぶんだぜ/COVER LIVE Ver.【2024誕生記念】",
     "type": "stream",
@@ -2013,6 +2032,25 @@
     }
   },
   {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2030,25 +2068,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2947,25 +2966,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "9foH_u4NBfU",
-    "title": "NIGHT DANCER / imase covered by 火威青&轟はじめ 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-06-20T10:00:08.000Z",
-    "available_at": "2024-06-20T10:00:08.000Z",
-    "duration": 211,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
