@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-16T04:58:11.000Z",
     "available_at": "2024-08-16T08:00:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10509,
+    "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -1974,10 +1974,10 @@
     "title": "【悲しみで花が咲くものか】世界はそれを愛と呼ぶんだぜ/COVER LIVE Ver.【2024誕生記念】",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-16T08:02:22.000Z",
-    "available_at": "2024-08-16T10:50:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-16T10:50:07.000Z",
+    "available_at": "2024-08-16T10:50:07.000Z",
+    "duration": 313,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
@@ -2231,26 +2231,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2268,6 +2248,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -2986,13 +2986,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3007,13 +3007,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3336,8 +3336,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3357,8 +3357,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
