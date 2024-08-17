@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-17T03:41:21.000Z",
-    "available_at": "2024-08-17T09:00:00.000Z",
+    "available_at": "2024-08-17T09:01:44.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -2250,26 +2250,6 @@
     }
   },
   {
-    "id": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた+ユ!隊(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 123,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "NxpZNBOW-P4",
     "title": "Habit / 沙花叉クロヱ(cover)",
     "type": "stream",
@@ -2287,6 +2267,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた+ユ!隊(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 123,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -2966,6 +2966,25 @@
     }
   },
   {
+    "id": "wZQuY0_Kd_Q",
+    "title": "[MV] UNCHAINED - Official Music Video [#holoTEMPUS / #TEMPUSinJAPAN]",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-08-13T04:49:43.000Z",
+    "available_at": "2024-08-18T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "Gf0iunVGj0I",
     "title": "【 MV 】BLUE CLAPPER 【 桃鈴ねね/尾丸ポルカ/雪花ラミィ/獅白ぼたん 】",
     "type": "stream",
@@ -3006,13 +3025,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3027,13 +3046,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3970,27 +3989,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "GW44zWPz2jg",
-    "title": "The Last Frontier - 5th fes. Live ver. -",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-07-26T15:00:18.000Z",
-    "available_at": "2024-07-26T15:00:18.000Z",
-    "duration": 316,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
