@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-17T10:10:18.583Z</updated>
+  <updated>2024-08-17T11:08:01.249Z</updated>
+
+  <entry>
+    <id>urn:uuid:c6509f0d-83f3-5345-b7c0-f4a263448382</id>
+    <title><![CDATA[たまものまえ/白上フブキ(cover)]]></title>
+    <link href="https://youtu.be/7ZRm6y-qqDg" rel="alternate" type="text/html"/>
+    <published>2024-08-17T11:00:07.000Z</published>
+    <updated>2024-08-17T11:00:07.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7ZRm6y-qqDg 【LIVE on &lt;t:1723892407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7ZRm6y-qqDg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2a504bcd-8f84-5e7c-897c-75054c823866</id>
@@ -73,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Hi1SG9aCdpE 【LIVE on &lt;t:1723888809:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hi1SG9aCdpE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c6509f0d-83f3-5345-b7c0-f4a263448382</id>
-    <title><![CDATA[たまものまえ/白上フブキ(cover)]]></title>
-    <link href="https://youtu.be/7ZRm6y-qqDg" rel="alternate" type="text/html"/>
-    <published>2024-08-16T15:52:03.000Z</published>
-    <updated>2024-08-16T15:52:03.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7ZRm6y-qqDg 【LIVE on &lt;t:1723892400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7ZRm6y-qqDg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -384,20 +384,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
-    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
     <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
     <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
@@ -409,6 +395,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
+    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
