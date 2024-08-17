@@ -7,7 +7,7 @@
     "published_at": "2024-08-13T10:04:39.000Z",
     "available_at": "2024-08-17T03:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -57,6 +57,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kureiji Ollie"
+    }
+  },
+  {
+    "id": "7_1dSB0hoGo",
+    "title": "【 歌枠 】んなサマー！夏歌うたうのら～！！！＆たっぷり雑談するのら！🍉🌻🌴【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-16T04:58:11.000Z",
+    "available_at": "2024-08-16T08:00:21.000Z",
+    "duration": 10509,
+    "status": "past",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
     }
   },
   {
@@ -975,25 +994,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "bLl_M89yADw",
-    "title": "[UNARCHIVED KARAOKE] I JUST FELT LIKE IT THIS WEEK :) #gavisbettel #holotempus",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-07-22T06:01:11.000Z",
-    "available_at": "2024-07-27T23:02:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/UTMYJz0KkrjT7zdaUq_ofe2su2jFNxuGkDngCSdHH9OwPaYjWG6_7cuIpmrNi-npFiCc9ZsK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
     }
   },
   {
@@ -3178,13 +3178,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3199,13 +3199,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
