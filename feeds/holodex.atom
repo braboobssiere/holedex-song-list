@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-18T15:08:51.310Z</updated>
+  <updated>2024-08-18T16:10:23.699Z</updated>
 
   <entry>
     <id>urn:uuid:16e00628-2e23-59ba-91fd-8308c8ddac0e</id>
-    <title><![CDATA[林檎売りの泡沫少女/湊あくあ×紫咲シオン]]></title>
+    <title><![CDATA[林檎売りの泡沫少女／湊あくあ×紫咲シオン]]></title>
     <link href="https://youtu.be/FG7pCu6ka-E" rel="alternate" type="text/html"/>
     <published>2024-08-18T10:00:07.000Z</published>
     <updated>2024-08-18T10:00:07.000Z</updated>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BPI8aQ0xhQg 【LIVE on &lt;t:1723971907:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BPI8aQ0xhQg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f139c70-a853-5214-8e2e-a2d3d986b4a4</id>
+    <title><![CDATA[がんばる君へ、ちゃまをお届け🎧 💓 -作業用BGM- 【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/_JsnGU3YPio" rel="alternate" type="text/html"/>
+    <published>2024-08-18T07:19:10.000Z</published>
+    <updated>2024-08-18T07:19:10.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_JsnGU3YPio 【LIVE on &lt;t:1723993711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_JsnGU3YPio/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ZCT49zxqfJA 【LIVE on &lt;t:1723896147:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZCT49zxqfJA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d665a25f-7b72-525b-b0c5-5684dd420d47</id>
-    <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Dancing Queen~! 💄]]></title>
-    <link href="https://youtu.be/AEivl0wSQfU" rel="alternate" type="text/html"/>
-    <published>2024-08-17T03:41:21.000Z</published>
-    <updated>2024-08-17T03:41:21.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AEivl0wSQfU 【LIVE on &lt;t:1723885304:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AEivl0wSQfU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -398,20 +398,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
-    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
     <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
     <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
@@ -423,6 +409,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
+    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -580,20 +580,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -605,6 +591,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1001,7 +1001,7 @@
 
   <entry>
     <id>urn:uuid:3c80f345-aa96-54e4-a64b-38bc6266e068</id>
-    <title><![CDATA[【SEVEN!】Karaoke! Lets DANCE~! 💄]]></title>
+    <title><![CDATA[【SEVEN! 01】Karaoke! Lets DANCE~! 💄]]></title>
     <link href="https://youtu.be/PuselUTM590" rel="alternate" type="text/html"/>
     <published>2024-08-05T21:21:24.000Z</published>
     <updated>2024-08-05T21:21:24.000Z</updated>
@@ -1224,20 +1224,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -1249,6 +1235,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
