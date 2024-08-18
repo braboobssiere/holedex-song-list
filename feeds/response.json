@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-17T21:53:23.000Z",
     "available_at": "2024-08-18T00:59:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6427,
+    "status": "past",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-16T11:26:12.000Z",
     "available_at": "2024-08-17T23:58:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10428,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -2965,10 +2965,10 @@
     "title": "[MV] UNCHAINED - Official Music Video [#holoTEMPUS / #TEMPUSinJAPAN]",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-08-13T04:49:43.000Z",
-    "available_at": "2024-08-18T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-18T03:00:08.000Z",
+    "available_at": "2024-08-18T03:00:08.000Z",
+    "duration": 241,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
@@ -3021,13 +3021,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3042,13 +3042,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3371,8 +3371,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3392,8 +3392,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
