@@ -1,5 +1,24 @@
 [
   {
+    "id": "8AX4SJyWDwc",
+    "title": "【歌枠】久々に配信で歌う🎤1時間ゆるゆる楽しく!in縦型【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-15T11:29:19.000Z",
+    "available_at": "2024-08-19T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "eP29jR49UDs",
     "title": "【SEVEN! 02】Karaoke! Lets have fun~! 💄",
     "type": "stream",
@@ -62,9 +81,9 @@
     "title": "【KARAOKE】UNCHAINED IS BEING UNCHAINED, LET'S CELEBRATE 🎤✨【ARCHIVED】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-08-17T21:53:23.000Z",
+    "published_at": "2024-08-18T03:00:38.000Z",
     "available_at": "2024-08-18T00:59:45.000Z",
-    "duration": 6427,
+    "duration": 6443,
     "status": "past",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
@@ -84,7 +103,7 @@
     "published_at": "2024-08-16T11:26:12.000Z",
     "available_at": "2024-08-17T23:58:19.000Z",
     "duration": 10428,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -964,29 +983,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minato Aqua"
-    }
-  },
-  {
-    "id": "YLdvLWmUPnM",
-    "title": "【歌枠 / Singing Stream】8月最初の告知ありカラオケ!!!【常闇トワ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-01T14:02:59.000Z",
-    "available_at": "2024-08-01T13:00:49.000Z",
-    "duration": 3509,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 32
-    },
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
     }
   },
   {
@@ -2104,6 +2100,25 @@
     }
   },
   {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2121,25 +2136,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -3021,13 +3017,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3042,13 +3038,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3210,13 +3206,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3231,13 +3227,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
