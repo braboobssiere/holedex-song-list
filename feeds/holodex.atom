@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-20T14:09:43.204Z</updated>
+  <updated>2024-08-20T15:10:08.104Z</updated>
 
   <entry>
     <id>urn:uuid:e17e6a62-1e5c-55fe-a711-c79e2aab10ad</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h-jHrHLG2eQ 【LIVE on &lt;t:1724148007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-jHrHLG2eQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:753f7757-8cde-59a2-b8a7-813b23b6c229</id>
+    <title><![CDATA[【歌枠】久々に配信で歌う🎤1時間ゆるゆる楽しく!in縦型【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/8AX4SJyWDwc" rel="alternate" type="text/html"/>
+    <published>2024-08-19T12:37:18.000Z</published>
+    <updated>2024-08-19T12:37:18.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8AX4SJyWDwc 【LIVE on &lt;t:1724061664:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8AX4SJyWDwc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -451,20 +465,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=L32ujSiNH7w 【LIVE on &lt;t:1723726807:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L32ujSiNH7w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:753f7757-8cde-59a2-b8a7-813b23b6c229</id>
-    <title><![CDATA[【歌枠】久々に配信で歌う🎤1時間ゆるゆる楽しく！in縦型【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/8AX4SJyWDwc" rel="alternate" type="text/html"/>
-    <published>2024-08-15T11:29:19.000Z</published>
-    <updated>2024-08-15T11:29:19.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8AX4SJyWDwc 【LIVE on &lt;t:1724061664:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8AX4SJyWDwc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1252,20 +1252,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
     <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
     <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
@@ -1277,6 +1263,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
+    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
+    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
