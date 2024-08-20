@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-20T16:11:06.274Z</updated>
+  <updated>2024-08-20T17:09:07.711Z</updated>
+
+  <entry>
+    <id>urn:uuid:662f8213-f42c-5226-9c4b-6ae5b7390c23</id>
+    <title><![CDATA[【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE]]></title>
+    <link href="https://youtu.be/px_dperLh9I" rel="alternate" type="text/html"/>
+    <published>2024-08-20T13:10:52.000Z</published>
+    <updated>2024-08-20T13:10:52.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=px_dperLh9I 【LIVE on &lt;t:1724238000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/px_dperLh9I/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e17e6a62-1e5c-55fe-a711-c79e2aab10ad</id>
@@ -468,20 +482,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
-    <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
-    <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
     <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
     <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
@@ -493,6 +493,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
+    <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
+    <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
