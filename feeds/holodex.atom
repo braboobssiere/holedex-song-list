@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-22T17:09:08.288Z</updated>
+  <updated>2024-08-22T18:12:40.080Z</updated>
 
   <entry>
     <id>urn:uuid:8558f42e-95fe-5dac-b0da-db6447a0d263</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=x6GCUYJvdRI 【LIVE on &lt;t:1724155207:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/x6GCUYJvdRI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:233884cd-acd3-54bd-9bb3-3efcd2f2cfc7</id>
+    <title><![CDATA[HIMEHINA×角巻わため『???』Cover]]></title>
+    <link href="https://youtu.be/Tabx6hI0YX4" rel="alternate" type="text/html"/>
+    <published>2024-08-20T10:01:56.000Z</published>
+    <updated>2024-08-20T10:01:56.000Z</updated>
+    <author>
+      <name>HIMEHINA Channel</name>
+      <uri>https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Tabx6hI0YX4 【LIVE on &lt;t:1724414400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Tabx6hI0YX4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1294,20 +1308,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
     <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
     <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
@@ -1319,6 +1319,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
+    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
+    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1739,20 +1753,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DRtOWI6Lut0 【LIVE on &lt;t:1719117007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DRtOWI6Lut0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7ecd3ebd-41c1-5b19-aa21-10f1f3082680</id>
-    <title><![CDATA[【COVER】HIBANA / ヒバナ - Raora Panthera]]></title>
-    <link href="https://youtu.be/UwIhbV_wuKI" rel="alternate" type="text/html"/>
-    <published>2024-06-23T04:25:20.000Z</published>
-    <updated>2024-06-23T04:25:20.000Z</updated>
-    <author>
-      <name>Raora Panthera Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UwIhbV_wuKI 【LIVE on &lt;t:1719116720:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UwIhbV_wuKI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
