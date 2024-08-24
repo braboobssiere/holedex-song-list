@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-24T12:16:11.732Z</updated>
+  <updated>2024-08-24T13:11:43.954Z</updated>
 
   <entry>
     <id>urn:uuid:fa7919eb-b892-5963-87f2-ef5469373685</id>
@@ -34,20 +34,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
-    <title><![CDATA[きみも悪い人でよかった／Covered by紫咲シオン＆湊あくあ]]></title>
-    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
     <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
@@ -62,8 +48,22 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
+    <title><![CDATA[きみも悪い人でよかった／Covered by紫咲シオン＆湊あくあ]]></title>
+    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:6f4a8479-4553-5369-8fed-570b60e98a37</id>
-    <title><![CDATA[【歌枠】#ルイらで歌枠 ルイ姉!一緒に歌いましょう!!【儒烏風亭らでん/鷹嶺ルイ】]]></title>
+    <title><![CDATA[【歌枠】#ルイらで歌枠 ルイ姉！一緒に歌いましょう！！【儒烏風亭らでん/鷹嶺ルイ】]]></title>
     <link href="https://youtu.be/_WJKm5zed-o" rel="alternate" type="text/html"/>
     <published>2024-08-24T08:19:44.000Z</published>
     <updated>2024-08-24T08:19:44.000Z</updated>
@@ -157,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=px_dperLh9I 【LIVE on &lt;t:1724239103:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/px_dperLh9I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:39654075-7fd4-5074-bbd1-d8a28c67a3be</id>
-    <title><![CDATA[春に微熱‐クボタカイ(cover)]]></title>
-    <link href="https://youtu.be/QUqg5SCrh5c" rel="alternate" type="text/html"/>
-    <published>2024-08-21T10:23:17.000Z</published>
-    <updated>2024-08-21T10:23:17.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QUqg5SCrh5c 【LIVE on &lt;t:1724235797:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QUqg5SCrh5c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -454,20 +440,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
-    <title><![CDATA[Last Days]]></title>
-    <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
     <title><![CDATA[Overkill]]></title>
     <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
@@ -479,6 +451,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
+    <title><![CDATA[Last Days]]></title>
+    <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -846,20 +832,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -871,6 +843,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1406,20 +1392,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -1431,6 +1403,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1781,6 +1767,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xOdtA2Bvvb0 【LIVE on &lt;t:1719576906:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xOdtA2Bvvb0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:464787b3-f17e-5e85-aee3-fa1ffd6f41f9</id>
+    <title><![CDATA[【SorAZ】マトリョシカ /AZKi ときのそら【歌ってみた】]]></title>
+    <link href="https://youtu.be/uxbspjmmIYA" rel="alternate" type="text/html"/>
+    <published>2024-06-26T10:00:06.000Z</published>
+    <updated>2024-06-26T10:00:06.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uxbspjmmIYA 【LIVE on &lt;t:1719396006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uxbspjmmIYA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
