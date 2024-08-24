@@ -185,7 +185,7 @@
     "available_at": "2024-08-18T10:00:21.000Z",
     "duration": 5907,
     "status": "past",
-    "songcount": 7,
+    "songcount": 9,
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -357,7 +357,7 @@
   },
   {
     "id": "7_1dSB0hoGo",
-    "title": "【 歌枠 】んなサマー!夏歌うたうのら~!!!&たっぷり雑談するのら!🍉🌻🌴【姫森ルーナ/ホロライブ】",
+    "title": "【 歌枠 】んなサマー！夏歌うたうのら～！！！＆たっぷり雑談するのら！🍉🌻🌴【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-16T16:36:29.000Z",
@@ -1988,26 +1988,6 @@
     }
   },
   {
-    "id": "FnAk_ZGfvdw",
-    "title": "「青と夏」 - 音乃瀬奏(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-23T10:44:27.000Z",
-    "available_at": "2024-08-24T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o03i3rWw98BSquRZFhyiDQuunr1cr_9xEBVNNx3Cq8vqlJZVKXMgKsVLGW2AlbsFTvphGiHRCg0=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
     "id": "_l6fAIBDxFQ",
     "title": "きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ",
     "type": "stream",
@@ -2025,6 +2005,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Murasaki Shion"
+    }
+  },
+  {
+    "id": "FnAk_ZGfvdw",
+    "title": "「青と夏」 - 音乃瀬奏(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-23T10:44:27.000Z",
+    "available_at": "2024-08-24T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o03i3rWw98BSquRZFhyiDQuunr1cr_9xEBVNNx3Cq8vqlJZVKXMgKsVLGW2AlbsFTvphGiHRCg0=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
     }
   },
   {
@@ -2507,26 +2507,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2544,6 +2524,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -3272,13 +3272,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3293,13 +3293,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
