@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-25T15:08:56.877Z</updated>
+  <updated>2024-08-25T16:10:53.723Z</updated>
 
   <entry>
     <id>urn:uuid:662b0dd1-4b71-5856-bd1e-d55cec276083</id>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:23391ba2-cdde-5878-9934-2a8fe0a0d3e4</id>
-    <title><![CDATA[快晴 / Startend cover]]></title>
+    <title><![CDATA[快晴 ／ Startend cover]]></title>
     <link href="https://youtu.be/_T-1Vvm1fPA" rel="alternate" type="text/html"/>
     <published>2024-08-25T10:00:06.000Z</published>
     <updated>2024-08-25T10:00:06.000Z</updated>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Hp2UM4bS3WQ 【LIVE on &lt;t:1724517317:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hp2UM4bS3WQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6f4a8479-4553-5369-8fed-570b60e98a37</id>
+    <title><![CDATA[【歌枠】#ルイらで歌枠 ルイ姉!一緒に歌いましょう!!【儒烏風亭らでん/鷹嶺ルイ】]]></title>
+    <link href="https://youtu.be/_WJKm5zed-o" rel="alternate" type="text/html"/>
+    <published>2024-08-24T13:13:54.000Z</published>
+    <updated>2024-08-24T13:13:54.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_WJKm5zed-o 【LIVE on &lt;t:1724500902:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_WJKm5zed-o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -132,20 +146,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
-    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
-    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
     <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
@@ -160,17 +160,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6f4a8479-4553-5369-8fed-570b60e98a37</id>
-    <title><![CDATA[【歌枠】#ルイらで歌枠 ルイ姉！一緒に歌いましょう！！【儒烏風亭らでん/鷹嶺ルイ】]]></title>
-    <link href="https://youtu.be/_WJKm5zed-o" rel="alternate" type="text/html"/>
-    <published>2024-08-24T08:19:44.000Z</published>
-    <updated>2024-08-24T08:19:44.000Z</updated>
+    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
+    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
+    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
     <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_WJKm5zed-o 【LIVE on &lt;t:1724500902:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_WJKm5zed-o/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -538,20 +538,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
-    <title><![CDATA[Overkill]]></title>
-    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
     <title><![CDATA[Last Days]]></title>
     <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
@@ -563,6 +549,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
+    <title><![CDATA[Overkill]]></title>
+    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -930,20 +930,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -955,6 +941,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
