@@ -262,7 +262,7 @@
     "available_at": "2024-08-18T10:58:26.000Z",
     "duration": 8644,
     "status": "past",
-    "songcount": 1,
+    "songcount": 7,
     "live_tl_count": {
       "en": 29
     },
@@ -1262,25 +1262,6 @@
     }
   },
   {
-    "id": "HJxjH3CtDJY",
-    "title": "【T3 Membership】Hey, how you doin' lil' mama let me whisper in ya ear【ASMR】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-06-05T15:40:27.000Z",
-    "available_at": "2024-06-06T14:01:07.000Z",
-    "duration": 9939,
-    "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
     "id": "hP13ccUMOyg",
     "title": "≪ASMR - OFFCOLLAB≫ PSSSSSSSSSSST w/ @NanashiMumei",
     "type": "stream",
@@ -1971,6 +1952,25 @@
     }
   },
   {
+    "id": "8rZ-6HvM25k",
+    "title": "【PV/ASMR】天使の止まり木 ボイスPV【沙花叉クロヱ/天音かなた/AZKi/ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-03-06T10:30:02.000Z",
+    "available_at": "2024-03-06T10:30:02.000Z",
+    "duration": 80,
+    "status": "past",
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
+    }
+  },
+  {
     "id": "_T-1Vvm1fPA",
     "title": "快晴 / Startend cover",
     "type": "stream",
@@ -2511,26 +2511,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2548,6 +2528,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
