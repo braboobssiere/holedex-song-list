@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-26T17:09:34.663Z</updated>
+  <updated>2024-08-26T18:13:01.268Z</updated>
+
+  <entry>
+    <id>urn:uuid:cbd18ae5-2d91-53b6-b62c-db90ec4623aa</id>
+    <title><![CDATA[【SING】ロスト歌枠：ボクを眠くさせてほしい【ホロライブ / ロボ子さん】]]></title>
+    <link href="https://youtu.be/kNMF7hyYAbc" rel="alternate" type="text/html"/>
+    <published>2024-08-26T17:55:14.000Z</published>
+    <updated>2024-08-26T17:55:14.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kNMF7hyYAbc 【LIVE on &lt;t:1724695362:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kNMF7hyYAbc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6fbd7aa2-fa2f-5e28-9efe-6f7adfc8a391</id>
@@ -20,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5c14730a-dc36-5529-b8b7-71c99dce7fad</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】課題曲ちゃれんじ!楽しく歌おう!【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/_8LojsbmAZ8" rel="alternate" type="text/html"/>
+    <published>2024-08-26T16:12:38.000Z</published>
+    <updated>2024-08-26T16:12:38.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_8LojsbmAZ8 【LIVE on &lt;t:1724758200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_8LojsbmAZ8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:722c8e3b-d95a-580d-aae6-49329d7f85ef</id>
     <title><![CDATA[【#ReGLOSS歌枠リレー】青くんとキミの関係って、多分…メイビー…ハッ!?【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/VFRxfVtSWNw" rel="alternate" type="text/html"/>
@@ -31,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VFRxfVtSWNw 【LIVE on &lt;t:1724756400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VFRxfVtSWNw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:498a9f7a-baf6-59af-9833-fd7b2ded57ec</id>
+    <title><![CDATA[【 #ReGLOSS歌枠リレー 】課題曲を歌っていくよ🔥【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts]]></title>
+    <link href="https://youtu.be/fzojx27z2Go" rel="alternate" type="text/html"/>
+    <published>2024-08-26T11:16:38.000Z</published>
+    <updated>2024-08-26T11:16:38.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fzojx27z2Go 【LIVE on &lt;t:1724760000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fzojx27z2Go/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -49,7 +91,7 @@
 
   <entry>
     <id>urn:uuid:3cde6377-f15f-5c71-bac4-61ae6135921f</id>
-    <title><![CDATA[【 歌枠 】デビュー1000日記念!いつも本当にありがとう! 【ホロライブ/沙花叉クロヱ】]]></title>
+    <title><![CDATA[【 歌枠 】デビュー1000日記念！いつも本当にありがとう！ 【ホロライブ/沙花叉クロヱ】]]></title>
     <link href="https://youtu.be/ptSvtakDLMo" rel="alternate" type="text/html"/>
     <published>2024-08-26T07:33:39.000Z</published>
     <updated>2024-08-26T07:33:39.000Z</updated>
@@ -188,20 +230,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
-    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
-    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
     <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
@@ -213,6 +241,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
+    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
+    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -972,20 +1014,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -997,6 +1025,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1322,20 +1364,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1a144f71-0af0-55ce-ba11-2ce5b04470cf</id>
-    <title><![CDATA[【歌枠】このあと歌ってみたがあがる歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/YDX8MchNdUo" rel="alternate" type="text/html"/>
-    <published>2024-08-06T10:56:46.000Z</published>
-    <updated>2024-08-06T10:56:46.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YDX8MchNdUo 【LIVE on &lt;t:1722938422:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YDX8MchNdUo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:6d6a4373-f952-5fbd-b1d2-420b83e3319c</id>
     <title><![CDATA[「青のすみか」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/efF_c9D-R-A" rel="alternate" type="text/html"/>
@@ -1504,20 +1532,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -1529,6 +1543,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
