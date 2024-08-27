@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-27T04:14:19.142Z</updated>
+  <updated>2024-08-27T05:09:53.413Z</updated>
+
+  <entry>
+    <id>urn:uuid:6d5a94be-30ba-55f4-8fb0-9686736e3c12</id>
+    <title><![CDATA[【歌枠】?????????????????????????]]></title>
+    <link href="https://youtu.be/lSVu10cfCzU" rel="alternate" type="text/html"/>
+    <published>2024-08-27T05:03:33.000Z</published>
+    <updated>2024-08-27T05:03:33.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lSVu10cfCzU 【LIVE on &lt;t:1724752800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lSVu10cfCzU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:433174cf-db5a-5953-82e0-c099e1daac69</id>
@@ -115,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fzojx27z2Go 【LIVE on &lt;t:1724760000:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fzojx27z2Go/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0075938b-519a-5e79-9bc6-14afd6590bc9</id>
+    <title><![CDATA[星座になれたら / 結束バンド covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/wGgtLWW48Yw" rel="alternate" type="text/html"/>
+    <published>2024-08-26T11:02:40.000Z</published>
+    <updated>2024-08-26T11:02:40.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wGgtLWW48Yw 【LIVE on &lt;t:1724762400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wGgtLWW48Yw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -790,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
-    <title><![CDATA[SNEAKING (revenge)]]></title>
-    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
     <title><![CDATA[Tide]]></title>
     <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
@@ -815,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
+    <title><![CDATA[SNEAKING (revenge)]]></title>
+    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1837,20 +1865,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9rp3TO4iu7Y 【LIVE on &lt;t:1719921606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9rp3TO4iu7Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0316a505-eaa9-56dd-9bdb-8ef24ee59f6e</id>
-    <title><![CDATA[【COVER】DECO*27 - Rabbit Hole【Ayunda Risu】| "OTHER" ver in Membership.]]></title>
-    <link href="https://youtu.be/0Y5rxlA0dc8" rel="alternate" type="text/html"/>
-    <published>2024-06-30T14:00:06.000Z</published>
-    <updated>2024-06-30T14:00:06.000Z</updated>
-    <author>
-      <name>Ayunda Risu Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Y5rxlA0dc8 【LIVE on &lt;t:1719756006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Y5rxlA0dc8/maxresdefault.jpg"/>
   </entry>
 
   <entry>

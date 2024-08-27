@@ -95,6 +95,25 @@
     }
   },
   {
+    "id": "lSVu10cfCzU",
+    "title": "【歌枠】?????????????????????????",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-27T05:03:33.000Z",
+    "available_at": "2024-08-27T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MrOx47-A0RkLxHN5Wh8stc3SYfbPGNHdJY9AnjD5mRkuKYVeYjxlBSnzKHtqTjDQ3Lm_MRCjcA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
     "id": "kNMF7hyYAbc",
     "title": "【SING】ロスト歌枠：ボクを眠くさせてほしい【ホロライブ / ロボ子さん】",
     "type": "stream",
@@ -974,25 +993,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "5fD1jfdgsSk",
-    "title": "【歌枠 UNARCHIVED KARAOKE】Quiet Late Night Tunes Duh #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-08T07:20:49.000Z",
-    "available_at": "2024-08-08T07:39:30.000Z",
-    "duration": 6104,
-    "status": "missing",
-    "channel": {
-      "id": "UC3n5uGu18FoCy23ggWWp8tA",
-      "name": "Nanashi Mumei Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nanashi Mumei"
     }
   },
   {
@@ -1972,6 +1972,25 @@
     }
   },
   {
+    "id": "wGgtLWW48Yw",
+    "title": "星座になれたら / 結束バンド covered by ReGLOSS 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-26T11:02:40.000Z",
+    "available_at": "2024-08-27T12:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "35hMALocac8",
     "title": "インテグラル / Startend (cover)",
     "type": "stream",
@@ -2000,6 +2019,7 @@
     "available_at": "2024-08-27T01:00:35.000Z",
     "duration": 236,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -2947,26 +2967,6 @@
     }
   },
   {
-    "id": "0Y5rxlA0dc8",
-    "title": "【COVER】DECO*27 - Rabbit Hole【Ayunda Risu】| \"OTHER\" ver in Membership.",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-06-30T14:00:06.000Z",
-    "available_at": "2024-06-30T14:00:06.000Z",
-    "duration": 159,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
-    }
-  },
-  {
     "id": "YHfc0M3CGw0",
     "title": "【アニメMV】あくたんのこと好きすぎ☆ソング/湊あくあ short ver.",
     "type": "stream",
@@ -3297,13 +3297,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3318,13 +3318,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
