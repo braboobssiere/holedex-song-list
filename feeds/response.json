@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-26T11:16:38.000Z",
     "available_at": "2024-08-27T12:01:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2025,
+    "status": "past",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -1001,9 +1001,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-08-26T15:34:17.000Z",
-    "available_at": "2024-08-27T13:00:00.000Z",
+    "available_at": "2024-08-27T13:01:38.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -1995,10 +1995,10 @@
     "title": "星座になれたら / 結束バンド covered by ReGLOSS 【歌ってみた / hololive DEV_IS】",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-26T11:02:40.000Z",
-    "available_at": "2024-08-27T12:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-27T12:40:07.000Z",
+    "available_at": "2024-08-27T12:40:07.000Z",
+    "duration": 279,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
@@ -3296,13 +3296,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3317,13 +3317,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3457,8 +3457,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3478,8 +3478,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
