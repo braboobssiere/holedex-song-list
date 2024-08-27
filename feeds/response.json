@@ -43,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-26T13:42:04.000Z",
-    "available_at": "2024-08-27T11:00:00.000Z",
+    "available_at": "2024-08-27T11:01:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
       "name": "Ao Ch. 火威青 ‐ ReGLOSS",
@@ -58,13 +58,13 @@
   },
   {
     "id": "fdGeVzB25bE",
-    "title": "【#ReGLOSS歌枠リレー】1周年まであと少し!!盛り上がっていくぞー!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】",
+    "title": "【#ReGLOSS歌枠リレー】1周年まであと少し！！盛り上がっていくぞー！！【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-27T03:41:03.000Z",
-    "available_at": "2024-08-27T10:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-08-27T10:30:10.000Z",
+    "duration": 1838,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -77,13 +77,13 @@
   },
   {
     "id": "lSVu10cfCzU",
-    "title": "【 #ReGLOSS歌枠リレー 】トップバッターらでん!テンション上げてこ~!!!【儒烏風亭らでん】",
+    "title": "【 #ReGLOSS歌枠リレー 】トップバッターらでん！テンション上げてこ～！！！【儒烏風亭らでん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-27T05:03:33.000Z",
     "available_at": "2024-08-27T10:00:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1777,
+    "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -2014,10 +2014,10 @@
     "title": "今はいいんだよ。/湊あくあ cover",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-26T16:14:04.000Z",
-    "available_at": "2024-08-27T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-27T11:00:06.000Z",
+    "available_at": "2024-08-27T11:00:06.000Z",
+    "duration": 156,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC1opHUrw8rvnsadT-iGp7Cg",
@@ -2034,10 +2034,10 @@
     "title": "インテグラル / Startend (cover)",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-26T16:38:09.000Z",
-    "available_at": "2024-08-27T10:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-27T10:30:06.000Z",
+    "available_at": "2024-08-27T10:30:06.000Z",
+    "duration": 279,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
@@ -2429,6 +2429,25 @@
     }
   },
   {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2446,25 +2465,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2650,26 +2650,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2687,6 +2667,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -3296,13 +3296,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3317,13 +3317,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
