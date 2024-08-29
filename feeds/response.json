@@ -1,5 +1,24 @@
 [
   {
+    "id": "7rRH0GOtdS8",
+    "title": "【歌枠】あたしったら三十路のくせして海賊コスプレ婚期もちょっとアレ【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-29T03:33:05.000Z",
+    "available_at": "2024-08-29T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "r3FCFYF1Qds",
     "title": "【KARA-REWIND】August Unarchived Karaoke ~! 💄",
     "type": "stream",
@@ -967,28 +986,6 @@
     "songcount": 8,
     "live_tl_count": {
       "en": 42
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "8HQehSJheGo",
-    "title": "【歌枠】ボイトレ帰り!上達中なこよの歌を聴いて~~~!🎤🎶【博衣こより/ホロライブ】 #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-05T16:48:16.000Z",
-    "available_at": "2024-08-08T09:01:38.000Z",
-    "duration": 0,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 7
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -2019,10 +2016,10 @@
     "title": "リトルグッバイ / AZKi (Cover)",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-28T11:31:38.000Z",
-    "available_at": "2024-08-29T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-29T10:00:06.000Z",
+    "available_at": "2024-08-29T10:00:06.000Z",
+    "duration": 376,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -2254,26 +2251,6 @@
     }
   },
   {
-    "id": "_l6fAIBDxFQ",
-    "title": "きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-24T10:00:07.000Z",
-    "available_at": "2024-08-24T10:00:07.000Z",
-    "duration": 391,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
-      "name": "Shion Ch. 紫咲シオン",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Murasaki Shion"
-    }
-  },
-  {
     "id": "FnAk_ZGfvdw",
     "title": "「青と夏」 - 音乃瀬奏(cover)",
     "type": "stream",
@@ -2291,6 +2268,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/o03i3rWw98BSquRZFhyiDQuunr1cr_9xEBVNNx3Cq8vqlJZVKXMgKsVLGW2AlbsFTvphGiHRCg0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "_l6fAIBDxFQ",
+    "title": "きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-24T10:00:07.000Z",
+    "available_at": "2024-08-24T10:00:07.000Z",
+    "duration": 391,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
+      "name": "Shion Ch. 紫咲シオン",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Murasaki Shion"
     }
   },
   {
@@ -2533,25 +2530,6 @@
     }
   },
   {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2569,6 +2547,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2754,26 +2751,6 @@
     }
   },
   {
-    "id": "NxpZNBOW-P4",
-    "title": "Habit / 沙花叉クロヱ(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 257,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "uBpAdYDupAs",
     "title": "イガク / 天音かなた+ユ!隊(cover)",
     "type": "stream",
@@ -2791,6 +2768,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "NxpZNBOW-P4",
+    "title": "Habit / 沙花叉クロヱ(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -3195,13 +3192,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3216,13 +3213,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3545,8 +3542,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3566,8 +3563,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
