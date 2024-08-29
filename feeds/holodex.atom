@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-29T02:05:36.172Z</updated>
+  <updated>2024-08-29T03:11:08.725Z</updated>
+
+  <entry>
+    <id>urn:uuid:c1a4388f-6499-5293-ae8b-2e976d9c89d9</id>
+    <title><![CDATA[[Cover] アブノーマリティ･ダンシンガール / Abnormality Dancin' Girl  by ぐちり #歌ってみた  #vocaloid   #cover]]></title>
+    <link href="https://youtu.be/U--0vcNVZzs" rel="alternate" type="text/html"/>
+    <published>2024-08-29T03:00:30.000Z</published>
+    <updated>2024-08-29T03:00:30.000Z</updated>
+    <author>
+      <name>Shiori Novella Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U--0vcNVZzs 【LIVE on &lt;t:1724900430:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U--0vcNVZzs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:918fe8b9-5b0a-5382-af48-570e8a632974</id>
@@ -930,20 +944,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
-    <title><![CDATA[SNEAKING (revenge)]]></title>
-    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
     <title><![CDATA[Tide]]></title>
     <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
@@ -955,6 +955,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
+    <title><![CDATA[SNEAKING (revenge)]]></title>
+    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1014,20 +1028,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
-    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
     <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
     <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
@@ -1039,6 +1039,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
+    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1644,20 +1658,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
-    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
-    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
     <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
     <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
@@ -1669,6 +1669,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54ad498e-9097-5cf0-a56f-55f4bda73254</id>
+    <title><![CDATA[Habit / 沙花叉クロヱ(cover)]]></title>
+    <link href="https://youtu.be/NxpZNBOW-P4" rel="alternate" type="text/html"/>
+    <published>2024-07-29T09:00:07.000Z</published>
+    <updated>2024-07-29T09:00:07.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NxpZNBOW-P4 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxpZNBOW-P4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1851,20 +1865,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_7hUQI6OdBQ 【LIVE on &lt;t:1720519186:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_7hUQI6OdBQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:37f5d70b-77dd-5c1f-bdeb-cffedd4497dd</id>
-    <title><![CDATA[神っぽいな / 大神ミオcover.]]></title>
-    <link href="https://youtu.be/n02m47K5RfQ" rel="alternate" type="text/html"/>
-    <published>2024-07-09T11:00:07.000Z</published>
-    <updated>2024-07-09T11:00:07.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=n02m47K5RfQ 【LIVE on &lt;t:1720522807:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/n02m47K5RfQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
