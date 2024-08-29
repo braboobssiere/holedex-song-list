@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-29T06:14:17.282Z</updated>
+  <updated>2024-08-29T07:10:28.519Z</updated>
 
   <entry>
     <id>urn:uuid:3ae2bdaa-eebd-5126-936d-c7a2ba872db3</id>
@@ -440,20 +440,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
-    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
-    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
     <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
     <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
@@ -465,6 +451,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
+    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
+    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
