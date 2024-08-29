@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-28T23:10:34.233Z</updated>
+  <updated>2024-08-29T00:45:26.381Z</updated>
+
+  <entry>
+    <id>urn:uuid:918fe8b9-5b0a-5382-af48-570e8a632974</id>
+    <title><![CDATA[【KARA-REWIND】August Unarchived Karaoke ~! 💄]]></title>
+    <link href="https://youtu.be/r3FCFYF1Qds" rel="alternate" type="text/html"/>
+    <published>2024-08-28T23:29:32.000Z</published>
+    <updated>2024-08-28T23:29:32.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r3FCFYF1Qds 【LIVE on &lt;t:1724922000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r3FCFYF1Qds/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ddf9da66-454c-5107-a509-3216afb232ff</id>
