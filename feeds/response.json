@@ -1969,22 +1969,22 @@
     }
   },
   {
-    "id": "S5kEuV0-6t0",
-    "title": "???????????????????????????????????",
+    "id": "zbsKHOYJ62A",
+    "title": "【歌ってみた】女々しくて【火威青 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-29T04:23:55.000Z",
-    "available_at": "2024-08-30T02:00:00.000Z",
+    "published_at": "2024-08-29T08:44:30.000Z",
+    "available_at": "2024-08-30T11:00:00.000Z",
     "duration": 0,
-    "status": "missing",
+    "status": "upcoming",
     "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
+      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
       "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "suborg": "taDEV_IS ReGLOSS",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
+      "photo": "https://yt3.ggpht.com/-D2Cf4dIQGO_CcY_1F9i63TcHyY0EuPV1pYskJQmQHIClJGOt34BoI84zlgje_THCw8AprB6=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hiodoshi Ao"
     }
   },
   {
@@ -1996,6 +1996,25 @@
     "available_at": "2024-08-30T02:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
+    }
+  },
+  {
+    "id": "S5kEuV0-6t0",
+    "title": "???????????????????????????????????",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-29T04:23:55.000Z",
+    "available_at": "2024-08-30T02:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -2544,25 +2563,6 @@
     }
   },
   {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2580,6 +2580,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2944,26 +2963,6 @@
     }
   },
   {
-    "id": "4zgLXGR--Os",
-    "title": "鬼の宴 - 友成空 / Covered by 夜十神封魔【歌ってみた】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-13T12:15:07.000Z",
-    "available_at": "2024-07-13T12:15:07.000Z",
-    "duration": 177,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V_j0IIwkYF4rglwASfZ9-4-Vn6q6raVF7RNQCB3lr3YNL4YVZq-RbFl0FnoNnnps3-sO-NuBcVs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
-    }
-  },
-  {
     "id": "RBBwfP1rtkE",
     "title": "【original】#きみいろプリンセス【ホロライブ/湊あくあ】",
     "type": "stream",
@@ -3187,13 +3186,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3208,13 +3207,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3537,8 +3536,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3558,8 +3557,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
