@@ -57,6 +57,25 @@
     }
   },
   {
+    "id": "TjMwQS5K6Ts",
+    "title": "【歌枠】ホロなつビンゴ歌枠!歌って全部ビンゴする!!!!!Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-30T09:45:16.000Z",
+    "available_at": "2024-08-30T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "zWSCL0rlNV0",
     "title": "【歌枠】新しいマイクを見てほしい!好きな曲を歌う【轟はじめ/ReGLOSS】",
     "type": "stream",
@@ -84,6 +103,9 @@
     "available_at": "2024-08-30T10:01:16.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 53
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -103,6 +125,9 @@
     "available_at": "2024-08-30T09:44:20.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -967,26 +992,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
-    }
-  },
-  {
-    "id": "_VnNO5TMkBM",
-    "title": "【歌枠】#あくあずふわもこ 歌枠コラボ!SINGING STREAM【ホロライブ / AZKi / 湊あくあ / FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-13T13:24:16.000Z",
-    "available_at": "2024-08-13T12:00:54.000Z",
-    "duration": 4691,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -1970,10 +1975,10 @@
     "title": "【歌ってみた】女々しくて【火威青 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "Music_Cover",
-    "published_at": "2024-08-29T08:44:30.000Z",
-    "available_at": "2024-08-30T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-08-30T11:00:06.000Z",
+    "available_at": "2024-08-30T11:00:06.000Z",
+    "duration": 269,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
@@ -2284,26 +2289,6 @@
     }
   },
   {
-    "id": "_l6fAIBDxFQ",
-    "title": "きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-24T10:00:07.000Z",
-    "available_at": "2024-08-24T10:00:07.000Z",
-    "duration": 391,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
-      "name": "Shion Ch. 紫咲シオン",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Murasaki Shion"
-    }
-  },
-  {
     "id": "FnAk_ZGfvdw",
     "title": "「青と夏」 - 音乃瀬奏(cover)",
     "type": "stream",
@@ -2321,6 +2306,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/o03i3rWw98BSquRZFhyiDQuunr1cr_9xEBVNNx3Cq8vqlJZVKXMgKsVLGW2AlbsFTvphGiHRCg0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "_l6fAIBDxFQ",
+    "title": "きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-24T10:00:07.000Z",
+    "available_at": "2024-08-24T10:00:07.000Z",
+    "duration": 391,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
+      "name": "Shion Ch. 紫咲シオン",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Murasaki Shion"
     }
   },
   {
@@ -2784,26 +2789,6 @@
     }
   },
   {
-    "id": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた+ユ!隊(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 123,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "NxpZNBOW-P4",
     "title": "Habit / 沙花叉クロヱ(cover)",
     "type": "stream",
@@ -2821,6 +2806,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた+ユ!隊(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 123,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -3375,13 +3380,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3396,13 +3401,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
