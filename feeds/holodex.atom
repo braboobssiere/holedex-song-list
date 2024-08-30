@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-30T16:11:54.115Z</updated>
+  <updated>2024-08-30T17:10:10.288Z</updated>
 
   <entry>
     <id>urn:uuid:73ba2aff-1478-51f2-9f52-f1fd89c6dce1</id>
@@ -566,20 +566,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
-    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
-    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
     <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
@@ -591,6 +577,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
+    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
+    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1168,20 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
-    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
     <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
     <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
@@ -1193,6 +1179,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
+    <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yeeWgwlVEGM 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yeeWgwlVEGM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1322,20 +1322,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -1347,6 +1333,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
