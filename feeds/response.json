@@ -1,5 +1,24 @@
 [
   {
+    "id": "fGcL9n2Yhkc",
+    "title": "【TAGALOG KARAOKE】I MADE ALL THE INSTRUMENTALS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-29T14:18:20.000Z",
+    "available_at": "2024-08-31T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "ifXV3zf_Ubw",
     "title": "【UNARCHIVED KARAOKE】Kept Ya Waitin', Huh?",
     "type": "stream",
@@ -100,9 +119,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-30T05:48:56.000Z",
-    "available_at": "2024-08-30T09:00:00.000Z",
+    "available_at": "2024-08-30T09:03:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -119,9 +138,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-08-27T10:44:18.000Z",
-    "available_at": "2024-08-30T09:00:00.000Z",
+    "available_at": "2024-08-30T09:00:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWsfcksUUpoEvhia0_ut0bA",
       "name": "holostars ホロスターズ - VTuber Group",
@@ -968,26 +987,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "p4-1EfaGVsM",
-    "title": "【重大告知】なんだか久しぶりなような気がする歌枠告知!【ホロライブ/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-12T13:15:15.000Z",
-    "available_at": "2024-08-12T12:01:04.000Z",
-    "duration": 4070,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
@@ -3187,13 +3186,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3208,13 +3207,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3537,8 +3536,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3558,8 +3557,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
