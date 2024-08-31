@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 21
+      "en": 62
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -68,6 +68,7 @@
     "available_at": "2024-08-30T13:01:51.000Z",
     "duration": 3986,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -87,6 +88,7 @@
     "available_at": "2024-08-30T13:01:29.000Z",
     "duration": 8592,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -1979,6 +1981,25 @@
     }
   },
   {
+    "id": "CnCIm9_r6Gw",
+    "title": "【歌ってみた】????? Covered by アルランディス【アルランディス/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-28T13:46:36.000Z",
+    "available_at": "2024-08-31T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+      "name": "Aruran Ch. アルランディス",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Pr1gcKc8eVnFs4vsRdb_-6tDIGQbtjrckIsHRT5dF3MB44Zu5_yskKVIUlKC455WdeoO3HjZ4cY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Arurandeisu"
+    }
+  },
+  {
     "id": "p_FUFN5iJIM",
     "title": "夢幻 / MY FIRST STORY × HYDE - cover 悠佑 × 律可【歌ってみた】【いれいす ホロスターズ】",
     "type": "stream",
@@ -2015,25 +2036,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "CnCIm9_r6Gw",
-    "title": "【歌ってみた】????? Covered by アルランディス【アルランディス/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-28T13:46:36.000Z",
-    "available_at": "2024-08-31T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
-      "name": "Aruran Ch. アルランディス",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Pr1gcKc8eVnFs4vsRdb_-6tDIGQbtjrckIsHRT5dF3MB44Zu5_yskKVIUlKC455WdeoO3HjZ4cY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Arurandeisu"
     }
   },
   {
@@ -2855,26 +2857,6 @@
     }
   },
   {
-    "id": "uBpAdYDupAs",
-    "title": "イガク / 天音かなた+ユ!隊(cover)",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-07-29T09:00:07.000Z",
-    "available_at": "2024-07-29T09:00:07.000Z",
-    "duration": 123,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "NxpZNBOW-P4",
     "title": "Habit / 沙花叉クロヱ(cover)",
     "type": "stream",
@@ -2892,6 +2874,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "uBpAdYDupAs",
+    "title": "イガク / 天音かなた+ユ!隊(cover)",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-07-29T09:00:07.000Z",
+    "available_at": "2024-07-29T09:00:07.000Z",
+    "duration": 123,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -3406,13 +3408,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3427,13 +3429,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3567,8 +3569,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -3588,8 +3590,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -4002,7 +4004,7 @@
   },
   {
     "id": "VewtEHnovS4",
-    "title": "【 エレクトーン｜カメラ枠 】夏の終わりの楽器練習風景なのら～🎹🎶【姫森ルーナ/ホロライブ】",
+    "title": "【 エレクトーン|カメラ枠 】夏の終わりの楽器練習風景なのら~🎹🎶【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2024-08-25T12:07:37.000Z",
