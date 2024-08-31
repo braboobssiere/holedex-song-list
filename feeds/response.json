@@ -8,6 +8,9 @@
     "available_at": "2024-08-31T03:03:09.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 21
+    },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -25,8 +28,8 @@
     "topic_id": "singing",
     "published_at": "2024-08-29T10:57:13.000Z",
     "available_at": "2024-08-31T01:17:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7394,
+    "status": "past",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -2631,25 +2634,6 @@
     }
   },
   {
-    "id": "yeeWgwlVEGM",
-    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
-    "type": "stream",
-    "topic_id": "Music_Cover",
-    "published_at": "2024-08-15T10:00:07.000Z",
-    "available_at": "2024-08-15T10:00:07.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "fHRTerc9sW4",
     "title": "アイマイモコ / AZKi × 湊あくあ (Cover)",
     "type": "stream",
@@ -2667,6 +2651,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "yeeWgwlVEGM",
+    "title": "W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】",
+    "type": "stream",
+    "topic_id": "Music_Cover",
+    "published_at": "2024-08-15T10:00:07.000Z",
+    "available_at": "2024-08-15T10:00:07.000Z",
+    "duration": 202,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
