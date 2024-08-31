@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-08-31T17:08:23.024Z</updated>
+  <updated>2024-08-31T18:11:42.850Z</updated>
 
   <entry>
     <id>urn:uuid:92a9e4d1-a1da-55b1-b7be-17b2b2fd3bdc</id>
@@ -48,20 +48,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
-    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
-    <published>2024-08-31T10:00:07.000Z</published>
-    <updated>2024-08-31T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a70c6897-8504-5dab-b3a6-f9b29b2ed758</id>
     <title><![CDATA[夢幻 / MY FIRST STORY × HYDE - cover 悠佑 × 律可【歌ってみた】【いれいす ホロスターズ】]]></title>
     <link href="https://youtu.be/p_FUFN5iJIM" rel="alternate" type="text/html"/>
@@ -73,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p_FUFN5iJIM 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p_FUFN5iJIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
+    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
+    <published>2024-08-31T10:00:07.000Z</published>
+    <updated>2024-08-31T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,6 +101,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=erYtRiI1Gbw 【LIVE on &lt;t:1725163200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/erYtRiI1Gbw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3364be18-a88b-500e-8264-ad8370090297</id>
+    <title><![CDATA[【歌枠】新しいマイクを見てほしい!好きな曲を歌う【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/zWSCL0rlNV0" rel="alternate" type="text/html"/>
+    <published>2024-08-30T14:20:52.000Z</published>
+    <updated>2024-08-30T14:20:52.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zWSCL0rlNV0 【LIVE on &lt;t:1725022911:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zWSCL0rlNV0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:34b91328-9549-5b4d-96c3-47e5f7cb86b8</id>
+    <title><![CDATA[【50万人耐久】24時間で奇跡を起こしたい…!! part2 歌枠!!!【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/Z9K63msSwJg" rel="alternate" type="text/html"/>
+    <published>2024-08-30T13:39:47.000Z</published>
+    <updated>2024-08-30T13:39:47.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z9K63msSwJg 【LIVE on &lt;t:1725011060:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9K63msSwJg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -160,20 +188,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3364be18-a88b-500e-8264-ad8370090297</id>
-    <title><![CDATA[【歌枠】新しいマイクを見てほしい！好きな曲を歌う【轟はじめ/ReGLOSS】]]></title>
-    <link href="https://youtu.be/zWSCL0rlNV0" rel="alternate" type="text/html"/>
-    <published>2024-08-30T04:50:01.000Z</published>
-    <updated>2024-08-30T04:50:01.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zWSCL0rlNV0 【LIVE on &lt;t:1725022911:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zWSCL0rlNV0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:bf034b40-b4e4-51ca-bea4-4b33d4abde55</id>
     <title><![CDATA[🛸【歌枠】✧︎SINGING! ✧︎ 123万人登録者語呂良い記念【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/fEO6MqDF2IY" rel="alternate" type="text/html"/>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fEO6MqDF2IY 【LIVE on &lt;t:1724941249:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fEO6MqDF2IY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:34b91328-9549-5b4d-96c3-47e5f7cb86b8</id>
-    <title><![CDATA[【50万人耐久】24時間で奇跡を起こしたい…！！ part2 歌枠！！！【一条莉々華/hololive DEV_IS　ReGLOSS】]]></title>
-    <link href="https://youtu.be/Z9K63msSwJg" rel="alternate" type="text/html"/>
-    <published>2024-08-29T14:49:15.000Z</published>
-    <updated>2024-08-29T14:49:15.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Z9K63msSwJg 【LIVE on &lt;t:1725011060:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9K63msSwJg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -636,20 +636,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
-    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
-    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
     <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
     <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
@@ -661,6 +647,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
+    <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
+    <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
