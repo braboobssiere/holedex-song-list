@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-01T14:08:21.158Z</updated>
+  <updated>2024-09-01T15:09:12.652Z</updated>
+
+  <entry>
+    <id>urn:uuid:1d5e2558-93af-5891-bd23-cbf54d4b400a</id>
+    <title><![CDATA[end of summer!]]></title>
+    <link href="https://youtu.be/vL4FASH4J20" rel="alternate" type="text/html"/>
+    <published>2024-09-01T12:00:06.000Z</published>
+    <updated>2024-09-01T12:00:06.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vL4FASH4J20 【LIVE on &lt;t:1725195706:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vL4FASH4J20/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6baaff2f-afdd-5908-93ac-d8ce523c82a9</id>
@@ -90,20 +104,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
-    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
-    <published>2024-08-31T10:00:07.000Z</published>
-    <updated>2024-08-31T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a70c6897-8504-5dab-b3a6-f9b29b2ed758</id>
     <title><![CDATA[夢幻 / MY FIRST STORY × HYDE - cover 悠佑 × 律可【歌ってみた】【いれいす ホロスターズ】]]></title>
     <link href="https://youtu.be/p_FUFN5iJIM" rel="alternate" type="text/html"/>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p_FUFN5iJIM 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p_FUFN5iJIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
+    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
+    <published>2024-08-31T10:00:07.000Z</published>
+    <updated>2024-08-31T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -664,20 +678,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
-    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
-    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
     <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
     <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
@@ -689,6 +689,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
+    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
+    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1182,20 +1196,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
-    <title><![CDATA[SNEAKING (revenge)]]></title>
-    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
     <title><![CDATA[Tide]]></title>
     <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
@@ -1207,6 +1207,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
+    <title><![CDATA[SNEAKING (revenge)]]></title>
+    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1266,20 +1280,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
-    <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
-    <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
-    <published>2024-08-15T10:00:07.000Z</published>
-    <updated>2024-08-15T10:00:07.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:66bd25e9-1e62-510e-be16-d0f3f1550004</id>
     <title><![CDATA[W●RK / ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 covered by 火威青&儒烏風亭らでん 【歌ってみた / hololive DEV_IS】]]></title>
     <link href="https://youtu.be/yeeWgwlVEGM" rel="alternate" type="text/html"/>
@@ -1294,17 +1294,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b847fb51-6cc2-5252-9dda-773da3c668ee</id>
-    <title><![CDATA[【BIJOU OFF-COLLAB KARAOKE】BAU BAUing and ROCK ROCKing all night 🗿🐾【FUWAMOCO🐾】]]></title>
-    <link href="https://youtu.be/zLGjmK2Mcrg" rel="alternate" type="text/html"/>
-    <published>2024-08-15T02:54:23.000Z</published>
-    <updated>2024-08-15T02:54:23.000Z</updated>
+    <id>urn:uuid:1e012b8e-bdec-5724-838a-8929dd690f38</id>
+    <title><![CDATA[アイマイモコ / AZKi × 湊あくあ (Cover)]]></title>
+    <link href="https://youtu.be/fHRTerc9sW4" rel="alternate" type="text/html"/>
+    <published>2024-08-15T10:00:07.000Z</published>
+    <updated>2024-08-15T10:00:07.000Z</updated>
     <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zLGjmK2Mcrg 【LIVE on &lt;t:1723683335:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zLGjmK2Mcrg/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fHRTerc9sW4 【LIVE on &lt;t:1723716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fHRTerc9sW4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1406,20 +1406,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
-    <title><![CDATA[BAN RTA (Instrumental)]]></title>
-    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
     <title><![CDATA[BAN RTA]]></title>
     <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
@@ -1431,6 +1417,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
+    <title><![CDATA[BAN RTA (Instrumental)]]></title>
+    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
