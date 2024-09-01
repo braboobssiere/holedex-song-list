@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-01T00:55:13.114Z</updated>
+  <updated>2024-09-01T02:18:39.015Z</updated>
+
+  <entry>
+    <id>urn:uuid:b4f5d871-0ea8-53eb-b1e8-dedf2c6e68d3</id>
+    <title><![CDATA[[Cover]  星を渡る鳥 / Hoshi Wo Wataru Tori by Nem #歌ってみた #vocaloid  #cover]]></title>
+    <link href="https://youtu.be/QvXPvj61crA" rel="alternate" type="text/html"/>
+    <published>2024-09-01T01:30:20.000Z</published>
+    <updated>2024-09-01T01:30:20.000Z</updated>
+    <author>
+      <name>Shiori Novella Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QvXPvj61crA 【LIVE on &lt;t:1725154220:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QvXPvj61crA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6baaff2f-afdd-5908-93ac-d8ce523c82a9</id>
+    <title><![CDATA[8.32 / Startend (Cover)]]></title>
+    <link href="https://youtu.be/pEIo7LHOxK8" rel="alternate" type="text/html"/>
+    <published>2024-09-01T01:17:41.000Z</published>
+    <updated>2024-09-01T01:17:41.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pEIo7LHOxK8 【LIVE on &lt;t:1725181200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pEIo7LHOxK8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:92a9e4d1-a1da-55b1-b7be-17b2b2fd3bdc</id>
@@ -48,20 +76,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
-    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
-    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
-    <published>2024-08-31T10:00:07.000Z</published>
-    <updated>2024-08-31T10:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a70c6897-8504-5dab-b3a6-f9b29b2ed758</id>
     <title><![CDATA[夢幻 / MY FIRST STORY × HYDE - cover 悠佑 × 律可【歌ってみた】【いれいす ホロスターズ】]]></title>
     <link href="https://youtu.be/p_FUFN5iJIM" rel="alternate" type="text/html"/>
@@ -73,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p_FUFN5iJIM 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p_FUFN5iJIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a11353b7-7021-5c42-b1d4-158bd4340dff</id>
+    <title><![CDATA[Rebellion / hololive English -Advent- covered by ReGLOSS 【歌ってみた / hololive DEV_IS】]]></title>
+    <link href="https://youtu.be/fCOpX9A--uQ" rel="alternate" type="text/html"/>
+    <published>2024-08-31T10:00:07.000Z</published>
+    <updated>2024-08-31T10:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fCOpX9A--uQ 【LIVE on &lt;t:1725098407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fCOpX9A--uQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -636,20 +664,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
-    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
-    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
-    <published>2024-08-24T10:00:07.000Z</published>
-    <updated>2024-08-24T10:00:07.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9ebcfe0d-871e-5b28-a259-834711e1feda</id>
     <title><![CDATA[きみも悪い人でよかった/Covered by紫咲シオン&湊あくあ]]></title>
     <link href="https://youtu.be/_l6fAIBDxFQ" rel="alternate" type="text/html"/>
@@ -661,6 +675,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_l6fAIBDxFQ 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_l6fAIBDxFQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e5ed1fe-cf1b-544e-8a20-a7c7286cdf82</id>
+    <title><![CDATA[「青と夏」 - 音乃瀬奏(cover)]]></title>
+    <link href="https://youtu.be/FnAk_ZGfvdw" rel="alternate" type="text/html"/>
+    <published>2024-08-24T10:00:07.000Z</published>
+    <updated>2024-08-24T10:00:07.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FnAk_ZGfvdw 【LIVE on &lt;t:1724493607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FnAk_ZGfvdw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1154,20 +1182,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
-    <title><![CDATA[Tide]]></title>
-    <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
     <title><![CDATA[SNEAKING (revenge)]]></title>
     <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
@@ -1179,6 +1193,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
+    <title><![CDATA[Tide]]></title>
+    <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1739,20 +1767,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sVYPWu3bxlM 【LIVE on &lt;t:1722520806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sVYPWu3bxlM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f8d45c1c-88c6-53ba-9b62-9ee647c5faf9</id>
-    <title><![CDATA[イガク / 天音かなた+ユ!隊(cover)]]></title>
-    <link href="https://youtu.be/uBpAdYDupAs" rel="alternate" type="text/html"/>
-    <published>2024-07-29T09:00:07.000Z</published>
-    <updated>2024-07-29T09:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uBpAdYDupAs 【LIVE on &lt;t:1722243607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uBpAdYDupAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
