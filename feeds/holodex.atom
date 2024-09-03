@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-03T15:11:41.365Z</updated>
+  <updated>2024-09-03T16:13:21.999Z</updated>
 
   <entry>
     <id>urn:uuid:10c5ea64-d308-5885-bd5a-ff42f18d924c</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GDCq9cNnk50 【LIVE on &lt;t:1725368420:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GDCq9cNnk50/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1d5e2558-93af-5891-bd23-cbf54d4b400a</id>
+    <title><![CDATA[end of summer!]]></title>
+    <link href="https://youtu.be/vL4FASH4J20" rel="alternate" type="text/html"/>
+    <published>2024-09-01T18:52:58.000Z</published>
+    <updated>2024-09-01T18:52:58.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vL4FASH4J20 【LIVE on &lt;t:1725195706:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vL4FASH4J20/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -62,6 +76,104 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:2f8715e4-9c1e-5112-82e9-7f357ae7a5de</id>
+    <title><![CDATA[【歌枠】ホロなつビンゴ歌枠!歌って全部ビンゴする!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/TjMwQS5K6Ts" rel="alternate" type="text/html"/>
+    <published>2024-08-30T15:33:39.000Z</published>
+    <updated>2024-08-30T15:33:39.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TjMwQS5K6Ts 【LIVE on &lt;t:1725022889:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TjMwQS5K6Ts/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3364be18-a88b-500e-8264-ad8370090297</id>
+    <title><![CDATA[【歌枠】新しいマイクを見てほしい!好きな曲を歌う【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/zWSCL0rlNV0" rel="alternate" type="text/html"/>
+    <published>2024-08-30T14:20:52.000Z</published>
+    <updated>2024-08-30T14:20:52.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zWSCL0rlNV0 【LIVE on &lt;t:1725022911:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zWSCL0rlNV0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:34b91328-9549-5b4d-96c3-47e5f7cb86b8</id>
+    <title><![CDATA[【50万人耐久】24時間で奇跡を起こしたい…!! part2 歌枠!!!【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/Z9K63msSwJg" rel="alternate" type="text/html"/>
+    <published>2024-08-30T13:39:47.000Z</published>
+    <updated>2024-08-30T13:39:47.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z9K63msSwJg 【LIVE on &lt;t:1725011060:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9K63msSwJg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c529802e-d863-56d3-8613-23000b1f3224</id>
+    <title><![CDATA[【夏歌】歌っていこうかな枠!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/Y26wcNjY058" rel="alternate" type="text/html"/>
+    <published>2024-08-30T11:39:18.000Z</published>
+    <updated>2024-08-30T11:39:18.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y26wcNjY058 【LIVE on &lt;t:1725012076:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y26wcNjY058/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a834a098-338a-5ba3-82d0-5e8d69e517cb</id>
+    <title><![CDATA[【歌枠】久々にいろんな曲うたうよ~!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/MWZEwUl9Kfk" rel="alternate" type="text/html"/>
+    <published>2024-08-30T10:12:28.000Z</published>
+    <updated>2024-08-30T10:12:28.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MWZEwUl9Kfk 【LIVE on &lt;t:1725008583:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MWZEwUl9Kfk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bf034b40-b4e4-51ca-bea4-4b33d4abde55</id>
+    <title><![CDATA[🛸【歌枠】✧︎SINGING! ✧︎ 123万人登録者語呂良い記念【ラプラス・ダークネス/ホロライブ】💜]]></title>
+    <link href="https://youtu.be/fEO6MqDF2IY" rel="alternate" type="text/html"/>
+    <published>2024-08-29T15:56:39.000Z</published>
+    <updated>2024-08-29T15:56:39.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fEO6MqDF2IY 【LIVE on &lt;t:1724941249:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fEO6MqDF2IY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5722de43-57a5-505a-b314-56623ea33ab1</id>
+    <title><![CDATA[【歌枠】あたしったら三十路のくせして海賊コスプレ婚期もちょっとアレ【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/7rRH0GOtdS8" rel="alternate" type="text/html"/>
+    <published>2024-08-29T14:08:47.000Z</published>
+    <updated>2024-08-29T14:08:47.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7rRH0GOtdS8 【LIVE on &lt;t:1724929229:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7rRH0GOtdS8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:c7dc7fdb-487b-53e2-8721-0ffe417a9b18</id>
     <title><![CDATA[【original】#きみいろプリンセス【ホロライブ/湊あくあ】]]></title>
     <link href="https://youtu.be/RBBwfP1rtkE" rel="alternate" type="text/html"/>
@@ -104,6 +216,90 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:498a9f7a-baf6-59af-9833-fd7b2ded57ec</id>
+    <title><![CDATA[【 #ReGLOSS歌枠リレー 】課題曲を歌っていくよ🔥【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts]]></title>
+    <link href="https://youtu.be/fzojx27z2Go" rel="alternate" type="text/html"/>
+    <published>2024-08-27T12:38:27.000Z</published>
+    <updated>2024-08-27T12:38:27.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fzojx27z2Go 【LIVE on &lt;t:1724760083:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fzojx27z2Go/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5c14730a-dc36-5529-b8b7-71c99dce7fad</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】課題曲ちゃれんじ!楽しく歌おう!【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/_8LojsbmAZ8" rel="alternate" type="text/html"/>
+    <published>2024-08-27T12:03:03.000Z</published>
+    <updated>2024-08-27T12:03:03.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_8LojsbmAZ8 【LIVE on &lt;t:1724758200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_8LojsbmAZ8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:722c8e3b-d95a-580d-aae6-49329d7f85ef</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】青くんとキミの関係って、多分…メイビー…ハッ!?【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/VFRxfVtSWNw" rel="alternate" type="text/html"/>
+    <published>2024-08-27T11:34:29.000Z</published>
+    <updated>2024-08-27T11:34:29.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VFRxfVtSWNw 【LIVE on &lt;t:1724756482:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VFRxfVtSWNw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:433174cf-db5a-5953-82e0-c099e1daac69</id>
+    <title><![CDATA[【#ReGLOSS歌枠リレー】1周年まであと少し!!盛り上がっていくぞー!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】]]></title>
+    <link href="https://youtu.be/fdGeVzB25bE" rel="alternate" type="text/html"/>
+    <published>2024-08-27T11:03:23.000Z</published>
+    <updated>2024-08-27T11:03:23.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fdGeVzB25bE 【LIVE on &lt;t:1724754610:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fdGeVzB25bE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6d5a94be-30ba-55f4-8fb0-9686736e3c12</id>
+    <title><![CDATA[【 #ReGLOSS歌枠リレー 】トップバッターらでん!テンション上げてこ~!!!【儒烏風亭らでん】]]></title>
+    <link href="https://youtu.be/lSVu10cfCzU" rel="alternate" type="text/html"/>
+    <published>2024-08-27T10:32:23.000Z</published>
+    <updated>2024-08-27T10:32:23.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lSVu10cfCzU 【LIVE on &lt;t:1724752831:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lSVu10cfCzU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3cde6377-f15f-5c71-bac4-61ae6135921f</id>
+    <title><![CDATA[【 歌枠 】デビュー1000日記念!いつも本当にありがとう! 【ホロライブ/沙花叉クロヱ】]]></title>
+    <link href="https://youtu.be/ptSvtakDLMo" rel="alternate" type="text/html"/>
+    <published>2024-08-26T17:16:32.000Z</published>
+    <updated>2024-08-26T17:16:32.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ptSvtakDLMo 【LIVE on &lt;t:1724670088:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ptSvtakDLMo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e345c814-169c-55a2-b122-65bda376004a</id>
     <title><![CDATA[【アニメMV】あくたんのこと好きすぎ☆ソング/湊あくあ short ver.]]></title>
     <link href="https://youtu.be/YHfc0M3CGw0" rel="alternate" type="text/html"/>
@@ -129,6 +325,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VewtEHnovS4 【LIVE on &lt;t:1724569238:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VewtEHnovS4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:390bab40-0bbc-5f5b-9636-f7e6d3aa0a21</id>
+    <title><![CDATA[【#灼熱のジャパリ歌謡祭】開会式!歌で灼熱に盛り上がるゾ!!【シマハイイロギツネ】]]></title>
+    <link href="https://youtu.be/2RCIeFfWGoM" rel="alternate" type="text/html"/>
+    <published>2024-08-25T08:40:48.000Z</published>
+    <updated>2024-08-25T08:40:48.000Z</updated>
+    <author>
+      <name>シマハイイロギツネ / Island Fox</name>
+      <uri>https://www.youtube.com/channel/UCMpw36mXEu3SLsqdrJxUKNA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2RCIeFfWGoM 【LIVE on &lt;t:1724572767:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2RCIeFfWGoM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f413b44d-2c29-5e85-bb20-0e837f411766</id>
+    <title><![CDATA[【オフコラボ】ロボちゃまの夜更かし。@Robocosan]]></title>
+    <link href="https://youtu.be/Hp2UM4bS3WQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T18:42:18.000Z</published>
+    <updated>2024-08-24T18:42:18.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Hp2UM4bS3WQ 【LIVE on &lt;t:1724517317:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hp2UM4bS3WQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -160,6 +384,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6f4a8479-4553-5369-8fed-570b60e98a37</id>
+    <title><![CDATA[【歌枠】#ルイらで歌枠 ルイ姉!一緒に歌いましょう!!【儒烏風亭らでん/鷹嶺ルイ】]]></title>
+    <link href="https://youtu.be/_WJKm5zed-o" rel="alternate" type="text/html"/>
+    <published>2024-08-24T13:13:54.000Z</published>
+    <updated>2024-08-24T13:13:54.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_WJKm5zed-o 【LIVE on &lt;t:1724500902:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_WJKm5zed-o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:fa7919eb-b892-5963-87f2-ef5469373685</id>
     <title><![CDATA[【MV】On your side / 魔法少女ホロウィッチ!【 天音かなた・さくらみこ・姫森ルーナ・宝鐘マリン・紫咲シオン・沙花叉クロヱ 】]]></title>
     <link href="https://youtu.be/aLrPFKO_aEU" rel="alternate" type="text/html"/>
@@ -188,6 +426,48 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:115309f1-b2a9-5051-8696-f5febd639208</id>
+    <title><![CDATA[【特別映像】#ReGLOSS SPECIAL LIVE!【YouTube Music Weekend 8.0】]]></title>
+    <link href="https://youtu.be/8vcIrVOex70" rel="alternate" type="text/html"/>
+    <published>2024-08-23T06:55:08.000Z</published>
+    <updated>2024-08-23T06:55:08.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8vcIrVOex70 【LIVE on &lt;t:1724396108:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8vcIrVOex70/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:662f8213-f42c-5226-9c4b-6ae5b7390c23</id>
+    <title><![CDATA[【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE]]></title>
+    <link href="https://youtu.be/px_dperLh9I" rel="alternate" type="text/html"/>
+    <published>2024-08-21T13:18:01.000Z</published>
+    <updated>2024-08-21T13:18:01.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=px_dperLh9I 【LIVE on &lt;t:1724239103:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/px_dperLh9I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:06be46e4-be8b-545a-98ea-e47dbce86237</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】we're here because you're by our side ♪ #FWMCbeats 【ホロ曲縛り】]]></title>
+    <link href="https://youtu.be/3poEDEicsIA" rel="alternate" type="text/html"/>
+    <published>2024-08-21T03:09:25.000Z</published>
+    <updated>2024-08-21T03:09:25.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3poEDEicsIA 【LIVE on &lt;t:1724201737:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3poEDEicsIA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e17e6a62-1e5c-55fe-a711-c79e2aab10ad</id>
     <title><![CDATA[小心旅行 / 大神ミオ (official)]]></title>
     <link href="https://youtu.be/x6GCUYJvdRI" rel="alternate" type="text/html"/>
@@ -199,6 +479,90 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=x6GCUYJvdRI 【LIVE on &lt;t:1724155207:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/x6GCUYJvdRI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:753f7757-8cde-59a2-b8a7-813b23b6c229</id>
+    <title><![CDATA[【歌枠】久々に配信で歌う🎤1時間ゆるゆる楽しく!in縦型【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/8AX4SJyWDwc" rel="alternate" type="text/html"/>
+    <published>2024-08-19T12:37:18.000Z</published>
+    <updated>2024-08-19T12:37:18.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8AX4SJyWDwc 【LIVE on &lt;t:1724061664:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8AX4SJyWDwc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f139c70-a853-5214-8e2e-a2d3d986b4a4</id>
+    <title><![CDATA[がんばる君へ、ちゃまをお届け🎧 💓 -作業用BGM- 【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/_JsnGU3YPio" rel="alternate" type="text/html"/>
+    <published>2024-08-18T21:31:45.000Z</published>
+    <updated>2024-08-18T21:31:45.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_JsnGU3YPio 【LIVE on &lt;t:1723993711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_JsnGU3YPio/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1f049ac5-3f1b-51e5-915c-06acbf22ab68</id>
+    <title><![CDATA[【SEVEN! 02】Karaoke! Lets have fun~! 💄]]></title>
+    <link href="https://youtu.be/eP29jR49UDs" rel="alternate" type="text/html"/>
+    <published>2024-08-18T21:09:54.000Z</published>
+    <updated>2024-08-18T21:09:54.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eP29jR49UDs 【LIVE on &lt;t:1724007467:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eP29jR49UDs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:75c6f67f-6ea2-5ff6-91bd-e7ac7bda02bb</id>
+    <title><![CDATA[【hololiveID】Hmmm ngapain yach【Ayunda Risu】]]></title>
+    <link href="https://youtu.be/lW8Fw4mSymo" rel="alternate" type="text/html"/>
+    <published>2024-08-18T13:34:58.000Z</published>
+    <updated>2024-08-18T13:34:58.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lW8Fw4mSymo 【LIVE on &lt;t:1723978706:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lW8Fw4mSymo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9b2adfb4-580f-5721-900f-ec302f2ae2bd</id>
+    <title><![CDATA[【歌枠】うたいたいきょくいっぱいうたう!!【湊あくあ/ホロライブ】]]></title>
+    <link href="https://youtu.be/ZCT49zxqfJA" rel="alternate" type="text/html"/>
+    <published>2024-08-17T13:56:07.000Z</published>
+    <updated>2024-08-17T13:56:07.000Z</updated>
+    <author>
+      <name>Aqua Ch. 湊あくあ</name>
+      <uri>https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZCT49zxqfJA 【LIVE on &lt;t:1723896147:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZCT49zxqfJA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1bf9611b-0f12-5368-a8db-2deb7068ee95</id>
+    <title><![CDATA[【#マリフレオフ】ひさしぶりの歌枠コラボ♪【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/Hi1SG9aCdpE" rel="alternate" type="text/html"/>
+    <published>2024-08-17T11:08:33.000Z</published>
+    <updated>2024-08-17T11:08:33.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Hi1SG9aCdpE 【LIVE on &lt;t:1723888809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hi1SG9aCdpE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -216,6 +580,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:7f01293c-1f2c-52f6-9cd1-a196e17478e0</id>
+    <title><![CDATA[【 歌枠 】んなサマー!夏歌うたうのら~!!!&たっぷり雑談するのら!🍉🌻🌴【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/7_1dSB0hoGo" rel="alternate" type="text/html"/>
+    <published>2024-08-16T16:36:29.000Z</published>
+    <updated>2024-08-16T16:36:29.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7_1dSB0hoGo 【LIVE on &lt;t:1723795221:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7_1dSB0hoGo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8f021cb0-a59e-52d9-aa3c-ccf80d82f2e7</id>
+    <title><![CDATA[【ARCHIVED KARAOKE】CHILL SINGING (maybe) BEFORE GEBYAR【Kureiji Ollie】]]></title>
+    <link href="https://youtu.be/uuY3iYGDFaw" rel="alternate" type="text/html"/>
+    <published>2024-08-16T15:15:21.000Z</published>
+    <updated>2024-08-16T15:15:21.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uuY3iYGDFaw 【LIVE on &lt;t:1723813193:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uuY3iYGDFaw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ee1e69ae-96e2-543e-9c1e-77291424670b</id>
     <title><![CDATA[【ORIGINAL SONG+MV】Forever glow - Omaru Polka【尾丸ポルカ】]]></title>
     <link href="https://youtu.be/uu6s8glmifI" rel="alternate" type="text/html"/>
@@ -230,20 +622,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
-    <title><![CDATA[Overkill]]></title>
-    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
     <title><![CDATA[Last Days]]></title>
     <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
@@ -255,6 +633,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
+    <title><![CDATA[Overkill]]></title>
+    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -384,6 +776,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:457f008e-c837-5e5e-b91b-7b150c04964e</id>
+    <title><![CDATA[SINGING!]]></title>
+    <link href="https://youtu.be/DAyyyhNjuww" rel="alternate" type="text/html"/>
+    <published>2024-08-15T16:49:37.000Z</published>
+    <updated>2024-08-15T16:49:37.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DAyyyhNjuww 【LIVE on &lt;t:1723730938:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DAyyyhNjuww/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:97b0c7a8-a815-5357-9c5a-ee6afe5fd152</id>
+    <title><![CDATA[【縦型歌枠】まったりリクエスト歌枠【轟はじめ/ReGLOSS】 #shorts]]></title>
+    <link href="https://youtu.be/QqL6IRSGoyE" rel="alternate" type="text/html"/>
+    <published>2024-08-15T15:30:05.000Z</published>
+    <updated>2024-08-15T15:30:05.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QqL6IRSGoyE 【LIVE on &lt;t:1723728704:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QqL6IRSGoyE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:17a6797c-a27d-5826-bee6-7a531414dbfc</id>
     <title><![CDATA[【録画はメン限】悪魔の吐息ASMR【ホロライブ/癒月ちょこ】]]></title>
     <link href="https://youtu.be/y6PMvF68aFI" rel="alternate" type="text/html"/>
@@ -482,20 +902,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -507,6 +913,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
