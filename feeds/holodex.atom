@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-03T09:11:02.940Z</updated>
+  <updated>2024-09-03T10:10:38.388Z</updated>
+
+  <entry>
+    <id>urn:uuid:acbb9d41-f1c1-5817-8fd1-71601835ea63</id>
+    <title><![CDATA[【明日歌みた投稿】時既に9月!!!!!【天音かなた/ホロライブ】]]></title>
+    <link href="https://youtu.be/SL2tVCOcJ6c" rel="alternate" type="text/html"/>
+    <published>2024-09-03T06:40:16.000Z</published>
+    <updated>2024-09-03T06:40:16.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SL2tVCOcJ6c 【LIVE on &lt;t:1725357635:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SL2tVCOcJ6c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1d5e2558-93af-5891-bd23-cbf54d4b400a</id>
@@ -608,20 +622,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
-    <title><![CDATA[Overkill]]></title>
-    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
     <title><![CDATA[Last Days]]></title>
     <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
@@ -633,6 +633,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
+    <title><![CDATA[Overkill]]></title>
+    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -773,20 +787,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DAyyyhNjuww 【LIVE on &lt;t:1723730938:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DAyyyhNjuww/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:97b0c7a8-a815-5357-9c5a-ee6afe5fd152</id>
-    <title><![CDATA[【縦型歌枠】まったりリクエスト歌枠【轟はじめ/ReGLOSS】 #shorts]]></title>
-    <link href="https://youtu.be/QqL6IRSGoyE" rel="alternate" type="text/html"/>
-    <published>2024-08-15T15:30:05.000Z</published>
-    <updated>2024-08-15T15:30:05.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QqL6IRSGoyE 【LIVE on &lt;t:1723728704:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QqL6IRSGoyE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1711,20 +1711,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3sg9J3cg0YM 【LIVE on &lt;t:1709724678:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3sg9J3cg0YM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:03e8dbd7-6f5b-5493-bd4f-c3c1936d6735</id>
-    <title><![CDATA[【PV/ASMR】天使の止まり木 ボイスPV【沙花叉クロヱ/天音かなた/AZKi/ホロライブ】]]></title>
-    <link href="https://youtu.be/8rZ-6HvM25k" rel="alternate" type="text/html"/>
-    <published>2024-03-06T10:30:02.000Z</published>
-    <updated>2024-03-06T10:30:02.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8rZ-6HvM25k 【LIVE on &lt;t:1709721002:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8rZ-6HvM25k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
