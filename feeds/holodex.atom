@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-04T19:08:08.041Z</updated>
+  <updated>2024-09-04T20:11:04.887Z</updated>
+
+  <entry>
+    <id>urn:uuid:df222a30-d347-5eba-98f3-ceb0deb32f34</id>
+    <title><![CDATA[【歌枠】角巻わためは歌って告知がしたい!!!【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/gTtRTrxw9oA" rel="alternate" type="text/html"/>
+    <published>2024-09-04T19:45:23.000Z</published>
+    <updated>2024-09-04T19:45:23.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gTtRTrxw9oA 【LIVE on &lt;t:1725534000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gTtRTrxw9oA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2814c58d-da2d-5de2-a9ff-f0d8a343b654</id>
@@ -776,20 +790,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
-    <title><![CDATA[SNEAKING (revenge)]]></title>
-    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
     <title><![CDATA[Tide]]></title>
     <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
@@ -804,17 +804,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:457f008e-c837-5e5e-b91b-7b150c04964e</id>
-    <title><![CDATA[SINGING!]]></title>
-    <link href="https://youtu.be/DAyyyhNjuww" rel="alternate" type="text/html"/>
-    <published>2024-08-15T16:49:37.000Z</published>
-    <updated>2024-08-15T16:49:37.000Z</updated>
+    <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
+    <title><![CDATA[SNEAKING (revenge)]]></title>
+    <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
     <author>
-      <name>Airani Iofifteen Channel hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DAyyyhNjuww 【LIVE on &lt;t:1723730938:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DAyyyhNjuww/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -916,20 +916,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
-    <title><![CDATA[BAN RTA (Instrumental)]]></title>
-    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
     <title><![CDATA[BAN RTA]]></title>
     <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
@@ -941,6 +927,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
+    <title><![CDATA[BAN RTA (Instrumental)]]></title>
+    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
