@@ -20,13 +20,13 @@
   },
   {
     "id": "dgMYynGBwXk",
-    "title": "【SING】今日は鼻ズビですが歌いたいのは止められない!!!【ホロライブ / ロボ子さん】",
+    "title": "【SING】今日は鼻ズビですが歌いたいのは止められない！！！【ホロライブ / ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-09-05T09:22:25.000Z",
     "available_at": "2024-09-05T11:00:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5548,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -35,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "IbnoxdFtvTc",
+    "title": "【 歌枠 / Karaoke 】うたかた ※今日0:00にメン限行 / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-05T04:42:13.000Z",
+    "available_at": "2024-09-05T06:03:04.000Z",
+    "duration": 7099,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
@@ -984,25 +1003,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "PDi1kYQ5py0",
-    "title": "【900k Unarchived Karaoke】yayyyy",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-15T11:27:22.000Z",
-    "available_at": "2024-08-16T07:00:19.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-      "name": "Vestia Zeta Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Vestia Zeta"
     }
   },
   {
@@ -2010,6 +2010,7 @@
     "available_at": "2024-09-04T11:15:07.000Z",
     "duration": 206,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -2515,13 +2516,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2536,13 +2537,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2676,8 +2677,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2697,8 +2698,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
