@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "dgMYynGBwXk",
+    "title": "【SING】今日は鼻ズビですが歌いたいのは止められない!!!【ホロライブ / ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-05T09:22:25.000Z",
+    "available_at": "2024-09-05T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "CtvAXoHGl1g",
     "title": "【オリジナル曲】たくさんあるので歌います～7日の告知も♪～【ホロライブ/ときのそら】",
     "type": "stream",
@@ -984,25 +1003,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vestia Zeta"
-    }
-  },
-  {
-    "id": "MqziWJr3K9w",
-    "title": "【KARAOKE】Early Karaoke for a change! (unarchived)",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-15T20:00:14.000Z",
-    "available_at": "2024-08-15T20:16:33.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCyl1z3jo3XHR1riLFKG5UAg",
-      "name": "Watson Amelia Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Watson Amelia"
     }
   },
   {
@@ -2676,8 +2676,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2697,8 +2697,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
