@@ -1,5 +1,24 @@
 [
   {
+    "id": "c4RgJdN8YHQ",
+    "title": "【 #こよクロ 】放課後カラオケいくか~~~~~🎤(オフコラボ)【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-06T15:01:25.000Z",
+    "available_at": "2024-09-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
+    }
+  },
+  {
     "id": "P_uKGhfmv50",
     "title": "【UNARCHIVE KARAOKE】I PROMISE THERE WILL BE A REBROADCAST SO IT'S OKAY TO MISS THIS【Kureiji Ollie】",
     "type": "stream",
@@ -139,7 +158,7 @@
   },
   {
     "id": "CtvAXoHGl1g",
-    "title": "【オリジナル曲】たくさんあるので歌います～7日の告知も♪～【ホロライブ/ときのそら】",
+    "title": "【オリジナル曲】たくさんあるので歌います~7日の告知も♪~【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-09-04T11:34:35.000Z",
@@ -984,26 +1003,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minato Aqua"
-    }
-  },
-  {
-    "id": "Hi1SG9aCdpE",
-    "title": "【#マリフレオフ】ひさしぶりの歌枠コラボ♪【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-17T11:08:33.000Z",
-    "available_at": "2024-08-17T10:00:09.000Z",
-    "duration": 3705,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
     }
   },
   {
@@ -2328,13 +2327,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2349,13 +2348,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
