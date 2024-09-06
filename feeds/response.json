@@ -1,5 +1,24 @@
 [
   {
+    "id": "P_uKGhfmv50",
+    "title": "【UNARCHIVE KARAOKE】I PROMISE THERE WILL BE A REBROADCAST SO IT'S OKAY TO MISS THIS【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-06T16:57:30.000Z",
+    "available_at": "2024-09-07T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
+    }
+  },
+  {
     "id": "5Q6AxFbgNB4",
     "title": "【UNARCHIVED KARAOKE REBROADCAST】You're Still Here?",
     "type": "stream",
@@ -985,25 +1004,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "AEivl0wSQfU",
-    "title": "REBROADCAST =【UNARCHIVED KARAOKE】Dancing Queen~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-17T03:41:21.000Z",
-    "available_at": "2024-08-17T09:01:44.000Z",
-    "duration": 14690,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -2678,8 +2678,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2699,8 +2699,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
