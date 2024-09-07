@@ -1,5 +1,24 @@
 [
   {
+    "id": "9JtYh9qL94U",
+    "title": "REBROADCAST「UNARCHIVED KARAOKE」8-30",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-07T00:12:14.000Z",
+    "available_at": "2024-09-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC060r4zABV18vcahAWR1n7w",
+      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/x44Mk1Ici4gC4VO7k-_i511Q1dVWcMrlLXj5AzogJpPpGFpMMzyF4-bjhE9IWCAjxpxYQbTh-2A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Machina X Flayon"
+    }
+  },
+  {
     "id": "c4RgJdN8YHQ",
     "title": "【 #こよクロ 】放課後カラオケいくか~~~~~🎤(オフコラボ)【博衣こより/ホロライブ】",
     "type": "stream",
@@ -65,6 +84,7 @@
     "available_at": "2024-09-06T10:01:59.000Z",
     "duration": 9476,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "en": 80
     },
@@ -87,6 +107,7 @@
     "available_at": "2024-09-06T03:01:31.000Z",
     "duration": 8044,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
       "name": "Ao Ch. 火威青 ‐ ReGLOSS",
@@ -983,26 +1004,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "ZCT49zxqfJA",
-    "title": "【歌枠】うたいたいきょくいっぱいうたう!!【湊あくあ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-17T13:56:07.000Z",
-    "available_at": "2024-08-17T12:02:27.000Z",
-    "duration": 6433,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UC1opHUrw8rvnsadT-iGp7Cg",
-      "name": "Aqua Ch. 湊あくあ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minato Aqua"
     }
   },
   {
