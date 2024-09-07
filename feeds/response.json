@@ -1,24 +1,5 @@
 [
   {
-    "id": "c4RgJdN8YHQ",
-    "title": "【 #こよクロ 】放課後カラオケいくか~~~~~🎤(オフコラボ)【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-06T15:01:25.000Z",
-    "available_at": "2024-09-07T13:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
     "id": "9JtYh9qL94U",
     "title": "REBROADCAST「UNARCHIVED KARAOKE」8-30",
     "type": "stream",
@@ -38,6 +19,25 @@
     }
   },
   {
+    "id": "c4RgJdN8YHQ",
+    "title": "【 #こよクロ 】放課後カラオケいくか~~~~~🎤(オフコラボ)【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-06T15:01:25.000Z",
+    "available_at": "2024-09-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
+    }
+  },
+  {
     "id": "KJjVePC3zAE",
     "title": "【TAGALOG KARAOKE】I MADE ALL THE INSTRUMENTALS | REBROADCAST",
     "type": "stream",
@@ -45,7 +45,7 @@
     "published_at": "2024-09-07T06:03:50.000Z",
     "available_at": "2024-09-07T11:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -2678,8 +2678,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2699,8 +2699,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
