@@ -65,7 +65,7 @@
     "published_at": "2024-09-08T04:26:48.000Z",
     "available_at": "2024-09-08T05:35:27.000Z",
     "duration": 5913,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC3n5uGu18FoCy23ggWWp8tA",
       "name": "Nanashi Mumei Ch. hololive-EN",
@@ -2005,10 +2005,10 @@
     "title": "【1周年記念 初オリ曲】今日も大天才っ!【一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-09-08T19:58:31.000Z",
-    "available_at": "2024-09-09T10:55:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-09-09T10:55:06.000Z",
+    "available_at": "2024-09-09T10:55:06.000Z",
+    "duration": 198,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -2755,8 +2755,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2776,8 +2776,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
