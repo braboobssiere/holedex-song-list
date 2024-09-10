@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-10T11:09:10.868Z</updated>
+  <updated>2024-09-10T12:20:35.607Z</updated>
+
+  <entry>
+    <id>urn:uuid:4e9c1e53-7eb1-553f-9c24-e27d286d90b4</id>
+    <title><![CDATA[ReGLOSS 'フィーリングラデーション' OFFICIAL MV]]></title>
+    <link href="https://youtu.be/u4uDiV3u-do" rel="alternate" type="text/html"/>
+    <published>2024-09-10T12:00:07.000Z</published>
+    <updated>2024-09-10T12:00:07.000Z</updated>
+    <author>
+      <name>hololive DEV_IS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=u4uDiV3u-do 【LIVE on &lt;t:1725969607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u4uDiV3u-do/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f8651186-7aee-58df-9ae4-262c8df965c3</id>
@@ -1056,20 +1070,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
-    <title><![CDATA[BAN RTA (Instrumental)]]></title>
-    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
     <title><![CDATA[BAN RTA]]></title>
     <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
@@ -1081,6 +1081,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
+    <title><![CDATA[BAN RTA (Instrumental)]]></title>
+    <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1165,20 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FvoL-rOgrBo 【LIVE on &lt;t:1723043051:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FvoL-rOgrBo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e837ad26-f68f-57d3-8e5b-51d6580960e8</id>
-    <title><![CDATA[In My Feelings]]></title>
-    <link href="https://youtu.be/KosO_Mcike4" rel="alternate" type="text/html"/>
-    <published>2024-08-07T15:03:57.000Z</published>
-    <updated>2024-08-07T15:03:57.000Z</updated>
-    <author>
-      <name>Nerissa Ravencroft Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KosO_Mcike4 【LIVE on &lt;t:1723043037:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KosO_Mcike4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
