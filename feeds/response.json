@@ -6,10 +6,10 @@
     "topic_id": "singing",
     "published_at": "2024-09-13T08:21:38.000Z",
     "available_at": "2024-09-13T10:02:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6066,
+    "status": "past",
     "live_tl_count": {
-      "en": 48
+      "en": 90
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -30,7 +30,7 @@
     "available_at": "2024-09-12T13:00:33.000Z",
     "duration": 7875,
     "status": "past",
-    "songcount": 22,
+    "songcount": 23,
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive-ID",
@@ -2676,13 +2676,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2697,13 +2697,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2837,8 +2837,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2858,8 +2858,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
