@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-14T10:09:28.779Z</updated>
+  <updated>2024-09-14T11:07:35.254Z</updated>
 
   <entry>
     <id>urn:uuid:13ba9217-9feb-52b8-a436-f9376e54c808</id>
@@ -818,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
-    <title><![CDATA[Overkill]]></title>
-    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
     <title><![CDATA[Last Days]]></title>
     <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
@@ -843,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
+    <title><![CDATA[Overkill]]></title>
+    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1070,20 +1070,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
-    <title><![CDATA[BAN RTA]]></title>
-    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
-    <published>2024-08-10T15:01:36.000Z</published>
-    <updated>2024-08-10T15:01:36.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2a815a38-a493-5bee-acb2-126ac286d329</id>
     <title><![CDATA[BAN RTA (Instrumental)]]></title>
     <link href="https://youtu.be/VTx9vMCSOLs" rel="alternate" type="text/html"/>
@@ -1095,6 +1081,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VTx9vMCSOLs 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTx9vMCSOLs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b48cd043-88dc-55b0-a4f9-6a406a261407</id>
+    <title><![CDATA[BAN RTA]]></title>
+    <link href="https://youtu.be/lz9lUpxnkbg" rel="alternate" type="text/html"/>
+    <published>2024-08-10T15:01:36.000Z</published>
+    <updated>2024-08-10T15:01:36.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lz9lUpxnkbg 【LIVE on &lt;t:1723302096:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lz9lUpxnkbg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1266,20 +1266,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:509724f8-e02e-5471-a96c-c7c085215f6b</id>
-    <title><![CDATA[【ASMR Eepy】Reading Bedtime Story :D]]></title>
-    <link href="https://youtu.be/X0QBUtIW70s" rel="alternate" type="text/html"/>
-    <published>2024-06-30T12:49:21.000Z</published>
-    <updated>2024-06-30T12:49:21.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=X0QBUtIW70s 【LIVE on &lt;t:1719763663:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X0QBUtIW70s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2ef9c51e-d625-5858-b1e8-b983563a59de</id>
     <title><![CDATA[【ASMR/囁き】終電駅名ASMR~中央線編~【ホロライブ / AZKi / Mini Tokyo 3D】]]></title>
     <link href="https://youtu.be/dUkUyVHFo3I" rel="alternate" type="text/html"/>
@@ -1389,20 +1375,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xSo0b2FlmBs 【LIVE on &lt;t:1716390570:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xSo0b2FlmBs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e56e6886-8332-5d09-a5f4-ecdbb6b02688</id>
-    <title><![CDATA[【ASMR Hair Care】Combing, Massaging, Whispering, Taking care of your hair :D]]></title>
-    <link href="https://youtu.be/pslO2bRrkRM" rel="alternate" type="text/html"/>
-    <published>2024-05-19T02:37:14.000Z</published>
-    <updated>2024-05-19T02:37:14.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pslO2bRrkRM 【LIVE on &lt;t:1716087732:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pslO2bRrkRM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1683,6 +1655,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dExGvpGLLxY 【LIVE on &lt;t:1710417674:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dExGvpGLLxY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:83967fdf-b3b1-5242-b717-91aa0fffcab7</id>
+    <title><![CDATA[【超極秘】爆裂沸騰作戦-作戦伝達記録~※ASMR音声を含むためヘッドフォン視聴がオススメです~【ラプラス・ダークネス&博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/QvPIESJna14" rel="alternate" type="text/html"/>
+    <published>2024-03-07T09:00:07.000Z</published>
+    <updated>2024-03-07T09:00:07.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QvPIESJna14 【LIVE on &lt;t:1709802007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QvPIESJna14/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6a915002-aebe-535a-9fc7-fff4d1e57bac</id>
+    <title><![CDATA[【無料/KU100】🔴ぺこーらありがとうASMR✨一緒に温泉旅行、いかがですか?♨ ※兎田ぺこら専用ボイスです【天音かなた、AZKi、沙花叉クロヱ/ホロライブ】]]></title>
+    <link href="https://youtu.be/3sg9J3cg0YM" rel="alternate" type="text/html"/>
+    <published>2024-03-06T11:31:18.000Z</published>
+    <updated>2024-03-06T11:31:18.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3sg9J3cg0YM 【LIVE on &lt;t:1709724678:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3sg9J3cg0YM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
