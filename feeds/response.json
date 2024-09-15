@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "BN2mSzt81JQ",
+    "title": "【 歌枠 / Karaoke 】アーカイブ無",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-15T04:27:28.000Z",
+    "available_at": "2024-09-15T05:05:22.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "3Ae-W7cGVpg",
     "title": "【KARAOKE】IT'S TIME TO SING YOU A SONG HAKKITO🎤✨【UNARCHIVED】",
     "type": "stream",
@@ -980,25 +999,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "TendKzF2moE",
-    "title": "unarchived karaoke! 3D!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-22T00:05:16.000Z",
-    "available_at": "2024-08-22T00:13:11.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "name": "Ceres Fauna Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ceres Fauna"
     }
   },
   {
@@ -2854,8 +2854,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2875,8 +2875,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
