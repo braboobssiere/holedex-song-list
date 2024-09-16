@@ -106,6 +106,7 @@
     "available_at": "2024-09-14T10:00:46.000Z",
     "duration": 11686,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -2032,6 +2033,7 @@
     "available_at": "2024-09-15T13:00:07.000Z",
     "duration": 293,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -2757,13 +2759,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2778,13 +2780,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2918,8 +2920,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2939,8 +2941,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
