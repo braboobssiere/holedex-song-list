@@ -3,21 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-22T22:10:02.201Z</updated>
-
-  <entry>
-    <id>urn:uuid:e1e944ee-c5ca-5a8f-b60e-de6abdbcf565</id>
-    <title><![CDATA[【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】]]></title>
-    <link href="https://youtu.be/J5h1yO2blts" rel="alternate" type="text/html"/>
-    <published>2024-09-22T00:35:13.000Z</published>
-    <updated>2024-09-22T00:35:13.000Z</updated>
-    <author>
-      <name>Choco Ch. 癒月ちょこ</name>
-      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=J5h1yO2blts 【LIVE on &lt;t:1726966024:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J5h1yO2blts/maxresdefault.jpg"/>
-  </entry>
+  <updated>2024-09-22T23:10:56.811Z</updated>
 
   <entry>
     <id>urn:uuid:9fa97558-aa46-5b58-965e-4413b4d1e07a</id>
@@ -759,6 +745,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2RCIeFfWGoM 【LIVE on &lt;t:1724572767:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2RCIeFfWGoM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f413b44d-2c29-5e85-bb20-0e837f411766</id>
+    <title><![CDATA[【オフコラボ】ロボちゃまの夜更かし。@Robocosan]]></title>
+    <link href="https://youtu.be/Hp2UM4bS3WQ" rel="alternate" type="text/html"/>
+    <published>2024-08-24T18:42:18.000Z</published>
+    <updated>2024-08-24T18:42:18.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Hp2UM4bS3WQ 【LIVE on &lt;t:1724517317:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hp2UM4bS3WQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
