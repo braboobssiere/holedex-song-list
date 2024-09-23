@@ -7,7 +7,7 @@
     "published_at": "2024-09-21T03:37:46.000Z",
     "available_at": "2024-09-21T23:00:28.000Z",
     "duration": 29125,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -451,25 +451,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "IbnoxdFtvTc",
-    "title": "【 歌枠 / Karaoke 】うたかた ※今日0:00にメン限行  / #燃えろアステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-05T08:32:42.000Z",
-    "available_at": "2024-09-05T06:03:04.000Z",
-    "duration": 7098,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -1001,6 +982,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "LR0nmAuXYiM",
+    "title": "【 歌枠 / Karaoke 】おつかれさまでした。ギャン泣きは終了  / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-08-24T18:37:47.000Z",
+    "available_at": "2024-08-24T15:26:13.000Z",
+    "duration": 10085,
+    "status": "past",
+    "songcount": 29,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
@@ -2608,13 +2609,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2629,13 +2630,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2797,13 +2798,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2818,13 +2819,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2958,8 +2959,8 @@
     }
   },
   {
-    "id": "VTx9vMCSOLs",
-    "title": "BAN RTA (Instrumental)",
+    "id": "lz9lUpxnkbg",
+    "title": "BAN RTA",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
@@ -2979,8 +2980,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
