@@ -1,15 +1,15 @@
 [
   {
     "id": "tr-nW5t2z1Y",
-    "title": "【そらポル歌枠】ポルカおらぬ?待ちつつ歌う?【ホロライブ/ときのそら/尾丸ポルカ】",
+    "title": "【そらポル歌枠】ポルカおらぬ？待ちつつ歌う？【ホロライブ/ときのそら/尾丸ポルカ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-09-24T04:21:36.000Z",
     "available_at": "2024-09-24T10:05:12.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7850,
+    "status": "past",
     "live_tl_count": {
-      "en": 93
+      "en": 166
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -1984,6 +1984,25 @@
     }
   },
   {
+    "id": "4ZafIoQ_g7Y",
+    "title": "SUNAO / さくらみこ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-09-24T10:44:28.000Z",
+    "available_at": "2024-09-24T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
     "id": "F7HpS9qrCII",
     "title": "【7周年記念曲】ときのそら「ラッキーセブンスホイッスル」【Official Music Video】",
     "type": "stream",
@@ -2800,13 +2819,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2821,13 +2840,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2958,27 +2977,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-08-10T15:01:36.000Z",
-    "available_at": "2024-08-10T15:01:36.000Z",
-    "duration": 197,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
