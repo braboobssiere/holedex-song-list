@@ -1,5 +1,43 @@
 [
   {
+    "id": "KLU1Zn6_u_w",
+    "title": "【バラード歌枠】お久しぶりのお歌です【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-26T11:36:30.000Z",
+    "available_at": "2024-09-26T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "q9S-nhZZGMk",
+    "title": "【 歌枠 / Karaoke 】カラオケフリータイム∞  / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-26T11:25:07.000Z",
+    "available_at": "2024-09-26T12:10:50.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "reMJ1XMzGD4",
     "title": "【KARAOKE / 歌枠】Unarchived IRySinging?! It has been a bit #shorts",
     "type": "stream",
@@ -957,49 +995,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "kNMF7hyYAbc",
-    "title": "【SING】ロスト歌枠：ボクを眠くさせてほしい【ホロライブ / ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-26T17:55:14.000Z",
-    "available_at": "2024-08-26T18:02:42.000Z",
-    "duration": 0,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 52,
-      "ja": 6
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "ptSvtakDLMo",
-    "title": "【 歌枠 】デビュー1000日記念!いつも本当にありがとう! 【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-26T17:16:32.000Z",
-    "available_at": "2024-08-26T11:01:28.000Z",
-    "duration": 21434,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -2627,13 +2622,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2648,13 +2643,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2977,8 +2972,8 @@
     }
   },
   {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
+    "id": "VTx9vMCSOLs",
+    "title": "BAN RTA (Instrumental)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-10T15:01:36.000Z",
