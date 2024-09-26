@@ -26,8 +26,8 @@
     "topic_id": "singing",
     "published_at": "2024-09-26T11:25:07.000Z",
     "available_at": "2024-09-26T12:10:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 20886,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -1976,6 +1976,26 @@
     }
   },
   {
+    "id": "sTxcH54jhPk",
+    "title": "【Original Song MV】蒼天に燃ゆ / Souten ni Moyu - Ouro Kronii",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-09-26T17:54:26.000Z",
+    "available_at": "2024-09-27T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
     "id": "4ZafIoQ_g7Y",
     "title": "SUNAO / さくらみこ (official)",
     "type": "stream",
@@ -2970,27 +2990,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "lz9lUpxnkbg",
-    "title": "BAN RTA",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-08-10T15:01:36.000Z",
-    "available_at": "2024-08-10T15:01:36.000Z",
-    "duration": 197,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
