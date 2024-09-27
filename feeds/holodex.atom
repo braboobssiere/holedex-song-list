@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-09-27T17:09:25.619Z</updated>
+  <updated>2024-09-27T18:13:45.602Z</updated>
+
+  <entry>
+    <id>urn:uuid:3eca02a8-3023-5061-8a1f-5edce9c3ceea</id>
+    <title><![CDATA[【UNARCHIUVED】Haachama English KARAOKE♪]]></title>
+    <link href="https://youtu.be/08tiYBGps3k" rel="alternate" type="text/html"/>
+    <published>2024-09-27T17:53:35.000Z</published>
+    <updated>2024-09-27T17:53:35.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=08tiYBGps3k 【LIVE on &lt;t:1727460466:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/08tiYBGps3k/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e7a90dad-40ce-5ec5-aa56-288b45f0e000</id>
@@ -748,20 +762,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:433174cf-db5a-5953-82e0-c099e1daac69</id>
-    <title><![CDATA[【#ReGLOSS歌枠リレー】1周年まであと少し!!盛り上がっていくぞー!!【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】]]></title>
-    <link href="https://youtu.be/fdGeVzB25bE" rel="alternate" type="text/html"/>
-    <published>2024-08-27T11:03:23.000Z</published>
-    <updated>2024-08-27T11:03:23.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fdGeVzB25bE 【LIVE on &lt;t:1724754610:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fdGeVzB25bE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e345c814-169c-55a2-b122-65bda376004a</id>
     <title><![CDATA[【アニメMV】あくたんのこと好きすぎ☆ソング/湊あくあ short ver.]]></title>
     <link href="https://youtu.be/YHfc0M3CGw0" rel="alternate" type="text/html"/>
@@ -888,20 +888,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
-    <title><![CDATA[Last Days]]></title>
-    <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
     <title><![CDATA[Overkill]]></title>
     <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
@@ -913,6 +899,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
+    <title><![CDATA[Last Days]]></title>
+    <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1014,20 +1014,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
-    <title><![CDATA[Tide]]></title>
-    <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:04.000Z</published>
-    <updated>2024-08-16T04:00:04.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:292c93d3-ebb4-5292-8545-69eecf4861ca</id>
     <title><![CDATA[SNEAKING (revenge)]]></title>
     <link href="https://youtu.be/56SfTg1aWe4" rel="alternate" type="text/html"/>
@@ -1039,6 +1025,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=56SfTg1aWe4 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/56SfTg1aWe4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7269ad11-fdcd-5d41-9754-cb45944059f7</id>
+    <title><![CDATA[Tide]]></title>
+    <link href="https://youtu.be/6YnsvfgpYJQ" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:04.000Z</published>
+    <updated>2024-08-16T04:00:04.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6YnsvfgpYJQ 【LIVE on &lt;t:1723780804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6YnsvfgpYJQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
