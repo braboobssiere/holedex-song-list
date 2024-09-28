@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-09-28T06:29:36.000Z",
-    "available_at": "2024-09-28T08:00:00.000Z",
+    "available_at": "2024-09-28T08:00:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -2851,13 +2854,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2872,13 +2875,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
