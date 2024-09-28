@@ -25,10 +25,10 @@
     "topic_id": "singing",
     "published_at": "2024-09-28T06:29:36.000Z",
     "available_at": "2024-09-28T08:00:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6494,
+    "status": "past",
     "live_tl_count": {
-      "en": 28
+      "en": 33
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -2665,13 +2665,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2686,13 +2686,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
