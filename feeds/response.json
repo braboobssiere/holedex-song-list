@@ -1,5 +1,24 @@
 [
   {
+    "id": "eSCQQhjgpIg",
+    "title": "【歌枠】8月ぶりの歌枠🎤✨楽しく歌お〜🎶【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-25T13:24:12.000Z",
+    "available_at": "2024-10-02T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "XSTF9DI3_dE",
     "title": "Aethercon 2024 Live Performance - 【 25+ GUESTS】",
     "type": "stream",
@@ -27,7 +46,7 @@
     "published_at": "2024-09-29T15:58:44.000Z",
     "available_at": "2024-09-30T09:00:31.000Z",
     "duration": 6486,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 99
     },
@@ -975,29 +994,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "Z9K63msSwJg",
-    "title": "【50万人耐久】24時間で奇跡を起こしたい…!! part2 歌枠!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-30T13:39:47.000Z",
-    "available_at": "2024-08-30T09:44:20.000Z",
-    "duration": 13429,
-    "status": "past",
-    "songcount": 39,
-    "live_tl_count": {
-      "en": 6
-    },
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {

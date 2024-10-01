@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-01T15:11:03.889Z</updated>
+  <updated>2024-10-01T16:13:04.951Z</updated>
 
   <entry>
     <id>urn:uuid:aceab469-64cd-59c8-a907-0d09a0e14b9f</id>
@@ -171,6 +171,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KLU1Zn6_u_w 【LIVE on &lt;t:1727359208:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KLU1Zn6_u_w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54e5ebb5-6028-54ad-8aed-27f996429c35</id>
+    <title><![CDATA[【歌枠】8月ぶりの歌枠🎤✨楽しく歌お〜🎶【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/eSCQQhjgpIg" rel="alternate" type="text/html"/>
+    <published>2024-09-25T13:24:12.000Z</published>
+    <updated>2024-09-25T13:24:12.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eSCQQhjgpIg 【LIVE on &lt;t:1727863200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eSCQQhjgpIg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -703,20 +717,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zWSCL0rlNV0 【LIVE on &lt;t:1725022911:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zWSCL0rlNV0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:34b91328-9549-5b4d-96c3-47e5f7cb86b8</id>
-    <title><![CDATA[【50万人耐久】24時間で奇跡を起こしたい…!! part2 歌枠!!!【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
-    <link href="https://youtu.be/Z9K63msSwJg" rel="alternate" type="text/html"/>
-    <published>2024-08-30T13:39:47.000Z</published>
-    <updated>2024-08-30T13:39:47.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Z9K63msSwJg 【LIVE on &lt;t:1725011060:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9K63msSwJg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
