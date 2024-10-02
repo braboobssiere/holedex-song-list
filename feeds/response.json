@@ -1,5 +1,24 @@
 [
   {
+    "id": "jWjgOcal4oI",
+    "title": "【ガチ老人会】昭和歌謡曲歌枠♪/Singing KARAOKE【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-02T10:59:09.000Z",
+    "available_at": "2024-10-03T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "oWx_6pcFx8U",
     "title": "【FULL METAL ALCHEMIST KARAOKE・歌枠】Never Forget...",
     "type": "stream",
@@ -20,7 +39,7 @@
   },
   {
     "id": "TpLMPS57OB0",
-    "title": "【弾き語り枠】ちょっとづつな!【律可/ホロスターズ】#りつすた",
+    "title": "【弾き語り枠】ちょっとづつな！【律可/ホロスターズ】#りつすた",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-02T05:34:41.000Z",
@@ -84,6 +103,7 @@
     "available_at": "2024-10-02T09:05:35.000Z",
     "duration": 3415,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -965,26 +985,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "9fTP9a4347M",
-    "title": "【弾き語り】8月終わりの歌を聴けぃ!!【奏手イヅル / ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-08-31T14:40:41.000Z",
-    "available_at": "2024-08-31T12:23:37.000Z",
-    "duration": 7783,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
