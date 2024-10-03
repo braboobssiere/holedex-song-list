@@ -1,5 +1,24 @@
 [
   {
+    "id": "9HkJvxMH6RU",
+    "title": "【UNARCHIVED KARAOKE】Dance Monkey~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-03T17:02:13.000Z",
+    "available_at": "2024-10-03T18:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "fo3qN-tC2Og",
     "title": "【動画投稿したから】歌枠＆同時視聴！！楽しく過ごそう！【ホロライブ/ときのそら】",
     "type": "stream",
@@ -128,7 +147,7 @@
     "published_at": "2024-10-02T09:05:06.000Z",
     "available_at": "2024-10-02T09:29:38.000Z",
     "duration": 9804,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC3n5uGu18FoCy23ggWWp8tA",
       "name": "Nanashi Mumei Ch. hololive-EN",
@@ -161,12 +180,12 @@
   },
   {
     "id": "A-_PMN0eoMw",
-    "title": "【 お披露目あり！ 】久々に歌うぞ～～～～～～～～～♪【鷹嶺ルイ/ホロライブ】",
+    "title": "【 お披露目あり! 】久々に歌うぞ~~~~~~~~~♪【鷹嶺ルイ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-10-02T01:25:22.000Z",
+    "published_at": "2024-10-02T12:56:09.000Z",
     "available_at": "2024-10-02T09:01:34.000Z",
-    "duration": 13368,
+    "duration": 13335,
     "status": "past",
     "songcount": 10,
     "channel": {
@@ -971,26 +990,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "dgMYynGBwXk",
-    "title": "【SING】今日は鼻ズビですが歌いたいのは止められない!!!【ホロライブ / ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-05T12:38:19.000Z",
-    "available_at": "2024-09-05T11:00:25.000Z",
-    "duration": 5554,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -2760,13 +2759,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2781,13 +2780,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2949,13 +2948,13 @@
     }
   },
   {
-    "id": "56SfTg1aWe4",
-    "title": "SNEAKING (revenge)",
+    "id": "6YnsvfgpYJQ",
+    "title": "Tide",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 169,
+    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2970,13 +2969,13 @@
     }
   },
   {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
+    "id": "56SfTg1aWe4",
+    "title": "SNEAKING (revenge)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
+    "duration": 169,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
