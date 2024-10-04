@@ -1,5 +1,24 @@
 [
   {
+    "id": "Vz_EbAIbjIA",
+    "title": "【歌枠/KARAOKE】機材新調&歌ってみた記念歌枠~!【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-04T10:51:58.000Z",
+    "available_at": "2024-10-04T12:01:38.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "nXim3ZLk2-4",
     "title": "REBROADCAST =【UNARCHIVED KARAOKE】Dance Monkey~! 💄",
     "type": "stream",
@@ -7,7 +26,7 @@
     "published_at": "2024-10-04T08:24:40.000Z",
     "available_at": "2024-10-04T08:33:03.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -88,7 +107,7 @@
     "available_at": "2024-10-03T03:01:36.000Z",
     "duration": 8813,
     "status": "past",
-    "songcount": 16,
+    "songcount": 14,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -969,26 +988,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "F1hKXKqH--w",
-    "title": "【歌枠/KARAOKE】お昼にまったりカラオケ!【火威青 】#hololiveDEV_IS #regloss対holox",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-06T05:23:05.000Z",
-    "available_at": "2024-09-06T03:01:31.000Z",
-    "duration": 8072,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiodoshi Ao"
     }
   },
   {
@@ -1966,6 +1965,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "2dkJB8a201s",
+    "title": "さくらんぼメッセージ / さくらみこ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-04T12:00:26.000Z",
+    "available_at": "2024-10-04T12:00:26.000Z",
+    "duration": 195,
+    "status": "past",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
     }
   },
   {
@@ -2954,27 +2972,6 @@
     "published_at": "2024-08-16T04:00:04.000Z",
     "available_at": "2024-08-16T04:00:04.000Z",
     "duration": 169,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "6YnsvfgpYJQ",
-    "title": "Tide",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-08-16T04:00:04.000Z",
-    "available_at": "2024-08-16T04:00:04.000Z",
-    "duration": 221,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
