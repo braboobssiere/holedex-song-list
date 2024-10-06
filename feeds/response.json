@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "P6x8nHH2uWs",
+    "title": "シンプルにカラオケ歌枠や!【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-06T10:34:34.000Z",
+    "available_at": "2024-10-06T12:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "Vz_EbAIbjIA",
     "title": "【歌枠/KARAOKE】機材新調&歌ってみた記念歌枠~!【尾丸ポルカ/ホロライブ】",
     "type": "stream",
@@ -966,25 +985,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "5Q6AxFbgNB4",
-    "title": "【UNARCHIVED KARAOKE REBROADCAST】You're Still Here?",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-06T07:25:17.000Z",
-    "available_at": "2024-09-06T18:01:39.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
     }
   },
   {
@@ -2814,13 +2814,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2835,13 +2835,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
