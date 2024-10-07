@@ -1,5 +1,24 @@
 [
   {
+    "id": "QcOA3srL4Rc",
+    "title": "【 歌枠 / Karaoke 】練  / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-07T14:03:07.000Z",
+    "available_at": "2024-10-07T14:22:17.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "BILMZyLkaKA",
     "title": "【歌枠】50万人耐久!!歌います!!縦型です!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -968,25 +987,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nanashi Mumei"
-    }
-  },
-  {
-    "id": "9JtYh9qL94U",
-    "title": "REBROADCAST「UNARCHIVED KARAOKE」8-30",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-07T00:12:14.000Z",
-    "available_at": "2024-09-07T13:02:53.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC060r4zABV18vcahAWR1n7w",
-      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/x44Mk1Ici4gC4VO7k-_i511Q1dVWcMrlLXj5AzogJpPpGFpMMzyF4-bjhE9IWCAjxpxYQbTh-2A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Machina X Flayon"
     }
   },
   {
@@ -2836,13 +2836,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2857,13 +2857,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
