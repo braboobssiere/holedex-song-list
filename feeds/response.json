@@ -1,5 +1,27 @@
 [
   {
+    "id": "cM_qfQ-FLVo",
+    "title": "【歌枠】定期的にやっていけたらいいよね【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-08T09:15:42.000Z",
+    "available_at": "2024-10-08T10:00:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 10
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "QcOA3srL4Rc",
     "title": "【 歌枠 / Karaoke 】練  / #燃えろアステル",
     "type": "stream",
@@ -970,25 +992,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "yjAjYLQd7OY",
-    "title": "【歌枠|UNARCHIVED KARAOKE】 she's moomin' her best #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-08T04:26:48.000Z",
-    "available_at": "2024-09-08T05:35:27.000Z",
-    "duration": 5913,
-    "status": "missing",
-    "channel": {
-      "id": "UC3n5uGu18FoCy23ggWWp8tA",
-      "name": "Nanashi Mumei Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nanashi Mumei"
     }
   },
   {
@@ -2838,13 +2841,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2859,13 +2862,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
