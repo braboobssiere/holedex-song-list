@@ -1,5 +1,24 @@
 [
   {
+    "id": "nmz8W4AND5o",
+    "title": "【弾き語り枠】秋がくる【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-08T13:02:19.000Z",
+    "available_at": "2024-10-08T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "cM_qfQ-FLVo",
     "title": "【歌枠】定期的にやっていけたらいいよね【ホロライブ/ときのそら】",
     "type": "stream",
@@ -972,26 +991,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "RuuhEvK2Xg0",
-    "title": "【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-08T11:20:17.000Z",
-    "available_at": "2024-09-08T10:02:39.000Z",
-    "duration": 4361,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -2841,13 +2840,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2862,13 +2861,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
