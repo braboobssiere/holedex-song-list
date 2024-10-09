@@ -1,13 +1,32 @@
 [
   {
+    "id": "jmjf4r7dzVY",
+    "title": "【歌枠】またっり歌ったっていく~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-09T09:55:26.000Z",
+    "available_at": "2024-10-09T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "7K5lUvMrjik",
     "title": "【111万人耐久歌枠】1,111,111人目指して歌う!!!!!カラオケJOYSOUND for STREAMER / SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-09T06:18:22.000Z",
-    "available_at": "2024-10-09T10:00:00.000Z",
+    "available_at": "2024-10-09T10:02:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -972,26 +991,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "vEq9ijIHWdU",
-    "title": "【✨SING/歌枠✨】Karaoke with New Outfit!! Thank You For 800k!!! 【Pavolia Reine/hololiveID】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-12T15:20:26.000Z",
-    "available_at": "2024-09-12T13:00:33.000Z",
-    "duration": 7866,
-    "status": "past",
-    "songcount": 23,
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
     }
   },
   {
@@ -2841,13 +2840,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2862,13 +2861,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
