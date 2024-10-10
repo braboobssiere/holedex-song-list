@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-10T05:28:38.000Z",
-    "available_at": "2024-10-10T12:00:00.000Z",
+    "available_at": "2024-10-10T12:02:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
       "name": "Pekora Ch. 兎田ぺこら",
@@ -1969,6 +1969,25 @@
     }
   },
   {
+    "id": "ua9r5T3WZj8",
+    "title": "【original】守護ってルーナイト【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-10T12:00:06.000Z",
+    "available_at": "2024-10-10T12:00:06.000Z",
+    "duration": 227,
+    "status": "past",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
     "id": "M3pjFfKBonI",
     "title": "【KOSEKI BIJOU】プリズムの魔法 - Prism no Mahou -【Original Song MV】",
     "type": "stream",
@@ -2838,13 +2857,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2859,13 +2878,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2950,27 +2969,6 @@
     "published_at": "2024-08-16T04:00:18.000Z",
     "available_at": "2024-08-16T04:00:18.000Z",
     "duration": 230,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "NnDiq858jxo",
-    "title": "skeletons",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-08-16T04:00:15.000Z",
-    "available_at": "2024-08-16T04:00:15.000Z",
-    "duration": 236,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
