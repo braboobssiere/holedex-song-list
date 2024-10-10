@@ -1,5 +1,24 @@
 [
   {
+    "id": "u6Olok1ltCA",
+    "title": "【オフコラボ歌枠】ぺっこよKARAOKEフェス inこよりハウス【ホロライブ/兎田ぺこら/博衣こより」",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-10T05:28:38.000Z",
+    "available_at": "2024-10-10T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "jmjf4r7dzVY",
     "title": "【歌枠】またっり歌ったっていく～！【轟はじめ/ReGLOSS】 #hololivedev_is",
     "type": "stream",
@@ -970,29 +989,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ceres Fauna"
-    }
-  },
-  {
-    "id": "xK-lX5UjdbA",
-    "title": "【歌枠】歌ってみたを投稿したことある曲縛り【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-13T11:50:41.000Z",
-    "available_at": "2024-09-13T10:02:13.000Z",
-    "duration": 6081,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 90
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
