@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-11T04:12:59.805Z</updated>
+  <updated>2024-10-11T05:10:28.871Z</updated>
+
+  <entry>
+    <id>urn:uuid:1b26c223-b86a-5a68-9b62-a62cd895b9d0</id>
+    <title><![CDATA[【平沢進縛り歌枠】タービンが回る距離感のコラボ  #ジョ烏風亭【儒烏風亭らでん/ジョー・力一 #ReGLOSS 】]]></title>
+    <link href="https://youtu.be/xMUtZeBt2iI" rel="alternate" type="text/html"/>
+    <published>2024-10-11T04:47:10.000Z</published>
+    <updated>2024-10-11T04:47:10.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xMUtZeBt2iI 【LIVE on &lt;t:1728644400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xMUtZeBt2iI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4c8bfcc1-42df-58be-9b3a-62cd69423fcf</id>
@@ -591,20 +605,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=S2dWTOCdnEA 【LIVE on &lt;t:1726372927:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S2dWTOCdnEA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:13ba9217-9feb-52b8-a436-f9376e54c808</id>
-    <title><![CDATA[【歌枠】新曲きいてくれた?歌いたいなァ!後半記念配信のスパチャ読みです!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/AoTDF6JVvS8" rel="alternate" type="text/html"/>
-    <published>2024-09-14T13:25:35.000Z</published>
-    <updated>2024-09-14T13:25:35.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AoTDF6JVvS8 【LIVE on &lt;t:1726308046:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AoTDF6JVvS8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
