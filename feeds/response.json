@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-10-11T13:13:39.000Z",
     "available_at": "2024-10-11T14:02:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3656,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -20,13 +20,13 @@
   },
   {
     "id": "3BMsJZL6oak",
-    "title": "【作業用BGM】歌枠好きなだけ歌うから好きなときにききな~♡【ホロライブ/夏色まつり】",
+    "title": "【作業用BGM】歌枠好きなだけ歌うから好きなときにききな～♡【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-11T12:10:42.000Z",
     "available_at": "2024-10-11T13:06:52.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6191,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -835,26 +835,6 @@
     }
   },
   {
-    "id": "3OrA0c9Rz1I",
-    "title": "Vol.155「オーイシ、コナンの主題歌歌いたい」【ゲスト：大神ミオ】~ オーイシマサヨシのMBSヤングタウン",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-25T05:59:00.000Z",
-    "available_at": "2024-09-25T05:59:00.000Z",
-    "duration": 4326,
-    "status": "past",
-    "original_channel_id": "UCkzmIaEmGVYNGIPafmrTMog",
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
-    }
-  },
-  {
     "id": "wnwxI32nWIk",
     "title": "【UNARCHIVED KARAOKE】September~! 💄",
     "type": "stream",
@@ -993,6 +973,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "BN2mSzt81JQ",
+    "title": "【 歌枠 / Karaoke 】アーカイブ無",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-09-15T04:27:28.000Z",
+    "available_at": "2024-09-15T05:05:22.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
