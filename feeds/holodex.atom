@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-11T13:16:55.232Z</updated>
+  <updated>2024-10-11T14:10:13.903Z</updated>
+
+  <entry>
+    <id>urn:uuid:b58fc441-c047-588d-abf0-d93d2240c9b9</id>
+    <title><![CDATA[【歌枠】気ままに歌います。🎇【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/qkVL__RIaok" rel="alternate" type="text/html"/>
+    <published>2024-10-11T13:13:39.000Z</published>
+    <updated>2024-10-11T13:13:39.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qkVL__RIaok 【LIVE on &lt;t:1728655373:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qkVL__RIaok/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5a44e5d6-0b8c-5443-a9da-4ee9017b1191</id>
@@ -493,6 +507,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KLU1Zn6_u_w 【LIVE on &lt;t:1727359208:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KLU1Zn6_u_w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c2fe7d4f-a8af-511b-a6b9-47789bf3bf10</id>
+    <title><![CDATA[Vol.155「オーイシ、コナンの主題歌歌いたい」【ゲスト：大神ミオ】~ オーイシマサヨシのMBSヤングタウン]]></title>
+    <link href="https://youtu.be/3OrA0c9Rz1I" rel="alternate" type="text/html"/>
+    <published>2024-09-25T05:59:00.000Z</published>
+    <updated>2024-09-25T05:59:00.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3OrA0c9Rz1I 【LIVE on &lt;t:1727243940:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3OrA0c9Rz1I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
