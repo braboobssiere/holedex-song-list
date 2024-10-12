@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-12T08:12:27.625Z</updated>
+  <updated>2024-10-12T09:11:15.685Z</updated>
 
   <entry>
     <id>urn:uuid:b58fc441-c047-588d-abf0-d93d2240c9b9</id>
@@ -129,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cM_qfQ-FLVo 【LIVE on &lt;t:1728381645:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cM_qfQ-FLVo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e573f9bf-b345-5cd3-a76e-699def8e52eb</id>
+    <title><![CDATA[ムーンライト]]></title>
+    <link href="https://youtu.be/hJK6jHgLPF8" rel="alternate" type="text/html"/>
+    <published>2024-10-08T06:58:06.000Z</published>
+    <updated>2024-10-08T06:58:06.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hJK6jHgLPF8 【LIVE on &lt;t:1728370686:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hJK6jHgLPF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IbNF8FqzIMs 【LIVE on &lt;t:1723780821:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IbNF8FqzIMs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:badec15c-351c-505c-8e35-e3b9278216b7</id>
-    <title><![CDATA[through the blue]]></title>
-    <link href="https://youtu.be/SXFEgaEfDmc" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:18.000Z</published>
-    <updated>2024-08-16T04:00:18.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SXFEgaEfDmc 【LIVE on &lt;t:1723780818:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SXFEgaEfDmc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
