@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-12T16:12:09.567Z</updated>
+  <updated>2024-10-12T17:08:23.460Z</updated>
 
   <entry>
     <id>urn:uuid:b58fc441-c047-588d-abf0-d93d2240c9b9</id>
@@ -34,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4c8bfcc1-42df-58be-9b3a-62cd69423fcf</id>
+    <title><![CDATA[【歌枠】縦じゃない!!ボイトレ帰りの歌枠!!コラボの話とかも~~~!する!【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/-9CTtbMw8mU" rel="alternate" type="text/html"/>
+    <published>2024-10-11T12:00:44.000Z</published>
+    <updated>2024-10-11T12:00:44.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-9CTtbMw8mU 【LIVE on &lt;t:1728640961:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-9CTtbMw8mU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1b26c223-b86a-5a68-9b62-a62cd895b9d0</id>
     <title><![CDATA[【平沢進縛り歌枠】タービンが回る距離感のコラボ #ジョ烏風亭【儒烏風亭らでん/ジョー・力一 #ReGLOSS 】]]></title>
     <link href="https://youtu.be/xMUtZeBt2iI" rel="alternate" type="text/html"/>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xMUtZeBt2iI 【LIVE on &lt;t:1728644645:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xMUtZeBt2iI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4c8bfcc1-42df-58be-9b3a-62cd69423fcf</id>
-    <title><![CDATA[【歌枠】縦じゃない!!ボイトレ帰りの歌枠!!コラボの話とかも～～～！する！【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/-9CTtbMw8mU" rel="alternate" type="text/html"/>
-    <published>2024-10-10T16:31:26.000Z</published>
-    <updated>2024-10-10T16:31:26.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-9CTtbMw8mU 【LIVE on &lt;t:1728640961:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-9CTtbMw8mU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
