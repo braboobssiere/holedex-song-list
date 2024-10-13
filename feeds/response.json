@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-10-13T00:14:58.000Z",
     "available_at": "2024-10-13T00:32:04.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6025,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -35,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "RdIbRXyaq9Q",
+    "title": "im in a mood to sing #shorts",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-12T07:44:31.000Z",
+    "available_at": "2024-10-12T08:19:14.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
     }
   },
   {
@@ -207,7 +226,7 @@
     "available_at": "2024-10-08T14:00:59.000Z",
     "duration": 3855,
     "status": "past",
-    "songcount": 5,
+    "songcount": 8,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -348,6 +367,7 @@
     "available_at": "2024-10-04T12:01:38.000Z",
     "duration": 3528,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -974,25 +994,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "JTaT-dipI-I",
-    "title": "never gonna",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-19T09:14:01.000Z",
-    "available_at": "2024-09-19T09:15:21.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -2883,13 +2884,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2904,13 +2905,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
