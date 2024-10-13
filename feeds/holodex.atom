@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-13T15:10:19.294Z</updated>
+  <updated>2024-10-13T16:11:51.286Z</updated>
+
+  <entry>
+    <id>urn:uuid:9aaf729d-ba3c-5ce1-95da-01327f007ed1</id>
+    <title><![CDATA[HISTORY]]></title>
+    <link href="https://youtu.be/96XJ_q6V1-s" rel="alternate" type="text/html"/>
+    <published>2024-10-13T15:01:49.000Z</published>
+    <updated>2024-10-13T15:01:49.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=96XJ_q6V1-s 【LIVE on &lt;t:1728831709:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/96XJ_q6V1-s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:104d4135-5ecd-5f3d-b877-9c5ec533cbd2</id>
+    <title><![CDATA[HISTORY(Instrumental)]]></title>
+    <link href="https://youtu.be/__b4FfKrCrE" rel="alternate" type="text/html"/>
+    <published>2024-10-13T15:01:43.000Z</published>
+    <updated>2024-10-13T15:01:43.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=__b4FfKrCrE 【LIVE on &lt;t:1728831703:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/__b4FfKrCrE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a38636a9-aaba-58a2-a101-90bdd10ab1d0</id>
@@ -1095,34 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dkEewrMG6ts 【LIVE on &lt;t:1723780834:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dkEewrMG6ts/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:242a672a-833c-5dbb-bd03-75e7b6ce8143</id>
-    <title><![CDATA[Midnight Mayoi]]></title>
-    <link href="https://youtu.be/QTNCc9Dj6o8" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:28.000Z</published>
-    <updated>2024-08-16T04:00:28.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QTNCc9Dj6o8 【LIVE on &lt;t:1723780828:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QTNCc9Dj6o8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7b590e3a-f55c-5a70-a472-45acc3f9b355</id>
-    <title><![CDATA[Cult Following]]></title>
-    <link href="https://youtu.be/IbNF8FqzIMs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:21.000Z</published>
-    <updated>2024-08-16T04:00:21.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IbNF8FqzIMs 【LIVE on &lt;t:1723780821:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IbNF8FqzIMs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
