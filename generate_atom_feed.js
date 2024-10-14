@@ -14,7 +14,7 @@ const queryParams = {
 };
 
 // Define the topics e.g. 'singing', 'asmr', 'Music_Cover', 'Original_Song', 'Musical_Instrument', 'Birthday', 'Anniversary', '3D_Stream'
-const topics = ['singing', 'asmr', 'Original_Song', 'Musical_Instrument'];
+const topics = ['singing', 'asmr', 'Original_Song', 'Musical_Instrument'', 'Birthday', 'Anniversary', '3D_Stream'];
 
 // Function to create an Atom feed from an array of video objects
 function createAtomFeed(videos, feedUrl) {
@@ -30,7 +30,7 @@ function createAtomFeed(videos, feedUrl) {
 
   videos.forEach(video => {
     //skip missing, holostars video
-    if (video.status === "missing" || video.channel.name.toLowerCase().includes("holostar") || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
+    if (video.status === "missing" || (item.songcount === undefined && (item.topic_id === "Birthday" || item.topic_id === "Anniversary" || item.topic_id === "3D_Stream")) || video.channel.name.toLowerCase().includes("holostar") || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
       return;
     }
     const title = `<![CDATA[${video.title}]]>`;
