@@ -164,9 +164,13 @@
             hour12: false,
           };
 
-              if (item.channel.suborg && item.channel.suborg.toLowerCase().includes("holostar")) {
-      continue;
-      }
+       if (
+    (item.channel.suborg && item.channel.suborg.toLowerCase().includes("holostar")) ||
+    (item.songcount === true && 
+     (item.topic_id === "Birthday" || item.topic_id === "Anniversary" || item.topic_id === "3D_Stream"))
+) {
+    continue;
+}
 
           // Format the available date and time in the desired format
           var localDateFormat = availableAt.toLocaleString('en-GB', dateFormatOptions);
