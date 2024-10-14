@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-14T11:09:53.711Z</updated>
+  <updated>2024-10-14T12:20:28.307Z</updated>
 
   <entry>
     <id>urn:uuid:9aaf729d-ba3c-5ce1-95da-01327f007ed1</id>
@@ -37,8 +37,8 @@
     <id>urn:uuid:b4871f6b-d1d6-5636-8519-d05f86fa5360</id>
     <title><![CDATA[【3 YEAR ANNIVERSARY】Moomin' .. with a TWIST !!! #mumeiAnniversary]]></title>
     <link href="https://youtu.be/6J3nveFtBws" rel="alternate" type="text/html"/>
-    <published>2024-10-12T05:49:23.000Z</published>
-    <updated>2024-10-12T05:49:23.000Z</updated>
+    <published>2024-10-13T07:26:41.000Z</published>
+    <updated>2024-10-13T07:26:41.000Z</updated>
     <author>
       <name>Nanashi Mumei Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA</uri>
@@ -1504,20 +1504,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
-    <title><![CDATA[Overkill]]></title>
-    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
-    <published>2024-08-16T04:00:44.000Z</published>
-    <updated>2024-08-16T04:00:44.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b9ca72b-f2f9-5bef-886f-08bc36629ef1</id>
     <title><![CDATA[Last Days]]></title>
     <link href="https://youtu.be/wEbThT71R74" rel="alternate" type="text/html"/>
@@ -1529,6 +1515,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wEbThT71R74 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wEbThT71R74/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d411fe4-0af1-56ac-b341-b9f003a35867</id>
+    <title><![CDATA[Overkill]]></title>
+    <link href="https://youtu.be/wxQw5BMJBHs" rel="alternate" type="text/html"/>
+    <published>2024-08-16T04:00:44.000Z</published>
+    <updated>2024-08-16T04:00:44.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wxQw5BMJBHs 【LIVE on &lt;t:1723780844:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wxQw5BMJBHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
