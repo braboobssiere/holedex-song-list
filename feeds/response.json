@@ -1,5 +1,24 @@
 [
   {
+    "id": "y10ObP2oeqs",
+    "title": "【歌枠】アニソン縛り!懐かしのアニソン歌います!!!カラオケJOYSOUND for STREAMER / SINGING STREAM【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-15T06:37:49.000Z",
+    "available_at": "2024-10-15T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "5RfoCEXC7lI",
     "title": "【弾き語り枠】結構いいかんじになりつつつつ【律可/ホロスターズ】#りつすた",
     "type": "stream",
@@ -972,29 +991,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "tr-nW5t2z1Y",
-    "title": "【そらポル歌枠】ポルカおらぬ?待ちつつ歌う?【ホロライブ/ときのそら/尾丸ポルカ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-09-24T12:23:22.000Z",
-    "available_at": "2024-09-24T10:05:12.000Z",
-    "duration": 7862,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 166
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -2927,13 +2923,13 @@
     }
   },
   {
-    "id": "wEbThT71R74",
-    "title": "Last Days",
+    "id": "wxQw5BMJBHs",
+    "title": "Overkill",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 243,
+    "duration": 160,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -2948,13 +2944,13 @@
     }
   },
   {
-    "id": "wxQw5BMJBHs",
-    "title": "Overkill",
+    "id": "wEbThT71R74",
+    "title": "Last Days",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-08-16T04:00:44.000Z",
     "available_at": "2024-08-16T04:00:44.000Z",
-    "duration": 160,
+    "duration": 243,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
@@ -3822,7 +3818,7 @@
       "org": "Hololive",
       "suborg": "fa4th Generation (holoForce)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/O7m_5HMY_O8yxR3Jhn9cEO1fLNL_GifMERExnAmfY7JrdTRsTjNijTcNYTPN97Llj3zGn8Susw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
     }
   },
