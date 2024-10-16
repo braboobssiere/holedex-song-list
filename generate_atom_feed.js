@@ -137,8 +137,8 @@ async function fetchAllVideos(topics) {
       const videos = await fetchVideos(topic);
       Array.prototype.push.apply(allVideos, videos); 
       // Join arrays
-      await new Promise(resolve => setTimeout(resolve, 1000)); 
-      // Wait for 1 second
+      await new Promise(resolve => setTimeout(resolve, 5000)); 
+      // Wait for 5 second
     } catch (error) {
       console.error(error);
     }
