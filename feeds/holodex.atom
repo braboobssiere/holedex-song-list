@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-19T13:16:04.260Z</updated>
+  <updated>2024-10-19T14:09:13.026Z</updated>
 
   <entry>
     <id>urn:uuid:332b73c9-8f50-5fc1-bc63-3a7320788b05</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q7osZZe6naE 【LIVE on &lt;t:1729332268:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q7osZZe6naE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2d314459-8b93-50c1-9600-7785ab97d9d2</id>
+    <title><![CDATA[【歌枠】気分はカラオケ🎵本当に5億年ぶりの歌【ホロライブ/紫咲シオン】]]></title>
+    <link href="https://youtu.be/mbwVca7DT2g" rel="alternate" type="text/html"/>
+    <published>2024-10-19T09:04:43.000Z</published>
+    <updated>2024-10-19T09:04:43.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mbwVca7DT2g 【LIVE on &lt;t:1729346474:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mbwVca7DT2g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -174,20 +188,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
     <title><![CDATA[I I I]]></title>
     <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
@@ -199,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -927,20 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1vq_KqayoQY 【LIVE on &lt;t:1727442027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1vq_KqayoQY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a34cb0c8-380f-547c-b768-8a47a5c10631</id>
-    <title><![CDATA[【歌枠】80万人ありがとう3Dライブ直前オリ曲復習ちょい雑談枠【儒烏風亭らでん #ReGLOSS 】]]></title>
-    <link href="https://youtu.be/yVP-KzW4Mgw" rel="alternate" type="text/html"/>
-    <published>2024-09-27T13:00:21.000Z</published>
-    <updated>2024-09-27T13:00:21.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yVP-KzW4Mgw 【LIVE on &lt;t:1727436684:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yVP-KzW4Mgw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
