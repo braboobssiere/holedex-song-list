@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-19T00:50:13.857Z</updated>
+  <updated>2024-10-19T02:11:58.641Z</updated>
 
   <entry>
     <id>urn:uuid:7d2850b5-aba3-5d2c-8033-43a0bffff8d9</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4Dqti98_E7A 【LIVE on &lt;t:1729256407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4Dqti98_E7A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b9d4bccf-3a97-5524-8597-34451d1a474c</id>
+    <title><![CDATA[[New ASMR Voice Pack] Every Day with FUWAMOCO]]></title>
+    <link href="https://youtu.be/emdp-jYKJf8" rel="alternate" type="text/html"/>
+    <published>2024-10-18T11:46:47.000Z</published>
+    <updated>2024-10-18T11:46:47.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=emdp-jYKJf8 【LIVE on &lt;t:1729306800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/emdp-jYKJf8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2397,20 +2411,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=QvPIESJna14 【LIVE on &lt;t:1709802007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QvPIESJna14/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6a915002-aebe-535a-9fc7-fff4d1e57bac</id>
-    <title><![CDATA[【無料/KU100】🔴ぺこーらありがとうASMR✨一緒に温泉旅行、いかがですか?♨ ※兎田ぺこら専用ボイスです【天音かなた、AZKi、沙花叉クロヱ/ホロライブ】]]></title>
-    <link href="https://youtu.be/3sg9J3cg0YM" rel="alternate" type="text/html"/>
-    <published>2024-03-06T11:31:18.000Z</published>
-    <updated>2024-03-06T11:31:18.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3sg9J3cg0YM 【LIVE on &lt;t:1709724678:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3sg9J3cg0YM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
