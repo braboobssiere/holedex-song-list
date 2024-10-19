@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-19T09:10:42.490Z</updated>
+  <updated>2024-10-19T10:10:21.738Z</updated>
+
+  <entry>
+    <id>urn:uuid:37a96883-23b3-5ef9-ad30-2037e1c1b081</id>
+    <title><![CDATA[【歌枠】最強かわいいアイドル曲うたう!♡【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/q7osZZe6naE" rel="alternate" type="text/html"/>
+    <published>2024-10-19T09:48:58.000Z</published>
+    <updated>2024-10-19T09:48:58.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=q7osZZe6naE 【LIVE on &lt;t:1729332268:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q7osZZe6naE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b9d4bccf-3a97-5524-8597-34451d1a474c</id>
@@ -132,6 +146,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
     <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
     <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
@@ -157,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -927,20 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sTxcH54jhPk 【LIVE on &lt;t:1727406027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sTxcH54jhPk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:de7cd8cd-3d75-5a0d-8c4c-4c501fecfc59</id>
-    <title><![CDATA[【バラード歌枠】お久しぶりのお歌です【ホロライブ/大神ミオ】]]></title>
-    <link href="https://youtu.be/KLU1Zn6_u_w" rel="alternate" type="text/html"/>
-    <published>2024-09-26T15:48:11.000Z</published>
-    <updated>2024-09-26T15:48:11.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KLU1Zn6_u_w 【LIVE on &lt;t:1727359208:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KLU1Zn6_u_w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
