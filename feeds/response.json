@@ -46,7 +46,7 @@
     "published_at": "2024-10-20T02:21:55.000Z",
     "available_at": "2024-10-20T23:59:59.000Z",
     "duration": 6406,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 20
     },
@@ -993,6 +993,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "MyA_K-awSoU",
+    "title": "【1st ASMR VOICEPACK AFTERPARTY】comfy fluffy and fuzzy everyday 🐾🫧 【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-10-21T13:44:34.000Z",
+    "available_at": "2024-10-23T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -1951,25 +1970,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "QvPIESJna14",
-    "title": "【超極秘】爆裂沸騰作戦-作戦伝達記録~※ASMR音声を含むためヘッドフォン視聴がオススメです~【ラプラス・ダークネス&博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-03-07T09:00:07.000Z",
-    "available_at": "2024-03-07T09:00:07.000Z",
-    "duration": 203,
-    "status": "past",
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
