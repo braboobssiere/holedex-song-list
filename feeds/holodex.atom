@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-22T09:12:02.266Z</updated>
+  <updated>2024-10-22T10:12:00.693Z</updated>
+
+  <entry>
+    <id>urn:uuid:9a7d2889-4e6b-5549-96a0-53fbc134b1af</id>
+    <title><![CDATA[「B'z」定期歌枠の時期がやってきたのら~🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/R4LfuU0ZHnk" rel="alternate" type="text/html"/>
+    <published>2024-10-22T09:36:26.000Z</published>
+    <updated>2024-10-22T09:36:26.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R4LfuU0ZHnk 【LIVE on &lt;t:1729598400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R4LfuU0ZHnk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:09a4e36e-0ebe-5ec3-a5f6-91b5965fcc08</id>
+    <title><![CDATA[【歌雑談】すきな歌をうたう枠です【ホロライブ/大神ミオ】]]></title>
+    <link href="https://youtu.be/9ruL_sz6SsA" rel="alternate" type="text/html"/>
+    <published>2024-10-22T08:57:53.000Z</published>
+    <updated>2024-10-22T08:57:53.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9ruL_sz6SsA 【LIVE on &lt;t:1729587747:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ruL_sz6SsA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b8fca69f-8057-5fa4-a0aa-3c92bb510b41</id>
@@ -20,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:749392b0-e4f5-5d04-b6b2-7b6bc7c229f4</id>
+    <title><![CDATA[≪KARAOKE・歌枠≫ lil sing BIG ANNOUNCEMENT]]></title>
+    <link href="https://youtu.be/yPNvH6xvcos" rel="alternate" type="text/html"/>
+    <published>2024-10-21T05:52:32.000Z</published>
+    <updated>2024-10-21T05:52:32.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yPNvH6xvcos 【LIVE on &lt;t:1729479641:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yPNvH6xvcos/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e4ff74ad-64c0-5ddc-86f3-bf70a4a67d40</id>
     <title><![CDATA[REBROADCAST = 【UNARCHIVED KARAOKE】L O V E ~! 💄]]></title>
     <link href="https://youtu.be/1AqJ4cJpC_4" rel="alternate" type="text/html"/>
@@ -31,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1AqJ4cJpC_4 【LIVE on &lt;t:1729504651:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1AqJ4cJpC_4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:749392b0-e4f5-5d04-b6b2-7b6bc7c229f4</id>
-    <title><![CDATA[≪KARAOKE・歌枠≫ lil sing BIG ANNOUNCEMENT]]></title>
-    <link href="https://youtu.be/yPNvH6xvcos" rel="alternate" type="text/html"/>
-    <published>2024-10-20T10:10:34.000Z</published>
-    <updated>2024-10-20T10:10:34.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yPNvH6xvcos 【LIVE on &lt;t:1729479641:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yPNvH6xvcos/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -202,20 +230,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
     <title><![CDATA[I I I]]></title>
     <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
@@ -241,6 +255,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -885,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UmN7Fr_Kf-8 【LIVE on &lt;t:1727701231:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UmN7Fr_Kf-8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ec58280b-87ee-5796-b896-ea3095b935ae</id>
-    <title><![CDATA[【KARAOKE】ようこそ、はあちゃまクルーズの旅へ!🚢【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/tGE8zK25Lho" rel="alternate" type="text/html"/>
-    <published>2024-09-29T17:38:42.000Z</published>
-    <updated>2024-09-29T17:38:42.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tGE8zK25Lho 【LIVE on &lt;t:1727622499:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tGE8zK25Lho/maxresdefault.jpg"/>
   </entry>
 
   <entry>
