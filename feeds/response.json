@@ -25,8 +25,9 @@
     "topic_id": "singing",
     "published_at": "2024-10-22T08:57:53.000Z",
     "available_at": "2024-10-22T09:02:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5849,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -2075,6 +2076,27 @@
     }
   },
   {
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 275,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "V6a1pbqlXVw",
     "title": "I I I",
     "type": "stream",
@@ -2103,27 +2125,6 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 256,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -5007,6 +5008,25 @@
     }
   },
   {
+    "id": "PiCgcVcdXQw",
+    "title": "【雑談&スパチャ御礼枠 】#律可5周年記念 のこと!【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-10-22T10:35:36.000Z",
+    "available_at": "2024-10-22T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "fvmlqrcFaNE",
     "title": "【#律可5周年記念 】告知もあり!凸待ち!!!【律可/ホロスターズ】#りつすた",
     "type": "stream",
@@ -5991,26 +6011,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "1-JGHOWdZBg",
-    "title": "【ONE YEAR ANNIVERSARY】OFF COLLAB KARAOKE PARTY WITH ??? GUESTS!",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-07-31T04:14:26.000Z",
-    "available_at": "2024-07-31T02:01:43.000Z",
-    "duration": 7523,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
