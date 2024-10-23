@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-23T14:11:17.569Z</updated>
+  <updated>2024-10-23T15:11:42.954Z</updated>
+
+  <entry>
+    <id>urn:uuid:59a1a310-255b-59d8-9035-7a884ea084e6</id>
+    <title><![CDATA[【 ASMR 】眠れる読み聞かせ📚Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/5f9v8M1reec" rel="alternate" type="text/html"/>
+    <published>2024-10-23T13:44:58.000Z</published>
+    <updated>2024-10-23T13:44:58.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5f9v8M1reec 【LIVE on &lt;t:1729695785:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5f9v8M1reec/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8c44bf86-ce39-598b-ab13-0719a828400b</id>
@@ -2397,20 +2411,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NITuL2SPvjg 【LIVE on &lt;t:1711541109:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NITuL2SPvjg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e8ccde6f-5afe-5bb0-9e26-53f81322c078</id>
-    <title><![CDATA[【  ASMR 】明日の為に絶対眠りたい人向けASMR  Brahma ear pick/slime massage/whispering voice 【 猫又おかゆ/ホロライブ 】]]></title>
-    <link href="https://youtu.be/nj3P99skBa0" rel="alternate" type="text/html"/>
-    <published>2024-03-15T14:57:23.000Z</published>
-    <updated>2024-03-15T14:57:23.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nj3P99skBa0 【LIVE on &lt;t:1710507704:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nj3P99skBa0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
