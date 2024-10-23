@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-23T06:16:02.239Z</updated>
+  <updated>2024-10-23T07:11:11.745Z</updated>
+
+  <entry>
+    <id>urn:uuid:8c44bf86-ce39-598b-ab13-0719a828400b</id>
+    <title><![CDATA[【 歌枠 】急げ!世間は平成ブームらしい😸三【 猫又おかゆ/ホロライブ 】]]></title>
+    <link href="https://youtu.be/_d7PWvrBwIw" rel="alternate" type="text/html"/>
+    <published>2024-10-23T06:54:35.000Z</published>
+    <updated>2024-10-23T06:54:35.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_d7PWvrBwIw 【LIVE on &lt;t:1729688400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_d7PWvrBwIw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:44c717e0-1a87-52fe-a5cf-7348e29fbe06</id>
@@ -230,20 +244,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
     <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
     <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
@@ -255,6 +255,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
