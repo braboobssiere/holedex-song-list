@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-23T15:11:42.954Z</updated>
+  <updated>2024-10-23T16:13:48.684Z</updated>
 
   <entry>
     <id>urn:uuid:59a1a310-255b-59d8-9035-7a884ea084e6</id>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:8c44bf86-ce39-598b-ab13-0719a828400b</id>
-    <title><![CDATA[【 歌枠 】急げ!世間は平成ブームらしい😸三【 猫又おかゆ/ホロライブ 】]]></title>
+    <title><![CDATA[【 歌枠 】急げ！世間は平成ブームらしい😸三【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/_d7PWvrBwIw" rel="alternate" type="text/html"/>
     <published>2024-10-23T06:54:35.000Z</published>
     <updated>2024-10-23T06:54:35.000Z</updated>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:09a4e36e-0ebe-5ec3-a5f6-91b5965fcc08</id>
+    <title><![CDATA[【歌雑談】すきな歌をうたう枠です【ホロライブ/大神ミオ】]]></title>
+    <link href="https://youtu.be/9ruL_sz6SsA" rel="alternate" type="text/html"/>
+    <published>2024-10-22T10:46:08.000Z</published>
+    <updated>2024-10-22T10:46:08.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9ruL_sz6SsA 【LIVE on &lt;t:1729587747:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ruL_sz6SsA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9a7d2889-4e6b-5549-96a0-53fbc134b1af</id>
     <title><![CDATA[「B'z」定期歌枠の時期がやってきたのら～🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/R4LfuU0ZHnk" rel="alternate" type="text/html"/>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R4LfuU0ZHnk 【LIVE on &lt;t:1729598384:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R4LfuU0ZHnk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:09a4e36e-0ebe-5ec3-a5f6-91b5965fcc08</id>
-    <title><![CDATA[【歌雑談】すきな歌をうたう枠です【ホロライブ/大神ミオ】]]></title>
-    <link href="https://youtu.be/9ruL_sz6SsA" rel="alternate" type="text/html"/>
-    <published>2024-10-22T08:57:53.000Z</published>
-    <updated>2024-10-22T08:57:53.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9ruL_sz6SsA 【LIVE on &lt;t:1729587747:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ruL_sz6SsA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -272,20 +272,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
-    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
-    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
     <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
     <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
@@ -311,6 +297,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
+    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
+    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
