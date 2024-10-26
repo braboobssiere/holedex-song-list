@@ -26,7 +26,7 @@
     "published_at": "2024-10-26T04:06:59.000Z",
     "available_at": "2024-10-26T04:47:24.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC3n5uGu18FoCy23ggWWp8tA",
       "name": "Nanashi Mumei Ch. hololive-EN",
@@ -2090,13 +2090,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2111,13 +2111,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -6008,14 +6008,36 @@
     }
   },
   {
+    "id": "zZhyeaw148k",
+    "title": "≪3D PERFORMANCE LIVE≫ #CHU2BAE",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-10-25T05:13:15.000Z",
+    "available_at": "2024-10-27T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "mVmWmkHltak",
     "title": "【チラ見せ枠】さくらみこ1st Live \"flower fantasista!\"【#咲き誇るみこち】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-10-24T11:37:01.000Z",
-    "available_at": "2024-10-26T08:30:00.000Z",
+    "available_at": "2024-10-26T08:30:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -6981,25 +7003,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MzN3nqf5wjiJkPi8ZdvyqhU5BiwBaUpOJ9TuU7Rq3wb547j6sMbzTpl0qK9HfC_I_vaJ8g9u3w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Josuiji Shinri"
-    }
-  },
-  {
-    "id": "MQs7UNjf2aE",
-    "title": "【Tengu Talk】SHOW ME YOUR MOVES!【MOCOPI】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-06-16T18:03:10.000Z",
-    "available_at": "2024-06-16T14:00:05.000Z",
-    "duration": 5476,
-    "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   }
 ]
