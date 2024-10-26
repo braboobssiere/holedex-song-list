@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-26T15:10:41.828Z</updated>
+  <updated>2024-10-26T16:12:05.874Z</updated>
+
+  <entry>
+    <id>urn:uuid:4c447e45-abe8-5667-b022-7c68d8e4a0e5</id>
+    <title><![CDATA[2ヶ月ぶりのエレクトーン練習で癒されるがいいのら!!!🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/egINPf12ZOM" rel="alternate" type="text/html"/>
+    <published>2024-10-26T13:17:07.000Z</published>
+    <updated>2024-10-26T13:17:07.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=egINPf12ZOM 【LIVE on &lt;t:1730016000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/egINPf12ZOM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:da0181be-f6fa-57b4-a02f-4225a95e522a</id>
@@ -356,6 +370,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
+    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
+    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
     <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
     <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
@@ -381,20 +409,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
-    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
-    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
