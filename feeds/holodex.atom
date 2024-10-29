@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-29T13:20:54.888Z</updated>
+  <updated>2024-10-29T14:11:19.703Z</updated>
+
+  <entry>
+    <id>urn:uuid:9a2a66b6-2a83-5843-95b1-9b5399e99bd9</id>
+    <title><![CDATA[【 歌枠 】ハロウィンゲリラ隊🎃ハロウィンっぽい歌をうたお~~~!!【ホロライブ / ロボ子さん】]]></title>
+    <link href="https://youtu.be/nwwJjxwOBsQ" rel="alternate" type="text/html"/>
+    <published>2024-10-29T13:47:45.000Z</published>
+    <updated>2024-10-29T13:47:45.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nwwJjxwOBsQ 【LIVE on &lt;t:1730210421:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nwwJjxwOBsQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cbe75a61-9520-5b3c-b5e0-383b924a574f</id>
@@ -454,20 +468,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
-    <title><![CDATA[I I I]]></title>
-    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
     <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
     <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
@@ -479,6 +479,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
+    <title><![CDATA[I I I]]></title>
+    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -913,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R4jAuYzuQRk 【LIVE on &lt;t:1728052179:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R4jAuYzuQRk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:519d0fe9-18dd-5e08-8171-a5aff94e3d43</id>
-    <title><![CDATA[【歌枠/KARAOKE】機材新調&歌ってみた記念歌枠~!【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/Vz_EbAIbjIA" rel="alternate" type="text/html"/>
-    <published>2024-10-04T13:04:02.000Z</published>
-    <updated>2024-10-04T13:04:02.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vz_EbAIbjIA 【LIVE on &lt;t:1728043298:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vz_EbAIbjIA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
