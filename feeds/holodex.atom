@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-10-29T23:11:18.691Z</updated>
+  <updated>2024-10-30T00:51:48.201Z</updated>
 
   <entry>
     <id>urn:uuid:9a2a66b6-2a83-5843-95b1-9b5399e99bd9</id>
@@ -49,7 +49,7 @@
 
   <entry>
     <id>urn:uuid:7120959d-f426-5e41-8eda-b69151e05b2f</id>
-    <title><![CDATA[【歌枠】４か月くらいぶりに歌う！お披露目もしちゃう【不知火フレア/ホロライブ】]]></title>
+    <title><![CDATA[【歌枠】4か月くらいぶりに歌う!お披露目もしちゃう【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/tlKRzAiOm5w" rel="alternate" type="text/html"/>
     <published>2024-10-28T18:48:01.000Z</published>
     <updated>2024-10-28T18:48:01.000Z</updated>
@@ -482,20 +482,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
-    <title><![CDATA[I I I]]></title>
-    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
     <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
     <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
@@ -507,6 +493,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
+    <title><![CDATA[I I I]]></title>
+    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
