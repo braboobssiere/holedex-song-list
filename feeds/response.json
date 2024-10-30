@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "EvRNGbJmLWo",
+    "title": "【歌枠】22時の歌ってみた公開前に歌うよ〜ッ🎤🎶【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-16T03:26:23.000Z",
+    "available_at": "2024-10-31T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "eCRlwq_rpM8",
     "title": "【KARAOKE / 歌枠】Halloween Unarchived Karaoke before NEW SONG COVER! :D",
     "type": "stream",
@@ -62,9 +81,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T20:22:25.000Z",
-    "available_at": "2024-10-30T23:00:00.000Z",
+    "available_at": "2024-10-30T23:00:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -82,8 +101,8 @@
     "topic_id": "singing",
     "published_at": "2024-10-30T01:30:46.000Z",
     "available_at": "2024-10-30T20:59:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6790,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -969,26 +988,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "nmz8W4AND5o",
-    "title": "【弾き語り枠】秋がくる【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-08T15:19:44.000Z",
-    "available_at": "2024-10-08T14:00:59.000Z",
-    "duration": 3855,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -2173,13 +2172,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2194,13 +2193,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
