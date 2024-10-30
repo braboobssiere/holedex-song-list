@@ -1003,9 +1003,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-10-30T01:43:26.000Z",
-    "available_at": "2024-10-30T13:00:00.000Z",
+    "available_at": "2024-10-30T13:00:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 32
+    },
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
