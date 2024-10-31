@@ -62,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T14:10:33.000Z",
-    "available_at": "2024-10-31T02:30:00.000Z",
+    "available_at": "2024-10-31T02:30:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -96,7 +96,7 @@
   },
   {
     "id": "2uZK1aA-bIg",
-    "title": "target 12 1#shorts",
+    "title": "target 121#shorts",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T13:24:49.000Z",
@@ -187,6 +187,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/IU7hPSrqpET8vB5HWKnueKfXnjLFG8OvUn3U_bnJn2l2OrIQy6JZPz5hTEqCInQZ-xZJXUwS=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Utsugi Uyu"
+    }
+  },
+  {
+    "id": "YAP37Uwghhs",
+    "title": "ALIEN STAGE BATTLE KARAOKE with guests!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-30T14:27:21.000Z",
+    "available_at": "2024-10-30T13:32:22.000Z",
+    "duration": 2926,
+    "status": "past",
+    "channel": {
+      "id": "UCrIs26bEKOvA_lRnO2Hgscw",
+      "name": "Unnämed",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bPLPd81HaVZYBHtaFjJm0V6lrEs8E1Dh80NaUvKB-FY0qdrOLh5L6po9YgKjtgNTEDokktYKs6o=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Unnamed"
     }
   },
   {
@@ -962,29 +981,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "-9CTtbMw8mU",
-    "title": "【歌枠】縦じゃない!!ボイトレ帰りの歌枠!!コラボの話とかも~~~!する!【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-11T12:00:44.000Z",
-    "available_at": "2024-10-11T10:02:41.000Z",
-    "duration": 6676,
-    "status": "past",
-    "songcount": 7,
-    "live_tl_count": {
-      "en": 64
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -2148,6 +2144,27 @@
     }
   },
   {
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 188,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "U9X6hVgIib8",
     "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
@@ -2176,27 +2193,6 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 275,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -6031,8 +6027,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2024-10-27T08:28:37.000Z",
     "available_at": "2024-10-31T00:56:36.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6624,
+    "status": "past",
     "channel": {
       "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "name": "Shiori Novella Ch. hololive-EN",
