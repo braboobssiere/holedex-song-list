@@ -57,14 +57,33 @@
     }
   },
   {
+    "id": "XmCBb8votYE",
+    "title": "REBROADCAST A =【SHOW】A TRIBUTE TO THE 60s ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-30T23:42:40.000Z",
+    "available_at": "2024-10-31T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "jM3LdNLwnwM",
     "title": "Happy (almost) Halloween~ | Unarchived Karaoke",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T03:43:36.000Z",
-    "available_at": "2024-10-31T00:00:00.000Z",
+    "available_at": "2024-10-30T23:54:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -968,26 +987,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "7K5lUvMrjik",
-    "title": "【111万人耐久歌枠】1,111,111人目指して歌う!!!!!カラオケJOYSOUND for STREAMER / SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-09T12:29:38.000Z",
-    "available_at": "2024-10-09T10:02:02.000Z",
-    "duration": 7917,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -2151,27 +2150,6 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
     "id": "V6a1pbqlXVw",
     "title": "I I I",
     "type": "stream",
@@ -2200,6 +2178,27 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 256,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
