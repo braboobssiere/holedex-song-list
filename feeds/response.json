@@ -1963,6 +1963,25 @@
     }
   },
   {
+    "id": "Wr10_8s_yAQ",
+    "title": "【オリジナル曲】ENDLESS FES【ホロライブ/夏色まつり/ FAKE TYPE.】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-01T12:15:06.000Z",
+    "available_at": "2024-11-01T12:15:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "cvZLGAIy6qc",
     "title": "【MV】FLASH BANG - Mori Calliope × PES ( Produced by PES )",
     "type": "stream",
@@ -2208,13 +2227,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2229,13 +2248,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2962,26 +2981,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "6pY67sEsNWA",
-    "title": "【1周年記念 初オリ曲】今日も大天才っ!【一条莉々華/hololive DEV_IS ReGLOSS】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-09-09T10:55:06.000Z",
-    "available_at": "2024-09-09T10:55:06.000Z",
-    "duration": 198,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -3989,8 +3988,11 @@
     "topic_id": "Birthday",
     "published_at": "2024-10-26T13:24:25.000Z",
     "available_at": "2024-11-01T10:58:56.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3212,
+    "status": "past",
+    "live_tl_count": {
+      "en": 34
+    },
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
