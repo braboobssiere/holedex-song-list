@@ -1,24 +1,5 @@
 [
   {
-    "id": "tfMyS8gqR0c",
-    "title": "SING, yes?",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-03T12:14:50.000Z",
-    "available_at": "2024-11-03T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
     "id": "-zXFSjds3Hk",
     "title": "【うたわく】📛幼児向け歌枠📛【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -988,14 +969,33 @@
     }
   },
   {
+    "id": "GWHB97dD2H0",
+    "title": "【UNARCHIVED】STRONGEST IDOL KARAOKE♪♪♪",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-13T00:14:58.000Z",
+    "available_at": "2024-10-13T00:32:04.000Z",
+    "duration": 6025,
+    "status": "missing",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "WTFWi7ymYEE",
     "title": "【安眠】肌寒い秋の夜長に♡お耳と心がポカポカする癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-11-02T13:23:15.000Z",
-    "available_at": "2024-11-03T14:00:00.000Z",
+    "available_at": "2024-11-03T14:00:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -2209,13 +2209,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2230,13 +2230,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
