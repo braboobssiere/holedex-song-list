@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-03T11:09:38.681Z</updated>
+  <updated>2024-11-03T12:18:32.992Z</updated>
+
+  <entry>
+    <id>urn:uuid:7c90c448-8a3a-553d-b514-12d4c97590d5</id>
+    <title><![CDATA[SING, yes?]]></title>
+    <link href="https://youtu.be/tfMyS8gqR0c" rel="alternate" type="text/html"/>
+    <published>2024-11-03T12:14:50.000Z</published>
+    <updated>2024-11-03T12:14:50.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tfMyS8gqR0c 【LIVE on &lt;t:1730642400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tfMyS8gqR0c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f090e1a4-4c2e-51ed-b33e-a2a081a2d01c</id>
@@ -29,7 +43,7 @@
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-zXFSjds3Hk 【LIVE on &lt;t:1730635200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-zXFSjds3Hk 【LIVE on &lt;t:1730635201:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-zXFSjds3Hk/maxresdefault.jpg"/>
   </entry>
 
@@ -664,20 +678,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
-    <title><![CDATA[I I I]]></title>
-    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
     <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
     <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
@@ -703,6 +703,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
+    <title><![CDATA[I I I]]></title>
+    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
