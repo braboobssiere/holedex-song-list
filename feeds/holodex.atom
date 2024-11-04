@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-04T11:11:26.504Z</updated>
+  <updated>2024-11-04T12:21:35.700Z</updated>
+
+  <entry>
+    <id>urn:uuid:dca2b8f4-a654-5097-bc25-7511b01b0b48</id>
+    <title><![CDATA[【KARA-REWIND】October Unarchived Karaoke ~! 💄]]></title>
+    <link href="https://youtu.be/N-RW65x-h2I" rel="alternate" type="text/html"/>
+    <published>2024-11-04T11:49:07.000Z</published>
+    <updated>2024-11-04T11:49:07.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N-RW65x-h2I 【LIVE on &lt;t:1730725200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-RW65x-h2I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2a37327e-aad4-5a36-9846-7bd7b6ae65ff</id>
+    <title><![CDATA[≪Midnight Monday Radio≫ Episode 9 #shorts]]></title>
+    <link href="https://youtu.be/UxvmtB-G-SI" rel="alternate" type="text/html"/>
+    <published>2024-11-04T10:48:10.000Z</published>
+    <updated>2024-11-04T10:48:10.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UxvmtB-G-SI 【LIVE on &lt;t:1730732400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UxvmtB-G-SI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:703ffc6a-3786-58fc-8a94-12d5cb042d50</id>
+    <title><![CDATA[僕らの星座/白上フブキ(FBKINGDOM国歌 )]]></title>
+    <link href="https://youtu.be/_PGibD1oEYM" rel="alternate" type="text/html"/>
+    <published>2024-11-03T15:11:42.000Z</published>
+    <updated>2024-11-03T15:11:42.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_PGibD1oEYM 【LIVE on &lt;t:1730723400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_PGibD1oEYM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b6cc1a74-ab6d-5095-a559-82b26bf4c33c</id>
@@ -678,20 +720,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
-    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
-    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
     <title><![CDATA[I I I]]></title>
     <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
@@ -703,6 +731,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
+    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
+    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1445,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wy9mkQc10V4 【LIVE on &lt;t:1725894064:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wy9mkQc10V4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9e4e66cf-998c-517c-acb2-4fd2e5eabb0c</id>
-    <title><![CDATA[ヤミヤムヤミ]]></title>
-    <link href="https://youtu.be/naWXWv3NnlI" rel="alternate" type="text/html"/>
-    <published>2024-09-09T15:01:01.000Z</published>
-    <updated>2024-09-09T15:01:01.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=naWXWv3NnlI 【LIVE on &lt;t:1725894061:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/naWXWv3NnlI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
