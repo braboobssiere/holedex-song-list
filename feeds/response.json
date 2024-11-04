@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-04T11:49:07.000Z",
-    "available_at": "2024-11-04T13:00:00.000Z",
+    "available_at": "2024-11-04T12:59:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -1966,14 +1966,33 @@
     }
   },
   {
+    "id": "m2LMJknvyoU",
+    "title": "僕らの星座/白上フブキ(FBKINGDOM国歌 )",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-04T12:45:06.000Z",
+    "available_at": "2024-11-04T12:45:06.000Z",
+    "duration": 251,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
     "id": "_PGibD1oEYM",
     "title": "僕らの星座/白上フブキ(FBKINGDOM国歌 )",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-11-03T15:11:42.000Z",
-    "available_at": "2024-11-04T12:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-11-04T12:30:06.000Z",
+    "available_at": "2024-11-04T12:30:06.000Z",
+    "duration": 79,
+    "status": "past",
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -2229,13 +2248,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2250,13 +2269,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2962,27 +2981,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "wy9mkQc10V4",
-    "title": "ヤミヤムヤミ(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-09-09T15:01:04.000Z",
-    "available_at": "2024-09-09T15:01:04.000Z",
-    "duration": 183,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCqaQaDHPf052uxwKL9bED5w",
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
     }
   },
   {
