@@ -3,20 +3,34 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-05T08:14:39.308Z</updated>
+  <updated>2024-11-05T09:11:53.949Z</updated>
 
   <entry>
     <id>urn:uuid:48c1751e-bb9d-5ca2-9f77-1cce4e4bb32a</id>
     <title><![CDATA[Hikari / 獅白ぼたん【original】]]></title>
     <link href="https://youtu.be/m94ftm-_kcI" rel="alternate" type="text/html"/>
-    <published>2024-11-04T13:22:31.000Z</published>
-    <updated>2024-11-04T13:22:31.000Z</updated>
+    <published>2024-11-05T09:00:06.000Z</published>
+    <updated>2024-11-05T09:00:06.000Z</updated>
     <author>
       <name>Botan Ch.獅白ぼたん</name>
       <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=m94ftm-_kcI 【LIVE on &lt;t:1730797200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=m94ftm-_kcI 【LIVE on &lt;t:1730797206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m94ftm-_kcI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c3b3706b-949b-5a0e-a156-726a04a57430</id>
+    <title><![CDATA[【ASMR】低音ボイスで心地よい癒しを【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/NjFKPQW5sfM" rel="alternate" type="text/html"/>
+    <published>2024-11-05T08:30:13.000Z</published>
+    <updated>2024-11-05T08:30:13.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NjFKPQW5sfM 【LIVE on &lt;t:1730811600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NjFKPQW5sfM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -734,20 +748,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
-    <title><![CDATA[I I I]]></title>
-    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
     <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
     <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
@@ -759,6 +759,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
+    <title><![CDATA[I I I]]></title>
+    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2439,20 +2453,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=amv4Fg3Xqmg 【LIVE on &lt;t:1712545212:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/amv4Fg3Xqmg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f16c4072-963b-5e6d-b91f-d2044160b9a8</id>
-    <title><![CDATA[【ASMR/KU100】耳から摂取する睡眠導入💤ちょっと早めの #国際ASMRの日 を感じて♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/A7Tb4W-ZcII" rel="alternate" type="text/html"/>
-    <published>2024-04-07T16:03:54.000Z</published>
-    <updated>2024-04-07T16:03:54.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=A7Tb4W-ZcII 【LIVE on &lt;t:1712498409:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A7Tb4W-ZcII/maxresdefault.jpg"/>
   </entry>
 
   <entry>
