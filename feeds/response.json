@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-06T04:05:58.000Z",
-    "available_at": "2024-11-06T19:00:00.000Z",
+    "available_at": "2024-11-06T19:01:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -2292,13 +2292,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2313,13 +2313,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3986,6 +3986,25 @@
     }
   },
   {
+    "id": "paI8IDWnnAQ",
+    "title": "【#Jazzeta】Zeta's 3D Jazzeta Show! ♪ 【Vestia Zeta】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-02T13:59:10.000Z",
+    "available_at": "2024-11-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "name": "Vestia Zeta Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/-IdVo-vK7pr0VRjJDdza1-t1Edjce1Rd1R1hon_3SRIzuQ-XVBTWOJj-UfwYPp8y40KM197_y4o=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Vestia Zeta"
+    }
+  },
+  {
     "id": "kh6a6wy3OjA",
     "title": "【Zeta Birthday】Countdown & new accessory reveal!【 #Jazzeta】",
     "type": "stream",
@@ -4985,25 +5004,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "87rItEq0iHE",
-    "title": "【祝お誕生日&3D】ついに3Dをお披露目するときが来ました!【#猫瀬乃しんお誕生日3Dお披露目】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-18T12:20:48.000Z",
-    "available_at": "2024-07-18T11:01:30.000Z",
-    "duration": 3896,
-    "status": "past",
-    "channel": {
-      "id": "UCMxIxoMdtcLkZ1wTq7qjztg",
-      "name": "猫瀬乃しんNekozeno Shin",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EbhNyrLkR-9s5F_gjnuycRvrrQjumxN0Fd2aCATZRlAjdKN5umCb6oClypzTiDW0nbnpO0WyFg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekozeno Shin"
     }
   },
   {
@@ -6020,7 +6020,7 @@
     "published_at": "2024-11-05T23:16:42.000Z",
     "available_at": "2024-11-06T19:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
