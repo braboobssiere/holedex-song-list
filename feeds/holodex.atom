@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-06T00:50:09.063Z</updated>
+  <updated>2024-11-06T02:11:04.930Z</updated>
 
   <entry>
     <id>urn:uuid:62133335-fe95-592b-ac4e-39e203cc0bf3</id>
@@ -73,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=m2LMJknvyoU 【LIVE on &lt;t:1730724306:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m2LMJknvyoU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dca2b8f4-a654-5097-bc25-7511b01b0b48</id>
-    <title><![CDATA[【KARA-REWIND】October Unarchived Karaoke ~! 💄]]></title>
-    <link href="https://youtu.be/N-RW65x-h2I" rel="alternate" type="text/html"/>
-    <published>2024-11-04T11:49:07.000Z</published>
-    <updated>2024-11-04T11:49:07.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=N-RW65x-h2I 【LIVE on &lt;t:1730725163:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-RW65x-h2I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -734,20 +720,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
     <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
     <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
@@ -773,6 +745,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
