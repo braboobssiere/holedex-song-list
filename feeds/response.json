@@ -3991,9 +3991,13 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-05T15:10:37.000Z",
-    "available_at": "2024-11-06T14:30:00.000Z",
+    "available_at": "2024-11-06T14:31:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6,
+      "id": 21
+    },
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
