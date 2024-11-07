@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-07T07:10:34.896Z</updated>
+  <updated>2024-11-07T08:14:24.273Z</updated>
+
+  <entry>
+    <id>urn:uuid:5867c7f1-77fb-557f-9d64-6503aabd6b11</id>
+    <title><![CDATA[僕らの星座/白上フブキ(FBKINGDOM国歌 )]]></title>
+    <link href="https://youtu.be/ppKPaPKlQ3Q" rel="alternate" type="text/html"/>
+    <published>2024-11-07T07:56:03.000Z</published>
+    <updated>2024-11-07T07:56:03.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ppKPaPKlQ3Q 【LIVE on &lt;t:1730970000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ppKPaPKlQ3Q/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f4a73655-2c6d-5fea-9e1c-caf1cb8781f6</id>
@@ -720,20 +734,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6205359e-c931-5d0a-8a3c-0ef519e931d2</id>
-    <title><![CDATA[【歌枠】秋花粉で鼻声?そんなの関係ナッシング!楽しく歌おう🎶【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/nIIHOUqePKU" rel="alternate" type="text/html"/>
-    <published>2024-10-16T13:33:08.000Z</published>
-    <updated>2024-10-16T13:33:08.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nIIHOUqePKU 【LIVE on &lt;t:1729072833:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nIIHOUqePKU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:6df82872-3832-5031-8e9d-15f574f6a749</id>
     <title><![CDATA[コンプレックス♡プリンセス]]></title>
     <link href="https://youtu.be/vcP-TuL8RC8" rel="alternate" type="text/html"/>
@@ -762,20 +762,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
     <title><![CDATA[I I I]]></title>
     <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
@@ -801,6 +787,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:00:27.000Z</published>
+    <updated>2024-10-15T15:00:27.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
