@@ -1,5 +1,24 @@
 [
   {
+    "id": "qaDbNUHldOA",
+    "title": "【KARAOKE】LET'S SING SOME VOCALOID BABY 🎤✨【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-08T21:10:51.000Z",
+    "available_at": "2024-11-09T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "0Dj1Ib2SVZE",
     "title": "【縦型歌枠】しっとり歌枠！雑談もしよ～！【轟はじめ/ReGLOSS】",
     "type": "stream",
@@ -28,7 +47,7 @@
     "available_at": "2024-11-08T10:59:48.000Z",
     "duration": 4314,
     "status": "past",
-    "songcount": 4,
+    "songcount": 6,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -968,26 +987,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V3GVqD-sYadScSd8QYW4x1QTRfu2RyUNyKWVRb0IJxX0gj2PV6xH32d_BJHn3l0fouPLUw6Ref0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Murasaki Shion"
-    }
-  },
-  {
-    "id": "P6azuA0Y3Yo",
-    "title": "【#歌うまスンギ歌枠リレー】荷が重い略してニモ、私ファインディング✊ / アステル・レダ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-19T12:11:00.000Z",
-    "available_at": "2024-10-19T11:27:56.000Z",
-    "duration": 1911,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -1972,10 +1971,10 @@
     "title": "MIRAGE - Takanashi Kiara (Acapella Version)",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-11-08T20:44:20.000Z",
-    "available_at": "2024-11-08T21:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-11-08T21:30:07.000Z",
+    "available_at": "2024-11-08T21:30:07.000Z",
+    "duration": 215,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -2371,27 +2370,6 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
     "id": "Vgipg_bXYwg",
     "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
@@ -2420,6 +2398,27 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 188,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
