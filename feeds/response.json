@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-10T13:51:42.000Z",
     "available_at": "2024-11-10T14:02:02.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9506,
+    "status": "past",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -2366,6 +2366,27 @@
     }
   },
   {
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 275,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "U9X6hVgIib8",
     "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
@@ -2394,27 +2415,6 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 188,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3981,6 +3981,25 @@
     }
   },
   {
+    "id": "X1kklRzyU4Y",
+    "title": "【 #アルランディス生誕祭 】今年もやってまいりました!ゆるっと誕生日3D配信SP【アルランディス/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-10T06:47:03.000Z",
+    "available_at": "2024-11-11T10:58:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
+      "name": "Aruran Ch. アルランディス",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Pr1gcKc8eVnFs4vsRdb_-6tDIGQbtjrckIsHRT5dF3MB44Zu5_yskKVIUlKC455WdeoO3HjZ4cY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Arurandeisu"
+    }
+  },
+  {
     "id": "IY9jogI5F4I",
     "title": "【11月11日】アルランディス誕生日SP #花岸れいでぃお 第65回【花咲みやび/岸堂天真/ホロスターズ】",
     "type": "stream",
@@ -3997,6 +4016,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hanasaki Miyabi"
+    }
+  },
+  {
+    "id": "oUpnHa06738",
+    "title": "Short pre-birthday chats!! Announcing this week! And talking in your ear!!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-10T17:26:01.000Z",
+    "available_at": "2024-11-10T20:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
     }
   },
   {
@@ -4962,44 +5000,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
-    }
-  },
-  {
-    "id": "g4kC2lOvv0E",
-    "title": "【ALENKA BIRTHDAY PARTY】KETEMU #AlenKhodam DISINI!!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-23T16:36:29.000Z",
-    "available_at": "2024-07-23T12:01:08.000Z",
-    "duration": 5564,
-    "status": "past",
-    "channel": {
-      "id": "UCGhCsFMqLK25ntddKGoPQSg",
-      "name": "Alenka Inventra | DigiKagi",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zlbmCtJp3I98zFAV6iKPgcdmmhhQm-SfP3kQuo3z1vcUWzDSrePpR5ogC5RHJKshgC5Pn2Llvjw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Alenka Inventra"
-    }
-  },
-  {
-    "id": "rANmEFiMHVU",
-    "title": "【#夏色まつり新衣装】誕生日に新衣装お披露目✨お知らせあり!【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-22T12:10:03.000Z",
-    "available_at": "2024-07-22T11:00:06.000Z",
-    "duration": 3961,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
