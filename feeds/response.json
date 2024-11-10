@@ -18,6 +18,25 @@
     }
   },
   {
+    "id": "g5vKkS19nq8",
+    "title": "【歌枠】秋がやってきた!重大告知する!!!!!!Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-10T04:55:07.000Z",
+    "available_at": "2024-11-10T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "xaBL5I-Cm5A",
     "title": "【歌枠】全力夜更かしタイムだぁ～！！！💣【赤井はあと/ホロライブ】",
     "type": "stream",
@@ -964,28 +983,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "tF2dUf1tpR0",
-    "title": "【CHRISTMAS KARAOKE REBROADCAST】Nope its still Christmas",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-20T02:21:55.000Z",
-    "available_at": "2024-10-20T23:59:59.000Z",
-    "duration": 6406,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 20
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -2369,6 +2366,27 @@
     }
   },
   {
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 275,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "V6a1pbqlXVw",
     "title": "I I I",
     "type": "stream",
@@ -2397,27 +2415,6 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 256,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",

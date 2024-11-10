@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-10T04:28:06.814Z</updated>
+  <updated>2024-11-10T06:32:03.831Z</updated>
+
+  <entry>
+    <id>urn:uuid:189ff57d-6210-5524-b269-114c9621805e</id>
+    <title><![CDATA[【歌枠】秋がやってきた!重大告知する!!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/g5vKkS19nq8" rel="alternate" type="text/html"/>
+    <published>2024-11-10T04:55:07.000Z</published>
+    <updated>2024-11-10T04:55:07.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g5vKkS19nq8 【LIVE on &lt;t:1731232800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g5vKkS19nq8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a22aa202-386e-57c0-8c77-91ac3775b5ab</id>
