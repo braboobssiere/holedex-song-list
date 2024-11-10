@@ -1,31 +1,13 @@
 [
   {
-    "id": "TfCxv4BqT9g",
-    "title": "【#FLOWGLOW】持ち味は歌とラップ!ホロライブDEV_ISから新ユニット爆誕!!【デビューユニット配信】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-08T06:38:06.000Z",
-    "available_at": "2024-11-10T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypxkfw18lthQENaCFsvuWT5dBtoIkDnFpMc8NASkgwFSospslVrIwt5gFZeq9TerPYeQktoS=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "g5vKkS19nq8",
-    "title": "【歌枠】秋がやってきた!重大告知する!!!!!!Singing Stream【ホロライブ / AZKi】",
+    "title": "【歌枠】秋がやってきた！重大告知する！！！！！！Singing Stream【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-10T04:55:07.000Z",
     "available_at": "2024-11-10T10:01:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3826,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -60,9 +42,9 @@
     "title": "【KARAOKE】LET'S SING SOME VOCALOID BABY 🎤✨【ARCHIVED】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-11-08T21:10:51.000Z",
+    "published_at": "2024-11-09T06:16:57.000Z",
     "available_at": "2024-11-09T02:00:18.000Z",
-    "duration": 14723,
+    "duration": 14717,
     "status": "past",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
@@ -983,6 +965,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
+    }
+  },
+  {
+    "id": "tF2dUf1tpR0",
+    "title": "【CHRISTMAS KARAOKE REBROADCAST】Nope its still Christmas",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-20T02:21:55.000Z",
+    "available_at": "2024-10-20T23:59:59.000Z",
+    "duration": 6406,
+    "status": "missing",
+    "live_tl_count": {
+      "en": 20
+    },
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
@@ -2366,13 +2370,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2408,13 +2412,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2983,14 +2987,14 @@
     }
   },
   {
-    "id": "ggkj0WW4-xU",
+    "id": "XxIkYS9tVUs",
     "title": "guitar practice + figuring this piano thing out",
     "type": "stream",
     "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-10T07:48:48.000Z",
+    "published_at": "2024-11-10T07:47:06.000Z",
     "available_at": "2024-11-10T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -3002,14 +3006,14 @@
     }
   },
   {
-    "id": "XxIkYS9tVUs",
+    "id": "ggkj0WW4-xU",
     "title": "guitar practice + figuring this piano thing out",
     "type": "stream",
     "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-10T07:47:06.000Z",
+    "published_at": "2024-11-10T07:48:48.000Z",
     "available_at": "2024-11-10T13:00:00.000Z",
     "duration": 0,
-    "status": "missing",
+    "status": "upcoming",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -3975,6 +3979,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "IY9jogI5F4I",
+    "title": "【11月11日】アルランディス誕生日SP #花岸れいでぃお 第65回【花咲みやび/岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-10T10:54:59.000Z",
+    "available_at": "2024-11-10T22:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+      "name": "Miyabi Ch. 花咲みやび",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hanasaki Miyabi"
     }
   },
   {
@@ -4969,25 +4992,6 @@
     "published_at": "2024-07-22T12:10:03.000Z",
     "available_at": "2024-07-22T11:00:06.000Z",
     "duration": 3961,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "tdeICNbnFlM",
-    "title": "【カウントダウン】もう少しで誕生日!一緒にお祝いしてくれるよね?【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-21T15:11:56.000Z",
-    "available_at": "2024-07-21T14:30:03.000Z",
-    "duration": 2251,
     "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
