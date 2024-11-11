@@ -19,14 +19,33 @@
     }
   },
   {
+    "id": "Of2Q8NtiW20",
+    "title": "初めての歌枠&雑談 #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-11T09:09:59.000Z",
+    "available_at": "2024-11-11T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "1XzySLZAGsc",
     "title": "【縦型歌枠】そろそろ歌わないとヤバイぜ!だんちょーん!【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T14:23:04.000Z",
-    "available_at": "2024-11-11T09:00:00.000Z",
+    "available_at": "2024-11-11T09:00:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -966,26 +985,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "R4LfuU0ZHnk",
-    "title": "「B'z」定期歌枠の時期がやってきたのら~🎶 KARAOKE【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-22T14:30:16.000Z",
-    "available_at": "2024-10-22T11:59:44.000Z",
-    "duration": 8249,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -2409,13 +2408,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2430,13 +2429,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
