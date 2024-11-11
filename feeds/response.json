@@ -104,7 +104,7 @@
     "published_at": "2024-11-10T13:51:42.000Z",
     "available_at": "2024-11-10T14:02:02.000Z",
     "duration": 9506,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -2450,13 +2450,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2471,13 +2471,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3988,9 +3988,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-11T15:29:02.000Z",
-    "available_at": "2024-11-11T21:00:00.000Z",
+    "available_at": "2024-11-11T21:39:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -4044,9 +4047,9 @@
     "title": "【#アルランディス生誕祭】今年も生まれましたｵｷﾞｬ【アルランディス/ホロスターズ】",
     "type": "stream",
     "topic_id": "Birthday",
-    "published_at": "2024-11-10T13:54:44.000Z",
+    "published_at": "2024-11-10T17:44:31.000Z",
     "available_at": "2024-11-10T14:30:17.000Z",
-    "duration": 11219,
+    "duration": 11208,
     "status": "past",
     "channel": {
       "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
