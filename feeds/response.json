@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-05T12:52:44.000Z",
-    "available_at": "2024-11-12T02:00:00.000Z",
+    "available_at": "2024-11-12T03:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -27,6 +27,7 @@
     "available_at": "2024-11-11T11:00:34.000Z",
     "duration": 7185,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -97,12 +98,12 @@
   },
   {
     "id": "g5vKkS19nq8",
-    "title": "【歌枠】秋がやってきた！重大告知する！！！！！！Singing Stream【ホロライブ / AZKi】",
+    "title": "【歌枠】秋がやってきた!重大告知する!!!!!!Singing Stream【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-11-10T04:55:07.000Z",
+    "published_at": "2024-11-10T11:09:58.000Z",
     "available_at": "2024-11-10T10:01:33.000Z",
-    "duration": 3826,
+    "duration": 3829,
     "status": "past",
     "songcount": 9,
     "channel": {
@@ -994,8 +995,8 @@
     "topic_id": "asmr",
     "published_at": "2024-11-09T17:07:49.000Z",
     "available_at": "2024-11-11T13:30:12.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9633,
+    "status": "past",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -2406,27 +2407,6 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
     "id": "U9X6hVgIib8",
     "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
@@ -2455,6 +2435,27 @@
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
     "duration": 275,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3980,6 +3981,25 @@
     }
   },
   {
+    "id": "Vu2WsylPAL4",
+    "title": "BIRTHDAY STREAM!!! Reveals!!! Hololive cameos! SPECIAL THINGS!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-11T15:29:02.000Z",
+    "available_at": "2024-11-11T21:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
     "id": "X1kklRzyU4Y",
     "title": "【 #アルランディス生誕祭 】今年もやってまいりました！ゆるっと誕生日3D配信SP【アルランディス/ホロスターズ】",
     "type": "stream",
@@ -4972,25 +4992,6 @@
     "live_tl_count": {
       "en": 54
     },
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
-    "id": "bnDb0-S_M7s",
-    "title": "【 #水無世燐央生誕祭2024 前夜祭 】今年の誕生日もみんなと迎えたい!【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-25T16:40:59.000Z",
-    "available_at": "2024-07-25T13:59:42.000Z",
-    "duration": 9184,
-    "status": "past",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
