@@ -149,10 +149,16 @@ async function fetchAllVideos(topics) {
   fs.writeFileSync(jsonOutputPath, JSON.stringify(allVideos, null, 2), 'utf8');
   console.log('Combined JSON response saved successfully at', jsonOutputPath);
 
-// Sort videos by published date (descending) and then by duration (shorter first)
+// Sort videos by published date (descending) and then by id 
 allVideos.sort((a, b) => {
-  const dateComparison = new Date(b.published_at) - new Date(a.published_at);
-  return dateComparison || a.duration - b.duration;
+  const dateA = new Date(a.published_at).getTime();
+  const dateB = new Date(b.published_at).getTime();
+  const dateComparison = dateB - dateA;
+  if (dateComparison !== 0) {
+    return dateComparison;  
+  } else {
+    return a.id.localeCompare(b.id);  
+  }
 });
 
   // Generate the Atom feed
