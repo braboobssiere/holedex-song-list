@@ -152,10 +152,7 @@ async function fetchAllVideos(topics) {
 // Sort videos by published date (descending) and then by ID (ascending)
 allVideos.sort((a, b) => {
   const dateComparison = new Date(b.published_at) - new Date(a.published_at);
-  if (dateComparison !== 0) {
-    return dateComparison; 
-  }
-  return a.id.localeCompare(b.id); 
+  return dateComparison || b.id.localeCompare(a.id);
 });
 
   // Generate the Atom feed
