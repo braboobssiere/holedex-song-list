@@ -1,5 +1,24 @@
 [
   {
+    "id": "6S0dtcBi7Mk",
+    "title": "【初歌枠】ニコたんの好きな曲歌う!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-10T15:58:30.000Z",
+    "available_at": "2024-11-12T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "s5NJ2y7lOTg",
     "title": "【NEW 3D KARAOKE】Reaper Singing Many Songs! For Who? For YOU! #calliolive",
     "type": "stream",
@@ -967,25 +986,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "2Jzeov7s1qU",
-    "title": "【UNARCHIVED KARAOKE】comfy sing song",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-22T23:07:50.000Z",
-    "available_at": "2024-10-23T02:00:26.000Z",
-    "duration": 7450,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
@@ -2429,13 +2429,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2471,13 +2471,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
