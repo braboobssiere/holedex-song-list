@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-11T09:09:59.000Z",
-    "available_at": "2024-11-11T11:00:00.000Z",
+    "available_at": "2024-11-11T11:00:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -39,13 +39,13 @@
   },
   {
     "id": "1XzySLZAGsc",
-    "title": "【縦型歌枠】そろそろ歌わないとヤバイぜ!だんちょーん!【白銀ノエル/ホロライブ】",
+    "title": "【縦型歌枠】そろそろ歌わないとヤバイぜ！だんちょーん！【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T14:23:04.000Z",
     "available_at": "2024-11-11T09:00:20.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9280,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -1965,14 +1965,33 @@
     }
   },
   {
+    "id": "8fSdl2kWrHg",
+    "title": "【Original Song】Multiverse【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-11T07:01:03.000Z",
+    "available_at": "2024-11-11T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "HIu7WghQl_Q",
     "title": "響咲リオナOP FIRST SONG beat.Lil'Yukichi",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2024-11-10T05:53:15.000Z",
-    "available_at": "2024-11-11T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2024-11-11T12:00:11.000Z",
+    "available_at": "2024-11-11T12:00:11.000Z",
+    "duration": 64,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2408,13 +2427,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2429,13 +2448,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2960,26 +2979,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "K_IsIE1TS8U",
-    "title": "【オリジナル曲】ホットダック!【ホロライブ/大空スバル】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-09-16T13:15:07.000Z",
-    "available_at": "2024-09-16T13:15:07.000Z",
-    "duration": 143,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
@@ -3982,13 +3981,13 @@
   },
   {
     "id": "X1kklRzyU4Y",
-    "title": "【 #アルランディス生誕祭 】今年もやってまいりました!ゆるっと誕生日3D配信SP【アルランディス/ホロスターズ】",
+    "title": "【 #アルランディス生誕祭 】今年もやってまいりました！ゆるっと誕生日3D配信SP【アルランディス/ホロスターズ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-10T06:47:03.000Z",
-    "available_at": "2024-11-11T10:58:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-11-11T10:57:52.000Z",
+    "duration": 3897,
+    "status": "past",
     "channel": {
       "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
       "name": "Aruran Ch. アルランディス",
