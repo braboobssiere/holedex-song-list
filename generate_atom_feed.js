@@ -148,18 +148,9 @@ async function fetchAllVideos(topics) {
   const jsonOutputPath = path.join(__dirname, 'feeds', 'response.json');
   fs.writeFileSync(jsonOutputPath, JSON.stringify(allVideos, null, 2), 'utf8');
   console.log('Combined JSON response saved successfully at', jsonOutputPath);
-
-// Sort videos by published date (descending) and then by id 
-allVideos.sort((a, b) => {
-  const dateA = new Date(a.published_at).getTime();
-  const dateB = new Date(b.published_at).getTime();
-  const dateComparison = dateB - dateA;
-  if (dateComparison !== 0) {
-    return dateComparison;  
-  } else {
-    return a.id.localeCompare(b.id);  
-  }
-});
+  
+  // Sort videos by ID 
+  allVideos.sort((a, b) => a.id.localeCompare(b.id));
 
   // Generate the Atom feed
   const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom';
