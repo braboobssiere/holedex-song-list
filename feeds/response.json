@@ -1,5 +1,24 @@
 [
   {
+    "id": "KwEKBi6YRiE",
+    "title": "【UNARCHIVED KARAOKE】Christmas Tunes Mini Karaoke ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-12T14:08:31.000Z",
+    "available_at": "2024-11-12T14:16:04.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "YKEhO5jhP3g",
     "title": "Boom / Team ahamo(天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ)【GIGA MASH PROJECT】",
     "type": "stream",
@@ -21,14 +40,17 @@
   },
   {
     "id": "N30ftzoKO6s",
-    "title": "【歌枠】初めて! Singing stream 【水宮枢 ∕ hololiveDEV_IS】",
+    "title": "【歌枠】初めて！ Singing stream 【水宮枢　∕　hololiveDEV_IS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-12T10:33:15.000Z",
     "available_at": "2024-11-12T11:59:37.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 7,
+    "duration": 4682,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 19
+    },
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -240,13 +262,17 @@
   },
   {
     "id": "6S0dtcBi7Mk",
-    "title": "【初歌枠】ニコたんの好きな曲歌う!【虎金妃笑虎】",
+    "title": "【初歌枠】ニコたんの好きな曲歌う!【虎金妃笑虎】#ニコたん配信中",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-10T15:58:30.000Z",
-    "available_at": "2024-11-12T13:30:00.000Z",
+    "available_at": "2024-11-12T13:30:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 6,
+    "live_tl_count": {
+      "en": 19
+    },
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -1925,25 +1951,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "ucDRnn6lDo0",
-    "title": "【耐久】はあちゃまは何時間「ぴぴるぴるぴるぴぴるぴ~」できるのか?",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-23T16:53:13.000Z",
-    "available_at": "2024-10-24T09:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
