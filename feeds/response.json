@@ -1,14 +1,54 @@
 [
   {
+    "id": "YKEhO5jhP3g",
+    "title": "Boom / Team ahamo(天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ)【GIGA MASH PROJECT】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-12T12:00:06.000Z",
+    "available_at": "2024-11-12T12:00:06.000Z",
+    "duration": 173,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "N30ftzoKO6s",
+    "title": "【歌枠】初めて! Singing stream 【水宮枢 ∕ hololiveDEV_IS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-12T10:33:15.000Z",
+    "available_at": "2024-11-12T11:59:37.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 7,
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "G9v74STJRCw",
-    "title": "【歌枠/KARAOKE】頑張って歌います!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】頑張って歌います！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-12T09:10:27.000Z",
     "available_at": "2024-11-12T10:00:18.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 5710,
+    "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -17,6 +57,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "OdrR5WvLVK4",
+    "title": "【MINECRAFT】ANNIVERSARY PIXEL ART STREAM!!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-12T05:35:26.000Z",
+    "available_at": "2024-11-13T05:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -99,26 +158,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "YKEhO5jhP3g",
-    "title": "Boom / Team ahamo(天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ)【GIGA MASH PROJECT】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-11T11:48:53.000Z",
-    "available_at": "2024-11-12T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -1777,9 +1816,10 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-10-25T07:31:08.000Z",
-    "available_at": "2024-11-12T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-11-12T10:57:03.000Z",
+    "duration": 3780,
+    "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCdpUojq0KWZCN9bxXnZwz5w",
       "name": "アルス・アルマル -ars almal- 【にじさんじ】",
@@ -1923,26 +1963,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "_d7PWvrBwIw",
-    "title": "【 歌枠 】急げ!世間は平成ブームらしい😸三【 猫又おかゆ/ホロライブ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-23T15:17:21.000Z",
-    "available_at": "2024-10-23T13:00:13.000Z",
-    "duration": 7834,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
@@ -5307,26 +5327,6 @@
     "available_at": "2024-08-01T03:41:15.000Z",
     "duration": 12338,
     "status": "past",
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "ypB4X93d1Gg",
-    "title": "【FUWAMOCO 1st ANNIVERSARY】BAU BAUing to 1 year with you + BIG ANNOUNCEMENT  🐾✨️ #FWMC1st【重大発表】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-01T03:34:59.000Z",
-    "available_at": "2024-08-01T00:55:46.000Z",
-    "duration": 9057,
-    "status": "past",
-    "songcount": 12,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
