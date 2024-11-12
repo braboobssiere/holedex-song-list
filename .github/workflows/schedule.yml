@@ -33,24 +33,12 @@ jobs:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
         run: node generate_atom_feed.js
 
-      - name: Remove updated timestamp from Atom feed and check for changes
+      - name: Commit and push changes (if script generates files)
         run: |
-          # Remove the <updated> tag from the old Atom feed (for comparison)
-          sed 's|<updated>[^<]*</updated>||g' feeds/holodex.atom > feeds/holodex.atom.tmp
-
-          # Compare the original Atom feed (without <updated>) with the newly generated one (also stripped)
-          sed 's|<updated>[^<]*</updated>||g' feeds/holodex.atom > feeds/holodex.atom.new.tmp
-          
-          # Compare the old and new Atom feed, and the unchanged response.json
-          if ! cmp -s feeds/holodex.atom.new.tmp feeds/holodex.atom.tmp || ! cmp -s feeds/response.json feeds/response.json.tmp; then
-            echo "Changes detected, committing and pushing..."
-            git config --global user.name 'github-actions[bot]'
-            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-            git add -f feeds/holodex.atom feeds/response.json    
-            git commit -m 'Update Atom feed and JSON response'
-            git push
-          else
-            echo "No relevant changes detected. Skipping commit."
-          fi
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -f feeds/holodex.atom feeds/response.json    
+          git commit -m 'Update Atom feed and JSON response'
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
