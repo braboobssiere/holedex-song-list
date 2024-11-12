@@ -66,6 +66,7 @@
     "available_at": "2024-11-11T09:00:20.000Z",
     "duration": 9280,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -2450,13 +2451,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -2471,13 +2472,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3989,8 +3990,8 @@
     "topic_id": "Birthday",
     "published_at": "2024-11-11T15:29:02.000Z",
     "available_at": "2024-11-11T21:39:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4288,
+    "status": "past",
     "live_tl_count": {
       "en": 4
     },
