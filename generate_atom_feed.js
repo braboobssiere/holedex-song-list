@@ -149,8 +149,20 @@ async function fetchAllVideos(topics) {
   fs.writeFileSync(jsonOutputPath, JSON.stringify(allVideos, null, 2), 'utf8');
   console.log('Combined JSON response saved successfully at', jsonOutputPath);
   
-  // Sort videos by ID 
-  allVideos.sort((a, b) => a.id.localeCompare(b.id));
+// Log the ids of the videos before sorting
+console.log('Before Sorting:');
+allVideos.forEach(video => console.log(video.id));
+
+// Sort the videos by id, ensuring ids are treated as strings
+allVideos.sort((a, b) => {
+  const idA = String(a.id);  // Convert to string if necessary
+  const idB = String(b.id);  // Convert to string if necessary
+
+  // For debugging: log the ids being compared
+  console.log(`Comparing: ${idA} vs ${idB}`);
+  
+  return idA.localeCompare(idB);
+});
 
   // Generate the Atom feed
   const feedUrl = 'https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom';
