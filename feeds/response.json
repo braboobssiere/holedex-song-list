@@ -1,5 +1,24 @@
 [
   {
+    "id": "qaz7Ubr6IBU",
+    "title": "SPIDER CHAMA KARAOKE!!!!!!【※No archive】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-13T13:38:47.000Z",
+    "available_at": "2024-11-13T14:04:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "eFl_IuladgQ",
     "title": "【歌枠/KARAOKE】かっこいい好きな歌を歌います！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -46,9 +65,9 @@
     "topic_id": "singing",
     "published_at": "2024-11-13T06:14:56.000Z",
     "available_at": "2024-11-13T12:01:26.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 5684,
+    "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -1836,25 +1855,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "nxRH-HaGjLk",
-    "title": "【UNARCHIVED歌枠】i drink a mixture of ethanol and water and sing before i",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-26T04:06:59.000Z",
-    "available_at": "2024-10-26T04:47:24.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC3n5uGu18FoCy23ggWWp8tA",
-      "name": "Nanashi Mumei Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nanashi Mumei"
     }
   },
   {
