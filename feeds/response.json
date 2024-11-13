@@ -117,6 +117,49 @@
     }
   },
   {
+    "id": "N30ftzoKO6s",
+    "title": "【歌枠】初めて! Singing stream 【水宮枢 ∕ hololiveDEV_IS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-12T13:25:20.000Z",
+    "available_at": "2024-11-12T11:59:37.000Z",
+    "duration": 4676,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 19
+    },
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "LMdasntdW5o",
+    "title": "【GIGA MASH LIVE】Team ahamo 3DLIVE #ギガプロLIVE 【天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-11-12T12:11:45.000Z",
+    "available_at": "2024-11-12T10:57:03.000Z",
+    "duration": 3788,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UCdpUojq0KWZCN9bxXnZwz5w",
+      "name": "アルス・アルマル -ars almal- 【にじさんじ】",
+      "org": "Nijisanji",
+      "suborg": "0uBlues",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nSLSaflmIY5Gt3cZAGKiQGPg3wuAuPuJd25sdQSdSADa6kkTdc6jePsKbV0Lodzb6jPOP5MfYQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ars Almal"
+    }
+  },
+  {
     "id": "YKEhO5jhP3g",
     "title": "Boom / Team ahamo(天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ)【GIGA MASH PROJECT】",
     "type": "stream",
@@ -134,29 +177,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "N30ftzoKO6s",
-    "title": "【歌枠】初めて！ Singing stream 【水宮枢　∕　hololiveDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-12T10:33:15.000Z",
-    "available_at": "2024-11-12T11:59:37.000Z",
-    "duration": 4682,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 19
-    },
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
@@ -186,8 +206,8 @@
     "topic_id": "Anniversary",
     "published_at": "2024-11-12T05:35:26.000Z",
     "available_at": "2024-11-13T05:06:44.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 42534,
+    "status": "past",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -1893,26 +1913,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "LMdasntdW5o",
-    "title": "【GIGA MASH LIVE】Team ahamo 3DLIVE #ギガプロLIVE 【天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-10-25T07:31:08.000Z",
-    "available_at": "2024-11-12T10:57:03.000Z",
-    "duration": 3780,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCdpUojq0KWZCN9bxXnZwz5w",
-      "name": "アルス・アルマル -ars almal- 【にじさんじ】",
-      "org": "Nijisanji",
-      "suborg": "0uBlues",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nSLSaflmIY5Gt3cZAGKiQGPg3wuAuPuJd25sdQSdSADa6kkTdc6jePsKbV0Lodzb6jPOP5MfYQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ars Almal"
     }
   },
   {
