@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-13T06:34:22.059Z</updated>
+  <updated>2024-11-13T08:32:10.024Z</updated>
+
+  <entry>
+    <id>urn:uuid:fd65cbd1-7cb1-5a37-bf36-cad23d149145</id>
+    <title><![CDATA[【 歌枠 】超カラオケ大会!【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
+    <link href="https://youtu.be/V7QR3HKRxg8" rel="alternate" type="text/html"/>
+    <published>2024-11-13T06:44:27.000Z</published>
+    <updated>2024-11-13T06:44:27.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V7QR3HKRxg8 【LIVE on &lt;t:1731488400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V7QR3HKRxg8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8d4471ef-274c-5c52-aad9-dcf738fdcf0d</id>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=N30ftzoKO6s 【LIVE on &lt;t:1731412777:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N30ftzoKO6s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8bf6520a-df6b-504b-bdc5-da3dbce1d2d7</id>
-    <title><![CDATA[【歌枠/KARAOKE】頑張って歌います！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/G9v74STJRCw" rel="alternate" type="text/html"/>
-    <published>2024-11-12T09:10:27.000Z</published>
-    <updated>2024-11-12T09:10:27.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G9v74STJRCw 【LIVE on &lt;t:1731405618:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G9v74STJRCw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
