@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-13T13:38:47.000Z",
     "available_at": "2024-11-13T14:04:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4818,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -76,6 +76,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "eWqiZHIoOjk",
+    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-11-13T04:29:41.000Z",
+    "available_at": "2024-11-14T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -5465,26 +5484,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ike Eveland"
-    }
-  },
-  {
-    "id": "lJLs49hA84g",
-    "title": "【 3D LIVE 】#みこちDAIDAIDAI重大発表 するぞぉおおおおおおおお‼🌸🎉【ホロライブ/さくらみこ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-07-21T12:05:38.000Z",
-    "available_at": "2024-07-21T10:57:55.000Z",
-    "duration": 3847,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
     }
   },
   {
