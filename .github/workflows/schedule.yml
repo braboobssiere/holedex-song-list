@@ -33,22 +33,13 @@ jobs:
           HOLODEX_API_KEY: ${{ secrets.HOLODEX_API_KEY }}
         run: node generate_atom_feed.js
 
-      - name: Check for changes in response.json
-        id: check_changes
+      - name: Commit and push changes (if script generates files)
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -f feeds/holodex.atom feeds/response.json    
-          if ! git diff --cached --quiet; then
-            echo "changes=true" >> $GITHUB_ENV
-          else
-            echo "changes=false" >> $GITHUB_ENV
-          fi
-
-      - name: Commit and push changes (if there are changes)
-        if: env.changes == 'true'
-        run: |
           git commit -m 'Update Atom feed and JSON response'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
