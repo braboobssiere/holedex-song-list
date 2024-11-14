@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-14T10:30:46.569Z</updated>
+  <updated>2024-11-14T12:51:01.304Z</updated>
+
+  <entry>
+    <id>urn:uuid:1d4933b4-7afd-597f-ad30-378ad1f17093</id>
+    <title><![CDATA[AWAKE / 星街すいせい(official)]]></title>
+    <link href="https://youtu.be/UYEZL13MUFk" rel="alternate" type="text/html"/>
+    <published>2024-11-14T12:00:06.000Z</published>
+    <updated>2024-11-14T12:00:06.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UYEZL13MUFk 【LIVE on &lt;t:1731585606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UYEZL13MUFk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dbc0eeb2-197f-5c76-bcd0-8b34b5065e79</id>
@@ -105,7 +119,7 @@
 
   <entry>
     <id>urn:uuid:a1cc1a73-2990-50f8-b38e-20d06dac6989</id>
-    <title><![CDATA[【歌枠】初めて! Singing stream 【水宮枢 ∕ hololiveDEV_IS】]]></title>
+    <title><![CDATA[【歌枠】初めて！ Singing stream 【水宮枢　∕　hololiveDEV_IS】]]></title>
     <link href="https://youtu.be/N30ftzoKO6s" rel="alternate" type="text/html"/>
     <published>2024-11-12T13:25:20.000Z</published>
     <updated>2024-11-12T13:25:20.000Z</updated>
@@ -1473,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9i5rSq3nBX4 【LIVE on &lt;t:1727449465:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9i5rSq3nBX4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a957b6f0-f8e4-5030-8146-6aa6883a4256</id>
-    <title><![CDATA[蒼天に燃ゆ]]></title>
-    <link href="https://youtu.be/fV5cwbuFnYw" rel="alternate" type="text/html"/>
-    <published>2024-09-27T15:03:34.000Z</published>
-    <updated>2024-09-27T15:03:34.000Z</updated>
-    <author>
-      <name>Ouro Kronii Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fV5cwbuFnYw 【LIVE on &lt;t:1727449414:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fV5cwbuFnYw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
