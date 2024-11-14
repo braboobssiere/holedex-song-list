@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-14T20:27:52.726Z</updated>
+  <updated>2024-11-14T22:28:00.940Z</updated>
 
   <entry>
     <id>urn:uuid:a7bd6f7f-7934-54db-917a-a6beb19d9d20</id>
@@ -76,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:8d4471ef-274c-5c52-aad9-dcf738fdcf0d</id>
+    <title><![CDATA[【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/6MrRFAKM814" rel="alternate" type="text/html"/>
+    <published>2024-11-13T13:49:36.000Z</published>
+    <updated>2024-11-13T13:49:36.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6MrRFAKM814 【LIVE on &lt;t:1731499286:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6MrRFAKM814/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:6de7e8d8-19f7-509a-b9b8-8b2629ac3bf0</id>
     <title><![CDATA[SPIDER CHAMA KARAOKE!!!!!!【※No archive】]]></title>
     <link href="https://youtu.be/qaz7Ubr6IBU" rel="alternate" type="text/html"/>
@@ -90,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:693c0952-d83c-5075-9b9b-7f304319eb53</id>
+    <title><![CDATA[【歌枠/KARAOKE】かっこいい好きな歌を歌います!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/eFl_IuladgQ" rel="alternate" type="text/html"/>
+    <published>2024-11-13T12:13:03.000Z</published>
+    <updated>2024-11-13T12:13:03.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eFl_IuladgQ 【LIVE on &lt;t:1731491989:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eFl_IuladgQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:fd65cbd1-7cb1-5a37-bf36-cad23d149145</id>
     <title><![CDATA[【 歌枠 】超カラオケ大会!【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
     <link href="https://youtu.be/V7QR3HKRxg8" rel="alternate" type="text/html"/>
@@ -101,34 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V7QR3HKRxg8 【LIVE on &lt;t:1731488504:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V7QR3HKRxg8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:693c0952-d83c-5075-9b9b-7f304319eb53</id>
-    <title><![CDATA[【歌枠/KARAOKE】かっこいい好きな歌を歌います！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/eFl_IuladgQ" rel="alternate" type="text/html"/>
-    <published>2024-11-13T08:28:41.000Z</published>
-    <updated>2024-11-13T08:28:41.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eFl_IuladgQ 【LIVE on &lt;t:1731491989:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eFl_IuladgQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8d4471ef-274c-5c52-aad9-dcf738fdcf0d</id>
-    <title><![CDATA[【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/6MrRFAKM814" rel="alternate" type="text/html"/>
-    <published>2024-11-13T06:14:56.000Z</published>
-    <updated>2024-11-13T06:14:56.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6MrRFAKM814 【LIVE on &lt;t:1731499286:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6MrRFAKM814/maxresdefault.jpg"/>
   </entry>
 
   <entry>
