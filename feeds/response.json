@@ -1,5 +1,24 @@
 [
   {
+    "id": "2gEmeddRppM",
+    "title": "【晩酌】誕生日カウントダウン晩酌!!めでたい!!【 雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-14T10:02:13.000Z",
+    "available_at": "2024-11-14T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "nnJwOEUxpVw",
     "title": "【もうすぐ6周年】一緒に迎えるカウントダウン!ホロメンとの最近の話を添えて【ホロライブ / AZKi】",
     "type": "stream",
@@ -122,9 +141,10 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-11-13T04:29:41.000Z",
-    "available_at": "2024-11-14T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-11-14T09:00:16.000Z",
+    "duration": 3419,
+    "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -5400,28 +5420,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "KgzVegMD8W8",
-    "title": "【 #水無世燐央生誕祭2024 】初めての凸待ち!ﾄﾞｷﾄﾞｷ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-07-26T16:59:32.000Z",
-    "available_at": "2024-07-26T09:58:44.000Z",
-    "duration": 23899,
-    "status": "past",
-    "live_tl_count": {
-      "en": 54
-    },
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
