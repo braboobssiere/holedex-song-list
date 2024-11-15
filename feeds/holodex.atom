@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-15T18:34:54.198Z</updated>
+  <updated>2024-11-15T20:27:52.209Z</updated>
 
   <entry>
     <id>urn:uuid:4ec26e10-a4d9-5bdd-8b70-1477e1e594c0</id>
@@ -119,7 +119,7 @@
 
   <entry>
     <id>urn:uuid:a7bd6f7f-7934-54db-917a-a6beb19d9d20</id>
-    <title><![CDATA[【歌枠】160万人目指して歌います!!!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
+    <title><![CDATA[【歌枠】160万人目指して歌います！！！！ Singing Stream🎤【角巻わため/ホロライブ４期生】]]></title>
     <link href="https://youtu.be/SykrjViwEiY" rel="alternate" type="text/html"/>
     <published>2024-11-14T15:56:40.000Z</published>
     <updated>2024-11-14T15:56:40.000Z</updated>
@@ -160,6 +160,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:dbc0eeb2-197f-5c76-bcd0-8b34b5065e79</id>
+    <title><![CDATA[【歌枠】アニソン!!バラード‼#hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
+    <link href="https://youtu.be/iANWRpWT_gs" rel="alternate" type="text/html"/>
+    <published>2024-11-14T14:55:26.000Z</published>
+    <updated>2024-11-14T14:55:26.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iANWRpWT_gs 【LIVE on &lt;t:1731589511:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iANWRpWT_gs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1d4933b4-7afd-597f-ad30-378ad1f17093</id>
     <title><![CDATA[AWAKE / 星街すいせい(official)]]></title>
     <link href="https://youtu.be/UYEZL13MUFk" rel="alternate" type="text/html"/>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eWqiZHIoOjk 【LIVE on &lt;t:1731574816:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWqiZHIoOjk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dbc0eeb2-197f-5c76-bcd0-8b34b5065e79</id>
-    <title><![CDATA[【歌枠】アニソン!!バラード‼#hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
-    <link href="https://youtu.be/iANWRpWT_gs" rel="alternate" type="text/html"/>
-    <published>2024-11-13T15:56:49.000Z</published>
-    <updated>2024-11-13T15:56:49.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=iANWRpWT_gs 【LIVE on &lt;t:1731589511:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iANWRpWT_gs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
