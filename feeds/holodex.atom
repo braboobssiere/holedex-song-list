@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-15T14:28:10.649Z</updated>
+  <updated>2024-11-15T16:33:49.889Z</updated>
 
   <entry>
     <id>urn:uuid:4ec26e10-a4d9-5bdd-8b70-1477e1e594c0</id>
-    <title><![CDATA[【歌枠/KARAOKE】リベンジの歌・・・・・だな!【尾丸ポルカ/ホロライブ】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】リベンジの歌・・・・・だな！【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/Kibz5y2Kk6A" rel="alternate" type="text/html"/>
     <published>2024-11-15T14:08:24.000Z</published>
     <updated>2024-11-15T14:08:24.000Z</updated>
@@ -63,7 +63,7 @@
 
   <entry>
     <id>urn:uuid:ff63c751-7650-5534-ab82-db78c1de5a69</id>
-    <title><![CDATA[【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠!腹から声出せ!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <title><![CDATA[【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/7yd-jMk7lIs" rel="alternate" type="text/html"/>
     <published>2024-11-15T10:41:38.000Z</published>
     <updated>2024-11-15T10:41:38.000Z</updated>
@@ -160,6 +160,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:dc709982-5653-5ed0-ae2f-2d43f72ac862</id>
+    <title><![CDATA[【チラ見せ】Hoshimachi Suisei Live Tour 2024 "Spectra of Nova"]]></title>
+    <link href="https://youtu.be/eWqiZHIoOjk" rel="alternate" type="text/html"/>
+    <published>2024-11-14T10:03:55.000Z</published>
+    <updated>2024-11-14T10:03:55.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eWqiZHIoOjk 【LIVE on &lt;t:1731574816:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWqiZHIoOjk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:dbc0eeb2-197f-5c76-bcd0-8b34b5065e79</id>
     <title><![CDATA[【歌枠】アニソン!!バラード‼#hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
     <link href="https://youtu.be/iANWRpWT_gs" rel="alternate" type="text/html"/>
@@ -213,20 +227,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V7QR3HKRxg8 【LIVE on &lt;t:1731488504:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V7QR3HKRxg8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dc709982-5653-5ed0-ae2f-2d43f72ac862</id>
-    <title><![CDATA[【チラ見せ】Hoshimachi Suisei Live Tour 2024 "Spectra of Nova"]]></title>
-    <link href="https://youtu.be/eWqiZHIoOjk" rel="alternate" type="text/html"/>
-    <published>2024-11-13T04:29:41.000Z</published>
-    <updated>2024-11-13T04:29:41.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eWqiZHIoOjk 【LIVE on &lt;t:1731574816:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWqiZHIoOjk/maxresdefault.jpg"/>
   </entry>
 
   <entry>

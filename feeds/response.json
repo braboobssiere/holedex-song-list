@@ -1,13 +1,13 @@
 [
   {
     "id": "Kibz5y2Kk6A",
-    "title": "【歌枠/KARAOKE】リベンジの歌・・・・・だな!【尾丸ポルカ/ホロライブ】",
+    "title": "【歌枠/KARAOKE】リベンジの歌・・・・・だな！【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-15T14:08:24.000Z",
     "available_at": "2024-11-15T14:09:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7095,
+    "status": "past",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-15T13:48:54.000Z",
     "available_at": "2024-11-15T14:04:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5385,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -58,7 +58,7 @@
   },
   {
     "id": "ea_saD8oUJI",
-    "title": "【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】",
+    "title": "【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-15T12:12:10.000Z",
@@ -100,7 +100,7 @@
   },
   {
     "id": "7yd-jMk7lIs",
-    "title": "【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠!腹から声出せ!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "title": "【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-15T10:41:38.000Z",
@@ -231,6 +231,26 @@
     "duration": 269,
     "status": "past",
     "songcount": 1,
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
+    "id": "eWqiZHIoOjk",
+    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-11-14T10:03:55.000Z",
+    "available_at": "2024-11-14T09:00:16.000Z",
+    "duration": 3435,
+    "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -398,26 +418,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "eWqiZHIoOjk",
-    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-11-13T04:29:41.000Z",
-    "available_at": "2024-11-14T09:00:16.000Z",
-    "duration": 3419,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
