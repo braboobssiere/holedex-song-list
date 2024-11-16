@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-16T18:32:11.015Z</updated>
+  <updated>2024-11-16T20:26:08.490Z</updated>
 
   <entry>
     <id>urn:uuid:1d5b3ac7-5c34-530f-b59c-f9aa6c15f27a</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fc724fcc-8d84-59c8-adbb-6f560ebe48f0</id>
+    <title><![CDATA[【安眠】KU100と耳かきマイクの2台仕様!全肯定あまあまノエママによる耳掃除&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/xv_B4BUvs8Q" rel="alternate" type="text/html"/>
+    <published>2024-11-16T02:52:13.000Z</published>
+    <updated>2024-11-16T02:52:13.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xv_B4BUvs8Q 【LIVE on &lt;t:1731852000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xv_B4BUvs8Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d615b16f-1d53-5861-a0c1-e6a3570a8064</id>
     <title><![CDATA[【KARAOKE】朝に歌いたくなるこの衝動はなに～～～？？【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/5XTe2wAgy9I" rel="alternate" type="text/html"/>
@@ -76,6 +90,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ff63c751-7650-5534-ab82-db78c1de5a69</id>
+    <title><![CDATA[【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠!腹から声出せ!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/7yd-jMk7lIs" rel="alternate" type="text/html"/>
+    <published>2024-11-15T14:34:55.000Z</published>
+    <updated>2024-11-15T14:34:55.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7yd-jMk7lIs 【LIVE on &lt;t:1731675636:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7yd-jMk7lIs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:79702953-e9aa-5723-9939-bde26ad3f22d</id>
+    <title><![CDATA[【歌枠/KARAOKE】歌・・・・・だな!【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/Ax0vGQ65_EQ" rel="alternate" type="text/html"/>
+    <published>2024-11-15T14:10:53.000Z</published>
+    <updated>2024-11-15T14:10:53.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ax0vGQ65_EQ 【LIVE on &lt;t:1731679269:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ax0vGQ65_EQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4ec26e10-a4d9-5bdd-8b70-1477e1e594c0</id>
     <title><![CDATA[【歌枠/KARAOKE】リベンジの歌・・・・・だな！【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/Kibz5y2Kk6A" rel="alternate" type="text/html"/>
@@ -101,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AlL8GlIxJ7k 【LIVE on &lt;t:1731679488:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AlL8GlIxJ7k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:79702953-e9aa-5723-9939-bde26ad3f22d</id>
-    <title><![CDATA[【歌枠/KARAOKE】歌・・・・・だな！【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/Ax0vGQ65_EQ" rel="alternate" type="text/html"/>
-    <published>2024-11-15T13:21:42.000Z</published>
-    <updated>2024-11-15T13:21:42.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ax0vGQ65_EQ 【LIVE on &lt;t:1731679269:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ax0vGQ65_EQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -171,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tVyK6kaFCgk 【LIVE on &lt;t:1731664783:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tVyK6kaFCgk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ff63c751-7650-5534-ab82-db78c1de5a69</id>
-    <title><![CDATA[【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/7yd-jMk7lIs" rel="alternate" type="text/html"/>
-    <published>2024-11-15T10:41:38.000Z</published>
-    <updated>2024-11-15T10:41:38.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7yd-jMk7lIs 【LIVE on &lt;t:1731675636:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7yd-jMk7lIs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2523,20 +2537,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-7634XoJOKE 【LIVE on &lt;t:1712840502:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-7634XoJOKE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d8b57281-781c-54d9-907a-84f22f121009</id>
-    <title><![CDATA[【KU100 ASMR】 ASMR for when you need some encouragement ♡ Fluffy triggers & positive affirmations]]></title>
-    <link href="https://youtu.be/amv4Fg3Xqmg" rel="alternate" type="text/html"/>
-    <published>2024-04-08T03:53:03.000Z</published>
-    <updated>2024-04-08T03:53:03.000Z</updated>
-    <author>
-      <name>Ceres Fauna Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=amv4Fg3Xqmg 【LIVE on &lt;t:1712545212:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/amv4Fg3Xqmg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
