@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-16T16:31:54.155Z</updated>
+  <updated>2024-11-16T18:32:11.015Z</updated>
 
   <entry>
     <id>urn:uuid:1d5b3ac7-5c34-530f-b59c-f9aa6c15f27a</id>
-    <title><![CDATA[【歌枠】深夜のゲリラお歌!好きな歌を歌う~!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
+    <title><![CDATA[【歌枠】深夜のゲリラお歌！好きな歌を歌う～！【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
     <link href="https://youtu.be/MX4mXiMlTcE" rel="alternate" type="text/html"/>
     <published>2024-11-16T15:30:34.000Z</published>
     <updated>2024-11-16T15:30:34.000Z</updated>
@@ -118,8 +118,22 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:c8ece739-e3c4-5251-959c-2d7802f10c68</id>
+    <title><![CDATA[【新衣装3Dお披露目】AZKi 6th Anniversary Live "百花繚乱"【#AZKi新衣装3Dライブ】]]></title>
+    <link href="https://youtu.be/bHXB9qI2olE" rel="alternate" type="text/html"/>
+    <published>2024-11-15T13:04:12.000Z</published>
+    <updated>2024-11-15T13:04:12.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bHXB9qI2olE 【LIVE on &lt;t:1731671805:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bHXB9qI2olE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:cc352225-eac0-5ae2-8d4a-a51c98915dd2</id>
-    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】]]></title>
+    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】]]></title>
     <link href="https://youtu.be/ea_saD8oUJI" rel="alternate" type="text/html"/>
     <published>2024-11-15T12:12:10.000Z</published>
     <updated>2024-11-15T12:12:10.000Z</updated>
@@ -507,20 +521,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=g5vKkS19nq8 【LIVE on &lt;t:1731232893:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g5vKkS19nq8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c8ece739-e3c4-5251-959c-2d7802f10c68</id>
-    <title><![CDATA[【新衣装3Dお披露目】AZKi 6th Anniversary Live "百花繚乱"【#AZKi新衣装3Dライブ】]]></title>
-    <link href="https://youtu.be/bHXB9qI2olE" rel="alternate" type="text/html"/>
-    <published>2024-11-10T05:53:01.000Z</published>
-    <updated>2024-11-10T05:53:01.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=bHXB9qI2olE 【LIVE on &lt;t:1731671805:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bHXB9qI2olE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
