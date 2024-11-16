@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-16T14:25:26.867Z</updated>
+  <updated>2024-11-16T16:31:54.155Z</updated>
+
+  <entry>
+    <id>urn:uuid:1d5b3ac7-5c34-530f-b59c-f9aa6c15f27a</id>
+    <title><![CDATA[【歌枠】深夜のゲリラお歌!好きな歌を歌う~!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
+    <link href="https://youtu.be/MX4mXiMlTcE" rel="alternate" type="text/html"/>
+    <published>2024-11-16T15:30:34.000Z</published>
+    <updated>2024-11-16T15:30:34.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MX4mXiMlTcE 【LIVE on &lt;t:1731771313:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4mXiMlTcE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8c2cecc2-2cb0-5c4c-abef-e080a374530a</id>
+    <title><![CDATA[【UNARCHIVED VIOLIN KARAOKE】with cute guests!! for CCWeek! yay]]></title>
+    <link href="https://youtu.be/_LgHRuxtN58" rel="alternate" type="text/html"/>
+    <published>2024-11-16T14:33:44.000Z</published>
+    <updated>2024-11-16T14:33:44.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_LgHRuxtN58 【LIVE on &lt;t:1731790800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_LgHRuxtN58/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:10195d6e-68b6-536e-8b00-ba22c4f9bac6</id>
@@ -118,6 +146,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a211324f-4c36-539b-8f7c-611a26915968</id>
+    <title><![CDATA[【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/tVyK6kaFCgk" rel="alternate" type="text/html"/>
+    <published>2024-11-15T11:05:43.000Z</published>
+    <updated>2024-11-15T11:05:43.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tVyK6kaFCgk 【LIVE on &lt;t:1731664783:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tVyK6kaFCgk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ff63c751-7650-5534-ab82-db78c1de5a69</id>
     <title><![CDATA[【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/7yd-jMk7lIs" rel="alternate" type="text/html"/>
@@ -143,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3kI7W8CquxA 【LIVE on &lt;t:1731664808:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3kI7W8CquxA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a211324f-4c36-539b-8f7c-611a26915968</id>
-    <title><![CDATA[【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/tVyK6kaFCgk" rel="alternate" type="text/html"/>
-    <published>2024-11-15T07:37:38.000Z</published>
-    <updated>2024-11-15T07:37:38.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tVyK6kaFCgk 【LIVE on &lt;t:1731664783:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tVyK6kaFCgk/maxresdefault.jpg"/>
   </entry>
 
   <entry>

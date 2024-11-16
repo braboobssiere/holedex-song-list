@@ -1,5 +1,63 @@
 [
   {
+    "id": "zCfRZslMr5w",
+    "title": "ITS MY FIRST KARAOKE EVER【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-16T16:04:16.000Z",
+    "available_at": "2024-11-17T04:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "MX4mXiMlTcE",
+    "title": "【歌枠】深夜のゲリラお歌!好きな歌を歌う~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-16T15:30:34.000Z",
+    "available_at": "2024-11-16T15:35:13.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 3,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "_LgHRuxtN58",
+    "title": "【UNARCHIVED VIOLIN KARAOKE】with cute guests!! for CCWeek! yay",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-16T14:33:44.000Z",
+    "available_at": "2024-11-16T21:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
     "id": "VPBq-mrkzWI",
     "title": "【PRE-ANNIVERSARY CELEBRATION】REACTING TO MY PREDEBUT TWITTER POSTS AND MORE!",
     "type": "stream",
@@ -20,13 +78,13 @@
   },
   {
     "id": "0lQ6Us55b2o",
-    "title": "【Karaoke / 歌枠】チャンネル登録者100人増える毎に30分延長される歌枠 初回1時間~ / #燃えろアステル",
+    "title": "【Karaoke / 歌枠】チャンネル登録者１００人増える毎に３０分延長される歌枠 初回１時間～ / #燃えろアステル",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-16T12:59:53.000Z",
     "available_at": "2024-11-16T13:26:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6038,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -65,8 +123,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-16T09:33:51.000Z",
     "available_at": "2024-11-16T13:05:35.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4912,
+    "status": "past",
     "channel": {
       "id": "UC6t3-_N8A6ME1JShZHHqOMw",
       "name": "Miyabi Ch. 花咲みやび",
@@ -104,10 +162,10 @@
     "topic_id": "singing",
     "published_at": "2024-11-15T14:56:17.000Z",
     "available_at": "2024-11-16T12:58:40.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8871,
+    "status": "past",
     "live_tl_count": {
-      "en": 42
+      "en": 68
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -220,6 +278,29 @@
     }
   },
   {
+    "id": "tVyK6kaFCgk",
+    "title": "【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-15T11:05:43.000Z",
+    "available_at": "2024-11-15T09:59:43.000Z",
+    "duration": 3687,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 17
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "7yd-jMk7lIs",
     "title": "【縦型 / 歌枠】5曲ホロ曲を歌って去る歌枠！腹から声出せ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -258,29 +339,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "tVyK6kaFCgk",
-    "title": "【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-15T07:37:38.000Z",
-    "available_at": "2024-11-15T09:59:43.000Z",
-    "duration": 3678,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 17
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -1922,25 +1980,6 @@
     }
   },
   {
-    "id": "dKGDeRjCODg",
-    "title": "[UNARCHIVED KARAOKE] HALLOWEEN KARAOKE! #gavisbettel #holotempus",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-30T20:22:25.000Z",
-    "available_at": "2024-10-30T23:00:32.000Z",
-    "duration": 10839,
-    "status": "missing",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/UTMYJz0KkrjT7zdaUq_ofe2su2jFNxuGkDngCSdHH9OwPaYjWG6_7cuIpmrNi-npFiCc9ZsK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
-    }
-  },
-  {
     "id": "eCRlwq_rpM8",
     "title": "【KARAOKE / 歌枠】Halloween Unarchived Karaoke before NEW SONG COVER! :D",
     "type": "stream",
@@ -2038,44 +2077,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "jM3LdNLwnwM",
-    "title": "Happy (almost) Halloween~ | Unarchived Karaoke",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-30T03:43:36.000Z",
-    "available_at": "2024-10-30T23:54:22.000Z",
-    "duration": 6653,
-    "status": "missing",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "aQZ_upWR1rQ",
-    "title": "【SHOW】A TRIBUTE TO THE 60s ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-30T01:30:46.000Z",
-    "available_at": "2024-10-30T20:59:55.000Z",
-    "duration": 6790,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
