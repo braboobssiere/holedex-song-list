@@ -1,5 +1,24 @@
 [
   {
+    "id": "FLZ4TH1DKHA",
+    "title": "【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-16T09:33:51.000Z",
+    "available_at": "2024-11-16T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+      "name": "Miyabi Ch. 花咲みやび",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hanasaki Miyabi"
+    }
+  },
+  {
     "id": "5XTe2wAgy9I",
     "title": "【KARAOKE】朝に歌いたくなるこの衝動はなに～～～？？【ホロライブ / ロボ子さん】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2024-11-16T00:01:17.000Z",
     "duration": 7113,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -767,6 +787,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "RQn7biOiqHs",
+    "title": "【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-11T07:46:44.000Z",
+    "available_at": "2024-11-17T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
     }
   },
   {
@@ -2016,29 +2055,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "nwwJjxwOBsQ",
-    "title": "【 歌枠 】ハロウィンゲリラ隊🎃ハロウィンっぽい歌をうたお~~~!!【ホロライブ / ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-29T15:11:06.000Z",
-    "available_at": "2024-10-29T14:00:21.000Z",
-    "duration": 3675,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 16
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -5228,26 +5244,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWoZ_onsr56ZbnQQ21cnkYPfKTMJNHN3UOc1lmr44mTuc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshikawa Sara"
-    }
-  },
-  {
-    "id": "Ktt6jG5YkK0",
-    "title": "【5周年カウントダウン】もうすぐ5周年かー【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-06T15:49:12.000Z",
-    "available_at": "2024-08-06T14:30:27.000Z",
-    "duration": 4436,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
