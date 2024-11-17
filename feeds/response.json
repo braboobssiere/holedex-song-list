@@ -1,5 +1,25 @@
 [
   {
+    "id": "dFZ1oTSFuIE",
+    "title": "IRyS - TwiLight【Original Song 3D MV】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-17T04:00:08.000Z",
+    "available_at": "2024-11-17T04:00:08.000Z",
+    "duration": 204,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "zCfRZslMr5w",
     "title": "ITS MY FIRST KARAOKE EVER【ARCHIVED】",
     "type": "stream",
@@ -7,7 +27,7 @@
     "published_at": "2024-11-16T16:04:16.000Z",
     "available_at": "2024-11-17T04:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -958,9 +978,12 @@
     "topic_id": "Anniversary",
     "published_at": "2024-11-11T07:46:44.000Z",
     "available_at": "2024-11-17T02:57:11.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 3657,
+    "status": "past",
+    "songcount": 13,
+    "live_tl_count": {
+      "ko": 14
+    },
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -3204,26 +3227,6 @@
     "live_tl_count": {
       "en": 87
     },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "JMk3dnF0clU",
-    "title": "🍿Mad POPCORN World!☝️ shortVer. / 戌神ころね( official )",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-01T12:00:07.000Z",
-    "available_at": "2024-10-01T12:00:07.000Z",
-    "duration": 98,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
