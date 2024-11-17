@@ -1,5 +1,24 @@
 [
   {
+    "id": "E_1WO5YstHg",
+    "title": "【歌枠】大好きな歌を今日も歌う!#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-17T19:02:56.000Z",
+    "available_at": "2024-11-18T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "h2Qyn7XSYYA",
     "title": "TwiLight(Instrumental)",
     "type": "stream",
@@ -120,6 +139,25 @@
     }
   },
   {
+    "id": "FLZ4TH1DKHA",
+    "title": "【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-16T14:55:48.000Z",
+    "available_at": "2024-11-16T13:05:35.000Z",
+    "duration": 4925,
+    "status": "past",
+    "channel": {
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+      "name": "Miyabi Ch. 花咲みやび",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hanasaki Miyabi"
+    }
+  },
+  {
     "id": "_LgHRuxtN58",
     "title": "【UNARCHIVED VIOLIN KARAOKE】with cute guests!! for CCWeek! yay",
     "type": "stream",
@@ -176,25 +214,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "FLZ4TH1DKHA",
-    "title": "【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-16T09:33:51.000Z",
-    "available_at": "2024-11-16T13:05:35.000Z",
-    "duration": 4912,
-    "status": "past",
-    "channel": {
-      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-      "name": "Miyabi Ch. 花咲みやび",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/O6KhIGX91d99vduasQsqIQNvt1tC9DjDlTlLQr_k0aq0EtvgF4hM1YNAOmEOz9Vtqs1yyAkfkw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hanasaki Miyabi"
     }
   },
   {
@@ -304,7 +323,7 @@
     "published_at": "2024-11-15T14:56:17.000Z",
     "available_at": "2024-11-16T12:58:40.000Z",
     "duration": 8871,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 68
     },
@@ -2162,25 +2181,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "2uZK1aA-bIg",
-    "title": "target 121#shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-30T13:24:49.000Z",
-    "available_at": "2024-10-31T01:02:24.000Z",
-    "duration": 30291,
-    "status": "missing",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
