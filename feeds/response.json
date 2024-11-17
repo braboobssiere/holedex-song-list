@@ -102,9 +102,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-16T13:10:20.000Z",
-    "available_at": "2024-11-17T12:00:00.000Z",
+    "available_at": "2024-11-17T12:00:10.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -113,25 +113,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "0lQ6Us55b2o",
-    "title": "【Karaoke / 歌枠】チャンネル登録者１００人増える毎に３０分延長される歌枠 初回１時間～ / #燃えろアステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-16T12:59:53.000Z",
-    "available_at": "2024-11-16T13:26:19.000Z",
-    "duration": 6038,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -2120,6 +2101,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "2uZK1aA-bIg",
+    "title": "target 121#shorts",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-10-30T13:24:49.000Z",
+    "available_at": "2024-10-31T01:02:24.000Z",
+    "duration": 30291,
+    "status": "missing",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
     }
   },
   {
