@@ -43,11 +43,12 @@
     "id": "GXQHfvcWlOw",
     "title": "【Official 3D Version】Shattered Wings - Banzoin Hakka #HAKKA3D",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "Original_Song",
     "published_at": "2024-11-18T06:52:21.000Z",
     "available_at": "2024-11-19T01:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -80,13 +81,14 @@
   },
   {
     "id": "E_1WO5YstHg",
-    "title": "【歌枠】10万人!有難う!大好きな歌を今日も歌う!#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "title": "【歌枠】１０万人！有難う！大好きな歌を今日も歌う！#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-17T19:02:56.000Z",
     "available_at": "2024-11-18T13:00:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7520,
+    "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -3156,26 +3158,6 @@
     }
   },
   {
-    "id": "M3pjFfKBonI",
-    "title": "【KOSEKI BIJOU】プリズムの魔法 - Prism no Mahou -【Original Song MV】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-07T01:00:32.000Z",
-    "available_at": "2024-10-07T01:00:32.000Z",
-    "duration": 169,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
-    }
-  },
-  {
     "id": "xls59o2GGCU",
     "title": "【安眠】心細くて眠れない夜に...♡まるで隣にいるような癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -5503,6 +5485,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/R4NxwlGVKoR9spXGLAqVInfP-MML5mxdt1-kTOMlIrDWcq1gv2cOuxjoPYmf5RNd8Xqbz17r=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
+    }
+  },
+  {
+    "id": "6DhTc_KIUSo",
+    "title": "【#ike3velanD 🖋️ 3Dお披露目】A Brand New Chapter",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-07-21T15:35:50.000Z",
+    "available_at": "2024-07-21T14:09:42.000Z",
+    "duration": 4396,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UC4yNIKGvy-YUrwYupVdLDXA",
+      "name": "Ike Eveland【NIJISANJI EN】",
+      "org": "Nijisanji",
+      "suborg": "56EN Luxiem",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ike Eveland"
     }
   },
   {
