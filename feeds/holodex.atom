@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-18T08:34:34.399Z</updated>
+  <updated>2024-11-18T10:32:57.843Z</updated>
+
+  <entry>
+    <id>urn:uuid:515f31a7-75e8-59e7-97bc-f481bd1c76f8</id>
+    <title><![CDATA[【歌枠】お・い・ろ・け..........♡【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/WFatuNgGbU4" rel="alternate" type="text/html"/>
+    <published>2024-11-18T09:31:42.000Z</published>
+    <updated>2024-11-18T09:31:42.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WFatuNgGbU4 【LIVE on &lt;t:1731924043:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WFatuNgGbU4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7c42afbc-7cd0-54c6-8421-4e3966ee2787</id>
@@ -15,7 +29,7 @@
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Dnf4zEtGgAA 【LIVE on &lt;t:1731924000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Dnf4zEtGgAA 【LIVE on &lt;t:1731924007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Dnf4zEtGgAA/maxresdefault.jpg"/>
   </entry>
 
@@ -59,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cPhMTudz58U 【LIVE on &lt;t:1731855643:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cPhMTudz58U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:eae60911-6621-5feb-9e62-ceca9e8509da</id>
+    <title><![CDATA[【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope]]></title>
+    <link href="https://youtu.be/RQn7biOiqHs" rel="alternate" type="text/html"/>
+    <published>2024-11-17T04:03:06.000Z</published>
+    <updated>2024-11-17T04:03:06.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RQn7biOiqHs 【LIVE on &lt;t:1731812231:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RQn7biOiqHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -549,20 +577,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1XzySLZAGsc 【LIVE on &lt;t:1731315620:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1XzySLZAGsc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eae60911-6621-5feb-9e62-ceca9e8509da</id>
-    <title><![CDATA[【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope]]></title>
-    <link href="https://youtu.be/RQn7biOiqHs" rel="alternate" type="text/html"/>
-    <published>2024-11-11T07:46:44.000Z</published>
-    <updated>2024-11-11T07:46:44.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RQn7biOiqHs 【LIVE on &lt;t:1731812231:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RQn7biOiqHs/maxresdefault.jpg"/>
   </entry>
 
   <entry>

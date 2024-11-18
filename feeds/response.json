@@ -1,5 +1,25 @@
 [
   {
+    "id": "WFatuNgGbU4",
+    "title": "【歌枠】お・い・ろ・け..........♡【赤井はあと/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-18T09:31:42.000Z",
+    "available_at": "2024-11-18T10:00:43.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 2,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "GXQHfvcWlOw",
     "title": "【Official 3D Version】Shattered Wings - Banzoin Hakka #HAKKA3D",
     "type": "stream",
@@ -24,9 +44,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-18T06:44:25.000Z",
-    "available_at": "2024-11-18T10:00:00.000Z",
+    "available_at": "2024-11-18T10:00:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 2,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -35,25 +56,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "_PIAASKTr-w",
-    "title": "【振り返り】6周年ライブ新衣装お披露目&ホロ甲子園優勝ありがとおおおおおお【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-18T05:22:05.000Z",
-    "available_at": "2024-11-18T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -153,6 +155,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "RQn7biOiqHs",
+    "title": "【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-17T04:03:06.000Z",
+    "available_at": "2024-11-17T02:57:11.000Z",
+    "duration": 3654,
+    "status": "past",
+    "songcount": 13,
+    "live_tl_count": {
+      "ko": 14
+    },
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
     }
   },
   {
@@ -763,6 +788,44 @@
     }
   },
   {
+    "id": "WV8xPpZT0jg",
+    "title": "【ANNIVERSARY】ARMIS Cooks My Debut",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-14T04:14:35.000Z",
+    "available_at": "2024-11-19T04:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
+    }
+  },
+  {
+    "id": "_1OhvmvF_AA",
+    "title": "3 GOONS ROAST MY DEBUT",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-14T03:43:40.000Z",
+    "available_at": "2024-11-19T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "OdrR5WvLVK4",
     "title": "【MINECRAFT】ANNIVERSARY PIXEL ART STREAM!!",
     "type": "stream",
@@ -1163,29 +1226,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "RQn7biOiqHs",
-    "title": "【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-11T07:46:44.000Z",
-    "available_at": "2024-11-17T02:57:11.000Z",
-    "duration": 3657,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "ko": 14
-    },
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
@@ -2197,25 +2237,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "eCRlwq_rpM8",
-    "title": "【KARAOKE / 歌枠】Halloween Unarchived Karaoke before NEW SONG COVER! :D",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-30T14:10:33.000Z",
-    "available_at": "2024-10-31T02:30:20.000Z",
-    "duration": 5379,
-    "status": "missing",
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
@@ -4966,25 +4987,6 @@
     "published_at": "2024-08-14T12:20:23.000Z",
     "available_at": "2024-08-14T11:02:48.000Z",
     "duration": 4421,
-    "status": "past",
-    "channel": {
-      "id": "UCUKD-uaobj9jiqB-VXt71mA",
-      "name": "Botan Ch.獅白ぼたん",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "OWclEgueelc",
-    "title": "【1/8192】4周年のカウントダウンまでに1/2を13回連続で引き当てられるのか【獅白ぼたん/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-13T16:02:15.000Z",
-    "available_at": "2024-08-13T14:31:19.000Z",
-    "duration": 5161,
     "status": "past",
     "channel": {
       "id": "UCUKD-uaobj9jiqB-VXt71mA",
