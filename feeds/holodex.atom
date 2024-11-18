@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-18T06:37:06.651Z</updated>
+  <updated>2024-11-18T08:34:34.399Z</updated>
+
+  <entry>
+    <id>urn:uuid:7c42afbc-7cd0-54c6-8421-4e3966ee2787</id>
+    <title><![CDATA[【歌枠/KARAOKE】今週も頑張ろうの歌を歌うよ【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/Dnf4zEtGgAA" rel="alternate" type="text/html"/>
+    <published>2024-11-18T06:44:25.000Z</published>
+    <updated>2024-11-18T06:44:25.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Dnf4zEtGgAA 【LIVE on &lt;t:1731924000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Dnf4zEtGgAA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2a0f4502-4134-53e4-92c2-5e670ef35d60</id>
@@ -2159,20 +2173,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NxtHvRVLzXM 【LIVE on &lt;t:1722337172:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NxtHvRVLzXM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:31b48e2b-f341-5b68-8806-8b1f43b6cdf6</id>
-    <title><![CDATA[【#ike3velanD 🖋️ 3Dお披露目】A Brand New Chapter]]></title>
-    <link href="https://youtu.be/6DhTc_KIUSo" rel="alternate" type="text/html"/>
-    <published>2024-07-21T15:35:50.000Z</published>
-    <updated>2024-07-21T15:35:50.000Z</updated>
-    <author>
-      <name>Ike Eveland【NIJISANJI EN】</name>
-      <uri>https://www.youtube.com/channel/UC4yNIKGvy-YUrwYupVdLDXA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6DhTc_KIUSo 【LIVE on &lt;t:1721570982:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6DhTc_KIUSo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
