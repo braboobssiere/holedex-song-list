@@ -78,6 +78,25 @@
     }
   },
   {
+    "id": "sWablRBg4CA",
+    "title": "【UNARCHIVED】just an excuse to yap and casually sing songs",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-19T08:48:42.000Z",
+    "available_at": "2024-11-19T22:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "GXQHfvcWlOw",
     "title": "【Official 3D Version】Shattered Wings - Banzoin Hakka #HAKKA3D",
     "type": "stream",
@@ -122,9 +141,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-11-18T15:01:37.000Z",
-    "available_at": "2024-11-19T15:00:00.000Z",
+    "available_at": "2024-11-19T15:06:10.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -156,6 +175,26 @@
     }
   },
   {
+    "id": "Dnf4zEtGgAA",
+    "title": "【歌枠/KARAOKE】今週も頑張ろうの歌を歌うよ【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-18T11:43:16.000Z",
+    "available_at": "2024-11-18T10:00:07.000Z",
+    "duration": 5790,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "WFatuNgGbU4",
     "title": "【歌枠】お・い・ろ・け..........♡【赤井はあと/ホロライブ】",
     "type": "stream",
@@ -173,26 +212,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "Dnf4zEtGgAA",
-    "title": "【歌枠/KARAOKE】今週も頑張ろうの歌を歌うよ【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-18T06:44:25.000Z",
-    "available_at": "2024-11-18T10:00:07.000Z",
-    "duration": 5812,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -910,14 +929,32 @@
     }
   },
   {
+    "id": "FJeU1qdVIDQ",
+    "title": "?!?!?!?!?!?! #holoARMIS #ARMISversary",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-14T07:42:05.000Z",
+    "available_at": "2024-11-20T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJxZpzx4wHzEYD-eCiZPikg",
+      "name": "HOLOSTARS English",
+      "org": "Hololive",
+      "suborg": "0eOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/jvGFuTmqlv5udorr8TGYsllUntfo0yXRn2hpWrvjWz_nso1-tTQ2J3TPV616F-JLHLKB4s65=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "PC14-jgaYEU",
-    "title": "【歌枠】ニコたんの好きなアニメがわかっちゃうねん!【虎金妃笑虎】",
+    "title": "【歌枠】ニコたんの好きなアニメがわかっちゃうねん！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-14T05:22:15.000Z",
     "available_at": "2024-11-19T13:34:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5566,
+    "status": "past",
     "live_tl_count": {
       "en": 9
     },
@@ -2223,26 +2260,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "wuKVL0dEGcA",
-    "title": "【ハロウィン弾き語り歌枠】今年もやってきました【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-31T15:36:38.000Z",
-    "available_at": "2024-10-31T13:01:03.000Z",
-    "duration": 4520,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -5003,25 +5020,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "i8wKrwKJQsU",
-    "title": "【 #獅白ぼたん4周年 】ココイチ最強トッピング議論会場(告知もあるはず!)【獅白ぼたん/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-14T12:20:23.000Z",
-    "available_at": "2024-08-14T11:02:48.000Z",
-    "duration": 4421,
-    "status": "past",
-    "channel": {
-      "id": "UCUKD-uaobj9jiqB-VXt71mA",
-      "name": "Botan Ch.獅白ぼたん",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shishiro Botan"
     }
   },
   {
