@@ -1,5 +1,25 @@
 [
   {
+    "id": "Vg54h4Vjphk",
+    "title": "【縦型歌枠】まったり歌枠しよ〜 #shorts Singing stream【hololiveDEV_IS 水宮枢】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-19T12:40:28.000Z",
+    "available_at": "2024-11-19T12:58:45.000Z",
+    "duration": 5244,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "BSB823fUBic",
     "title": "【POST-ANNIVERSARY】CHECKING OUT WHAT ARMADA MADE FOR US!!",
     "type": "stream",
@@ -46,6 +66,7 @@
     "available_at": "2024-11-19T09:31:16.000Z",
     "duration": 6428,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -321,6 +342,7 @@
     "available_at": "2024-11-17T12:59:43.000Z",
     "duration": 4545,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -423,7 +445,7 @@
     "available_at": "2024-11-16T13:05:35.000Z",
     "duration": 4925,
     "status": "past",
-    "songcount": 6,
+    "songcount": 14,
     "channel": {
       "id": "UC6t3-_N8A6ME1JShZHHqOMw",
       "name": "Miyabi Ch. 花咲みやび",
@@ -893,9 +915,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-14T05:22:15.000Z",
-    "available_at": "2024-11-19T13:30:00.000Z",
+    "available_at": "2024-11-19T13:34:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -2279,25 +2304,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "NUICie97Ukw",
-    "title": "いざ 弾き語り歌枠【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-10-31T10:51:56.000Z",
-    "available_at": "2024-10-31T12:33:19.000Z",
-    "duration": 4176,
-    "status": "missing",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
