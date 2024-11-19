@@ -44,9 +44,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-19T09:47:36.000Z",
-    "available_at": "2024-11-19T18:00:00.000Z",
+    "available_at": "2024-11-19T18:02:40.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -142,8 +142,8 @@
     "topic_id": "asmr",
     "published_at": "2024-11-18T15:01:37.000Z",
     "available_at": "2024-11-19T15:06:10.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5106,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -152,6 +152,45 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "WFatuNgGbU4",
+    "title": "【歌枠】お・い・ろ・け..........💔【赤井はあと/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-18T13:25:31.000Z",
+    "available_at": "2024-11-18T10:00:43.000Z",
+    "duration": 11184,
+    "status": "past",
+    "songcount": 32,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "p0UqJmkT1jU",
+    "title": "【 #SSholoX3周年 】 もうすぐholoX3周年!holoXerの質問に答えちゃいます!嬉しいお知らせも!? 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-18T12:02:58.000Z",
+    "available_at": "2024-11-18T10:58:45.000Z",
+    "duration": 3626,
+    "status": "past",
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -192,26 +231,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "WFatuNgGbU4",
-    "title": "【歌枠】お・い・ろ・け..........♡【赤井はあと/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-18T09:31:42.000Z",
-    "available_at": "2024-11-18T10:00:43.000Z",
-    "duration": 11404,
-    "status": "past",
-    "songcount": 32,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
@@ -764,25 +783,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "p0UqJmkT1jU",
-    "title": "【 #SSholoX3周年 】 もうすぐholoX3周年！holoXerの質問に答えちゃいます！嬉しいお知らせも！？ 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-15T07:55:49.000Z",
-    "available_at": "2024-11-18T10:58:45.000Z",
-    "duration": 3642,
-    "status": "past",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
