@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-19T08:33:43.793Z</updated>
+  <updated>2024-11-19T10:32:44.516Z</updated>
+
+  <entry>
+    <id>urn:uuid:d3fdd458-a02d-57e7-8c5a-148640035144</id>
+    <title><![CDATA[【 歌枠 】知ってる曲しかない!!!!!!!【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
+    <link href="https://youtu.be/-n4BCUUdzJU" rel="alternate" type="text/html"/>
+    <published>2024-11-19T09:06:06.000Z</published>
+    <updated>2024-11-19T09:06:06.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-n4BCUUdzJU 【LIVE on &lt;t:1732008676:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-n4BCUUdzJU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6b927dd1-4e3d-5433-bad4-7e81b1876a7c</id>
@@ -983,20 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ylwWnxuVx68 【LIVE on &lt;t:1730383406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ylwWnxuVx68/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:db7e675f-29a3-53db-9ce4-6ac3aba7b18c</id>
-    <title><![CDATA[【歌枠】ハロウィンソング多め!22時の歌ってみた公開前に歌うよ〜ッ🎤🎶【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/EvRNGbJmLWo" rel="alternate" type="text/html"/>
-    <published>2024-10-31T14:36:26.000Z</published>
-    <updated>2024-10-31T14:36:26.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EvRNGbJmLWo 【LIVE on &lt;t:1730377632:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EvRNGbJmLWo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
