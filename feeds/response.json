@@ -1,13 +1,33 @@
 [
   {
-    "id": "FJeU1qdVIDQ",
-    "title": "?!?!?!?!?!?! #holoARMIS #ARMISversary",
+    "id": "dedOD0yShTI",
+    "title": "My Experience recording our 2ND ARMIS ORIGINAL SONG【JUST CHATTING】",
     "type": "stream",
-    "topic_id": "Anniversary",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-20T03:24:14.000Z",
+    "available_at": "2024-11-20T06:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "FJeU1qdVIDQ",
+    "title": "【MV】Take’em Down #holoARMIS #ARMISversary",
+    "type": "stream",
+    "topic_id": "Original_Song",
     "published_at": "2024-11-20T03:00:06.000Z",
     "available_at": "2024-11-20T03:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 203,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJxZpzx4wHzEYD-eCiZPikg",
       "name": "HOLOSTARS English",
@@ -3162,26 +3182,6 @@
     }
   },
   {
-    "id": "ua9r5T3WZj8",
-    "title": "【original】守護ってルーナイト【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-10T12:00:06.000Z",
-    "available_at": "2024-10-10T12:00:06.000Z",
-    "duration": 227,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
     "id": "dq5h1q3S4vQ",
     "title": "【3Dで振り返り】ReGLOSSの本気、見てくれた?【#本気のReGLOSS】",
     "type": "stream",
@@ -3235,27 +3235,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nanashi Mumei"
-    }
-  },
-  {
-    "id": "hJK6jHgLPF8",
-    "title": "ムーンライト",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-08T06:58:06.000Z",
-    "available_at": "2024-10-08T06:58:06.000Z",
-    "duration": 185,
-    "status": "missing",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -5021,6 +5000,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
+    }
+  },
+  {
+    "id": "wjpTk80F8dw",
+    "title": "【 #橘ひなの4周年記念ライブ 】夏だ!周年だ!平成だ!ドキッ!~終わらない?平成36年!?~【 ぶいすぽっ!/橘ひなの 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-08-14T12:40:22.000Z",
+    "available_at": "2024-08-14T10:57:31.000Z",
+    "duration": 5749,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UCvUc0m317LWTTPZoBQV479A",
+      "name": "橘ひなの / Hinano Tachibana",
+      "org": "VSpo",
+      "suborg": "0cIris Black Games",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/76a_ty_OwF-nJWNuuxxeJokcgqlmkKCHwXSto9cKKkyjPO2agiu5Tc7t4f6dz5uaab7X8U5mVQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tachibana Hinano"
     }
   },
   {
