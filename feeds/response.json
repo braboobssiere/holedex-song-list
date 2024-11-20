@@ -25,9 +25,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-20T11:27:17.000Z",
-    "available_at": "2024-11-20T21:00:00.000Z",
+    "available_at": "2024-11-20T20:55:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
       "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -77,6 +77,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "TnbY43G4q10",
+    "title": "【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-11-19T16:34:58.000Z",
+    "available_at": "2024-11-19T15:06:10.000Z",
+    "duration": 5103,
+    "status": "past",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -275,25 +294,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "TnbY43G4q10",
-    "title": "【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-11-18T15:01:37.000Z",
-    "available_at": "2024-11-19T15:06:10.000Z",
-    "duration": 5106,
-    "status": "past",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
