@@ -43,9 +43,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-11-19T23:58:57.000Z",
-    "available_at": "2024-11-20T10:00:00.000Z",
+    "available_at": "2024-11-20T10:01:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -132,6 +132,44 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
+    }
+  },
+  {
+    "id": "WV8xPpZT0jg",
+    "title": "【ANNIVERSARY】ARMIS Cooks My Debut",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-19T05:23:48.000Z",
+    "available_at": "2024-11-19T04:03:30.000Z",
+    "duration": 3423,
+    "status": "past",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
+    }
+  },
+  {
+    "id": "_1OhvmvF_AA",
+    "title": "3 GOONS ROAST MY DEBUT",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-19T04:13:48.000Z",
+    "available_at": "2024-11-19T03:00:22.000Z",
+    "duration": 3764,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
@@ -987,44 +1025,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "WV8xPpZT0jg",
-    "title": "【ANNIVERSARY】ARMIS Cooks My Debut",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-14T04:14:35.000Z",
-    "available_at": "2024-11-19T04:03:30.000Z",
-    "duration": 3428,
-    "status": "past",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "_1OhvmvF_AA",
-    "title": "3 GOONS ROAST MY DEBUT",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-14T03:43:40.000Z",
-    "available_at": "2024-11-19T03:00:22.000Z",
-    "duration": 3759,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -3418,25 +3418,6 @@
     }
   },
   {
-    "id": "8AUPQS1UwVg",
-    "title": "【#ReGLOSS3Dライブ】渾身のデスゲーム格付け【#一条莉々華 #hololiveDEV_IS #ReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-10-01T10:00:13.000Z",
-    "available_at": "2024-10-01T10:00:00.000Z",
-    "duration": 303,
-    "status": "past",
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
-    }
-  },
-  {
     "id": "8aeo7yOdiMs",
     "title": "【🎂誕生日逆凸】ほぼ絡んだことない人限定で電話かけちゃお!!! #アンジュ爆誕【にじさんじ】",
     "type": "stream",
@@ -5523,6 +5504,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/R4NxwlGVKoR9spXGLAqVInfP-MML5mxdt1-kTOMlIrDWcq1gv2cOuxjoPYmf5RNd8Xqbz17r=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
+    }
+  },
+  {
+    "id": "6DhTc_KIUSo",
+    "title": "【#ike3velanD 🖋️ 3Dお披露目】A Brand New Chapter",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-07-21T15:35:50.000Z",
+    "available_at": "2024-07-21T14:09:42.000Z",
+    "duration": 4396,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UC4yNIKGvy-YUrwYupVdLDXA",
+      "name": "Ike Eveland【NIJISANJI EN】",
+      "org": "Nijisanji",
+      "suborg": "56EN Luxiem",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ike Eveland"
     }
   },
   {
