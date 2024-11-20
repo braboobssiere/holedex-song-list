@@ -1,5 +1,24 @@
 [
   {
+    "id": "SdsJ5sdDOHM",
+    "title": "【3D COLLAB】SPECIAL COLLAB WITH GOSEGU! #kfp #キアライブ",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-11-19T23:58:57.000Z",
+    "available_at": "2024-11-20T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
+    }
+  },
+  {
     "id": "Vg54h4Vjphk",
     "title": "【縦型歌枠】まったり歌枠しよ〜 #shorts Singing stream【hololiveDEV_IS 水宮枢】",
     "type": "stream",
@@ -65,8 +84,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-19T08:48:42.000Z",
     "available_at": "2024-11-19T22:00:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8248,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -164,7 +183,7 @@
     "available_at": "2024-11-18T10:00:43.000Z",
     "duration": 11184,
     "status": "past",
-    "songcount": 32,
+    "songcount": 31,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -936,6 +955,7 @@
     "available_at": "2024-11-19T13:34:58.000Z",
     "duration": 5566,
     "status": "past",
+    "songcount": 8,
     "live_tl_count": {
       "en": 9
     },
@@ -5504,26 +5524,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/R4NxwlGVKoR9spXGLAqVInfP-MML5mxdt1-kTOMlIrDWcq1gv2cOuxjoPYmf5RNd8Xqbz17r=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "6DhTc_KIUSo",
-    "title": "【#ike3velanD 🖋️ 3Dお披露目】A Brand New Chapter",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-07-21T15:35:50.000Z",
-    "available_at": "2024-07-21T14:09:42.000Z",
-    "duration": 4396,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC4yNIKGvy-YUrwYupVdLDXA",
-      "name": "Ike Eveland【NIJISANJI EN】",
-      "org": "Nijisanji",
-      "suborg": "56EN Luxiem",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ike Eveland"
     }
   },
   {
