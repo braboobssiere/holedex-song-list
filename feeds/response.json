@@ -8,6 +8,7 @@
     "available_at": "2024-11-21T09:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
@@ -80,12 +81,12 @@
   },
   {
     "id": "Vg54h4Vjphk",
-    "title": "【縦型歌枠】まったり歌枠しよ〜 #shorts Singing stream【hololiveDEV_IS 水宮枢】",
+    "title": "【縦型歌枠】まったり歌枠しよ〜  #shorts Singing stream【hololiveDEV_IS 水宮枢】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-11-19T12:40:28.000Z",
+    "published_at": "2024-11-19T15:21:42.000Z",
     "available_at": "2024-11-19T12:58:45.000Z",
-    "duration": 5244,
+    "duration": 3274,
     "status": "past",
     "songcount": 13,
     "channel": {
@@ -96,6 +97,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "PC14-jgaYEU",
+    "title": "【歌枠】ニコたんの好きなアニメがわかっちゃうねん!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-19T15:16:28.000Z",
+    "available_at": "2024-11-19T13:34:58.000Z",
+    "duration": 5553,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 9
+    },
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -1024,29 +1048,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "PC14-jgaYEU",
-    "title": "【歌枠】ニコたんの好きなアニメがわかっちゃうねん！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-14T05:22:15.000Z",
-    "available_at": "2024-11-19T13:34:58.000Z",
-    "duration": 5566,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 9
-    },
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
