@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-22T14:24:44.000Z",
     "available_at": "2024-11-22T15:08:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5234,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -58,13 +58,13 @@
   },
   {
     "id": "jGZ0-WIjArU",
-    "title": "【歌枠】第118回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
+    "title": "【歌枠】第１１８回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-22T09:33:41.000Z",
     "available_at": "2024-11-22T14:05:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10496,
+    "status": "past",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -191,6 +191,44 @@
     }
   },
   {
+    "id": "iDOW8dZuy_Y",
+    "title": "【収益化記念配信】歌枠リレー みんなありがとう✨!【hololiveDEV_IS/水宮枢】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-21T04:47:10.000Z",
+    "available_at": "2024-11-23T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "uzbJTStOG_Y",
+    "title": "【収益化記念歌枠リレー】歌で感謝を届けます!【#輪堂千速 / #flowglow #hololivedev_is 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-21T04:40:31.000Z",
+    "available_at": "2024-11-23T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "v_JTeFSXFgY",
     "title": "【収益化記念歌枠リレー】ノンストップスナックニコたん開演だぜ!【虎金妃笑虎】",
     "type": "stream",
@@ -245,6 +283,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
+    "id": "Bx7pOfe-Sp0",
+    "title": "【収益化記念Live】初めての歌枠!心を込めて歌います! #hololiveDEV_IS #FLOWGLOW",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-21T00:07:37.000Z",
+    "available_at": "2024-11-23T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -1396,6 +1453,25 @@
     }
   },
   {
+    "id": "p87Tqf6_zBQ",
+    "title": "The Very First Debut Karaoke 【REBROADCAST: Aug 3, 2023】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-12T22:40:52.000Z",
+    "available_at": "2024-11-23T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "name": "Shiori Novella Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiori Novella"
+    }
+  },
+  {
     "id": "6S0dtcBi7Mk",
     "title": "【初歌枠】ニコたんの好きな曲歌う!【虎金妃笑虎】#ニコたん配信中",
     "type": "stream",
@@ -2014,25 +2090,6 @@
     }
   },
   {
-    "id": "LQcDTdRnQHM",
-    "title": "REBROADCAST =【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-07T15:12:45.000Z",
-    "available_at": "2024-11-08T09:58:35.000Z",
-    "duration": 16679,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
     "id": "Lt20g3buwWw",
     "title": "GET THE CROWN(Instrumental)",
     "type": "stream",
@@ -2158,26 +2215,6 @@
     }
   },
   {
-    "id": "6IJpVVGIxno",
-    "title": "【ゲリラKARAOKE】カメムシと出会って一年だから6×4曲歌う【火威青 】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-06T16:34:47.000Z",
-    "available_at": "2024-11-06T13:11:16.000Z",
-    "duration": 10706,
-    "status": "past",
-    "songcount": 24,
-    "channel": {
-      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7axTno1zkKS6RhYH7cZ9FecAkjBmZRYTwDeVoqxDdAx0wGfqatlMY10igRFEa1gpAtq5rqnDJg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiodoshi Ao"
-    }
-  },
-  {
     "id": "JaOPEm5u1ko",
     "title": "【3Dミニライブあり】アルバム大解剖SP【#ReGLOSSアルバム発売】",
     "type": "stream",
@@ -2193,48 +2230,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "nFsSK4udOf0",
-    "title": "【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-06T04:05:58.000Z",
-    "available_at": "2024-11-06T19:01:25.000Z",
-    "duration": 15880,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "WL1V8ik09-8",
-    "title": "【㊗2000本目】ゲリラで120万人耐久KARAOKE歌枠~~~!???🎤✨【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-05T16:47:38.000Z",
-    "available_at": "2024-11-05T14:59:55.000Z",
-    "duration": 6146,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 66
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
