@@ -45,8 +45,8 @@
     "topic_id": "Birthday",
     "published_at": "2024-11-21T00:40:40.000Z",
     "available_at": "2024-11-22T00:56:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10633,
+    "status": "past",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -55,6 +55,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
+    "id": "_lC-6ciWdxQ",
+    "title": "【Anniversary Zatsudan】A years worth of Golden Memories",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-20T23:18:38.000Z",
+    "available_at": "2024-11-20T20:55:47.000Z",
+    "duration": 6828,
+    "status": "past",
+    "channel": {
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+      "name": "Goldbullet Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ouq6R6SS8IhOBZvIh98KePG_zZFPcU_smonBrMZw-DlQ-SDT0itJMb73CcYeEs1Hps1HzNm4_w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Goldbullet"
     }
   },
   {
@@ -96,25 +115,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "_lC-6ciWdxQ",
-    "title": "【Anniversary Zatsudan】A years worth of Golden Memories",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-20T11:27:17.000Z",
-    "available_at": "2024-11-20T20:55:47.000Z",
-    "duration": 6822,
-    "status": "past",
-    "channel": {
-      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-      "name": "Goldbullet Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ouq6R6SS8IhOBZvIh98KePG_zZFPcU_smonBrMZw-DlQ-SDT0itJMb73CcYeEs1Hps1HzNm4_w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Goldbullet"
     }
   },
   {
