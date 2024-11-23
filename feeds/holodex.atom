@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-23T06:33:52.624Z</updated>
+  <updated>2024-11-23T08:30:27.723Z</updated>
 
   <entry>
     <id>urn:uuid:3466c7c8-9371-542c-bc78-85baa3dac782</id>
-    <title><![CDATA[【MV】DONMAI × ASSC - Mori Calliope ( Produced by Jean-Ken Johnny / E D Vedder)]]></title>
+    <title><![CDATA[【MV】DONMAI - Mori Calliope x ASSC ( Produced by Jean-Ken Johnny / E D Vedder)]]></title>
     <link href="https://youtu.be/41f02t3Yg40" rel="alternate" type="text/html"/>
     <published>2024-11-23T04:05:06.000Z</published>
     <updated>2024-11-23T04:05:06.000Z</updated>
@@ -147,7 +147,7 @@
 
   <entry>
     <id>urn:uuid:f49e651b-e300-511f-a7c4-febffde589dc</id>
-    <title><![CDATA[【収益化記念歌枠リレー】歌で感謝を届けます!【#輪堂千速 / #flowglow #hololivedev_is 】]]></title>
+    <title><![CDATA[【収益化記念歌枠リレー】歌で感謝を届けます！【#輪堂千速 / #flowglow #hololivedev_is 】]]></title>
     <link href="https://youtu.be/uzbJTStOG_Y" rel="alternate" type="text/html"/>
     <published>2024-11-21T04:40:31.000Z</published>
     <updated>2024-11-21T04:40:31.000Z</updated>
@@ -185,6 +185,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Bx7pOfe-Sp0 【LIVE on &lt;t:1732363200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Bx7pOfe-Sp0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c0df3f34-553b-5280-a16c-c9c280a4f537</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】dempagumi.inc dream never ends ♪ #FWMCbeats 【でんぱ組.inc曲縛り】]]></title>
+    <link href="https://youtu.be/tIJdIwYXEMA" rel="alternate" type="text/html"/>
+    <published>2024-11-20T15:49:31.000Z</published>
+    <updated>2024-11-20T15:49:31.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tIJdIwYXEMA 【LIVE on &lt;t:1732413600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tIJdIwYXEMA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2131,20 +2145,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9wBs8us-F4o 【LIVE on &lt;t:1723164939:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9wBs8us-F4o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f7addd3d-b88d-5d34-bae5-a8d44f48a238</id>
-    <title><![CDATA[【#常闇トワ生誕祭2024】ｰ COLORFUL ｰ【3DLIVE】]]></title>
-    <link href="https://youtu.be/C-QdqYjdArM" rel="alternate" type="text/html"/>
-    <published>2024-08-08T12:04:30.000Z</published>
-    <updated>2024-08-08T12:04:30.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=C-QdqYjdArM 【LIVE on &lt;t:1723114719:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C-QdqYjdArM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
