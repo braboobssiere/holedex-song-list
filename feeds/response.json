@@ -1,5 +1,24 @@
 [
   {
+    "id": "snabuuEo-AI",
+    "title": "【七つの大罪~光と闇の交戦~】グラクロ5.5周年!初見で遊んでみるぞっ!【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-23T05:40:19.000Z",
+    "available_at": "2024-11-23T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "41f02t3Yg40",
     "title": "【MV】DONMAI × ASSC - Mori Calliope ( Produced by Jean-Ken Johnny / E D Vedder)",
     "type": "stream",
@@ -47,6 +66,7 @@
     "available_at": "2024-11-22T15:08:59.000Z",
     "duration": 5234,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -66,6 +86,7 @@
     "available_at": "2024-11-22T13:01:00.000Z",
     "duration": 7745,
     "status": "past",
+    "songcount": 24,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -85,6 +106,7 @@
     "available_at": "2024-11-22T14:05:19.000Z",
     "duration": 10496,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -101,7 +123,7 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-22T08:48:20.000Z",
-    "available_at": "2024-11-23T14:00:00.000Z",
+    "available_at": "2024-11-23T14:30:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -2534,13 +2556,13 @@
   },
   {
     "id": "o3i6tPNgXEE",
-    "title": "【KARAOKE】NO ARCHIVE SONG TIMEEEEEE【ホロライブ/ロボ子さん】",
+    "title": "【KARAOKE】NO ARCHIVE　SONG TIMEEEEEE【ホロライブ/ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-10-30T13:18:18.000Z",
     "available_at": "2024-11-23T03:00:34.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -5069,25 +5091,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "Q-B_dWBvSsM",
-    "title": "【#尾丸ポルカ4周年】新曲!?お披露目!!みんなありがとう!!5年目のポルカをお届け!【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-16T12:06:49.000Z",
-    "available_at": "2024-08-16T11:00:45.000Z",
-    "duration": 3692,
-    "status": "past",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
