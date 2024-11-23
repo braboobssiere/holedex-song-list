@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-22T14:43:53.000Z",
     "available_at": "2024-11-22T23:55:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7472,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -160,6 +160,7 @@
     "available_at": "2024-11-23T01:01:26.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 5,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -172,7 +173,7 @@
   },
   {
     "id": "41f02t3Yg40",
-    "title": "???",
+    "title": "DONMAI - Mori Calliope",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-11-22T01:41:15.000Z",
