@@ -1,7 +1,7 @@
 [
   {
     "id": "41f02t3Yg40",
-    "title": "【MV】DONMAI - Mori Calliope x ASSC ( Produced by Jean-Ken Johnny / E D Vedder)",
+    "title": "【MV】DONMAI - Mori Calliope x ASSC Collaboration",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-11-23T04:05:06.000Z",
@@ -180,9 +180,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-22T05:51:18.000Z",
-    "available_at": "2024-11-23T09:00:00.000Z",
+    "available_at": "2024-11-23T09:04:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -200,8 +200,8 @@
     "topic_id": "Anniversary",
     "published_at": "2024-11-22T05:45:50.000Z",
     "available_at": "2024-11-23T01:01:26.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 28804,
+    "status": "past",
     "songcount": 11,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -211,6 +211,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
+    }
+  },
+  {
+    "id": "NJajbdH6q60",
+    "title": "WELCOME TO MY SLUMBER PARTY!! | #RissaHatchDay24",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-11-22T04:04:04.000Z",
+    "available_at": "2024-11-22T00:56:50.000Z",
+    "duration": 10638,
+    "status": "past",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
     }
   },
   {
@@ -253,82 +272,6 @@
     }
   },
   {
-    "id": "jrOYQkclzxY",
-    "title": "【収益化記念歌枠リレー】これが響咲リオナLIVEです!#響咲リオナ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-21T05:46:05.000Z",
-    "available_at": "2024-11-23T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "iDOW8dZuy_Y",
-    "title": "【収益化記念配信】歌枠リレー みんなありがとう✨!【hololiveDEV_IS/水宮枢】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-21T04:47:10.000Z",
-    "available_at": "2024-11-23T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "uzbJTStOG_Y",
-    "title": "【収益化記念歌枠リレー】歌で感謝を届けます！【#輪堂千速 / #flowglow #hololivedev_is 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-21T04:40:31.000Z",
-    "available_at": "2024-11-23T11:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "v_JTeFSXFgY",
-    "title": "【収益化記念歌枠リレー】ノンストップスナックニコたん開演だぜ!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-21T04:33:11.000Z",
-    "available_at": "2024-11-23T10:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "z9pdqZsWY2k",
     "title": "【縦型歌枠】まったり歌枠しよ〜  #shorts Singing stream【hololiveDEV_IS 水宮枢】",
     "type": "stream",
@@ -345,44 +288,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "NJajbdH6q60",
-    "title": "WELCOME TO MY SLUMBER PARTY!! | #RissaHatchDay24",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-11-21T00:40:40.000Z",
-    "available_at": "2024-11-22T00:56:50.000Z",
-    "duration": 10633,
-    "status": "past",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "Bx7pOfe-Sp0",
-    "title": "【収益化記念Live】初めての歌枠!心を込めて歌います! #hololiveDEV_IS #FLOWGLOW",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-21T00:07:37.000Z",
-    "available_at": "2024-11-23T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -2014,6 +1919,26 @@
     }
   },
   {
+    "id": "qaDbNUHldOA",
+    "title": "【KARAOKE】LET'S SING SOME VOCALOID BABY 🎤✨【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-09T06:16:57.000Z",
+    "available_at": "2024-11-09T02:00:18.000Z",
+    "duration": 14717,
+    "status": "past",
+    "songcount": 39,
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "6PUR_qK0rrY",
     "title": "【3D TRICK OR TREATING】trick or treat, smell feet, good to eat 🎃🐾 【FUWAMOCO】",
     "type": "stream",
@@ -2050,6 +1975,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "0Dj1Ib2SVZE",
+    "title": "【縦型歌枠】しっとり歌枠!雑談もしよ~!【轟はじめ/ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-08T15:55:45.000Z",
+    "available_at": "2024-11-08T14:00:29.000Z",
+    "duration": 5989,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -2093,6 +2038,26 @@
     }
   },
   {
+    "id": "POyLVcw5UWE",
+    "title": "🛸【歌枠】ラプこよでオフコラボ 💜初めて家に人を呼びます🧪#汚部屋歌枠 ✧︎SINGING! ✧︎ 【ラプラス・ダークネス/ホロライブ】💜",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-08T12:17:29.000Z",
+    "available_at": "2024-11-08T10:59:48.000Z",
+    "duration": 4306,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "6h1mezywMCw",
     "title": "FLOW GLOW / FG ROADSTER【Official Music Video】",
     "type": "stream",
@@ -2128,6 +2093,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
+    }
+  },
+  {
+    "id": "LQcDTdRnQHM",
+    "title": "REBROADCAST =【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-07T15:12:45.000Z",
+    "available_at": "2024-11-08T09:58:35.000Z",
+    "duration": 16679,
+    "status": "missing",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -2271,6 +2255,25 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "nFsSK4udOf0",
+    "title": "【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-06T04:05:58.000Z",
+    "available_at": "2024-11-06T19:01:25.000Z",
+    "duration": 15880,
+    "status": "missing",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
