@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-24T11:11:44.000Z",
     "available_at": "2024-11-24T12:33:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10879,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -607,6 +607,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
+    }
+  },
+  {
+    "id": "8jwAT0WZ9Js",
+    "title": "【襲来】3周年直前のラプラスが侵略をしかけてきた!【#ホロの休日_仮 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-19T04:34:24.000Z",
+    "available_at": "2024-11-25T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5155,25 +5174,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "Q-B_dWBvSsM",
-    "title": "【#尾丸ポルカ4周年】新曲!?お披露目!!みんなありがとう!!5年目のポルカをお届け!【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-08-16T12:06:49.000Z",
-    "available_at": "2024-08-16T11:00:45.000Z",
-    "duration": 3692,
-    "status": "past",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
