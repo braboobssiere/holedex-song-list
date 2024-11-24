@@ -1,13 +1,32 @@
 [
   {
+    "id": "mIT6N3g_eDk",
+    "title": "越冬に向け ピアノ弾き語り【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-24T11:11:44.000Z",
+    "available_at": "2024-11-24T12:33:59.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dlq5H2SBaaAq9ilOfgGm0QvcVGEieSICsdk0Hv6oADZFn5Q0ctV1nxNAiQAJiS8u_svx5YlasQE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "B1RyNxgc9zk",
-    "title": "休日のエレクトーン練習でみんなのQOLを上げるのら~~!🎹 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "title": "休日のエレクトーン練習でみんなのQOLを上げるのら～～！🎹 Playing the Electone【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2024-11-24T00:24:24.000Z",
     "available_at": "2024-11-24T07:02:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 18376,
+    "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -16,25 +35,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "wwBnS6EMxgA",
-    "title": "【MEMBERSHIP】POST-ANNIVERSARY CHAT",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-23T11:41:58.000Z",
-    "available_at": "2024-11-23T12:00:45.000Z",
-    "duration": 10005,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -181,9 +181,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-22T09:11:52.000Z",
-    "available_at": "2024-11-24T12:00:00.000Z",
+    "available_at": "2024-11-24T11:57:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -316,8 +316,11 @@
     "topic_id": "3D_Stream",
     "published_at": "2024-11-22T03:46:27.000Z",
     "available_at": "2024-11-24T09:50:29.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2521,
+    "status": "past",
+    "live_tl_count": {
+      "en": 4
+    },
     "original_channel_id": "UC98OqOiTLKsik84AB264Uog",
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -2333,25 +2336,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "nFsSK4udOf0",
-    "title": "【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-06T04:05:58.000Z",
-    "available_at": "2024-11-06T19:01:25.000Z",
-    "duration": 15880,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -5171,6 +5155,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
+    }
+  },
+  {
+    "id": "Q-B_dWBvSsM",
+    "title": "【#尾丸ポルカ4周年】新曲!?お披露目!!みんなありがとう!!5年目のポルカをお届け!【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-08-16T12:06:49.000Z",
+    "available_at": "2024-08-16T11:00:45.000Z",
+    "duration": 3692,
+    "status": "past",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
     }
   },
   {
