@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2024-11-24T00:24:24.000Z",
-    "available_at": "2024-11-24T07:00:00.000Z",
+    "available_at": "2024-11-24T07:02:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -144,7 +144,7 @@
     "published_at": "2024-11-22T14:43:53.000Z",
     "available_at": "2024-11-22T23:55:48.000Z",
     "duration": 7472,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -413,8 +413,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-20T15:49:31.000Z",
     "available_at": "2024-11-24T02:12:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 16471,
+    "status": "past",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
