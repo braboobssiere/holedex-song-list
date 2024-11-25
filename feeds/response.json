@@ -1,5 +1,24 @@
 [
   {
+    "id": "9dxJ5N_h4As",
+    "title": "【UNARCHIVE】Sorry, suddenly want to sing ;)【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-24T23:42:19.000Z",
+    "available_at": "2024-11-25T00:00:43.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "mIT6N3g_eDk",
     "title": "越冬に向け ピアノ弾き語り【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
@@ -243,6 +262,9 @@
     "duration": 4327,
     "status": "past",
     "songcount": 10,
+    "live_tl_count": {
+      "en": 193
+    },
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -420,6 +442,7 @@
     "available_at": "2024-11-24T02:12:55.000Z",
     "duration": 16471,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -2194,25 +2217,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "LQcDTdRnQHM",
-    "title": "REBROADCAST =【VR UNARCHIVED KARAOKE】Happy Together~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-07T15:12:45.000Z",
-    "available_at": "2024-11-08T09:58:35.000Z",
-    "duration": 16679,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
