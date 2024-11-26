@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-26T14:17:05.000Z",
-    "available_at": "2024-11-26T15:00:00.000Z",
+    "available_at": "2024-11-26T15:10:33.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -19,14 +19,34 @@
     }
   },
   {
+    "id": "vtEfALKX40E",
+    "title": "【組曲2】花譜×星街すいせい「一世風靡」【オリジナルMV】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-26T05:09:44.000Z",
+    "available_at": "2024-11-27T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
+      "name": "花譜 -KAF-",
+      "org": "KAMITSUBAKI",
+      "suborg": "11PHENOMENON RECORD",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B_LK3jAmQwbFT0f4I4YncBH36qMobvUu7P1wgddH6F8qMUUsBAl0gTn8PCgPs2zv6Z3uDfDR=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "KAF"
+    }
+  },
+  {
     "id": "0Prl6VmCepM",
     "title": "【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-11-25T22:52:53.000Z",
-    "available_at": "2024-11-26T15:00:00.000Z",
+    "available_at": "2024-11-26T15:03:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -43,9 +63,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-25T22:39:16.000Z",
-    "available_at": "2024-11-26T14:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-11-26T14:30:15.000Z",
+    "duration": 4823,
+    "status": "past",
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -74,6 +94,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "8jwAT0WZ9Js",
+    "title": "【襲来】3周年直前のラプラスが侵略をしかけてきた!【#ホロの休日_仮 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-25T11:05:58.000Z",
+    "available_at": "2024-11-25T09:58:57.000Z",
+    "duration": 3757,
+    "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -728,25 +767,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yzWpLfC1h3ewxv57y5ebtzUwYshCebcNx7_3uVjSX_2bTi_nqRJd4pjAsszVW2B_26zpX7fzFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "8jwAT0WZ9Js",
-    "title": "【襲来】3周年直前のラプラスが侵略をしかけてきた！【#ホロの休日_仮 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-19T04:34:24.000Z",
-    "available_at": "2024-11-25T09:58:57.000Z",
-    "duration": 3747,
-    "status": "past",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -3380,27 +3400,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "96XJ_q6V1-s",
-    "title": "HISTORY",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-13T15:01:49.000Z",
-    "available_at": "2024-10-13T15:01:49.000Z",
-    "duration": 146,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCw6x6MUxg2gLbLe8O1p7RTA",
-    "channel": {
-      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-      "name": "Kureiji Ollie Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kureiji Ollie"
     }
   },
   {

@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-26T14:29:59.842Z</updated>
+  <updated>2024-11-26T16:35:33.129Z</updated>
 
   <entry>
     <id>urn:uuid:f97b9bf3-5418-523c-8b59-8251d3a2e3cf</id>
@@ -15,8 +15,22 @@
       <name>アキロゼCh。Vtuber/ホロライブ所属</name>
       <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=seZmjv894sM 【LIVE on &lt;t:1732633200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=seZmjv894sM 【LIVE on &lt;t:1732633833:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/seZmjv894sM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:af8e3ffa-ba78-5c6c-8007-95ab02f5c584</id>
+    <title><![CDATA[【組曲2】花譜×星街すいせい「一世風靡」【オリジナルMV】]]></title>
+    <link href="https://youtu.be/vtEfALKX40E" rel="alternate" type="text/html"/>
+    <published>2024-11-26T05:09:44.000Z</published>
+    <updated>2024-11-26T05:09:44.000Z</updated>
+    <author>
+      <name>花譜 -KAF-</name>
+      <uri>https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vtEfALKX40E 【LIVE on &lt;t:1732701600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vtEfALKX40E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -29,7 +43,7 @@
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
@@ -1501,20 +1515,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3D7FlAWtA9k 【LIVE on &lt;t:1729004403:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3D7FlAWtA9k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9aaf729d-ba3c-5ce1-95da-01327f007ed1</id>
-    <title><![CDATA[HISTORY]]></title>
-    <link href="https://youtu.be/96XJ_q6V1-s" rel="alternate" type="text/html"/>
-    <published>2024-10-13T15:01:49.000Z</published>
-    <updated>2024-10-13T15:01:49.000Z</updated>
-    <author>
-      <name>Kureiji Ollie Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=96XJ_q6V1-s 【LIVE on &lt;t:1728831709:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/96XJ_q6V1-s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
