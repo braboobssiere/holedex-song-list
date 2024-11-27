@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-27T20:29:05.492Z</updated>
+  <updated>2024-11-27T22:28:51.013Z</updated>
 
   <entry>
     <id>urn:uuid:28e13b5a-6df6-5f5b-b83e-e37cad51792d</id>
@@ -119,16 +119,30 @@
 
   <entry>
     <id>urn:uuid:f97b9bf3-5418-523c-8b59-8251d3a2e3cf</id>
-    <title><![CDATA[【歌＆雑談/Song ＆Free Talk】チルチルチル【アキロゼ/ホロライブ】]]></title>
+    <title><![CDATA[【歌&雑談/Song &Free Talk】チルチルチル【アキロゼ/ホロライブ】]]></title>
     <link href="https://youtu.be/seZmjv894sM" rel="alternate" type="text/html"/>
-    <published>2024-11-26T14:17:05.000Z</published>
-    <updated>2024-11-26T14:17:05.000Z</updated>
+    <published>2024-11-26T17:28:06.000Z</published>
+    <updated>2024-11-26T17:28:06.000Z</updated>
     <author>
       <name>アキロゼCh。Vtuber/ホロライブ所属</name>
       <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=seZmjv894sM 【LIVE on &lt;t:1732633833:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/seZmjv894sM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8095797f-d9dd-51b8-a97b-70f14b312c20</id>
+    <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
+    <published>2024-11-26T16:37:44.000Z</published>
+    <updated>2024-11-26T16:37:44.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0nAx7XAMyec 【LIVE on &lt;t:1732716007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0nAx7XAMyec/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8095797f-d9dd-51b8-a97b-70f14b312c20</id>
-    <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
-    <published>2024-11-25T22:52:53.000Z</published>
-    <updated>2024-11-25T22:52:53.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
