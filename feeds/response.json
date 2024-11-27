@@ -8,6 +8,9 @@
     "available_at": "2024-11-27T12:28:12.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 14
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -16,6 +19,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ayunda Risu"
+    }
+  },
+  {
+    "id": "oAKkkas8jEk",
+    "title": "【UNARCHIVE】Suprise karaoke!【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T12:02:04.000Z",
+    "available_at": "2024-11-27T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
     }
   },
   {
@@ -103,9 +125,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-27T03:44:12.000Z",
-    "available_at": "2024-11-27T14:00:00.000Z",
+    "available_at": "2024-11-27T13:59:49.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -142,9 +167,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-26T12:57:08.000Z",
-    "available_at": "2024-11-27T14:00:00.000Z",
+    "available_at": "2024-11-27T14:00:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2077,26 +2102,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "Of2Q8NtiW20",
-    "title": "初めての歌枠&雑談 #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-11T13:08:24.000Z",
-    "available_at": "2024-11-11T11:00:34.000Z",
-    "duration": 7195,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
