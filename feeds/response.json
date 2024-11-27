@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-27T12:06:59.000Z",
     "available_at": "2024-11-27T12:28:12.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7618,
+    "status": "past",
     "live_tl_count": {
       "en": 14
     },
@@ -27,9 +27,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-27T12:02:04.000Z",
-    "available_at": "2024-11-27T14:30:00.000Z",
+    "available_at": "2024-11-27T14:36:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -77,6 +77,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "7C5m8GFiBnw",
+    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T09:00:38.000Z",
+    "available_at": "2024-11-28T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -129,7 +148,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 17
+      "en": 49
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -163,13 +182,13 @@
   },
   {
     "id": "0nAx7XAMyec",
-    "title": "【歌枠】ボイトレ行きたての歌枠 #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "title": "【歌枠】ボイトレ行きたての歌枠　#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-26T12:57:08.000Z",
     "available_at": "2024-11-27T14:00:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5461,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2021,26 +2040,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "s5NJ2y7lOTg",
-    "title": "【NEW 3D KARAOKE】Reaper Singing Many Songs! For Who? For YOU! #calliolive",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-12T05:50:30.000Z",
-    "available_at": "2024-11-12T03:00:33.000Z",
-    "duration": 9352,
-    "status": "past",
-    "songcount": 26,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {

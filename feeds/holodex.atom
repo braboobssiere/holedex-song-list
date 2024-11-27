@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-27T14:29:44.888Z</updated>
+  <updated>2024-11-27T16:34:49.319Z</updated>
 
   <entry>
     <id>urn:uuid:1ffb3c17-dae6-5b0f-89ca-377b53e592b9</id>
@@ -29,7 +29,7 @@
       <name>Moona Hoshinova hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oAKkkas8jEk 【LIVE on &lt;t:1732717800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oAKkkas8jEk 【LIVE on &lt;t:1732718161:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oAKkkas8jEk/maxresdefault.jpg"/>
   </entry>
 
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Beg3NRJ1UCw 【LIVE on &lt;t:1732699900:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Beg3NRJ1UCw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5e506e75-dda6-5561-a8a8-a69d5804f3f5</id>
+    <title><![CDATA[【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/7C5m8GFiBnw" rel="alternate" type="text/html"/>
+    <published>2024-11-27T09:00:38.000Z</published>
+    <updated>2024-11-27T09:00:38.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7C5m8GFiBnw 【LIVE on &lt;t:1732784400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7C5m8GFiBnw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -105,7 +119,7 @@
 
   <entry>
     <id>urn:uuid:69d80fa5-2335-5876-9cd3-1af687a12366</id>
-    <title><![CDATA[【歌枠】ボイトレ行きたての歌枠 #hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
+    <title><![CDATA[【歌枠】ボイトレ行きたての歌枠　#hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
     <link href="https://youtu.be/0nAx7XAMyec" rel="alternate" type="text/html"/>
     <published>2024-11-26T12:57:08.000Z</published>
     <updated>2024-11-26T12:57:08.000Z</updated>
@@ -829,20 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=G9v74STJRCw 【LIVE on &lt;t:1731405618:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G9v74STJRCw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:db817c87-962d-5b36-986e-bcb2d0d239bf</id>
-    <title><![CDATA[【NEW 3D KARAOKE】Reaper Singing Many Songs! For Who? For YOU! #calliolive]]></title>
-    <link href="https://youtu.be/s5NJ2y7lOTg" rel="alternate" type="text/html"/>
-    <published>2024-11-12T05:50:30.000Z</published>
-    <updated>2024-11-12T05:50:30.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=s5NJ2y7lOTg 【LIVE on &lt;t:1731380433:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/s5NJ2y7lOTg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
