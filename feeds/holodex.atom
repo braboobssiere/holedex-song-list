@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-27T04:32:26.608Z</updated>
+  <updated>2024-11-27T06:37:12.775Z</updated>
+
+  <entry>
+    <id>urn:uuid:4a935cf0-1e81-54e7-b881-19ff1b0b1f8f</id>
+    <title><![CDATA[【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
+    <link href="https://youtu.be/GIAiPXUIEAc" rel="alternate" type="text/html"/>
+    <published>2024-11-27T05:33:06.000Z</published>
+    <updated>2024-11-27T05:33:06.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GIAiPXUIEAc 【LIVE on &lt;t:1732687494:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GIAiPXUIEAc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f97b9bf3-5418-523c-8b59-8251d3a2e3cf</id>
@@ -885,20 +899,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rpI6JD8KHzc 【LIVE on &lt;t:1731294103:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rpI6JD8KHzc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:189ff57d-6210-5524-b269-114c9621805e</id>
-    <title><![CDATA[【歌枠】秋がやってきた!重大告知する!!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/g5vKkS19nq8" rel="alternate" type="text/html"/>
-    <published>2024-11-10T11:09:58.000Z</published>
-    <updated>2024-11-10T11:09:58.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=g5vKkS19nq8 【LIVE on &lt;t:1731232893:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g5vKkS19nq8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
