@@ -1,13 +1,32 @@
 [
   {
+    "id": "iMfGziYsz40",
+    "title": "【 歌枠 】SUPER KARAOKE TIME★2【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T07:00:26.000Z",
+    "available_at": "2024-11-27T07:01:56.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "GIAiPXUIEAc",
     "title": "【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-27T05:33:06.000Z",
     "available_at": "2024-11-27T06:04:54.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3304,
+    "status": "past",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -2175,25 +2194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Pr1gcKc8eVnFs4vsRdb_-6tDIGQbtjrckIsHRT5dF3MB44Zu5_yskKVIUlKC455WdeoO3HjZ4cY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Arurandeisu"
-    }
-  },
-  {
-    "id": "jy1IWlWKRLg",
-    "title": "【UNARCHIVE】MOONUTAU TIME!!!【Moona Hoshinova】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-10T13:51:42.000Z",
-    "available_at": "2024-11-10T14:02:02.000Z",
-    "duration": 9506,
-    "status": "missing",
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
     }
   },
   {
