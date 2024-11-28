@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-28T10:32:48.551Z</updated>
+  <updated>2024-11-28T12:53:17.371Z</updated>
+
+  <entry>
+    <id>urn:uuid:1380c95e-c9f3-591d-b90d-376aef8dd7e0</id>
+    <title><![CDATA[デコレート / 博衣こより (Official)]]></title>
+    <link href="https://youtu.be/xIpIbc7IEWo" rel="alternate" type="text/html"/>
+    <published>2024-11-28T11:58:06.000Z</published>
+    <updated>2024-11-28T11:58:06.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xIpIbc7IEWo 【LIVE on &lt;t:1732795086:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xIpIbc7IEWo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8a87bf46-9bae-5d9d-8ce6-7f75de88ea83</id>
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qVK-6htPL30 【LIVE on &lt;t:1732738697:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qVK-6htPL30/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:33c39c60-7d43-51f3-b397-e020fc9ac0a8</id>
+    <title><![CDATA[【3周年カウントダウン】歌枠!歌って盛り上がって3周年一緒にむかえよう!🎉【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/6IasUvPw6cg" rel="alternate" type="text/html"/>
+    <published>2024-11-27T17:32:20.000Z</published>
+    <updated>2024-11-27T17:32:20.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6IasUvPw6cg 【LIVE on &lt;t:1732715989:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6IasUvPw6cg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -90,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4a935cf0-1e81-54e7-b881-19ff1b0b1f8f</id>
+    <title><![CDATA[【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
+    <link href="https://youtu.be/GIAiPXUIEAc" rel="alternate" type="text/html"/>
+    <published>2024-11-27T07:04:19.000Z</published>
+    <updated>2024-11-27T07:04:19.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GIAiPXUIEAc 【LIVE on &lt;t:1732687494:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GIAiPXUIEAc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:636c0242-24a7-5b73-8eb4-5b7925b2543a</id>
     <title><![CDATA[【 歌枠 】SUPER KARAOKE TIME★２【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
     <link href="https://youtu.be/iMfGziYsz40" rel="alternate" type="text/html"/>
@@ -101,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=iMfGziYsz40 【LIVE on &lt;t:1732690916:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iMfGziYsz40/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4a935cf0-1e81-54e7-b881-19ff1b0b1f8f</id>
-    <title><![CDATA[【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
-    <link href="https://youtu.be/GIAiPXUIEAc" rel="alternate" type="text/html"/>
-    <published>2024-11-27T05:33:06.000Z</published>
-    <updated>2024-11-27T05:33:06.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GIAiPXUIEAc 【LIVE on &lt;t:1732687494:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GIAiPXUIEAc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1487,20 +1515,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=D4Pc6nJnuhk 【LIVE on &lt;t:1729004417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D4Pc6nJnuhk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:28ff9cf2-72dd-5bb5-87d3-6c4c50e8be84</id>
-    <title><![CDATA[Ahoy!! 我ら宝鐘海賊団☆]]></title>
-    <link href="https://youtu.be/G1-CmKLPGQ4" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:14.000Z</published>
-    <updated>2024-10-15T15:00:14.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G1-CmKLPGQ4 【LIVE on &lt;t:1729004414:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G1-CmKLPGQ4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
