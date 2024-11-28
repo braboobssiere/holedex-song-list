@@ -1,13 +1,32 @@
 [
   {
+    "id": "0WVSS5-q4i8",
+    "title": "【縦型配信/歌枠】珍しい昼活!アニソン歌おう🎤  #shorts【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T01:43:04.000Z",
+    "available_at": "2024-11-28T04:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "qVK-6htPL30",
     "title": "【UNARCHIVED KARAOKE】Most Wonderful Time Of The Year ~! 💄",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-27T20:07:42.000Z",
     "available_at": "2024-11-27T20:18:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 12025,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -16,6 +35,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "6IasUvPw6cg",
+    "title": "【3周年カウントダウン】歌枠!歌って盛り上がって3周年一緒にむかえよう!🎉【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-27T17:32:20.000Z",
+    "available_at": "2024-11-27T13:59:49.000Z",
+    "duration": 12146,
+    "status": "past",
+    "live_tl_count": {
+      "en": 52
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -88,6 +129,7 @@
     "available_at": "2024-11-27T09:31:40.000Z",
     "duration": 3377,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -155,28 +197,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "6IasUvPw6cg",
-    "title": "【3周年カウントダウン】歌枠！歌って盛り上がって3周年一緒にむかえよう！🎉【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-27T03:44:12.000Z",
-    "available_at": "2024-11-27T13:59:49.000Z",
-    "duration": 12152,
-    "status": "past",
-    "live_tl_count": {
-      "en": 52
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -709,6 +729,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AopJhau6l1ls_fc4-bvv9a4NwMD1oN7NrUX7ZBqJJCBT_60PczjY0iLQIcDw4aynA7KBTsFnbQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Saionji Mary"
+    }
+  },
+  {
+    "id": "JYCr7RQTxwI",
+    "title": "【KARAOKE OFF-VOCAL】Sweetest Scarlet -- Nerissa Ravencroft🎼",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-22T09:49:28.000Z",
+    "available_at": "2024-11-28T17:05:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
+    "id": "qo_JNCPPcRo",
+    "title": "【KARAOKE ON-VOCAL】Sweetest Scarlet -- Nerissa Ravencroft🎼",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-22T09:47:28.000Z",
+    "available_at": "2024-11-28T17:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
     }
   },
   {
@@ -1903,7 +1963,7 @@
     "topic_id": "singing",
     "published_at": "2024-11-13T12:13:03.000Z",
     "available_at": "2024-11-13T09:59:49.000Z",
-    "duration": 7503,
+    "duration": 7130,
     "status": "past",
     "songcount": 12,
     "channel": {
@@ -1972,29 +2032,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "6S0dtcBi7Mk",
-    "title": "【初歌枠】ニコたんの好きな曲歌う!【虎金妃笑虎】#ニコたん配信中",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-12T14:50:07.000Z",
-    "available_at": "2024-11-12T13:30:56.000Z",
-    "duration": 4409,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 43
-    },
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -3402,48 +3439,6 @@
     "published_at": "2024-10-15T15:00:14.000Z",
     "available_at": "2024-10-15T15:00:14.000Z",
     "duration": 308,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "CO6aqmmlaIQ",
-    "title": "パイパイ仮面でどうかしらん?",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:11.000Z",
-    "available_at": "2024-10-15T15:00:11.000Z",
-    "duration": 293,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "3D7FlAWtA9k",
-    "title": "幽霊船戦",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:03.000Z",
-    "available_at": "2024-10-15T15:00:03.000Z",
-    "duration": 264,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
