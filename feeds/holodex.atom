@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-28T14:28:59.874Z</updated>
+  <updated>2024-11-28T16:34:01.341Z</updated>
 
   <entry>
     <id>urn:uuid:1380c95e-c9f3-591d-b90d-376aef8dd7e0</id>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:2ffbc6c6-cd31-5d84-8efb-79f84ad449f4</id>
-    <title><![CDATA[【#新人Vtuber】はじめての歌枠!【赤井はあと/ホロライブ】]]></title>
+    <title><![CDATA[【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/rSDtbM1wrnQ" rel="alternate" type="text/html"/>
     <published>2024-11-28T06:12:42.000Z</published>
     <updated>2024-11-28T06:12:42.000Z</updated>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:441a2673-ad9a-50ce-91ef-491175318946</id>
+    <title><![CDATA[【歌枠】機材トラブルによりエコーなしうたわく【ホロライブ/大神ミオ】]]></title>
+    <link href="https://youtu.be/Beg3NRJ1UCw" rel="alternate" type="text/html"/>
+    <published>2024-11-27T10:31:37.000Z</published>
+    <updated>2024-11-27T10:31:37.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Beg3NRJ1UCw 【LIVE on &lt;t:1732699900:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Beg3NRJ1UCw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:af8e3ffa-ba78-5c6c-8007-95ab02f5c584</id>
     <title><![CDATA[【組曲2】花譜×星街すいせい「一世風靡」【オリジナルMV】]]></title>
     <link href="https://youtu.be/vtEfALKX40E" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vtEfALKX40E 【LIVE on &lt;t:1732701608:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vtEfALKX40E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:441a2673-ad9a-50ce-91ef-491175318946</id>
-    <title><![CDATA[【歌枠】機材トラブルによりエコーなしうたわく【ホロライブ/大神ミオ】]]></title>
-    <link href="https://youtu.be/Beg3NRJ1UCw" rel="alternate" type="text/html"/>
-    <published>2024-11-27T09:20:32.000Z</published>
-    <updated>2024-11-27T09:20:32.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Beg3NRJ1UCw 【LIVE on &lt;t:1732699900:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Beg3NRJ1UCw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -217,7 +217,7 @@
 
   <entry>
     <id>urn:uuid:8ba81750-ecd7-59a0-9362-850c737aad48</id>
-    <title><![CDATA[【歌枠】しっとりしんみり歌うよ【虎金妃笑虎】]]></title>
+    <title><![CDATA[本歌枠音声トラブルにより聴きにくいです＞＜]]></title>
     <link href="https://youtu.be/8yaPw5E2KG4" rel="alternate" type="text/html"/>
     <published>2024-11-25T08:40:25.000Z</published>
     <updated>2024-11-25T08:40:25.000Z</updated>
@@ -829,20 +829,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eWqiZHIoOjk 【LIVE on &lt;t:1731574816:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWqiZHIoOjk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8d4471ef-274c-5c52-aad9-dcf738fdcf0d</id>
-    <title><![CDATA[【縦型 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/6MrRFAKM814" rel="alternate" type="text/html"/>
-    <published>2024-11-13T13:49:36.000Z</published>
-    <updated>2024-11-13T13:49:36.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6MrRFAKM814 【LIVE on &lt;t:1731499286:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6MrRFAKM814/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2061,20 +2047,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2Nob6f5dy7c 【LIVE on &lt;t:1723258689:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2Nob6f5dy7c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b94e79f7-f889-5978-ab57-0303cc4bbc5c</id>
-    <title><![CDATA[【PERO'S BIRTHDAY PARTY】you're gonna celebrate with me, right rufferans 🐾✨ 【FUWAMOCO】]]></title>
-    <link href="https://youtu.be/9wBs8us-F4o" rel="alternate" type="text/html"/>
-    <published>2024-08-09T03:17:32.000Z</published>
-    <updated>2024-08-09T03:17:32.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9wBs8us-F4o 【LIVE on &lt;t:1723164939:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9wBs8us-F4o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
