@@ -8,6 +8,7 @@
     "available_at": "2024-11-28T11:58:06.000Z",
     "duration": 174,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -25,8 +26,8 @@
     "topic_id": "singing",
     "published_at": "2024-11-28T09:15:00.000Z",
     "available_at": "2024-11-28T12:00:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4002,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -35,6 +36,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "rSDtbM1wrnQ",
+    "title": "【#新人Vtuber】はじめての歌枠!【赤井はあと/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T06:12:42.000Z",
+    "available_at": "2024-11-28T14:02:46.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -200,15 +223,15 @@
     }
   },
   {
-    "id": "GIAiPXUIEAc",
-    "title": "【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
+    "id": "iMfGziYsz40",
+    "title": "【 歌枠 】SUPER KARAOKE TIME★2【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-11-27T07:04:19.000Z",
-    "available_at": "2024-11-27T06:04:54.000Z",
-    "duration": 3229,
+    "published_at": "2024-11-27T08:49:52.000Z",
+    "available_at": "2024-11-27T07:01:56.000Z",
+    "duration": 6048,
     "status": "past",
-    "songcount": 6,
+    "songcount": 14,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -220,15 +243,15 @@
     }
   },
   {
-    "id": "iMfGziYsz40",
-    "title": "【 歌枠 】SUPER KARAOKE TIME★２【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
+    "id": "GIAiPXUIEAc",
+    "title": "【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-11-27T07:00:26.000Z",
-    "available_at": "2024-11-27T07:01:56.000Z",
-    "duration": 6047,
+    "published_at": "2024-11-27T07:04:19.000Z",
+    "available_at": "2024-11-27T06:04:54.000Z",
+    "duration": 3229,
     "status": "past",
-    "songcount": 14,
+    "songcount": 6,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -400,9 +423,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-25T08:40:25.000Z",
-    "available_at": "2024-11-28T13:30:00.000Z",
+    "available_at": "2024-11-28T13:32:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -1998,26 +2021,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "eFl_IuladgQ",
-    "title": "【歌枠/KARAOKE】かっこいい好きな歌を歌います!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-13T12:13:03.000Z",
-    "available_at": "2024-11-13T09:59:49.000Z",
-    "duration": 7130,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
