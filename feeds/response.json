@@ -1,5 +1,24 @@
 [
   {
+    "id": "VCek_VPnVko",
+    "title": "【弾き語り歌枠】歌う【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T09:15:00.000Z",
+    "available_at": "2024-11-28T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "0WVSS5-q4i8",
     "title": "【縦型配信/歌枠】珍しい昼活！アニソン歌おう🎤 #shorts【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2024-11-28T04:01:08.000Z",
     "duration": 14175,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -1978,26 +1998,6 @@
     }
   },
   {
-    "id": "V7QR3HKRxg8",
-    "title": "【 歌枠 】超カラオケ大会!【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-13T11:21:23.000Z",
-    "available_at": "2024-11-13T09:01:44.000Z",
-    "duration": 7323,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
     "id": "r83IaQrqZJ0",
     "title": "Karaoke 2 Months After Debut【REBROADCAST: Nov 7, 2023】",
     "type": "stream",
@@ -2033,25 +2033,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "KwEKBi6YRiE",
-    "title": "【UNARCHIVED KARAOKE】Christmas Tunes Mini Karaoke ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-12T14:08:31.000Z",
-    "available_at": "2024-11-12T14:16:04.000Z",
-    "duration": 6043,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -2587,6 +2568,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "I_d_Zim5_hg",
+    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-03T17:47:04.000Z",
+    "available_at": "2024-11-28T09:00:06.000Z",
+    "duration": 4228,
+    "status": "past",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {

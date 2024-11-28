@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-28T08:34:29.261Z</updated>
+  <updated>2024-11-28T10:32:48.551Z</updated>
 
   <entry>
     <id>urn:uuid:8a87bf46-9bae-5d9d-8ce6-7f75de88ea83</id>
@@ -818,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:fd65cbd1-7cb1-5a37-bf36-cad23d149145</id>
-    <title><![CDATA[【 歌枠 】超カラオケ大会!【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
-    <link href="https://youtu.be/V7QR3HKRxg8" rel="alternate" type="text/html"/>
-    <published>2024-11-13T11:21:23.000Z</published>
-    <updated>2024-11-13T11:21:23.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V7QR3HKRxg8 【LIVE on &lt;t:1731488504:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V7QR3HKRxg8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a5efe557-ae76-5f14-9583-802cfde261ac</id>
     <title><![CDATA[【GIGA MASH LIVE】Team ahamo 3DLIVE #ギガプロLIVE 【天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ】]]></title>
     <link href="https://youtu.be/LMdasntdW5o" rel="alternate" type="text/html"/>
@@ -1053,6 +1039,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=m94ftm-_kcI 【LIVE on &lt;t:1730797206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m94ftm-_kcI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e13819ca-9cdc-53a9-a0bf-87e1cd56949e</id>
+    <title><![CDATA[【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/I_d_Zim5_hg" rel="alternate" type="text/html"/>
+    <published>2024-11-03T17:47:04.000Z</published>
+    <updated>2024-11-03T17:47:04.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=I_d_Zim5_hg 【LIVE on &lt;t:1732784406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/I_d_Zim5_hg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
