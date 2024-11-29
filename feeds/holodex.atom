@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-29T10:32:17.841Z</updated>
+  <updated>2024-11-29T12:52:25.152Z</updated>
 
   <entry>
     <id>urn:uuid:987b4fee-d3a9-575f-96a8-956802c2782f</id>
-    <title><![CDATA[【歌枠/KARAOKE】テンション上げていきたい歌!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】テンション上げていきたい歌！！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/obU1_FeuD9A" rel="alternate" type="text/html"/>
     <published>2024-11-29T08:55:26.000Z</published>
     <updated>2024-11-29T08:55:26.000Z</updated>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tztEPaaw1jM 【LIVE on &lt;t:1732855279:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tztEPaaw1jM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:441b2199-47db-5e78-b8d7-6cb8cc3f8b49</id>
+    <title><![CDATA[【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】]]></title>
+    <link href="https://youtu.be/hQtN_RWYukM" rel="alternate" type="text/html"/>
+    <published>2024-11-29T00:09:05.000Z</published>
+    <updated>2024-11-29T00:09:05.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hQtN_RWYukM 【LIVE on &lt;t:1732881533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hQtN_RWYukM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -76,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:8a87bf46-9bae-5d9d-8ce6-7f75de88ea83</id>
+    <title><![CDATA[【縦型配信/歌枠】珍しい昼活!アニソン歌おう🎤  #shorts【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/0WVSS5-q4i8" rel="alternate" type="text/html"/>
+    <published>2024-11-28T08:12:39.000Z</published>
+    <updated>2024-11-28T08:12:39.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0WVSS5-q4i8 【LIVE on &lt;t:1732766468:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0WVSS5-q4i8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:2ffbc6c6-cd31-5d84-8efb-79f84ad449f4</id>
     <title><![CDATA[【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/rSDtbM1wrnQ" rel="alternate" type="text/html"/>
@@ -87,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rSDtbM1wrnQ 【LIVE on &lt;t:1732802566:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rSDtbM1wrnQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8a87bf46-9bae-5d9d-8ce6-7f75de88ea83</id>
-    <title><![CDATA[【縦型配信/歌枠】珍しい昼活！アニソン歌おう🎤 #shorts【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/0WVSS5-q4i8" rel="alternate" type="text/html"/>
-    <published>2024-11-28T01:43:04.000Z</published>
-    <updated>2024-11-28T01:43:04.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0WVSS5-q4i8 【LIVE on &lt;t:1732766468:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0WVSS5-q4i8/maxresdefault.jpg"/>
   </entry>
 
   <entry>

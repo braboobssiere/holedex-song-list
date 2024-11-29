@@ -1,13 +1,13 @@
 [
   {
     "id": "obU1_FeuD9A",
-    "title": "【歌枠/KARAOKE】テンション上げていきたい歌!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】テンション上げていきたい歌！！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-29T08:55:26.000Z",
     "available_at": "2024-11-29T09:59:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4158,
+    "status": "past",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -44,9 +44,10 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-11-29T00:09:05.000Z",
-    "available_at": "2024-11-29T12:00:00.000Z",
+    "available_at": "2024-11-29T11:58:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 4,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
       "name": "Chloe ch. 沙花叉クロヱ - holoX -",
@@ -144,6 +145,9 @@
     "available_at": "2024-11-29T06:04:16.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 39
+    },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -217,6 +221,26 @@
     }
   },
   {
+    "id": "0WVSS5-q4i8",
+    "title": "【縦型配信/歌枠】珍しい昼活!アニソン歌おう🎤  #shorts【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T08:12:39.000Z",
+    "available_at": "2024-11-28T04:01:08.000Z",
+    "duration": 14169,
+    "status": "past",
+    "songcount": 43,
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "rSDtbM1wrnQ",
     "title": "【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】",
     "type": "stream",
@@ -237,26 +261,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "0WVSS5-q4i8",
-    "title": "【縦型配信/歌枠】珍しい昼活！アニソン歌おう🎤 #shorts【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-28T01:43:04.000Z",
-    "available_at": "2024-11-28T04:01:08.000Z",
-    "duration": 14175,
-    "status": "past",
-    "songcount": 43,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -1019,9 +1023,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-11-22T02:35:18.000Z",
-    "available_at": "2024-11-29T11:00:00.000Z",
+    "available_at": "2024-11-29T11:03:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCFv2z4iM5vHrS8bZPq4fHQQ",
       "name": "HIMEHINA Channel",
