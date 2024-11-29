@@ -66,6 +66,7 @@
     "available_at": "2024-11-29T09:59:59.000Z",
     "duration": 4158,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -173,6 +174,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Pr1gcKc8eVnFs4vsRdb_-6tDIGQbtjrckIsHRT5dF3MB44Zu5_yskKVIUlKC455WdeoO3HjZ4cY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Arurandeisu"
+    }
+  },
+  {
+    "id": "rSDtbM1wrnQ",
+    "title": "【#新人Vtuber】はじめての歌枠!【赤井はあと/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T15:56:17.000Z",
+    "available_at": "2024-11-28T14:02:46.000Z",
+    "duration": 5912,
+    "status": "past",
+    "songcount": 16,
+    "live_tl_count": {
+      "en": 12
+    },
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -359,29 +383,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "rSDtbM1wrnQ",
-    "title": "【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-28T06:12:42.000Z",
-    "available_at": "2024-11-28T14:02:46.000Z",
-    "duration": 6298,
-    "status": "past",
-    "songcount": 16,
-    "live_tl_count": {
-      "en": 12
-    },
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {

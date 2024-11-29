@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-29T20:28:07.240Z</updated>
+  <updated>2024-11-29T22:28:35.481Z</updated>
 
   <entry>
     <id>urn:uuid:2643c0c7-71db-5de8-9be5-f6f9ad5f6c47</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:2ffbc6c6-cd31-5d84-8efb-79f84ad449f4</id>
+    <title><![CDATA[【#新人Vtuber】はじめての歌枠!【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/rSDtbM1wrnQ" rel="alternate" type="text/html"/>
+    <published>2024-11-28T15:56:17.000Z</published>
+    <updated>2024-11-28T15:56:17.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rSDtbM1wrnQ 【LIVE on &lt;t:1732802566:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rSDtbM1wrnQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:8ba81750-ecd7-59a0-9362-850c737aad48</id>
     <title><![CDATA[本歌枠音声トラブルにより聴きにくいです><]]></title>
     <link href="https://youtu.be/8yaPw5E2KG4" rel="alternate" type="text/html"/>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0WVSS5-q4i8 【LIVE on &lt;t:1732766468:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0WVSS5-q4i8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2ffbc6c6-cd31-5d84-8efb-79f84ad449f4</id>
-    <title><![CDATA[【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/rSDtbM1wrnQ" rel="alternate" type="text/html"/>
-    <published>2024-11-28T06:12:42.000Z</published>
-    <updated>2024-11-28T06:12:42.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=rSDtbM1wrnQ 【LIVE on &lt;t:1732802566:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rSDtbM1wrnQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
