@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-29T12:52:25.152Z</updated>
+  <updated>2024-11-29T14:29:02.444Z</updated>
+
+  <entry>
+    <id>urn:uuid:6df1bbb9-c24f-55ef-94bf-53b05c0ef83b</id>
+    <title><![CDATA[沙花叉クロヱ MV - モードク]]></title>
+    <link href="https://youtu.be/G0dn1WU4kSs" rel="alternate" type="text/html"/>
+    <published>2024-11-29T13:00:14.000Z</published>
+    <updated>2024-11-29T13:00:14.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=G0dn1WU4kSs 【LIVE on &lt;t:1732885214:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G0dn1WU4kSs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:987b4fee-d3a9-575f-96a8-956802c2782f</id>
@@ -1445,20 +1459,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JJwZDJ7U4Pg 【LIVE on &lt;t:1729004418:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JJwZDJ7U4Pg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1f7ea10a-8002-56e8-a538-81143584093b</id>
-    <title><![CDATA[美少女無罪♡パイレーツ]]></title>
-    <link href="https://youtu.be/D4Pc6nJnuhk" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:17.000Z</published>
-    <updated>2024-10-15T15:00:17.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=D4Pc6nJnuhk 【LIVE on &lt;t:1729004417:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D4Pc6nJnuhk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
