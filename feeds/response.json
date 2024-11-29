@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-29T04:27:31.000Z",
-    "available_at": "2024-11-29T04:45:00.000Z",
+    "available_at": "2024-11-29T04:41:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -121,9 +121,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-28T15:27:14.000Z",
-    "available_at": "2024-11-29T07:00:00.000Z",
+    "available_at": "2024-11-29T06:04:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -141,10 +141,10 @@
     "topic_id": "singing",
     "published_at": "2024-11-28T15:24:07.000Z",
     "available_at": "2024-11-28T23:00:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 25329,
+    "status": "past",
     "live_tl_count": {
-      "en": 21
+      "en": 141
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -245,7 +245,7 @@
     "published_at": "2024-11-27T20:07:42.000Z",
     "available_at": "2024-11-27T20:18:17.000Z",
     "duration": 12025,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -3235,6 +3235,7 @@
     "available_at": "2024-10-19T09:59:03.000Z",
     "duration": 4219,
     "status": "past",
+    "songcount": 1,
     "live_tl_count": {
       "en": 477
     },
