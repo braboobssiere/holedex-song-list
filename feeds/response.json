@@ -8,6 +8,7 @@
     "available_at": "2024-11-29T13:00:14.000Z",
     "duration": 178,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
       "name": "Chloe ch. 沙花叉クロヱ - holoX -",
@@ -64,8 +65,8 @@
     "topic_id": "Anniversary",
     "published_at": "2024-11-29T00:09:05.000Z",
     "available_at": "2024-11-29T11:58:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13992,
+    "status": "past",
     "songcount": 7,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
@@ -142,9 +143,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-28T15:30:14.000Z",
-    "available_at": "2024-11-29T16:00:00.000Z",
+    "available_at": "2024-11-29T14:55:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -162,10 +163,10 @@
     "topic_id": "singing",
     "published_at": "2024-11-28T15:27:14.000Z",
     "available_at": "2024-11-29T06:04:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 31800,
+    "status": "past",
     "live_tl_count": {
-      "en": 246
+      "en": 311
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -217,6 +218,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "I_d_Zim5_hg",
+    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-28T10:15:31.000Z",
+    "available_at": "2024-11-28T09:00:06.000Z",
+    "duration": 4239,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -2675,26 +2696,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "I_d_Zim5_hg",
-    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-03T17:47:04.000Z",
-    "available_at": "2024-11-28T09:00:06.000Z",
-    "duration": 4228,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
