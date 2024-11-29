@@ -1,5 +1,24 @@
 [
   {
+    "id": "tztEPaaw1jM",
+    "title": "【 歌枠 】ゲリゴリラの昼【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-29T04:27:31.000Z",
+    "available_at": "2024-11-29T04:45:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "hQtN_RWYukM",
     "title": "【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】",
     "type": "stream",
@@ -124,6 +143,9 @@
     "available_at": "2024-11-28T23:00:41.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 21
+    },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -1891,29 +1913,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "tVyK6kaFCgk",
-    "title": "【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-15T11:05:43.000Z",
-    "available_at": "2024-11-15T09:59:43.000Z",
-    "duration": 3687,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 17
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
