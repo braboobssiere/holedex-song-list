@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-11-30T20:26:54.381Z</updated>
+  <updated>2024-11-30T22:27:49.244Z</updated>
 
   <entry>
     <id>urn:uuid:7b79696c-7707-5a3a-874c-ad92e9ad064f</id>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:b1c9bc1f-ebab-54bf-8b36-330cc9ac4fbe</id>
-    <title><![CDATA[【歌枠】いっぱいバラードを歌いつくす!【赤井はあと/ホロライブ】]]></title>
+    <title><![CDATA[【歌枠】いっぱいバラードを歌いつくす！【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/VYgsscJyeBM" rel="alternate" type="text/html"/>
     <published>2024-11-30T15:40:20.000Z</published>
     <updated>2024-11-30T15:40:20.000Z</updated>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=g4HzpWgo6t4 【LIVE on &lt;t:1732899708:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g4HzpWgo6t4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:441b2199-47db-5e78-b8d7-6cb8cc3f8b49</id>
+    <title><![CDATA[【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】]]></title>
+    <link href="https://youtu.be/hQtN_RWYukM" rel="alternate" type="text/html"/>
+    <published>2024-11-29T16:02:02.000Z</published>
+    <updated>2024-11-29T16:02:02.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hQtN_RWYukM 【LIVE on &lt;t:1732881533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hQtN_RWYukM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tztEPaaw1jM 【LIVE on &lt;t:1732855279:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tztEPaaw1jM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:441b2199-47db-5e78-b8d7-6cb8cc3f8b49</id>
-    <title><![CDATA[【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】]]></title>
-    <link href="https://youtu.be/hQtN_RWYukM" rel="alternate" type="text/html"/>
-    <published>2024-11-29T00:09:05.000Z</published>
-    <updated>2024-11-29T00:09:05.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hQtN_RWYukM 【LIVE on &lt;t:1732881533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hQtN_RWYukM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
