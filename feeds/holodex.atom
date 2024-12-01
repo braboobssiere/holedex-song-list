@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-01T16:31:43.732Z</updated>
+  <updated>2024-12-01T18:33:47.119Z</updated>
 
   <entry>
     <id>urn:uuid:6b910d0b-c19b-56f9-bee9-6f974d66c66e</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VYgsscJyeBM 【LIVE on &lt;t:1732982137:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VYgsscJyeBM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cfc7cc89-0143-5d36-b228-17aa3eb73dc9</id>
+    <title><![CDATA[【#風真いろは3周年】お披露目複数あり🎀ミニ3DLIVEあり🎺4年目へのスタートライン【風真いろは/ホロライブ】]]></title>
+    <link href="https://youtu.be/POix3IWi5Uw" rel="alternate" type="text/html"/>
+    <published>2024-11-30T12:31:06.000Z</published>
+    <updated>2024-11-30T12:31:06.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=POix3IWi5Uw 【LIVE on &lt;t:1732964396:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/POix3IWi5Uw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=obU1_FeuD9A 【LIVE on &lt;t:1732874399:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/obU1_FeuD9A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cfc7cc89-0143-5d36-b228-17aa3eb73dc9</id>
-    <title><![CDATA[【#風真いろは3周年】お披露目複数あり🎀ミニ３DLIVEあり🎺４年目へのスタートライン【風真いろは/ホロライブ】]]></title>
-    <link href="https://youtu.be/POix3IWi5Uw" rel="alternate" type="text/html"/>
-    <published>2024-11-29T09:39:40.000Z</published>
-    <updated>2024-11-29T09:39:40.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=POix3IWi5Uw 【LIVE on &lt;t:1732964396:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/POix3IWi5Uw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1739,20 +1739,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9ScaXX6ZTVc 【LIVE on &lt;t:1725876101:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ScaXX6ZTVc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b4ff90d2-d2d8-5a12-a5bd-4de594fbe873</id>
-    <title><![CDATA[【 1周年カウントダウン 】明日で1周年!いっぱいお祝いしたい🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/FVWcmKURIWQ" rel="alternate" type="text/html"/>
-    <published>2024-09-08T18:26:25.000Z</published>
-    <updated>2024-09-08T18:26:25.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FVWcmKURIWQ 【LIVE on &lt;t:1725804092:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FVWcmKURIWQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
