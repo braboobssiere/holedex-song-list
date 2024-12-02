@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-02T03:10:46.909Z</updated>
+  <updated>2024-12-02T04:32:50.266Z</updated>
+
+  <entry>
+    <id>urn:uuid:2e5a2270-cb4a-52f5-a445-aaeca8c3d4c9</id>
+    <title><![CDATA[Bluerose]]></title>
+    <link href="https://youtu.be/8g2aCtXArIU" rel="alternate" type="text/html"/>
+    <published>2024-12-02T04:14:07.000Z</published>
+    <updated>2024-12-02T04:14:07.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8g2aCtXArIU 【LIVE on &lt;t:1733112847:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8g2aCtXArIU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:50aae8f5-8be3-507a-b7eb-ef851cf70e1e</id>
+    <title><![CDATA[#holoENadventcalendar Day 2]]></title>
+    <link href="https://youtu.be/MZWCwOSzfQM" rel="alternate" type="text/html"/>
+    <published>2024-12-01T17:17:55.000Z</published>
+    <updated>2024-12-01T17:17:55.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MZWCwOSzfQM 【LIVE on &lt;t:1733073475:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MZWCwOSzfQM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2262a6e9-ae48-5cb2-9500-06e8d4f539cd</id>
@@ -1462,20 +1490,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b993ae81-e647-5d40-b3f6-b740daf2a0f4</id>
-    <title><![CDATA[A Horny Money World ~伝説の夜~]]></title>
-    <link href="https://youtu.be/NSLYAT7sjAA" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:21.000Z</published>
-    <updated>2024-10-15T15:00:21.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NSLYAT7sjAA 【LIVE on &lt;t:1729004421:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NSLYAT7sjAA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f96afd45-9406-514b-873b-979c4b2b4dd9</id>
     <title><![CDATA[【#REBIRTH3D】Kureiji Ollie's 3D Birthday LIVE 2024 - REBIRTH, The True Me【hololive Indonesia】]]></title>
     <link href="https://youtu.be/O607BZ8HwDk" rel="alternate" type="text/html"/>
@@ -2873,19 +2887,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=TkQprz76Zpc 【LIVE on &lt;t:1662015628:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TkQprz76Zpc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5e6dc193-8bf0-52d1-a584-0f2e6081e44d</id>
-    <title><![CDATA[【 楽器 】浴衣着て夏の午後のエレクトーン!🎹🎶 Playing tha Electone【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/lu87RWaHafM" rel="alternate" type="text/html"/>
-    <published>2022-08-20T10:53:46.000Z</published>
-    <updated>2022-08-20T10:53:46.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lu87RWaHafM 【LIVE on &lt;t:1660975217:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lu87RWaHafM/maxresdefault.jpg"/>
   </entry>
 </feed>
