@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-02T20:28:40.490Z</updated>
+  <updated>2024-12-02T22:29:32.744Z</updated>
 
   <entry>
     <id>urn:uuid:ee355e92-139d-534d-8a6c-c7b141268d5f</id>
@@ -59,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KxKYxeIyq1M 【LIVE on &lt;t:1733148056:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KxKYxeIyq1M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:883c8875-86dc-5f46-b833-cc36e79bc9f1</id>
-    <title><![CDATA[【NGあり!!】おみゃえらの質問に真摯に答え、自分の考えを述べてゆく！！！【天音かなた/ホロライブ】]]></title>
-    <link href="https://youtu.be/9tS0Mxjcvbc" rel="alternate" type="text/html"/>
-    <published>2024-12-02T05:59:12.000Z</published>
-    <updated>2024-12-02T05:59:12.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9tS0Mxjcvbc 【LIVE on &lt;t:1733133623:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9tS0Mxjcvbc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1809,6 +1795,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DNDhaDTXta4 【LIVE on &lt;t:1725885683:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DNDhaDTXta4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8dbd76c2-5ef3-5812-bd81-bd204e116191</id>
+    <title><![CDATA[【1周年記念】ホロライブ楽曲歌枠✨2周年目も一緒に楽しく過ごせますように!【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/9ScaXX6ZTVc" rel="alternate" type="text/html"/>
+    <published>2024-09-09T11:05:25.000Z</published>
+    <updated>2024-09-09T11:05:25.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9ScaXX6ZTVc 【LIVE on &lt;t:1725876101:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ScaXX6ZTVc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
