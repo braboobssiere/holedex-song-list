@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-02T08:35:38.448Z</updated>
+  <updated>2024-12-02T10:33:54.254Z</updated>
+
+  <entry>
+    <id>urn:uuid:b86036e5-26ab-537b-bccb-6c7cec1251b0</id>
+    <title><![CDATA[【ARCHIVED KARAOKE】Singing VOCALOID Songs... It's HOLORO Week!【Pavolia Reine/hololiveID 2nd gen】]]></title>
+    <link href="https://youtu.be/A-RCxr2Odqs" rel="alternate" type="text/html"/>
+    <published>2024-12-02T09:06:43.000Z</published>
+    <updated>2024-12-02T09:06:43.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=A-RCxr2Odqs 【LIVE on &lt;t:1733148000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A-RCxr2Odqs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:69ad1581-462c-5310-9ee6-7a681a9826ea</id>
+    <title><![CDATA[【🎤】ボカロONLY!?深夜のカラオケ覗きに来たの?💕【ホロライブ / ロボ子さん】]]></title>
+    <link href="https://youtu.be/KxKYxeIyq1M" rel="alternate" type="text/html"/>
+    <published>2024-12-02T08:20:56.000Z</published>
+    <updated>2024-12-02T08:20:56.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KxKYxeIyq1M 【LIVE on &lt;t:1733148000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KxKYxeIyq1M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:50aae8f5-8be3-507a-b7eb-ef851cf70e1e</id>
@@ -717,20 +745,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dFZ1oTSFuIE 【LIVE on &lt;t:1731816008:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dFZ1oTSFuIE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1d5b3ac7-5c34-530f-b59c-f9aa6c15f27a</id>
-    <title><![CDATA[【歌枠】深夜のゲリラお歌!好きな歌を歌う~!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/MX4mXiMlTcE" rel="alternate" type="text/html"/>
-    <published>2024-11-16T17:59:41.000Z</published>
-    <updated>2024-11-16T17:59:41.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MX4mXiMlTcE 【LIVE on &lt;t:1731771313:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4mXiMlTcE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1781,20 +1795,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=D9dbJJHU2ws 【LIVE on &lt;t:1725805306:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D9dbJJHU2ws/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c0b66d29-4c5a-59f1-b21d-c5f2c87d2d87</id>
-    <title><![CDATA[【1周年カウントダウン】記念すべき瞬間をキミと!【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/PEEgPJ5mj0Y" rel="alternate" type="text/html"/>
-    <published>2024-09-08T15:55:30.000Z</published>
-    <updated>2024-09-08T15:55:30.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PEEgPJ5mj0Y 【LIVE on &lt;t:1725805982:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PEEgPJ5mj0Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
