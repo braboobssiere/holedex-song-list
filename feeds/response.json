@@ -1,32 +1,14 @@
 [
   {
-    "id": "SFPLA3CIsC0",
-    "title": "【 弾き語り（？） 】新しいギターが届いた！ので遊ぶ！！【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-03T11:47:10.000Z",
-    "available_at": "2024-12-03T12:01:04.000Z",
-    "duration": 3027,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
     "id": "GH5-2oWhi_A",
     "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
     "type": "stream",
-    "topic_id": "Anniversary",
+    "topic_id": "singing",
     "published_at": "2024-12-03T10:29:44.000Z",
-    "available_at": "2024-12-03T16:00:00.000Z",
+    "available_at": "2024-12-03T15:59:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 5,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -78,13 +60,13 @@
   },
   {
     "id": "UQ0d8CpS6Z4",
-    "title": "【歌枠】今日も楽しく歌おうゼ〜!【虎金妃笑虎】",
+    "title": "【歌枠】今日も楽しく歌おうゼ〜！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-02T18:12:32.000Z",
     "available_at": "2024-12-03T13:30:51.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6232,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -4826,6 +4808,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "9ScaXX6ZTVc",
+    "title": "【1周年記念】ホロライブ楽曲歌枠✨2周年目も一緒に楽しく過ごせますように!【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-09-09T11:05:25.000Z",
+    "available_at": "2024-09-09T10:01:41.000Z",
+    "duration": 3225,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
     }
   },
   {

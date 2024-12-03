@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-03T14:28:04.729Z</updated>
+  <updated>2024-12-03T16:35:42.340Z</updated>
+
+  <entry>
+    <id>urn:uuid:4e436a3f-9c23-5620-a579-e91d1c21f707</id>
+    <title><![CDATA[【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】]]></title>
+    <link href="https://youtu.be/GH5-2oWhi_A" rel="alternate" type="text/html"/>
+    <published>2024-12-03T10:29:44.000Z</published>
+    <updated>2024-12-03T10:29:44.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GH5-2oWhi_A 【LIVE on &lt;t:1733241587:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GH5-2oWhi_A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4c721d70-1f6b-5d27-a44b-34a54e5bb339</id>
@@ -35,7 +49,7 @@
 
   <entry>
     <id>urn:uuid:ee355e92-139d-534d-8a6c-c7b141268d5f</id>
-    <title><![CDATA[【歌枠】今日も楽しく歌おうゼ〜!【虎金妃笑虎】]]></title>
+    <title><![CDATA[【歌枠】今日も楽しく歌おうゼ〜！【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/UQ0d8CpS6Z4" rel="alternate" type="text/html"/>
     <published>2024-12-02T18:12:32.000Z</published>
     <updated>2024-12-02T18:12:32.000Z</updated>
@@ -1795,6 +1809,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DNDhaDTXta4 【LIVE on &lt;t:1725885683:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DNDhaDTXta4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8dbd76c2-5ef3-5812-bd81-bd204e116191</id>
+    <title><![CDATA[【1周年記念】ホロライブ楽曲歌枠✨2周年目も一緒に楽しく過ごせますように!【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/9ScaXX6ZTVc" rel="alternate" type="text/html"/>
+    <published>2024-09-09T11:05:25.000Z</published>
+    <updated>2024-09-09T11:05:25.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9ScaXX6ZTVc 【LIVE on &lt;t:1725876101:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ScaXX6ZTVc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
