@@ -8,6 +8,7 @@
     "available_at": "2024-12-04T14:00:06.000Z",
     "duration": 146,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -25,8 +26,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-04T13:09:32.000Z",
     "available_at": "2024-12-04T13:58:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3895,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -43,9 +44,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-12-04T10:55:40.000Z",
-    "available_at": "2024-12-04T16:00:00.000Z",
+    "available_at": "2024-12-04T16:01:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC727SQYUvx5pDDGQpTICNWg",
       "name": "Anya Melfissa Ch. hololive-ID",
@@ -74,6 +75,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
+    }
+  },
+  {
+    "id": "zKA2G6hX9iI",
+    "title": "まだひみつ!【#FG歌みたペアリレー】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-04T05:44:29.000Z",
+    "available_at": "2024-12-05T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
     }
   },
   {
@@ -1735,26 +1755,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "Vg54h4Vjphk",
-    "title": "【縦型歌枠】まったり歌枠しよ〜  #shorts Singing stream【hololiveDEV_IS 水宮枢】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-19T15:21:42.000Z",
-    "available_at": "2024-11-19T12:58:45.000Z",
-    "duration": 3274,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
@@ -3637,13 +3637,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "V6a1pbqlXVw",
+    "title": "I I I",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -3658,13 +3658,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
