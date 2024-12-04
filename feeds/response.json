@@ -1,13 +1,33 @@
 [
   {
+    "id": "BOtMYWcbEk4",
+    "title": "【Original Song】 HISTORY feat. RUSTAGE 【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-04T09:13:29.000Z",
+    "available_at": "2024-12-04T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
+    }
+  },
+  {
     "id": "JRihmeU7xWg",
     "title": "【 歌枠 】 アニソンもボカロもJPOPも全部歌う!!!【ホロライブ/沙花叉クロヱ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-04T07:07:51.000Z",
-    "available_at": "2024-12-04T09:00:00.000Z",
+    "available_at": "2024-12-04T09:00:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 14,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
       "name": "Chloe ch. 沙花叉クロヱ - holoX -",
@@ -64,7 +84,7 @@
     "published_at": "2024-12-03T10:34:02.000Z",
     "available_at": "2024-12-04T14:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "songcount": 1,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
@@ -116,14 +136,15 @@
     }
   },
   {
-    "id": "H6GsHWvtD4s",
+    "id": "MNlN8gofdkU",
     "title": "【 歌枠 】ねねのひる【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-12-03T02:26:09.000Z",
-    "available_at": "2024-12-03T02:22:00.000Z",
-    "duration": 128,
+    "published_at": "2024-12-03T04:53:30.000Z",
+    "available_at": "2024-12-03T02:28:41.000Z",
+    "duration": 8069,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -135,15 +156,14 @@
     }
   },
   {
-    "id": "MNlN8gofdkU",
+    "id": "H6GsHWvtD4s",
     "title": "【 歌枠 】ねねのひる【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-12-03T02:25:32.000Z",
-    "available_at": "2024-12-03T02:28:41.000Z",
-    "duration": 8078,
+    "published_at": "2024-12-03T02:26:09.000Z",
+    "available_at": "2024-12-03T02:22:00.000Z",
+    "duration": 128,
     "status": "past",
-    "songcount": 16,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -3604,27 +3624,6 @@
     "published_at": "2024-10-15T15:01:02.000Z",
     "available_at": "2024-10-15T15:01:02.000Z",
     "duration": 247,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
