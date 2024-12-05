@@ -43,9 +43,10 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-12-05T08:44:33.000Z",
-    "available_at": "2024-12-05T16:00:00.000Z",
+    "available_at": "2024-12-05T16:00:52.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 6,
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive-ID",
@@ -155,6 +156,45 @@
     }
   },
   {
+    "id": "OWSfTiMOjbo",
+    "title": "#HoloENCalendar Day 5 🎄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-04T10:49:32.000Z",
+    "available_at": "2024-12-04T10:49:32.000Z",
+    "duration": 35,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
+    "id": "h1OY5HGdGKo",
+    "title": "???  【#FG歌みたペアリレー】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-04T08:12:19.000Z",
+    "available_at": "2024-12-06T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "JRihmeU7xWg",
     "title": "【 歌枠 】 アニソンもボカロもJPOPも全部歌う！！！【ホロライブ/沙花叉クロヱ】",
     "type": "stream",
@@ -198,7 +238,7 @@
     "id": "GH5-2oWhi_A",
     "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Anniversary",
     "published_at": "2024-12-03T19:16:47.000Z",
     "available_at": "2024-12-03T15:59:47.000Z",
     "duration": 11169,
@@ -240,9 +280,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-12-03T15:58:47.000Z",
-    "available_at": "2024-12-05T15:00:00.000Z",
+    "available_at": "2024-12-05T15:05:40.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -309,6 +349,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "stRBCkykBp0",
+    "title": "Advent Calendar Day 4!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-03T02:28:21.000Z",
+    "available_at": "2024-12-03T02:28:21.000Z",
+    "duration": 269,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -1583,26 +1643,6 @@
     }
   },
   {
-    "id": "jGZ0-WIjArU",
-    "title": "【歌枠】第118回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-22T17:09:55.000Z",
-    "available_at": "2024-11-22T14:05:19.000Z",
-    "duration": 10501,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
     "id": "Onk2Qalo4bk",
     "title": "【歌枠】秋の失恋ソング祭り!!!【赤井はあと/ホロライブ】",
     "type": "stream",
@@ -1620,26 +1660,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "UDMUQUVRbCM",
-    "title": "【縦型歌枠】なんと今歌っているよ!!アニソン中心 【尾丸ポルカ/ホロライブ】 #VTuber #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-22T15:22:48.000Z",
-    "available_at": "2024-11-22T13:01:00.000Z",
-    "duration": 7723,
-    "status": "past",
-    "songcount": 24,
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
@@ -4795,26 +4815,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "wRo2-ohaMZc",
-    "title": "【歌など】1周年カウントダウン&70万人耐久!#らでんちゃん1周年【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-09T15:19:41.000Z",
-    "available_at": "2024-09-09T14:02:36.000Z",
-    "duration": 4307,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
