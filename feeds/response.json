@@ -1,5 +1,24 @@
 [
   {
+    "id": "eIOs-i6o-aE",
+    "title": "【#REINEvers4ry】peafowl debut ~Attention Please~ (4 years after ver.)【Pavolia Reine/holoID 2nd gen】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-05T18:41:44.000Z",
+    "available_at": "2024-12-06T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "72e7utkh2go",
     "title": "REBROADCAST = 【UNARCHIVED KARAOKE】I Wish It Could Be Christmas EVERYDAY ~! 💄",
     "type": "stream",
@@ -41,7 +60,7 @@
     "id": "TBViCTHfxnU",
     "title": "【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】",
     "type": "stream",
-    "topic_id": "Anniversary",
+    "topic_id": "singing",
     "published_at": "2024-12-05T08:44:33.000Z",
     "available_at": "2024-12-05T16:00:52.000Z",
     "duration": 8198,
@@ -196,25 +215,6 @@
     }
   },
   {
-    "id": "PTWmCTC7c7o",
-    "title": "【4TH ANNIVERSARY COUNTDOWN】IT'S ALMOST HERE! 4周年カウントダウン！ 【hololive ID 2nd Gen | Anya Melfissa】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-12-04T10:55:40.000Z",
-    "available_at": "2024-12-04T16:01:00.000Z",
-    "duration": 6460,
-    "status": "past",
-    "channel": {
-      "id": "UC727SQYUvx5pDDGQpTICNWg",
-      "name": "Anya Melfissa Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/58uF1apTqtovpieDrBCSF5pUeNU2MA6n34bdj2EBEVnySKm-VvEznGNt2puk4v4tAnA3AYh5JA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Anya Melfissa"
-    }
-  },
-  {
     "id": "OWSfTiMOjbo",
     "title": "#HoloENCalendar Day 5 🎄",
     "type": "stream",
@@ -257,7 +257,7 @@
     "id": "GH5-2oWhi_A",
     "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
     "type": "stream",
-    "topic_id": "Anniversary",
+    "topic_id": "singing",
     "published_at": "2024-12-03T19:16:47.000Z",
     "available_at": "2024-12-03T15:59:47.000Z",
     "duration": 11169,
@@ -1640,45 +1640,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "Onk2Qalo4bk",
-    "title": "【歌枠】秋の失恋ソング祭り!!!【赤井はあと/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-22T16:41:42.000Z",
-    "available_at": "2024-11-22T15:08:59.000Z",
-    "duration": 5213,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "rRY4j1VqnRs",
-    "title": "【UNARCHIVED KARAOKE】Just Vibin'",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-22T14:43:53.000Z",
-    "available_at": "2024-11-22T23:55:48.000Z",
-    "duration": 7472,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
@@ -3732,13 +3693,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -4815,6 +4776,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
+    "id": "RGVwHAeEbTw",
+    "title": "【1周年カウントダウン】デビューから1年...今日という日を一緒に迎えたい!【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-09-09T16:52:44.000Z",
+    "available_at": "2024-09-09T14:00:16.000Z",
+    "duration": 9609,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "wRo2-ohaMZc",
+    "title": "【歌など】1周年カウントダウン&70万人耐久!#らでんちゃん1周年【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-09-09T15:19:41.000Z",
+    "available_at": "2024-09-09T14:02:36.000Z",
+    "duration": 4307,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
     }
   },
   {
