@@ -7,7 +7,7 @@
     "published_at": "2024-12-04T18:39:57.000Z",
     "available_at": "2024-12-04T20:00:49.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -47,6 +47,7 @@
     "available_at": "2024-12-04T13:58:58.000Z",
     "duration": 3895,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -124,6 +125,7 @@
     "available_at": "2024-12-04T12:00:15.000Z",
     "duration": 7131,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -132,6 +134,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "GH5-2oWhi_A",
+    "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-03T19:16:47.000Z",
+    "available_at": "2024-12-03T15:59:47.000Z",
+    "duration": 11169,
+    "status": "past",
+    "songcount": 17,
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
     }
   },
   {
@@ -183,26 +205,6 @@
     "duration": 0,
     "status": "missing",
     "songcount": 1,
-    "channel": {
-      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-      "name": "Kureiji Ollie Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "GH5-2oWhi_A",
-    "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-03T10:29:44.000Z",
-    "available_at": "2024-12-03T15:59:47.000Z",
-    "duration": 11164,
-    "status": "past",
-    "songcount": 17,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -3673,13 +3675,13 @@
     }
   },
   {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
