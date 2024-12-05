@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-05T12:53:35.827Z</updated>
+  <updated>2024-12-05T14:29:49.728Z</updated>
 
   <entry>
     <id>urn:uuid:3d976c5b-9ba6-523e-97ee-b37c73ca1f77</id>
@@ -17,20 +17,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=72e7utkh2go 【LIVE on &lt;t:1733392786:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/72e7utkh2go/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eca8abeb-3def-545a-96e8-2c36de08cad9</id>
-    <title><![CDATA[【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】]]></title>
-    <link href="https://youtu.be/TBViCTHfxnU" rel="alternate" type="text/html"/>
-    <published>2024-12-05T08:44:33.000Z</published>
-    <updated>2024-12-05T08:44:33.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TBViCTHfxnU 【LIVE on &lt;t:1733414400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TBViCTHfxnU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -703,6 +689,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Onk2Qalo4bk 【LIVE on &lt;t:1732288139:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Onk2Qalo4bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8a44d496-4f16-53ce-bce1-4ef7914d680b</id>
+    <title><![CDATA[【縦型歌枠】なんと今歌っているよ!!アニソン中心 【尾丸ポルカ/ホロライブ】 #VTuber #shorts]]></title>
+    <link href="https://youtu.be/UDMUQUVRbCM" rel="alternate" type="text/html"/>
+    <published>2024-11-22T15:22:48.000Z</published>
+    <updated>2024-11-22T15:22:48.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UDMUQUVRbCM 【LIVE on &lt;t:1732280460:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UDMUQUVRbCM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1518,17 +1518,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e7403ebf-bbc4-5e63-85a2-a0bfc9d1ba29</id>
-    <title><![CDATA[I'm Your Treasure Box *あなたは マリンせんちょうを...]]></title>
-    <link href="https://youtu.be/U9X6hVgIib8" rel="alternate" type="text/html"/>
+    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
+    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
+    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
     <published>2024-10-15T15:00:27.000Z</published>
     <updated>2024-10-15T15:00:27.000Z</updated>
     <author>
       <name>Marine Ch. 宝鐘マリン</name>
       <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U9X6hVgIib8 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U9X6hVgIib8/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1753,20 +1753,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7oEbyelP-YM 【LIVE on &lt;t:1725907051:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7oEbyelP-YM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:55522a45-af8d-56b5-bed0-8aea48b22409</id>
-    <title><![CDATA[【1周年カウントダウン】デビューから1年...今日という日を一緒に迎えたい!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/RGVwHAeEbTw" rel="alternate" type="text/html"/>
-    <published>2024-09-09T16:52:44.000Z</published>
-    <updated>2024-09-09T16:52:44.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RGVwHAeEbTw 【LIVE on &lt;t:1725890416:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RGVwHAeEbTw/maxresdefault.jpg"/>
   </entry>
 
   <entry>

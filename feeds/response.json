@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-05T09:44:27.000Z",
     "available_at": "2024-12-05T09:59:46.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 14005,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -20,13 +20,13 @@
   },
   {
     "id": "m4-68AF0ePo",
-    "title": "【4TH ANNIVERSARY! 4周年!】Call-in Celebration! 4周年スペシャル凸待ち!【hololive ID 2nd Generation | Anya Melfissa】",
+    "title": "【4TH ANNIVERSARY! 4周年！】Call-in Celebration! 4周年スペシャル凸待ち！【hololive ID 2nd Generation | Anya Melfissa】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-12-05T09:26:09.000Z",
     "available_at": "2024-12-05T11:01:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7787,
+    "status": "past",
     "channel": {
       "id": "UC727SQYUvx5pDDGQpTICNWg",
       "name": "Anya Melfissa Ch. hololive-ID",
@@ -41,7 +41,7 @@
     "id": "TBViCTHfxnU",
     "title": "【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Anniversary",
     "published_at": "2024-12-05T08:44:33.000Z",
     "available_at": "2024-12-05T16:00:00.000Z",
     "duration": 0,
@@ -65,6 +65,7 @@
     "available_at": "2024-12-05T10:15:39.000Z",
     "duration": 8252,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -1619,6 +1620,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "UDMUQUVRbCM",
+    "title": "【縦型歌枠】なんと今歌っているよ!!アニソン中心 【尾丸ポルカ/ホロライブ】 #VTuber #shorts",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-22T15:22:48.000Z",
+    "available_at": "2024-11-22T13:01:00.000Z",
+    "duration": 7723,
+    "status": "past",
+    "songcount": 24,
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
     }
   },
   {
@@ -3691,13 +3712,13 @@
     }
   },
   {
-    "id": "U9X6hVgIib8",
-    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 256,
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -4774,26 +4795,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "RGVwHAeEbTw",
-    "title": "【1周年カウントダウン】デビューから1年...今日という日を一緒に迎えたい!【轟はじめ/ReGLOSS】 #hololivedev_is",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-09T16:52:44.000Z",
-    "available_at": "2024-09-09T14:00:16.000Z",
-    "duration": 9609,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/YlQvZ9qXXOriEXQzBl6pkIWpSNwa0P9RrMGm7ezpliTF-7OzxcE0_828GSX-0f2ak-HmshPb5mM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
