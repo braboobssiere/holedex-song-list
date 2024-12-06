@@ -1,5 +1,25 @@
 [
   {
+    "id": "aKuGa0WNVPY",
+    "title": "【朝歌】スト６メンテかよ！！歌う【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-05T23:15:59.000Z",
+    "available_at": "2024-12-05T23:17:37.000Z",
+    "duration": 3496,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
     "id": "eIOs-i6o-aE",
     "title": "【#REINEvers4ry】peafowl debut ~Attention Please~ (4 years after ver.)【Pavolia Reine/holoID 2nd gen】",
     "type": "stream",
@@ -235,25 +255,6 @@
     }
   },
   {
-    "id": "h1OY5HGdGKo",
-    "title": "???  【#FG歌みたペアリレー】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-04T08:12:19.000Z",
-    "available_at": "2024-12-06T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "GH5-2oWhi_A",
     "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
     "type": "stream",
@@ -465,6 +466,7 @@
     "available_at": "2024-12-02T01:16:03.000Z",
     "duration": 106,
     "status": "past",
+    "songcount": 1,
     "original_channel_id": "UCFyuDJinaKUzFDl5Dkkoe6A",
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
