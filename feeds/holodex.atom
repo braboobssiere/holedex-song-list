@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-06T22:29:21.536Z</updated>
+  <updated>2024-12-07T02:00:02.324Z</updated>
+
+  <entry>
+    <id>urn:uuid:5ef3a101-edb6-51c9-b422-981b9d65c936</id>
+    <title><![CDATA[【歌枠】第119回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/vJ611Q_oMUA" rel="alternate" type="text/html"/>
+    <published>2024-12-07T01:21:59.000Z</published>
+    <updated>2024-12-07T01:21:59.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vJ611Q_oMUA 【LIVE on &lt;t:1733576400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vJ611Q_oMUA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a362b93e-c27c-53ab-8bb6-0f8b7114d4b6</id>
+    <title><![CDATA[ツキノナミダ -ソロでライブ風ver. -【獅白ぼたん】]]></title>
+    <link href="https://youtu.be/U6YD0gwqNFg" rel="alternate" type="text/html"/>
+    <published>2024-12-07T01:00:06.000Z</published>
+    <updated>2024-12-07T01:00:06.000Z</updated>
+    <author>
+      <name>Botan Ch.獅白ぼたん</name>
+      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U6YD0gwqNFg 【LIVE on &lt;t:1733533206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U6YD0gwqNFg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:912b6f23-c462-5ca6-86da-cb472ec08067</id>
+    <title><![CDATA[#holoENadventcalendar Day 7]]></title>
+    <link href="https://youtu.be/aOnSdLiwALs" rel="alternate" type="text/html"/>
+    <published>2024-12-07T00:28:22.000Z</published>
+    <updated>2024-12-07T00:28:22.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aOnSdLiwALs 【LIVE on &lt;t:1733531302:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aOnSdLiwALs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:eca8abeb-3def-545a-96e8-2c36de08cad9</id>
+    <title><![CDATA[【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】]]></title>
+    <link href="https://youtu.be/TBViCTHfxnU" rel="alternate" type="text/html"/>
+    <published>2024-12-05T18:25:20.000Z</published>
+    <updated>2024-12-05T18:25:20.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TBViCTHfxnU 【LIVE on &lt;t:1733414452:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TBViCTHfxnU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:fa0eea5e-c05b-5df1-8cb7-2674958b4fb3</id>
@@ -31,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Du2LW0Gvgas 【LIVE on &lt;t:1733393739:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Du2LW0Gvgas/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eca8abeb-3def-545a-96e8-2c36de08cad9</id>
-    <title><![CDATA[【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】]]></title>
-    <link href="https://youtu.be/TBViCTHfxnU" rel="alternate" type="text/html"/>
-    <published>2024-12-05T08:44:33.000Z</published>
-    <updated>2024-12-05T08:44:33.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TBViCTHfxnU 【LIVE on &lt;t:1733414452:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TBViCTHfxnU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1504,20 +1546,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:471b158e-21dc-5a45-a73a-e26f1c688fcb</id>
-    <title><![CDATA[スキスキDieスキ超Ayeシテル]]></title>
-    <link href="https://youtu.be/Vgipg_bXYwg" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vgipg_bXYwg 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vgipg_bXYwg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f96afd45-9406-514b-873b-979c4b2b4dd9</id>
     <title><![CDATA[【#REBIRTH3D】Kureiji Ollie's 3D Birthday LIVE 2024 - REBIRTH, The True Me【hololive Indonesia】]]></title>
     <link href="https://youtu.be/O607BZ8HwDk" rel="alternate" type="text/html"/>
@@ -2005,6 +2033,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9wBs8us-F4o 【LIVE on &lt;t:1723164939:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9wBs8us-F4o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f7addd3d-b88d-5d34-bae5-a8d44f48a238</id>
+    <title><![CDATA[【#常闇トワ生誕祭2024】ｰ COLORFUL ｰ【3DLIVE】]]></title>
+    <link href="https://youtu.be/C-QdqYjdArM" rel="alternate" type="text/html"/>
+    <published>2024-08-08T12:04:30.000Z</published>
+    <updated>2024-08-08T12:04:30.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=C-QdqYjdArM 【LIVE on &lt;t:1723114719:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C-QdqYjdArM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
