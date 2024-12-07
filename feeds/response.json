@@ -19,26 +19,6 @@
     }
   },
   {
-    "id": "U6YD0gwqNFg",
-    "title": "ツキノナミダ -ソロでライブ風ver. -【獅白ぼたん】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-07T01:00:06.000Z",
-    "available_at": "2024-12-07T01:00:06.000Z",
-    "duration": 226,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCUKD-uaobj9jiqB-VXt71mA",
-      "name": "Botan Ch.獅白ぼたん",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shishiro Botan"
-    }
-  },
-  {
     "id": "aOnSdLiwALs",
     "title": "#holoENadventcalendar Day 7",
     "type": "stream",
@@ -376,9 +356,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-04T10:10:31.000Z",
-    "available_at": "2024-12-07T08:30:00.000Z",
+    "available_at": "2024-12-07T08:30:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -3721,6 +3701,27 @@
     "published_at": "2024-10-15T15:01:02.000Z",
     "available_at": "2024-10-15T15:01:02.000Z",
     "duration": 247,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "Vgipg_bXYwg",
+    "title": "スキスキDieスキ超Ayeシテル",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-10-15T15:00:27.000Z",
+    "available_at": "2024-10-15T15:00:27.000Z",
+    "duration": 275,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
