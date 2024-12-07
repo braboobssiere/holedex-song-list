@@ -1,5 +1,43 @@
 [
   {
+    "id": "OUbLxGTegxI",
+    "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-07T09:55:41.000Z",
+    "available_at": "2024-12-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "Ld1rZ7tCuyc",
+    "title": "【Karaoke / 歌枠】五周年ありがとうの会~グッズ告知を添えて~ / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-07T09:45:27.000Z",
+    "available_at": "2024-12-07T10:09:23.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "vJ611Q_oMUA",
     "title": "【歌枠】第119回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -40,13 +78,13 @@
   },
   {
     "id": "CR-ZpaMfXu8",
-    "title": "【歌枠】げりげりげりら!!!【ホロライブ/夏色まつり】",
+    "title": "【歌枠】げりげりげりら！！！【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-06T15:45:56.000Z",
     "available_at": "2024-12-07T06:25:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7975,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -356,9 +394,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-04T10:10:31.000Z",
-    "available_at": "2024-12-07T08:30:12.000Z",
-    "duration": 0,
-    "status": "live",
+    "available_at": "2024-12-07T08:30:21.000Z",
+    "duration": 3399,
+    "status": "past",
+    "live_tl_count": {
+      "en": 19
+    },
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -1581,26 +1622,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "tIJdIwYXEMA",
-    "title": "【FUWAMOCO ROCK N' RAWR PARTY】dempagumi.inc dream never ends ♪ #FWMCbeats 【でんぱ組.inc曲縛り】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-24T07:02:01.000Z",
-    "available_at": "2024-11-24T02:12:55.000Z",
-    "duration": 16481,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -3715,13 +3736,13 @@
     }
   },
   {
-    "id": "Vgipg_bXYwg",
-    "title": "スキスキDieスキ超Ayeシテル",
+    "id": "U9X6hVgIib8",
+    "title": "I'm Your Treasure Box *あなたは マリンせんちょうを...",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-10-15T15:00:27.000Z",
     "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 275,
+    "duration": 256,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
@@ -4798,26 +4819,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "wRo2-ohaMZc",
-    "title": "【歌など】1周年カウントダウン&70万人耐久!#らでんちゃん1周年【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-09T15:19:41.000Z",
-    "available_at": "2024-09-09T14:02:36.000Z",
-    "duration": 4307,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
