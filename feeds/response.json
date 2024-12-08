@@ -163,6 +163,25 @@
     }
   },
   {
+    "id": "Ld1rZ7tCuyc",
+    "title": "【Karaoke / 歌枠】五周年ありがとうの会~グッズ告知を添えて~ / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-07T11:14:04.000Z",
+    "available_at": "2024-12-07T10:09:23.000Z",
+    "duration": 2923,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "OUbLxGTegxI",
     "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた",
     "type": "stream",
@@ -183,22 +202,26 @@
     }
   },
   {
-    "id": "Ld1rZ7tCuyc",
-    "title": "【Karaoke / 歌枠】五周年ありがとうの会~グッズ告知を添えて~ / #燃えろアステル",
+    "id": "ge0wzL9hFOY",
+    "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】",
     "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-12-07T09:45:27.000Z",
-    "available_at": "2024-12-07T10:09:23.000Z",
-    "duration": 2918,
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-07T09:32:26.000Z",
+    "available_at": "2024-12-07T08:30:21.000Z",
+    "duration": 3416,
     "status": "past",
+    "songcount": 3,
+    "live_tl_count": {
+      "en": 19
+    },
     "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
       "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "suborg": "ea3rd Generation (Fantasy)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -397,6 +420,43 @@
     }
   },
   {
+    "id": "aW0p20hg7ms",
+    "title": "冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-05T06:58:33.000Z",
+    "available_at": "2024-12-09T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "CC9U7z6ws0Y",
+    "title": "【3D歌特番】本気のカラオケバトルに今年はTEMPUSも3D参戦!【#hololivefesEXPO25】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-05T01:49:38.000Z",
+    "available_at": "2024-12-09T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
+    }
+  },
+  {
     "id": "hjSq4OmJwpk",
     "title": "【UNARCHIVED KARAOKE】I Wish It Could Be Christmas EVERYDAY ~! 💄",
     "type": "stream",
@@ -543,29 +603,6 @@
     "available_at": "2024-12-08T08:30:16.000Z",
     "duration": 3425,
     "status": "past",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "ge0wzL9hFOY",
-    "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-04T10:10:31.000Z",
-    "available_at": "2024-12-07T08:30:21.000Z",
-    "duration": 3399,
-    "status": "past",
-    "songcount": 3,
-    "live_tl_count": {
-      "en": 19
-    },
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -1568,26 +1605,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "seZmjv894sM",
-    "title": "【歌&雑談/Song &Free Talk】チルチルチル【アキロゼ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-26T17:28:06.000Z",
-    "available_at": "2024-11-26T15:10:33.000Z",
-    "duration": 7756,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCFTLzh12_nrtzqBPsTCqenA",
-      "name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Mb9fXGVoUZWSKCLz-W0NE_gMihhpESzfEFQ-1C9xZ3FjW6Az3979WPlZ9ga4l8cDPak6fpUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aki Rosenthal"
     }
   },
   {
@@ -5549,26 +5566,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "Yw0zL5YshRk",
-    "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-08-04T04:01:36.000Z",
-    "available_at": "2024-08-04T02:58:47.000Z",
-    "duration": 3525,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {

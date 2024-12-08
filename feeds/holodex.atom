@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-08T14:27:32.952Z</updated>
+  <updated>2024-12-08T16:31:21.387Z</updated>
 
   <entry>
     <id>urn:uuid:d0824974-afa7-5613-bc9d-3d9454fa099b</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0d4f9993-1e20-5c5b-a982-89824bc7a15d</id>
+    <title><![CDATA[【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】]]></title>
+    <link href="https://youtu.be/ge0wzL9hFOY" rel="alternate" type="text/html"/>
+    <published>2024-12-07T09:32:26.000Z</published>
+    <updated>2024-12-07T09:32:26.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ge0wzL9hFOY 【LIVE on &lt;t:1733560221:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ge0wzL9hFOY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:403f4db2-e969-50ff-b24f-632f0839114b</id>
     <title><![CDATA[【歌枠】げりげりげりら!!!【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/CR-ZpaMfXu8" rel="alternate" type="text/html"/>
@@ -188,6 +202,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f7e520fb-ab2e-56a2-a77f-7d7781f6dbf5</id>
+    <title><![CDATA[冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】]]></title>
+    <link href="https://youtu.be/aW0p20hg7ms" rel="alternate" type="text/html"/>
+    <published>2024-12-05T06:58:33.000Z</published>
+    <updated>2024-12-05T06:58:33.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aW0p20hg7ms 【LIVE on &lt;t:1733738400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aW0p20hg7ms/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1798b574-faa0-5d7a-9482-c9404a7aece5</id>
     <title><![CDATA[【歌枠】バラード【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/EZo9eAeHcIE" rel="alternate" type="text/html"/>
@@ -255,20 +283,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OWSfTiMOjbo 【LIVE on &lt;t:1733309372:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OWSfTiMOjbo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0d4f9993-1e20-5c5b-a982-89824bc7a15d</id>
-    <title><![CDATA[【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】]]></title>
-    <link href="https://youtu.be/ge0wzL9hFOY" rel="alternate" type="text/html"/>
-    <published>2024-12-04T10:10:31.000Z</published>
-    <updated>2024-12-04T10:10:31.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ge0wzL9hFOY 【LIVE on &lt;t:1733560221:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ge0wzL9hFOY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GIAiPXUIEAc 【LIVE on &lt;t:1732687494:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GIAiPXUIEAc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f97b9bf3-5418-523c-8b59-8251d3a2e3cf</id>
-    <title><![CDATA[【歌&雑談/Song &Free Talk】チルチルチル【アキロゼ/ホロライブ】]]></title>
-    <link href="https://youtu.be/seZmjv894sM" rel="alternate" type="text/html"/>
-    <published>2024-11-26T17:28:06.000Z</published>
-    <updated>2024-11-26T17:28:06.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=seZmjv894sM 【LIVE on &lt;t:1732633833:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/seZmjv894sM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2089,20 +2089,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9wBs8us-F4o 【LIVE on &lt;t:1723164939:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9wBs8us-F4o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:532241e5-a28a-5f7e-963b-e7424cfcd04a</id>
-    <title><![CDATA[【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D]]></title>
-    <link href="https://youtu.be/Yw0zL5YshRk" rel="alternate" type="text/html"/>
-    <published>2024-08-04T04:01:36.000Z</published>
-    <updated>2024-08-04T04:01:36.000Z</updated>
-    <author>
-      <name>Koseki Bijou Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Yw0zL5YshRk 【LIVE on &lt;t:1722740327:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yw0zL5YshRk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
