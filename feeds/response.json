@@ -1,5 +1,45 @@
 [
   {
+    "id": "Vwnp-2T3VFg",
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-08T10:04:49.000Z",
+    "available_at": "2024-12-08T10:04:49.000Z",
+    "duration": 114,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCRo9Um8Azdwtbz8gAmQnPqA",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "PXhE0zqp9UE",
+    "title": "【歌枠】1時間まったり歌います~!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-08T09:31:59.000Z",
+    "available_at": "2024-12-08T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "CSYYtif_v-c",
     "title": "【ZOMILY】IT WAS RECENTLY HOLORO'S ANNIVERSARY!!【Kureiji Ollie】",
     "type": "stream",
@@ -211,6 +251,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
+    }
+  },
+  {
+    "id": "bxVTrX8TjrU",
+    "title": "【original anime MV】コンプレックス♡プリンセス【hololive/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-06T14:18:39.000Z",
+    "available_at": "2024-12-08T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -475,8 +534,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2024-12-04T10:19:24.000Z",
     "available_at": "2024-12-08T08:30:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3425,
+    "status": "past",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -1579,26 +1638,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "2zPAWwtsWAw",
-    "title": "zzz(※すべて寝言)【赤井はあと/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-25T22:36:01.000Z",
-    "available_at": "2024-11-25T19:35:25.000Z",
-    "duration": 10391,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
@@ -3762,48 +3801,6 @@
     "published_at": "2024-10-15T15:01:05.000Z",
     "available_at": "2024-10-15T15:01:05.000Z",
     "duration": 200,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "qNzgB6rQIdM",
-    "title": "Unison",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:01:02.000Z",
-    "available_at": "2024-10-15T15:01:02.000Z",
-    "duration": 247,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "V6a1pbqlXVw",
-    "title": "I I I",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-15T15:00:27.000Z",
-    "available_at": "2024-10-15T15:00:27.000Z",
-    "duration": 188,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCXpaq8esihcv3tfMGR8hLyw",

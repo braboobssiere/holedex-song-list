@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-08T08:32:08.151Z</updated>
+  <updated>2024-12-08T10:30:06.968Z</updated>
+
+  <entry>
+    <id>urn:uuid:0784e6c7-f89e-595a-8990-4487fd6d0f7a</id>
+    <title><![CDATA[Let It Snow! Let It Snow! Let It Snow!]]></title>
+    <link href="https://youtu.be/Vwnp-2T3VFg" rel="alternate" type="text/html"/>
+    <published>2024-12-08T10:04:49.000Z</published>
+    <updated>2024-12-08T10:04:49.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vwnp-2T3VFg 【LIVE on &lt;t:1733652289:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vwnp-2T3VFg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3b131f0e-5705-5850-9277-dd9c12626ff9</id>
+    <title><![CDATA[【歌枠】1時間まったり歌います~!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/PXhE0zqp9UE" rel="alternate" type="text/html"/>
+    <published>2024-12-08T09:31:59.000Z</published>
+    <updated>2024-12-08T09:31:59.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PXhE0zqp9UE 【LIVE on &lt;t:1733655600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PXhE0zqp9UE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e7fd076b-8e67-5501-98a5-883f728b8852</id>
@@ -73,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CR-ZpaMfXu8 【LIVE on &lt;t:1733552700:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CR-ZpaMfXu8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:818f41c0-21b9-51db-b4b1-d0ce8e536b1d</id>
+    <title><![CDATA[【original anime MV】コンプレックス♡プリンセス【hololive/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/bxVTrX8TjrU" rel="alternate" type="text/html"/>
+    <published>2024-12-06T14:18:39.000Z</published>
+    <updated>2024-12-06T14:18:39.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bxVTrX8TjrU 【LIVE on &lt;t:1733657400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bxVTrX8TjrU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -675,20 +717,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c0bbafb8-767e-546e-b83f-5d91cc1a5b2b</id>
-    <title><![CDATA[zzz(※すべて寝言)【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/2zPAWwtsWAw" rel="alternate" type="text/html"/>
-    <published>2024-11-25T22:36:01.000Z</published>
-    <updated>2024-11-25T22:36:01.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2zPAWwtsWAw 【LIVE on &lt;t:1732563325:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2zPAWwtsWAw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1557,34 +1585,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vcP-TuL8RC8 【LIVE on &lt;t:1729004465:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vcP-TuL8RC8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5f5e299c-9653-5b39-92bc-2fbcd11e94ff</id>
-    <title><![CDATA[Unison]]></title>
-    <link href="https://youtu.be/qNzgB6rQIdM" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:01:02.000Z</published>
-    <updated>2024-10-15T15:01:02.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qNzgB6rQIdM 【LIVE on &lt;t:1729004462:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qNzgB6rQIdM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4e3eb8d1-2033-5282-9728-7dfc497ca32f</id>
-    <title><![CDATA[I I I]]></title>
-    <link href="https://youtu.be/V6a1pbqlXVw" rel="alternate" type="text/html"/>
-    <published>2024-10-15T15:00:27.000Z</published>
-    <updated>2024-10-15T15:00:27.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V6a1pbqlXVw 【LIVE on &lt;t:1729004427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V6a1pbqlXVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
