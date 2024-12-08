@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-08T13:46:19.000Z",
-    "available_at": "2024-12-08T21:00:00.000Z",
+    "available_at": "2024-12-08T20:04:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -59,6 +59,25 @@
     }
   },
   {
+    "id": "B7QVD4R6PeI",
+    "title": "【歌枠コラボ】#かなけん で楽しく歌って重大告知!!!!!!SINGING STREAM【ホロライブ / AZKi / 天音かなた / 沙花叉クロヱ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-08T11:11:24.000Z",
+    "available_at": "2024-12-09T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "PXhE0zqp9UE",
     "title": "【歌枠】１時間まったり歌います～！【ホロライブ/ときのそら】",
     "type": "stream",
@@ -78,6 +97,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "9fbtjRyaPcM",
+    "title": "【6周年記念】大神ミオにお願い凸待ち!!!【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-08T08:15:59.000Z",
+    "available_at": "2024-12-09T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -144,6 +182,26 @@
     }
   },
   {
+    "id": "OUbLxGTegxI",
+    "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-07T14:19:52.000Z",
+    "available_at": "2024-12-07T13:00:44.000Z",
+    "duration": 4113,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "M2zBlP8wi9U",
     "title": "【#holoROCK_p4rty】 Padahal cuma mau masuk studio... happy 4th anniversary holoro! + Pengumuman!",
     "type": "stream",
@@ -179,26 +237,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "OUbLxGTegxI",
-    "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-07T09:55:41.000Z",
-    "available_at": "2024-12-07T13:00:44.000Z",
-    "duration": 4116,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -441,7 +479,7 @@
     "id": "CC9U7z6ws0Y",
     "title": "【3D歌特番】本気のカラオケバトルに今年はTEMPUSも3D参戦!【#hololivefesEXPO25】",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2024-12-05T01:49:38.000Z",
     "available_at": "2024-12-09T10:00:00.000Z",
     "duration": 0,
@@ -603,6 +641,7 @@
     "available_at": "2024-12-08T08:30:16.000Z",
     "duration": 3425,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -1568,46 +1607,6 @@
     }
   },
   {
-    "id": "iMfGziYsz40",
-    "title": "【 歌枠 】SUPER KARAOKE TIME★2【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-27T08:49:52.000Z",
-    "available_at": "2024-11-27T07:01:56.000Z",
-    "duration": 6048,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "GIAiPXUIEAc",
-    "title": "【 歌枠 】SUPER KARAOKE TIME★【 桃鈴ねね / hololive 】#桃鈴ねね生配信",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-27T07:04:19.000Z",
-    "available_at": "2024-11-27T06:04:54.000Z",
-    "duration": 3229,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
     "id": "RolU4vyQMLE",
     "title": "【 #鷹嶺ルイ3周年 】久々に晩酌しながら3周年カウントダウンだ~!!!【鷹嶺ルイ/ホロライブ】",
     "type": "stream",
@@ -1756,7 +1755,7 @@
     "published_at": "2024-11-24T06:13:50.000Z",
     "available_at": "2024-11-24T05:25:18.000Z",
     "duration": 2305,
-    "status": "past",
+    "status": "missing",
     "original_channel_id": "UC98OqOiTLKsik84AB264Uog",
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -4826,27 +4825,6 @@
     }
   },
   {
-    "id": "hhrNF5WKEKY",
-    "title": "【重大発表】ReGLOSS 1st Anniversary【#ReGLOSS1周年】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-10T12:04:01.000Z",
-    "available_at": "2024-09-10T10:58:36.000Z",
-    "duration": 3711,
-    "status": "past",
-    "live_tl_count": {
-      "en": 5
-    },
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bFwoEOlyG7wWIhu-6tPRCJujrkqFWX9K0lj9udB_mruynd0fw2Erltij5t9tB626eEQTvscS=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "NEvwo26ivpw",
     "title": "【切り抜き動画まとめ】今までの誕生日配信を切り抜き動画にしたやつ! #獅白ぼたんプチ生誕2024 【獅白ぼたん/ホロライブ】",
     "type": "stream",
@@ -5566,6 +5544,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "Yw0zL5YshRk",
+    "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-08-04T04:01:36.000Z",
+    "available_at": "2024-08-04T02:58:47.000Z",
+    "duration": 3525,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "name": "Koseki Bijou Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koseki Bijou"
     }
   },
   {
