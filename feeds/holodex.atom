@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-08T12:49:52.923Z</updated>
+  <updated>2024-12-08T14:27:32.952Z</updated>
+
+  <entry>
+    <id>urn:uuid:d0824974-afa7-5613-bc9d-3d9454fa099b</id>
+    <title><![CDATA[【KARAOKE】KPOP! NewJeans 뉴진스 and K/DA【Unarchived】]]></title>
+    <link href="https://youtu.be/zBGWGaYhrfI" rel="alternate" type="text/html"/>
+    <published>2024-12-08T13:46:19.000Z</published>
+    <updated>2024-12-08T13:46:19.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zBGWGaYhrfI 【LIVE on &lt;t:1733691600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zBGWGaYhrfI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:702d7c0c-57bb-524d-9ff9-e0908672e6a6</id>
+    <title><![CDATA[【original】ゴメンねメディスン【ホロライブ/紫咲シオン】]]></title>
+    <link href="https://youtu.be/eKA6dewIdk8" rel="alternate" type="text/html"/>
+    <published>2024-12-08T13:10:06.000Z</published>
+    <updated>2024-12-08T13:10:06.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eKA6dewIdk8 【LIVE on &lt;t:1733663406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eKA6dewIdk8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:818f41c0-21b9-51db-b4b1-d0ce8e536b1d</id>
@@ -17,20 +45,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bxVTrX8TjrU 【LIVE on &lt;t:1733657406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bxVTrX8TjrU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0784e6c7-f89e-595a-8990-4487fd6d0f7a</id>
-    <title><![CDATA[Let It Snow! Let It Snow! Let It Snow!]]></title>
-    <link href="https://youtu.be/Vwnp-2T3VFg" rel="alternate" type="text/html"/>
-    <published>2024-12-08T10:04:49.000Z</published>
-    <updated>2024-12-08T10:04:49.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Vwnp-2T3VFg 【LIVE on &lt;t:1733652289:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vwnp-2T3VFg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -63,7 +77,7 @@
 
   <entry>
     <id>urn:uuid:98bc3a87-ea65-5d60-b4fe-a79a80b3d399</id>
-    <title><![CDATA[【3D LIVE】重大告知あり!紫咲シオンBirthdayアニソンライブ!!✨【#紫咲シオン生誕LIVE2024】]]></title>
+    <title><![CDATA[【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】]]></title>
     <link href="https://youtu.be/HOb_TW8uK48" rel="alternate" type="text/html"/>
     <published>2024-12-07T15:38:40.000Z</published>
     <updated>2024-12-07T15:38:40.000Z</updated>
@@ -73,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HOb_TW8uK48 【LIVE on &lt;t:1733659097:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HOb_TW8uK48/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:702d7c0c-57bb-524d-9ff9-e0908672e6a6</id>
-    <title><![CDATA[???]]></title>
-    <link href="https://youtu.be/eKA6dewIdk8" rel="alternate" type="text/html"/>
-    <published>2024-12-07T15:31:53.000Z</published>
-    <updated>2024-12-07T15:31:53.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eKA6dewIdk8 【LIVE on &lt;t:1733663400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eKA6dewIdk8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6ZxdGg9JGIU 【LIVE on &lt;t:1733581531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ZxdGg9JGIU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:403f4db2-e969-50ff-b24f-632f0839114b</id>
+    <title><![CDATA[【歌枠】げりげりげりら!!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/CR-ZpaMfXu8" rel="alternate" type="text/html"/>
+    <published>2024-12-07T08:45:48.000Z</published>
+    <updated>2024-12-07T08:45:48.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CR-ZpaMfXu8 【LIVE on &lt;t:1733552700:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CR-ZpaMfXu8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aOnSdLiwALs 【LIVE on &lt;t:1733531302:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aOnSdLiwALs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:403f4db2-e969-50ff-b24f-632f0839114b</id>
-    <title><![CDATA[【歌枠】げりげりげりら！！！【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/CR-ZpaMfXu8" rel="alternate" type="text/html"/>
-    <published>2024-12-06T15:45:56.000Z</published>
-    <updated>2024-12-06T15:45:56.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CR-ZpaMfXu8 【LIVE on &lt;t:1733552700:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CR-ZpaMfXu8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1599,6 +1599,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kR0hfKajaM4 【LIVE on &lt;t:1729091035:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kR0hfKajaM4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6df82872-3832-5031-8e9d-15f574f6a749</id>
+    <title><![CDATA[コンプレックス♡プリンセス]]></title>
+    <link href="https://youtu.be/vcP-TuL8RC8" rel="alternate" type="text/html"/>
+    <published>2024-10-15T15:01:05.000Z</published>
+    <updated>2024-10-15T15:01:05.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vcP-TuL8RC8 【LIVE on &lt;t:1729004465:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vcP-TuL8RC8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
