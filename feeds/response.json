@@ -1,13 +1,75 @@
 [
   {
+    "id": "cdek0khk55o",
+    "title": "Nightmare",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-09T15:00:51.000Z",
+    "available_at": "2024-12-09T15:00:51.000Z",
+    "duration": 216,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
+    "id": "47hoUcGoZTI",
+    "title": "【Original Song】Nightmare【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-09T15:00:06.000Z",
+    "available_at": "2024-12-09T15:00:06.000Z",
+    "duration": 214,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
+    "id": "-uTXfXW7Qww",
+    "title": "Nightmare(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-09T15:00:01.000Z",
+    "available_at": "2024-12-09T15:00:01.000Z",
+    "duration": 216,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "afIWJT46t6Q",
     "title": "【歌枠】王道以外歌ったら配信終了するアニソン歌枠🎤 【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-09T11:21:16.000Z",
     "available_at": "2024-12-09T13:04:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6076,
+    "status": "past",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -19,14 +81,35 @@
     }
   },
   {
+    "id": "Kepw2NfNvMg",
+    "title": "響咲リオナ/ FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-09T09:48:20.000Z",
+    "available_at": "2024-12-10T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "oBrYqMJHlPc",
     "title": "≪Midnight Monday Radio≫ Episode 11 #shorts",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-08T14:31:27.000Z",
-    "available_at": "2024-12-09T15:00:00.000Z",
+    "available_at": "2024-12-09T15:01:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 8,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -105,6 +188,7 @@
     "available_at": "2024-12-09T12:00:56.000Z",
     "duration": 4275,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -113,6 +197,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "hmS_z-2epcM",
+    "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY2】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-08T09:32:48.000Z",
+    "available_at": "2024-12-08T08:30:16.000Z",
+    "duration": 3440,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -361,26 +465,6 @@
     }
   },
   {
-    "id": "47hoUcGoZTI",
-    "title": "【Original Song】Nightmare【Moona Hoshinova】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-06T16:51:51.000Z",
-    "available_at": "2024-12-09T15:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
-    }
-  },
-  {
     "id": "eIOs-i6o-aE",
     "title": "【#REINEvers4ry】peafowl debut ~Attention Please~ (4 years after ver.)【Pavolia Reine/holoID 2nd gen】",
     "type": "stream",
@@ -397,6 +481,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
+    }
+  },
+  {
+    "id": "Q1s4w-_ujig",
+    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-06T04:45:17.000Z",
+    "available_at": "2024-12-10T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -525,6 +628,7 @@
     "available_at": "2024-12-09T10:00:11.000Z",
     "duration": 3620,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -543,6 +647,7 @@
     "available_at": "2024-12-09T09:57:59.000Z",
     "duration": 4197,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCWsfcksUUpoEvhia0_ut0bA",
       "name": "holostars ホロスターズ - VTuber Group",
@@ -689,26 +794,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
-    }
-  },
-  {
-    "id": "hmS_z-2epcM",
-    "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY2】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-04T10:19:24.000Z",
-    "available_at": "2024-12-08T08:30:16.000Z",
-    "duration": 3425,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
     }
   },
   {
@@ -3674,26 +3759,6 @@
     }
   },
   {
-    "id": "b2gMqYqyBbE",
-    "title": "【アニメMV】with∅：Robocosan Original Song",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-19T12:00:07.000Z",
-    "available_at": "2024-10-19T12:00:07.000Z",
-    "duration": 203,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
     "id": "pS27c8El4s8",
     "title": "【#フワモコパ3D COLLAB】耳が幸せになる3Dコラボ✨️ guaranteed happy ears for all ruffians 🐾💓 【ホロライブ/FUWAMOCO/周防パトラ】",
     "type": "stream",
@@ -3752,47 +3817,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "6UFDwp3EFQY",
-    "title": "【MV】1135 / さくらみこ (official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-19T02:34:08.000Z",
-    "available_at": "2024-10-19T02:34:08.000Z",
-    "duration": 246,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gxXHmXJq_kkZ0bvTmz7R1deyOAV44zZr2keaF0ojSq7MeiOGLSzFTCoYgYR4PGDWTCoLR7eK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "A7xlNvheyug",
-    "title": "Go-Getters",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-17T15:00:10.000Z",
-    "available_at": "2024-10-17T15:00:10.000Z",
-    "duration": 196,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
@@ -5540,26 +5564,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "Yw0zL5YshRk",
-    "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-08-04T04:01:36.000Z",
-    "available_at": "2024-08-04T02:58:47.000Z",
-    "duration": 3525,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
