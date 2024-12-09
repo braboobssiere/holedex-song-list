@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-08T22:28:01.991Z</updated>
+  <updated>2024-12-09T02:05:25.173Z</updated>
 
   <entry>
     <id>urn:uuid:c9715a7a-319a-5165-ac5e-c6d0a7df7295</id>
@@ -17,20 +17,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oBrYqMJHlPc 【LIVE on &lt;t:1733756400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oBrYqMJHlPc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d0824974-afa7-5613-bc9d-3d9454fa099b</id>
-    <title><![CDATA[【KARAOKE】KPOP! NewJeans 뉴진스 and K/DA【Unarchived】]]></title>
-    <link href="https://youtu.be/zBGWGaYhrfI" rel="alternate" type="text/html"/>
-    <published>2024-12-08T13:46:19.000Z</published>
-    <updated>2024-12-08T13:46:19.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zBGWGaYhrfI 【LIVE on &lt;t:1733688267:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zBGWGaYhrfI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -104,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5ef3a101-edb6-51c9-b422-981b9d65c936</id>
+    <title><![CDATA[【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】]]></title>
+    <link href="https://youtu.be/vJ611Q_oMUA" rel="alternate" type="text/html"/>
+    <published>2024-12-07T19:24:38.000Z</published>
+    <updated>2024-12-07T19:24:38.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vJ611Q_oMUA 【LIVE on &lt;t:1733576620:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vJ611Q_oMUA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:dc59c367-8522-5cd8-8620-c1189800fca9</id>
     <title><![CDATA[【歌枠】ゲリラだけど歌いたい歌がある!!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
     <link href="https://youtu.be/6ZxdGg9JGIU" rel="alternate" type="text/html"/>
@@ -157,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CR-ZpaMfXu8 【LIVE on &lt;t:1733552700:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CR-ZpaMfXu8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5ef3a101-edb6-51c9-b422-981b9d65c936</id>
-    <title><![CDATA[【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】]]></title>
-    <link href="https://youtu.be/vJ611Q_oMUA" rel="alternate" type="text/html"/>
-    <published>2024-12-07T01:21:59.000Z</published>
-    <updated>2024-12-07T01:21:59.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vJ611Q_oMUA 【LIVE on &lt;t:1733576620:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vJ611Q_oMUA/maxresdefault.jpg"/>
   </entry>
 
   <entry>

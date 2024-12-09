@@ -26,7 +26,7 @@
     "published_at": "2024-12-08T13:46:19.000Z",
     "available_at": "2024-12-08T20:04:27.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -105,6 +105,7 @@
     "available_at": "2024-12-08T10:58:57.000Z",
     "duration": 4136,
     "status": "past",
+    "songcount": 10,
     "live_tl_count": {
       "en": 61
     },
@@ -155,6 +156,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "vJ611Q_oMUA",
+    "title": "【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-07T19:24:38.000Z",
+    "available_at": "2024-12-07T13:03:40.000Z",
+    "duration": 21546,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -298,26 +319,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "vJ611Q_oMUA",
-    "title": "【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-07T01:21:59.000Z",
-    "available_at": "2024-12-07T13:03:40.000Z",
-    "duration": 21541,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -1751,7 +1752,7 @@
     "published_at": "2024-11-24T10:39:09.000Z",
     "available_at": "2024-11-24T09:50:29.000Z",
     "duration": 2550,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 4
     },
