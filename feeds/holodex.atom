@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-09T10:33:55.547Z</updated>
+  <updated>2024-12-09T12:54:55.358Z</updated>
+
+  <entry>
+    <id>urn:uuid:e7c5ec5d-684c-5c34-90f2-4da7297ca955</id>
+    <title><![CDATA[【歌枠】王道以外歌ったら配信終了するアニソン歌枠🎤 【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/afIWJT46t6Q" rel="alternate" type="text/html"/>
+    <published>2024-12-09T11:21:16.000Z</published>
+    <updated>2024-12-09T11:21:16.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=afIWJT46t6Q 【LIVE on &lt;t:1733749200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/afIWJT46t6Q/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c9715a7a-319a-5165-ac5e-c6d0a7df7295</id>
@@ -57,7 +71,7 @@
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B7QVD4R6PeI 【LIVE on &lt;t:1733745600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B7QVD4R6PeI 【LIVE on &lt;t:1733745656:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7QVD4R6PeI/maxresdefault.jpg"/>
   </entry>
 
@@ -231,7 +245,7 @@
 
   <entry>
     <id>urn:uuid:f7e520fb-ab2e-56a2-a77f-7d7781f6dbf5</id>
-    <title><![CDATA[冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】]]></title>
+    <title><![CDATA[冬だ！年末だ！カラオケだ！【#ReGLOSS3Dカラオケ】]]></title>
     <link href="https://youtu.be/aW0p20hg7ms" rel="alternate" type="text/html"/>
     <published>2024-12-05T06:58:33.000Z</published>
     <updated>2024-12-05T06:58:33.000Z</updated>

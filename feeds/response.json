@@ -1,5 +1,24 @@
 [
   {
+    "id": "afIWJT46t6Q",
+    "title": "【歌枠】王道以外歌ったら配信終了するアニソン歌枠🎤 【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-09T11:21:16.000Z",
+    "available_at": "2024-12-09T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "oBrYqMJHlPc",
     "title": "≪Midnight Monday Radio≫ Episode 11 #shorts",
     "type": "stream",
@@ -83,9 +102,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-08T11:11:24.000Z",
-    "available_at": "2024-12-09T12:00:00.000Z",
+    "available_at": "2024-12-09T12:00:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -121,13 +140,13 @@
   },
   {
     "id": "9fbtjRyaPcM",
-    "title": "【6周年記念】大神ミオにお願い凸待ち!!!【ホロライブ/大神ミオ】",
+    "title": "【６周年記念】大神ミオにお願い凸待ち！！！【ホロライブ/大神ミオ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-12-08T08:15:59.000Z",
     "available_at": "2024-12-09T10:03:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3671,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -499,13 +518,13 @@
   },
   {
     "id": "aW0p20hg7ms",
-    "title": "冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】",
+    "title": "冬だ！年末だ！カラオケだ！【#ReGLOSS3Dカラオケ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-05T06:58:33.000Z",
     "available_at": "2024-12-09T10:00:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3620,
+    "status": "past",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -517,13 +536,13 @@
   },
   {
     "id": "CC9U7z6ws0Y",
-    "title": "【3D歌特番】本気のカラオケバトルに今年はTEMPUSも3D参戦!【#hololivefesEXPO25】",
+    "title": "【3D歌特番】本気のカラオケバトルに今年はTEMPUSも3D参戦！【#hololivefesEXPO25】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-05T01:49:38.000Z",
     "available_at": "2024-12-09T09:57:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4197,
+    "status": "past",
     "channel": {
       "id": "UCWsfcksUUpoEvhia0_ut0bA",
       "name": "holostars ホロスターズ - VTuber Group",
@@ -1544,28 +1563,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "1aT0mqR2Zg0",
-    "title": "【UNARCHIVED KARAOKE】EMO NIGHT ANJAY【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-27T12:06:59.000Z",
-    "available_at": "2024-11-27T12:28:12.000Z",
-    "duration": 7618,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 14
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
