@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-09T16:36:02.461Z</updated>
+  <updated>2024-12-09T18:37:33.416Z</updated>
 
   <entry>
     <id>urn:uuid:57fbb287-3fef-5a55-9303-865de6737fec</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:98bc3a87-ea65-5d60-b4fe-a79a80b3d399</id>
+    <title><![CDATA[【3D LIVE】重大告知あり!紫咲シオンBirthdayアニソンライブ!!✨【#紫咲シオン生誕LIVE2024】]]></title>
+    <link href="https://youtu.be/HOb_TW8uK48" rel="alternate" type="text/html"/>
+    <published>2024-12-08T13:11:22.000Z</published>
+    <updated>2024-12-08T13:11:22.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HOb_TW8uK48 【LIVE on &lt;t:1733659097:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HOb_TW8uK48/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:702d7c0c-57bb-524d-9ff9-e0908672e6a6</id>
     <title><![CDATA[【original】ゴメンねメディスン【ホロライブ/紫咲シオン】]]></title>
     <link href="https://youtu.be/eKA6dewIdk8" rel="alternate" type="text/html"/>
@@ -101,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eKA6dewIdk8 【LIVE on &lt;t:1733663406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eKA6dewIdk8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3b131f0e-5705-5850-9277-dd9c12626ff9</id>
+    <title><![CDATA[【歌枠】1時間まったり歌います~!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/PXhE0zqp9UE" rel="alternate" type="text/html"/>
+    <published>2024-12-08T12:13:12.000Z</published>
+    <updated>2024-12-08T12:13:12.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PXhE0zqp9UE 【LIVE on &lt;t:1733655537:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PXhE0zqp9UE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -146,20 +174,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3b131f0e-5705-5850-9277-dd9c12626ff9</id>
-    <title><![CDATA[【歌枠】１時間まったり歌います～！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/PXhE0zqp9UE" rel="alternate" type="text/html"/>
-    <published>2024-12-08T09:31:59.000Z</published>
-    <updated>2024-12-08T09:31:59.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PXhE0zqp9UE 【LIVE on &lt;t:1733655537:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PXhE0zqp9UE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e7fd076b-8e67-5501-98a5-883f728b8852</id>
     <title><![CDATA[【歌枠】あさの癒しソングうたうよ!♡【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/9T7j8ogN8sA" rel="alternate" type="text/html"/>
@@ -199,20 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6ZxdGg9JGIU 【LIVE on &lt;t:1733581531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ZxdGg9JGIU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:98bc3a87-ea65-5d60-b4fe-a79a80b3d399</id>
-    <title><![CDATA[【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】]]></title>
-    <link href="https://youtu.be/HOb_TW8uK48" rel="alternate" type="text/html"/>
-    <published>2024-12-07T15:38:40.000Z</published>
-    <updated>2024-12-07T15:38:40.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HOb_TW8uK48 【LIVE on &lt;t:1733659097:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HOb_TW8uK48/maxresdefault.jpg"/>
   </entry>
 
   <entry>
