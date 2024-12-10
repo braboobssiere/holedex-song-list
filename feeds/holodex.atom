@@ -3,21 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-10T14:30:46.687Z</updated>
-
-  <entry>
-    <id>urn:uuid:fb7a3019-f002-59f2-be58-613f11752b93</id>
-    <title><![CDATA[The Christmas Song]]></title>
-    <link href="https://youtu.be/8itIwVBu6os" rel="alternate" type="text/html"/>
-    <published>2024-12-10T10:02:53.000Z</published>
-    <updated>2024-12-10T10:02:53.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8itIwVBu6os 【LIVE on &lt;t:1733824973:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8itIwVBu6os/maxresdefault.jpg"/>
-  </entry>
+  <updated>2024-12-10T16:36:06.448Z</updated>
 
   <entry>
     <id>urn:uuid:95e4e364-5741-5eb6-870c-e0689b85b8b5</id>
@@ -87,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=afIWJT46t6Q 【LIVE on &lt;t:1733749457:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/afIWJT46t6Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f7e520fb-ab2e-56a2-a77f-7d7781f6dbf5</id>
+    <title><![CDATA[冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】]]></title>
+    <link href="https://youtu.be/aW0p20hg7ms" rel="alternate" type="text/html"/>
+    <published>2024-12-09T11:05:21.000Z</published>
+    <updated>2024-12-09T11:05:21.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aW0p20hg7ms 【LIVE on &lt;t:1733738411:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aW0p20hg7ms/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -230,6 +230,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fbebc40c-a8cf-5bfa-bf3d-04b0b51060db</id>
+    <title><![CDATA[虎金妃笑虎 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】]]></title>
+    <link href="https://youtu.be/-VtkEfYFNbA" rel="alternate" type="text/html"/>
+    <published>2024-12-07T14:17:42.000Z</published>
+    <updated>2024-12-07T14:17:42.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-VtkEfYFNbA 【LIVE on &lt;t:1733907600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-VtkEfYFNbA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:0d4f9993-1e20-5c5b-a982-89824bc7a15d</id>
     <title><![CDATA[【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】]]></title>
     <link href="https://youtu.be/ge0wzL9hFOY" rel="alternate" type="text/html"/>
@@ -311,20 +325,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Du2LW0Gvgas 【LIVE on &lt;t:1733393739:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Du2LW0Gvgas/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f7e520fb-ab2e-56a2-a77f-7d7781f6dbf5</id>
-    <title><![CDATA[冬だ！年末だ！カラオケだ！【#ReGLOSS3Dカラオケ】]]></title>
-    <link href="https://youtu.be/aW0p20hg7ms" rel="alternate" type="text/html"/>
-    <published>2024-12-05T06:58:33.000Z</published>
-    <updated>2024-12-05T06:58:33.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aW0p20hg7ms 【LIVE on &lt;t:1733738411:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aW0p20hg7ms/maxresdefault.jpg"/>
   </entry>
 
   <entry>
