@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-10T08:35:15.657Z</updated>
+  <updated>2024-12-10T10:33:29.681Z</updated>
+
+  <entry>
+    <id>urn:uuid:fb7a3019-f002-59f2-be58-613f11752b93</id>
+    <title><![CDATA[The Christmas Song]]></title>
+    <link href="https://youtu.be/8itIwVBu6os" rel="alternate" type="text/html"/>
+    <published>2024-12-10T10:02:53.000Z</published>
+    <updated>2024-12-10T10:02:53.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8itIwVBu6os 【LIVE on &lt;t:1733824973:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8itIwVBu6os/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:57fbb287-3fef-5a55-9303-865de6737fec</id>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=afIWJT46t6Q 【LIVE on &lt;t:1733749457:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/afIWJT46t6Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:604ef3f1-cfab-5e6a-aad0-0447d9813e4d</id>
-    <title><![CDATA[【歌枠】デビュー1か月記念!いつもありがとう! #hololiveDEV_IS #FLOWGLOW]]></title>
-    <link href="https://youtu.be/1fvIatDQQ-k" rel="alternate" type="text/html"/>
-    <published>2024-12-08T17:12:01.000Z</published>
-    <updated>2024-12-08T17:12:01.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1fvIatDQQ-k 【LIVE on &lt;t:1733832000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1fvIatDQQ-k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -213,20 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6ZxdGg9JGIU 【LIVE on &lt;t:1733581531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ZxdGg9JGIU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6cef625d-3f3c-5142-ad5c-76b49428d1d3</id>
-    <title><![CDATA[【歌枠】デビュー1か月記念歌枠だぜ!【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/97cDAHOJGaI" rel="alternate" type="text/html"/>
-    <published>2024-12-07T17:12:24.000Z</published>
-    <updated>2024-12-07T17:12:24.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=97cDAHOJGaI 【LIVE on &lt;t:1733837400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/97cDAHOJGaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -773,6 +759,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6IasUvPw6cg 【LIVE on &lt;t:1732715989:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6IasUvPw6cg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:69d80fa5-2335-5876-9cd3-1af687a12366</id>
+    <title><![CDATA[【歌枠】ボイトレ行きたての歌枠 #hololiveDEV_IS #FLOWGLOW #響咲リオナ]]></title>
+    <link href="https://youtu.be/0nAx7XAMyec" rel="alternate" type="text/html"/>
+    <published>2024-11-27T15:51:49.000Z</published>
+    <updated>2024-11-27T15:51:49.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0nAx7XAMyec 【LIVE on &lt;t:1732716007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0nAx7XAMyec/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1585,20 +1585,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MyA_K-awSoU 【LIVE on &lt;t:1729644910:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MyA_K-awSoU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:332b73c9-8f50-5fc1-bc63-3a7320788b05</id>
-    <title><![CDATA[【アニメMV】with∅：Robocosan Original Song]]></title>
-    <link href="https://youtu.be/b2gMqYqyBbE" rel="alternate" type="text/html"/>
-    <published>2024-10-19T12:00:07.000Z</published>
-    <updated>2024-10-19T12:00:07.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=b2gMqYqyBbE 【LIVE on &lt;t:1729339207:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/b2gMqYqyBbE/maxresdefault.jpg"/>
   </entry>
 
   <entry>

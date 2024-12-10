@@ -1,5 +1,26 @@
 [
   {
+    "id": "8itIwVBu6os",
+    "title": "The Christmas Song",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-10T10:02:53.000Z",
+    "available_at": "2024-12-10T10:02:53.000Z",
+    "duration": 186,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCRo9Um8Azdwtbz8gAmQnPqA",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "cdek0khk55o",
     "title": "Nightmare",
     "type": "stream",
@@ -79,25 +100,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "1fvIatDQQ-k",
-    "title": "【歌枠】デビュー1か月記念!いつもありがとう! #hololiveDEV_IS #FLOWGLOW",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-08T17:12:01.000Z",
-    "available_at": "2024-12-10T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -345,25 +347,6 @@
     }
   },
   {
-    "id": "97cDAHOJGaI",
-    "title": "【歌枠】デビュー1か月記念歌枠だぜ!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-07T17:12:24.000Z",
-    "available_at": "2024-12-10T13:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "OUbLxGTegxI",
     "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた",
     "type": "stream",
@@ -509,9 +492,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-06T04:45:17.000Z",
-    "available_at": "2024-12-10T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-10T09:00:21.000Z",
+    "duration": 3403,
+    "status": "past",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -1632,6 +1615,26 @@
     }
   },
   {
+    "id": "0nAx7XAMyec",
+    "title": "【歌枠】ボイトレ行きたての歌枠 #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T15:51:49.000Z",
+    "available_at": "2024-11-27T14:00:07.000Z",
+    "duration": 5469,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "EcaPrPsbCGg",
     "title": "【 #鷹嶺ルイ3周年 】告知あり!豪華ゲスト出演!あの伝説のロケ番組やってきた✨【鷹嶺ルイ/ホロライブ】",
     "type": "stream",
@@ -1648,6 +1651,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "oAKkkas8jEk",
+    "title": "【UNARCHIVE】Suprise karaoke!【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T12:02:04.000Z",
+    "available_at": "2024-11-27T14:36:01.000Z",
+    "duration": 12907,
+    "status": "missing",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w8ilN5YMfG3H6SX162Fkg71BaJdYUUoHOc91cryyfdvto94IpypSjvsLaMA1MyODr2V-w-ox-h8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
     }
   },
   {
@@ -3737,26 +3759,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tN30xU8lzi3a_lQM1ayELwyfQVZm3ojNLPnikkzdv0W3q0jDyoeEMVipbSn4F6wUG-PkeW72=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
-    }
-  },
-  {
-    "id": "b2gMqYqyBbE",
-    "title": "【アニメMV】with∅：Robocosan Original Song",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-10-19T12:00:07.000Z",
-    "available_at": "2024-10-19T12:00:07.000Z",
-    "duration": 203,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
