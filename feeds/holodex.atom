@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-11T06:37:44.375Z</updated>
+  <updated>2024-12-11T08:35:29.413Z</updated>
+
+  <entry>
+    <id>urn:uuid:64212c86-b312-5568-88e3-059cd1a9b3e6</id>
+    <title><![CDATA[【UNARCHIVED】UwU~~~♪【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/_EUz1S3Juv8" rel="alternate" type="text/html"/>
+    <published>2024-12-11T08:09:12.000Z</published>
+    <updated>2024-12-11T08:09:12.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_EUz1S3Juv8 【LIVE on &lt;t:1733905800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_EUz1S3Juv8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:95e4e364-5741-5eb6-870c-e0689b85b8b5</id>
@@ -185,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aW0p20hg7ms 【LIVE on &lt;t:1733738411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aW0p20hg7ms/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9c8367ba-f002-5261-b5eb-e5cae6bf377f</id>
+    <title><![CDATA[≪KARAOKE・歌枠≫ Hakos Baelz One Million Endurance || 100万耐久配信!!! #BaeMillion]]></title>
+    <link href="https://youtu.be/BCCoDqZIUC0" rel="alternate" type="text/html"/>
+    <published>2024-12-08T14:39:50.000Z</published>
+    <updated>2024-12-08T14:39:50.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BCCoDqZIUC0 【LIVE on &lt;t:1733965200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BCCoDqZIUC0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -857,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=I_d_Zim5_hg 【LIVE on &lt;t:1732784406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/I_d_Zim5_hg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8a87bf46-9bae-5d9d-8ce6-7f75de88ea83</id>
-    <title><![CDATA[【縦型配信/歌枠】珍しい昼活!アニソン歌おう🎤  #shorts【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/0WVSS5-q4i8" rel="alternate" type="text/html"/>
-    <published>2024-11-28T08:12:39.000Z</published>
-    <updated>2024-11-28T08:12:39.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0WVSS5-q4i8 【LIVE on &lt;t:1732766468:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0WVSS5-q4i8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
