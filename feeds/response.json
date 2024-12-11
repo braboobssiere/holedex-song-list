@@ -44,9 +44,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-12-11T06:15:26.000Z",
-    "available_at": "2024-12-11T16:30:00.000Z",
+    "available_at": "2024-12-11T16:29:44.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCjLEmnpCNeisMxy134KPwWw",
       "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -96,6 +96,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "Q1s4w-_ujig",
+    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"【おおきにアリーナ舞洲】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-10T10:00:47.000Z",
+    "available_at": "2024-12-10T09:00:21.000Z",
+    "duration": 3421,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
+    "id": "KsvoDL8QT2c",
+    "title": "水宮枢 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-10T09:47:23.000Z",
+    "available_at": "2024-12-12T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
     }
   },
   {
@@ -704,6 +744,25 @@
     }
   },
   {
+    "id": "bb9m1a3mOfg",
+    "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-07T05:32:45.000Z",
+    "available_at": "2024-12-12T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "name": "Shiori Novella Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiori Novella"
+    }
+  },
+  {
     "id": "aOnSdLiwALs",
     "title": "#holoENadventcalendar Day 7",
     "type": "stream",
@@ -740,26 +799,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "Q1s4w-_ujig",
-    "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"【おおきにアリーナ舞洲】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-06T04:45:17.000Z",
-    "available_at": "2024-12-10T09:00:21.000Z",
-    "duration": 3403,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -1872,25 +1911,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B_LK3jAmQwbFT0f4I4YncBH36qMobvUu7P1wgddH6F8qMUUsBAl0gTn8PCgPs2zv6Z3uDfDR=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "KAF"
-    }
-  },
-  {
-    "id": "7C5m8GFiBnw",
-    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-27T09:00:38.000Z",
-    "available_at": "2024-11-28T09:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -3387,25 +3407,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CoKMtt9uQNGPOQP_t0LaCL4N21m0TUNCxzLtKRRTBmpH0xPc0s2cZQ-uUuQkxqerbGkxJkGU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "m2LMJknvyoU",
-    "title": "僕らの星座/白上フブキ(FBKINGDOM国歌 )",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-04T12:45:06.000Z",
-    "available_at": "2024-11-04T12:45:06.000Z",
-    "duration": 251,
-    "status": "missing",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
