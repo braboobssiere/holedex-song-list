@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-12T18:37:20.532Z</updated>
+  <updated>2024-12-12T20:29:57.326Z</updated>
 
   <entry>
     <id>urn:uuid:cf8cca7e-0b8e-5081-98f6-671791f2d2e0</id>
@@ -15,7 +15,7 @@
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CTU8UsRNUi4 【LIVE on &lt;t:1734033600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CTU8UsRNUi4 【LIVE on &lt;t:1734033841:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CTU8UsRNUi4/maxresdefault.jpg"/>
   </entry>
 
@@ -87,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=45FOruWgXVE 【LIVE on &lt;t:1734001047:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/45FOruWgXVE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f92dfbc8-137f-5fc3-8b26-d7444c072327</id>
-    <title><![CDATA[Rockin' Around the Christmas Tree]]></title>
-    <link href="https://youtu.be/09UOuVuFs08" rel="alternate" type="text/html"/>
-    <published>2024-12-12T10:03:06.000Z</published>
-    <updated>2024-12-12T10:03:06.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=09UOuVuFs08 【LIVE on &lt;t:1733997786:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/09UOuVuFs08/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1459,6 +1445,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Lt20g3buwWw 【LIVE on &lt;t:1730991880:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Lt20g3buwWw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c8305f12-c2e1-5560-8377-cc0ec334828d</id>
+    <title><![CDATA[GET THE CROWN]]></title>
+    <link href="https://youtu.be/Tkx4HOLIrEM" rel="alternate" type="text/html"/>
+    <published>2024-11-07T15:01:10.000Z</published>
+    <updated>2024-11-07T15:01:10.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Tkx4HOLIrEM 【LIVE on &lt;t:1730991670:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Tkx4HOLIrEM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
