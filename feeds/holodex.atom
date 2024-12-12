@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-12T10:33:02.577Z</updated>
+  <updated>2024-12-12T12:54:06.919Z</updated>
+
+  <entry>
+    <id>urn:uuid:a318104a-4373-5093-a5fa-a3ac67046d87</id>
+    <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Have Yourself a Merry Little Christmas ~! 💄]]></title>
+    <link href="https://youtu.be/45FOruWgXVE" rel="alternate" type="text/html"/>
+    <published>2024-12-12T10:36:48.000Z</published>
+    <updated>2024-12-12T10:36:48.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=45FOruWgXVE 【LIVE on &lt;t:1734001047:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/45FOruWgXVE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f92dfbc8-137f-5fc3-8b26-d7444c072327</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=09UOuVuFs08 【LIVE on &lt;t:1733997786:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/09UOuVuFs08/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:92625c5a-c2a3-579e-a18f-e517f2d8bb70</id>
+    <title><![CDATA[【ACAPELLA VER.】 HELP!!  / Anya Melfissa]]></title>
+    <link href="https://youtu.be/SHwwsvQSFzc" rel="alternate" type="text/html"/>
+    <published>2024-12-12T09:54:59.000Z</published>
+    <updated>2024-12-12T09:54:59.000Z</updated>
+    <author>
+      <name>Anya Melfissa Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SHwwsvQSFzc 【LIVE on &lt;t:1733997299:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SHwwsvQSFzc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -899,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xIpIbc7IEWo 【LIVE on &lt;t:1732795086:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xIpIbc7IEWo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e13819ca-9cdc-53a9-a0bf-87e1cd56949e</id>
-    <title><![CDATA[【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/I_d_Zim5_hg" rel="alternate" type="text/html"/>
-    <published>2024-11-28T10:15:31.000Z</published>
-    <updated>2024-11-28T10:15:31.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=I_d_Zim5_hg 【LIVE on &lt;t:1732784406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/I_d_Zim5_hg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2117,20 +2131,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2Nob6f5dy7c 【LIVE on &lt;t:1723258689:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2Nob6f5dy7c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b94e79f7-f889-5978-ab57-0303cc4bbc5c</id>
-    <title><![CDATA[【PERO'S BIRTHDAY PARTY】you're gonna celebrate with me, right rufferans 🐾✨ 【FUWAMOCO】]]></title>
-    <link href="https://youtu.be/9wBs8us-F4o" rel="alternate" type="text/html"/>
-    <published>2024-08-09T03:17:32.000Z</published>
-    <updated>2024-08-09T03:17:32.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9wBs8us-F4o 【LIVE on &lt;t:1723164939:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9wBs8us-F4o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
