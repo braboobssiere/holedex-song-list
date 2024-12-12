@@ -421,26 +421,6 @@
     }
   },
   {
-    "id": "BCCoDqZIUC0",
-    "title": "≪KARAOKE・歌枠≫ Hakos Baelz One Million Endurance || 100万耐久配信!!! #BaeMillion",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-08T14:39:50.000Z",
-    "available_at": "2024-12-12T01:00:16.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 31,
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9FFCT3cu9FxyLJUUFovpPI7WRj0I7_KuApwkEaLsD0NHVVL2OPTtGn8Qga5YFbeC_47-MoEXrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
-    }
-  },
-  {
     "id": "zBGWGaYhrfI",
     "title": "【KARAOKE】KPOP! NewJeans 뉴진스 and K/DA【Unarchived】",
     "type": "stream",
@@ -1894,6 +1874,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B_LK3jAmQwbFT0f4I4YncBH36qMobvUu7P1wgddH6F8qMUUsBAl0gTn8PCgPs2zv6Z3uDfDR=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "KAF"
+    }
+  },
+  {
+    "id": "7C5m8GFiBnw",
+    "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-27T09:00:38.000Z",
+    "available_at": "2024-11-28T09:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
