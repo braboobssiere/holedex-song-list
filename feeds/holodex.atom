@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-13T08:34:20.763Z</updated>
+  <updated>2024-12-13T10:32:26.631Z</updated>
+
+  <entry>
+    <id>urn:uuid:2be4cffc-150e-50ad-bd8d-9df26d0d8fd0</id>
+    <title><![CDATA[輪堂千速 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】]]></title>
+    <link href="https://youtu.be/EkdNf0b7UU0" rel="alternate" type="text/html"/>
+    <published>2024-12-13T09:00:06.000Z</published>
+    <updated>2024-12-13T09:00:06.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EkdNf0b7UU0 【LIVE on &lt;t:1734080406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EkdNf0b7UU0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e527134a-2d39-5f1b-af1d-82db3fb90004</id>
@@ -15,7 +29,7 @@
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ZayDrv4xWaI 【LIVE on &lt;t:1734084000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZayDrv4xWaI 【LIVE on &lt;t:1734083907:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZayDrv4xWaI/maxresdefault.jpg"/>
   </entry>
 
@@ -118,20 +132,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:2be4cffc-150e-50ad-bd8d-9df26d0d8fd0</id>
-    <title><![CDATA[輪堂千速 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】]]></title>
-    <link href="https://youtu.be/EkdNf0b7UU0" rel="alternate" type="text/html"/>
-    <published>2024-12-12T06:38:09.000Z</published>
-    <updated>2024-12-12T06:38:09.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EkdNf0b7UU0 【LIVE on &lt;t:1734080400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EkdNf0b7UU0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:30ac6216-2554-5eaf-99bb-16ce6e6efcc3</id>
     <title><![CDATA[[Off Collab]Karaoke with Friends]]></title>
     <link href="https://youtu.be/_gO-MwmU6dM" rel="alternate" type="text/html"/>
@@ -141,7 +141,7 @@
       <name>Lucien Lunaris【FIRST STAGE PRODUCTION EN】</name>
       <uri>https://www.youtube.com/channel/UCFwcEIsjvi9XEvpGx6iwHpw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_gO-MwmU6dM 【LIVE on &lt;t:1734080400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_gO-MwmU6dM 【LIVE on &lt;t:1734080968:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_gO-MwmU6dM/maxresdefault.jpg"/>
   </entry>
 
