@@ -1,5 +1,24 @@
 [
   {
+    "id": "oPDM4SgANzw",
+    "title": "【Karaoke / 歌枠】いろいろお疲れ様、まだまだある / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-13T14:39:33.000Z",
+    "available_at": "2024-12-13T15:10:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "EkdNf0b7UU0",
     "title": "輪堂千速 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
     "type": "stream",
@@ -180,7 +199,7 @@
   },
   {
     "id": "KsvoDL8QT2c",
-    "title": "水宮枢 / FG ROADSTER（SOLO ver.）【Official Lyric Music Video】",
+    "title": "水宮枢 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-12-12T09:00:06.000Z",
@@ -341,6 +360,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "qJwZrpGLnnY",
+    "title": "綺々羅々ヴィヴィ / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-10T10:34:08.000Z",
+    "available_at": "2024-12-14T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -1887,28 +1926,6 @@
     }
   },
   {
-    "id": "hfJ6FjAuMDQ",
-    "title": "OCTAVIO'S GRAND KARAOKE PART 2",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-28T15:27:14.000Z",
-    "available_at": "2024-11-29T06:04:16.000Z",
-    "duration": 31800,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 311
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "DvNg5BT7WKM",
     "title": "【 #博衣こより3周年記念ゴリラ 】超重大発表アリ‼自費3Dスタジオでゴリラ人狼&新曲お披露目ライブ&ほぼ新衣装お披露目だよ~~~!🎉【博衣こより/ホロライブ】",
     "type": "stream",
@@ -3344,27 +3361,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "Lt20g3buwWw",
-    "title": "GET THE CROWN(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-07T15:04:40.000Z",
-    "available_at": "2024-11-07T15:04:40.000Z",
-    "duration": 223,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
