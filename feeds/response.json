@@ -27,7 +27,7 @@
     "published_at": "2024-12-13T01:04:53.000Z",
     "available_at": "2024-12-13T09:58:27.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -205,8 +205,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-12T01:40:22.000Z",
     "available_at": "2024-12-13T09:09:28.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9717,
+    "status": "past",
     "channel": {
       "id": "UCFwcEIsjvi9XEvpGx6iwHpw",
       "name": "Lucien Lunaris【FIRST STAGE PRODUCTION EN】",
@@ -304,13 +304,16 @@
   },
   {
     "id": "d4l17lJKhDE",
-    "title": "【 #百鬼あやめ生誕祭2024】Dream Festival‼ ~Nakiriayame 7th BirthDay~【百鬼あやめ/ホロライブ】",
+    "title": "【 ＃百鬼あやめ生誕祭2024】Dream Festival‼ ～Nakiriayame 7th BirthDay～【百鬼あやめ/ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-12-10T18:49:04.000Z",
-    "available_at": "2024-12-13T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-13T11:00:30.000Z",
+    "duration": 3163,
+    "status": "past",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -2786,7 +2789,7 @@
   },
   {
     "id": "ea_saD8oUJI",
-    "title": "【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】",
+    "title": "【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-15T12:12:10.000Z",
