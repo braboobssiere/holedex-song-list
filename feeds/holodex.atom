@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-12T22:29:37.071Z</updated>
+  <updated>2024-12-13T02:03:20.655Z</updated>
+
+  <entry>
+    <id>urn:uuid:e527134a-2d39-5f1b-af1d-82db3fb90004</id>
+    <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Last Christmas ~! 💄]]></title>
+    <link href="https://youtu.be/ZayDrv4xWaI" rel="alternate" type="text/html"/>
+    <published>2024-12-13T01:04:53.000Z</published>
+    <updated>2024-12-13T01:04:53.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZayDrv4xWaI 【LIVE on &lt;t:1734084000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZayDrv4xWaI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cf8cca7e-0b8e-5081-98f6-671791f2d2e0</id>
@@ -101,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KsvoDL8QT2c 【LIVE on &lt;t:1733994006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KsvoDL8QT2c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2be4cffc-150e-50ad-bd8d-9df26d0d8fd0</id>
+    <title><![CDATA[輪堂千速 / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】]]></title>
+    <link href="https://youtu.be/EkdNf0b7UU0" rel="alternate" type="text/html"/>
+    <published>2024-12-12T06:38:09.000Z</published>
+    <updated>2024-12-12T06:38:09.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EkdNf0b7UU0 【LIVE on &lt;t:1734080400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EkdNf0b7UU0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -337,7 +365,7 @@
       <name>FUWAMOCO Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yVCzxBigdyU 【LIVE on &lt;t:1734055200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yVCzxBigdyU 【LIVE on &lt;t:1734054908:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yVCzxBigdyU/maxresdefault.jpg"/>
   </entry>
 
@@ -888,20 +916,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bb1ce257-e768-51b6-9a92-ce530401c19e</id>
-    <title><![CDATA[【 歌枠 】ゲリゴリラの昼【 桃鈴ねね / hololive 】#桃鈴ねね生配信]]></title>
-    <link href="https://youtu.be/tztEPaaw1jM" rel="alternate" type="text/html"/>
-    <published>2024-11-29T07:04:53.000Z</published>
-    <updated>2024-11-29T07:04:53.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tztEPaaw1jM 【LIVE on &lt;t:1732855279:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tztEPaaw1jM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b3b484b1-6a07-5c02-a35a-4ad57d768dc3</id>
     <title><![CDATA[【KARAOKE OFF-VOCAL】Sweetest Scarlet -- Nerissa Ravencroft🎼]]></title>
     <link href="https://youtu.be/JYCr7RQTxwI" rel="alternate" type="text/html"/>
@@ -1445,20 +1459,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Lt20g3buwWw 【LIVE on &lt;t:1730991880:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Lt20g3buwWw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c8305f12-c2e1-5560-8377-cc0ec334828d</id>
-    <title><![CDATA[GET THE CROWN]]></title>
-    <link href="https://youtu.be/Tkx4HOLIrEM" rel="alternate" type="text/html"/>
-    <published>2024-11-07T15:01:10.000Z</published>
-    <updated>2024-11-07T15:01:10.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Tkx4HOLIrEM 【LIVE on &lt;t:1730991670:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Tkx4HOLIrEM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
