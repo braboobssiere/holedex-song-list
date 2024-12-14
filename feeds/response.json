@@ -1,5 +1,24 @@
 [
   {
+    "id": "C-Js66Nus-U",
+    "title": "【歌枠archived karaoke】chill song guerrilla singing【Pavolia Reine/hololiveID 2nd gen】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-14T13:45:11.000Z",
+    "available_at": "2024-12-14T14:00:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "qJwZrpGLnnY",
     "title": "綺々羅々ヴィヴィ / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
     "type": "stream",
@@ -45,9 +64,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-14T07:03:04.000Z",
-    "available_at": "2024-12-14T13:00:00.000Z",
+    "available_at": "2024-12-14T13:00:14.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -67,6 +86,7 @@
     "available_at": "2024-12-14T07:00:47.000Z",
     "duration": 5900,
     "status": "past",
+    "songcount": 13,
     "live_tl_count": {
       "en": 113
     },
@@ -87,8 +107,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-14T01:27:23.000Z",
     "available_at": "2024-12-14T11:02:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9291,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -127,6 +147,7 @@
     "available_at": "2024-12-13T15:10:45.000Z",
     "duration": 9746,
     "status": "past",
+    "songcount": 24,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -164,8 +185,8 @@
     "topic_id": "Anniversary",
     "published_at": "2024-12-13T05:04:14.000Z",
     "available_at": "2024-12-14T11:04:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6689,
+    "status": "past",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -1724,26 +1745,6 @@
     }
   },
   {
-    "id": "A-RCxr2Odqs",
-    "title": "【ARCHIVED KARAOKE】Singing VOCALOID Songs... It's HOLORO Week!【Pavolia Reine/hololiveID 2nd gen】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-02T15:26:19.000Z",
-    "available_at": "2024-12-02T12:59:59.000Z",
-    "duration": 8222,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
-    }
-  },
-  {
     "id": "hYEGaMvEdYQ",
     "title": "【歌枠】holoXの歌を歌う歌枠🎤🎶 #ssholox3周年 ありがとう✨ 【博衣こより/ホロライブ】",
     "type": "stream",
@@ -2868,7 +2869,7 @@
   },
   {
     "id": "ea_saD8oUJI",
-    "title": "【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】",
+    "title": "【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-15T12:12:10.000Z",
