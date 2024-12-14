@@ -1,13 +1,34 @@
 [
   {
+    "id": "qJwZrpGLnnY",
+    "title": "綺々羅々ヴィヴィ / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-14T09:00:06.000Z",
+    "available_at": "2024-12-14T09:00:06.000Z",
+    "duration": 184,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
     "id": "LbZFVEwvfJI",
     "title": "【歌枠/KARAOKE】元気に歌うだよ~~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-14T08:20:13.000Z",
-    "available_at": "2024-12-14T10:00:00.000Z",
+    "available_at": "2024-12-14T10:08:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -39,15 +60,15 @@
   },
   {
     "id": "ash1BQmjfms",
-    "title": "【歌枠】わぁ、歌っちゃうぞ~【ホロライブ/ときのそら】",
+    "title": "【歌枠】わぁ、歌っちゃうぞ～【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-14T06:15:11.000Z",
     "available_at": "2024-12-14T07:00:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5900,
+    "status": "past",
     "live_tl_count": {
-      "en": 90
+      "en": 113
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -517,26 +538,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "qJwZrpGLnnY",
-    "title": "綺々羅々ヴィヴィ / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-10T10:34:08.000Z",
-    "available_at": "2024-12-14T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -1418,6 +1419,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "Oi0WDyT6xTE",
+    "title": "【#TheBrokenPromise】hololive English -Promise- 1st Anniversary Musical: The Broken Promise",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-05T07:37:56.000Z",
+    "available_at": "2024-12-15T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -4902,25 +4922,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "wE5nFtfTi2I",
-    "title": "【記念配信】1周年ありがとうございます!1年間の年表を見る&お知らせたっぷり!#らでんちゃん1周年【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-11T13:05:03.000Z",
-    "available_at": "2024-09-11T12:05:06.000Z",
-    "duration": 3373,
-    "status": "past",
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
