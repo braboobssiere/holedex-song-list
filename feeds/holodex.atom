@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-15T12:49:28.488Z</updated>
+  <updated>2024-12-15T14:26:25.988Z</updated>
+
+  <entry>
+    <id>urn:uuid:d3b7feb3-aec6-5631-a7a7-6307978c6265</id>
+    <title><![CDATA[【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】]]></title>
+    <link href="https://youtu.be/qzGDS6fA9P0" rel="alternate" type="text/html"/>
+    <published>2024-12-15T13:33:09.000Z</published>
+    <updated>2024-12-15T13:33:09.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qzGDS6fA9P0 【LIVE on &lt;t:1734271221:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qzGDS6fA9P0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9f8e8a8d-52dd-57a7-aeba-85659552a702</id>
@@ -15,7 +29,7 @@
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gujIEtVmAsM 【LIVE on &lt;t:1734267600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gujIEtVmAsM 【LIVE on &lt;t:1734267611:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gujIEtVmAsM/maxresdefault.jpg"/>
   </entry>
 
@@ -48,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d16c1aab-c4a7-5d3e-913b-d4f49237a766</id>
+    <title><![CDATA[【歌枠】わぁ、歌っちゃうぞ~【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/ash1BQmjfms" rel="alternate" type="text/html"/>
+    <published>2024-12-14T08:44:43.000Z</published>
+    <updated>2024-12-14T08:44:43.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ash1BQmjfms 【LIVE on &lt;t:1734159647:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ash1BQmjfms/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9852532c-9ada-51ed-830f-5a5a0b27fff2</id>
     <title><![CDATA[【歌枠/KARAOKE】元気に歌うだよ～～～【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/LbZFVEwvfJI" rel="alternate" type="text/html"/>
@@ -73,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rKJ6ZP168P4 【LIVE on &lt;t:1734181214:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rKJ6ZP168P4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d16c1aab-c4a7-5d3e-913b-d4f49237a766</id>
-    <title><![CDATA[【歌枠】わぁ、歌っちゃうぞ～【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/ash1BQmjfms" rel="alternate" type="text/html"/>
-    <published>2024-12-14T06:15:11.000Z</published>
-    <updated>2024-12-14T06:15:11.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ash1BQmjfms 【LIVE on &lt;t:1734159647:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ash1BQmjfms/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -871,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MNlN8gofdkU 【LIVE on &lt;t:1733192921:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MNlN8gofdkU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:874df76f-7d86-550d-a105-383d169c427d</id>
-    <title><![CDATA[Advent Calendar Day 4!]]></title>
-    <link href="https://youtu.be/stRBCkykBp0" rel="alternate" type="text/html"/>
-    <published>2024-12-03T02:28:21.000Z</published>
-    <updated>2024-12-03T02:28:21.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=stRBCkykBp0 【LIVE on &lt;t:1733192901:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/stRBCkykBp0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
