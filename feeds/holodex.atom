@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-15T16:31:42.074Z</updated>
+  <updated>2024-12-15T18:33:54.183Z</updated>
 
   <entry>
     <id>urn:uuid:d3b7feb3-aec6-5631-a7a7-6307978c6265</id>
@@ -48,6 +48,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:9852532c-9ada-51ed-830f-5a5a0b27fff2</id>
+    <title><![CDATA[【歌枠/KARAOKE】元気に歌うだよ~~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/LbZFVEwvfJI" rel="alternate" type="text/html"/>
+    <published>2024-12-14T12:40:02.000Z</published>
+    <updated>2024-12-14T12:40:02.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LbZFVEwvfJI 【LIVE on &lt;t:1734170935:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LbZFVEwvfJI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4175f56a-65e3-5afb-9dc4-72bd2d276339</id>
+    <title><![CDATA[【3D LIVE】げまずえでぃしょん!!!!【#ホロゲマズ結成記念LIVE2024】]]></title>
+    <link href="https://youtu.be/qIbjRU2Mo8I" rel="alternate" type="text/html"/>
+    <published>2024-12-14T12:07:29.000Z</published>
+    <updated>2024-12-14T12:07:29.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qIbjRU2Mo8I 【LIVE on &lt;t:1734173849:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qIbjRU2Mo8I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7d7ced4c-339b-567f-8977-a1d6b4d748a4</id>
     <title><![CDATA[綺々羅々ヴィヴィ / FG ROADSTER(SOLO ver.)【Official Lyric Music Video】]]></title>
     <link href="https://youtu.be/qJwZrpGLnnY" rel="alternate" type="text/html"/>
@@ -73,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ash1BQmjfms 【LIVE on &lt;t:1734159647:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ash1BQmjfms/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9852532c-9ada-51ed-830f-5a5a0b27fff2</id>
-    <title><![CDATA[【歌枠/KARAOKE】元気に歌うだよ～～～【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/LbZFVEwvfJI" rel="alternate" type="text/html"/>
-    <published>2024-12-14T08:20:13.000Z</published>
-    <updated>2024-12-14T08:20:13.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LbZFVEwvfJI 【LIVE on &lt;t:1734170935:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LbZFVEwvfJI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Du2LW0Gvgas 【LIVE on &lt;t:1733393739:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Du2LW0Gvgas/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4175f56a-65e3-5afb-9dc4-72bd2d276339</id>
-    <title><![CDATA[【3D LIVE】げまずえでぃしょん!!!!【#ホロゲマズ結成記念LIVE2024】]]></title>
-    <link href="https://youtu.be/qIbjRU2Mo8I" rel="alternate" type="text/html"/>
-    <published>2024-12-05T12:23:42.000Z</published>
-    <updated>2024-12-05T12:23:42.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qIbjRU2Mo8I 【LIVE on &lt;t:1734173849:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qIbjRU2Mo8I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
