@@ -1,5 +1,24 @@
 [
   {
+    "id": "3bRGupHTr-E",
+    "title": "welcome!💖【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-16T21:01:34.000Z",
+    "available_at": "2024-12-16T21:12:01.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "_J9hHSFa09A",
     "title": "ゲリラしっとり歌枠【轟はじめ/ReGLOSS】",
     "type": "stream",
@@ -70,7 +89,7 @@
     "published_at": "2024-12-15T13:33:09.000Z",
     "available_at": "2024-12-15T14:00:21.000Z",
     "duration": 10178,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -1726,26 +1745,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
-    }
-  },
-  {
-    "id": "GH5-2oWhi_A",
-    "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-03T19:16:47.000Z",
-    "available_at": "2024-12-03T15:59:47.000Z",
-    "duration": 11169,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-      "name": "Kureiji Ollie Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Df9IibspJL2Dur37_ebWD6n6F0U8Fvp_1QOu5m-d7qqEAn1fRwsMiar4CvSpHrI3wA6uPw2h=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kureiji Ollie"
     }
   },
   {
