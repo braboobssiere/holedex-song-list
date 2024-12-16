@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-16T12:54:32.806Z</updated>
+  <updated>2024-12-16T14:30:09.113Z</updated>
+
+  <entry>
+    <id>urn:uuid:f69d06dd-c0e9-5963-977c-741e46c3d766</id>
+    <title><![CDATA[ゲリラしっとり歌枠【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/_J9hHSFa09A" rel="alternate" type="text/html"/>
+    <published>2024-12-16T14:23:05.000Z</published>
+    <updated>2024-12-16T14:23:05.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_J9hHSFa09A 【LIVE on &lt;t:1734359004:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_J9hHSFa09A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1549eb7f-a17a-56c6-a9be-abc8ba9b759d</id>
@@ -857,20 +871,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GH5-2oWhi_A 【LIVE on &lt;t:1733241587:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GH5-2oWhi_A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ee355e92-139d-534d-8a6c-c7b141268d5f</id>
-    <title><![CDATA[【歌枠】今日も楽しく歌おうゼ〜!【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/UQ0d8CpS6Z4" rel="alternate" type="text/html"/>
-    <published>2024-12-03T16:19:45.000Z</published>
-    <updated>2024-12-03T16:19:45.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UQ0d8CpS6Z4 【LIVE on &lt;t:1733232651:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UQ0d8CpS6Z4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
