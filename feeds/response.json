@@ -8,6 +8,7 @@
     "available_at": "2024-12-16T14:23:24.000Z",
     "duration": 6528,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -42,6 +43,26 @@
     }
   },
   {
+    "id": "gujIEtVmAsM",
+    "title": "【歌枠】どうしても今日は大好きな歌を歌いたい #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-15T14:49:07.000Z",
+    "available_at": "2024-12-15T13:00:11.000Z",
+    "duration": 5541,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "qzGDS6fA9P0",
     "title": "【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】",
     "type": "stream",
@@ -58,26 +79,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eB_qZXKL-jDhGyEstj9BvLL0qO_tHEMaIpkfp8M-qXYweZOpDm7uZgBwbWfxwAT7uKh_5tEj=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yuzuki Choco"
-    }
-  },
-  {
-    "id": "gujIEtVmAsM",
-    "title": "【歌枠】どうしても今日は大好きな歌を歌いたい　#hololiveDEV_IS #FLOWGLOW #響咲リオナ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-15T08:52:16.000Z",
-    "available_at": "2024-12-15T13:00:11.000Z",
-    "duration": 5535,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
@@ -311,7 +312,7 @@
     "available_at": "2024-12-13T15:10:45.000Z",
     "duration": 9745,
     "status": "past",
-    "songcount": 24,
+    "songcount": 25,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
