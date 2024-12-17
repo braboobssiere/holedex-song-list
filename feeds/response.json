@@ -20,13 +20,13 @@
   },
   {
     "id": "tOpDh67fgls",
-    "title": "【🔴KARAOKE】深夜にはまったりバラードだよne💤【ホロライブ / ロボ子さん】",
+    "title": "【🔴KARAOKE】深夜にはまったりバラードだよｎe💤【ホロライブ / ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-17T11:11:12.000Z",
     "available_at": "2024-12-17T14:02:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6463,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -118,12 +118,12 @@
   },
   {
     "id": "bHiPvFwBx20",
-    "title": "【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】",
+    "title": "【耐久歌枠】30万人一緒に行くぞーー!!【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-12-16T07:59:51.000Z",
+    "published_at": "2024-12-16T10:59:50.000Z",
     "available_at": "2024-12-16T08:00:07.000Z",
-    "duration": 9929,
+    "duration": 9935,
     "status": "past",
     "songcount": 24,
     "live_tl_count": {
@@ -137,6 +137,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "ZM7gdMkOgtw",
+    "title": "星街すいせいを解き明かせ!MV / Stellar Stellar【#AndroidかこってMUSIC】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-16T08:11:29.000Z",
+    "available_at": "2024-12-18T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -3388,26 +3407,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "cS_G09fXDfA",
-    "title": "FG ROADSTER(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-08T15:03:54.000Z",
-    "available_at": "2024-11-08T15:03:54.000Z",
-    "duration": 182,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UChjovw3KFGQJnjpT4emkTGQ",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypxkfw18lthQENaCFsvuWT5dBtoIkDnFpMc8NASkgwFSospslVrIwt5gFZeq9TerPYeQktoS=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {

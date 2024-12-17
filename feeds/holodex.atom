@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-17T14:30:18.661Z</updated>
+  <updated>2024-12-17T16:35:51.803Z</updated>
 
   <entry>
     <id>urn:uuid:c9fd166c-2736-5bb6-820b-6826412826a7</id>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:9d571230-a9bb-58f7-892f-36e789ae3493</id>
-    <title><![CDATA[【🔴KARAOKE】深夜にはまったりバラードだよne💤【ホロライブ / ロボ子さん】]]></title>
+    <title><![CDATA[【🔴KARAOKE】深夜にはまったりバラードだよｎe💤【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/tOpDh67fgls" rel="alternate" type="text/html"/>
     <published>2024-12-17T11:11:12.000Z</published>
     <updated>2024-12-17T11:11:12.000Z</updated>
@@ -91,16 +91,30 @@
 
   <entry>
     <id>urn:uuid:1549eb7f-a17a-56c6-a9be-abc8ba9b759d</id>
-    <title><![CDATA[【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】]]></title>
+    <title><![CDATA[【耐久歌枠】30万人一緒に行くぞーー!!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/bHiPvFwBx20" rel="alternate" type="text/html"/>
-    <published>2024-12-16T07:59:51.000Z</published>
-    <updated>2024-12-16T07:59:51.000Z</updated>
+    <published>2024-12-16T10:59:50.000Z</published>
+    <updated>2024-12-16T10:59:50.000Z</updated>
     <author>
       <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bHiPvFwBx20 【LIVE on &lt;t:1734336007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bHiPvFwBx20/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f691da12-405f-5a70-970a-1cd652b91788</id>
+    <title><![CDATA[星街すいせいを解き明かせ!MV / Stellar Stellar【#AndroidかこってMUSIC】]]></title>
+    <link href="https://youtu.be/ZM7gdMkOgtw" rel="alternate" type="text/html"/>
+    <published>2024-12-16T08:11:29.000Z</published>
+    <updated>2024-12-16T08:11:29.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZM7gdMkOgtw 【LIVE on &lt;t:1734516000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZM7gdMkOgtw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1473,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wQxKp6trj5g 【LIVE on &lt;t:1731101407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wQxKp6trj5g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:02774876-54e0-5e3a-a96e-c6b4b0101118</id>
-    <title><![CDATA[FG ROADSTER(Instrumental)]]></title>
-    <link href="https://youtu.be/cS_G09fXDfA" rel="alternate" type="text/html"/>
-    <published>2024-11-08T15:03:54.000Z</published>
-    <updated>2024-11-08T15:03:54.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cS_G09fXDfA 【LIVE on &lt;t:1731078234:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cS_G09fXDfA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
