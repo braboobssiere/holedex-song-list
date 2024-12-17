@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-16T22:28:27.817Z</updated>
+  <updated>2024-12-17T02:01:38.175Z</updated>
 
   <entry>
     <id>urn:uuid:69aa2dd6-99f7-52c5-93be-acd04873d35a</id>
-    <title><![CDATA[welcome!💖【ホロライブ/赤井はあと】]]></title>
+    <title><![CDATA[ｗｅｌｃｏｍｅ！💖【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/3bRGupHTr-E" rel="alternate" type="text/html"/>
     <published>2024-12-16T21:01:34.000Z</published>
     <updated>2024-12-16T21:01:34.000Z</updated>
@@ -1056,6 +1056,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fc50352d-d206-5d98-8b20-a0a08df9ef40</id>
+    <title><![CDATA[一世風靡]]></title>
+    <link href="https://youtu.be/MvhCmi3bTv8" rel="alternate" type="text/html"/>
+    <published>2024-11-26T10:00:18.000Z</published>
+    <updated>2024-11-26T10:00:18.000Z</updated>
+    <author>
+      <name>花譜 -KAF-</name>
+      <uri>https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MvhCmi3bTv8 【LIVE on &lt;t:1732615218:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MvhCmi3bTv8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:67a1edcc-f1d2-55b7-9032-956096ebbc23</id>
     <title><![CDATA[【#白銀ノエル生誕祭2024】Shirogane Noel Xmas 3D LIVE 【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/fTupWAFy6wo" rel="alternate" type="text/html"/>
@@ -1487,20 +1501,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IenFrufsAfU 【LIVE on &lt;t:1731078076:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IenFrufsAfU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8aad4059-c889-55a6-95c8-34780f7e97f4</id>
-    <title><![CDATA[FLOW GLOW / FG ROADSTER【Official Music Video】]]></title>
-    <link href="https://youtu.be/6h1mezywMCw" rel="alternate" type="text/html"/>
-    <published>2024-11-08T10:00:06.000Z</published>
-    <updated>2024-11-08T10:00:06.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6h1mezywMCw 【LIVE on &lt;t:1731060006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6h1mezywMCw/maxresdefault.jpg"/>
   </entry>
 
   <entry>

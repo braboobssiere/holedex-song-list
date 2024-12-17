@@ -1,13 +1,14 @@
 [
   {
     "id": "3bRGupHTr-E",
-    "title": "welcome!💖【ホロライブ/赤井はあと】",
+    "title": "ｗｅｌｃｏｍｅ！💖【ホロライブ/赤井はあと】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-16T21:01:34.000Z",
     "available_at": "2024-12-16T21:12:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4599,
+    "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -2154,6 +2155,27 @@
     }
   },
   {
+    "id": "MvhCmi3bTv8",
+    "title": "一世風靡",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-11-26T10:00:18.000Z",
+    "available_at": "2024-11-26T10:00:18.000Z",
+    "duration": 192,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCEXco8mY5FNYsZA-uM2i3Zw",
+    "channel": {
+      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
+      "name": "花譜 -KAF-",
+      "org": "KAMITSUBAKI",
+      "suborg": "11PHENOMENON RECORD",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B_LK3jAmQwbFT0f4I4YncBH36qMobvUu7P1wgddH6F8qMUUsBAl0gTn8PCgPs2zv6Z3uDfDR=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "KAF"
+    }
+  },
+  {
     "id": "8jwAT0WZ9Js",
     "title": "【襲来】3周年直前のラプラスが侵略をしかけてきた!【#ホロの休日_仮 】",
     "type": "stream",
@@ -3382,25 +3404,6 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UChjovw3KFGQJnjpT4emkTGQ",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypxkfw18lthQENaCFsvuWT5dBtoIkDnFpMc8NASkgwFSospslVrIwt5gFZeq9TerPYeQktoS=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "6h1mezywMCw",
-    "title": "FLOW GLOW / FG ROADSTER【Official Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-08T10:00:06.000Z",
-    "available_at": "2024-11-08T10:00:06.000Z",
-    "duration": 183,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive DEV_IS FLOW GLOW",
