@@ -163,7 +163,7 @@
     "published_at": "2024-12-17T11:29:00.000Z",
     "available_at": "2024-12-17T22:02:06.000Z",
     "duration": 7700,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -821,6 +821,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "puoZ_cig7-0",
+    "title": "#holoENCalendar Day 19",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-11T16:07:29.000Z",
+    "available_at": "2024-12-11T16:07:29.000Z",
+    "duration": 52,
+    "status": "past",
+    "channel": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "name": "Shiori Novella Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiori Novella"
     }
   },
   {
@@ -1684,26 +1703,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "aKuGa0WNVPY",
-    "title": "【朝歌】スト6メンテかよ!!歌う【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-06T00:25:39.000Z",
-    "available_at": "2024-12-05T23:17:37.000Z",
-    "duration": 3491,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
@@ -6093,7 +6092,7 @@
       "org": "Hololive",
       "suborg": "c 1st Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
     }
   },
