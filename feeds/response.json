@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-19T09:41:12.000Z",
     "available_at": "2024-12-19T10:00:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13458,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -58,6 +58,26 @@
     }
   },
   {
+    "id": "v2HjJbDZUQA",
+    "title": "【 歌枠 l KARAOKE 】防音室パワー!!ジャンルごちゃまぜで歌います!【 水無世燐央 l UPROAR!! 】#vtuber",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-18T08:59:13.000Z",
+    "available_at": "2024-12-18T05:29:58.000Z",
+    "duration": 11852,
+    "status": "past",
+    "songcount": 32,
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "J4EczciAoGE",
     "title": "【UNARCHIVED KARAOKE REBROADCAST】It's time to sing with 2% less nerves this time!!!",
     "type": "stream",
@@ -93,26 +113,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "v2HjJbDZUQA",
-    "title": "【 歌枠 l KARAOKE 】防音室パワー！！ジャンルごちゃまぜで歌います！【 水無世燐央 l UPROAR!! 】#vtuber",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-18T05:03:46.000Z",
-    "available_at": "2024-12-18T05:29:58.000Z",
-    "duration": 11869,
-    "status": "past",
-    "songcount": 32,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
