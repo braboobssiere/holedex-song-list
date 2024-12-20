@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-20T10:29:33.472Z</updated>
+  <updated>2024-12-20T12:48:44.843Z</updated>
+
+  <entry>
+    <id>urn:uuid:2d96a260-0e14-5fe5-9390-8420fb111640</id>
+    <title><![CDATA[「MV」It's Not a Phase - Nanashi Mumei & Ceres Fauna]]></title>
+    <link href="https://youtu.be/eXvf6KssFw0" rel="alternate" type="text/html"/>
+    <published>2024-12-20T03:52:43.000Z</published>
+    <updated>2024-12-20T03:52:43.000Z</updated>
+    <author>
+      <name>Nanashi Mumei Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eXvf6KssFw0 【LIVE on &lt;t:1734746100:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eXvf6KssFw0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9890c35f-43b3-50c1-af1c-25412fdbf67f</id>
@@ -1431,20 +1445,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HIu7WghQl_Q 【LIVE on &lt;t:1731326411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HIu7WghQl_Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a3047eb7-410f-5d85-b80c-e87af0c246e3</id>
-    <title><![CDATA[MIRAGE - Takanashi Kiara (Acapella Version)]]></title>
-    <link href="https://youtu.be/wQxKp6trj5g" rel="alternate" type="text/html"/>
-    <published>2024-11-08T21:30:07.000Z</published>
-    <updated>2024-11-08T21:30:07.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wQxKp6trj5g 【LIVE on &lt;t:1731101407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wQxKp6trj5g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
