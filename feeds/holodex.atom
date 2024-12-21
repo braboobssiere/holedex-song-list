@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-21T12:44:50.947Z</updated>
+  <updated>2024-12-21T14:24:11.087Z</updated>
+
+  <entry>
+    <id>urn:uuid:079e1e31-8a06-5493-b552-92e41afea133</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】wish you a merry BAUmas 🎄🐾【UNARCHIVED REBROADCAST】]]></title>
+    <link href="https://youtu.be/PH9Kw5J_8Nw" rel="alternate" type="text/html"/>
+    <published>2024-12-21T13:15:08.000Z</published>
+    <updated>2024-12-21T13:15:08.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PH9Kw5J_8Nw 【LIVE on &lt;t:1734832800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PH9Kw5J_8Nw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e652a634-2f5b-507b-9bd1-0c2392630905</id>
@@ -731,20 +745,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9T7j8ogN8sA 【LIVE on &lt;t:1733607521:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9T7j8ogN8sA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dc59c367-8522-5cd8-8620-c1189800fca9</id>
-    <title><![CDATA[【歌枠】ゲリラだけど歌いたい歌がある!!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/6ZxdGg9JGIU" rel="alternate" type="text/html"/>
-    <published>2024-12-07T17:38:09.000Z</published>
-    <updated>2024-12-07T17:38:09.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6ZxdGg9JGIU 【LIVE on &lt;t:1733581531:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ZxdGg9JGIU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
