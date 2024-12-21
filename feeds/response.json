@@ -80,6 +80,25 @@
     }
   },
   {
+    "id": "s83N8KfAJ1A",
+    "title": "#Shinri3D - Fansa",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-21T08:23:09.000Z",
+    "available_at": "2024-12-21T08:23:09.000Z",
+    "duration": 249,
+    "status": "past",
+    "channel": {
+      "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+      "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MzN3nqf5wjiJkPi8ZdvyqhU5BiwBaUpOJ9TuU7Rq3wb547j6sMbzTpl0qK9HfC_I_vaJ8g9u3w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Josuiji Shinri"
+    }
+  },
+  {
     "id": "zrb7avfhdhQ",
     "title": "#Shinri3D - Woven Fates",
     "type": "stream",
@@ -127,7 +146,6 @@
     "available_at": "2024-12-21T01:55:00.000Z",
     "duration": 0,
     "status": "missing",
-    "songcount": 1,
     "channel": {
       "id": "UC3n5uGu18FoCy23ggWWp8tA",
       "name": "Nanashi Mumei Ch. hololive-EN",
@@ -176,6 +194,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "IhJW-YPJ-z0",
+    "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-19T12:21:51.000Z",
+    "available_at": "2024-12-22T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -5463,49 +5500,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "EWdy0nq4nQU",
-    "title": "【hololive English -Advent-】 Special 3D Collab! #Advent3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-08-18T04:07:13.000Z",
-    "available_at": "2024-08-18T02:58:32.000Z",
-    "duration": 3872,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
-    }
-  },
-  {
-    "id": "ClzYg93BFIA",
-    "title": "【3D Live】Bersama holoID di Gebyar hololive Indonesia! #GebyarholoID",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-08-17T14:12:46.000Z",
-    "available_at": "2024-08-17T12:57:09.000Z",
-    "duration": 4220,
-    "status": "past",
-    "songcount": 6,
-    "live_tl_count": {
-      "en": 128
-    },
-    "channel": {
-      "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
-      "name": "hololive Indonesia",
-      "org": "Hololive",
-      "suborg": "0cOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
