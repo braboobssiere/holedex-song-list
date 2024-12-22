@@ -1,5 +1,24 @@
 [
   {
+    "id": "mD4zvOCJDRk",
+    "title": "新しいPCの様子を見るぜ!ねんね前の歌枠【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-22T12:18:18.000Z",
+    "available_at": "2024-12-22T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "Jv4Qwft6RMg",
     "title": "【懐メロ歌枠】懐かしい歌をうたう時間【ホロライブ/大神ミオ】",
     "type": "stream",
@@ -16,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "SebgFzzswLQ",
+    "title": "???",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-22T05:17:38.000Z",
+    "available_at": "2024-12-22T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
@@ -299,9 +337,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-19T12:21:51.000Z",
-    "available_at": "2024-12-22T12:00:00.000Z",
+    "available_at": "2024-12-22T12:00:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 39
+    },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -1652,25 +1693,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "zBGWGaYhrfI",
-    "title": "【KARAOKE】KPOP! NewJeans 뉴진스 and K/DA【Unarchived】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-08T13:46:19.000Z",
-    "available_at": "2024-12-08T20:04:27.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -3294,26 +3316,6 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "UYEZL13MUFk",
-    "title": "AWAKE / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-14T12:00:06.000Z",
-    "available_at": "2024-11-14T12:00:06.000Z",
-    "duration": 269,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
