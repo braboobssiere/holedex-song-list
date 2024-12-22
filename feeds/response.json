@@ -1,5 +1,24 @@
 [
   {
+    "id": "Jv4Qwft6RMg",
+    "title": "【懐メロ歌枠】懐かしい歌をうたう時間【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-22T06:00:44.000Z",
+    "available_at": "2024-12-22T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "nGlGTffEiDU",
     "title": "【UNARCHIVED | 歌枠】Christmas Christmas Time Is Here",
     "type": "stream",
@@ -27,6 +46,7 @@
     "available_at": "2024-12-21T23:30:00.000Z",
     "duration": 110,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -1651,26 +1671,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "XBlEZJ6W6f8",
-    "title": "XMAS RAP",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-08T13:34:52.000Z",
-    "available_at": "2024-12-08T13:34:52.000Z",
-    "duration": 106,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "name": "Raora Panthera Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8XQlrbkx1vBSpFZQ_GwV6hxep9EX0xHBH-CmWknoHusxXOKGnfVytVRzpt-36PxJOfumNjiBkAI=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Raora Panthera"
     }
   },
   {
@@ -3359,7 +3359,7 @@
       "org": "Hololive",
       "suborg": "oeHOLOSTARS English -ARMIS-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
     }
   },
