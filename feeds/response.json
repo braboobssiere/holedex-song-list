@@ -1,13 +1,32 @@
 [
   {
+    "id": "SebgFzzswLQ",
+    "title": "天界弩級オシゴトロード / かなけん（天音かなた 沙花叉クロヱ AZKi）【Official Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-22T13:00:06.000Z",
+    "available_at": "2024-12-22T13:00:06.000Z",
+    "duration": 192,
+    "status": "past",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "mD4zvOCJDRk",
     "title": "新しいPCの様子を見るぜ!ねんね前の歌枠【 桃鈴ねね / hololive 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-22T12:18:18.000Z",
-    "available_at": "2024-12-22T14:00:00.000Z",
+    "available_at": "2024-12-22T13:59:49.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -24,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-22T06:00:44.000Z",
-    "available_at": "2024-12-22T13:00:00.000Z",
+    "available_at": "2024-12-22T13:02:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -35,25 +54,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "SebgFzzswLQ",
-    "title": "???",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-22T05:17:38.000Z",
-    "available_at": "2024-12-22T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -333,15 +333,15 @@
   },
   {
     "id": "IhJW-YPJ-z0",
-    "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】",
+    "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi / ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-19T12:21:51.000Z",
     "available_at": "2024-12-22T12:00:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3252,
+    "status": "past",
     "live_tl_count": {
-      "en": 39
+      "en": 73
     },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
