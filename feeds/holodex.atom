@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-21T22:25:26.186Z</updated>
+  <updated>2024-12-22T01:59:18.781Z</updated>
+
+  <entry>
+    <id>urn:uuid:3503aba1-83b4-56ef-85b7-faf5d1e5e603</id>
+    <title><![CDATA[【UNARCHIVED | 歌枠】Christmas Christmas Time Is Here]]></title>
+    <link href="https://youtu.be/nGlGTffEiDU" rel="alternate" type="text/html"/>
+    <published>2024-12-22T01:38:59.000Z</published>
+    <updated>2024-12-22T01:38:59.000Z</updated>
+    <author>
+      <name>Nanashi Mumei Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nGlGTffEiDU 【LIVE on &lt;t:1734836400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nGlGTffEiDU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:07df294a-1a52-5a96-bc0e-b148f1366185</id>
@@ -43,7 +57,7 @@
       <name>FUWAMOCO Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PH9Kw5J_8Nw 【LIVE on &lt;t:1734832800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PH9Kw5J_8Nw 【LIVE on &lt;t:1734832506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PH9Kw5J_8Nw/maxresdefault.jpg"/>
   </entry>
 
@@ -731,20 +745,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eKA6dewIdk8 【LIVE on &lt;t:1733663406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eKA6dewIdk8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3b131f0e-5705-5850-9277-dd9c12626ff9</id>
-    <title><![CDATA[【歌枠】1時間まったり歌います~!【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/PXhE0zqp9UE" rel="alternate" type="text/html"/>
-    <published>2024-12-08T12:13:12.000Z</published>
-    <updated>2024-12-08T12:13:12.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PXhE0zqp9UE 【LIVE on &lt;t:1733655537:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PXhE0zqp9UE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
