@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-22T01:38:59.000Z",
-    "available_at": "2024-12-22T03:00:00.000Z",
+    "available_at": "2024-12-22T03:04:44.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UC3n5uGu18FoCy23ggWWp8tA",
       "name": "Nanashi Mumei Ch. hololive-EN",
@@ -16,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nanashi Mumei"
+    }
+  },
+  {
+    "id": "n5NSnOazdi4",
+    "title": "HIC - jingle balls (Advent Calendar Day 22)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-21T23:30:00.000Z",
+    "available_at": "2024-12-21T23:30:00.000Z",
+    "duration": 110,
+    "status": "past",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -67,8 +86,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-21T13:15:08.000Z",
     "available_at": "2024-12-22T01:55:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8023,
+    "status": "past",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -2967,7 +2986,7 @@
       "org": "Hololive",
       "suborg": "oeHOLOSTARS English -ARMIS-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
     }
   },
@@ -3381,26 +3400,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nSLSaflmIY5Gt3cZAGKiQGPg3wuAuPuJd25sdQSdSADa6kkTdc6jePsKbV0Lodzb6jPOP5MfYQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ars Almal"
-    }
-  },
-  {
-    "id": "YKEhO5jhP3g",
-    "title": "Boom / Team ahamo(天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ)【GIGA MASH PROJECT】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-12T12:00:06.000Z",
-    "available_at": "2024-11-12T12:00:06.000Z",
-    "duration": 173,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
