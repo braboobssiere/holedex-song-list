@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-23T18:33:04.841Z</updated>
+  <updated>2024-12-23T20:26:19.532Z</updated>
 
   <entry>
     <id>urn:uuid:7344a744-6eb8-55be-850f-95862aa15aba</id>
@@ -146,6 +146,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b1646d3e-1057-59c9-8bea-cac138bf7b50</id>
+    <title><![CDATA[新しいPCの様子を見るぜ!ねんね前の歌枠【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/mD4zvOCJDRk" rel="alternate" type="text/html"/>
+    <published>2024-12-22T14:46:37.000Z</published>
+    <updated>2024-12-22T14:46:37.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mD4zvOCJDRk 【LIVE on &lt;t:1734875989:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mD4zvOCJDRk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:01eb0cbb-736a-5990-914d-d5f2bc9a3793</id>
     <title><![CDATA[【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】]]></title>
     <link href="https://youtu.be/IhJW-YPJ-z0" rel="alternate" type="text/html"/>
@@ -161,7 +175,7 @@
 
   <entry>
     <id>urn:uuid:17a44dda-0983-587d-a362-b6fafe3e9769</id>
-    <title><![CDATA[天界弩級オシゴトロード / かなけん（天音かなた 沙花叉クロヱ AZKi）【Official Music Video】]]></title>
+    <title><![CDATA[天界弩級オシゴトロード / かなけん(天音かなた 沙花叉クロヱ AZKi)【Official Music Video】]]></title>
     <link href="https://youtu.be/SebgFzzswLQ" rel="alternate" type="text/html"/>
     <published>2024-12-22T13:00:06.000Z</published>
     <updated>2024-12-22T13:00:06.000Z</updated>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=SebgFzzswLQ 【LIVE on &lt;t:1734872406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SebgFzzswLQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b1646d3e-1057-59c9-8bea-cac138bf7b50</id>
-    <title><![CDATA[新しいPCの様子を見るぜ！ねんね前の歌枠【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/mD4zvOCJDRk" rel="alternate" type="text/html"/>
-    <published>2024-12-22T12:18:18.000Z</published>
-    <updated>2024-12-22T12:18:18.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mD4zvOCJDRk 【LIVE on &lt;t:1734875989:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mD4zvOCJDRk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
