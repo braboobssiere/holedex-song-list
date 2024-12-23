@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T17:35:54.000Z",
-    "available_at": "2024-12-23T21:00:00.000Z",
+    "available_at": "2024-12-23T21:23:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -81,9 +81,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T10:54:22.000Z",
-    "available_at": "2024-12-23T22:00:00.000Z",
+    "available_at": "2024-12-23T21:59:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -119,9 +119,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2024-12-23T02:57:07.000Z",
-    "available_at": "2024-12-23T22:00:00.000Z",
+    "available_at": "2024-12-23T22:03:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 14
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -187,6 +190,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "Jv4Qwft6RMg",
+    "title": "【懐メロ歌枠】懐かしい歌をうたう時間【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-22T15:03:39.000Z",
+    "available_at": "2024-12-22T13:02:06.000Z",
+    "duration": 6891,
+    "status": "past",
+    "songcount": 14,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -292,26 +315,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "Jv4Qwft6RMg",
-    "title": "【懐メロ歌枠】懐かしい歌をうたう時間【ホロライブ/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-22T06:00:44.000Z",
-    "available_at": "2024-12-22T13:02:06.000Z",
-    "duration": 6903,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
