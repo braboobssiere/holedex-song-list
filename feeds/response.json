@@ -1,24 +1,5 @@
 [
   {
-    "id": "qZoNlbjrQQA",
-    "title": "【Mini Tokyo 3D】おうちへ、帰ろう。終電とかなけんライブと【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-23T07:42:15.000Z",
-    "available_at": "2024-12-23T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "DEbGq2ItFOU",
     "title": "【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】",
     "type": "stream",
@@ -73,6 +54,48 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "dhsYRzz6QJ4",
+    "title": "天界弩級オシゴトロード",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-22T15:02:44.000Z",
+    "available_at": "2024-12-22T15:02:44.000Z",
+    "duration": 194,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXaT5jL66EOO_h3buOJwCKQ",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "sZmlnAb0_F4",
+    "title": "天界弩級オシゴトロード(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-22T15:02:05.000Z",
+    "available_at": "2024-12-22T15:02:05.000Z",
+    "duration": 194,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXaT5jL66EOO_h3buOJwCKQ",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
@@ -224,7 +247,7 @@
     "published_at": "2024-12-21T13:15:08.000Z",
     "available_at": "2024-12-22T01:55:06.000Z",
     "duration": 8023,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -3345,48 +3368,6 @@
     }
   },
   {
-    "id": "K9YGGOd63yc",
-    "title": "AWAKE",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-14T15:00:31.000Z",
-    "available_at": "2024-11-14T15:00:31.000Z",
-    "duration": 197,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "KZgqyILS4Ys",
-    "title": "AWAKE(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-14T15:00:19.000Z",
-    "available_at": "2024-11-14T15:00:19.000Z",
-    "duration": 197,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
     "id": "eWqiZHIoOjk",
     "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"",
     "type": "stream",
@@ -3957,7 +3938,7 @@
       "org": "Hololive",
       "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sG4A7jG-abLoeeoxsttRgg-ZpI3XrB--rQRty8G6pcqnFT894SEjE-fMjFN2829CjTFwHcTtCw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
     }
   },
@@ -4842,7 +4823,7 @@
       "org": "Hololive",
       "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sG4A7jG-abLoeeoxsttRgg-ZpI3XrB--rQRty8G6pcqnFT894SEjE-fMjFN2829CjTFwHcTtCw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
     }
   },
@@ -4979,7 +4960,7 @@
       "org": "Hololive",
       "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sG4A7jG-abLoeeoxsttRgg-ZpI3XrB--rQRty8G6pcqnFT894SEjE-fMjFN2829CjTFwHcTtCw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
     }
   },
@@ -5457,6 +5438,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
+    }
+  },
+  {
+    "id": "BjKdDAvXOhQ",
+    "title": "【3D】 ⚽ BALLIN' ⚽",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-08-24T00:35:59.000Z",
+    "available_at": "2024-08-23T23:00:16.000Z",
+    "duration": 5022,
+    "status": "past",
+    "channel": {
+      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
+      "name": "Regis Altare Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Regis Altare"
     }
   },
   {
