@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-23T10:30:20.533Z</updated>
+  <updated>2024-12-23T12:49:28.959Z</updated>
+
+  <entry>
+    <id>urn:uuid:5ac3e4b5-a248-573d-bcfb-ef4005fb357b</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】 I Don't Know Lyrics to X-mas Songs But LET'S GOOOOO]]></title>
+    <link href="https://youtu.be/MpI0bZf60Vo" rel="alternate" type="text/html"/>
+    <published>2024-12-23T10:54:22.000Z</published>
+    <updated>2024-12-23T10:54:22.000Z</updated>
+    <author>
+      <name>Ninomae Ina'nis Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MpI0bZf60Vo 【LIVE on &lt;t:1734991200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MpI0bZf60Vo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bcb526a2-47f3-5560-a6f3-3dde9c7edaac</id>
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oGaf-Sq4eXY 【LIVE on &lt;t:1734958800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oGaf-Sq4eXY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fc11acff-fe53-5803-a8cf-8e71cdba35bc</id>
+    <title><![CDATA[【Original Song】 World Wide Carol]]></title>
+    <link href="https://youtu.be/xbJtxDr6L7k" rel="alternate" type="text/html"/>
+    <published>2024-12-23T00:00:23.000Z</published>
+    <updated>2024-12-23T00:00:23.000Z</updated>
+    <author>
+      <name>Obake PAM Ch.</name>
+      <uri>https://www.youtube.com/channel/UCZIFph1bYyGxmFkkNNLAKdA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xbJtxDr6L7k 【LIVE on &lt;t:1735016400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xbJtxDr6L7k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -790,20 +818,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f7e520fb-ab2e-56a2-a77f-7d7781f6dbf5</id>
-    <title><![CDATA[冬だ!年末だ!カラオケだ!【#ReGLOSS3Dカラオケ】]]></title>
-    <link href="https://youtu.be/aW0p20hg7ms" rel="alternate" type="text/html"/>
-    <published>2024-12-09T11:05:21.000Z</published>
-    <updated>2024-12-09T11:05:21.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aW0p20hg7ms 【LIVE on &lt;t:1733738411:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aW0p20hg7ms/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:98bc3a87-ea65-5d60-b4fe-a79a80b3d399</id>
     <title><![CDATA[【3D LIVE】重大告知あり!紫咲シオンBirthdayアニソンライブ!!✨【#紫咲シオン生誕LIVE2024】]]></title>
     <link href="https://youtu.be/HOb_TW8uK48" rel="alternate" type="text/html"/>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ll3DuikAOYw 【LIVE on &lt;t:1731672307:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ll3DuikAOYw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c62a8c62-e903-5de4-a271-9aba3e88264b</id>
-    <title><![CDATA[カゲロウノ調]]></title>
-    <link href="https://youtu.be/3kI7W8CquxA" rel="alternate" type="text/html"/>
-    <published>2024-11-15T10:00:08.000Z</published>
-    <updated>2024-11-15T10:00:08.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3kI7W8CquxA 【LIVE on &lt;t:1731664808:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3kI7W8CquxA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2005,20 +2005,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0iJfc7DZqHo 【LIVE on &lt;t:1723467727:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0iJfc7DZqHo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c870f290-2525-5318-88a3-e3033495d843</id>
-    <title><![CDATA[【#はあちゃま爆誕祭2024】🤪❤️‍🔥👆爆誕3DLIVE❤️‍🔥👆🤪【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/e4UUQwhMR4o" rel="alternate" type="text/html"/>
-    <published>2024-08-10T11:59:07.000Z</published>
-    <updated>2024-08-10T11:59:07.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=e4UUQwhMR4o 【LIVE on &lt;t:1723287646:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/e4UUQwhMR4o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
