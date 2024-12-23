@@ -1,5 +1,24 @@
 [
   {
+    "id": "oGaf-Sq4eXY",
+    "title": "「 KARAOKE PARTY WITH FRIENDS」CHRISTMAS IS HERE EARLY  เทศกาลนี้ไม่เหงาแน่นอน「 Evalia #ARProject 」",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T01:03:25.000Z",
+    "available_at": "2024-12-23T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCPtSgQ5-yCPl9wbo5w7tmWQ",
+      "name": "Evalia Ch.【ARP】",
+      "org": "Algorhythm Project",
+      "suborg": "0a1st Operation: Apocalypse",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nrrV6sfCwwmfAQjy1Db0LfFaMc4mGUcg_8hFQGgWdaM2HfWgUOqtnsEQCJNo9oLL865EfZDi=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Evalia"
+    }
+  },
+  {
     "id": "SebgFzzswLQ",
     "title": "天界弩級オシゴトロード / かなけん（天音かなた 沙花叉クロヱ AZKi）【Official Music Video】",
     "type": "stream",
@@ -28,6 +47,7 @@
     "available_at": "2024-12-22T13:59:49.000Z",
     "duration": 2575,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -47,6 +67,7 @@
     "available_at": "2024-12-22T13:02:06.000Z",
     "duration": 6903,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -1618,26 +1639,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "CC9U7z6ws0Y",
-    "title": "【3D歌特番】本気のカラオケバトルに今年はTEMPUSも3D参戦!【#hololivefesEXPO25】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-09T11:38:21.000Z",
-    "available_at": "2024-12-09T09:57:59.000Z",
-    "duration": 4205,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCWsfcksUUpoEvhia0_ut0bA",
-      "name": "holostars ホロスターズ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0bOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HOLOSTARS Official"
     }
   },
   {
