@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-23T12:49:28.959Z</updated>
+  <updated>2024-12-23T14:26:53.301Z</updated>
+
+  <entry>
+    <id>urn:uuid:771d7882-2478-5820-ba32-7506f4839271</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】Festive Singing🎄]]></title>
+    <link href="https://youtu.be/Y9UDLdD08_M" rel="alternate" type="text/html"/>
+    <published>2024-12-23T13:51:05.000Z</published>
+    <updated>2024-12-23T13:51:05.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y9UDLdD08_M 【LIVE on &lt;t:1735012800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y9UDLdD08_M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5ac3e4b5-a248-573d-bcfb-ef4005fb357b</id>
@@ -43,7 +57,7 @@
       <name>Evalia Ch.【ARP】</name>
       <uri>https://www.youtube.com/channel/UCPtSgQ5-yCPl9wbo5w7tmWQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oGaf-Sq4eXY 【LIVE on &lt;t:1734958800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oGaf-Sq4eXY 【LIVE on &lt;t:1734958871:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oGaf-Sq4eXY/maxresdefault.jpg"/>
   </entry>
 
@@ -801,20 +815,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=afIWJT46t6Q 【LIVE on &lt;t:1733749457:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/afIWJT46t6Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:998906b2-d591-50ad-b820-1ebd13e2ff9e</id>
-    <title><![CDATA[【歌枠コラボ】#かなけん で楽しく歌って重大告知!!!!!!SINGING STREAM【ホロライブ / AZKi / 天音かなた / 沙花叉クロヱ】]]></title>
-    <link href="https://youtu.be/B7QVD4R6PeI" rel="alternate" type="text/html"/>
-    <published>2024-12-09T13:16:30.000Z</published>
-    <updated>2024-12-09T13:16:30.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B7QVD4R6PeI 【LIVE on &lt;t:1733745656:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7QVD4R6PeI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2005,6 +2005,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0iJfc7DZqHo 【LIVE on &lt;t:1723467727:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0iJfc7DZqHo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c870f290-2525-5318-88a3-e3033495d843</id>
+    <title><![CDATA[【#はあちゃま爆誕祭2024】🤪❤️‍🔥👆爆誕3DLIVE❤️‍🔥👆🤪【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/e4UUQwhMR4o" rel="alternate" type="text/html"/>
+    <published>2024-08-10T11:59:07.000Z</published>
+    <updated>2024-08-10T11:59:07.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=e4UUQwhMR4o 【LIVE on &lt;t:1723287646:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/e4UUQwhMR4o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
