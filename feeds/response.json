@@ -1,5 +1,45 @@
 [
   {
+    "id": "ynoWf_njG4w",
+    "title": "夢屑ケーキ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-24T10:01:00.000Z",
+    "available_at": "2024-12-24T10:01:00.000Z",
+    "duration": 166,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "MzIFY_5hC-o",
+    "title": "【 メリークリスマス 】ASMR【荒咬オウガ /ホロスターズ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-12-24T09:34:59.000Z",
+    "available_at": "2024-12-24T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+      "name": "Oga Ch.荒咬オウガ",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aragami Oga"
+    }
+  },
+  {
     "id": "MK2zTP_Y1fo",
     "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -16,6 +56,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nakiri Ayame"
+    }
+  },
+  {
+    "id": "j-NWWqVufEM",
+    "title": "【#ホロクリスマス歌枠リレー】3番目ノエル!ノエサンタと楽しく歌おう~ッ🎄🎁🎶【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T07:54:17.000Z",
+    "available_at": "2024-12-25T03:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -142,6 +201,7 @@
     "available_at": "2024-12-24T03:02:18.000Z",
     "duration": 3657,
     "status": "past",
+    "songcount": 7,
     "live_tl_count": {
       "en": 64
     },
@@ -180,9 +240,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T16:37:22.000Z",
-    "available_at": "2024-12-24T10:00:00.000Z",
+    "available_at": "2024-12-24T10:01:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -194,14 +254,33 @@
     }
   },
   {
+    "id": "RiBh7ul_FGg",
+    "title": "🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか? #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T15:57:14.000Z",
+    "available_at": "2024-12-25T04:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "-PLzmAEK1j8",
     "title": "【#夕刻ロベル5周年】おめでとう、俺!【夕刻ロベル/ホロスターズ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2024-12-23T14:29:41.000Z",
-    "available_at": "2024-12-24T10:00:00.000Z",
+    "available_at": "2024-12-24T10:00:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCANDOlYTJT7N5jlRC3zfzVA",
       "name": "Roberu Ch. 夕刻ロベル",
@@ -268,6 +347,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "wkM5eMML-Dg",
+    "title": "【 #ホロクリスマス歌枠リレー 】最初の枠!クリスマスはホロライブの歌ですごそう!🎄✨【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T08:04:05.000Z",
+    "available_at": "2024-12-25T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -429,6 +527,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "fkz1RRRyog4",
+    "title": "≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-22T13:48:28.000Z",
+    "available_at": "2024-12-25T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
     }
   },
   {
@@ -1430,26 +1547,6 @@
     }
   },
   {
-    "id": "7NK783Gzu4s",
-    "title": "【 歌枠 】寝る前にのーんびり歌う♪【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-12T18:21:58.000Z",
-    "available_at": "2024-12-12T15:06:36.000Z",
-    "duration": 11155,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "vV1wZ8eKTIQ",
     "title": "【前夜祭】誕生日カウントダウン!!!!!!みんなとお祝い!!!!【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -1469,45 +1566,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nakiri Ayame"
-    }
-  },
-  {
-    "id": "CTU8UsRNUi4",
-    "title": "【UNARCHIVED KARAOKE】Last Christmas ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-12T17:30:15.000Z",
-    "available_at": "2024-12-12T20:04:01.000Z",
-    "duration": 8866,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "aUQctvx1J40",
-    "title": "ボイトレ行って学びを得た歌枠【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-12T15:37:14.000Z",
-    "available_at": "2024-12-12T13:36:15.000Z",
-    "duration": 6744,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -1832,25 +1890,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "yVCzxBigdyU",
-    "title": "【FUWAMOCO ROCK N' RAWR PARTY】happy bday to our ultimate idol momoi haruko ♪ #FWMCbeats【桃井はるこ曲縛り】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-08T17:01:29.000Z",
-    "available_at": "2024-12-13T01:55:08.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -3272,27 +3311,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "CO15sYcowK8",
-    "title": "AZKi「カゲロウノ調」【Official Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-16T12:00:06.000Z",
-    "available_at": "2024-11-16T12:00:06.000Z",
-    "duration": 236,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC5g0kkbZtBX6_rwRcDSqZBQ",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -6182,25 +6200,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tUHzjVx8_3IchEO64NDOJGFzH-uN7b5QHUBiKqnUmwLlY0ZSxmQ1snRse4jUx0gt8dGh2MzILP4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "_Z2kQBAIhfw",
-    "title": "【ASMR】HyperX Keyboard and microphone review!",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-04-28T02:19:18.000Z",
-    "available_at": "2024-04-27T23:55:03.000Z",
-    "duration": 3792,
-    "status": "past",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   },
   {

@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-24T08:31:29.390Z</updated>
+  <updated>2024-12-24T10:29:05.559Z</updated>
+
+  <entry>
+    <id>urn:uuid:f7fea3ee-4a81-5450-8a68-a2a07a0f354a</id>
+    <title><![CDATA[夢屑ケーキ]]></title>
+    <link href="https://youtu.be/ynoWf_njG4w" rel="alternate" type="text/html"/>
+    <published>2024-12-24T10:01:00.000Z</published>
+    <updated>2024-12-24T10:01:00.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ynoWf_njG4w 【LIVE on &lt;t:1735034460:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ynoWf_njG4w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e9257235-f7db-579a-b43f-49f3d18a027a</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MK2zTP_Y1fo 【LIVE on &lt;t:1735041600:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MK2zTP_Y1fo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:90ee3a61-6855-5cad-beea-5e0d4cd0fe71</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー】3番目ノエル!ノエサンタと楽しく歌おう~ッ🎄🎁🎶【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/j-NWWqVufEM" rel="alternate" type="text/html"/>
+    <published>2024-12-24T07:54:17.000Z</published>
+    <updated>2024-12-24T07:54:17.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=j-NWWqVufEM 【LIVE on &lt;t:1735098000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j-NWWqVufEM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -127,8 +155,22 @@
       <name>Flare Ch. 不知火フレア</name>
       <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lgVbujxd94w 【LIVE on &lt;t:1735034400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lgVbujxd94w 【LIVE on &lt;t:1735034518:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lgVbujxd94w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f52d74fa-a71c-529c-9aca-67d7b34ca908</id>
+    <title><![CDATA[🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか? #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜]]></title>
+    <link href="https://youtu.be/RiBh7ul_FGg" rel="alternate" type="text/html"/>
+    <published>2024-12-23T15:57:14.000Z</published>
+    <updated>2024-12-23T15:57:14.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RiBh7ul_FGg 【LIVE on &lt;t:1735100400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RiBh7ul_FGg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -157,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=a5XCV1g1Tc8 【LIVE on &lt;t:1735039800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a5XCV1g1Tc8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9ecf2e5c-274a-5fc6-be91-325f2a5dd0d2</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】最初の枠!クリスマスはホロライブの歌ですごそう!🎄✨【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/wkM5eMML-Dg" rel="alternate" type="text/html"/>
+    <published>2024-12-23T08:04:05.000Z</published>
+    <updated>2024-12-23T08:04:05.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wkM5eMML-Dg 【LIVE on &lt;t:1735095600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wkM5eMML-Dg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -255,6 +311,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=mD4zvOCJDRk 【LIVE on &lt;t:1734875989:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mD4zvOCJDRk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:760bd55d-bb69-53a3-b2bc-f5a03b2c17d7</id>
+    <title><![CDATA[≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR]]></title>
+    <link href="https://youtu.be/fkz1RRRyog4" rel="alternate" type="text/html"/>
+    <published>2024-12-22T13:48:28.000Z</published>
+    <updated>2024-12-22T13:48:28.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fkz1RRRyog4 【LIVE on &lt;t:1735095600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fkz1RRRyog4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -633,34 +703,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=EkdNf0b7UU0 【LIVE on &lt;t:1734080406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EkdNf0b7UU0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aadc2fe0-888a-58cb-9142-177c8d9d150a</id>
-    <title><![CDATA[【 歌枠 】寝る前にのーんびり歌う♪【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/7NK783Gzu4s" rel="alternate" type="text/html"/>
-    <published>2024-12-12T18:21:58.000Z</published>
-    <updated>2024-12-12T18:21:58.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7NK783Gzu4s 【LIVE on &lt;t:1734015996:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7NK783Gzu4s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:449e63e0-5f20-523f-8517-682f14e3097c</id>
-    <title><![CDATA[ボイトレ行って学びを得た歌枠【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/aUQctvx1J40" rel="alternate" type="text/html"/>
-    <published>2024-12-12T15:37:14.000Z</published>
-    <updated>2024-12-12T15:37:14.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aUQctvx1J40 【LIVE on &lt;t:1734010575:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aUQctvx1J40/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1389,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dFZ1oTSFuIE 【LIVE on &lt;t:1731816008:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dFZ1oTSFuIE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:10195d6e-68b6-536e-8b00-ba22c4f9bac6</id>
-    <title><![CDATA[AZKi「カゲロウノ調」【Official Music Video】]]></title>
-    <link href="https://youtu.be/CO15sYcowK8" rel="alternate" type="text/html"/>
-    <published>2024-11-16T12:00:06.000Z</published>
-    <updated>2024-11-16T12:00:06.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CO15sYcowK8 【LIVE on &lt;t:1731758406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CO15sYcowK8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2341,20 +2369,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wW-P9EH9FaY 【LIVE on &lt;t:1714831205:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wW-P9EH9FaY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ae453557-d500-5cf8-88f2-66b356473a5a</id>
-    <title><![CDATA[【ASMR】HyperX Keyboard and microphone review!]]></title>
-    <link href="https://youtu.be/_Z2kQBAIhfw" rel="alternate" type="text/html"/>
-    <published>2024-04-28T02:19:18.000Z</published>
-    <updated>2024-04-28T02:19:18.000Z</updated>
-    <author>
-      <name>Nerissa Ravencroft Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_Z2kQBAIhfw 【LIVE on &lt;t:1714262103:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Z2kQBAIhfw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
