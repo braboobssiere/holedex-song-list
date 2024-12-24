@@ -334,6 +334,7 @@
     "available_at": "2024-12-24T12:00:45.000Z",
     "duration": 5811,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -372,6 +373,7 @@
     "available_at": "2024-12-24T13:05:12.000Z",
     "duration": 17505,
     "status": "past",
+    "songcount": 14,
     "live_tl_count": {
       "en": 400
     },
@@ -771,6 +773,25 @@
     }
   },
   {
+    "id": "oGaf-Sq4eXY",
+    "title": "「 KARAOKE PARTY WITH FRIENDS」CHRISTMAS IS HERE EARLY  เทศกาลนี้ไม่เหงาแน่นอน「 Evalia #ARProject 」",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T15:15:31.000Z",
+    "available_at": "2024-12-23T13:01:11.000Z",
+    "duration": 6325,
+    "status": "past",
+    "channel": {
+      "id": "UCPtSgQ5-yCPl9wbo5w7tmWQ",
+      "name": "Evalia Ch.【ARP】",
+      "org": "Algorhythm Project",
+      "suborg": "0a1st Operation: Apocalypse",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nrrV6sfCwwmfAQjy1Db0LfFaMc4mGUcg_8hFQGgWdaM2HfWgUOqtnsEQCJNo9oLL865EfZDi=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Evalia"
+    }
+  },
+  {
     "id": "-PLzmAEK1j8",
     "title": "【#夕刻ロベル5周年】おめでとう、俺！【夕刻ロベル/ホロスターズ】",
     "type": "stream",
@@ -926,25 +947,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GF0wbwZvZAGzYg8s8d6Yh1BDcWAE9UmLAh2uf3IMJ5l_ESi3sWeRqk2XfhW3IgzMeliHpt4cAw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "oGaf-Sq4eXY",
-    "title": "「 KARAOKE PARTY WITH FRIENDS」CHRISTMAS IS HERE EARLY เทศกาลนี้ไม่เหงาแน่นอน「 Evalia #ARProject 」",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-23T01:03:25.000Z",
-    "available_at": "2024-12-23T13:01:11.000Z",
-    "duration": 6320,
-    "status": "past",
-    "channel": {
-      "id": "UCPtSgQ5-yCPl9wbo5w7tmWQ",
-      "name": "Evalia Ch.【ARP】",
-      "org": "Algorhythm Project",
-      "suborg": "0a1st Operation: Apocalypse",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nrrV6sfCwwmfAQjy1Db0LfFaMc4mGUcg_8hFQGgWdaM2HfWgUOqtnsEQCJNo9oLL865EfZDi=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Evalia"
     }
   },
   {

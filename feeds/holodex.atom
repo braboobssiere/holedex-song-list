@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-24T20:25:57.568Z</updated>
+  <updated>2024-12-24T22:26:03.541Z</updated>
 
   <entry>
     <id>urn:uuid:5df9cc50-8773-5443-a8ac-3309d9cde575</id>
@@ -524,6 +524,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0eeee798-b78c-56c7-b048-c6a13360eeea</id>
+    <title><![CDATA[「 KARAOKE PARTY WITH FRIENDS」CHRISTMAS IS HERE EARLY  เทศกาลนี้ไม่เหงาแน่นอน「 Evalia #ARProject 」]]></title>
+    <link href="https://youtu.be/oGaf-Sq4eXY" rel="alternate" type="text/html"/>
+    <published>2024-12-23T15:15:31.000Z</published>
+    <updated>2024-12-23T15:15:31.000Z</updated>
+    <author>
+      <name>Evalia Ch.【ARP】</name>
+      <uri>https://www.youtube.com/channel/UCPtSgQ5-yCPl9wbo5w7tmWQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oGaf-Sq4eXY 【LIVE on &lt;t:1734958871:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oGaf-Sq4eXY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:771d7882-2478-5820-ba32-7506f4839271</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】Festive Christmas Singing🎄]]></title>
     <link href="https://youtu.be/Y9UDLdD08_M" rel="alternate" type="text/html"/>
@@ -605,20 +619,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DEbGq2ItFOU 【LIVE on &lt;t:1734991383:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DEbGq2ItFOU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0eeee798-b78c-56c7-b048-c6a13360eeea</id>
-    <title><![CDATA[「 KARAOKE PARTY WITH FRIENDS」CHRISTMAS IS HERE EARLY เทศกาลนี้ไม่เหงาแน่นอน「 Evalia #ARProject 」]]></title>
-    <link href="https://youtu.be/oGaf-Sq4eXY" rel="alternate" type="text/html"/>
-    <published>2024-12-23T01:03:25.000Z</published>
-    <updated>2024-12-23T01:03:25.000Z</updated>
-    <author>
-      <name>Evalia Ch.【ARP】</name>
-      <uri>https://www.youtube.com/channel/UCPtSgQ5-yCPl9wbo5w7tmWQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oGaf-Sq4eXY 【LIVE on &lt;t:1734958871:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oGaf-Sq4eXY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
