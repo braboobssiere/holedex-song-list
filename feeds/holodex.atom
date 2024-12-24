@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-23T22:26:28.600Z</updated>
+  <updated>2024-12-24T01:52:10.109Z</updated>
+
+  <entry>
+    <id>urn:uuid:f967855a-c559-5f1e-990e-098b46ff1fda</id>
+    <title><![CDATA[【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/qgImSMYMvlY" rel="alternate" type="text/html"/>
+    <published>2024-12-24T01:23:03.000Z</published>
+    <updated>2024-12-24T01:23:03.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qgImSMYMvlY 【LIVE on &lt;t:1735009200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qgImSMYMvlY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7344a744-6eb8-55be-850f-95862aa15aba</id>
@@ -48,20 +62,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:5ac3e4b5-a248-573d-bcfb-ef4005fb357b</id>
-    <title><![CDATA[【UNARCHIVED KARAOKE】 I Don't Know Lyrics to X-mas Songs But LET'S GOOOOO]]></title>
-    <link href="https://youtu.be/MpI0bZf60Vo" rel="alternate" type="text/html"/>
-    <published>2024-12-23T10:54:22.000Z</published>
-    <updated>2024-12-23T10:54:22.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MpI0bZf60Vo 【LIVE on &lt;t:1734991174:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MpI0bZf60Vo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:643f6479-10c6-5d5f-98d0-70068b4c6ea8</id>
     <title><![CDATA[ストーリーテラー/白上フブキ(Original)]]></title>
     <link href="https://youtu.be/a5XCV1g1Tc8" rel="alternate" type="text/html"/>
@@ -77,7 +77,7 @@
 
   <entry>
     <id>urn:uuid:bcb526a2-47f3-5560-a6f3-3dde9c7edaac</id>
-    <title><![CDATA[【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】]]></title>
+    <title><![CDATA[【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?＃ろぼサンタのASMR【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/DEbGq2ItFOU" rel="alternate" type="text/html"/>
     <published>2024-12-23T02:57:07.000Z</published>
     <updated>2024-12-23T02:57:07.000Z</updated>
@@ -703,20 +703,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Kepw2NfNvMg 【LIVE on &lt;t:1733821206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kepw2NfNvMg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1e3690f2-19d3-5611-8361-7c1673076720</id>
-    <title><![CDATA[【#HoloENCalendar Day 15】happy HOLOdays from your advent (calendar) 🐾✨]]></title>
-    <link href="https://youtu.be/lxyYLe_txkA" rel="alternate" type="text/html"/>
-    <published>2024-12-09T16:54:48.000Z</published>
-    <updated>2024-12-09T16:54:48.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lxyYLe_txkA 【LIVE on &lt;t:1733763288:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lxyYLe_txkA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
