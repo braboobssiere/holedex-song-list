@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T01:23:03.000Z",
-    "available_at": "2024-12-24T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-24T03:02:18.000Z",
+    "duration": 3657,
+    "status": "past",
+    "live_tl_count": {
+      "en": 64
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -81,9 +84,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T13:51:05.000Z",
-    "available_at": "2024-12-24T04:00:00.000Z",
+    "available_at": "2024-12-24T04:01:04.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -179,7 +182,7 @@
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-12-23T00:00:23.000Z",
-    "available_at": "2024-12-24T05:00:00.000Z",
+    "available_at": "2024-12-24T07:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -198,9 +201,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-22T19:13:59.000Z",
-    "available_at": "2024-12-24T03:30:00.000Z",
+    "available_at": "2024-12-24T03:40:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -5153,7 +5156,7 @@
       "org": "Hololive",
       "suborg": "kcIndonesia 2nd Gen (holoro)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
     }
   },
