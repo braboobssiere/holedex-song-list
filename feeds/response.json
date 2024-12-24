@@ -1,5 +1,24 @@
 [
   {
+    "id": "hlf9V7lECpE",
+    "title": "UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T05:15:13.000Z",
+    "available_at": "2024-12-24T19:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "qgImSMYMvlY",
     "title": "【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】",
     "type": "stream",
@@ -85,8 +104,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-23T13:51:05.000Z",
     "available_at": "2024-12-24T04:01:04.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8837,
+    "status": "past",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -197,13 +216,13 @@
   },
   {
     "id": "i3hfGAlJZ54",
-    "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】",
+    "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾 【FUWAMOCO】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-22T19:13:59.000Z",
     "available_at": "2024-12-24T03:40:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6112,
+    "status": "past",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -1576,26 +1595,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "NUqsXFa85Ls",
-    "title": "#HoloENCalendar Day 11",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-10T18:45:37.000Z",
-    "available_at": "2024-12-10T18:45:37.000Z",
-    "duration": 101,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
