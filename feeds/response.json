@@ -1,5 +1,24 @@
 [
   {
+    "id": "COCE2eXlkh0",
+    "title": "【 #ホロライブ歌枠リレー 】12：20~ 2番手!歌います!【大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T13:44:11.000Z",
+    "available_at": "2024-12-25T03:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "uV1hnkWhEEs",
     "title": "【 15万人耐久 】歌枠&雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS",
     "type": "stream",
@@ -16,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "BDI8EoUxkco",
+    "title": "【 #ホロクリスマス歌枠リレー 】今年も最多曲数目指します!!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T11:51:50.000Z",
+    "available_at": "2024-12-25T08:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -72,7 +110,7 @@
       "org": "Hololive",
       "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/x44Mk1Ici4gC4VO7k-_i511Q1dVWcMrlLXj5AzogJpPpGFpMMzyF4-bjhE9IWCAjxpxYQbTh-2A=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Machina X Flayon"
     }
   },
@@ -122,9 +160,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T08:16:49.000Z",
-    "available_at": "2024-12-24T13:00:00.000Z",
+    "available_at": "2024-12-24T13:05:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 138
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -133,6 +174,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nakiri Ayame"
+    }
+  },
+  {
+    "id": "_8KI-dNtSRE",
+    "title": "【歌枠】盛り上がってるかああああ!!!!😎🎄  #ホロクリスマス歌枠リレー 【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T08:03:23.000Z",
+    "available_at": "2024-12-25T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -218,9 +278,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T06:51:56.000Z",
-    "available_at": "2024-12-24T14:00:00.000Z",
+    "available_at": "2024-12-24T14:00:52.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -293,6 +353,25 @@
     }
   },
   {
+    "id": "OtqKkWzVUCU",
+    "title": "【#ホロクリスマス歌枠リレー】みんなと初めてのクリスマス!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T21:04:45.000Z",
+    "available_at": "2024-12-25T07:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
     "id": "-_4nXhh3cDQ",
     "title": "【#ホロクリスマス歌枠リレー 】初めてのクリスマス歌枠!🎄✨【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -328,6 +407,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "GtkOaYFtjTA",
+    "title": "【MUSIC】LOOPED CHRISTMAS BOPS ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-23T18:27:06.000Z",
+    "available_at": "2024-12-25T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -1317,26 +1415,6 @@
     }
   },
   {
-    "id": "gujIEtVmAsM",
-    "title": "【歌枠】どうしても今日は大好きな歌を歌いたい #hololiveDEV_IS #FLOWGLOW #響咲リオナ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-15T14:49:07.000Z",
-    "available_at": "2024-12-15T13:00:11.000Z",
-    "duration": 5541,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "qzGDS6fA9P0",
     "title": "【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】",
     "type": "stream",
@@ -1373,66 +1451,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "-ENf2IMSbqc",
-    "title": "【OFF COLLAB】Free Style Karaoke! With Friends!! #calliolive",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-15T03:04:08.000Z",
-    "available_at": "2024-12-15T01:15:07.000Z",
-    "duration": 6062,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "C-Js66Nus-U",
-    "title": "【歌枠archived karaoke】chill song guerrilla singing【Pavolia Reine/hololiveID 2nd gen】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-14T16:38:01.000Z",
-    "available_at": "2024-12-14T14:00:45.000Z",
-    "duration": 8824,
-    "status": "past",
-    "songcount": 26,
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "rKJ6ZP168P4",
-    "title": "【歌枠】J-POP・アニソン・キャラソン!好きな曲を歌う!Singing Stream【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-14T15:23:53.000Z",
-    "available_at": "2024-12-14T13:00:14.000Z",
-    "duration": 7770,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -1495,25 +1513,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "tvQQoE1yvh8",
-    "title": "【Rebroadcast KARAOKE】KPOP! NewJeans 뉴진스 and K/DA (and Twice)【Unarchived】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-14T01:27:23.000Z",
-    "available_at": "2024-12-14T11:02:19.000Z",
-    "duration": 9291,
-    "status": "missing",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
     }
   },
   {
