@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-25T01:50:50.489Z</updated>
+  <updated>2024-12-25T02:53:12.713Z</updated>
+
+  <entry>
+    <id>urn:uuid:b9943391-3e55-5315-ac0b-3a3532a0f2f5</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー】16:40~!プレゼントのお届けだ~🎁💖【一条莉々華 / ホロライブ ReGLOSS】]]></title>
+    <link href="https://youtu.be/jWUrGcgpAKE" rel="alternate" type="text/html"/>
+    <published>2024-12-25T02:35:05.000Z</published>
+    <updated>2024-12-25T02:35:05.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jWUrGcgpAKE 【LIVE on &lt;t:1735112400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jWUrGcgpAKE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5df9cc50-8773-5443-a8ac-3309d9cde575</id>
@@ -63,7 +77,7 @@
 
   <entry>
     <id>urn:uuid:a87d9d00-8fe8-592a-aa75-39f6de3e80d2</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】酔いがさめたらサムネ配置します【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】この瞬間は僕だけのクリスマスプリンセス【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/gmc5dCDDws0" rel="alternate" type="text/html"/>
     <published>2024-12-24T16:24:41.000Z</published>
     <updated>2024-12-24T16:24:41.000Z</updated>
@@ -393,7 +407,7 @@
       <name>Ouro Kronii Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EwG8AaJh7Ls 【LIVE on &lt;t:1735092000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EwG8AaJh7Ls 【LIVE on &lt;t:1735092358:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EwG8AaJh7Ls/maxresdefault.jpg"/>
   </entry>
 
