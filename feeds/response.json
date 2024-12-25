@@ -1,5 +1,24 @@
 [
   {
+    "id": "xQqh7ALpcmw",
+    "title": "【UNARCHIVED】gremlin christmas karaoke shoebox hangout",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T02:51:37.000Z",
+    "available_at": "2024-12-25T22:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "jWUrGcgpAKE",
     "title": "【#ホロクリスマス歌枠リレー】16:40~!プレゼントのお届けだ~🎁💖【一条莉々華 / ホロライブ ReGLOSS】",
     "type": "stream",
@@ -43,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T18:19:03.000Z",
-    "available_at": "2024-12-25T04:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-25T04:00:13.000Z",
+    "duration": 1201,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -229,13 +248,13 @@
   },
   {
     "id": "COCE2eXlkh0",
-    "title": "【 #ホロライブ歌枠リレー 】12：20~ 2番手!歌います!【大神ミオ】",
+    "title": "【 #ホロライブ歌枠リレー 】１２：２０～ ２番手！歌います！【大神ミオ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T13:44:11.000Z",
-    "available_at": "2024-12-25T03:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-25T03:20:09.000Z",
+    "duration": 1226,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -307,7 +326,7 @@
   },
   {
     "id": "Y0MSUO1PatA",
-    "title": "【 #ホロクリスマス歌枠リレー 】ガチ恋不可避激カワメドレー!💘【ホロライブ/赤井はあと】",
+    "title": "【 #ホロクリスマス歌枠リレー 】世界一かわいいクリスマスソング~~~!💘【ホロライブ/赤井はあと】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T11:10:18.000Z",
@@ -428,13 +447,13 @@
   },
   {
     "id": "j-NWWqVufEM",
-    "title": "【#ホロクリスマス歌枠リレー】3番目ノエル!ノエサンタと楽しく歌おう~ッ🎄🎁🎶【白銀ノエル/ホロライブ】",
+    "title": "【#ホロクリスマス歌枠リレー】3番目ノエル！ノエサンタと楽しく歌おう～ッ🎄🎁🎶【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-24T07:54:17.000Z",
-    "available_at": "2024-12-25T03:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-25T03:40:15.000Z",
+    "duration": 1200,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -588,8 +607,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-24T02:45:02.000Z",
     "available_at": "2024-12-25T02:05:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7754,
+    "status": "past",
     "channel": {
       "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "name": "Ouro Kronii Ch. hololive-EN",
@@ -782,9 +801,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T15:57:14.000Z",
-    "available_at": "2024-12-25T04:20:00.000Z",
+    "available_at": "2024-12-25T04:20:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -914,13 +933,16 @@
   },
   {
     "id": "wkM5eMML-Dg",
-    "title": "【 #ホロクリスマス歌枠リレー 】最初の枠!クリスマスはホロライブの歌ですごそう!🎄✨【博衣こより/ホロライブ】",
+    "title": "【 #ホロクリスマス歌枠リレー 】最初の枠！クリスマスはホロライブの歌ですごそう！🎄✨【博衣こより/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-23T08:04:05.000Z",
-    "available_at": "2024-12-25T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-25T03:00:03.000Z",
+    "duration": 1257,
+    "status": "past",
+    "live_tl_count": {
+      "en": 16
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -1098,9 +1120,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-22T13:48:28.000Z",
-    "available_at": "2024-12-25T03:00:00.000Z",
+    "available_at": "2024-12-25T03:03:54.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -1309,25 +1331,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MzN3nqf5wjiJkPi8ZdvyqhU5BiwBaUpOJ9TuU7Rq3wb547j6sMbzTpl0qK9HfC_I_vaJ8g9u3w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Josuiji Shinri"
-    }
-  },
-  {
-    "id": "TilgOm2su48",
-    "title": "OFF COLLAB KARAOKE w/ @nano_official, @nekoofficialchannel, @unnamednow00 & @yusukech.  ! ! !",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-21T04:16:05.000Z",
-    "available_at": "2024-12-21T02:03:26.000Z",
-    "duration": 7561,
-    "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypBB8F0lAeZamC4itxt41rUeAM0U8t6-7n5zVTNXr9Gf6ofjyPcUQfXIQcHkjUzIbafwVfTzQA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
@@ -2546,7 +2549,7 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gHSAYjapvrPWUKNofcX6zP8izFYK-CbsiZEpkuNgGpPluu7zyC_3yPu0IbpL2Rh_QjBxPKOjLA=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
     }
   },
