@@ -1,13 +1,51 @@
 [
   {
+    "id": "RRgdX70JpeM",
+    "title": "【MUSIC】MORE CHRISTMAS BOPS ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T15:02:55.000Z",
+    "available_at": "2024-12-25T16:09:59.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "MoYpIj8MhKQ",
+    "title": "【UNARCHIVED KARAOKE】BIBOO VIBES IN 3D TO CHRISTMAS TUNES  #mocopi",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-25T14:48:56.000Z",
+    "available_at": "2024-12-26T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "name": "Koseki Bijou Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koseki Bijou"
+    }
+  },
+  {
     "id": "j5NbuZW98XU",
-    "title": "【通常歌枠】ほんとにごめんなさいだあああああ【虎金妃笑虎】",
+    "title": "【歌枠】クリスマスの夜最後も歌うぜ！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T13:22:59.000Z",
     "available_at": "2024-12-25T13:31:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7063,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -24,9 +62,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T12:09:39.000Z",
-    "available_at": "2024-12-25T14:30:00.000Z",
+    "available_at": "2024-12-25T14:30:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 72
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -84,8 +125,8 @@
     "topic_id": "asmr",
     "published_at": "2024-12-25T09:58:38.000Z",
     "available_at": "2024-12-25T14:01:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3728,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -143,13 +184,14 @@
     "available_at": "2024-12-25T06:40:10.000Z",
     "duration": 1197,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
       "name": "Chloe ch. 沙花叉クロヱ - holoX -",
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
     }
   },
@@ -162,6 +204,7 @@
     "available_at": "2024-12-25T04:00:13.000Z",
     "duration": 1201,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -240,6 +283,7 @@
     "available_at": "2024-12-25T07:19:44.000Z",
     "duration": 1222,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -278,6 +322,7 @@
     "available_at": "2024-12-25T04:59:39.000Z",
     "duration": 1229,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -355,6 +400,7 @@
     "available_at": "2024-12-25T03:20:09.000Z",
     "duration": 1226,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -394,6 +440,7 @@
     "available_at": "2024-12-25T08:20:09.000Z",
     "duration": 1262,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -433,6 +480,7 @@
     "available_at": "2024-12-25T05:19:35.000Z",
     "duration": 1254,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -535,6 +583,7 @@
     "available_at": "2024-12-25T08:00:15.000Z",
     "duration": 1202,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -554,6 +603,7 @@
     "available_at": "2024-12-25T03:40:15.000Z",
     "duration": 1200,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -573,6 +623,7 @@
     "available_at": "2024-12-25T08:59:53.000Z",
     "duration": 1168,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -815,6 +866,7 @@
     "available_at": "2024-12-25T07:01:38.000Z",
     "duration": 1120,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -834,6 +886,7 @@
     "available_at": "2024-12-25T04:39:59.000Z",
     "duration": 1216,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -893,6 +946,7 @@
     "available_at": "2024-12-25T05:40:09.000Z",
     "duration": 1201,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -911,7 +965,7 @@
     "published_at": "2024-12-23T18:27:06.000Z",
     "available_at": "2024-12-25T05:42:09.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -970,6 +1024,7 @@
     "available_at": "2024-12-25T04:20:46.000Z",
     "duration": 1203,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -1085,6 +1140,7 @@
     "available_at": "2024-12-25T03:00:03.000Z",
     "duration": 1257,
     "status": "past",
+    "songcount": 3,
     "live_tl_count": {
       "en": 16
     },
@@ -1107,6 +1163,7 @@
     "available_at": "2024-12-25T05:59:49.000Z",
     "duration": 1216,
     "status": "past",
+    "songcount": 3,
     "live_tl_count": {
       "en": 11
     },
@@ -1198,26 +1255,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "mD4zvOCJDRk",
-    "title": "新しいPCの様子を見るぜ!ねんね前の歌枠【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-22T14:46:37.000Z",
-    "available_at": "2024-12-22T13:59:49.000Z",
-    "duration": 2571,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -5488,26 +5525,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "av2WGKOl6Mw",
-    "title": "[Day1]hololive English 2nd Concert -Breaking Dimensions-[Free Preview]",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-08-24T23:41:13.000Z",
-    "available_at": "2024-08-24T21:30:28.000Z",
-    "duration": 7176,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
