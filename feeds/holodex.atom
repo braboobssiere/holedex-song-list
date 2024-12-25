@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-25T20:26:02.423Z</updated>
+  <updated>2024-12-25T22:26:13.597Z</updated>
+
+  <entry>
+    <id>urn:uuid:5d05cb3a-406f-5838-9322-6bedd8c86f68</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】 Christmas Karaoke in 3D!!!]]></title>
+    <link href="https://youtu.be/WVvbTBY6Dz4" rel="alternate" type="text/html"/>
+    <published>2024-12-25T21:25:35.000Z</published>
+    <updated>2024-12-25T21:25:35.000Z</updated>
+    <author>
+      <name>Ceres Fauna Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WVvbTBY6Dz4 【LIVE on &lt;t:1735167600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WVvbTBY6Dz4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:17b0084b-1f2d-58d6-a21f-838ba2fac6a7</id>
@@ -113,7 +127,7 @@
       <name>Gigi Murin Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xQqh7ALpcmw 【LIVE on &lt;t:1735164000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xQqh7ALpcmw 【LIVE on &lt;t:1735164047:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xQqh7ALpcmw/maxresdefault.jpg"/>
   </entry>
 
@@ -202,6 +216,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:71b2d209-2830-5cae-bbf6-c5f734d93f98</id>
+    <title><![CDATA[【 15万人耐久 】歌枠&雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS]]></title>
+    <link href="https://youtu.be/uV1hnkWhEEs" rel="alternate" type="text/html"/>
+    <published>2024-12-24T16:09:45.000Z</published>
+    <updated>2024-12-24T16:09:45.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uV1hnkWhEEs 【LIVE on &lt;t:1735041623:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uV1hnkWhEEs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7016155e-68cd-520d-857b-29aefcc69916</id>
     <title><![CDATA[【 #ホロクリスマス歌枠リレー 】Merry Xmas🎄✨んなサンタがふなふな歌うのら～！！！🎅【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/cajOk-JQbMk" rel="alternate" type="text/html"/>
@@ -241,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MOnqaHgtDdY 【LIVE on &lt;t:1735102779:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MOnqaHgtDdY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3289a69e-8846-5f34-99f0-59cd82a66d21</id>
-    <title><![CDATA[【UNARCHIVE】Karaoke!!【Moona Hoshinova】]]></title>
-    <link href="https://youtu.be/0lNW3nAYzcI" rel="alternate" type="text/html"/>
-    <published>2024-12-24T14:38:09.000Z</published>
-    <updated>2024-12-24T14:38:09.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0lNW3nAYzcI 【LIVE on &lt;t:1735054476:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0lNW3nAYzcI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -325,20 +339,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=29GoHnaYGLw 【LIVE on &lt;t:1735037993:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/29GoHnaYGLw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:71b2d209-2830-5cae-bbf6-c5f734d93f98</id>
-    <title><![CDATA[【 15万人耐久 】歌枠＆雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS]]></title>
-    <link href="https://youtu.be/uV1hnkWhEEs" rel="alternate" type="text/html"/>
-    <published>2024-12-24T12:00:03.000Z</published>
-    <updated>2024-12-24T12:00:03.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uV1hnkWhEEs 【LIVE on &lt;t:1735041623:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uV1hnkWhEEs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -493,20 +493,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YH5t_Dlox7c 【LIVE on &lt;t:1735052813:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YH5t_Dlox7c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:52c154ff-b54d-52b2-b176-421f3c6b786b</id>
-    <title><![CDATA[HOLIDAY KARAOKE  | NO ARCHIVE PART]]></title>
-    <link href="https://youtu.be/9YAB3pA5HCM" rel="alternate" type="text/html"/>
-    <published>2024-12-24T06:51:56.000Z</published>
-    <updated>2024-12-24T06:51:56.000Z</updated>
-    <author>
-      <name>Airani Iofifteen Channel hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9YAB3pA5HCM 【LIVE on &lt;t:1735048852:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9YAB3pA5HCM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
