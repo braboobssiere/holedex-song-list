@@ -105,9 +105,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T10:41:36.000Z",
-    "available_at": "2024-12-25T20:00:00.000Z",
+    "available_at": "2024-12-25T20:09:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -415,6 +415,65 @@
     }
   },
   {
+    "id": "x6CAawiiN14",
+    "title": "【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり!【ホロライブ/白上フブキ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T13:43:14.000Z",
+    "available_at": "2024-12-24T12:00:45.000Z",
+    "duration": 5816,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "29GoHnaYGLw",
+    "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います!達成したら嬉しい告知あります!【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T12:18:45.000Z",
+    "available_at": "2024-12-24T10:59:53.000Z",
+    "duration": 4050,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
+    "id": "MzIFY_5hC-o",
+    "title": "【 メリークリスマス 】ASMR【荒咬オウガ /ホロスターズ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-12-24T12:17:28.000Z",
+    "available_at": "2024-12-24T11:02:19.000Z",
+    "duration": 4122,
+    "status": "past",
+    "channel": {
+      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+      "name": "Oga Ch.荒咬オウガ",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aragami Oga"
+    }
+  },
+  {
     "id": "uV1hnkWhEEs",
     "title": "【 15万人耐久 】歌枠＆雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS",
     "type": "stream",
@@ -552,45 +611,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "x6CAawiiN14",
-    "title": "【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり！【ホロライブ/白上フブキ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T09:49:28.000Z",
-    "available_at": "2024-12-24T12:00:45.000Z",
-    "duration": 5811,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "MzIFY_5hC-o",
-    "title": "【 メリークリスマス 】ASMR【荒咬オウガ /ホロスターズ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-12-24T09:34:59.000Z",
-    "available_at": "2024-12-24T11:02:19.000Z",
-    "duration": 4093,
-    "status": "past",
-    "channel": {
-      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-      "name": "Oga Ch.荒咬オウガ",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aragami Oga"
     }
   },
   {
@@ -1093,26 +1113,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "29GoHnaYGLw",
-    "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-23T11:00:44.000Z",
-    "available_at": "2024-12-24T10:59:53.000Z",
-    "duration": 4482,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/45G_tYF-zPHIIC9q8ZCeXSabbQCOtGgNDuX6mJbf7wyeor94YTeqOmDC3OZ3Wl89I4xq8Fn3nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
