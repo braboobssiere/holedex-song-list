@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T21:25:35.000Z",
-    "available_at": "2024-12-25T23:00:00.000Z",
+    "available_at": "2024-12-25T23:00:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
       "name": "Ceres Fauna Ch. hololive-EN",
@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-25T15:02:55.000Z",
     "available_at": "2024-12-25T16:09:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 26715,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -163,8 +163,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-25T02:51:37.000Z",
     "available_at": "2024-12-25T22:00:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10349,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -236,6 +236,29 @@
     }
   },
   {
+    "id": "MK2zTP_Y1fo",
+    "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T18:13:31.000Z",
+    "available_at": "2024-12-24T13:05:12.000Z",
+    "duration": 17490,
+    "status": "past",
+    "songcount": 14,
+    "live_tl_count": {
+      "en": 400
+    },
+    "channel": {
+      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
+      "name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nakiri Ayame"
+    }
+  },
+  {
     "id": "3Utxr_XKd4c",
     "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -253,6 +276,45 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "FG5g0t_U6Rg",
+    "title": "【Karaoke / 歌枠】今日イルミネーションの写真上げてるやつは隣に人がいる敵。 / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T17:39:56.000Z",
+    "available_at": "2024-12-24T07:59:15.000Z",
+    "duration": 33526,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "YH5t_Dlox7c",
+    "title": "HOLIDAY KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-24T17:24:12.000Z",
+    "available_at": "2024-12-24T15:06:53.000Z",
+    "duration": 7727,
+    "status": "past",
+    "songcount": 18,
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -343,7 +405,7 @@
     "published_at": "2024-12-24T15:35:25.000Z",
     "available_at": "2024-12-24T15:36:40.000Z",
     "duration": 8869,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -633,29 +695,6 @@
     }
   },
   {
-    "id": "MK2zTP_Y1fo",
-    "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T08:16:49.000Z",
-    "available_at": "2024-12-24T13:05:12.000Z",
-    "duration": 17505,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "en": 400
-    },
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
-    }
-  },
-  {
     "id": "_8KI-dNtSRE",
     "title": "【歌枠】#ホロクリスマス歌枠リレー 盛り上がってるかああああ！！！！😎🎄 【天音かなた/ホロライブ】",
     "type": "stream",
@@ -716,22 +755,23 @@
     }
   },
   {
-    "id": "FG5g0t_U6Rg",
-    "title": "【Karaoke / 歌枠】今日イルミネーションの写真上げてるやつは隣に人がいる敵。 / #燃えろアステル",
+    "id": "iYkiJtchbYs",
+    "title": "【 300+ GUESTS】 2024 Christmas Concert",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-12-24T07:31:33.000Z",
-    "available_at": "2024-12-24T07:59:15.000Z",
-    "duration": 33534,
+    "published_at": "2024-12-24T07:25:13.000Z",
+    "available_at": "2024-12-24T00:05:30.000Z",
+    "duration": 24925,
     "status": "past",
+    "songcount": 1,
     "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "id": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "name": "Obake PAM Ch.",
+      "org": "Independents",
+      "suborg": "plPlayasia",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
+      "photo": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Obake PAM"
     }
   },
   {
@@ -752,26 +792,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Obake PAM"
-    }
-  },
-  {
-    "id": "YH5t_Dlox7c",
-    "title": "HOLIDAY KARAOKE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T06:53:03.000Z",
-    "available_at": "2024-12-24T15:06:53.000Z",
-    "duration": 7722,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -1116,25 +1136,6 @@
     }
   },
   {
-    "id": "MpI0bZf60Vo",
-    "title": "【UNARCHIVED KARAOKE】 I Don't Know Lyrics to X-mas Songs But LET'S GOOOOO",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-23T10:54:22.000Z",
-    "available_at": "2024-12-23T21:59:34.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "name": "Ninomae Ina'nis Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
     "id": "wkM5eMML-Dg",
     "title": "【 #ホロクリスマス歌枠リレー 】最初の枠！クリスマスはホロライブの歌ですごそう！🎄✨【博衣こより/ホロライブ】",
     "type": "stream",
@@ -1328,9 +1329,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-22T01:05:26.000Z",
-    "available_at": "2024-12-26T00:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-25T23:59:55.000Z",
+    "duration": 3545,
+    "status": "past",
     "channel": {
       "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "name": "Shiori Novella Ch. hololive-EN",
