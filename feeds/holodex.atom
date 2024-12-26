@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-26T14:26:04.202Z</updated>
+  <updated>2024-12-26T16:30:56.375Z</updated>
 
   <entry>
     <id>urn:uuid:3ad44fa9-2a8e-5f21-ac94-11a893392672</id>
-    <title><![CDATA[【MV】また、おかえり。/猫又おかゆ ノベルゲーム『おかゆにゅ~~む!』OPテーマ]]></title>
+    <title><![CDATA[【MV】また、おかえり。／猫又おかゆ　ノベルゲーム『おかゆにゅ～～む！』OPテーマ]]></title>
     <link href="https://youtu.be/kFH-KEZGYRk" rel="alternate" type="text/html"/>
     <published>2024-12-26T12:00:06.000Z</published>
     <updated>2024-12-26T12:00:06.000Z</updated>
@@ -21,7 +21,7 @@
 
   <entry>
     <id>urn:uuid:13a35dfb-dc10-5df5-ac97-1ca42a1833c8</id>
-    <title><![CDATA[【歌枠/KARAOKE】やっぱりポルカの歌枠だよ! #ポルカ公演中 【尾丸ポルカ/ホロライブ】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】やっぱりポルカの歌枠だよ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/7fsjSqNn-r4" rel="alternate" type="text/html"/>
     <published>2024-12-26T08:39:52.000Z</published>
     <updated>2024-12-26T08:39:52.000Z</updated>
@@ -35,7 +35,7 @@
 
   <entry>
     <id>urn:uuid:60b57d2b-18b2-58cf-a539-15be4011f8ff</id>
-    <title><![CDATA[【歌枠】サンホラ縛り歌枠 ~Sound Horizon / Elysion 〜楽園幻想物語組曲〜【ホロライブ / AZKi】]]></title>
+    <title><![CDATA[【歌枠】サンホラ縛り歌枠 ～Sound Horizon / Elysion 〜楽園幻想物語組曲〜【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/PxYJRkGH6zY" rel="alternate" type="text/html"/>
     <published>2024-12-26T08:12:14.000Z</published>
     <updated>2024-12-26T08:12:14.000Z</updated>
@@ -146,6 +146,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4a81e889-570b-56f1-90dc-b54bc77523b5</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう!!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/lGa1SdJGwb0" rel="alternate" type="text/html"/>
+    <published>2024-12-25T10:22:45.000Z</published>
+    <updated>2024-12-25T10:22:45.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lGa1SdJGwb0 【LIVE on &lt;t:1735120779:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lGa1SdJGwb0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a78812aa-7e9d-5d16-93ad-6ec754ff12f1</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー】バトンをつなぐぞーー!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/Hjye0GIFwA0" rel="alternate" type="text/html"/>
+    <published>2024-12-25T10:02:49.000Z</published>
+    <updated>2024-12-25T10:02:49.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Hjye0GIFwA0 【LIVE on &lt;t:1735119605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hjye0GIFwA0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ab07bcc9-4b0a-5642-8af7-cd75a4ca4d60</id>
     <title><![CDATA[【ASMR】ヤンデレのあずきちに愛されて眠れないASMR 2024【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/q62fOkvRzpQ" rel="alternate" type="text/html"/>
@@ -157,6 +185,62 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q62fOkvRzpQ 【LIVE on &lt;t:1735135297:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q62fOkvRzpQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dc107eb5-772b-5443-9188-2421604d9821</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/3Utxr_XKd4c" rel="alternate" type="text/html"/>
+    <published>2024-12-25T09:42:48.000Z</published>
+    <updated>2024-12-25T09:42:48.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3Utxr_XKd4c 【LIVE on &lt;t:1735118364:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3Utxr_XKd4c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b414f0d8-dd02-5951-89ec-90251c91988d</id>
+    <title><![CDATA[【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/vDCYxbkXN_k" rel="alternate" type="text/html"/>
+    <published>2024-12-25T09:21:47.000Z</published>
+    <updated>2024-12-25T09:21:47.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vDCYxbkXN_k 【LIVE on &lt;t:1735117193:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vDCYxbkXN_k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:be28d5b4-31dc-56e4-9cac-3116601bdf72</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】えええ!?ホロライブ!?えええ!?クリスマス!?!?【儒烏風亭らでん #ReGLOSS 】]]></title>
+    <link href="https://youtu.be/w3Hgye_QcTM" rel="alternate" type="text/html"/>
+    <published>2024-12-25T09:02:30.000Z</published>
+    <updated>2024-12-25T09:02:30.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=w3Hgye_QcTM 【LIVE on &lt;t:1735115962:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w3Hgye_QcTM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d803c5e0-2d1b-5c8c-af3b-d1123abee3b1</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】今年も最多曲数目指します!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/BDI8EoUxkco" rel="alternate" type="text/html"/>
+    <published>2024-12-25T08:43:12.000Z</published>
+    <updated>2024-12-25T08:43:12.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BDI8EoUxkco 【LIVE on &lt;t:1735114809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BDI8EoUxkco/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -412,20 +496,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:dc107eb5-772b-5443-9188-2421604d9821</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/3Utxr_XKd4c" rel="alternate" type="text/html"/>
-    <published>2024-12-24T17:56:49.000Z</published>
-    <updated>2024-12-24T17:56:49.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3Utxr_XKd4c 【LIVE on &lt;t:1735118364:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3Utxr_XKd4c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:0829a19e-2c2d-51ef-94be-a3634ed32546</id>
     <title><![CDATA[HOLIDAY KARAOKE]]></title>
     <link href="https://youtu.be/YH5t_Dlox7c" rel="alternate" type="text/html"/>
@@ -482,20 +552,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:be28d5b4-31dc-56e4-9cac-3116601bdf72</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】えええ！？ホロライブ！？えええ！？クリスマス！？！？【儒烏風亭らでん #ReGLOSS 】]]></title>
-    <link href="https://youtu.be/w3Hgye_QcTM" rel="alternate" type="text/html"/>
-    <published>2024-12-24T13:59:38.000Z</published>
-    <updated>2024-12-24T13:59:38.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=w3Hgye_QcTM 【LIVE on &lt;t:1735115962:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w3Hgye_QcTM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:aba2131a-9551-5f70-8a53-056b43939abf</id>
     <title><![CDATA[【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり!【ホロライブ/白上フブキ】]]></title>
     <link href="https://youtu.be/x6CAawiiN14" rel="alternate" type="text/html"/>
@@ -524,6 +580,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d9efabd3-8573-5f04-93ff-a6cbfd169bba</id>
+    <title><![CDATA[【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/SIp41_h5aus" rel="alternate" type="text/html"/>
+    <published>2024-12-24T12:00:24.000Z</published>
+    <updated>2024-12-24T12:00:24.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SIp41_h5aus 【LIVE on &lt;t:1735293600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SIp41_h5aus/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:db634213-0100-5d00-ab25-516d13b815cf</id>
     <title><![CDATA[【歌枠】メリークリスマス・イヴ!今夜は歌うぞ~🎤 【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/lgVbujxd94w" rel="alternate" type="text/html"/>
@@ -535,20 +605,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lgVbujxd94w 【LIVE on &lt;t:1735034518:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lgVbujxd94w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d803c5e0-2d1b-5c8c-af3b-d1123abee3b1</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】今年も最多曲数目指します！！【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/BDI8EoUxkco" rel="alternate" type="text/html"/>
-    <published>2024-12-24T11:51:50.000Z</published>
-    <updated>2024-12-24T11:51:50.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BDI8EoUxkco 【LIVE on &lt;t:1735114809:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BDI8EoUxkco/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -580,20 +636,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b414f0d8-dd02-5951-89ec-90251c91988d</id>
-    <title><![CDATA[【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/vDCYxbkXN_k" rel="alternate" type="text/html"/>
-    <published>2024-12-24T07:45:45.000Z</published>
-    <updated>2024-12-24T07:45:45.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vDCYxbkXN_k 【LIVE on &lt;t:1735117193:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vDCYxbkXN_k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:fc11acff-fe53-5803-a8cf-8e71cdba35bc</id>
     <title><![CDATA[【Original Song】 World Wide Carol]]></title>
     <link href="https://youtu.be/xbJtxDr6L7k" rel="alternate" type="text/html"/>
@@ -608,20 +650,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4a81e889-570b-56f1-90dc-b54bc77523b5</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/lGa1SdJGwb0" rel="alternate" type="text/html"/>
-    <published>2024-12-24T03:02:48.000Z</published>
-    <updated>2024-12-24T03:02:48.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lGa1SdJGwb0 【LIVE on &lt;t:1735120779:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lGa1SdJGwb0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:bcb526a2-47f3-5560-a6f3-3dde9c7edaac</id>
     <title><![CDATA[【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/DEbGq2ItFOU" rel="alternate" type="text/html"/>
@@ -633,20 +661,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DEbGq2ItFOU 【LIVE on &lt;t:1734991383:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DEbGq2ItFOU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a78812aa-7e9d-5d16-93ad-6ec754ff12f1</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー】バトンをつなぐぞーー！【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/Hjye0GIFwA0" rel="alternate" type="text/html"/>
-    <published>2024-12-23T19:30:02.000Z</published>
-    <updated>2024-12-23T19:30:02.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Hjye0GIFwA0 【LIVE on &lt;t:1735119605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hjye0GIFwA0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2453,20 +2467,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xaDT3N7kFHA 【LIVE on &lt;t:1715180554:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xaDT3N7kFHA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cc040271-562a-583d-a02a-d343257163bb</id>
-    <title><![CDATA[【ASMR/KU100】こどもの日♡ノエル先生がおこちゃまなキミをあまやかしつつお耳の掃除する♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/onokVLKPP7w" rel="alternate" type="text/html"/>
-    <published>2024-05-05T15:39:34.000Z</published>
-    <updated>2024-05-05T15:39:34.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=onokVLKPP7w 【LIVE on &lt;t:1714917609:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/onokVLKPP7w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
