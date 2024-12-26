@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-26T08:31:10.890Z</updated>
+  <updated>2024-12-26T10:29:10.039Z</updated>
+
+  <entry>
+    <id>urn:uuid:13a35dfb-dc10-5df5-ac97-1ca42a1833c8</id>
+    <title><![CDATA[【歌枠/KARAOKE】やっぱりポルカの歌枠だよ! #ポルカ公演中 【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/7fsjSqNn-r4" rel="alternate" type="text/html"/>
+    <published>2024-12-26T08:39:52.000Z</published>
+    <updated>2024-12-26T08:39:52.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7fsjSqNn-r4 【LIVE on &lt;t:1735218000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7fsjSqNn-r4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:60b57d2b-18b2-58cf-a539-15be4011f8ff</id>
@@ -132,6 +146,62 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6c95e50f-206f-5360-a8a6-ad829a21ae23</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー 】クリスマス!貴方に歌を届けたいっ✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/RcCNvrGmwDY" rel="alternate" type="text/html"/>
+    <published>2024-12-25T04:41:43.000Z</published>
+    <updated>2024-12-25T04:41:43.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RcCNvrGmwDY 【LIVE on &lt;t:1735099213:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RcCNvrGmwDY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:90ee3a61-6855-5cad-beea-5e0d4cd0fe71</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー】3番目ノエル!ノエサンタと楽しく歌おう~ッ🎄🎁🎶【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/j-NWWqVufEM" rel="alternate" type="text/html"/>
+    <published>2024-12-25T04:02:19.000Z</published>
+    <updated>2024-12-25T04:02:19.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=j-NWWqVufEM 【LIVE on &lt;t:1735098015:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j-NWWqVufEM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:15acf226-8ed6-54ba-98c2-d910595e0482</id>
+    <title><![CDATA[【 #ホロライブ歌枠リレー 】12：20~ 2番手!歌います!【大神ミオ】]]></title>
+    <link href="https://youtu.be/COCE2eXlkh0" rel="alternate" type="text/html"/>
+    <published>2024-12-25T03:42:20.000Z</published>
+    <updated>2024-12-25T03:42:20.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=COCE2eXlkh0 【LIVE on &lt;t:1735096809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/COCE2eXlkh0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9ecf2e5c-274a-5fc6-be91-325f2a5dd0d2</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】最初の枠!クリスマスはホロライブの歌ですごそう!🎄✨【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/wkM5eMML-Dg" rel="alternate" type="text/html"/>
+    <published>2024-12-25T03:22:57.000Z</published>
+    <updated>2024-12-25T03:22:57.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wkM5eMML-Dg 【LIVE on &lt;t:1735095603:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wkM5eMML-Dg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e662eb06-854d-562e-97ef-807a2b6d9845</id>
     <title><![CDATA[【UNARCHIVED】gremlin christmas karaoke shoebox hangout]]></title>
     <link href="https://youtu.be/xQqh7ALpcmw" rel="alternate" type="text/html"/>
@@ -171,20 +241,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-cmaugUD9Rw 【LIVE on &lt;t:1735108810:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-cmaugUD9Rw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6c95e50f-206f-5360-a8a6-ad829a21ae23</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー 】クリスマス！貴方に歌を届けたいっ✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/RcCNvrGmwDY" rel="alternate" type="text/html"/>
-    <published>2024-12-24T18:19:03.000Z</published>
-    <updated>2024-12-24T18:19:03.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RcCNvrGmwDY 【LIVE on &lt;t:1735099213:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RcCNvrGmwDY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -328,20 +384,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:15acf226-8ed6-54ba-98c2-d910595e0482</id>
-    <title><![CDATA[【 #ホロライブ歌枠リレー 】１２：２０～ ２番手！歌います！【大神ミオ】]]></title>
-    <link href="https://youtu.be/COCE2eXlkh0" rel="alternate" type="text/html"/>
-    <published>2024-12-24T13:44:11.000Z</published>
-    <updated>2024-12-24T13:44:11.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=COCE2eXlkh0 【LIVE on &lt;t:1735096809:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/COCE2eXlkh0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:aba2131a-9551-5f70-8a53-056b43939abf</id>
     <title><![CDATA[【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり!【ホロライブ/白上フブキ】]]></title>
     <link href="https://youtu.be/x6CAawiiN14" rel="alternate" type="text/html"/>
@@ -454,20 +496,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:90ee3a61-6855-5cad-beea-5e0d4cd0fe71</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー】3番目ノエル！ノエサンタと楽しく歌おう～ッ🎄🎁🎶【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/j-NWWqVufEM" rel="alternate" type="text/html"/>
-    <published>2024-12-24T07:54:17.000Z</published>
-    <updated>2024-12-24T07:54:17.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=j-NWWqVufEM 【LIVE on &lt;t:1735098015:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j-NWWqVufEM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b414f0d8-dd02-5951-89ec-90251c91988d</id>
     <title><![CDATA[【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/vDCYxbkXN_k" rel="alternate" type="text/html"/>
@@ -496,20 +524,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f967855a-c559-5f1e-990e-098b46ff1fda</id>
-    <title><![CDATA[【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/qgImSMYMvlY" rel="alternate" type="text/html"/>
-    <published>2024-12-24T04:07:30.000Z</published>
-    <updated>2024-12-24T04:07:30.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qgImSMYMvlY 【LIVE on &lt;t:1735009338:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qgImSMYMvlY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4a81e889-570b-56f1-90dc-b54bc77523b5</id>
     <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/lGa1SdJGwb0" rel="alternate" type="text/html"/>
@@ -521,20 +535,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lGa1SdJGwb0 【LIVE on &lt;t:1735120779:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lGa1SdJGwb0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a4be58d7-f168-56d9-a899-4b42f6da897d</id>
-    <title><![CDATA[【Unarchived X-Mas Karaoke】Caroling With New 3D X-Mas Outfit 🧑‍🎄]]></title>
-    <link href="https://youtu.be/EwG8AaJh7Ls" rel="alternate" type="text/html"/>
-    <published>2024-12-24T02:45:02.000Z</published>
-    <updated>2024-12-24T02:45:02.000Z</updated>
-    <author>
-      <name>Ouro Kronii Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EwG8AaJh7Ls 【LIVE on &lt;t:1735092358:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EwG8AaJh7Ls/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -619,20 +619,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=RiBh7ul_FGg 【LIVE on &lt;t:1735100446:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RiBh7ul_FGg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9ecf2e5c-274a-5fc6-be91-325f2a5dd0d2</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】最初の枠！クリスマスはホロライブの歌ですごそう！🎄✨【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/wkM5eMML-Dg" rel="alternate" type="text/html"/>
-    <published>2024-12-23T08:04:05.000Z</published>
-    <updated>2024-12-23T08:04:05.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wkM5eMML-Dg 【LIVE on &lt;t:1735095603:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wkM5eMML-Dg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
