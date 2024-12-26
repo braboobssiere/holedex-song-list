@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-26T10:29:10.039Z</updated>
+  <updated>2024-12-26T12:48:54.101Z</updated>
+
+  <entry>
+    <id>urn:uuid:3ad44fa9-2a8e-5f21-ac94-11a893392672</id>
+    <title><![CDATA[【MV】また、おかえり。/猫又おかゆ ノベルゲーム『おかゆにゅ~~む!』OPテーマ]]></title>
+    <link href="https://youtu.be/kFH-KEZGYRk" rel="alternate" type="text/html"/>
+    <published>2024-12-26T12:00:06.000Z</published>
+    <updated>2024-12-26T12:00:06.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kFH-KEZGYRk 【LIVE on &lt;t:1735214406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kFH-KEZGYRk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:13a35dfb-dc10-5df5-ac97-1ca42a1833c8</id>
@@ -143,6 +157,104 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q62fOkvRzpQ 【LIVE on &lt;t:1735135297:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q62fOkvRzpQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a87d9d00-8fe8-592a-aa75-39f6de3e80d2</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】この瞬間は僕だけのクリスマスプリンセス【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/gmc5dCDDws0" rel="alternate" type="text/html"/>
+    <published>2024-12-25T06:42:24.000Z</published>
+    <updated>2024-12-25T06:42:24.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gmc5dCDDws0 【LIVE on &lt;t:1735107616:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gmc5dCDDws0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac58c135-67cd-5a11-bd6d-9ef47a32b8c6</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー】めり~はろ~ぼ~!!ろぼサンタクロースも歌うんじゃ~い🎤💝【ホロライブ / ロボ子さん】]]></title>
+    <link href="https://youtu.be/loFy9YoWJrQ" rel="alternate" type="text/html"/>
+    <published>2024-12-25T06:22:16.000Z</published>
+    <updated>2024-12-25T06:22:16.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=loFy9YoWJrQ 【LIVE on &lt;t:1735106389:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/loFy9YoWJrQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:903b7ad8-e52d-534d-bc58-e5cd3b0e2ba3</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマス🎄楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS]]></title>
+    <link href="https://youtu.be/h-o7nRkVwyY" rel="alternate" type="text/html"/>
+    <published>2024-12-25T06:02:34.000Z</published>
+    <updated>2024-12-25T06:02:34.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h-o7nRkVwyY 【LIVE on &lt;t:1735105209:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-o7nRkVwyY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:038151ea-b481-5e3d-b1e2-3b53e3f9bb10</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】心に染みる曲うたうぞ~~~!💘【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/Y0MSUO1PatA" rel="alternate" type="text/html"/>
+    <published>2024-12-25T05:42:45.000Z</published>
+    <updated>2024-12-25T05:42:45.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y0MSUO1PatA 【LIVE on &lt;t:1735103975:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y0MSUO1PatA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e424978b-5ced-53cc-9ecd-29a04c8bab28</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー】メリークリスマスだぞ🎄❣️この20分はポルカタイムだぜ【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MOnqaHgtDdY" rel="alternate" type="text/html"/>
+    <published>2024-12-25T05:22:30.000Z</published>
+    <updated>2024-12-25T05:22:30.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MOnqaHgtDdY 【LIVE on &lt;t:1735102779:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MOnqaHgtDdY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b1a8eda4-d8c0-50ef-a6e0-77d496066c58</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー 】初めてのクリスマス歌枠!🎄✨【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/-_4nXhh3cDQ" rel="alternate" type="text/html"/>
+    <published>2024-12-25T05:01:57.000Z</published>
+    <updated>2024-12-25T05:01:57.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-_4nXhh3cDQ 【LIVE on &lt;t:1735101599:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-_4nXhh3cDQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f52d74fa-a71c-529c-9aca-67d7b34ca908</id>
+    <title><![CDATA[🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか? #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜]]></title>
+    <link href="https://youtu.be/RiBh7ul_FGg" rel="alternate" type="text/html"/>
+    <published>2024-12-25T04:43:00.000Z</published>
+    <updated>2024-12-25T04:43:00.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RiBh7ul_FGg 【LIVE on &lt;t:1735100446:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RiBh7ul_FGg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -300,20 +412,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a87d9d00-8fe8-592a-aa75-39f6de3e80d2</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】この瞬間は僕だけのクリスマスプリンセス【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/gmc5dCDDws0" rel="alternate" type="text/html"/>
-    <published>2024-12-24T16:24:41.000Z</published>
-    <updated>2024-12-24T16:24:41.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gmc5dCDDws0 【LIVE on &lt;t:1735107616:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gmc5dCDDws0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:71b2d209-2830-5cae-bbf6-c5f734d93f98</id>
     <title><![CDATA[【 15万人耐久 】歌枠&雑談沢山話して楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS]]></title>
     <link href="https://youtu.be/uV1hnkWhEEs" rel="alternate" type="text/html"/>
@@ -339,20 +437,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cajOk-JQbMk 【LIVE on &lt;t:1735111184:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cajOk-JQbMk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e424978b-5ced-53cc-9ecd-29a04c8bab28</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー】メリークリスマスだぞ🎄❣️この20分はポルカタイムだぜ【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/MOnqaHgtDdY" rel="alternate" type="text/html"/>
-    <published>2024-12-24T14:39:50.000Z</published>
-    <updated>2024-12-24T14:39:50.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MOnqaHgtDdY 【LIVE on &lt;t:1735102779:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MOnqaHgtDdY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -454,20 +538,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:038151ea-b481-5e3d-b1e2-3b53e3f9bb10</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】心に染みる曲うたうぞ～～～！💘【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/Y0MSUO1PatA" rel="alternate" type="text/html"/>
-    <published>2024-12-24T11:10:18.000Z</published>
-    <updated>2024-12-24T11:10:18.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Y0MSUO1PatA 【LIVE on &lt;t:1735103975:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y0MSUO1PatA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f7fea3ee-4a81-5450-8a68-a2a07a0f354a</id>
     <title><![CDATA[夢屑ケーキ]]></title>
     <link href="https://youtu.be/ynoWf_njG4w" rel="alternate" type="text/html"/>
@@ -566,20 +636,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b1a8eda4-d8c0-50ef-a6e0-77d496066c58</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー 】初めてのクリスマス歌枠！🎄✨【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/-_4nXhh3cDQ" rel="alternate" type="text/html"/>
-    <published>2024-12-23T20:07:06.000Z</published>
-    <updated>2024-12-23T20:07:06.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-_4nXhh3cDQ 【LIVE on &lt;t:1735101599:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-_4nXhh3cDQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a78812aa-7e9d-5d16-93ad-6ec754ff12f1</id>
     <title><![CDATA[【 #ホロクリスマス歌枠リレー】バトンをつなぐぞーー！【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/Hjye0GIFwA0" rel="alternate" type="text/html"/>
@@ -591,62 +647,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Hjye0GIFwA0 【LIVE on &lt;t:1735119605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hjye0GIFwA0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:903b7ad8-e52d-534d-bc58-e5cd3b0e2ba3</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマス🎄楽しく歌うよ〜🎶【FLOW GLOW 水宮枢】#hololiveDEV_IS]]></title>
-    <link href="https://youtu.be/h-o7nRkVwyY" rel="alternate" type="text/html"/>
-    <published>2024-12-23T19:15:25.000Z</published>
-    <updated>2024-12-23T19:15:25.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=h-o7nRkVwyY 【LIVE on &lt;t:1735105209:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-o7nRkVwyY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f52d74fa-a71c-529c-9aca-67d7b34ca908</id>
-    <title><![CDATA[🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか？ #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜]]></title>
-    <link href="https://youtu.be/RiBh7ul_FGg" rel="alternate" type="text/html"/>
-    <published>2024-12-23T15:57:14.000Z</published>
-    <updated>2024-12-23T15:57:14.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RiBh7ul_FGg 【LIVE on &lt;t:1735100446:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RiBh7ul_FGg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ac58c135-67cd-5a11-bd6d-9ef47a32b8c6</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー】めり～はろ～ぼ～！！ろぼサンタクロースも歌うんじゃ～い🎤💝【ホロライブ / ロボ子さん】]]></title>
-    <link href="https://youtu.be/loFy9YoWJrQ" rel="alternate" type="text/html"/>
-    <published>2024-12-23T03:20:52.000Z</published>
-    <updated>2024-12-23T03:20:52.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=loFy9YoWJrQ 【LIVE on &lt;t:1735106389:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/loFy9YoWJrQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a889ee12-f080-5023-9f27-504cd0a20604</id>
-    <title><![CDATA[【UNARCHIVED KARAOKE】Holiday Tunes with the Grim Reaper! XMAS Radio is LIVE! #calliolive]]></title>
-    <link href="https://youtu.be/47--1qtGXo4" rel="alternate" type="text/html"/>
-    <published>2024-12-22T16:11:28.000Z</published>
-    <updated>2024-12-22T16:11:28.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=47--1qtGXo4 【LIVE on &lt;t:1735070389:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/47--1qtGXo4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -689,20 +689,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sZmlnAb0_F4 【LIVE on &lt;t:1734879725:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sZmlnAb0_F4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:760bd55d-bb69-53a3-b2bc-f5a03b2c17d7</id>
-    <title><![CDATA[≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR]]></title>
-    <link href="https://youtu.be/fkz1RRRyog4" rel="alternate" type="text/html"/>
-    <published>2024-12-22T13:48:28.000Z</published>
-    <updated>2024-12-22T13:48:28.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fkz1RRRyog4 【LIVE on &lt;t:1735095834:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fkz1RRRyog4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1557,20 +1543,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xv_B4BUvs8Q 【LIVE on &lt;t:1731852057:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xv_B4BUvs8Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c3d6155f-5107-5590-a5de-4b8039758740</id>
-    <title><![CDATA[TwiLight(Instrumental)]]></title>
-    <link href="https://youtu.be/h2Qyn7XSYYA" rel="alternate" type="text/html"/>
-    <published>2024-11-17T15:00:46.000Z</published>
-    <updated>2024-11-17T15:00:46.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=h2Qyn7XSYYA 【LIVE on &lt;t:1731855646:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h2Qyn7XSYYA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
