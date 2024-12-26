@@ -19,14 +19,33 @@
     }
   },
   {
+    "id": "ymE16RtxDSM",
+    "title": "【デビューから5年】5周年カウントダウン！！！！【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-26T10:50:33.000Z",
+    "available_at": "2024-12-26T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "7fsjSqNn-r4",
     "title": "【歌枠/KARAOKE】やっぱりポルカの歌枠だよ! #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-26T08:39:52.000Z",
-    "available_at": "2024-12-26T13:00:00.000Z",
+    "available_at": "2024-12-26T13:03:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -43,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-26T08:12:14.000Z",
-    "available_at": "2024-12-26T13:00:00.000Z",
+    "available_at": "2024-12-26T13:01:30.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -251,6 +270,106 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "_8KI-dNtSRE",
+    "title": "【歌枠】#ホロクリスマス歌枠リレー 盛り上がってるかああああ!!!!😎🎄   【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T08:22:42.000Z",
+    "available_at": "2024-12-25T08:00:15.000Z",
+    "duration": 1206,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "jWUrGcgpAKE",
+    "title": "【#ホロクリスマス歌枠リレー】16:40~!プレゼントのお届けだ~🎁💖【一条莉々華 / ホロライブ ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T08:04:25.000Z",
+    "available_at": "2024-12-25T07:39:19.000Z",
+    "duration": 1260,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
+    "id": "cajOk-JQbMk",
+    "title": "【 #ホロクリスマス歌枠リレー 】Merry Xmas🎄✨んなサンタがふなふな歌うのら~!!!🎅【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T07:42:22.000Z",
+    "available_at": "2024-12-25T07:19:44.000Z",
+    "duration": 1220,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "OtqKkWzVUCU",
+    "title": "【#ホロクリスマス歌枠リレー】みんなと初めてのクリスマス!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T07:22:23.000Z",
+    "available_at": "2024-12-25T07:01:38.000Z",
+    "duration": 1079,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "-cmaugUD9Rw",
+    "title": "【 #ホロクリスマス歌枠リレー 】メリクリだ~~~!一緒にすごそ♡【ホロライブ/沙花叉クロヱ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-25T07:02:16.000Z",
+    "available_at": "2024-12-25T06:40:10.000Z",
+    "duration": 1207,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -499,46 +618,6 @@
     }
   },
   {
-    "id": "jWUrGcgpAKE",
-    "title": "【#ホロクリスマス歌枠リレー】16:40～！プレゼントのお届けだ～🎁💖【一条莉々華 / ホロライブ ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T02:35:05.000Z",
-    "available_at": "2024-12-25T07:39:19.000Z",
-    "duration": 1390,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "-cmaugUD9Rw",
-    "title": "【 #ホロクリスマス歌枠リレー 】メリクリだ～～～！一緒にすごそ♡【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T18:47:03.000Z",
-    "available_at": "2024-12-25T06:40:10.000Z",
-    "duration": 1197,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "MK2zTP_Y1fo",
     "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -658,26 +737,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "cajOk-JQbMk",
-    "title": "【 #ホロクリスマス歌枠リレー 】Merry Xmas🎄✨んなサンタがふなふな歌うのら～！！！🎅【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T16:08:43.000Z",
-    "available_at": "2024-12-25T07:19:44.000Z",
-    "duration": 1222,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -918,26 +977,6 @@
     }
   },
   {
-    "id": "_8KI-dNtSRE",
-    "title": "【歌枠】#ホロクリスマス歌枠リレー 盛り上がってるかああああ！！！！😎🎄 【天音かなた/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T08:03:23.000Z",
-    "available_at": "2024-12-25T08:00:15.000Z",
-    "duration": 1202,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "vDCYxbkXN_k",
     "title": "【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】",
     "type": "stream",
@@ -1119,26 +1158,6 @@
     }
   },
   {
-    "id": "OtqKkWzVUCU",
-    "title": "【＃ホロクリスマス歌枠リレー】みんなと初めてのクリスマス！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-23T21:04:45.000Z",
-    "available_at": "2024-12-25T07:01:38.000Z",
-    "duration": 1120,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0NYd0NnC9mCjdu6t_i-JylPkwpz-o3IZ1eLqgG4MdXS-KUPrP36e71UysuoV9eZA1-TRG3gZ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
     "id": "Hjye0GIFwA0",
     "title": "【 #ホロクリスマス歌枠リレー】バトンをつなぐぞーー！【虎金妃笑虎】",
     "type": "stream",
@@ -1179,15 +1198,15 @@
   },
   {
     "id": "UjRStwig2WE",
-    "title": "【#BIG3】BIG3!遅れてやってきたクリスマス会しゅばあああああああああああああああ【ホロライブ/大空スバル】",
+    "title": "【#BIG3】BIG3！遅れてやってきたクリスマス会しゅばあああああああああああああああ【ホロライブ/大空スバル】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-23T17:33:48.000Z",
     "available_at": "2024-12-26T12:00:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3517,
+    "status": "past",
     "live_tl_count": {
-      "en": 77
+      "en": 86
     },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -2550,7 +2569,7 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
     }
   },
@@ -5190,25 +5209,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "I-9_6BZhcfs",
-    "title": "【ポルカの伝説】ポルカの4周年グッズダイレクトマーケティング",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-09-12T10:00:07.000Z",
-    "available_at": "2024-09-12T10:00:07.000Z",
-    "duration": 681,
-    "status": "past",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KE2NpU0fd43SXO-G46SSyPOEgyjHW7FnU_SAly2t5URFS4X-I85ILTAOzhrSZ6_3_jU4d6IjRvY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
