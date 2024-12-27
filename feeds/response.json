@@ -1,13 +1,36 @@
 [
   {
+    "id": "Z2K1H9D0DZ8",
+    "title": "片羽 / 天音かなた(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-27T11:00:06.000Z",
+    "available_at": "2024-12-27T11:00:06.000Z",
+    "duration": 245,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "d1GdN1cadXU",
     "title": "【歌枠】歌ってみたで投稿したことある曲を歌う枠【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-27T06:58:36.000Z",
-    "available_at": "2024-12-27T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-27T11:02:29.000Z",
+    "duration": 3442,
+    "status": "past",
+    "live_tl_count": {
+      "en": 54
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -58,11 +81,11 @@
   },
   {
     "id": "Y85sgFTGCwU",
-    "title": "【歌枠】歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠】時間遅めになりました(´;ω;`)歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-26T18:06:46.000Z",
-    "available_at": "2024-12-27T13:00:00.000Z",
+    "available_at": "2024-12-27T15:45:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -92,26 +115,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "Z2K1H9D0DZ8",
-    "title": "片羽 / 天音かなた(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-26T13:11:10.000Z",
-    "available_at": "2024-12-27T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
     }
   },
   {
@@ -194,6 +197,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "OvCnlu-NmZQ",
+    "title": "【ASMR MIC】Relaxing at a Cyberpunk Bar! On Christmas?! #calliolive",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-12-26T07:06:01.000Z",
+    "available_at": "2024-12-26T06:01:09.000Z",
+    "duration": 3607,
+    "status": "past",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -1327,25 +1349,6 @@
     "available_at": "2024-12-24T19:59:49.000Z",
     "duration": 33741,
     "status": "missing",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "OvCnlu-NmZQ",
-    "title": "【ASMR MIC RP】Relaxing at a Cyberpunk Bar! On Christmas?! #calliolive",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-12-22T16:01:39.000Z",
-    "available_at": "2024-12-26T06:01:09.000Z",
-    "duration": 3603,
-    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
