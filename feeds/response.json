@@ -123,13 +123,13 @@
   },
   {
     "id": "A-7shP54rzc",
-    "title": "【歌枠】楽しく歌って告知します!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
+    "title": "【歌枠】楽しく歌って告知します！！ Singing Stream🎤【角巻わため/ホロライブ４期生】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-26T15:50:53.000Z",
     "available_at": "2024-12-27T13:01:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 23223,
+    "status": "past",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -138,6 +138,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
+    "id": "UjRStwig2WE",
+    "title": "【#BIG3】BIG3!遅れてやってきたクリスマス会しゅばあああああああああああああああ【ホロライブ/大空スバル】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-26T13:02:12.000Z",
+    "available_at": "2024-12-26T12:00:15.000Z",
+    "duration": 3497,
+    "status": "past",
+    "live_tl_count": {
+      "en": 86
+    },
+    "channel": {
+      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+      "name": "Subaru Ch. 大空スバル",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Oozora Subaru"
     }
   },
   {
@@ -1338,28 +1360,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "UjRStwig2WE",
-    "title": "【#BIG3】BIG3！遅れてやってきたクリスマス会しゅばあああああああああああああああ【ホロライブ/大空スバル】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-23T17:33:48.000Z",
-    "available_at": "2024-12-26T12:00:15.000Z",
-    "duration": 3517,
-    "status": "past",
-    "live_tl_count": {
-      "en": 86
-    },
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
