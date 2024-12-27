@@ -71,8 +71,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-26T23:06:56.000Z",
     "available_at": "2024-12-27T01:54:36.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 59421,
+    "status": "past",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -104,13 +104,13 @@
   },
   {
     "id": "Y85sgFTGCwU",
-    "title": "【歌枠】時間遅めになりました(´;ω;`)歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠】時間遅めになりました(´;ω;｀)歌うぞおおおおおおおおおおおおオオオ！！！！【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-26T18:06:46.000Z",
     "available_at": "2024-12-27T15:51:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5723,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -142,7 +142,7 @@
   },
   {
     "id": "kFH-KEZGYRk",
-    "title": "【MV】また、おかえり。／猫又おかゆ　ノベルゲーム『おかゆにゅ～～む！』OPテーマ",
+    "title": "【MV】また、おかえり。/猫又おかゆ ノベルゲーム『おかゆにゅ~~む!』OPテーマ",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2024-12-26T12:00:06.000Z",
@@ -158,6 +158,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "HtfCvMFxheU",
+    "title": "【5周年振り返り】グッズのお知らせと5周年のネタバラシ!【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-12-26T11:56:06.000Z",
+    "available_at": "2024-12-26T11:02:21.000Z",
+    "duration": 2916,
+    "status": "past",
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
     }
   },
   {
@@ -258,25 +277,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "HtfCvMFxheU",
-    "title": "【5周年振り返り】グッズのお知らせと5周年のネタバラシ！【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-12-26T05:37:27.000Z",
-    "available_at": "2024-12-26T11:02:21.000Z",
-    "duration": 2921,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
