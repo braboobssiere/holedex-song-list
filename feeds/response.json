@@ -1,5 +1,24 @@
 [
   {
+    "id": "tkBPUV0Cckc",
+    "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-26T23:06:56.000Z",
+    "available_at": "2024-12-27T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "Y85sgFTGCwU",
     "title": "【歌枠】歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -66,6 +85,7 @@
     "available_at": "2024-12-26T12:00:06.000Z",
     "duration": 105,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -279,7 +299,7 @@
     "published_at": "2024-12-25T12:09:39.000Z",
     "available_at": "2024-12-25T14:30:50.000Z",
     "duration": 9718,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 79
     },
@@ -1018,26 +1038,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "lgVbujxd94w",
-    "title": "【歌枠】メリークリスマス・イヴ!今夜は歌うぞ~🎤 【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T11:52:49.000Z",
-    "available_at": "2024-12-24T10:01:58.000Z",
-    "duration": 6167,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -2327,7 +2327,7 @@
       "org": "Hololive",
       "suborg": "kcIndonesia 2nd Gen (holoro)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Wp-qrvmEyR4I4CcqrzbERgqjZkKWpptZTV9veusoh9ZeIdBTx7WfUB3uT8bnMp5ApebFERHZ9I=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
     }
   },
