@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-28T02:51:37.898Z</updated>
+  <updated>2024-12-28T04:29:16.270Z</updated>
 
   <entry>
     <id>urn:uuid:92bbf82b-7b57-5130-9682-94ebbdeaa101</id>
@@ -15,7 +15,7 @@
       <name>Pavolia Reine Ch. hololive-ID</name>
       <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4jeS8tZC-AA 【LIVE on &lt;t:1735354800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4jeS8tZC-AA 【LIVE on &lt;t:1735354819:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4jeS8tZC-AA/maxresdefault.jpg"/>
   </entry>
 
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tkBPUV0Cckc 【LIVE on &lt;t:1735264476:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tkBPUV0Cckc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:afbfdba5-3a08-5b60-b241-c33371697abe</id>
+    <title><![CDATA[【3D LIVE】『Pleides』Ninomae Ina'nis 2024 Live #Pleides3D]]></title>
+    <link href="https://youtu.be/3n9igJnSXtQ" rel="alternate" type="text/html"/>
+    <published>2024-12-26T18:15:45.000Z</published>
+    <updated>2024-12-26T18:15:45.000Z</updated>
+    <author>
+      <name>Ninomae Ina'nis Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3n9igJnSXtQ 【LIVE on &lt;t:1735354816:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3n9igJnSXtQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
