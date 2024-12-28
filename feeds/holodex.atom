@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-28T10:27:25.324Z</updated>
+  <updated>2024-12-28T12:45:33.501Z</updated>
+
+  <entry>
+    <id>urn:uuid:fc625fee-2b63-5513-bc91-9e8b4af17473</id>
+    <title><![CDATA[【歌枠/KARAOKE】歌い納め!?のんびり過ごそう~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/Qt0qRZziPyU" rel="alternate" type="text/html"/>
+    <published>2024-12-28T12:20:51.000Z</published>
+    <updated>2024-12-28T12:20:51.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Qt0qRZziPyU 【LIVE on &lt;t:1735392600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Qt0qRZziPyU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cd8a36b3-0904-5f88-86e8-c89c3742bd84</id>

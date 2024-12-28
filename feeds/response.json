@@ -1,13 +1,32 @@
 [
   {
+    "id": "Qt0qRZziPyU",
+    "title": "【歌枠/KARAOKE】歌い納め!?のんびり過ごそう~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-28T12:20:51.000Z",
+    "available_at": "2024-12-28T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "QrM2c7nOWEo",
     "title": "【歌枠】KAWAII SONG♪【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-28T08:09:16.000Z",
     "available_at": "2024-12-28T10:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4443,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -1261,25 +1280,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Obake PAM"
-    }
-  },
-  {
-    "id": "9YAB3pA5HCM",
-    "title": "HOLIDAY KARAOKE  | NO ARCHIVE PART",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T06:51:56.000Z",
-    "available_at": "2024-12-24T14:00:52.000Z",
-    "duration": 3918,
-    "status": "missing",
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {
