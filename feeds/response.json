@@ -1,13 +1,32 @@
 [
   {
+    "id": "7bu0izAUGf4",
+    "title": "【歌枠KARAOKE】NIGHT SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-28T13:29:37.000Z",
+    "available_at": "2024-12-28T14:00:33.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "Qt0qRZziPyU",
     "title": "【歌枠/KARAOKE】歌い納め!?のんびり過ごそう~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-28T12:20:51.000Z",
-    "available_at": "2024-12-28T13:30:00.000Z",
+    "available_at": "2024-12-28T13:31:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -1104,26 +1123,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/AD2BC7S_QlNSZEHrM-pyRR0C9DOPnfK2OnuFjTK8F842WydS1HDMe6TvhESY9Er96Kt3yu0-fQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "YH5t_Dlox7c",
-    "title": "HOLIDAY KARAOKE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T17:24:12.000Z",
-    "available_at": "2024-12-24T15:06:53.000Z",
-    "duration": 7727,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bF91weVtAIL7Uhnr2HVwtCTLVKK5kVsn4FC_Ze3Gl8rkSsEjDwyey3AbQ1PDfJQ1Oeac5cePeg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {

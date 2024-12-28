@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-28T12:45:33.501Z</updated>
+  <updated>2024-12-28T14:24:20.123Z</updated>
+
+  <entry>
+    <id>urn:uuid:c464f5b6-7e47-504a-9975-886c7e9ed537</id>
+    <title><![CDATA[【歌枠KARAOKE】NIGHT SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】]]></title>
+    <link href="https://youtu.be/7bu0izAUGf4" rel="alternate" type="text/html"/>
+    <published>2024-12-28T13:29:37.000Z</published>
+    <updated>2024-12-28T13:29:37.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7bu0izAUGf4 【LIVE on &lt;t:1735394433:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bu0izAUGf4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:fc625fee-2b63-5513-bc91-9e8b4af17473</id>
@@ -15,7 +29,7 @@
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Qt0qRZziPyU 【LIVE on &lt;t:1735392600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Qt0qRZziPyU 【LIVE on &lt;t:1735392703:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Qt0qRZziPyU/maxresdefault.jpg"/>
   </entry>
 
@@ -591,20 +605,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wkM5eMML-Dg 【LIVE on &lt;t:1735095603:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wkM5eMML-Dg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0829a19e-2c2d-51ef-94be-a3634ed32546</id>
-    <title><![CDATA[HOLIDAY KARAOKE]]></title>
-    <link href="https://youtu.be/YH5t_Dlox7c" rel="alternate" type="text/html"/>
-    <published>2024-12-24T17:24:12.000Z</published>
-    <updated>2024-12-24T17:24:12.000Z</updated>
-    <author>
-      <name>Airani Iofifteen Channel hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YH5t_Dlox7c 【LIVE on &lt;t:1735052813:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YH5t_Dlox7c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
