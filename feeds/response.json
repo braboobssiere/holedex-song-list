@@ -48,8 +48,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-28T13:29:37.000Z",
     "available_at": "2024-12-28T14:00:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10357,
+    "status": "past",
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive-ID",
@@ -62,13 +62,13 @@
   },
   {
     "id": "Qt0qRZziPyU",
-    "title": "【歌枠/KARAOKE】歌い納め!?のんびり過ごそう~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】歌い納め！？のんびり過ごそう～！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-28T12:20:51.000Z",
     "available_at": "2024-12-28T13:31:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10827,
+    "status": "past",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -180,6 +180,29 @@
     }
   },
   {
+    "id": "d1GdN1cadXU",
+    "title": "【歌枠】歌ってみたで投稿したことある曲を歌う枠【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-27T12:03:30.000Z",
+    "available_at": "2024-12-27T11:02:29.000Z",
+    "duration": 3452,
+    "status": "past",
+    "songcount": 9,
+    "live_tl_count": {
+      "en": 54
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "Z2K1H9D0DZ8",
     "title": "片羽 / 天音かなた(official)",
     "type": "stream",
@@ -216,29 +239,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "d1GdN1cadXU",
-    "title": "【歌枠】歌ってみたで投稿したことある曲を歌う枠【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-27T06:58:36.000Z",
-    "available_at": "2024-12-27T11:02:29.000Z",
-    "duration": 3442,
-    "status": "past",
-    "songcount": 9,
-    "live_tl_count": {
-      "en": 54
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
