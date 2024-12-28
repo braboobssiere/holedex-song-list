@@ -1,24 +1,5 @@
 [
   {
-    "id": "t3p-hllEVIM",
-    "title": "【 #かなけん3DLIVE 】3人でかなけんLIVEの振り返りや裏話などはなす!!!【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-27T20:48:33.000Z",
-    "available_at": "2024-12-28T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
     "id": "OkrqbyCiTMI",
     "title": "【 活動5周年カウントダウン 】12月29日で5周年!一緒にお祝いしてくれる?【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -46,6 +27,7 @@
     "available_at": "2024-12-27T14:02:57.000Z",
     "duration": 6275,
     "status": "past",
+    "songcount": 14,
     "live_tl_count": {
       "en": 21
     },
@@ -149,6 +131,7 @@
     "available_at": "2024-12-27T15:51:57.000Z",
     "duration": 5723,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -190,6 +173,7 @@
     "available_at": "2024-12-27T13:01:23.000Z",
     "duration": 23223,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -5516,6 +5500,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VL9aJ1o3yrN_xzHKTX0PvArQjUDHhtWtOtAYWjpzkqoFxR5HHWmWRWNgu6M5l4nSibqLaeKXqA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kaela Kovalskia"
+    }
+  },
+  {
+    "id": "QP1d5nONVXY",
+    "title": "LET'S GET 10,000 STEPS TOGETHER! | Let's go for a walk 🎼",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-08-29T02:07:46.000Z",
+    "available_at": "2024-08-28T23:55:43.000Z",
+    "duration": 7341,
+    "status": "past",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
     }
   },
   {
