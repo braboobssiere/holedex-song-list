@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-29T14:24:09.079Z</updated>
+  <updated>2024-12-29T16:28:49.581Z</updated>
+
+  <entry>
+    <id>urn:uuid:92744897-6670-536b-a6be-e9682d5daa53</id>
+    <title><![CDATA[Revival]]></title>
+    <link href="https://youtu.be/1WrF5BqgOCs" rel="alternate" type="text/html"/>
+    <published>2024-12-29T15:01:24.000Z</published>
+    <updated>2024-12-29T15:01:24.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1WrF5BqgOCs 【LIVE on &lt;t:1735484484:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1WrF5BqgOCs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1a14cf54-0168-5308-a61d-9ca1e4781ede</id>
+    <title><![CDATA[【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお!!!【一条莉々華 / ホロライブ ReGLOSS】]]></title>
+    <link href="https://youtu.be/ZU8jJqWsN2I" rel="alternate" type="text/html"/>
+    <published>2024-12-29T13:44:58.000Z</published>
+    <updated>2024-12-29T13:44:58.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZU8jJqWsN2I 【LIVE on &lt;t:1735549200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZU8jJqWsN2I/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a3df3539-59d3-57ed-b8ff-5c2d45eea4ba</id>
@@ -1515,20 +1543,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=41f02t3Yg40 【LIVE on &lt;t:1732334706:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/41f02t3Yg40/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3c14ae76-3a15-513d-b1bd-0c41333cac9e</id>
-    <title><![CDATA[【Official MV】本噛ぷれしゃすモーメント / 戌神ころね]]></title>
-    <link href="https://youtu.be/-rugMs1shyA" rel="alternate" type="text/html"/>
-    <published>2024-11-21T09:00:06.000Z</published>
-    <updated>2024-11-21T09:00:06.000Z</updated>
-    <author>
-      <name>Korone Ch. 戌神ころね</name>
-      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-rugMs1shyA 【LIVE on &lt;t:1732179606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-rugMs1shyA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
