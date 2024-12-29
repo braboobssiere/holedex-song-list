@@ -124,8 +124,8 @@
     "topic_id": "Anniversary",
     "published_at": "2024-12-28T04:10:09.000Z",
     "available_at": "2024-12-28T21:57:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4004,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -173,6 +173,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
+    "id": "A-7shP54rzc",
+    "title": "【歌枠】楽しく歌って告知します!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-27T19:47:18.000Z",
+    "available_at": "2024-12-27T13:01:23.000Z",
+    "duration": 23228,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
+    "id": "Y85sgFTGCwU",
+    "title": "【歌枠】時間遅めになりました(´;ω;`)歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-27T17:41:09.000Z",
+    "available_at": "2024-12-27T15:51:57.000Z",
+    "duration": 5729,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -268,7 +308,7 @@
     "published_at": "2024-12-26T23:06:56.000Z",
     "available_at": "2024-12-27T01:54:36.000Z",
     "duration": 59421,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -300,26 +340,6 @@
     }
   },
   {
-    "id": "Y85sgFTGCwU",
-    "title": "【歌枠】時間遅めになりました(´;ω;｀)歌うぞおおおおおおおおおおおおオオオ！！！！【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-26T18:06:46.000Z",
-    "available_at": "2024-12-27T15:51:57.000Z",
-    "duration": 5723,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qufYdKqJ9VaUNhkP3_Wv0RranzAiwtvtOoxI_NRNMP6pCFa3lMnUKXRPd7EL4x-5OlDFp1BSpFE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "ymE16RtxDSM",
     "title": "【デビューから5年】5周年カウントダウン!!!!【天音かなた/ホロライブ】",
     "type": "stream",
@@ -339,26 +359,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "A-7shP54rzc",
-    "title": "【歌枠】楽しく歌って告知します！！ Singing Stream🎤【角巻わため/ホロライブ４期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-26T15:50:53.000Z",
-    "available_at": "2024-12-27T13:01:23.000Z",
-    "duration": 23223,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
