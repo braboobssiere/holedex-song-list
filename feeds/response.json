@@ -1,13 +1,32 @@
 [
   {
+    "id": "zSghyrzIm6E",
+    "title": "【ASMR】Talk with me while I play with your ears mwehehe",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-12-30T13:00:39.000Z",
+    "available_at": "2024-12-30T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjLEmnpCNeisMxy134KPwWw",
+      "name": "Kobo Kanaeru Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kobo Kanaeru"
+    }
+  },
+  {
     "id": "_BPufmGQ-hg",
-    "title": "【Karaoke / 歌枠】TY!!!!!!!!!!!!!!!! / #燃えろアステル",
+    "title": "【Karaoke / 歌枠】TY！！！！！！！！！！！！！！！！ / #燃えろアステル",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T12:43:32.000Z",
-    "available_at": "2024-12-30T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-30T13:02:56.000Z",
+    "duration": 3543,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -24,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T12:23:27.000Z",
-    "available_at": "2024-12-30T13:00:00.000Z",
+    "available_at": "2024-12-30T13:02:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -100,9 +119,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T10:50:24.000Z",
-    "available_at": "2024-12-30T13:00:00.000Z",
+    "available_at": "2024-12-30T13:00:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -119,9 +138,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T09:11:30.000Z",
-    "available_at": "2024-12-30T13:00:00.000Z",
+    "available_at": "2024-12-30T13:01:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
       "name": "Shion Ch. 紫咲シオン",
@@ -182,8 +201,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-29T13:44:58.000Z",
     "available_at": "2024-12-30T09:01:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 19065,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -3601,13 +3620,17 @@
   },
   {
     "id": "4E3zHPh8FaI",
-    "title": "【縦歌枠】歌いおさめ🎤です!りはびり【風真いろは/ホロライブ】",
+    "title": "【縦歌枠】歌いおさめ🎤です！りはびり【風真いろは/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-11-15T09:44:20.000Z",
-    "available_at": "2024-12-30T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2024-12-30T13:01:50.000Z",
+    "duration": 2067,
+    "status": "past",
+    "songcount": 4,
+    "live_tl_count": {
+      "en": 65
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
@@ -6191,28 +6214,6 @@
     "available_at": "2024-05-13T14:04:24.000Z",
     "duration": 3681,
     "status": "past",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "xaDT3N7kFHA",
-    "title": "【 ASMR 】癒しましまし永眠💭Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-05-08T16:38:56.000Z",
-    "available_at": "2024-05-08T15:02:34.000Z",
-    "duration": 5500,
-    "status": "past",
-    "live_tl_count": {
-      "en": 42
-    },
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
