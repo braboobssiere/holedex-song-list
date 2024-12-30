@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2024-12-30T08:31:59.847Z</updated>
+  <updated>2024-12-30T10:30:04.728Z</updated>
 
   <entry>
     <id>urn:uuid:eb7be304-c4da-5a33-a54e-dada8493119d</id>
@@ -15,7 +15,7 @@
       <name>Towa Ch. 常闇トワ</name>
       <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IPkd3OzuM0o 【LIVE on &lt;t:1735552800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IPkd3OzuM0o 【LIVE on &lt;t:1735552971:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IPkd3OzuM0o/maxresdefault.jpg"/>
   </entry>
 
@@ -43,7 +43,7 @@
       <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ZU8jJqWsN2I 【LIVE on &lt;t:1735549200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZU8jJqWsN2I 【LIVE on &lt;t:1735549273:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZU8jJqWsN2I/maxresdefault.jpg"/>
   </entry>
 
@@ -505,7 +505,7 @@
       <name>Koyori ch. 博衣こより - holoX -</name>
       <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yk7DM6qNUAM 【LIVE on &lt;t:1735552800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yk7DM6qNUAM 【LIVE on &lt;t:1735552809:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yk7DM6qNUAM/maxresdefault.jpg"/>
   </entry>
 
@@ -1560,20 +1560,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3466c7c8-9371-542c-bc78-85baa3dac782</id>
-    <title><![CDATA[【MV】DONMAI - Mori Calliope x ASSC Collaboration]]></title>
-    <link href="https://youtu.be/41f02t3Yg40" rel="alternate" type="text/html"/>
-    <published>2024-11-23T04:05:06.000Z</published>
-    <updated>2024-11-23T04:05:06.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=41f02t3Yg40 【LIVE on &lt;t:1732334706:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/41f02t3Yg40/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:6b927dd1-4e3d-5433-bad4-7e81b1876a7c</id>
     <title><![CDATA[【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/TnbY43G4q10" rel="alternate" type="text/html"/>
@@ -1641,6 +1627,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ea_saD8oUJI 【LIVE on &lt;t:1731668415:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ea_saD8oUJI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b7479c77-1ba6-5a9e-ab64-0f18a5d7dd0d</id>
+    <title><![CDATA[【縦歌枠】歌いおさめ🎤です!りはびり【風真いろは/ホロライブ】]]></title>
+    <link href="https://youtu.be/4E3zHPh8FaI" rel="alternate" type="text/html"/>
+    <published>2024-11-15T09:44:20.000Z</published>
+    <updated>2024-11-15T09:44:20.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4E3zHPh8FaI 【LIVE on &lt;t:1735563600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4E3zHPh8FaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>

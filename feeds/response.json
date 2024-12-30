@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T04:16:07.000Z",
-    "available_at": "2024-12-30T10:00:00.000Z",
+    "available_at": "2024-12-30T10:02:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -16,6 +19,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
+    }
+  },
+  {
+    "id": "PLM2FQftRj8",
+    "title": "【オリジナル楽曲MV】NEW ERA/Bratt(奏手イヅル, アステル・レダ)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-30T03:33:21.000Z",
+    "available_at": "2024-12-30T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5Jn_OHkOZhZssXXwWopUQZVwnL16EJivvxTDGqVmp4Cah3nLmVTgZMQmfF-SyuMhtFkncyT9Lw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
     }
   },
   {
@@ -45,9 +67,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-29T13:44:58.000Z",
-    "available_at": "2024-12-30T09:00:00.000Z",
+    "available_at": "2024-12-30T09:01:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -1007,9 +1029,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T07:36:18.000Z",
-    "available_at": "2024-12-30T10:00:00.000Z",
+    "available_at": "2024-12-30T10:00:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 26
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -1421,25 +1446,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "EwG8AaJh7Ls",
-    "title": "【Unarchived X-Mas Karaoke】Caroling With New 3D X-Mas Outfit 🧑‍🎄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T02:45:02.000Z",
-    "available_at": "2024-12-25T02:05:58.000Z",
-    "duration": 7754,
-    "status": "missing",
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
@@ -3245,26 +3251,6 @@
     }
   },
   {
-    "id": "41f02t3Yg40",
-    "title": "【MV】DONMAI - Mori Calliope x ASSC Collaboration",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-23T04:05:06.000Z",
-    "available_at": "2024-11-23T04:05:06.000Z",
-    "duration": 228,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "Uw4Sc65I-O8",
     "title": "【 #メアリ爆誕2024 】お友達に祝ってもらいたい!!重大告知あり☆ 誕生日逆凸!【西園寺メアリ / ななしいんく】",
     "type": "stream",
@@ -3619,6 +3605,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
+    }
+  },
+  {
+    "id": "4E3zHPh8FaI",
+    "title": "【縦歌枠】歌いおさめ🎤です!りはびり【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-15T09:44:20.000Z",
+    "available_at": "2024-12-30T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
