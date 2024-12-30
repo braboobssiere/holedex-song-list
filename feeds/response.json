@@ -1,24 +1,5 @@
 [
   {
-    "id": "zSghyrzIm6E",
-    "title": "【ASMR】Talk with me while I play with your ears mwehehe",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-12-30T13:00:39.000Z",
-    "available_at": "2024-12-30T15:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCjLEmnpCNeisMxy134KPwWw",
-      "name": "Kobo Kanaeru Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Zi6DMbqTrk8jpNKnJgbw_NxGnggsKX1omQnPeHxrZTmrVmon7zfmg5Q4XbqsHO9AMidW49zCPw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kobo Kanaeru"
-    }
-  },
-  {
     "id": "_BPufmGQ-hg",
     "title": "【Karaoke / 歌枠】TY！！！！！！！！！！！！！！！！ / #燃えろアステル",
     "type": "stream",
@@ -39,13 +20,13 @@
   },
   {
     "id": "J54Ob9zB9qU",
-    "title": "【 歌枠 】2024年もありがとうございました!個人枠ラスト!【 桃鈴ねね / hololive 】",
+    "title": "【 歌枠 】2024年もありがとうございました！個人枠ラスト！【 桃鈴ねね / hololive 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T12:23:27.000Z",
     "available_at": "2024-12-30T13:02:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6804,
+    "status": "past",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -63,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-30T12:09:51.000Z",
     "available_at": "2024-12-30T12:32:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11585,
+    "status": "past",
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -84,6 +65,7 @@
     "available_at": "2024-12-30T11:00:06.000Z",
     "duration": 181,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCWsfcksUUpoEvhia0_ut0bA",
       "name": "holostars ホロスターズ - VTuber Group",
@@ -103,6 +85,7 @@
     "available_at": "2024-12-30T10:55:07.000Z",
     "duration": 217,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -115,13 +98,14 @@
   },
   {
     "id": "DetHfhNCt1o",
-    "title": "【歌枠】年内に250万人を迎えたらすごぉーーーくっHAPPYじゃない?【ホロライブ/白上フブキ】",
+    "title": "【歌枠】年内に２５０万人を迎えたらすごぉーーーくっHAPPYじゃない？【ホロライブ/白上フブキ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T10:50:24.000Z",
     "available_at": "2024-12-30T13:00:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6057,
+    "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -196,7 +180,7 @@
   },
   {
     "id": "ZU8jJqWsN2I",
-    "title": "【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお!!!【一条莉々華 / ホロライブ ReGLOSS】",
+    "title": "【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお！！！【一条莉々華 / ホロライブ ReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-29T13:44:58.000Z",
@@ -763,8 +747,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-25T22:16:13.000Z",
     "available_at": "2024-12-30T04:59:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 41376,
+    "status": "past",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -1018,7 +1002,7 @@
   },
   {
     "id": "3Utxr_XKd4c",
-    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T09:42:48.000Z",
@@ -6214,6 +6198,28 @@
     "available_at": "2024-05-13T14:04:24.000Z",
     "duration": 3681,
     "status": "past",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "xaDT3N7kFHA",
+    "title": "【 ASMR 】癒しましまし永眠💭Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-05-08T16:38:56.000Z",
+    "available_at": "2024-05-08T15:02:34.000Z",
+    "duration": 5500,
+    "status": "past",
+    "live_tl_count": {
+      "en": 42
+    },
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
