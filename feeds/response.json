@@ -81,9 +81,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T17:43:39.000Z",
-    "available_at": "2024-12-31T16:00:00.000Z",
+    "available_at": "2024-12-31T16:00:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -305,7 +305,7 @@
     "available_at": "2024-12-30T09:01:13.000Z",
     "duration": 19065,
     "status": "past",
-    "songcount": 47,
+    "songcount": 48,
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "3Utxr_XKd4c",
-    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T09:42:48.000Z",
@@ -1794,8 +1794,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2024-12-20T08:56:44.000Z",
     "available_at": "2024-12-31T13:58:10.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5939,
+    "status": "past",
     "songcount": 24,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
@@ -3530,7 +3530,7 @@
       "org": "Hololive",
       "suborg": "oeHOLOSTARS English -ARMIS-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/cO_4MKUT2rY04iIvMqHtCA3vTSUzJed5Ofps1XaK18-XFX3a4XSWovOTd34htpOBhhKMbfaFqQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
     }
   },
