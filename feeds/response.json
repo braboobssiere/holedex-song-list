@@ -83,7 +83,7 @@
     "published_at": "2024-12-30T17:43:39.000Z",
     "available_at": "2024-12-31T16:00:22.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "live_tl_count": {
       "en": 6
     },
@@ -117,13 +117,33 @@
     }
   },
   {
-    "id": "_BPufmGQ-hg",
-    "title": "【Karaoke / 歌枠】TY！！！！！！！！！！！！！！！！ / #燃えろアステル",
+    "id": "ZU8jJqWsN2I",
+    "title": "【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお!!!【一条莉々華 / ホロライブ ReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2024-12-30T12:43:32.000Z",
+    "published_at": "2024-12-30T14:40:51.000Z",
+    "available_at": "2024-12-30T09:01:13.000Z",
+    "duration": 18750,
+    "status": "past",
+    "songcount": 50,
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
+    "id": "_BPufmGQ-hg",
+    "title": "【Karaoke / 歌枠】TY!!!!!!!!!!!!!!!! / #燃えろアステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-30T14:12:49.000Z",
     "available_at": "2024-12-30T13:02:56.000Z",
-    "duration": 3543,
+    "duration": 3540,
     "status": "past",
     "songcount": 10,
     "channel": {
@@ -134,6 +154,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sr2RTZaWAFF20tSTiXUXp-BYRqWz4dZhFKbCzFS2dneTN5uSE53sSDjePN5dIM_sEz2U9-2qtRs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "4E3zHPh8FaI",
+    "title": "【縦歌枠】歌いおさめ🎤です!りはびり【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-30T13:39:14.000Z",
+    "available_at": "2024-12-30T13:01:50.000Z",
+    "duration": 2075,
+    "status": "past",
+    "songcount": 4,
+    "live_tl_count": {
+      "en": 65
+    },
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -320,26 +363,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "ZU8jJqWsN2I",
-    "title": "【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお！！！【一条莉々華 / ホロライブ ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-29T13:44:58.000Z",
-    "available_at": "2024-12-30T09:01:13.000Z",
-    "duration": 19065,
-    "status": "past",
-    "songcount": 48,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -3623,29 +3646,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "4E3zHPh8FaI",
-    "title": "【縦歌枠】歌いおさめ🎤です！りはびり【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-11-15T09:44:20.000Z",
-    "available_at": "2024-12-30T13:01:50.000Z",
-    "duration": 2067,
-    "status": "past",
-    "songcount": 4,
-    "live_tl_count": {
-      "en": 65
-    },
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
