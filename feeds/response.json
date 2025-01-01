@@ -1,13 +1,35 @@
 [
   {
+    "id": "OaUO2Z4pdRE",
+    "title": "【MV】ChoCoolNiceGuy【歌衣メイカ・オリジナル曲】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-01T10:00:07.000Z",
+    "available_at": "2025-01-01T10:00:07.000Z",
+    "duration": 193,
+    "status": "past",
+    "channel": {
+      "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+      "name": "メイカちゃんねる",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Utai Meika"
+    }
+  },
+  {
     "id": "gz220Njtcuo",
     "title": "【お正月】新年最初の歌枠をします!【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-01T07:42:33.000Z",
-    "available_at": "2025-01-01T10:00:00.000Z",
+    "available_at": "2025-01-01T09:59:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -20,13 +42,13 @@
   },
   {
     "id": "RR_21AtG5Lg",
-    "title": "【#誕生日らしい凸待ち】今日僕、誕生日なの?新春お年玉宝くじ会場※ギャンブラー歓迎【火威青 】#hololiveDEV_IS #ReGLOSS",
+    "title": "【#誕生日らしい凸待ち】今日僕、誕生日なの？新春お年玉宝くじ会場※ギャンブラー歓迎【火威青 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-01T03:15:36.000Z",
     "available_at": "2025-01-01T08:00:52.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5795,
+    "status": "past",
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
       "name": "Ao Ch. 火威青 ‐ ReGLOSS",
@@ -3050,26 +3072,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "vtEfALKX40E",
-    "title": "【組曲2】花譜×星街すいせい # 143「一世風靡」【オリジナルMV】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-11-27T10:00:08.000Z",
-    "available_at": "2024-11-27T10:00:08.000Z",
-    "duration": 198,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
-      "name": "花譜 -KAF-",
-      "org": "KAMITSUBAKI",
-      "suborg": "11PHENOMENON RECORD",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B_LK3jAmQwbFT0f4I4YncBH36qMobvUu7P1wgddH6F8qMUUsBAl0gTn8PCgPs2zv6Z3uDfDR=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "KAF"
     }
   },
   {
