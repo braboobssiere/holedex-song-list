@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-01T20:26:08.491Z</updated>
+  <updated>2025-01-01T22:26:26.165Z</updated>
+
+  <entry>
+    <id>urn:uuid:1263a5a2-7125-5cf1-bb41-c31902c3e0ea</id>
+    <title><![CDATA[【MV】ABOVE BELOW -Far East Remix-【hololive English -Justice-】]]></title>
+    <link href="https://youtu.be/QDhCNXYgdJc" rel="alternate" type="text/html"/>
+    <published>2025-01-01T22:14:43.000Z</published>
+    <updated>2025-01-01T22:14:43.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QDhCNXYgdJc 【LIVE on &lt;t:1735769683:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QDhCNXYgdJc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1bd4239c-588e-5b34-ac57-ce090dff67da</id>
@@ -59,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wlEZTKubQH8 【LIVE on &lt;t:1735814700:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wlEZTKubQH8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:669f8cae-b3fe-5435-afd5-cfeadd4ea9c3</id>
+    <title><![CDATA[hololive production COUNTDOWN LIVE 2024▷2025]]></title>
+    <link href="https://youtu.be/k8Jjwu3YwPo" rel="alternate" type="text/html"/>
+    <published>2024-12-31T15:49:32.000Z</published>
+    <updated>2024-12-31T15:49:32.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k8Jjwu3YwPo 【LIVE on &lt;t:1735653490:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k8Jjwu3YwPo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -902,20 +930,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:669f8cae-b3fe-5435-afd5-cfeadd4ea9c3</id>
-    <title><![CDATA[hololive production COUNTDOWN LIVE 2024▷2025]]></title>
-    <link href="https://youtu.be/k8Jjwu3YwPo" rel="alternate" type="text/html"/>
-    <published>2024-12-20T08:56:44.000Z</published>
-    <updated>2024-12-20T08:56:44.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k8Jjwu3YwPo 【LIVE on &lt;t:1735653490:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k8Jjwu3YwPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f691da12-405f-5a70-970a-1cd652b91788</id>
     <title><![CDATA[星街すいせいを解き明かせ!MV / Stellar Stellar【#AndroidかこってMUSIC】]]></title>
     <link href="https://youtu.be/ZM7gdMkOgtw" rel="alternate" type="text/html"/>
@@ -1459,20 +1473,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=G0dn1WU4kSs 【LIVE on &lt;t:1732885214:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G0dn1WU4kSs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b3b484b1-6a07-5c02-a35a-4ad57d768dc3</id>
-    <title><![CDATA[【KARAOKE OFF-VOCAL】Sweetest Scarlet -- Nerissa Ravencroft🎼]]></title>
-    <link href="https://youtu.be/JYCr7RQTxwI" rel="alternate" type="text/html"/>
-    <published>2024-11-28T17:05:06.000Z</published>
-    <updated>2024-11-28T17:05:06.000Z</updated>
-    <author>
-      <name>Nerissa Ravencroft Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JYCr7RQTxwI 【LIVE on &lt;t:1732813506:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JYCr7RQTxwI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
