@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-31T10:00:51.000Z",
-    "available_at": "2025-01-01T01:00:00.000Z",
+    "available_at": "2025-01-01T01:01:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -95,6 +95,45 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
+    }
+  },
+  {
+    "id": "V-z3ZPdWEPI",
+    "title": "【 歌枠 l KARAOKE 】108曲歌いつつ15.5万人目指したい!!【 水無世燐央 l UPROAR!! 】#vtuber",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-30T17:12:00.000Z",
+    "available_at": "2024-12-30T04:59:21.000Z",
+    "duration": 41356,
+    "status": "past",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "KDLimVFxggU",
+    "title": "【歌枠】告知あり!!2024年最後の配信だ~~!!【ホロライブ/紫咲シオン】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-30T17:04:29.000Z",
+    "available_at": "2024-12-30T13:01:07.000Z",
+    "duration": 13786,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
+      "name": "Shion Ch. 紫咲シオン",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Murasaki Shion"
     }
   },
   {
@@ -320,28 +359,8 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "KDLimVFxggU",
-    "title": "【歌枠】告知あり！！2024年最後の配信だ～～！！【ホロライブ/紫咲シオン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-30T09:11:30.000Z",
-    "available_at": "2024-12-30T13:01:07.000Z",
-    "duration": 13822,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
-      "name": "Shion Ch. 紫咲シオン",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Murasaki Shion"
     }
   },
   {
@@ -906,25 +925,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "V-z3ZPdWEPI",
-    "title": "【 歌枠 l KARAOKE 】108曲歌いつつ15.5万人目指したい！！【 水無世燐央 l UPROAR!! 】#vtuber",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T22:16:13.000Z",
-    "available_at": "2024-12-30T04:59:21.000Z",
-    "duration": 41376,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
@@ -2967,7 +2967,7 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
     }
   },
