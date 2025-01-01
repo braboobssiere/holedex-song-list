@@ -27,7 +27,7 @@
     "available_at": "2024-12-31T13:59:37.000Z",
     "duration": 10179,
     "status": "past",
-    "songcount": 4,
+    "songcount": 9,
     "channel": {
       "id": "UCIBY1ollUsauvVi4hW4cumw",
       "name": "Chloe ch. 沙花叉クロヱ - holoX -",
@@ -45,8 +45,8 @@
     "topic_id": "singing",
     "published_at": "2024-12-31T10:00:51.000Z",
     "available_at": "2025-01-01T01:01:12.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 15307,
+    "status": "past",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-31T09:24:12.000Z",
-    "available_at": "2025-01-01T06:30:00.000Z",
+    "available_at": "2025-01-01T06:25:38.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -74,6 +74,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "ukZxudb9HoM",
+    "title": "【 歌枠 l KARAOKE 】枠開始時点で100曲歌ってます!108曲越えてどこまで歌えるか?!【 水無世燐央 l UPROAR!! 】#vtuber",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-31T00:26:44.000Z",
+    "available_at": "2024-12-30T16:30:01.000Z",
+    "duration": 27331,
+    "status": "past",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
     }
   },
   {
@@ -174,25 +193,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "ukZxudb9HoM",
-    "title": "【 歌枠 l KARAOKE 】枠開始時点で100曲歌ってます！108曲越えてどこまで歌えるか？！【 水無世燐央 l UPROAR!! 】#vtuber",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-30T16:25:28.000Z",
-    "available_at": "2024-12-30T16:30:01.000Z",
-    "duration": 27342,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
@@ -746,6 +746,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "eQvRzSE9PT0",
+    "title": "ゆくホロくるホロ延長戦 もう1本グランプリ【#ゆくホロくるホロ2024】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-27T04:56:55.000Z",
+    "available_at": "2024-12-31T15:30:09.000Z",
+    "duration": 9116,
+    "status": "past",
+    "live_tl_count": {
+      "en": 353
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5401,29 +5423,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "AUu9pSkkgaY",
-    "title": "【3D LIVE】Ray of Jewelry【#ホロ0期生ライブ2024】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-09-07T13:12:07.000Z",
-    "available_at": "2024-09-07T11:59:50.000Z",
-    "duration": 3999,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 87
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
