@@ -67,6 +67,7 @@
     "available_at": "2025-01-01T09:59:50.000Z",
     "duration": 4560,
     "status": "past",
+    "songcount": 11,
     "live_tl_count": {
       "en": 42
     },
@@ -120,6 +121,48 @@
     }
   },
   {
+    "id": "eQvRzSE9PT0",
+    "title": "ゆくホロくるホロ延長戦 もう1本グランプリ【#ゆくホロくるホロ2024】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-31T18:12:30.000Z",
+    "available_at": "2024-12-31T15:30:09.000Z",
+    "duration": 9123,
+    "status": "past",
+    "live_tl_count": {
+      "en": 353
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "d-6BYzBsU3I",
+    "title": "【 歌枠 】いっしょに年越ししよ♡冬っぽい歌とか今年の歌多めに!【ホロライブ/沙花叉クロヱ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-31T16:57:01.000Z",
+    "available_at": "2024-12-31T13:59:37.000Z",
+    "duration": 10177,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
+    }
+  },
+  {
     "id": "k8Jjwu3YwPo",
     "title": "hololive production COUNTDOWN LIVE 2024▷2025",
     "type": "stream",
@@ -137,26 +180,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "d-6BYzBsU3I",
-    "title": "【 歌枠 】いっしょに年越ししよ♡冬っぽい歌とか今年の歌多めに！【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-31T11:36:54.000Z",
-    "available_at": "2024-12-31T13:59:37.000Z",
-    "duration": 10179,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -461,7 +484,7 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/WO7ItKNmy6tW_NQ82g8c1y74CZSw6GsSdynsE5s2csuEok2fHRrAaGcBV3JJO-2BxEOXXA8lvw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
     }
   },
@@ -867,28 +890,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "eQvRzSE9PT0",
-    "title": "ゆくホロくるホロ延長戦 もう1本グランプリ【#ゆくホロくるホロ2024】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-27T04:56:55.000Z",
-    "available_at": "2024-12-31T15:30:09.000Z",
-    "duration": 9116,
-    "status": "past",
-    "live_tl_count": {
-      "en": 353
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
