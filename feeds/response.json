@@ -1,5 +1,25 @@
 [
   {
+    "id": "wlEZTKubQH8",
+    "title": "【MV】みっころね×やってやんよ!! / さくらみこ&戌神ころね (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-02T10:45:07.000Z",
+    "available_at": "2025-01-02T10:45:07.000Z",
+    "duration": 208,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "name": "Korone Ch. 戌神ころね",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Inugami Korone"
+    }
+  },
+  {
     "id": "QDhCNXYgdJc",
     "title": "【MV】ABOVE BELOW -Far East Remix-【hololive English -Justice-】",
     "type": "stream",
@@ -79,26 +99,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "wlEZTKubQH8",
-    "title": "【MV】みっころね×やってやんよ!! / さくらみこ&戌神ころね (official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-01T05:39:34.000Z",
-    "available_at": "2025-01-02T10:45:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
@@ -190,7 +190,7 @@
     "published_at": "2024-12-31T10:00:51.000Z",
     "available_at": "2025-01-01T01:01:12.000Z",
     "duration": 15307,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -329,7 +329,7 @@
     "available_at": "2024-12-30T12:32:01.000Z",
     "duration": 11586,
     "status": "past",
-    "songcount": 67,
+    "songcount": 80,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
