@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-02T18:33:34.979Z</updated>
+  <updated>2025-01-02T20:26:50.094Z</updated>
+
+  <entry>
+    <id>urn:uuid:6cf9f992-ac90-52d1-a4e2-6946fd804672</id>
+    <title><![CDATA[【KARAOKE】SEVEN! #03 ~! 💄]]></title>
+    <link href="https://youtu.be/CsU5lWxCDDI" rel="alternate" type="text/html"/>
+    <published>2025-01-02T20:04:39.000Z</published>
+    <updated>2025-01-02T20:04:39.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CsU5lWxCDDI 【LIVE on &lt;t:1735855200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CsU5lWxCDDI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0f6ca460-78b3-50b8-ac90-e0e4730767fd</id>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OtqKkWzVUCU 【LIVE on &lt;t:1735110098:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OtqKkWzVUCU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5df9cc50-8773-5443-a8ac-3309d9cde575</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】メリクリだ~~~!一緒にすごそ♡【ホロライブ/沙花叉クロヱ】]]></title>
-    <link href="https://youtu.be/-cmaugUD9Rw" rel="alternate" type="text/html"/>
-    <published>2024-12-25T07:02:16.000Z</published>
-    <updated>2024-12-25T07:02:16.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-cmaugUD9Rw 【LIVE on &lt;t:1735108810:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-cmaugUD9Rw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
