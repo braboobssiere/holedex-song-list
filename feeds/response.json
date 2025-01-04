@@ -1,5 +1,24 @@
 [
   {
+    "id": "vcbkinWHPTM",
+    "title": "【KARA-REWIND】December Unarchived Karaoke ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-04T08:05:41.000Z",
+    "available_at": "2025-01-04T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "N-8MTRQ8deY",
     "title": "【歌枠/KARAOKE】ゆるっと歌っていく~~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -405,6 +424,7 @@
     "available_at": "2024-12-30T04:59:21.000Z",
     "duration": 41356,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -1548,26 +1568,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "jWUrGcgpAKE",
-    "title": "【#ホロクリスマス歌枠リレー】16:40~!プレゼントのお届けだ~🎁💖【一条莉々華 / ホロライブ ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T08:04:25.000Z",
-    "available_at": "2024-12-25T07:39:19.000Z",
-    "duration": 1260,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
