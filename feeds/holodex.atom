@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-04T04:29:01.676Z</updated>
+  <updated>2025-01-04T06:32:35.358Z</updated>
+
+  <entry>
+    <id>urn:uuid:fec496d8-f0f0-555f-8db4-13db78399044</id>
+    <title><![CDATA[【歌枠/KARAOKE】ゆるっと歌っていく~~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/N-8MTRQ8deY" rel="alternate" type="text/html"/>
+    <published>2025-01-04T04:38:05.000Z</published>
+    <updated>2025-01-04T04:38:05.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N-8MTRQ8deY 【LIVE on &lt;t:1735966759:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-8MTRQ8deY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4cb0138d-1ac8-5140-ae30-e7465fdb25f2</id>
@@ -23,8 +37,8 @@
     <id>urn:uuid:6cf9f992-ac90-52d1-a4e2-6946fd804672</id>
     <title><![CDATA[【KARAOKE】SEVEN! #03 ~! 💄]]></title>
     <link href="https://youtu.be/CsU5lWxCDDI" rel="alternate" type="text/html"/>
-    <published>2025-01-02T20:04:39.000Z</published>
-    <updated>2025-01-02T20:04:39.000Z</updated>
+    <published>2025-01-02T23:41:07.000Z</published>
+    <updated>2025-01-02T23:41:07.000Z</updated>
     <author>
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jWUrGcgpAKE 【LIVE on &lt;t:1735112359:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jWUrGcgpAKE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7016155e-68cd-520d-857b-29aefcc69916</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】Merry Xmas🎄✨んなサンタがふなふな歌うのら~!!!🎅【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/cajOk-JQbMk" rel="alternate" type="text/html"/>
-    <published>2024-12-25T07:42:22.000Z</published>
-    <updated>2024-12-25T07:42:22.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cajOk-JQbMk 【LIVE on &lt;t:1735111184:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cajOk-JQbMk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
