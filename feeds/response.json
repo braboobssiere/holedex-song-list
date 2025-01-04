@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-04T08:05:41.000Z",
-    "available_at": "2025-01-04T10:00:00.000Z",
+    "available_at": "2025-01-04T09:57:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -20,13 +20,13 @@
   },
   {
     "id": "N-8MTRQ8deY",
-    "title": "【歌枠/KARAOKE】ゆるっと歌っていく~~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】ゆるっと歌っていく～～！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-04T04:38:05.000Z",
     "available_at": "2025-01-04T04:59:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13211,
+    "status": "past",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -424,7 +424,7 @@
     "available_at": "2024-12-30T04:59:21.000Z",
     "duration": 41356,
     "status": "past",
-    "songcount": 16,
+    "songcount": 25,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
