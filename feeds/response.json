@@ -64,7 +64,7 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-01-03T00:34:18.000Z",
-    "available_at": "2025-01-05T01:00:00.000Z",
+    "available_at": "2025-01-05T04:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -1272,7 +1272,7 @@
   },
   {
     "id": "j5NbuZW98XU",
-    "title": "【歌枠】クリスマスの夜最後も歌うぜ！【虎金妃笑虎】",
+    "title": "【歌枠】クリスマスの夜最後も歌うぜ!【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-25T16:35:46.000Z",
@@ -1590,6 +1590,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "LNHcBkqVVu4",
+    "title": "【3D整体】マリンが劇的変化!?新年早々から体のお悩みをスッキリ爽快!!!!!【#マリン船長の三十路式整体術】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-25T06:30:26.000Z",
+    "available_at": "2025-01-05T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -5327,25 +5346,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rosemi Lovelock"
-    }
-  },
-  {
-    "id": "29QS8wMEVCU",
-    "title": "【🎩 3D OFF COLLAB 🪫】 UNARCHIVED KARAOKE, TOGETHER THIS TIME!!! 💙❤️🖤",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-09-14T02:05:20.000Z",
-    "available_at": "2024-09-14T03:37:22.000Z",
-    "duration": 12530,
-    "status": "missing",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
