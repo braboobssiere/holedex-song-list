@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-04T16:29:31.583Z</updated>
+  <updated>2025-01-04T18:32:02.661Z</updated>
 
   <entry>
     <id>urn:uuid:cd622934-f152-5e69-9f78-7f296416e900</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=N-8MTRQ8deY 【LIVE on &lt;t:1735966759:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-8MTRQ8deY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d54d908c-27f8-5d1f-86d4-bb49048de7f8</id>
+    <title><![CDATA[【Members Only】 Practicing my lyre harp!]]></title>
+    <link href="https://youtu.be/ODll2JO1qKs" rel="alternate" type="text/html"/>
+    <published>2025-01-04T01:43:16.000Z</published>
+    <updated>2025-01-04T01:43:16.000Z</updated>
+    <author>
+      <name>Ceres Fauna Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ODll2JO1qKs 【LIVE on &lt;t:1721685611:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ODll2JO1qKs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2173,20 +2187,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yDDTTdEqMbU 【LIVE on &lt;t:1722517469:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yDDTTdEqMbU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d54d908c-27f8-5d1f-86d4-bb49048de7f8</id>
-    <title><![CDATA[【Members Only】 Practicing my lyre harp!]]></title>
-    <link href="https://youtu.be/ODll2JO1qKs" rel="alternate" type="text/html"/>
-    <published>2024-07-22T20:21:09.000Z</published>
-    <updated>2024-07-22T20:21:09.000Z</updated>
-    <author>
-      <name>Ceres Fauna Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ODll2JO1qKs 【LIVE on &lt;t:1721685611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ODll2JO1qKs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
