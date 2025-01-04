@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-04T18:32:02.661Z</updated>
+  <updated>2025-01-04T20:25:15.040Z</updated>
 
   <entry>
     <id>urn:uuid:cd622934-f152-5e69-9f78-7f296416e900</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4b6ab715-676d-5852-9aca-ceb01f64cdc1</id>
+    <title><![CDATA[【新年歌枠】新年新曲うたうぜ!告知もするぜ!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/aqfIAP4va1Q" rel="alternate" type="text/html"/>
+    <published>2025-01-03T13:21:27.000Z</published>
+    <updated>2025-01-03T13:21:27.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aqfIAP4va1Q 【LIVE on &lt;t:1735905562:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aqfIAP4va1Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4cb0138d-1ac8-5140-ae30-e7465fdb25f2</id>
     <title><![CDATA[【新年歌枠】新年のご挨拶＆歌い初め！Happy New Year 2025 Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/4K3rIVYbyN4" rel="alternate" type="text/html"/>
@@ -76,6 +90,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:160ee09e-9c47-545c-9b95-96d9a556ef83</id>
+    <title><![CDATA[ABOVE BELOW -Far East Remix-(Instrumental)]]></title>
+    <link href="https://youtu.be/JDuVdtVcRYs" rel="alternate" type="text/html"/>
+    <published>2025-01-02T15:03:11.000Z</published>
+    <updated>2025-01-02T15:03:11.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JDuVdtVcRYs 【LIVE on &lt;t:1735830191:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JDuVdtVcRYs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:26eeb6ab-1780-5ca6-b6ef-cb253a82711f</id>
+    <title><![CDATA[ABOVE BELOW -Far East Remix-]]></title>
+    <link href="https://youtu.be/X81eBZV5JgI" rel="alternate" type="text/html"/>
+    <published>2025-01-02T15:01:45.000Z</published>
+    <updated>2025-01-02T15:01:45.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=X81eBZV5JgI 【LIVE on &lt;t:1735830105:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X81eBZV5JgI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:0f6ca460-78b3-50b8-ac90-e0e4730767fd</id>
     <title><![CDATA[【MV】みっころね×やってやんよ!! / さくらみこ&戌神ころね (official)]]></title>
     <link href="https://youtu.be/wlEZTKubQH8" rel="alternate" type="text/html"/>
@@ -87,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wlEZTKubQH8 【LIVE on &lt;t:1735814707:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wlEZTKubQH8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4b6ab715-676d-5852-9aca-ceb01f64cdc1</id>
-    <title><![CDATA[【新年歌枠】新年新曲うたうぜ！告知もするぜ！【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/aqfIAP4va1Q" rel="alternate" type="text/html"/>
-    <published>2025-01-02T02:08:22.000Z</published>
-    <updated>2025-01-02T02:08:22.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aqfIAP4va1Q 【LIVE on &lt;t:1735905562:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aqfIAP4va1Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1448,20 +1476,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bf5679c1-d081-5aef-bfd9-b57c3ca7b2af</id>
-    <title><![CDATA[ハードモード/ 風真いろは(official)]]></title>
-    <link href="https://youtu.be/ibQgoUhw5vs" rel="alternate" type="text/html"/>
-    <published>2024-11-30T12:25:06.000Z</published>
-    <updated>2024-11-30T12:25:06.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ibQgoUhw5vs 【LIVE on &lt;t:1732969506:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ibQgoUhw5vs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:441b2199-47db-5e78-b8d7-6cb8cc3f8b49</id>
     <title><![CDATA[【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】]]></title>
     <link href="https://youtu.be/hQtN_RWYukM" rel="alternate" type="text/html"/>
@@ -1473,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hQtN_RWYukM 【LIVE on &lt;t:1732881533:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hQtN_RWYukM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6df1bbb9-c24f-55ef-94bf-53b05c0ef83b</id>
-    <title><![CDATA[沙花叉クロヱ MV - モードク]]></title>
-    <link href="https://youtu.be/G0dn1WU4kSs" rel="alternate" type="text/html"/>
-    <published>2024-11-29T13:00:14.000Z</published>
-    <updated>2024-11-29T13:00:14.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G0dn1WU4kSs 【LIVE on &lt;t:1732885214:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G0dn1WU4kSs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
