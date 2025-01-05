@@ -1,5 +1,44 @@
 [
   {
+    "id": "8mIvJduasOs",
+    "title": "Our step/角巻わため【original】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-05T11:55:06.000Z",
+    "available_at": "2025-01-05T11:55:06.000Z",
+    "duration": 233,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
+    "id": "oc2y-TNCA-g",
+    "title": "【 歌枠 】椎名林檎&東京事変縛りの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-05T10:03:46.000Z",
+    "available_at": "2025-01-05T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "r_A8mrNXXTw",
     "title": "【3D】UNARCHIVED CHRISTMAS KARAOKE🎄✨ #kfp #キアライブ",
     "type": "stream",
@@ -618,7 +657,7 @@
   },
   {
     "id": "DetHfhNCt1o",
-    "title": "【歌枠】年内に250万人を迎えたらすごぉーーーくっHAPPYじゃない?【ホロライブ/白上フブキ】",
+    "title": "【歌枠】年内に２５０万人を迎えたらすごぉーーーくっHAPPYじゃない？【ホロライブ/白上フブキ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-12-30T14:50:26.000Z",
@@ -1672,34 +1711,14 @@
     }
   },
   {
-    "id": "_8KI-dNtSRE",
-    "title": "【歌枠】#ホロクリスマス歌枠リレー 盛り上がってるかああああ!!!!😎🎄   【天音かなた/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T08:22:42.000Z",
-    "available_at": "2024-12-25T08:00:15.000Z",
-    "duration": 1206,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "LNHcBkqVVu4",
     "title": "【3D整体】マリンが劇的変化!?新年早々から体のお悩みをスッキリ爽快!!!!!【#マリン船長の三十路式整体術】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-25T06:30:26.000Z",
     "available_at": "2025-01-05T09:58:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3474,
+    "status": "past",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -2138,9 +2157,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-20T09:02:44.000Z",
-    "available_at": "2025-01-05T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-05T10:57:13.000Z",
+    "duration": 3376,
+    "status": "past",
+    "live_tl_count": {
+      "en": 60
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -3042,27 +3064,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "jFBVhtkAXOw",
-    "title": "剃れ剃れ音頭 / 百鬼あやめ× everedge IZUMI PREMIUM",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-02T01:16:03.000Z",
-    "available_at": "2024-12-02T01:16:03.000Z",
-    "duration": 106,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCFyuDJinaKUzFDl5Dkkoe6A",
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
     }
   },
   {
