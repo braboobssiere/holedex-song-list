@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-05T14:24:23.621Z</updated>
+  <updated>2025-01-05T16:29:11.161Z</updated>
 
   <entry>
     <id>urn:uuid:9c9ef6b9-6a74-5bfb-8aa5-a5483fa571d1</id>
@@ -34,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fec496d8-f0f0-555f-8db4-13db78399044</id>
+    <title><![CDATA[【歌枠/KARAOKE】ゆるっと歌っていく~~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/N-8MTRQ8deY" rel="alternate" type="text/html"/>
+    <published>2025-01-04T08:52:29.000Z</published>
+    <updated>2025-01-04T08:52:29.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N-8MTRQ8deY 【LIVE on &lt;t:1735966759:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-8MTRQ8deY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:cd622934-f152-5e69-9f78-7f296416e900</id>
     <title><![CDATA[【KARA-REWIND】December Unarchived Karaoke ~! 💄]]></title>
     <link href="https://youtu.be/vcbkinWHPTM" rel="alternate" type="text/html"/>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vcbkinWHPTM 【LIVE on &lt;t:1735984645:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vcbkinWHPTM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fec496d8-f0f0-555f-8db4-13db78399044</id>
-    <title><![CDATA[【歌枠/KARAOKE】ゆるっと歌っていく～～！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/N-8MTRQ8deY" rel="alternate" type="text/html"/>
-    <published>2025-01-04T04:38:05.000Z</published>
-    <updated>2025-01-04T04:38:05.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=N-8MTRQ8deY 【LIVE on &lt;t:1735966759:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N-8MTRQ8deY/maxresdefault.jpg"/>
   </entry>
 
   <entry>

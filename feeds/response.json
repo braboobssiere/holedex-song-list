@@ -26,8 +26,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-05T10:03:46.000Z",
     "available_at": "2025-01-05T13:59:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3769,
+    "status": "past",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -77,6 +77,26 @@
     }
   },
   {
+    "id": "N-8MTRQ8deY",
+    "title": "【歌枠/KARAOKE】ゆるっと歌っていく~~!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-04T08:52:29.000Z",
+    "available_at": "2025-01-04T04:59:19.000Z",
+    "duration": 13218,
+    "status": "past",
+    "songcount": 23,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "vcbkinWHPTM",
     "title": "【KARA-REWIND】December Unarchived Karaoke ~! 💄",
     "type": "stream",
@@ -93,26 +113,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "N-8MTRQ8deY",
-    "title": "【歌枠/KARAOKE】ゆるっと歌っていく～～！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-04T04:38:05.000Z",
-    "available_at": "2025-01-04T04:59:19.000Z",
-    "duration": 13211,
-    "status": "past",
-    "songcount": 23,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/r_CG1_hNQIcnrbXOzIKbdq23Dt7lo_QGvdkVT_q1fzSOWPZxFyvlei5N4bJSeTUhwcn3JVmsh_I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -234,7 +234,7 @@
   },
   {
     "id": "pjCB1FzrGV0",
-    "title": "【 #姫森ルーナ5周年 】６年目もよろしくなのらね！！！嬉しい発表あるのら💓【姫森ルーナ/ホロライブ】",
+    "title": "【 #姫森ルーナ5周年 】６年目もよろしくなのらね！！！嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-02T16:20:53.000Z",
