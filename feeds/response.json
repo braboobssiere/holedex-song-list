@@ -1,13 +1,32 @@
 [
   {
+    "id": "SqZYFWrbG04",
+    "title": "【歌枠】2025年、初歌枠!!新曲もありますぜ!!!【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-06T10:50:00.000Z",
+    "available_at": "2025-01-06T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "lpdinW9rZzE",
     "title": "【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-06T10:15:58.000Z",
-    "available_at": "2025-01-06T10:30:00.000Z",
+    "available_at": "2025-01-06T10:33:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
       "name": "Ao Ch. 火威青 ‐ ReGLOSS",
@@ -1688,26 +1707,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "w3Hgye_QcTM",
-    "title": "【 #ホロクリスマス歌枠リレー 】えええ!?ホロライブ!?えええ!?クリスマス!?!?【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T09:02:30.000Z",
-    "available_at": "2024-12-25T08:39:22.000Z",
-    "duration": 1236,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
