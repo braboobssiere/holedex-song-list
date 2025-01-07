@@ -1,5 +1,24 @@
 [
   {
+    "id": "gduOz5OycwA",
+    "title": "ブレイブリーダンス/アニメ「外れスキル《 #木の実マスター 》」OPテーマ/雪花ラミィ×アーリオ・オーリオ・エ・ペペロンチーノ【オリジナル曲】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-07T10:00:06.000Z",
+    "available_at": "2025-01-07T10:00:06.000Z",
+    "duration": 232,
+    "status": "past",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "4u9jamgGasY",
     "title": "🔌【The Pilot's Anniversary 2025!】🔌",
     "type": "stream",
@@ -43,9 +62,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-06T15:11:12.000Z",
-    "available_at": "2025-01-07T10:00:00.000Z",
+    "available_at": "2025-01-07T10:00:44.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 26
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -98,7 +120,7 @@
   },
   {
     "id": "ZT3dsUILcXg",
-    "title": "【MV】Take’em Down #holoARMIS 【JP Version】",
+    "title": "【MV】Take'em Down #holoARMIS 【JP Version】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-01-06T02:55:06.000Z",
@@ -1346,25 +1368,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "gduOz5OycwA",
-    "title": "ブレイブリーダンス/アニメ「外れスキル《 #木の実マスター 》」OPテーマ/雪花ラミィ×アーリオ・オーリオ・エ・ペペロンチーノ【オリジナル曲】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-27T08:17:30.000Z",
-    "available_at": "2025-01-07T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
     }
   },
   {
