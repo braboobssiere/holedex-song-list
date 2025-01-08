@@ -1,13 +1,32 @@
 [
   {
+    "id": "lkPEwAp2M7Q",
+    "title": "≪UNARCHIVED KARAOKE・歌枠≫ we sing #BaeMillion",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-08T01:49:22.000Z",
+    "available_at": "2025-01-08T06:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "hqpyMF4RhF8",
     "title": "[Week in Review] HAPPY ANNIVERSARY TO ME! #gavisbettel #holotempus",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-07T21:14:36.000Z",
     "available_at": "2025-01-07T22:02:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5497,
+    "status": "past",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -44,9 +63,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-07T00:09:35.000Z",
-    "available_at": "2025-01-07T23:30:00.000Z",
+    "available_at": "2025-01-07T23:39:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
       "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -1830,26 +1849,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "3Utxr_XKd4c",
-    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T09:42:48.000Z",
-    "available_at": "2024-12-25T09:19:24.000Z",
-    "duration": 1265,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f31Dn0ou0ob-VCRtjZTXed4m22A-bdR9ljFw-0LPa9cPicx7gY3e1vdFkrGxgz0ubHD7vCD_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
