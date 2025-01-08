@@ -1,21 +1,24 @@
 [
   {
-    "id": "h2lvVh5f-8o",
-    "title": "【今年初ASMR】低音ボイスで甘いひと時を。。。【火威青 】#hololiveDEV_IS #ReGLOSS",
+    "id": "XyjQ4P42dZg",
+    "title": "【UNARCHIVED SINGING】YA YA YA【Ayunda Risu】",
     "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-01-08T12:08:01.000Z",
-    "available_at": "2025-01-08T13:00:00.000Z",
+    "topic_id": "singing",
+    "published_at": "2025-01-08T13:48:36.000Z",
+    "available_at": "2025-01-08T13:58:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 29
+    },
     "channel": {
-      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
       "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiodoshi Ao"
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
     }
   },
   {
@@ -1867,26 +1870,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "Hjye0GIFwA0",
-    "title": "【 #ホロクリスマス歌枠リレー】バトンをつなぐぞーー!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T10:02:49.000Z",
-    "available_at": "2024-12-25T09:40:05.000Z",
-    "duration": 1160,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -6255,6 +6238,25 @@
     "published_at": "2024-05-15T16:24:08.000Z",
     "available_at": "2024-05-15T15:06:05.000Z",
     "duration": 4438,
+    "status": "past",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "xXk3fjKlDz8",
+    "title": "【 ASMR 】フルーツ飴を食べる🍓 もぐもぐ【咀嚼音 EATING SOUND】【CANDIED FRUITS】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-05-13T15:09:02.000Z",
+    "available_at": "2024-05-13T14:04:24.000Z",
+    "duration": 3681,
     "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
