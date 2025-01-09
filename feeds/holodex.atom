@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-09T20:27:22.693Z</updated>
+  <updated>2025-01-09T22:27:33.199Z</updated>
+
+  <entry>
+    <id>urn:uuid:229b242f-8e51-59a0-a027-ea2c3bf35af6</id>
+    <title><![CDATA[【歌枠】第120回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/k_PILB9G5SQ" rel="alternate" type="text/html"/>
+    <published>2025-01-09T21:49:00.000Z</published>
+    <updated>2025-01-09T21:49:00.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k_PILB9G5SQ 【LIVE on &lt;t:1736517600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k_PILB9G5SQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bb7c9a10-910d-566d-a4ef-30036fd1d55c</id>
@@ -843,20 +857,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fGXsUEZ1HF8 【LIVE on &lt;t:1735122013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fGXsUEZ1HF8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4a81e889-570b-56f1-90dc-b54bc77523b5</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう!!【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/lGa1SdJGwb0" rel="alternate" type="text/html"/>
-    <published>2024-12-25T10:22:45.000Z</published>
-    <updated>2024-12-25T10:22:45.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lGa1SdJGwb0 【LIVE on &lt;t:1735120779:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lGa1SdJGwb0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
