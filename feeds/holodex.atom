@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-10T14:27:25.251Z</updated>
+  <updated>2025-01-10T16:32:38.076Z</updated>
+
+  <entry>
+    <id>urn:uuid:420ce0df-714f-5469-b590-5991ef9a6c3a</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】CCGG Duo singing!!! with @holoen_gigimurin]]></title>
+    <link href="https://youtu.be/h-EMD8RTzDY" rel="alternate" type="text/html"/>
+    <published>2025-01-10T16:26:17.000Z</published>
+    <updated>2025-01-10T16:26:17.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h-EMD8RTzDY 【LIVE on &lt;t:1736542800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-EMD8RTzDY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2d24d4b1-c746-504e-b728-b2d47c9829bb</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=td0eO78wxSI 【LIVE on &lt;t:1736506806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/td0eO78wxSI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5c18f5d6-d5e3-5dee-8417-3ddb01016a3e</id>
+    <title><![CDATA[【重大告知あり!】はじめの日!ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
+    <link href="https://youtu.be/_byghWBFAPE" rel="alternate" type="text/html"/>
+    <published>2025-01-10T02:41:22.000Z</published>
+    <updated>2025-01-10T02:41:22.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_byghWBFAPE 【LIVE on &lt;t:1736589600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_byghWBFAPE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -899,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ebzZR6ipueY 【LIVE on &lt;t:1735124406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ebzZR6ipueY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0aa53d2f-f81a-5491-bf6c-736d2e483730</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー】19:20~!轟けお歌!!【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/fGXsUEZ1HF8" rel="alternate" type="text/html"/>
-    <published>2024-12-25T10:42:38.000Z</published>
-    <updated>2024-12-25T10:42:38.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fGXsUEZ1HF8 【LIVE on &lt;t:1735122013:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fGXsUEZ1HF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>

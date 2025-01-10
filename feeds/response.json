@@ -1,5 +1,24 @@
 [
   {
+    "id": "h-EMD8RTzDY",
+    "title": "【UNARCHIVED KARAOKE】CCGG Duo singing!!! with @holoen_gigimurin",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-10T16:26:17.000Z",
+    "available_at": "2025-01-10T21:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
     "id": "td0eO78wxSI",
     "title": "【MV】雨トキメキ恋模様 / いろはにほへっと あやふぶみ【リリース記念グッズ発売中!】",
     "type": "stream",
@@ -17,6 +36,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "_byghWBFAPE",
+    "title": "【重大告知あり!】はじめの日!ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-10T02:41:22.000Z",
+    "available_at": "2025-01-11T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -1957,26 +1995,6 @@
     }
   },
   {
-    "id": "fGXsUEZ1HF8",
-    "title": "【#ホロクリスマス歌枠リレー】19:20~!轟けお歌!!【轟はじめ/ReGLOSS】 #hololivedev_is",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T10:42:38.000Z",
-    "available_at": "2024-12-25T10:20:13.000Z",
-    "duration": 1206,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
-    }
-  },
-  {
     "id": "sOaOLcWzzFk",
     "title": "【3D】UNARCHIVED CHRISTMAS KARAOKE🎄✨ #kfp #キアライブ",
     "type": "stream",
@@ -2130,25 +2148,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "QouckWBelUY",
-    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-24T01:29:48.000Z",
-    "available_at": "2024-12-25T10:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
