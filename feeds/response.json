@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-10T17:28:55.000Z",
-    "available_at": "2025-01-11T01:00:00.000Z",
+    "available_at": "2025-01-11T01:00:20.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-10T16:26:17.000Z",
     "available_at": "2025-01-10T21:26:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7394,
+    "status": "past",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -104,6 +104,7 @@
     "available_at": "2025-01-10T14:04:11.000Z",
     "duration": 20087,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
