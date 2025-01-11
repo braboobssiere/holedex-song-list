@@ -1,7 +1,26 @@
 [
   {
+    "id": "NqedjOXydbc",
+    "title": "【UNARCHIVED KARAOKE  REBROADCAST】Singing in the New Year",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-11T13:10:40.000Z",
+    "available_at": "2025-01-11T19:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
+    }
+  },
+  {
     "id": "eB2kswPDFaI",
-    "title": "【Orginal】Countach/轟はじめ【Official MV】",
+    "title": "【Original】Countach/轟はじめ【Official MV】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-01-11T10:50:31.000Z",
@@ -59,13 +78,13 @@
   },
   {
     "id": "_PvPXz0UAdM",
-    "title": "【#ホロライブじゃんけん王】優勝者は100万円!新春運試しじゃんけん大会!【ホロライブ/兎田ぺこら】",
+    "title": "【＃ホロライブじゃんけん王】優勝者は100万円！新春運試しじゃんけん大会！【ホロライブ/兎田ぺこら】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-01-10T16:31:20.000Z",
     "available_at": "2025-01-11T12:00:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5393,
+    "status": "past",
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
       "name": "Pekora Ch. 兎田ぺこら",
@@ -1929,26 +1948,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ceres Fauna"
-    }
-  },
-  {
-    "id": "j5NbuZW98XU",
-    "title": "【歌枠】クリスマスの夜最後も歌うぜ!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T16:35:46.000Z",
-    "available_at": "2024-12-25T13:31:21.000Z",
-    "duration": 7069,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
