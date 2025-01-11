@@ -1,5 +1,24 @@
 [
   {
+    "id": "SbncULXUROM",
+    "title": "【カウントダウン】ぺこらの誕生日をみんなで迎えよう!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-01-11T09:35:54.000Z",
+    "available_at": "2025-01-11T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "GWGgEu421F8",
     "title": "UNARCHIVED REWIND KARAOKE #gavisbettel #holotempus",
     "type": "stream",
@@ -82,9 +101,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-10T02:41:22.000Z",
-    "available_at": "2025-01-11T10:00:00.000Z",
+    "available_at": "2025-01-11T10:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 5,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -954,7 +974,7 @@
       "org": "Hololive",
       "suborg": "0aOfficial",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/7ajjK5dKPtpFdAVtuZAdanfIwPhSa1tif_5TCLEApvx1J3kovTayOXGspX9FHHReP_6M-Nel=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
     }
   },
@@ -1025,6 +1045,7 @@
     "available_at": "2024-12-30T16:30:01.000Z",
     "duration": 27331,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -5744,25 +5765,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "ES2HVbCsUgA",
-    "title": "【弾き語り】誕生日カウントダウンみたいなやつ【奏手イヅル / ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-08-11T16:17:07.000Z",
-    "available_at": "2024-08-11T14:03:55.000Z",
-    "duration": 6178,
-    "status": "past",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
