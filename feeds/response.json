@@ -40,13 +40,16 @@
   },
   {
     "id": "SbncULXUROM",
-    "title": "【カウントダウン】ぺこらの誕生日をみんなで迎えよう!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+    "title": "【カウントダウン】ぺこらの誕生日をみんなで迎えよう！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-11T09:35:54.000Z",
-    "available_at": "2025-01-11T14:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-11T14:30:17.000Z",
+    "duration": 4658,
+    "status": "past",
+    "live_tl_count": {
+      "en": 80
+    },
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
       "name": "Pekora Ch. 兎田ぺこら",
@@ -112,6 +115,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LnJxTvrkHQFdFlyMY2HPtXVEwA7KHlUp8rNzBepF1GQfPQjUN9yKGIqSYOD31F22Ow9vSTn9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
+    "id": "d1yOwO2CUaw",
+    "title": "P.I.T.A. - Yatogami Fuma (original rap)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-10T11:11:20.000Z",
+    "available_at": "2025-01-10T11:11:20.000Z",
+    "duration": 102,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCc88OV45ICgHbn3ZqLLb52w",
+      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yatogami Fuma"
     }
   },
   {
@@ -2941,27 +2964,6 @@
       "suborg": "0gOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "cdek0khk55o",
-    "title": "Nightmare",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-09T15:00:51.000Z",
-    "available_at": "2024-12-09T15:00:51.000Z",
-    "duration": 216,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
     }
   },
   {
