@@ -7,7 +7,7 @@
     "published_at": "2025-01-11T21:32:10.000Z",
     "available_at": "2025-01-12T02:59:40.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -233,6 +233,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "tTGHuWBtptc",
+    "title": "【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-09T04:57:37.000Z",
+    "available_at": "2025-01-13T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -829,7 +848,7 @@
       "org": "Hololive",
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CCOEFxhq858A_1QNu0VF9Y5vvXm9V4l7klSdL4FfMsOAAnVxoiAcxAlQO9RV0lCib6Fi_EkVrA=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
     }
   },
@@ -2031,25 +2050,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "RRgdX70JpeM",
-    "title": "【MUSIC】MORE CHRISTMAS BOPS ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-25T15:02:55.000Z",
-    "available_at": "2024-12-25T16:09:59.000Z",
-    "duration": 26715,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
