@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-14T10:10:39.000Z",
-    "available_at": "2025-01-14T16:00:00.000Z",
+    "available_at": "2025-01-14T16:00:57.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 23
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -65,9 +68,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-14T07:48:49.000Z",
-    "available_at": "2025-01-14T14:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-14T14:30:59.000Z",
+    "duration": 5145,
+    "status": "past",
     "channel": {
       "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
       "name": "Oga Ch.荒咬オウガ",
@@ -120,7 +123,7 @@
   },
   {
     "id": "uB6GxHc7PRc",
-    "title": "【#兎田ぺこら生誕祭2025】生誕3D LIVE!FEVER!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+    "title": "【#兎田ぺこら生誕祭2025】生誕3D LIVE！FEVER！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-12T13:10:43.000Z",
@@ -1479,7 +1482,7 @@
       "org": "Hololive",
       "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/IzJcA0QlV4JwWH9yXi7Voa3359fHUB182xd_xxs92xd_3kuw_pa45dKeyQ9hvKl_1OhwbT6M3g=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
     }
   },
