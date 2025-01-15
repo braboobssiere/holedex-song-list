@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-15T20:25:46.916Z</updated>
+  <updated>2025-01-15T22:25:31.055Z</updated>
+
+  <entry>
+    <id>urn:uuid:803866be-d9b9-5d63-928a-177433b964db</id>
+    <title><![CDATA[【 ASMR 】お風呂でこっそり永眠🛀💕Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/XTqiaM0Slhw" rel="alternate" type="text/html"/>
+    <published>2025-01-15T14:24:33.000Z</published>
+    <updated>2025-01-15T14:24:33.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XTqiaM0Slhw 【LIVE on &lt;t:1737039600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XTqiaM0Slhw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:46f8843e-0ca9-50fa-ab62-c3cdfb69a640</id>
@@ -2453,20 +2467,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1NCvxg9eUWU 【LIVE on &lt;t:1715785565:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1NCvxg9eUWU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:95284bf3-fd6a-5085-bd6a-386f2f1cfe6b</id>
-    <title><![CDATA[【 ASMR 】フルーツ飴を食べる🍓 もぐもぐ【咀嚼音 EATING SOUND】【CANDIED FRUITS】]]></title>
-    <link href="https://youtu.be/xXk3fjKlDz8" rel="alternate" type="text/html"/>
-    <published>2024-05-13T15:09:02.000Z</published>
-    <updated>2024-05-13T15:09:02.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xXk3fjKlDz8 【LIVE on &lt;t:1715609064:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xXk3fjKlDz8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
