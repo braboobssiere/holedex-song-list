@@ -44,9 +44,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-14T15:49:09.000Z",
-    "available_at": "2025-01-15T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-15T12:57:05.000Z",
+    "duration": 3911,
+    "status": "past",
+    "live_tl_count": {
+      "en": 50
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
