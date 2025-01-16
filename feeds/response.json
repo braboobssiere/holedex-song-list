@@ -47,8 +47,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-16T12:07:33.000Z",
     "available_at": "2025-01-16T12:32:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 16061,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -88,8 +88,8 @@
     "topic_id": "asmr",
     "published_at": "2025-01-15T14:24:33.000Z",
     "available_at": "2025-01-16T15:01:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5971,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -98,6 +98,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "d_aZCUriP30",
+    "title": "【突然の】何を歌うかは決めていないけど、歌います!【歌枠】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-15T10:09:51.000Z",
+    "available_at": "2025-01-15T08:31:06.000Z",
+    "duration": 5500,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -118,26 +138,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hiodoshi Ao"
-    }
-  },
-  {
-    "id": "d_aZCUriP30",
-    "title": "【突然の】何を歌うかは決めていないけど、歌います！【歌枠】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-15T07:51:52.000Z",
-    "available_at": "2025-01-15T08:31:06.000Z",
-    "duration": 5512,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "id": "SexHqNki854",
-    "title": "「ヴィジュアル系」のお歌に挑戦してみるのら~🎤🎶KARAOKE【姫森ルーナ/ホロライブ】",
+    "title": "「ヴィジュアル系」のお歌に挑戦してみるのら～🎤🎶KARAOKE【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-12T15:24:52.000Z",
@@ -848,7 +848,7 @@
   },
   {
     "id": "SqZYFWrbG04",
-    "title": "【歌枠】２０２５年、初歌枠！！新曲もありますぜ！！！【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠】2025年、初歌枠!!新曲もありますぜ!!!【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-06T15:11:50.000Z",
@@ -1027,7 +1027,7 @@
   },
   {
     "id": "pjCB1FzrGV0",
-    "title": "【 #姫森ルーナ5周年 】6年目もよろしくなのらね!!!嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
+    "title": "【 #姫森ルーナ5周年 】６年目もよろしくなのらね！！！嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-04T12:30:35.000Z",
@@ -1143,7 +1143,7 @@
   },
   {
     "id": "MzFCDuzBuL0",
-    "title": "【 #姫森ルーナ5周年 】乾杯🍸5周年カウントダウンとホロウィッチのお披露目するのらあああ!!!【姫森ルーナ/ホロライブ】",
+    "title": "【 #姫森ルーナ5周年 】乾杯🍸５周年カウントダウンとホロウィッチのお披露目するのらあああ！！！【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-03T15:35:37.000Z",
@@ -3621,7 +3621,7 @@
   },
   {
     "id": "B1RyNxgc9zk",
-    "title": "休日のエレクトーン練習でみんなのQOLを上げるのら~~!🎹 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "title": "休日のエレクトーン練習でみんなのQOLを上げるのら～～！🎹 Playing the Electone【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2024-11-24T12:24:35.000Z",

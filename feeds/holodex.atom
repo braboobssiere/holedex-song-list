@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-16T16:31:05.613Z</updated>
+  <updated>2025-01-16T18:32:40.993Z</updated>
 
   <entry>
     <id>urn:uuid:c44a77cf-03d4-5eec-b7b2-2052da99b647</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:46f8843e-0ca9-50fa-ab62-c3cdfb69a640</id>
+    <title><![CDATA[【突然の】何を歌うかは決めていないけど、歌います!【歌枠】]]></title>
+    <link href="https://youtu.be/d_aZCUriP30" rel="alternate" type="text/html"/>
+    <published>2025-01-15T10:09:51.000Z</published>
+    <updated>2025-01-15T10:09:51.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=d_aZCUriP30 【LIVE on &lt;t:1736929866:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d_aZCUriP30/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1c7e51e3-7819-53c8-a2ef-3f6419f09dd3</id>
     <title><![CDATA[【KARAOKE/雑談】お休み明けからただいま【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/j4umst84WrE" rel="alternate" type="text/html"/>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=j4umst84WrE 【LIVE on &lt;t:1736924553:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j4umst84WrE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:46f8843e-0ca9-50fa-ab62-c3cdfb69a640</id>
-    <title><![CDATA[【突然の】何を歌うかは決めていないけど、歌います！【歌枠】]]></title>
-    <link href="https://youtu.be/d_aZCUriP30" rel="alternate" type="text/html"/>
-    <published>2025-01-15T07:51:52.000Z</published>
-    <updated>2025-01-15T07:51:52.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=d_aZCUriP30 【LIVE on &lt;t:1736929866:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d_aZCUriP30/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -133,7 +133,7 @@
 
   <entry>
     <id>urn:uuid:ec76e2c5-04bc-5e23-904a-36200a904871</id>
-    <title><![CDATA[「ヴィジュアル系」のお歌に挑戦してみるのら~🎤🎶KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[「ヴィジュアル系」のお歌に挑戦してみるのら～🎤🎶KARAOKE【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/SexHqNki854" rel="alternate" type="text/html"/>
     <published>2025-01-12T15:24:52.000Z</published>
     <updated>2025-01-12T15:24:52.000Z</updated>
@@ -343,7 +343,7 @@
 
   <entry>
     <id>urn:uuid:e2176b34-d3bb-5a03-b050-0b139f25c47a</id>
-    <title><![CDATA[【歌枠】２０２５年、初歌枠！！新曲もありますぜ！！！【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【歌枠】2025年、初歌枠!!新曲もありますぜ!!!【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/SqZYFWrbG04" rel="alternate" type="text/html"/>
     <published>2025-01-06T15:11:50.000Z</published>
     <updated>2025-01-06T15:11:50.000Z</updated>
@@ -1603,7 +1603,7 @@
 
   <entry>
     <id>urn:uuid:52ad18e9-187c-579e-b26d-455019bb243b</id>
-    <title><![CDATA[休日のエレクトーン練習でみんなのQOLを上げるのら~~!🎹 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[休日のエレクトーン練習でみんなのQOLを上げるのら～～！🎹 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/B1RyNxgc9zk" rel="alternate" type="text/html"/>
     <published>2024-11-24T12:24:35.000Z</published>
     <updated>2024-11-24T12:24:35.000Z</updated>
