@@ -1,5 +1,24 @@
 [
   {
+    "id": "s0wDhP4MP_I",
+    "title": "【歌枠/KARAOKE】デビューして2か月が経ったらしいよ!!!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-17T06:48:02.000Z",
+    "available_at": "2025-01-17T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "6ulGdHRkzGs",
     "title": "【Original Song MV】メトロポリス (metropolis)【Ayunda Risu】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2025-01-17T13:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -2096,26 +2116,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
-    "id": "Y85sgFTGCwU",
-    "title": "【歌枠】時間遅めになりました(´;ω;`)歌うぞおおおおおおおおおおおおオオオ!!!!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-27T17:41:09.000Z",
-    "available_at": "2024-12-27T15:51:57.000Z",
-    "duration": 5729,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
