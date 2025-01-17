@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-17T10:28:41.025Z</updated>
+  <updated>2025-01-17T12:47:14.940Z</updated>
+
+  <entry>
+    <id>urn:uuid:63de46d6-66a3-5597-9db5-732f5339fb2e</id>
+    <title><![CDATA[沙花叉クロヱ MV - 混ざる鈍色]]></title>
+    <link href="https://youtu.be/5LsLZdJonp4" rel="alternate" type="text/html"/>
+    <published>2025-01-17T12:00:06.000Z</published>
+    <updated>2025-01-17T12:00:06.000Z</updated>
+    <author>
+      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5LsLZdJonp4 【LIVE on &lt;t:1737115206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5LsLZdJonp4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f2140065-0169-5703-a613-885b09c18763</id>
-    <title><![CDATA[【歌枠/KARAOKE】デビューして2か月が経ったらしいよ!!!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】デビューして2か月が経ったらしいよ！！！！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/s0wDhP4MP_I" rel="alternate" type="text/html"/>
     <published>2025-01-17T06:48:02.000Z</published>
     <updated>2025-01-17T06:48:02.000Z</updated>
@@ -241,20 +255,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=td0eO78wxSI 【LIVE on &lt;t:1736506806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/td0eO78wxSI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c728786e-d4d4-5427-b33f-68ef033056b2</id>
-    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】doggy girl's night out ♪ #FWMCbaufit #FWMCbeats【UNARCHIVED アーカイブ無し】]]></title>
-    <link href="https://youtu.be/Auk3HWquAEg" rel="alternate" type="text/html"/>
-    <published>2025-01-10T01:33:49.000Z</published>
-    <updated>2025-01-10T01:33:49.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Auk3HWquAEg 【LIVE on &lt;t:1736997009:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Auk3HWquAEg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1417,20 +1417,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Kepw2NfNvMg 【LIVE on &lt;t:1733821206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kepw2NfNvMg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:03a282df-eb33-559c-9882-ae2440c17ae7</id>
-    <title><![CDATA[FG ROADSTER - 響咲リオナ SOLO ver.]]></title>
-    <link href="https://youtu.be/elu5BMeGdY4" rel="alternate" type="text/html"/>
-    <published>2024-12-09T15:04:24.000Z</published>
-    <updated>2024-12-09T15:04:24.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=elu5BMeGdY4 【LIVE on &lt;t:1733756664:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/elu5BMeGdY4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
