@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-17T21:22:27.000Z",
-    "available_at": "2025-01-17T23:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-17T23:00:55.000Z",
+    "duration": 7177,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -79,6 +79,48 @@
     }
   },
   {
+    "id": "XTqiaM0Slhw",
+    "title": "【 ASMR 】お風呂でこっそり永眠🛀💕Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-01-16T16:45:50.000Z",
+    "available_at": "2025-01-16T15:01:03.000Z",
+    "duration": 5969,
+    "status": "past",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "ebklxH8Xuko",
+    "title": "【歌枠/karaoke】20万人耐久!話多めで歌う【水宮枢/FLOW GLOW】#hololiveDEV_IS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-16T16:25:03.000Z",
+    "available_at": "2025-01-16T13:00:11.000Z",
+    "duration": 11529,
+    "status": "past",
+    "songcount": 14,
+    "live_tl_count": {
+      "en": 6
+    },
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "t4AnFunoWVw",
     "title": "【#HappyRisuDay2025】Checking Gifts and Hashtag for birthday !【Ayunda Risu】",
     "type": "stream",
@@ -121,29 +163,6 @@
     }
   },
   {
-    "id": "ebklxH8Xuko",
-    "title": "【歌枠／karaoke】20万人耐久！話多めで歌う【水宮枢／FLOW GLOW】#hololiveDEV_IS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-16T12:30:17.000Z",
-    "available_at": "2025-01-16T13:00:11.000Z",
-    "duration": 11524,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "en": 6
-    },
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/N30qJOGhVGBgUiGF9R63P-TGeMXUwhVwx8FZ-4cmilivjqM1qTyqyrTZS0LznCWIahSJT_ZeXw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
-    }
-  },
-  {
     "id": "2ZkdJLSYg1E",
     "title": "【 ひそ歌 】黄金開拓期 / アステル",
     "type": "stream",
@@ -151,7 +170,7 @@
     "published_at": "2025-01-16T12:07:33.000Z",
     "available_at": "2025-01-16T12:32:21.000Z",
     "duration": 16061,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -160,25 +179,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "XTqiaM0Slhw",
-    "title": "【 ASMR 】お風呂でこっそり永眠🛀💕Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-01-15T14:24:33.000Z",
-    "available_at": "2025-01-16T15:01:03.000Z",
-    "duration": 5971,
-    "status": "past",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
@@ -464,7 +464,7 @@
       "org": "Hololive",
       "suborg": "ea3rd Generation (Fantasy)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_n1iH9fDDGm8RHUzoB-XDfnTEwhlgBcP3OLjapDqHYoYVw=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
     }
   },
