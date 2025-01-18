@@ -1,13 +1,32 @@
 [
   {
+    "id": "_ToLWhaM24s",
+    "title": "睡眠導入歌枠 ピアノ弾き語り【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-18T09:57:02.000Z",
+    "available_at": "2025-01-18T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "55jhumEulg4",
     "title": "【歌枠】冬に思いを馳せながら歌います。【岸堂天真/ホロスターズ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-18T07:31:45.000Z",
-    "available_at": "2025-01-18T10:00:00.000Z",
+    "available_at": "2025-01-18T10:02:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -408,9 +427,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-13T17:00:52.000Z",
-    "available_at": "2025-01-18T08:30:00.000Z",
+    "available_at": "2025-01-18T08:32:24.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -1760,26 +1779,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "ZU8jJqWsN2I",
-    "title": "【60万人耐久】年内目標達成にむけて✨歌を歌うぞおおお!!!【一条莉々華 / ホロライブ ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-30T14:40:51.000Z",
-    "available_at": "2024-12-30T09:01:13.000Z",
-    "duration": 18750,
-    "status": "past",
-    "songcount": 50,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JyixAV--9ZFWIMEwRQFbZhkiQTEvb1ALCdX7bW9BarpyLBjAnbbmc98jymhVT_pZlJpWaDwk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -4606,7 +4605,7 @@
       "org": "Hololive",
       "suborg": "d_GAMERS",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/G92yBEhkf9R2mEpayuPvhwlA42tYAPOcNi2r77JeL7ic0ETS_FvTkwkBHjvR6iCqUk7TOlpROQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
     }
   },
