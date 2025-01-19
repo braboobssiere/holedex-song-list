@@ -1,5 +1,24 @@
 [
   {
+    "id": "bPEGFG7cT4E",
+    "title": "【歌枠】アニソン縛りで歌う~~~!!!Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-19T08:13:06.000Z",
+    "available_at": "2025-01-19T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/so69WMDlrSwil0013l7MLKIBLV--U_zjya2tG9_Sgij5NBm7raSvbZXUJiiAbQgrZosseqKDobM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "qaqoZk-raP8",
     "title": "【ASMR/安眠】今年最初の耳マッサージ&お耳掃除♡【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -104,7 +123,7 @@
     "published_at": "2025-01-17T21:22:27.000Z",
     "available_at": "2025-01-17T23:00:55.000Z",
     "duration": 7177,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -1321,7 +1340,7 @@
   },
   {
     "id": "4K3rIVYbyN4",
-    "title": "【新年歌枠】新年のご挨拶&歌い初め!Happy New Year 2025 Singing Stream【ホロライブ / AZKi】",
+    "title": "【新年歌枠】新年のご挨拶＆歌い初め！Happy New Year 2025 Singing Stream【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-03T16:05:36.000Z",
@@ -1867,29 +1886,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "yk7DM6qNUAM",
-    "title": "【 #独り紅白歌合戦 】告知アリ‼毎年恒例独り紅白!絶対観てくれよな!!!🎤✨【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2024-12-30T11:00:11.000Z",
-    "available_at": "2024-12-30T10:00:09.000Z",
-    "duration": 3369,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 48
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -2856,7 +2852,7 @@
       "org": "Hololive",
       "suborg": "0dOfficial",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6OWNODOaLJ7zHjqojS0chpkwMxaLHwLApAwAZtOXZELVeNJ3FvsGf-YrigoCfPcTBM9uOJUp7A=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
     }
   },
