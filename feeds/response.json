@@ -20,6 +20,26 @@
     }
   },
   {
+    "id": "PqLp29yuOLA",
+    "title": "【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-18T12:16:30.000Z",
+    "available_at": "2025-01-18T08:32:24.000Z",
+    "duration": 12558,
+    "status": "past",
+    "songcount": 24,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "qaqoZk-raP8",
     "title": "【ASMR/安眠】今年最初の耳マッサージ＆お耳掃除♡【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -461,26 +481,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "PqLp29yuOLA",
-    "title": "【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-13T17:00:52.000Z",
-    "available_at": "2025-01-18T08:32:24.000Z",
-    "duration": 12552,
-    "status": "past",
-    "songcount": 24,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -3822,6 +3822,7 @@
     "available_at": "2025-01-19T11:55:11.000Z",
     "duration": 5512,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 249
     },

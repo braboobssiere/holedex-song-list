@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-19T18:30:06.253Z</updated>
+  <updated>2025-01-19T20:24:03.554Z</updated>
 
   <entry>
     <id>urn:uuid:daf614fc-13e9-560c-b03b-a379b0360b71</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bPEGFG7cT4E 【LIVE on &lt;t:1737280894:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bPEGFG7cT4E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0af0a04a-ab57-54bd-838b-1e0420cf9372</id>
+    <title><![CDATA[【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/PqLp29yuOLA" rel="alternate" type="text/html"/>
+    <published>2025-01-18T12:16:30.000Z</published>
+    <updated>2025-01-18T12:16:30.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PqLp29yuOLA 【LIVE on &lt;t:1737189144:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PqLp29yuOLA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -213,20 +227,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FHgeeY_UPiI 【LIVE on &lt;t:1736848811:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FHgeeY_UPiI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0af0a04a-ab57-54bd-838b-1e0420cf9372</id>
-    <title><![CDATA[【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/PqLp29yuOLA" rel="alternate" type="text/html"/>
-    <published>2025-01-13T17:00:52.000Z</published>
-    <updated>2025-01-13T17:00:52.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PqLp29yuOLA 【LIVE on &lt;t:1737189144:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PqLp29yuOLA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1613,6 +1613,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tZXIA-2fbuQ 【LIVE on &lt;t:1732330657:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tZXIA-2fbuQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cbc6b07e-0ee0-559e-a180-3c3bb8e28945</id>
+    <title><![CDATA[【3D LIVE】秘密結社holoX3周年 3DLIVE【#SSholoX3周年】]]></title>
+    <link href="https://youtu.be/ztW56LCevmI" rel="alternate" type="text/html"/>
+    <published>2024-11-22T11:37:48.000Z</published>
+    <updated>2024-11-22T11:37:48.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ztW56LCevmI 【LIVE on &lt;t:1737287711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ztW56LCevmI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
