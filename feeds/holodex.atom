@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-20T18:32:05.224Z</updated>
+  <updated>2025-01-20T20:25:15.473Z</updated>
 
   <entry>
     <id>urn:uuid:401f2793-6edd-5e36-87d9-ecaec1112dca</id>
@@ -62,11 +62,25 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:cbc6b07e-0ee0-559e-a180-3c3bb8e28945</id>
+    <title><![CDATA[【3D LIVE】秘密結社holoX3周年 3DLIVE【#SSholoX3周年】]]></title>
+    <link href="https://youtu.be/ztW56LCevmI" rel="alternate" type="text/html"/>
+    <published>2025-01-19T13:41:42.000Z</published>
+    <updated>2025-01-19T13:41:42.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ztW56LCevmI 【LIVE on &lt;t:1737287711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ztW56LCevmI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:daf614fc-13e9-560c-b03b-a379b0360b71</id>
-    <title><![CDATA[【歌枠】アニソン縛りで歌う～～～！！！Singing Stream【ホロライブ / AZKi】]]></title>
+    <title><![CDATA[【歌枠】アニソン縛りで歌う~~~!!!Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/bPEGFG7cT4E" rel="alternate" type="text/html"/>
-    <published>2025-01-19T08:13:06.000Z</published>
-    <updated>2025-01-19T08:13:06.000Z</updated>
+    <published>2025-01-19T11:51:28.000Z</published>
+    <updated>2025-01-19T11:51:28.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -1585,20 +1599,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tZXIA-2fbuQ 【LIVE on &lt;t:1732330657:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tZXIA-2fbuQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cbc6b07e-0ee0-559e-a180-3c3bb8e28945</id>
-    <title><![CDATA[【3D LIVE】秘密結社holoX3周年 3DLIVE【#SSholoX3周年】]]></title>
-    <link href="https://youtu.be/ztW56LCevmI" rel="alternate" type="text/html"/>
-    <published>2024-11-22T11:37:48.000Z</published>
-    <updated>2024-11-22T11:37:48.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ztW56LCevmI 【LIVE on &lt;t:1737287711:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ztW56LCevmI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
