@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-20T16:31:02.344Z</updated>
+  <updated>2025-01-20T18:32:05.224Z</updated>
+
+  <entry>
+    <id>urn:uuid:401f2793-6edd-5e36-87d9-ecaec1112dca</id>
+    <title><![CDATA[【15万人耐久】たくさん大好きな歌を歌うよ♡【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/qHOZXMHsSDw" rel="alternate" type="text/html"/>
+    <published>2025-01-20T15:31:27.000Z</published>
+    <updated>2025-01-20T15:31:27.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qHOZXMHsSDw 【LIVE on &lt;t:1737462600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qHOZXMHsSDw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c3406db3-87dc-5c18-ac39-d99a61f537b8</id>
@@ -773,20 +787,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=J54Ob9zB9qU 【LIVE on &lt;t:1735563759:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J54Ob9zB9qU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b7479c77-1ba6-5a9e-ab64-0f18a5d7dd0d</id>
-    <title><![CDATA[【縦歌枠】歌いおさめ🎤です!りはびり【風真いろは/ホロライブ】]]></title>
-    <link href="https://youtu.be/4E3zHPh8FaI" rel="alternate" type="text/html"/>
-    <published>2024-12-30T13:39:14.000Z</published>
-    <updated>2024-12-30T13:39:14.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4E3zHPh8FaI 【LIVE on &lt;t:1735563710:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4E3zHPh8FaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
