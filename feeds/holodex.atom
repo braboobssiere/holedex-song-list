@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-20T12:48:54.398Z</updated>
+  <updated>2025-01-20T14:26:47.645Z</updated>
+
+  <entry>
+    <id>urn:uuid:7910cccc-54b7-59d6-b088-4c2ea37ed097</id>
+    <title><![CDATA[【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/CE4dUNYVL10" rel="alternate" type="text/html"/>
+    <published>2025-01-20T13:30:55.000Z</published>
+    <updated>2025-01-20T13:30:55.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CE4dUNYVL10 【LIVE on &lt;t:1737381673:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CE4dUNYVL10/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:34f6b6e5-4019-50a0-87d3-5cdc7ba27be6</id>
-    <title><![CDATA[【歌枠】テンション上がる神曲歌枠!/Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
+    <title><![CDATA[【歌枠】テンション上がる神曲歌枠！/Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/WEp4Ig5bwCA" rel="alternate" type="text/html"/>
     <published>2025-01-20T10:34:25.000Z</published>
     <updated>2025-01-20T10:34:25.000Z</updated>
@@ -759,20 +773,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=J54Ob9zB9qU 【LIVE on &lt;t:1735563759:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J54Ob9zB9qU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:82e181ad-f03d-57f7-8db4-1b5708956886</id>
-    <title><![CDATA[【歌枠】年内に250万人を迎えたらすごぉーーーくっHAPPYじゃない?【ホロライブ/白上フブキ】]]></title>
-    <link href="https://youtu.be/DetHfhNCt1o" rel="alternate" type="text/html"/>
-    <published>2024-12-30T14:50:26.000Z</published>
-    <updated>2024-12-30T14:50:26.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DetHfhNCt1o 【LIVE on &lt;t:1735563645:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DetHfhNCt1o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
