@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-20T20:25:15.473Z</updated>
+  <updated>2025-01-20T22:25:31.701Z</updated>
 
   <entry>
     <id>urn:uuid:401f2793-6edd-5e36-87d9-ecaec1112dca</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fa33c919-351f-5b8e-a0ca-726dce74043a</id>
+    <title><![CDATA[【ASMR/安眠】今年最初の耳マッサージ&お耳掃除♡【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/qaqoZk-raP8" rel="alternate" type="text/html"/>
+    <published>2025-01-19T15:38:23.000Z</published>
+    <updated>2025-01-19T15:38:23.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qaqoZk-raP8 【LIVE on &lt;t:1737295231:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qaqoZk-raP8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:cbc6b07e-0ee0-559e-a180-3c3bb8e28945</id>
     <title><![CDATA[【3D LIVE】秘密結社holoX3周年 3DLIVE【#SSholoX3周年】]]></title>
     <link href="https://youtu.be/ztW56LCevmI" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PqLp29yuOLA 【LIVE on &lt;t:1737189144:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PqLp29yuOLA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fa33c919-351f-5b8e-a0ca-726dce74043a</id>
-    <title><![CDATA[【ASMR/安眠】今年最初の耳マッサージ＆お耳掃除♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/qaqoZk-raP8" rel="alternate" type="text/html"/>
-    <published>2025-01-18T11:53:52.000Z</published>
-    <updated>2025-01-18T11:53:52.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qaqoZk-raP8 【LIVE on &lt;t:1737295231:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qaqoZk-raP8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
