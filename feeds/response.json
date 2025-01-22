@@ -1,5 +1,24 @@
 [
   {
+    "id": "7Ef2iqhfniU",
+    "title": "REBROADCAST =【UNARCHIVED KARAOKE】Gimme! Gimme! Gimme! ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-22T01:38:30.000Z",
+    "available_at": "2025-01-22T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FqoNiBb3ZY9FehjIWlzqQlUtmbaAXRak49X3WWZHEFlzuVCy0CVsaqtYxddltdmwCnJYN3xm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "olYQU0xNYg8",
     "title": "【 ASMR 】癖になるエグい音😱Sleep Whispering/KU100【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -250,6 +269,26 @@
     }
   },
   {
+    "id": "CE4dUNYVL10",
+    "title": "【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-20T16:14:35.000Z",
+    "available_at": "2025-01-20T14:01:13.000Z",
+    "duration": 6948,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "qHOZXMHsSDw",
     "title": "【15万人耐久】たくさん大好きな歌を歌うよ♡【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -258,6 +297,7 @@
     "available_at": "2025-01-21T12:30:16.000Z",
     "duration": 9426,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -276,7 +316,7 @@
     "published_at": "2025-01-20T15:28:55.000Z",
     "available_at": "2025-01-20T15:47:16.000Z",
     "duration": 1981,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -285,26 +325,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "CE4dUNYVL10",
-    "title": "【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ～～【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-20T13:30:55.000Z",
-    "available_at": "2025-01-20T14:01:13.000Z",
-    "duration": 7108,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -707,25 +727,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "OF41reZNGnw",
-    "title": "【 Part2 】「沙花叉クロヱと〇〇」〜絶叫マシン編〜【 ホロライブ / 沙花叉クロヱ 星街すいせい 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-15T15:42:51.000Z",
-    "available_at": "2025-01-22T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {

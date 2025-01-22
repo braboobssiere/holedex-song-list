@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-21T22:26:26.968Z</updated>
+  <updated>2025-01-22T01:51:50.467Z</updated>
+
+  <entry>
+    <id>urn:uuid:bad1f8f3-00dd-5a7b-8b75-3d8f698b1e9a</id>
+    <title><![CDATA[REBROADCAST =【UNARCHIVED KARAOKE】Gimme! Gimme! Gimme! ~! 💄]]></title>
+    <link href="https://youtu.be/7Ef2iqhfniU" rel="alternate" type="text/html"/>
+    <published>2025-01-22T01:38:30.000Z</published>
+    <updated>2025-01-22T01:38:30.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7Ef2iqhfniU 【LIVE on &lt;t:1737540000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7Ef2iqhfniU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:01ee2543-7ce1-51fc-b864-88c28d4daef8</id>
@@ -174,6 +188,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:7910cccc-54b7-59d6-b088-4c2ea37ed097</id>
+    <title><![CDATA[【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/CE4dUNYVL10" rel="alternate" type="text/html"/>
+    <published>2025-01-20T16:14:35.000Z</published>
+    <updated>2025-01-20T16:14:35.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CE4dUNYVL10 【LIVE on &lt;t:1737381673:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CE4dUNYVL10/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:401f2793-6edd-5e36-87d9-ecaec1112dca</id>
     <title><![CDATA[【15万人耐久】たくさん大好きな歌を歌うよ♡【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/qHOZXMHsSDw" rel="alternate" type="text/html"/>
@@ -185,34 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qHOZXMHsSDw 【LIVE on &lt;t:1737462616:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qHOZXMHsSDw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c3406db3-87dc-5c18-ac39-d99a61f537b8</id>
-    <title><![CDATA[うた　アーカイブはない【ホロライブ/黒上フブキ】]]></title>
-    <link href="https://youtu.be/r7ApxbTtFn0" rel="alternate" type="text/html"/>
-    <published>2025-01-20T15:28:55.000Z</published>
-    <updated>2025-01-20T15:28:55.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=r7ApxbTtFn0 【LIVE on &lt;t:1737388036:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r7ApxbTtFn0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7910cccc-54b7-59d6-b088-4c2ea37ed097</id>
-    <title><![CDATA[【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ～～【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/CE4dUNYVL10" rel="alternate" type="text/html"/>
-    <published>2025-01-20T13:30:55.000Z</published>
-    <updated>2025-01-20T13:30:55.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CE4dUNYVL10 【LIVE on &lt;t:1737381673:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CE4dUNYVL10/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -381,20 +381,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sjJUx-I2Rro 【LIVE on &lt;t:1737032438:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sjJUx-I2Rro/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f5811ede-21d7-5758-a935-8ba74ebd1833</id>
-    <title><![CDATA[【 Part2 】「沙花叉クロヱと〇〇」〜絶叫マシン編〜【 ホロライブ / 沙花叉クロヱ 星街すいせい 】]]></title>
-    <link href="https://youtu.be/OF41reZNGnw" rel="alternate" type="text/html"/>
-    <published>2025-01-15T15:42:51.000Z</published>
-    <updated>2025-01-15T15:42:51.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OF41reZNGnw 【LIVE on &lt;t:1737536400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OF41reZNGnw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
