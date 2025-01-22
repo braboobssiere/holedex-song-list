@@ -1,5 +1,25 @@
 [
   {
+    "id": "JXvOlJOGU5Y",
+    "title": "ビーナスバグ / 星街すいせい(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-22T13:30:06.000Z",
+    "available_at": "2025-01-22T13:30:06.000Z",
+    "duration": 192,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
     "id": "by8Msfz4O8w",
     "title": "【UNARCHIVED KARAOKE】WINDING DOWN FROM WORK WITH SOME GUERILLA KARAOKE!!【Kureiji Ollie】",
     "type": "stream",
@@ -27,9 +47,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-22T08:40:11.000Z",
-    "available_at": "2025-01-22T13:00:00.000Z",
+    "available_at": "2025-01-22T14:01:17.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -46,9 +66,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-22T06:42:07.000Z",
-    "available_at": "2025-01-22T13:00:00.000Z",
+    "available_at": "2025-01-22T13:00:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -66,8 +86,9 @@
     "topic_id": "singing",
     "published_at": "2025-01-22T05:58:26.000Z",
     "available_at": "2025-01-22T11:59:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8578,
+    "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -85,8 +106,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-22T01:38:30.000Z",
     "available_at": "2025-01-22T10:00:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13651,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -2912,27 +2933,6 @@
     "published_at": "2024-12-21T15:01:00.000Z",
     "available_at": "2024-12-21T15:01:00.000Z",
     "duration": 184,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC6NE76qpGZJfi20wL-OyKZw",
-    "channel": {
-      "id": "UC3n5uGu18FoCy23ggWWp8tA",
-      "name": "Nanashi Mumei Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nanashi Mumei"
-    }
-  },
-  {
-    "id": "BdaTWNMTPwk",
-    "title": "It's Not a Phase(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-21T15:00:14.000Z",
-    "available_at": "2024-12-21T15:00:14.000Z",
-    "duration": 185,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UC6NE76qpGZJfi20wL-OyKZw",
