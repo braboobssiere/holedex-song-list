@@ -27,7 +27,7 @@
     "available_at": "2025-01-24T10:01:49.000Z",
     "duration": 8481,
     "status": "past",
-    "songcount": 2,
+    "songcount": 7,
     "live_tl_count": {
       "en": 101
     },
@@ -48,8 +48,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-24T03:29:03.000Z",
     "available_at": "2025-01-24T13:02:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13611,
+    "status": "past",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -99,6 +99,26 @@
     }
   },
   {
+    "id": "1vd5kJ-Z4s4",
+    "title": "【 歌枠 】嬉しい告知をウキウキでするねねの歌!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-23T10:38:48.000Z",
+    "available_at": "2025-01-23T09:00:36.000Z",
+    "duration": 5421,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "HPISJ_xCQ8o",
     "title": "【 告知あり 】ラスト歌枠いくぞぉおおおおお！！！【ホロライブ/沙花叉クロヱ】",
     "type": "stream",
@@ -116,26 +136,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakamata Chloe"
-    }
-  },
-  {
-    "id": "1vd5kJ-Z4s4",
-    "title": "【 歌枠 】嬉しい告知をウキウキでするねねの歌！【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-23T04:06:11.000Z",
-    "available_at": "2025-01-23T09:00:36.000Z",
-    "duration": 5429,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
