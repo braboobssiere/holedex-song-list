@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-25T14:23:36.910Z</updated>
+  <updated>2025-01-25T16:30:00.572Z</updated>
+
+  <entry>
+    <id>urn:uuid:64110f9a-bc31-5c9e-aa01-35222e43df37</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】EDGY SINGING TIME]]></title>
+    <link href="https://youtu.be/ndl3bAK26r4" rel="alternate" type="text/html"/>
+    <published>2025-01-25T15:44:53.000Z</published>
+    <updated>2025-01-25T15:44:53.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ndl3bAK26r4 【LIVE on &lt;t:1737849600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ndl3bAK26r4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7ac5d667-e8ea-5256-addd-03a5aaed9e06</id>
@@ -913,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UqOvKVc2PoU 【LIVE on &lt;t:1713132018:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UqOvKVc2PoU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4cb0138d-1ac8-5140-ae30-e7465fdb25f2</id>
-    <title><![CDATA[【新年歌枠】新年のご挨拶&歌い初め!Happy New Year 2025 Singing Stream【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/4K3rIVYbyN4" rel="alternate" type="text/html"/>
-    <published>2025-01-03T16:05:36.000Z</published>
-    <updated>2025-01-03T16:05:36.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4K3rIVYbyN4 【LIVE on &lt;t:1735909347:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4K3rIVYbyN4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2191,7 +2191,7 @@
 
   <entry>
     <id>urn:uuid:2557c729-30b5-5160-9e99-56b5b9ad758e</id>
-    <title><![CDATA[【 エレクトーン｜カメラ枠 】夏の終わりの楽器練習風景なのら～🎹🎶【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[【 エレクトーン|カメラ枠 】夏の終わりの楽器練習風景なのら~🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/VewtEHnovS4" rel="alternate" type="text/html"/>
     <published>2024-08-25T12:07:37.000Z</published>
     <updated>2024-08-25T12:07:37.000Z</updated>
@@ -2765,7 +2765,7 @@
 
   <entry>
     <id>urn:uuid:c66e8f40-9a50-5be8-b612-73fd3acb6159</id>
-    <title><![CDATA[【 楽器演奏 】＜DAY5＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[【 楽器演奏 】<DAY5>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/5fEbt3fOFDs" rel="alternate" type="text/html"/>
     <published>2023-02-26T03:58:35.000Z</published>
     <updated>2023-02-26T03:58:35.000Z</updated>
@@ -2821,7 +2821,7 @@
 
   <entry>
     <id>urn:uuid:7c6e31d2-21e6-5b7b-836b-d454a256163e</id>
-    <title><![CDATA[【 #なのらいぶ 】＜DAY1＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/IMi1Jdo6FHQ" rel="alternate" type="text/html"/>
     <published>2023-01-29T03:28:59.000Z</published>
     <updated>2023-01-29T03:28:59.000Z</updated>
