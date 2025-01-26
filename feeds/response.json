@@ -1,5 +1,24 @@
 [
   {
+    "id": "NXIDznszQhA",
+    "title": "Colorful Universe / 大神ミオ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-26T05:44:26.000Z",
+    "available_at": "2025-01-26T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Z78RNXxUqpOGYKFt-VrJV7nlehOHzl7Ta-l1cgPx5Ewucmr5kY64iGxmPSe7QqIdM1ZhvPlEOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "6aCaEuPSmZ4",
     "title": "【ゲリラ】日曜日のカラオケを堪能しに来ました【#ホロライブ #ロボ子さん 】",
     "type": "stream",
@@ -9,7 +28,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 10
+      "en": 28
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -23,13 +42,13 @@
   },
   {
     "id": "BadCLzkeJfQ",
-    "title": "【歌枠】昼活!懐かしいアニソンを歌う🎤【不知火フレア/ホロライブ】",
+    "title": "【歌枠】昼活！懐かしいアニソンを歌う🎤【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-26T05:03:15.000Z",
     "available_at": "2025-01-26T05:35:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7827,
+    "status": "past",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -41,22 +60,22 @@
     }
   },
   {
-    "id": "FriZAgxe23k",
-    "title": "【OHAPOL】#142 1/26日曜日！もうすぐ誕生日のニチアサ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+    "id": "Utu9hixW6mc",
+    "title": "沙花叉クロヱ MV - 光あれ",
     "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-01-25T20:50:03.000Z",
-    "available_at": "2025-01-25T21:01:46.000Z",
-    "duration": 8221,
-    "status": "past",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-26T02:44:49.000Z",
+    "available_at": "2025-01-26T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
     "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
       "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
+      "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
@@ -3004,47 +3023,6 @@
     }
   },
   {
-    "id": "n5NSnOazdi4",
-    "title": "HIC - jingle balls (Advent Calendar Day 22)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-21T23:30:00.000Z",
-    "available_at": "2024-12-21T23:30:00.000Z",
-    "duration": 110,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "nYVd9pLRqNQ",
-    "title": "It's Not a Phase",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-21T15:01:00.000Z",
-    "available_at": "2024-12-21T15:01:00.000Z",
-    "duration": 184,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC6NE76qpGZJfi20wL-OyKZw",
-    "channel": {
-      "id": "UC3n5uGu18FoCy23ggWWp8tA",
-      "name": "Nanashi Mumei Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nanashi Mumei"
-    }
-  },
-  {
     "id": "EA_DAiEh-v0",
     "title": "#Shinri3D - Daddy Daddy Do",
     "type": "stream",
@@ -5716,6 +5694,25 @@
     }
   },
   {
+    "id": "NEvwo26ivpw",
+    "title": "【切り抜き動画まとめ】今までの誕生日配信を切り抜き動画にしたやつ! #獅白ぼたんプチ生誕2024 【獅白ぼたん/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-09-10T03:00:07.000Z",
+    "available_at": "2024-09-10T03:00:07.000Z",
+    "duration": 2358,
+    "status": "past",
+    "channel": {
+      "id": "UCUKD-uaobj9jiqB-VXt71mA",
+      "name": "Botan Ch.獅白ぼたん",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shishiro Botan"
+    }
+  },
+  {
     "id": "7oEbyelP-YM",
     "title": "Audio Log 1 - ASMR (or more like I tried ASMR but I just ended up rambling for 10min! hehe)",
     "type": "stream",
@@ -6532,7 +6529,7 @@
   },
   {
     "id": "6C9WHww-qsM",
-    "title": "【 エレクトーン 】夕方の練習時間なのら～🎹🎶手袋で丁寧に弾きたい！【姫森ルーナ/ホロライブ】",
+    "title": "【 エレクトーン 】夕方の練習時間なのら~🎹🎶手袋で丁寧に弾きたい!【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2023-07-04T11:47:48.000Z",
@@ -6898,7 +6895,7 @@
   },
   {
     "id": "V5yvpYSsktA",
-    "title": "【 #なのらいぶ 】＜DAY2＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "title": "【 #なのらいぶ 】<DAY2>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2023-02-05T03:31:12.000Z",
