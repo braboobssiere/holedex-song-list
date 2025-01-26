@@ -26,8 +26,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-26T11:38:36.000Z",
     "available_at": "2025-01-26T13:07:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7536,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -67,6 +67,7 @@
     "available_at": "2025-01-26T06:01:13.000Z",
     "duration": 8785,
     "status": "past",
+    "songcount": 11,
     "live_tl_count": {
       "en": 29
     },
@@ -116,6 +117,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "Gr9EoWRzHNg",
+    "title": "【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-25T14:59:14.000Z",
+    "available_at": "2025-01-27T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
     }
   },
   {
@@ -1913,26 +1933,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/K39Md5CGHmCaMC5Ne3UWBzblgzDhUzXUFszrHfGapCvOldc8E7fWw3pxN0zhcjmoht4GngnD=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "lpdinW9rZzE",
-    "title": "【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-06T14:37:46.000Z",
-    "available_at": "2025-01-06T10:33:31.000Z",
-    "duration": 13551,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
-      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sMnKpvVB1QLNSWGX-AIZ00lFTWAUzuZRAi_rlT7Cs9bIGzvWr-1yvKrKZ0tCtX7Ywtzds6ecSXM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiodoshi Ao"
     }
   },
   {
