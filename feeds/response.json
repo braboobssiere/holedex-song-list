@@ -1,13 +1,33 @@
 [
   {
+    "id": "Utu9hixW6mc",
+    "title": "沙花叉クロヱ MV - 光あれ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-26T13:30:06.000Z",
+    "available_at": "2025-01-26T13:30:06.000Z",
+    "duration": 209,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
+    }
+  },
+  {
     "id": "Chx1wN0styA",
     "title": "【カラオケ歌枠】カラオケへの恐怖を克服【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-26T11:38:36.000Z",
-    "available_at": "2025-01-26T13:00:00.000Z",
+    "available_at": "2025-01-26T13:07:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -77,25 +97,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "Utu9hixW6mc",
-    "title": "沙花叉クロヱ MV - 光あれ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-26T02:44:49.000Z",
-    "available_at": "2025-01-26T13:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
