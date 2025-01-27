@@ -3,7 +3,36 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-27T12:48:48.148Z</updated>
+  <updated>2025-01-27T14:27:07.358Z</updated>
+
+  <entry>
+    <id>urn:uuid:adad4738-f115-55de-bcf5-c45dee45c2a9</id>
+    <title><![CDATA[【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお!!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/PgYfCzN2m_M" rel="alternate" type="text/html"/>
+    <published>2025-01-27T13:45:35.000Z</published>
+    <updated>2025-01-27T13:45:35.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PgYfCzN2m_M 【LIVE on &lt;t:1738036800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PgYfCzN2m_M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bdb295fb-1212-566e-8594-dfbaeddcd1ad</id>
+    <title><![CDATA[【しっとり歌枠】
+夜っぽい感じでがんばって歌うからね、、/////【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/vhxtAtZnTb8" rel="alternate" type="text/html"/>
+    <published>2025-01-27T13:29:49.000Z</published>
+    <updated>2025-01-27T13:29:49.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vhxtAtZnTb8 【LIVE on &lt;t:1737984640:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vhxtAtZnTb8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dec0f771-f191-5ae3-9010-3e992d0f157f</id>
@@ -773,20 +802,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=td0eO78wxSI 【LIVE on &lt;t:1736506806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/td0eO78wxSI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bb7c9a10-910d-566d-a4ef-30036fd1d55c</id>
-    <title><![CDATA[【ARCHIVED】YA YA YA【Ayunda Risu】]]></title>
-    <link href="https://youtu.be/XyjQ4P42dZg" rel="alternate" type="text/html"/>
-    <published>2025-01-08T16:27:42.000Z</published>
-    <updated>2025-01-08T16:27:42.000Z</updated>
-    <author>
-      <name>Ayunda Risu Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XyjQ4P42dZg 【LIVE on &lt;t:1736344700:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XyjQ4P42dZg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1701,7 +1716,7 @@
 
   <entry>
     <id>urn:uuid:cc352225-eac0-5ae2-8d4a-a51c98915dd2</id>
-    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】]]></title>
+    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】]]></title>
     <link href="https://youtu.be/ea_saD8oUJI" rel="alternate" type="text/html"/>
     <published>2024-11-15T12:12:10.000Z</published>
     <updated>2024-11-15T12:12:10.000Z</updated>
