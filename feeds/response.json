@@ -1,5 +1,24 @@
 [
   {
+    "id": "T4tyP1lqd_E",
+    "title": "【 歌枠 / 縦型 】60万人目指して歌うよー!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-27T08:07:41.000Z",
+    "available_at": "2025-01-27T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "cKVqUyFmM_o",
     "title": "【#ノエル2000日記念】Shirogane Noel 0th Live ~ソロライブに向けて(歌枠)~【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -66,6 +85,7 @@
     "available_at": "2025-01-26T13:07:07.000Z",
     "duration": 7536,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -147,7 +167,7 @@
     "published_at": "2025-01-25T15:44:53.000Z",
     "available_at": "2025-01-25T23:54:55.000Z",
     "duration": 3838,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -1889,29 +1909,6 @@
     }
   },
   {
-    "id": "Jp2AkWjYYYc",
-    "title": "【そらミオ】新年のコラボ歌枠!!【ホロライブ/ときのそら/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-07T11:20:35.000Z",
-    "available_at": "2025-01-07T10:00:44.000Z",
-    "duration": 4515,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 65
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "oR0xNFdCYiM",
     "title": "Bravely dance (Instrumental)",
     "type": "stream",
@@ -2789,7 +2786,7 @@
       "org": "Hololive",
       "suborg": "ihEnglish -Advent-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiori Novella"
     }
   },
