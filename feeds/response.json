@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-27T08:07:41.000Z",
-    "available_at": "2025-01-27T09:00:00.000Z",
+    "available_at": "2025-01-27T09:01:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -35,25 +35,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "ed7dCfg9sGg",
-    "title": "【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-01-26T14:24:58.000Z",
-    "available_at": "2025-01-27T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -180,13 +161,13 @@
   },
   {
     "id": "Gr9EoWRzHNg",
-    "title": "【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber",
+    "title": "【 オフコラボ l KARAOKE 】バレンタイングッズ出ます!ラブソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-25T14:59:14.000Z",
-    "available_at": "2025-01-27T10:00:00.000Z",
+    "available_at": "2025-01-27T10:01:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -4268,7 +4249,7 @@
   },
   {
     "id": "ea_saD8oUJI",
-    "title": "【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】",
+    "title": "【#第2回ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2024-11-15T12:12:10.000Z",
@@ -6289,6 +6270,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "ssHHC5kmSFo",
+    "title": "【ASMR】人生初のASMRにパリピ漫画家が初挑戦!!!(3Dio)Whispering& Relaxation【#緋崎ガンマ / #ホロスターズ / #vtuber 】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-05-17T15:15:08.000Z",
+    "available_at": "2024-05-17T13:05:11.000Z",
+    "duration": 7241,
+    "status": "missing",
+    "channel": {
+      "id": "UCkT1u65YS49ca_LsFwcTakw",
+      "name": "Gamma Ch. 緋崎ガンマ - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/OppGI1TC0fD59_jquw30zSbyCErgKPdoxcnoxQBACyfsbUM9POxWzNC3Bg3fwZyuSYJXh4DQNw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hizaki Gamma"
     }
   },
   {
