@@ -1,14 +1,33 @@
 [
   {
+    "id": "pP7zB2ARv5c",
+    "title": "【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-29T15:40:07.000Z",
+    "available_at": "2025-01-29T16:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "SB2P7l-9Kr0",
     "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-29T12:23:44.000Z",
     "available_at": "2025-01-29T14:01:05.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 2,
+    "duration": 3965,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -21,13 +40,13 @@
   },
   {
     "id": "SHfMJ2rSWsg",
-    "title": "【誕生日カウントダウン】ついに誕生日!!!一緒にむかえようぜ!!!!!! #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+    "title": "【誕生日カウントダウン】ついに誕生日！！！一緒にむかえようぜ！！！！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-29T11:55:50.000Z",
-    "available_at": "2025-01-29T14:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-01-29T14:30:26.000Z",
+    "duration": 5558,
+    "status": "past",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -1696,25 +1715,6 @@
     }
   },
   {
-    "id": "GWGgEu421F8",
-    "title": "UNARCHIVED REWIND KARAOKE #gavisbettel #holotempus",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-10T17:28:55.000Z",
-    "available_at": "2025-01-11T01:00:20.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/UTMYJz0KkrjT7zdaUq_ofe2su2jFNxuGkDngCSdHH9OwPaYjWG6_7cuIpmrNi-npFiCc9ZsK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
-    }
-  },
-  {
     "id": "d1yOwO2CUaw",
     "title": "P.I.T.A. - Yatogami Fuma (original rap)",
     "type": "stream",
@@ -3346,7 +3346,7 @@
   },
   {
     "id": "HOb_TW8uK48",
-    "title": "【3D LIVE】重大告知あり!紫咲シオンBirthdayアニソンライブ!!✨【#紫咲シオン生誕LIVE2024】",
+    "title": "【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2024-12-08T13:11:22.000Z",

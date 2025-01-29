@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-29T14:26:44.940Z</updated>
+  <updated>2025-01-29T16:31:59.509Z</updated>
+
+  <entry>
+    <id>urn:uuid:5615ded3-e952-5d13-bd64-ebf1d9900bb1</id>
+    <title><![CDATA[【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】]]></title>
+    <link href="https://youtu.be/pP7zB2ARv5c" rel="alternate" type="text/html"/>
+    <published>2025-01-29T15:40:07.000Z</published>
+    <updated>2025-01-29T15:40:07.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pP7zB2ARv5c 【LIVE on &lt;t:1738168200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pP7zB2ARv5c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5ecd36b0-b767-537f-b09c-507cbf85b9b7</id>
@@ -1463,7 +1477,7 @@
 
   <entry>
     <id>urn:uuid:98bc3a87-ea65-5d60-b4fe-a79a80b3d399</id>
-    <title><![CDATA[【3D LIVE】重大告知あり!紫咲シオンBirthdayアニソンライブ!!✨【#紫咲シオン生誕LIVE2024】]]></title>
+    <title><![CDATA[【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】]]></title>
     <link href="https://youtu.be/HOb_TW8uK48" rel="alternate" type="text/html"/>
     <published>2024-12-08T13:11:22.000Z</published>
     <updated>2024-12-08T13:11:22.000Z</updated>
