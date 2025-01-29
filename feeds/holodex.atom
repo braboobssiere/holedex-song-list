@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-29T10:28:51.174Z</updated>
+  <updated>2025-01-29T12:46:23.550Z</updated>
+
+  <entry>
+    <id>urn:uuid:5ecd36b0-b767-537f-b09c-507cbf85b9b7</id>
+    <title><![CDATA[【歌枠】チルしよう【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/SB2P7l-9Kr0" rel="alternate" type="text/html"/>
+    <published>2025-01-29T12:23:44.000Z</published>
+    <updated>2025-01-29T12:23:44.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SB2P7l-9Kr0 【LIVE on &lt;t:1738159246:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SB2P7l-9Kr0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:272cfaba-d3c6-5a6d-bb8c-6ecd324e6137</id>
-    <title><![CDATA[【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお!!!Day2【ホロライブ/夏色まつり】]]></title>
+    <title><![CDATA[【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお！！！Day2【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/ZunoqvjsyKQ" rel="alternate" type="text/html"/>
     <published>2025-01-28T10:12:36.000Z</published>
     <updated>2025-01-28T10:12:36.000Z</updated>
