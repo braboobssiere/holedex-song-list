@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-01-29T16:31:59.509Z</updated>
+  <updated>2025-01-29T18:33:23.793Z</updated>
+
+  <entry>
+    <id>urn:uuid:535e4ad5-dac6-5a2f-9af9-e2a49c0b5b64</id>
+    <title><![CDATA[【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】]]></title>
+    <link href="https://youtu.be/dDseEoTIrkE" rel="alternate" type="text/html"/>
+    <published>2025-01-29T17:35:04.000Z</published>
+    <updated>2025-01-29T17:35:04.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dDseEoTIrkE 【LIVE on &lt;t:1738173006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dDseEoTIrkE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5615ded3-e952-5d13-bd64-ebf1d9900bb1</id>
-    <title><![CDATA[【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】]]></title>
+    <title><![CDATA[【ARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】]]></title>
     <link href="https://youtu.be/pP7zB2ARv5c" rel="alternate" type="text/html"/>
     <published>2025-01-29T15:40:07.000Z</published>
     <updated>2025-01-29T15:40:07.000Z</updated>
@@ -15,7 +29,7 @@
       <name>Moona Hoshinova hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pP7zB2ARv5c 【LIVE on &lt;t:1738168200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pP7zB2ARv5c 【LIVE on &lt;t:1738168270:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pP7zB2ARv5c/maxresdefault.jpg"/>
   </entry>
 
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=SB2P7l-9Kr0 【LIVE on &lt;t:1738159265:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SB2P7l-9Kr0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:adad4738-f115-55de-bcf5-c45dee45c2a9</id>
+    <title><![CDATA[【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお!!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/PgYfCzN2m_M" rel="alternate" type="text/html"/>
+    <published>2025-01-28T10:22:39.000Z</published>
+    <updated>2025-01-28T10:22:39.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PgYfCzN2m_M 【LIVE on &lt;t:1738036932:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PgYfCzN2m_M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -73,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cKVqUyFmM_o 【LIVE on &lt;t:1737975755:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cKVqUyFmM_o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:adad4738-f115-55de-bcf5-c45dee45c2a9</id>
-    <title><![CDATA[【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお！！！【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/PgYfCzN2m_M" rel="alternate" type="text/html"/>
-    <published>2025-01-27T13:45:35.000Z</published>
-    <updated>2025-01-27T13:45:35.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PgYfCzN2m_M 【LIVE on &lt;t:1738036932:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PgYfCzN2m_M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -787,20 +801,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uB6GxHc7PRc 【LIVE on &lt;t:1736683210:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uB6GxHc7PRc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5c18f5d6-d5e3-5dee-8417-3ddb01016a3e</id>
-    <title><![CDATA[【重大告知あり!】はじめの日!ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/_byghWBFAPE" rel="alternate" type="text/html"/>
-    <published>2025-01-11T10:56:25.000Z</published>
-    <updated>2025-01-11T10:56:25.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_byghWBFAPE 【LIVE on &lt;t:1736589611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_byghWBFAPE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
