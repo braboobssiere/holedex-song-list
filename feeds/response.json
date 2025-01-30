@@ -1,5 +1,24 @@
 [
   {
+    "id": "dXvCmg86zwA",
+    "title": "【歌枠】新ステージ大発表!!歌うよ!Singing Stream【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-30T06:37:21.000Z",
+    "available_at": "2025-01-30T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "fMftWUo3dAU",
     "title": "【ポルカの伝説】こいつぁどこのご当地グルメだい!?誕生日でご褒美!?",
     "type": "stream",
@@ -1647,26 +1666,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "SexHqNki854",
-    "title": "「V系 ヴィジュアル系」のお歌に挑戦してみるのら~🎤🎶KARAOKE【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-12T15:24:52.000Z",
-    "available_at": "2025-01-12T13:00:16.000Z",
-    "duration": 7951,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
