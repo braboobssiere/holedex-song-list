@@ -1,5 +1,43 @@
 [
   {
+    "id": "wjYQDGkNtqU",
+    "title": "【 歌枠 】ねねの昼枠!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-30T01:27:59.000Z",
+    "available_at": "2025-01-30T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "bGV3p1YkKLQ",
+    "title": "【REBROADCAST UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-29T23:54:02.000Z",
+    "available_at": "2025-01-30T00:00:26.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "dDseEoTIrkE",
     "title": "【UNARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】",
     "type": "stream",
@@ -27,6 +65,7 @@
     "available_at": "2025-01-29T16:31:10.000Z",
     "duration": 4638,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -1634,25 +1673,6 @@
     }
   },
   {
-    "id": "B5LxWqZ4Yi4",
-    "title": "【#2NDHAKKIVERSARY】LET'S CELEBRATE 2 YEARS OF BANZOIN HAKKA BABY 🎤✨【UNARCHIVED KARAOKE】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-11T21:32:10.000Z",
-    "available_at": "2025-01-12T02:59:40.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0Q5AfHrrX0dnIFEmPwE72e4KEUk1K0RSBFiceMyCC2gMWYuKN9ZIS9R_1B3RWkd2Zyc9i3J87g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
     "id": "SbncULXUROM",
     "title": "【カウントダウン】ぺこらの誕生日をみんなで迎えよう!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
     "type": "stream",
@@ -1691,25 +1711,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "NqedjOXydbc",
-    "title": "【UNARCHIVED KARAOKE REBROADCAST】Singing in the New Year",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-11T13:10:40.000Z",
-    "available_at": "2025-01-11T20:01:39.000Z",
-    "duration": 15384,
-    "status": "missing",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
     }
   },
   {
@@ -4756,7 +4757,7 @@
       "org": "Hololive",
       "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/R4NxwlGVKoR9spXGLAqVInfP-MML5mxdt1-kTOMlIrDWcq1gv2cOuxjoPYmf5RNd8Xqbz17r=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
     }
   },
