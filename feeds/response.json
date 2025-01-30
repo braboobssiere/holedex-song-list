@@ -1,5 +1,24 @@
 [
   {
+    "id": "fMftWUo3dAU",
+    "title": "【ポルカの伝説】こいつぁどこのご当地グルメだい!?誕生日でご褒美!?",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-01-30T02:26:00.000Z",
+    "available_at": "2025-01-30T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "wjYQDGkNtqU",
     "title": "【 歌枠 】ねねの昼枠!【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -25,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-01-29T23:54:02.000Z",
     "available_at": "2025-01-30T00:00:26.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7472,
+    "status": "past",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -5690,25 +5709,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "ZPZ81qnlSno",
-    "title": "【#栞葉の誕生日】ライバーのすなる凸待ちをしてみんとてする犬【栞葉るり/にじさんじ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-09-20T12:14:58.000Z",
-    "available_at": "2024-09-20T08:01:33.000Z",
-    "duration": 14368,
-    "status": "past",
-    "channel": {
-      "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
-      "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
-      "org": "Nijisanji",
-      "suborg": "1uMitarashi-dan",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/jPvNu-C4MkzbOLXVUGwi1F_gwDOHrktOJO9whBMl4n-99llZD27rdXVQTcHZPWmiBPl9-nwT=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shioriha Ruri"
     }
   },
   {
