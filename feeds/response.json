@@ -1,24 +1,5 @@
 [
   {
-    "id": "m1dUvUTn-Dg",
-    "title": "【誕生日ライブ振り返り雑談】ライブありがとうございました!!!!!【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-01-30T23:45:18.000Z",
-    "available_at": "2025-01-31T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
-    }
-  },
-  {
     "id": "Y0jE3O_3deI",
     "title": "【アニメーションMV】パペット - Omaru Polka(Original)【尾丸ポルカ】",
     "type": "stream",
@@ -102,9 +83,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-01-30T05:41:13.000Z",
-    "available_at": "2025-01-31T10:00:00.000Z",
+    "available_at": "2025-01-31T10:02:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -143,7 +127,7 @@
     "published_at": "2025-01-29T23:54:02.000Z",
     "available_at": "2025-01-30T00:00:26.000Z",
     "duration": 7472,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -5686,6 +5670,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukoku Roberu"
+    }
+  },
+  {
+    "id": "nH_pe2Nqqsg",
+    "title": "【BDAY PARTY】Special Concert with Friends!【idolES | Taiga Toragami】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-09-23T00:18:49.000Z",
+    "available_at": "2024-09-22T23:00:32.000Z",
+    "duration": 3504,
+    "status": "past",
+    "channel": {
+      "id": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "name": "Taiga Toragami Ch. idol",
+      "org": "idol Corp",
+      "suborg": "2aEternalS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5EMG1LYOXaHHh_zMpzP84qJqtDwMnSy3fzHk_-uNaj-I6LKPdp6lnhSqkKLSMHM3yBqk_s1Y9A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Taiga Toragami"
     }
   },
   {
