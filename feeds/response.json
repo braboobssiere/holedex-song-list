@@ -44,9 +44,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-01-30T09:40:45.000Z",
-    "available_at": "2025-01-31T14:00:00.000Z",
+    "available_at": "2025-01-31T14:01:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 38
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -86,6 +89,7 @@
     "available_at": "2025-01-31T10:02:15.000Z",
     "duration": 3690,
     "status": "past",
+    "songcount": 8,
     "live_tl_count": {
       "en": 38
     },
