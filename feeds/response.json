@@ -1,5 +1,24 @@
 [
   {
+    "id": "M_FyANFZHro",
+    "title": "【昼の歌枠】昼なのでポジティブになれる系の歌多め【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-01T18:06:56.000Z",
+    "available_at": "2025-02-02T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
     "id": "yVp6ygiGtXE",
     "title": "【 歌枠 l KARAOKE 】ピアノ音源をお借りしてしっとりと【 水無世燐央 l UPROAR!! 】#vtuber",
     "type": "stream",
@@ -95,6 +114,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "hsnc9WCwMQo",
+    "title": "【歌枠】KOYORINIUM STATION略してこよステ!金曜夜の不定期おなじみ枠になりたい🎤🎶 #2 【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-01-31T11:26:20.000Z",
+    "available_at": "2025-01-31T10:02:15.000Z",
+    "duration": 3687,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 38
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -209,29 +251,6 @@
     "status": "past",
     "live_tl_count": {
       "en": 101
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "hsnc9WCwMQo",
-    "title": "【歌枠】KOYORINIUM STATION略してこよステ！金曜夜の不定期おなじみ枠になりたい🎤🎶 #2 【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-30T05:41:13.000Z",
-    "available_at": "2025-01-31T10:02:15.000Z",
-    "duration": 3690,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 38
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -1844,26 +1863,6 @@
     "status": "past",
     "songcount": 8,
     "original_channel_id": "UCp74ruKv2sUiI2HqEhH8pRw",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "FHgeeY_UPiI",
-    "title": "tuki.ちゃんと星街すいせいでカラオケ行ってみた‼🌙✨(前編)",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-14T10:00:11.000Z",
-    "available_at": "2025-01-14T10:00:11.000Z",
-    "duration": 2018,
-    "status": "past",
-    "songcount": 6,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
