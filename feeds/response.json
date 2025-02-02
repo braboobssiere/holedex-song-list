@@ -43,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-01T18:06:56.000Z",
-    "available_at": "2025-02-02T03:00:00.000Z",
+    "available_at": "2025-02-02T03:01:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -225,7 +225,7 @@
   },
   {
     "id": "Y0jE3O_3deI",
-    "title": "【アニメーションMV】パペット - Omaru Polka(Original)【尾丸ポルカ】",
+    "title": "【アニメーションMV】パペット - Omaru Polka（Original）【尾丸ポルカ】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-01-30T12:05:06.000Z",
@@ -1841,9 +1841,13 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-01-14T16:27:51.000Z",
-    "available_at": "2025-02-02T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-02-02T02:58:09.000Z",
+    "duration": 4835,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 34
+    },
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
