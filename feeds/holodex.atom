@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-02T06:31:13.014Z</updated>
+  <updated>2025-02-02T08:28:41.786Z</updated>
+
+  <entry>
+    <id>urn:uuid:20d08159-6311-5f3e-8dc4-36f66f2617bb</id>
+    <title><![CDATA[ワンダーフューチャー!/白上フブキ feat. 大神ミオ,猫又おかゆ,戌神ころね(Original)]]></title>
+    <link href="https://youtu.be/n7ZLEzbubJs" rel="alternate" type="text/html"/>
+    <published>2025-02-02T06:39:52.000Z</published>
+    <updated>2025-02-02T06:39:52.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=n7ZLEzbubJs 【LIVE on &lt;t:1738490400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/n7ZLEzbubJs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d4dd42b4-1d00-5a2d-8fa5-60dc10658937</id>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=a5XCV1g1Tc8 【LIVE on &lt;t:1735039806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a5XCV1g1Tc8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f7fea3ee-4a81-5450-8a68-a2a07a0f354a</id>
-    <title><![CDATA[夢屑ケーキ]]></title>
-    <link href="https://youtu.be/ynoWf_njG4w" rel="alternate" type="text/html"/>
-    <published>2024-12-24T10:01:00.000Z</published>
-    <updated>2024-12-24T10:01:00.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ynoWf_njG4w 【LIVE on &lt;t:1735034460:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ynoWf_njG4w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
