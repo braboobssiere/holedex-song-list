@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-02-01T19:14:34.000Z",
-    "available_at": "2025-02-02T01:00:00.000Z",
+    "available_at": "2025-02-02T01:40:14.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
       "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -46,6 +46,7 @@
     "available_at": "2025-02-01T15:31:21.000Z",
     "duration": 10772,
     "status": "past",
+    "songcount": 21,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -114,25 +115,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "xEsz-M4J3bE",
-    "title": "【FUWAMOCO BIRTHDAY COUNTDOWN】moments before our big BAU BAU day 🐾 #FWMCbday25",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-01-31T21:53:32.000Z",
-    "available_at": "2025-02-01T06:55:15.000Z",
-    "duration": 7675,
-    "status": "past",
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -546,6 +528,7 @@
     "available_at": "2025-02-01T08:30:22.000Z",
     "duration": 3310,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -4303,7 +4286,7 @@
       "org": "Hololive",
       "suborg": "oeHOLOSTARS English -ARMIS-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gIHnyS3rzWyP5H75gXbVkKy-AjWgq6SoSA5stdtffSmWLsudt1gxQ7_9U-VRrb7f8FgqrrbX6U4=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
     }
   },
@@ -5730,6 +5713,25 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "YNjGE3npyLU",
+    "title": "【#歌衣メイカ爆誕祭2024】明日全編無料のバースデーライブ!のゲスト発表放送と説明をちょろり【歌衣メイカ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-09-27T14:09:07.000Z",
+    "available_at": "2024-09-27T13:02:13.000Z",
+    "duration": 3751,
+    "status": "past",
+    "channel": {
+      "id": "UC7-N7MvN5muVIHqyQx9LFbA",
+      "name": "メイカちゃんねる",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Utai Meika"
     }
   },
   {
