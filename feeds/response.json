@@ -1,13 +1,13 @@
 [
   {
     "id": "EAODs2kxMwY",
-    "title": "【歌枠 / karaoke】もう寝た? / アステル",
+    "title": "【歌枠 / karaoke】もう寝た？ / アステル",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-03T17:01:04.000Z",
     "available_at": "2025-02-03T17:07:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5821,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -279,6 +279,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4wLMmSJkzy4vmWfWYkmzn6YO9T__jp1cORNuFXN7YyihwvhGkqXCxNBaklKoXlgdik-Fp0Zu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
+    "id": "TinOO72OzZ0",
+    "title": "【リクエスト歌枠】リクエストフォームで来た曲は歌うぞ!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-01T13:47:45.000Z",
+    "available_at": "2025-02-04T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -1956,26 +1975,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "d_aZCUriP30",
-    "title": "【突然の】何を歌うかは決めていないけど、歌います!【歌枠】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-15T10:09:51.000Z",
-    "available_at": "2025-01-15T08:31:06.000Z",
-    "duration": 5500,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
