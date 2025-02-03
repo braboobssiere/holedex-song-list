@@ -120,32 +120,13 @@
     }
   },
   {
-    "id": "M_FyANFZHro",
-    "title": "【昼の歌枠】昼なのでポジティブになれる系の歌多め【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-01T18:06:56.000Z",
-    "available_at": "2025-02-02T03:01:50.000Z",
-    "duration": 5745,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
-    }
-  },
-  {
     "id": "yVp6ygiGtXE",
     "title": "【 歌枠 l KARAOKE 】ピアノ音源をお借りしてしっとりと【 水無世燐央 l UPROAR!! 】#vtuber",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-02-01T15:23:52.000Z",
+    "published_at": "2025-02-01T18:40:59.000Z",
     "available_at": "2025-02-01T15:31:21.000Z",
-    "duration": 10772,
+    "duration": 10746,
     "status": "past",
     "songcount": 21,
     "channel": {
@@ -156,6 +137,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3gDwuB-a4w3LZhb12eE5iJ4jd6gcZblF5IQhkblSDF5cGgQ6tu13xZAZlNDf8_lmCaTPaOI9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "M_FyANFZHro",
+    "title": "【昼の歌枠】昼なのでポジティブになれる系の歌多め【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-01T18:06:56.000Z",
+    "available_at": "2025-02-02T03:01:50.000Z",
+    "duration": 5745,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
     }
   },
   {
