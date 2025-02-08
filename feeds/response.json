@@ -1,5 +1,24 @@
 [
   {
+    "id": "XGjVwUlGMtM",
+    "title": "【Unarchived Karaoke】I'm Bored",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-08T02:36:56.000Z",
+    "available_at": "2025-02-08T04:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
     "id": "n1PmI9tx7nA",
     "title": "【 懐メロ 】アニソン歌枠!!!突然歌いたくなったのら~~~🎤(・o・🍬)【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2025-02-06T13:00:19.000Z",
     "duration": 8017,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -1909,29 +1929,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "ebklxH8Xuko",
-    "title": "【歌枠/karaoke】20万人耐久!話多めで歌う【水宮枢/FLOW GLOW】#hololiveDEV_IS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-16T16:25:03.000Z",
-    "available_at": "2025-01-16T13:00:11.000Z",
-    "duration": 11529,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "en": 6
-    },
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ORf3qREMw-ycNKEoaOGFib5yr8B1v--YzmyODCIZ6aieC505HZoHxeEk-H0vjo7PFCd12p0LcQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
