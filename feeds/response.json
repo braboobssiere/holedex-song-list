@@ -1,5 +1,24 @@
 [
   {
+    "id": "RmnUu4AiLVU",
+    "title": "【歌枠】リオナちゃんと初コラボだ!【ホロライブ/ときのそら/響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-10T07:42:16.000Z",
+    "available_at": "2025-02-10T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "HvehDSYPms0",
     "title": "【 #かなころ5周年 】初コラボから5周年!!おめでとう!!!【天音かなた、戌神ころね/ホロライブ】",
     "type": "stream",
@@ -27,6 +46,7 @@
     "available_at": "2025-02-09T00:32:32.000Z",
     "duration": 8359,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
       "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -46,6 +66,7 @@
     "available_at": "2025-02-09T02:28:30.000Z",
     "duration": 11727,
     "status": "past",
+    "songcount": 32,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -65,6 +86,7 @@
     "available_at": "2025-02-09T13:07:39.000Z",
     "duration": 22843,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -1849,26 +1871,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "PqLp29yuOLA",
-    "title": "【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-18T12:16:30.000Z",
-    "available_at": "2025-01-18T08:32:24.000Z",
-    "duration": 12558,
-    "status": "past",
-    "songcount": 24,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4XC0YEED9T4kvdLbJNK5f8GRCUNJds21yPXR4lNgH_CCjR-gbOYzod-vjfbH93YNFm6CiSSskA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
