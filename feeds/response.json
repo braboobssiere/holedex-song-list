@@ -239,7 +239,7 @@
     "published_at": "2025-02-07T08:09:25.000Z",
     "available_at": "2025-02-12T10:00:00.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -252,15 +252,15 @@
   },
   {
     "id": "tQ5uaFFrvRc",
-    "title": "【ときのそらFC限定3D特番】ReGLOSSとリベンジバラエティ!(無料パート同時配信枠)",
+    "title": "【ときのそらFC限定3D特番】ReGLOSSとリベンジバラエティ！（無料パート同時配信枠）",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-02-07T03:24:30.000Z",
     "available_at": "2025-02-12T09:51:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3006,
+    "status": "past",
     "live_tl_count": {
-      "en": 27
+      "en": 35
     },
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
