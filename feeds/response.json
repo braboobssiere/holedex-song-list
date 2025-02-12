@@ -239,7 +239,7 @@
     "published_at": "2025-02-07T08:09:25.000Z",
     "available_at": "2025-02-12T10:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -256,9 +256,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-02-07T03:24:30.000Z",
-    "available_at": "2025-02-12T10:00:00.000Z",
+    "available_at": "2025-02-12T09:51:59.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 27
+    },
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -1119,9 +1122,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-01-26T14:24:58.000Z",
-    "available_at": "2025-02-12T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-02-12T10:00:17.000Z",
+    "duration": 818,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -6675,7 +6678,7 @@
       "org": "Hololive",
       "suborg": "fa4th Generation (holoForce)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
     }
   },
