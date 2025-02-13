@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-13T18:34:33.003Z</updated>
+  <updated>2025-02-13T20:27:06.276Z</updated>
+
+  <entry>
+    <id>urn:uuid:d701e730-4909-571a-8d82-0d3abf7b4bfe</id>
+    <title><![CDATA[【歌枠】バレンタインだから「恋愛」曲縛りで歌うぞっ❤🍫【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/dl-PBAIdLwk" rel="alternate" type="text/html"/>
+    <published>2025-02-13T18:19:00.000Z</published>
+    <updated>2025-02-13T18:19:00.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dl-PBAIdLwk 【LIVE on &lt;t:1739523600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dl-PBAIdLwk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a2f47bd7-393f-5e9a-983b-756ce364c442</id>
@@ -916,17 +930,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7910cccc-54b7-59d6-b088-4c2ea37ed097</id>
-    <title><![CDATA[【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/CE4dUNYVL10" rel="alternate" type="text/html"/>
-    <published>2025-01-20T16:14:35.000Z</published>
-    <updated>2025-01-20T16:14:35.000Z</updated>
+    <id>urn:uuid:351a3dfa-04d9-5e64-a25b-bff9dc5838f9</id>
+    <title><![CDATA[【チラ見せ】Shirakami Fubuki 1stLIVE FBKINGDOM “ANTHEM”]]></title>
+    <link href="https://youtu.be/BRiz6VMcL8c" rel="alternate" type="text/html"/>
+    <published>2025-01-20T11:46:20.000Z</published>
+    <updated>2025-01-20T11:46:20.000Z</updated>
     <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CE4dUNYVL10 【LIVE on &lt;t:1737381673:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CE4dUNYVL10/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BRiz6VMcL8c 【LIVE on &lt;t:1739437226:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BRiz6VMcL8c/maxresdefault.jpg"/>
   </entry>
 
   <entry>

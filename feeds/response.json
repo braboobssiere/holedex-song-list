@@ -1,5 +1,24 @@
 [
   {
+    "id": "dl-PBAIdLwk",
+    "title": "【歌枠】バレンタインだから「恋愛」曲縛りで歌うぞっ❤🍫【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-13T18:19:00.000Z",
+    "available_at": "2025-02-14T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "y8apFs-DtbY",
     "title": "【ASMR HANDCAM】Spending my Valentines with You",
     "type": "stream",
@@ -2002,26 +2021,6 @@
     }
   },
   {
-    "id": "CE4dUNYVL10",
-    "title": "【歌枠/KARAOKE】寝る前にチルめにのんびり歌うよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-20T16:14:35.000Z",
-    "available_at": "2025-01-20T14:01:13.000Z",
-    "duration": 6948,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/TejsfeJ29zBtQDJhP2TKDFAEk98-LuGRBGqrNIjbGQ05T9R5Jcl_VfsK27LZ_PXJmRP7DECk-w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "r7ApxbTtFn0",
     "title": "うた　アーカイブはない【ホロライブ/黒上フブキ】",
     "type": "stream",
@@ -2049,6 +2048,7 @@
     "available_at": "2025-02-13T09:00:26.000Z",
     "duration": 3402,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
