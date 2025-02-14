@@ -1,5 +1,62 @@
 [
   {
+    "id": "eNEmDBWYls0",
+    "title": "【 歌枠 l KARAOKE 】睡眠導入にどうぞ【 水無世燐央 l UPROAR!! 】#vtuber",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-14T18:00:36.000Z",
+    "available_at": "2025-02-14T18:05:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "df5nfWiIkzM",
+    "title": "VALENTINE'S KARAOKE TIME! | UNARCHIVED KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-14T17:07:24.000Z",
+    "available_at": "2025-02-15T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
+    "id": "Gnzqabvc19o",
+    "title": "【SHOW】A TRIBUTE TO LOVE SONGS ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-14T16:38:40.000Z",
+    "available_at": "2025-02-14T20:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "s9Mn0mWuPZg",
     "title": "【UNARCHIVED】Valentines Karaoke in 3D in Concert Style ✨💗💕 #kfp #キアライブ",
     "type": "stream",
@@ -66,8 +123,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-02-14T08:28:14.000Z",
     "available_at": "2025-02-14T14:30:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8035,
+    "status": "past",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -202,8 +259,11 @@
     "topic_id": "Birthday",
     "published_at": "2025-02-14T03:52:56.000Z",
     "available_at": "2025-02-14T16:01:38.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4698,
+    "status": "past",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -349,6 +409,26 @@
     }
   },
   {
+    "id": "BRiz6VMcL8c",
+    "title": "【チラ見せ】Shirakami Fubuki 1stLIVE FBKINGDOM “ANTHEM\"",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-02-13T10:00:44.000Z",
+    "available_at": "2025-02-13T09:00:26.000Z",
+    "duration": 3416,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
     "id": "l0mJei_L38w",
     "title": "【UNARCHIVED KARAOKE】LOW REGISTER KARAOKE",
     "type": "stream",
@@ -388,25 +468,6 @@
     }
   },
   {
-    "id": "7QmMuUcx6Gs",
-    "title": "【UNARCHIVED】🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-13T02:49:18.000Z",
-    "available_at": "2025-02-15T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "X5k_yBUDVUo",
     "title": "【BIRTHDAY STREAM】REVEALING MY HANDS TO THE WORLD #BirthdayRex2025",
     "type": "stream",
@@ -423,6 +484,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
+    }
+  },
+  {
+    "id": "4JNyad4TTuY",
+    "title": "【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-13T00:19:49.000Z",
+    "available_at": "2025-02-15T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
     }
   },
   {
@@ -496,6 +576,7 @@
     "available_at": "2025-02-14T10:59:11.000Z",
     "duration": 3479,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -1788,46 +1869,6 @@
     }
   },
   {
-    "id": "cFLbLnc9PZg",
-    "title": "【歌枠】スタースタースタート300万再生うれしいから歌う【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-24T11:42:45.000Z",
-    "available_at": "2025-01-24T10:00:14.000Z",
-    "duration": 5364,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "rTEsZyFngII",
-    "title": "【 #ほしちゃま 】宇宙1かわいいコンビでカラオケ~~~!🌟❤️‍🔥【ホロライブ/赤井はあと/にじさんじ/星川サラ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-24T10:05:40.000Z",
-    "available_at": "2025-01-24T09:04:27.000Z",
-    "duration": 3438,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "hn0uO7INK48",
     "title": "【#柚原いづみ誕生祭】初逆凸!柚原いづみとお友達になって下さい!!【柚原いづみ / ななしいんく】",
     "type": "stream",
@@ -2133,26 +2174,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "BRiz6VMcL8c",
-    "title": "【チラ見せ】Shirakami Fubuki 1stLIVE FBKINGDOM “ANTHEM”",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-01-20T11:46:20.000Z",
-    "available_at": "2025-02-13T09:00:26.000Z",
-    "duration": 3402,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -5798,25 +5819,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "8aeo7yOdiMs",
-    "title": "【🎂誕生日逆凸】ほぼ絡んだことない人限定で電話かけちゃお!!! #アンジュ爆誕【にじさんじ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-09-30T15:50:00.000Z",
-    "available_at": "2024-09-30T12:02:14.000Z",
-    "duration": 12524,
-    "status": "past",
-    "channel": {
-      "id": "UCHVXbQzkl3rDfsXWo8xi2qw",
-      "name": "アンジュ・カトリーナ - Ange Katrina -",
-      "org": "Nijisanji",
-      "suborg": "0iSanbaka",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_liDbr1ofzknDCW8S3ChEFTci-PGATj8zCJ1pRWlomUCWo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ange Katrina"
     }
   },
   {
