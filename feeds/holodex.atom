@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-15T10:27:43.198Z</updated>
+  <updated>2025-02-15T12:43:56.757Z</updated>
 
   <entry>
     <id>urn:uuid:f2d4f88f-b89d-52e5-b799-0de83361ebc7</id>
@@ -230,17 +230,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1ffb3493-7f11-51fe-b5bb-043956d4877e</id>
-    <title><![CDATA[≪UNARCHIVED KARAOKE・歌枠≫ WE STAND ALONE]]></title>
-    <link href="https://youtu.be/fIVg5w0W5ws" rel="alternate" type="text/html"/>
-    <published>2025-02-13T13:07:09.000Z</published>
-    <updated>2025-02-13T13:07:09.000Z</updated>
+    <id>urn:uuid:a4aea371-562f-5ee7-a26a-37cea7642443</id>
+    <title><![CDATA[???????????]]></title>
+    <link href="https://youtu.be/qm1RqoX3PzM" rel="alternate" type="text/html"/>
+    <published>2025-02-13T15:20:06.000Z</published>
+    <updated>2025-02-13T15:20:06.000Z</updated>
     <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fIVg5w0W5ws 【LIVE on &lt;t:1739494844:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fIVg5w0W5ws/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qm1RqoX3PzM 【LIVE on &lt;t:1739625300:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qm1RqoX3PzM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -283,6 +283,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eZ0mFngNR2A 【LIVE on &lt;t:1739413514:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eZ0mFngNR2A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:badfacf3-3f5a-5186-9f11-2851e3661065</id>
+    <title><![CDATA[【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive]]></title>
+    <link href="https://youtu.be/4JNyad4TTuY" rel="alternate" type="text/html"/>
+    <published>2025-02-13T00:19:49.000Z</published>
+    <updated>2025-02-13T00:19:49.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4JNyad4TTuY 【LIVE on &lt;t:1739620793:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4JNyad4TTuY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1473,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tS0gJ3GicHE 【LIVE on &lt;t:1735398063:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tS0gJ3GicHE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c75270e4-fa8f-5d61-96f9-88f73a0ac053</id>
-    <title><![CDATA[TEMARI]]></title>
-    <link href="https://youtu.be/tXb394z4lY8" rel="alternate" type="text/html"/>
-    <published>2024-12-28T15:00:57.000Z</published>
-    <updated>2024-12-28T15:00:57.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tXb394z4lY8 【LIVE on &lt;t:1735398057:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tXb394z4lY8/maxresdefault.jpg"/>
   </entry>
 
   <entry>

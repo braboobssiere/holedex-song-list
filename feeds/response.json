@@ -1,5 +1,24 @@
 [
   {
+    "id": "c5Go7Q8oHvA",
+    "title": "【ドラゴンボールZ ドッカンバトル】ネタバレあり ドッカンバトル10周年後半ガシャ【荒咬オウガ /ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-02-15T09:28:42.000Z",
+    "available_at": "2025-02-15T11:01:13.000Z",
+    "duration": 3396,
+    "status": "past",
+    "channel": {
+      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
+      "name": "Oga Ch.荒咬オウガ",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aragami Oga"
+    }
+  },
+  {
     "id": "1m50oMSItuA",
     "title": "【ASMR/体験版】1日遅れのHappy Valentine🍫💖ゆるふわまいぺーすに大好きなキミといちゃらぶ時間🎁【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -450,6 +469,25 @@
     }
   },
   {
+    "id": "qm1RqoX3PzM",
+    "title": "???????????",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-02-13T15:20:06.000Z",
+    "available_at": "2025-02-15T13:15:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
+    }
+  },
+  {
     "id": "fIVg5w0W5ws",
     "title": "≪UNARCHIVED KARAOKE・歌枠≫ WE STAND ALONE",
     "type": "stream",
@@ -457,7 +495,7 @@
     "published_at": "2025-02-13T13:07:09.000Z",
     "available_at": "2025-02-14T01:00:44.000Z",
     "duration": 7168,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -572,9 +610,13 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-02-13T00:19:49.000Z",
-    "available_at": "2025-02-15T12:00:00.000Z",
+    "available_at": "2025-02-15T11:59:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -3322,27 +3364,6 @@
     }
   },
   {
-    "id": "tXb394z4lY8",
-    "title": "TEMARI",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2024-12-28T15:00:57.000Z",
-    "available_at": "2024-12-28T15:00:57.000Z",
-    "duration": 245,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCeSflFgEVmvwChpTB0lLO1w",
-    "channel": {
-      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "name": "Ninomae Ina'nis Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
     "id": "ysmbvtf3_bc",
     "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \"Spectra of Nova\"【福岡サンパレス】",
     "type": "stream",
@@ -5528,25 +5549,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "PiCgcVcdXQw",
-    "title": "【雑談&スパチャ御礼枠 】#律可5周年記念 のこと!【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-10-22T15:43:22.000Z",
-    "available_at": "2024-10-22T14:01:26.000Z",
-    "duration": 5062,
-    "status": "past",
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
