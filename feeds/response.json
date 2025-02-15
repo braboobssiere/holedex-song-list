@@ -1,5 +1,24 @@
 [
   {
+    "id": "JbQV7euxmaI",
+    "title": "short love songing karaoke",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-15T04:12:47.000Z",
+    "available_at": "2025-02-15T04:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC3n5uGu18FoCy23ggWWp8tA",
+      "name": "Nanashi Mumei Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ufO7pGRu0vUfA2FLPz7yN517i8wOYxAdcxB9nSTKKfiKhjec0ulSmwWmRA00KqVpOTIesgXhMA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nanashi Mumei"
+    }
+  },
+  {
     "id": "eNEmDBWYls0",
     "title": "【 歌枠 l KARAOKE 】睡眠導入にどうぞ【 水無世燐央 l UPROAR!! 】#vtuber",
     "type": "stream",
@@ -25,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-02-14T17:07:24.000Z",
     "available_at": "2025-02-15T00:55:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11076,
+    "status": "past",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -103,6 +122,7 @@
     "available_at": "2025-02-14T12:01:29.000Z",
     "duration": 8193,
     "status": "past",
+    "songcount": 7,
     "live_tl_count": {
       "en": 193
     },
@@ -201,6 +221,7 @@
     "available_at": "2025-02-14T10:00:52.000Z",
     "duration": 4386,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -220,6 +241,7 @@
     "available_at": "2025-02-14T13:00:31.000Z",
     "duration": 3792,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -321,6 +343,7 @@
     "available_at": "2025-02-14T09:03:38.000Z",
     "duration": 7291,
     "status": "past",
+    "songcount": 20,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -573,6 +596,7 @@
     "available_at": "2025-02-14T10:00:19.000Z",
     "duration": 3728,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 43
     },
@@ -1842,26 +1866,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "8ZPV_d0icPk",
-    "title": "【弾き語り歌枠】いったん歌ってみる【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-24T13:55:57.000Z",
-    "available_at": "2025-01-24T12:00:23.000Z",
-    "duration": 3921,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
