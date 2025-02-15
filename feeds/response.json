@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-14T17:07:24.000Z",
-    "available_at": "2025-02-15T01:00:00.000Z",
+    "available_at": "2025-02-15T00:55:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -63,8 +63,8 @@
     "topic_id": "singing",
     "published_at": "2025-02-14T16:38:40.000Z",
     "available_at": "2025-02-14T20:25:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11181,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -123,8 +123,8 @@
     "topic_id": "singing",
     "published_at": "2025-02-14T09:33:51.000Z",
     "available_at": "2025-02-14T22:00:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11359,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -351,6 +351,25 @@
     }
   },
   {
+    "id": "LZtvnkkj3hw",
+    "title": "【凸待ち】誕生日カウントダウン!【ホロライブ/癒月ちょこ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-13T16:36:53.000Z",
+    "available_at": "2025-02-13T14:45:44.000Z",
+    "duration": 6237,
+    "status": "past",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
     "id": "1STQIE9GafI",
     "title": "【UNARCHIVED KARAOKE】Sweet Love Song Valentines Karaoke❤",
     "type": "stream",
@@ -367,44 +386,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "qm1RqoX3PzM",
-    "title": "???????????",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-02-13T15:20:06.000Z",
-    "available_at": "2025-02-15T13:15:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
-    }
-  },
-  {
-    "id": "LZtvnkkj3hw",
-    "title": "【凸待ち】誕生日カウントダウン！【ホロライブ/癒月ちょこ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-13T14:08:55.000Z",
-    "available_at": "2025-02-13T14:45:44.000Z",
-    "duration": 6236,
-    "status": "past",
-    "channel": {
-      "id": "UC1suqwovbL1kzsoaZgFZLKg",
-      "name": "Choco Ch. 癒月ちょこ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yuzuki Choco"
     }
   },
   {
@@ -3304,6 +3285,27 @@
     "topic_id": "Original_Song",
     "published_at": "2024-12-28T15:01:03.000Z",
     "available_at": "2024-12-28T15:01:03.000Z",
+    "duration": 245,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCeSflFgEVmvwChpTB0lLO1w",
+    "channel": {
+      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ninomae Ina'nis"
+    }
+  },
+  {
+    "id": "tXb394z4lY8",
+    "title": "TEMARI",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2024-12-28T15:00:57.000Z",
+    "available_at": "2024-12-28T15:00:57.000Z",
     "duration": 245,
     "status": "past",
     "songcount": 1,
