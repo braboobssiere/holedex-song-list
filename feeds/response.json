@@ -526,7 +526,7 @@
     "published_at": "2025-02-14T09:33:51.000Z",
     "available_at": "2025-02-14T22:00:57.000Z",
     "duration": 11359,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -671,6 +671,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "7QmMuUcx6Gs",
+    "title": "【UNARCHIVED】🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷🕷",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-13T02:49:18.000Z",
+    "available_at": "2025-02-17T03:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -1894,25 +1913,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "ndl3bAK26r4",
-    "title": "【UNARCHIVED KARAOKE】EDGY SINGING TIME",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-25T15:44:53.000Z",
-    "available_at": "2025-01-25T23:54:55.000Z",
-    "duration": 3838,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
