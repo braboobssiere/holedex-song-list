@@ -1,5 +1,24 @@
 [
   {
+    "id": "wge5yL9D5LM",
+    "title": "【ボカロ縛り!! オフコラボでカラオケ!!】懐かしのあの曲から~ / アステル 奏手イヅル 影山シエン 律可 #ホロスターズ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-17T10:19:05.000Z",
+    "available_at": "2025-02-18T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "p9MLt51AVzE",
     "title": "誕生日カウントダウンして一緒に迎えたい！【ホロライブ/アキ・ローゼンタール】",
     "type": "stream",
@@ -839,11 +858,11 @@
     "topic_id": "Birthday",
     "published_at": "2025-02-10T13:40:55.000Z",
     "available_at": "2025-02-17T12:00:12.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 4,
+    "duration": 4610,
+    "status": "past",
+    "songcount": 7,
     "live_tl_count": {
-      "en": 212
+      "en": 326
     },
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
@@ -1897,26 +1916,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "BadCLzkeJfQ",
-    "title": "【歌枠】昼活!懐かしいアニソンを歌う🎤【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-26T07:54:11.000Z",
-    "available_at": "2025-01-26T05:35:21.000Z",
-    "duration": 7825,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
