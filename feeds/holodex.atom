@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-19T10:30:23.552Z</updated>
+  <updated>2025-02-19T12:47:44.537Z</updated>
 
   <entry>
     <id>urn:uuid:91e6c271-6e76-50d2-a51b-45642ec836b2</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BZwLFAN7Es4 【LIVE on &lt;t:1739876485:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BZwLFAN7Es4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:58eab3fe-0e7a-59fd-a577-a4c449640084</id>
+    <title><![CDATA[【白上フブキ】新曲の歌うポイントを紹介‼「僕らの星座」カラオケレクチャー【DAM CHANNEL】]]></title>
+    <link href="https://youtu.be/UdxSPLJ7OdY" rel="alternate" type="text/html"/>
+    <published>2025-02-18T02:00:28.000Z</published>
+    <updated>2025-02-18T02:00:28.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UdxSPLJ7OdY 【LIVE on &lt;t:1739844028:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UdxSPLJ7OdY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vhxtAtZnTb8 【LIVE on &lt;t:1737984640:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vhxtAtZnTb8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b5645524-501a-5574-8b75-ba7486c1830b</id>
-    <title><![CDATA[【#ノエル2000日記念】Shirogane Noel 0th Live ~ソロライブに向けて(歌枠)~【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/cKVqUyFmM_o" rel="alternate" type="text/html"/>
-    <published>2025-01-27T14:25:24.000Z</published>
-    <updated>2025-01-27T14:25:24.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cKVqUyFmM_o 【LIVE on &lt;t:1737975755:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cKVqUyFmM_o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
