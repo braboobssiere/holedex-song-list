@@ -1,5 +1,24 @@
 [
   {
+    "id": "9wtCB53TKo4",
+    "title": "【 歌枠 / 縦型 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-21T09:32:36.000Z",
+    "available_at": "2025-02-21T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "T_gRbxFT-Sc",
     "title": "もうすぐお誕生日デス🎂",
     "type": "stream",
@@ -739,9 +758,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-02-14T10:11:56.000Z",
-    "available_at": "2025-02-21T10:00:00.000Z",
+    "available_at": "2025-02-21T10:09:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCFv2z4iM5vHrS8bZPq4fHQQ",
       "name": "HIMEHINA Channel",
@@ -1921,26 +1940,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "PgYfCzN2m_M",
-    "title": "【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお!!!【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-28T10:22:39.000Z",
-    "available_at": "2025-01-28T04:02:12.000Z",
-    "duration": 21039,
-    "status": "past",
-    "songcount": 53,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
