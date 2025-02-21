@@ -1,5 +1,24 @@
 [
   {
+    "id": "E1Qy0OttVcs",
+    "title": "【 3D LIVE 】ゲスト盛りだくさん!重大告知アリアリ🎂😸【 #⁠猫又おかゆ生誕祭2025 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-21T15:30:00.000Z",
+    "available_at": "2025-02-22T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
     "id": "wquhvfiZUis",
     "title": "【 歌枠 l KARAOKE 】しっとりめに歌わせていただく【 水無世燐央 l UPROAR!! 】#vtuber",
     "type": "stream",
@@ -16,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "KM8d6hh4QCw",
+    "title": "【歌枠】猫の日🐈KAWAII SONG!!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-21T11:48:16.000Z",
+    "available_at": "2025-02-22T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -1900,26 +1938,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Omaru Polka"
-    }
-  },
-  {
-    "id": "SB2P7l-9Kr0",
-    "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-01-29T15:30:24.000Z",
-    "available_at": "2025-01-29T14:01:05.000Z",
-    "duration": 3985,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LObfzJe4AIufIErJzQy1xzwQcA5AX6rJh8AxJe-qvG2yBO-tbTVDwXqOkoeK_MoGPC6C3lMxQ_c=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -5814,26 +5832,6 @@
     "live_tl_count": {
       "en": 98
     },
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "R4jAuYzuQRk",
-    "title": "【#白上フブキ生誕祭2024】いえーぃっ!10月5日は誕生日だぜいえぇ~い!!【ホロライブ/白上フブキ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-10-04T15:17:42.000Z",
-    "available_at": "2024-10-04T14:29:39.000Z",
-    "duration": 2656,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
