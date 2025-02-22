@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-21T22:26:48.214Z</updated>
+  <updated>2025-02-22T01:49:22.392Z</updated>
+
+  <entry>
+    <id>urn:uuid:7f3cb6f0-ddb1-5c44-b0c6-15108e471ff5</id>
+    <title><![CDATA[【KARAOKE/朝ゲリラ】お休みの日に、まったり歌枠【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/fZBJTkWaFY8" rel="alternate" type="text/html"/>
+    <published>2025-02-22T00:48:06.000Z</published>
+    <updated>2025-02-22T00:48:06.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fZBJTkWaFY8 【LIVE on &lt;t:1740186147:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fZBJTkWaFY8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:39b819e3-f5a6-56b4-9ec8-287e51e21984</id>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wjYQDGkNtqU 【LIVE on &lt;t:1738205484:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wjYQDGkNtqU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5615ded3-e952-5d13-bd64-ebf1d9900bb1</id>
-    <title><![CDATA[【ARCHIVE】Karaoke night in the new moon!【Moona Hoshinova】]]></title>
-    <link href="https://youtu.be/pP7zB2ARv5c" rel="alternate" type="text/html"/>
-    <published>2025-01-29T17:54:20.000Z</published>
-    <updated>2025-01-29T17:54:20.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pP7zB2ARv5c 【LIVE on &lt;t:1738168270:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pP7zB2ARv5c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
