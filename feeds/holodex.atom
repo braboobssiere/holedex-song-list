@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-22T10:29:00.487Z</updated>
+  <updated>2025-02-22T12:44:08.111Z</updated>
 
   <entry>
     <id>urn:uuid:233a6b95-500b-5717-aaa5-1988e2188311</id>
-    <title><![CDATA[【歌枠】アニソンとホロ曲メインで歌います!【 ホロライブ / 大神ミオ 】]]></title>
+    <title><![CDATA[【歌枠】アニソンとホロ曲メインで歌います！【 ホロライブ / 大神ミオ 】]]></title>
     <link href="https://youtu.be/SIonwOpTyn8" rel="alternate" type="text/html"/>
     <published>2025-02-22T06:46:50.000Z</published>
     <updated>2025-02-22T06:46:50.000Z</updated>
@@ -34,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:16459393-071c-5ef4-b8c9-219d120353c2</id>
+    <title><![CDATA[生誕祭終了後に公開✦]]></title>
+    <link href="https://youtu.be/7wFKH1rFqEQ" rel="alternate" type="text/html"/>
+    <published>2025-02-22T03:17:44.000Z</published>
+    <updated>2025-02-22T03:17:44.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7wFKH1rFqEQ 【LIVE on &lt;t:1740229500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7wFKH1rFqEQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7f3cb6f0-ddb1-5c44-b0c6-15108e471ff5</id>
     <title><![CDATA[【KARAOKE／朝ゲリラ】お休みの日に、まったり歌枠【火威青 】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/fZBJTkWaFY8" rel="alternate" type="text/html"/>
@@ -57,7 +71,7 @@
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KM8d6hh4QCw 【LIVE on &lt;t:1740222000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KM8d6hh4QCw 【LIVE on &lt;t:1740222027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KM8d6hh4QCw/maxresdefault.jpg"/>
   </entry>
 
@@ -1389,20 +1403,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k8Jjwu3YwPo 【LIVE on &lt;t:1735653490:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k8Jjwu3YwPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e6bfece1-b61d-5333-9215-4fc52cd38703</id>
-    <title><![CDATA[【original anime MV】シアワセ√コヨリニウム / 博衣こより (Official)]]></title>
-    <link href="https://youtu.be/MG8f167W8RM" rel="alternate" type="text/html"/>
-    <published>2024-12-30T10:55:07.000Z</published>
-    <updated>2024-12-30T10:55:07.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MG8f167W8RM 【LIVE on &lt;t:1735556107:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MG8f167W8RM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
