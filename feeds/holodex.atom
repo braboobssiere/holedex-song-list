@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-23T20:25:34.749Z</updated>
+  <updated>2025-02-23T22:26:05.763Z</updated>
 
   <entry>
     <id>urn:uuid:620c67e0-05d7-5f4b-8f44-5a4c9c093c69</id>
@@ -76,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4b66829a-00ae-533e-9363-6ce4e1fc19bb</id>
+    <title><![CDATA[【 3D LIVE 】ゲスト盛りだくさん!重大告知アリアリ🎂😸【 #⁠猫又おかゆ生誕祭2025 】]]></title>
+    <link href="https://youtu.be/E1Qy0OttVcs" rel="alternate" type="text/html"/>
+    <published>2025-02-22T13:12:57.000Z</published>
+    <updated>2025-02-22T13:12:57.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E1Qy0OttVcs 【LIVE on &lt;t:1740225314:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1Qy0OttVcs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:16459393-071c-5ef4-b8c9-219d120353c2</id>
     <title><![CDATA[キスだけでいいからね / 猫又おかゆ ( official )]]></title>
     <link href="https://youtu.be/7wFKH1rFqEQ" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Lnt1OSPpiJI 【LIVE on &lt;t:1740198761:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Lnt1OSPpiJI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4b66829a-00ae-533e-9363-6ce4e1fc19bb</id>
-    <title><![CDATA[【 3D LIVE 】ゲスト盛りだくさん！重大告知アリアリ🎂😸【 #⁠猫又おかゆ生誕祭2025 】]]></title>
-    <link href="https://youtu.be/E1Qy0OttVcs" rel="alternate" type="text/html"/>
-    <published>2025-02-21T15:30:00.000Z</published>
-    <updated>2025-02-21T15:30:00.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=E1Qy0OttVcs 【LIVE on &lt;t:1740225314:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1Qy0OttVcs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
