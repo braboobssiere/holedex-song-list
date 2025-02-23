@@ -8,6 +8,7 @@
     "available_at": "2025-02-22T13:05:06.000Z",
     "duration": 194,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -117,6 +118,25 @@
     }
   },
   {
+    "id": "T_gRbxFT-Sc",
+    "title": "もうすぐお誕生日デス🎂",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-21T15:19:09.000Z",
+    "available_at": "2025-02-21T14:00:35.000Z",
+    "duration": 4381,
+    "status": "past",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
     "id": "9wtCB53TKo4",
     "title": "【 歌枠 / 縦型 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -172,25 +192,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "T_gRbxFT-Sc",
-    "title": "もうすぐお誕生日デス🎂",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-21T05:47:02.000Z",
-    "available_at": "2025-02-21T14:00:35.000Z",
-    "duration": 4379,
-    "status": "past",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
