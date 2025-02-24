@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-24T10:31:25.212Z</updated>
+  <updated>2025-02-24T12:51:07.348Z</updated>
+
+  <entry>
+    <id>urn:uuid:bc49aab7-c890-5bba-9b97-3be957d54f02</id>
+    <title><![CDATA[【バラード歌枠】落ち着いたキレイめの曲を歌うよ!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/ZyNqOkv-Ptw" rel="alternate" type="text/html"/>
+    <published>2025-02-24T12:02:40.000Z</published>
+    <updated>2025-02-24T12:02:40.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZyNqOkv-Ptw 【LIVE on &lt;t:1740398584:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZyNqOkv-Ptw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8571ad04-27ea-5db8-b8a7-c8078e580736</id>
