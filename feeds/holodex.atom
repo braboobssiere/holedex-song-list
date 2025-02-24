@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-24T08:33:29.993Z</updated>
+  <updated>2025-02-24T10:31:25.212Z</updated>
+
+  <entry>
+    <id>urn:uuid:8571ad04-27ea-5db8-b8a7-c8078e580736</id>
+    <title><![CDATA[5th Single【 Who2 】]]></title>
+    <link href="https://youtu.be/11wxYePRtYY" rel="alternate" type="text/html"/>
+    <published>2025-02-24T09:00:06.000Z</published>
+    <updated>2025-02-24T09:00:06.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=11wxYePRtYY 【LIVE on &lt;t:1740387606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11wxYePRtYY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:620c67e0-05d7-5f4b-8f44-5a4c9c093c69</id>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=QDhCNXYgdJc 【LIVE on &lt;t:1735769683:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QDhCNXYgdJc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1bd4239c-588e-5b34-ac57-ce090dff67da</id>
-    <title><![CDATA[【MV】みっころね×しょうたいむ!! / さくらみこ&戌神ころね (official)]]></title>
-    <link href="https://youtu.be/5OtgLEKKC_Y" rel="alternate" type="text/html"/>
-    <published>2025-01-01T12:00:06.000Z</published>
-    <updated>2025-01-01T12:00:06.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5OtgLEKKC_Y 【LIVE on &lt;t:1735732806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5OtgLEKKC_Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
