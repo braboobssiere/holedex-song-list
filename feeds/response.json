@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-02-25T12:09:51.000Z",
     "available_at": "2025-02-25T12:17:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 15122,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -64,7 +64,7 @@
     "published_at": "2025-02-25T09:16:31.000Z",
     "available_at": "2025-02-25T13:01:28.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -189,6 +189,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "DWFdUPkOcks",
+    "title": "HOLOSTARS OFF COLLAB KARAOKE REVENGE【ARCHIVED KARAOKE】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-23T16:00:32.000Z",
+    "available_at": "2025-02-26T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
@@ -1668,26 +1687,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "ktoY9lgg3I8",
-    "title": "【歌枠】夜に聞きたいうた、まったり歌います【 ホロライブ / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-05T15:37:33.000Z",
-    "available_at": "2025-02-05T13:38:46.000Z",
-    "duration": 6750,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
