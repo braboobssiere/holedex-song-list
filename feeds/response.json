@@ -1,24 +1,5 @@
 [
   {
-    "id": "WjDx0Q2v470",
-    "title": "【スパチャ読み】生誕ライブのときのスパチャ読みですよ!その①【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-25T12:44:18.000Z",
-    "available_at": "2025-02-25T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9BFn9huZRtcJypmkYNt0qslTAf225UJsapBFMsyIWjVFZMkkRn6LULZ-iLMmg9nigp0xcDjP0kw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
-    }
-  },
-  {
     "id": "w5Aflf4eVLs",
     "title": "【バラード歌枠】おやすみ前に、まったり歌う💭【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -81,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-25T09:16:31.000Z",
-    "available_at": "2025-02-25T13:00:00.000Z",
+    "available_at": "2025-02-25T13:01:28.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -5800,6 +5781,29 @@
     "songcount": 9,
     "live_tl_count": {
       "id": 4
+    },
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
+    }
+  },
+  {
+    "id": "uihRc4NtBH8",
+    "title": "【BIRTHDAY COUNTDOWN】CELEBRATING MY BIRTHDAY, THIS YEAR WITH YOU TOO!!❤️ #HOLL13DAY24【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2024-10-12T17:57:53.000Z",
+    "available_at": "2024-10-12T15:59:23.000Z",
+    "duration": 5392,
+    "status": "past",
+    "live_tl_count": {
+      "en": 130,
+      "id": 13
     },
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
