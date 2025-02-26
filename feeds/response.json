@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-25T21:35:33.000Z",
-    "available_at": "2025-02-26T11:00:00.000Z",
+    "available_at": "2025-02-26T09:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -27,6 +27,7 @@
     "available_at": "2025-02-25T12:17:15.000Z",
     "duration": 15122,
     "status": "past",
+    "songcount": 34,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -114,11 +115,30 @@
     }
   },
   {
+    "id": "7glW0WYbx3g",
+    "title": "【#影山シエン生誕祭2025】5回目の誕生日を迎えようとしているワイ【影山シエン/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-24T16:25:53.000Z",
+    "available_at": "2025-02-24T14:30:49.000Z",
+    "duration": 6087,
+    "status": "past",
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
+    }
+  },
+  {
     "id": "ZyNqOkv-Ptw",
-    "title": "【バラード歌枠】落ち着いたキレイめの曲を歌うよ！【虎金妃笑虎】",
+    "title": "【バラード歌枠】落ち着いたキレイめの曲を歌うよ!【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-02-24T12:02:40.000Z",
+    "published_at": "2025-02-24T15:25:04.000Z",
     "available_at": "2025-02-24T12:03:04.000Z",
     "duration": 10972,
     "status": "past",
@@ -150,25 +170,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "7glW0WYbx3g",
-    "title": "【#影山シエン生誕祭2025】5回目の誕生日を迎えようとしているワイ【影山シエン/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-24T09:56:41.000Z",
-    "available_at": "2025-02-24T14:30:49.000Z",
-    "duration": 6089,
-    "status": "past",
-    "channel": {
-      "id": "UChSvpZYRPh0FvG4SJGSga3g",
-      "name": "Shien Ch.影山シエン",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kageyama Shien"
     }
   },
   {
