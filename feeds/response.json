@@ -7,7 +7,7 @@
     "published_at": "2025-02-27T15:37:01.000Z",
     "available_at": "2025-02-27T20:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -130,6 +130,45 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCuCfKSM0_23RRXxQGYTVJlw",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "DWFdUPkOcks",
+    "title": "HOLOSTARS OFF COLLAB KARAOKE REVENGE【ARCHIVED KARAOKE】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-26T13:39:12.000Z",
+    "available_at": "2025-02-26T09:59:55.000Z",
+    "duration": 3343,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "1KuIeyfst5E",
+    "title": "【重大発表あり】fesだ!EXPOだ!練習だ!3Dカラオケだ!!【 #hololivefesEXPO25 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-26T12:02:56.000Z",
+    "available_at": "2025-02-26T10:58:11.000Z",
+    "duration": 3491,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -412,25 +451,6 @@
     }
   },
   {
-    "id": "DWFdUPkOcks",
-    "title": "HOLOSTARS OFF COLLAB KARAOKE REVENGE【ARCHIVED KARAOKE】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-23T16:00:32.000Z",
-    "available_at": "2025-02-26T09:59:55.000Z",
-    "duration": 3975,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "lfkL0s0Q27o",
     "title": "Funfair",
     "type": "stream",
@@ -706,26 +726,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nPHRhyl-fq_XwruRR5btA8_lafZKoc86TZBBDx6XjiclwI1qU51ejBG_wwj69CdWKyDyDmLM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HIMEHINA"
-    }
-  },
-  {
-    "id": "1KuIeyfst5E",
-    "title": "【重大発表あり】fesだ！EXPOだ！練習だ！3Dカラオケだ！！【 #hololivefesEXPO25 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-21T07:59:49.000Z",
-    "available_at": "2025-02-26T10:58:11.000Z",
-    "duration": 3499,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "pjCB1FzrGV0",
-    "title": "【 #姫森ルーナ5周年 】６年目もよろしくなのらね！！！嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
+    "title": "【 #姫森ルーナ5周年 】6年目もよろしくなのらね!!!嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-01-04T12:30:35.000Z",
