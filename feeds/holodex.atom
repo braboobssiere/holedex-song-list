@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-02-28T12:49:44.235Z</updated>
+  <updated>2025-02-28T14:27:49.413Z</updated>
+
+  <entry>
+    <id>urn:uuid:9b64ae78-12c3-5aea-a454-086a8e94967b</id>
+    <title><![CDATA[【ORIGINAL MV】狂宴-FEAST- || HAKOS BAELZ]]></title>
+    <link href="https://youtu.be/j4-E6tEpyiU" rel="alternate" type="text/html"/>
+    <published>2025-02-28T13:10:07.000Z</published>
+    <updated>2025-02-28T13:10:07.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=j4-E6tEpyiU 【LIVE on &lt;t:1740748207:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j4-E6tEpyiU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3b8c5540-afcc-54f8-ba64-6bfda3a81576</id>
@@ -1977,20 +1991,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JDSt-f6SzUY 【LIVE on &lt;t:1730560359:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JDSt-f6SzUY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d59e389f-38ce-590f-ad38-85383350e312</id>
-    <title><![CDATA[【3D LIVE】#夏色FullBloom / 夏色まつり誕生ライブ【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/pKc5qSSWJQs" rel="alternate" type="text/html"/>
-    <published>2024-11-01T11:56:11.000Z</published>
-    <updated>2024-11-01T11:56:11.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pKc5qSSWJQs 【LIVE on &lt;t:1730458736:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pKc5qSSWJQs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
