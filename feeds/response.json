@@ -1,13 +1,51 @@
 [
   {
+    "id": "HHTMq7y1rt8",
+    "title": "SURPRISE 3D ANNOUNCEMENT BUT DON'T SAY IT YET OKAY",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-01T03:37:39.000Z",
+    "available_at": "2025-03-01T04:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
+    }
+  },
+  {
+    "id": "rLBq8WnBPoI",
+    "title": "[#StarsEN3D] Warming up party!!",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-01T03:00:06.000Z",
+    "available_at": "2025-03-01T03:00:06.000Z",
+    "duration": 3602,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCJxZpzx4wHzEYD-eCiZPikg",
+      "name": "HOLOSTARS English",
+      "org": "Hololive",
+      "suborg": "0eOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/z6zwrMvc-x5HBXMyx1UUFt_AbHiBC2SNiauTcN2e16YLqiTMuanb-XVxZktMD-twlahddrBWhw=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "VoeV6htcSWQ",
     "title": "【歌枠】3月なので、春っぽい曲うたいたい気分!【 ホロライブ / 大神ミオ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-28T17:09:58.000Z",
-    "available_at": "2025-03-01T04:00:00.000Z",
+    "available_at": "2025-03-01T04:06:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -348,6 +386,7 @@
     "available_at": "2025-02-26T09:59:55.000Z",
     "duration": 3343,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -5671,29 +5710,6 @@
     }
   },
   {
-    "id": "mVmWmkHltak",
-    "title": "【チラ見せ枠】さくらみこ1st Live \"flower fantasista!\"【#咲き誇るみこち】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-10-26T09:26:49.000Z",
-    "available_at": "2024-10-26T08:30:16.000Z",
-    "duration": 3135,
-    "status": "past",
-    "songcount": 4,
-    "live_tl_count": {
-      "en": 29
-    },
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
     "id": "bpxeC3ijNNo",
     "title": "【ASMR/TAKIBI】焚き火しながら、AZKiとお話しませんか?【ホロライブ / AZKi】",
     "type": "stream",
@@ -5710,25 +5726,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "9Zf3Kv217ro",
-    "title": "【🗣️ 3D CHATTING 🗣️】 It's just me and you, so let's hang out a bit! 💙",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-10-25T01:12:16.000Z",
-    "available_at": "2024-10-24T23:00:20.000Z",
-    "duration": 7461,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
