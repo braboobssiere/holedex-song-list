@@ -263,8 +263,8 @@
     "topic_id": "singing",
     "published_at": "2025-02-28T05:12:57.000Z",
     "available_at": "2025-03-01T09:59:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 18662,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -746,6 +746,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "cUw1OEtmexQ",
+    "title": "【#にじホロ調律チャレンジ】チーム対抗カラオケスコア予想バトル!!!!【律可/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-02-24T08:36:35.000Z",
+    "available_at": "2025-03-02T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
     }
   },
   {
@@ -1836,25 +1855,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "fIVg5w0W5ws",
-    "title": "≪UNARCHIVED KARAOKE・歌枠≫ WE STAND ALONE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-13T13:07:09.000Z",
-    "available_at": "2025-02-14T01:00:44.000Z",
-    "duration": 7168,
-    "status": "missing",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
