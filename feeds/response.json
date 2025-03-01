@@ -1,5 +1,25 @@
 [
   {
+    "id": "PMgjFPqXZV4",
+    "title": "My Abyss / 常闇トワ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-01T10:00:06.000Z",
+    "available_at": "2025-03-01T10:00:06.000Z",
+    "duration": 233,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
     "id": "JPLRMKT2vQc",
     "title": "【 #桃鈴ねね生誕祭2025 】今年もカウントダウンしていくぞ~~!【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -20,13 +40,13 @@
   },
   {
     "id": "nlsWCIhpZzc",
-    "title": "【歌枠 / Singing Stream】150万人感謝の歌!重大告知あり🎉【常闇トワ/ホロライブ】",
+    "title": "【歌枠 / Singing Stream】１５０万人感謝の歌！重大告知あり🎉【常闇トワ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-01T05:56:02.000Z",
-    "available_at": "2025-03-01T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-03-01T09:06:27.000Z",
+    "duration": 3219,
+    "status": "past",
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -84,6 +104,7 @@
     "available_at": "2025-03-01T04:06:03.000Z",
     "duration": 6519,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -222,9 +243,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-28T05:12:57.000Z",
-    "available_at": "2025-03-01T10:00:00.000Z",
+    "available_at": "2025-03-01T09:59:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -243,7 +264,7 @@
     "published_at": "2025-02-27T15:37:01.000Z",
     "available_at": "2025-02-27T20:25:51.000Z",
     "duration": 15895,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -3385,26 +3406,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JjriTzl7xhu3n4JApM_jn73h-Lxg0cDBd7KZB7_uWxkAeembciNmOHtwVltLPW-CYNIiEpyqFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aglio Olio e Peperoncino"
-    }
-  },
-  {
-    "id": "gduOz5OycwA",
-    "title": "ブレイブリーダンス/アニメ「外れスキル《 #木の実マスター 》」OPテーマ/雪花ラミィ×アーリオ・オーリオ・エ・ペペロンチーノ【オリジナル曲】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-07T10:00:06.000Z",
-    "available_at": "2025-01-07T10:00:06.000Z",
-    "duration": 232,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
     }
   },
   {
