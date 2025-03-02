@@ -1,5 +1,25 @@
 [
   {
+    "id": "R14Ns4REA_g",
+    "title": "【MV】召喚ショーケース ~異世界転移した先でフェネックが悪魔の象徴!?冒険から追放されたので、歌とダンスで世界を変えます!~ 【hololive/尾丸ポルカ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-02T14:00:07.000Z",
+    "available_at": "2025-03-02T14:00:07.000Z",
+    "duration": 296,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "80vy5YyMKF8",
     "title": "【original anime MV】LOVE受信、ヒクツ発信【 hololive/桃鈴ねね 】",
     "type": "stream",
@@ -120,11 +140,11 @@
     "topic_id": "Anniversary",
     "published_at": "2025-03-02T03:41:41.000Z",
     "available_at": "2025-03-02T11:58:22.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 9,
+    "duration": 4068,
+    "status": "past",
+    "songcount": 12,
     "live_tl_count": {
-      "en": 50
+      "en": 74
     },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -173,6 +193,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "VoeV6htcSWQ",
+    "title": "【歌枠】3月なので、春っぽい曲うたいたい気分!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-01T06:08:41.000Z",
+    "available_at": "2025-03-01T04:06:03.000Z",
+    "duration": 6511,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -231,26 +271,6 @@
       "suborg": "0eOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/z6zwrMvc-x5HBXMyx1UUFt_AbHiBC2SNiauTcN2e16YLqiTMuanb-XVxZktMD-twlahddrBWhw=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "VoeV6htcSWQ",
-    "title": "【歌枠】３月なので、春っぽい曲うたいたい気分！【 ホロライブ / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-28T17:09:58.000Z",
-    "available_at": "2025-03-01T04:06:03.000Z",
-    "duration": 6519,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
@@ -888,13 +908,13 @@
   },
   {
     "id": "cUw1OEtmexQ",
-    "title": "【#にじホロ調律チャレンジ】チーム対抗カラオケスコア予想バトル!!!!【律可/ホロスターズ】",
+    "title": "【#にじホロ調律チャレンジ】チーム対抗カラオケスコア予想バトル！！！！【律可/ホロスターズ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-02-24T08:36:35.000Z",
     "available_at": "2025-03-02T09:57:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11113,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -3472,27 +3492,6 @@
     "topic_id": "Original_Song",
     "published_at": "2025-01-07T15:01:17.000Z",
     "available_at": "2025-01-07T15:01:17.000Z",
-    "duration": 232,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCbA-98zbiGM_HP0-f8VfU4g",
-    "channel": {
-      "id": "UCO0HdDEA0ZpTf_gSPqGulEg",
-      "name": "ぺぺち ch. アーリオ オーリオ エ ペペロンチーノ🧄🌶️",
-      "org": "Independents",
-      "suborg": "soSony Music",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JjriTzl7xhu3n4JApM_jn73h-Lxg0cDBd7KZB7_uWxkAeembciNmOHtwVltLPW-CYNIiEpyqFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aglio Olio e Peperoncino"
-    }
-  },
-  {
-    "id": "oR0xNFdCYiM",
-    "title": "Bravely dance (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-07T10:02:36.000Z",
-    "available_at": "2025-01-07T10:02:36.000Z",
     "duration": 232,
     "status": "past",
     "songcount": 1,
