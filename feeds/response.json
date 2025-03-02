@@ -102,8 +102,8 @@
     "topic_id": "singing",
     "published_at": "2025-03-02T04:12:38.000Z",
     "available_at": "2025-03-02T10:06:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 35030,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -154,6 +154,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
+    }
+  },
+  {
+    "id": "ssB_4uHSASw",
+    "title": "【#いづくく3Dライブ】全編無料❣柚原いづみ×風見くく5周年記念3Dライブ🎤 w/ アステル・レダ / 空星きらめ【柚原いづみ / ななしいんく】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-01T12:10:11.000Z",
+    "available_at": "2025-03-01T10:50:57.000Z",
+    "duration": 3871,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UCW8WKciBixmaqaGqrlTITRQ",
+      "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
+      "org": "774inc",
+      "suborg": "0 Ex-AniMare",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yunohara Izumi"
     }
   },
   {
@@ -915,7 +935,7 @@
     "available_at": "2025-03-02T09:57:21.000Z",
     "duration": 11113,
     "status": "past",
-    "songcount": 8,
+    "songcount": 17,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -1389,26 +1409,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "ssB_4uHSASw",
-    "title": "【#いづくく3Dライブ】全編無料❣柚原いづみ×風見くく5周年記念3Dライブ🎤 w/ アステル・レダ / 空星きらめ【柚原いづみ / ななしいんく】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-02-18T07:20:23.000Z",
-    "available_at": "2025-03-01T10:50:57.000Z",
-    "duration": 3867,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCW8WKciBixmaqaGqrlTITRQ",
-      "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
-      "org": "774inc",
-      "suborg": "0 Ex-AniMare",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yunohara Izumi"
     }
   },
   {
