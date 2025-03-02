@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-02T10:28:25.385Z</updated>
+  <updated>2025-03-02T12:45:19.808Z</updated>
+
+  <entry>
+    <id>urn:uuid:0441be03-0757-5f47-ab26-45c1474a38b0</id>
+    <title><![CDATA[【original anime MV】LOVE受信、ヒクツ発信【 hololive/桃鈴ねね 】]]></title>
+    <link href="https://youtu.be/80vy5YyMKF8" rel="alternate" type="text/html"/>
+    <published>2025-03-02T11:50:06.000Z</published>
+    <updated>2025-03-02T11:50:06.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=80vy5YyMKF8 【LIVE on &lt;t:1740916206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/80vy5YyMKF8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e7eb14e3-88e6-5f59-b579-d90dcdbd0ad3</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=i8HjPxTwMC8 【LIVE on &lt;t:1740909969:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i8HjPxTwMC8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:28aa380b-9feb-57e9-be60-a958ef43fdd6</id>
+    <title><![CDATA[【#大空スバル6周年LIVE】大空スバル 6th 記念LIVE 星灯【ホロライブ/大空スバル】]]></title>
+    <link href="https://youtu.be/KJGX0gJhvrM" rel="alternate" type="text/html"/>
+    <published>2025-03-02T03:41:41.000Z</published>
+    <updated>2025-03-02T03:41:41.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KJGX0gJhvrM 【LIVE on &lt;t:1740916702:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KJGX0gJhvrM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1434,20 +1462,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ff4f1531-bd6d-5b37-917b-2bb50ac71593</id>
-    <title><![CDATA[Bravely dance]]></title>
-    <link href="https://youtu.be/S3JVxuyrWSw" rel="alternate" type="text/html"/>
-    <published>2025-01-07T10:01:54.000Z</published>
-    <updated>2025-01-07T10:01:54.000Z</updated>
-    <author>
-      <name>ぺぺち ch. アーリオ オーリオ エ ペペロンチーノ🧄🌶️</name>
-      <uri>https://www.youtube.com/channel/UCO0HdDEA0ZpTf_gSPqGulEg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=S3JVxuyrWSw 【LIVE on &lt;t:1736244114:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S3JVxuyrWSw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b7f2d85-56d5-516f-9d67-e7d5195fb4ee</id>
     <title><![CDATA[【3D LIVE】1 day 4 colors【#ホロ4期生ライブ2025】]]></title>
     <link href="https://youtu.be/H8A2CZiyc_E" rel="alternate" type="text/html"/>
@@ -1991,20 +2005,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1o9bqmTDSxY 【LIVE on &lt;t:1731331812:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1o9bqmTDSxY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aabf9910-c7e1-5209-9f86-735ac7317ff3</id>
-    <title><![CDATA[【#Jazzeta】Zeta's 3D Jazzeta Show! ♪ 【Vestia Zeta】]]></title>
-    <link href="https://youtu.be/paI8IDWnnAQ" rel="alternate" type="text/html"/>
-    <published>2024-11-07T13:52:22.000Z</published>
-    <updated>2024-11-07T13:52:22.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=paI8IDWnnAQ 【LIVE on &lt;t:1730984424:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/paI8IDWnnAQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
