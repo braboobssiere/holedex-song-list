@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-03-04T09:33:55.000Z",
-    "available_at": "2025-03-04T12:00:00.000Z",
+    "available_at": "2025-03-04T12:00:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCmiYJycZXBGc4s_zjIRUHhQ",
       "name": "うらめちゃんねる /あおぎり高校",
@@ -455,13 +455,16 @@
   },
   {
     "id": "yusLlVlS6oM",
-    "title": "【#ロボ子7周年記念】7周年の特盛お披露目会❣逆凸にもいってみよおお【ホロライブ/ロボ子さん】",
+    "title": "【＃ロボ子７周年記念】７周年の特盛お披露目会❣逆凸にもいってみよおお【ホロライブ/ロボ子さん】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-03-01T04:04:11.000Z",
     "available_at": "2025-03-04T10:01:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8198,
+    "status": "past",
+    "live_tl_count": {
+      "en": 57
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -844,7 +847,7 @@
       "org": "Hololive",
       "suborg": "h English -Myth-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
     }
   },
