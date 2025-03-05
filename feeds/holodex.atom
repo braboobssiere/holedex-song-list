@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-05T12:51:06.645Z</updated>
+  <updated>2025-03-05T14:28:38.605Z</updated>
+
+  <entry>
+    <id>urn:uuid:834790c3-fa16-5b4f-8e94-259fc34b85ce</id>
+    <title><![CDATA[≪カラオケJOYSOUND for STREAMER≫ Last Minute Fes Practice!]]></title>
+    <link href="https://youtu.be/8jypFWOAiaI" rel="alternate" type="text/html"/>
+    <published>2025-03-05T14:08:43.000Z</published>
+    <updated>2025-03-05T14:08:43.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8jypFWOAiaI 【LIVE on &lt;t:1741222800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8jypFWOAiaI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c2c96841-dc29-5b58-97be-5b281b0f7a39</id>
-    <title><![CDATA[???]]></title>
+    <title><![CDATA[【MV】Re:flection / さくらみこ]]></title>
     <link href="https://youtu.be/W9AZc33ybIw" rel="alternate" type="text/html"/>
-    <published>2025-03-05T06:55:00.000Z</published>
-    <updated>2025-03-05T06:55:00.000Z</updated>
+    <published>2025-03-05T13:05:08.000Z</published>
+    <updated>2025-03-05T13:05:08.000Z</updated>
     <author>
       <name>Miko Ch. さくらみこ</name>
       <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=W9AZc33ybIw 【LIVE on &lt;t:1741179900:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=W9AZc33ybIw 【LIVE on &lt;t:1741179908:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/W9AZc33ybIw/maxresdefault.jpg"/>
   </entry>
 
@@ -801,20 +815,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Z96aINLMDJo 【LIVE on &lt;t:1739530751:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z96aINLMDJo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9c5654e5-4470-5a28-b080-daf4340cab13</id>
-    <title><![CDATA[【歌枠】バレンタインに歌っちゃうよ♪【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/EeBQlcIBQFw" rel="alternate" type="text/html"/>
-    <published>2025-02-14T11:20:39.000Z</published>
-    <updated>2025-02-14T11:20:39.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EeBQlcIBQFw 【LIVE on &lt;t:1739527252:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EeBQlcIBQFw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1921,6 +1921,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xv_B4BUvs8Q 【LIVE on &lt;t:1731852057:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xv_B4BUvs8Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cc352225-eac0-5ae2-8d4a-a51c98915dd2</id>
+    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】]]></title>
+    <link href="https://youtu.be/ea_saD8oUJI" rel="alternate" type="text/html"/>
+    <published>2024-11-15T12:12:10.000Z</published>
+    <updated>2024-11-15T12:12:10.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ea_saD8oUJI 【LIVE on &lt;t:1731668415:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ea_saD8oUJI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
