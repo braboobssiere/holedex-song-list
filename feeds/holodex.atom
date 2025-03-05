@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-05T10:31:27.422Z</updated>
+  <updated>2025-03-05T12:51:06.645Z</updated>
+
+  <entry>
+    <id>urn:uuid:c2c96841-dc29-5b58-97be-5b281b0f7a39</id>
+    <title><![CDATA[???]]></title>
+    <link href="https://youtu.be/W9AZc33ybIw" rel="alternate" type="text/html"/>
+    <published>2025-03-05T06:55:00.000Z</published>
+    <updated>2025-03-05T06:55:00.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=W9AZc33ybIw 【LIVE on &lt;t:1741179900:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/W9AZc33ybIw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:10dedf38-8a18-53c0-aff8-4d8a22c042fe</id>
-    <title><![CDATA[【重大告知】ついにあの時間が蘇る!?オリ曲歌枠あり【ホロライブ/ときのそら】]]></title>
+    <title><![CDATA[【重大告知】ついにあの時間が蘇る！？オリ曲歌枠あり【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/vqoE48K_b6s" rel="alternate" type="text/html"/>
     <published>2025-03-05T03:49:45.000Z</published>
     <updated>2025-03-05T03:49:45.000Z</updated>
@@ -21,7 +35,7 @@
 
   <entry>
     <id>urn:uuid:2424797d-db1c-5744-8ca0-031b400bd105</id>
-    <title><![CDATA[【雑談 ∕ 歌枠 KARAOKE】30万人一緒に祝お…🎉♡【水宮枢/FLOW GLOW】#hololiveDEV_IS]]></title>
+    <title><![CDATA[【雑談 ∕ 歌枠 KARAOKE】30万人一緒に祝お…🎉♡【水宮枢／FLOW GLOW】#hololiveDEV_IS]]></title>
     <link href="https://youtu.be/jTi6VQjbLNs" rel="alternate" type="text/html"/>
     <published>2025-03-03T18:06:35.000Z</published>
     <updated>2025-03-03T18:06:35.000Z</updated>
@@ -1448,20 +1462,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:8e4f7c47-6598-57d9-b5f2-d22e84e882f7</id>
-    <title><![CDATA[ブレイブリーダンス (Instrumental)]]></title>
-    <link href="https://youtu.be/MEHGO1f2AB4" rel="alternate" type="text/html"/>
-    <published>2025-01-07T15:01:17.000Z</published>
-    <updated>2025-01-07T15:01:17.000Z</updated>
-    <author>
-      <name>ぺぺち ch. アーリオ オーリオ エ ペペロンチーノ🧄🌶️</name>
-      <uri>https://www.youtube.com/channel/UCO0HdDEA0ZpTf_gSPqGulEg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MEHGO1f2AB4 【LIVE on &lt;t:1736262077:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MEHGO1f2AB4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1b7f2d85-56d5-516f-9d67-e7d5195fb4ee</id>
     <title><![CDATA[【3D LIVE】1 day 4 colors【#ホロ4期生ライブ2025】]]></title>
     <link href="https://youtu.be/H8A2CZiyc_E" rel="alternate" type="text/html"/>
@@ -1921,20 +1921,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xv_B4BUvs8Q 【LIVE on &lt;t:1731852057:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xv_B4BUvs8Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cc352225-eac0-5ae2-8d4a-a51c98915dd2</id>
-    <title><![CDATA[【#第2回ホロライブ体力王決定戦 】第二回 !ホロライブ体力王決定戦~全期代表戦~【 雪花ラミィ /ホロライブ】]]></title>
-    <link href="https://youtu.be/ea_saD8oUJI" rel="alternate" type="text/html"/>
-    <published>2024-11-15T12:12:10.000Z</published>
-    <updated>2024-11-15T12:12:10.000Z</updated>
-    <author>
-      <name>Lamy Ch. 雪花ラミィ</name>
-      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ea_saD8oUJI 【LIVE on &lt;t:1731668415:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ea_saD8oUJI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
