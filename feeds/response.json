@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-05T03:49:45.000Z",
-    "available_at": "2025-03-05T09:30:00.000Z",
+    "available_at": "2025-03-05T09:33:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 70
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -90,7 +93,7 @@
       "org": "Hololive",
       "suborg": "0y0th Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aKZHZDkvcHSEQSq5B6NSBTylOs7GhBMxqasvmS3IGX9c3YJ7CQ349uy64oE4rQERMZuV3bwa=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/l7oEio7HwwezCQvpqN75o00XThUS7W8vqqn6I3otl-O7wuS0vqGb6Dv3yKiYgkMK6zylc16EOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
     }
   },
@@ -119,9 +122,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-03T18:06:35.000Z",
-    "available_at": "2025-03-05T09:00:00.000Z",
+    "available_at": "2025-03-05T09:00:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
