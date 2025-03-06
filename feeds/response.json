@@ -5,9 +5,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-05T14:08:43.000Z",
-    "available_at": "2025-03-06T01:00:00.000Z",
+    "available_at": "2025-03-06T01:01:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 7,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -80,6 +81,25 @@
     }
   },
   {
+    "id": "FNrxA0FGZcs",
+    "title": "【 #さくらみこ生誕祭 】誕生日カウントダウン🎉みんなと迎えるにぇえええええええええ!!!【ホロライブ/さくらみこ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-03-04T16:41:59.000Z",
+    "available_at": "2025-03-04T14:35:33.000Z",
+    "duration": 7043,
+    "status": "past",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/l7oEio7HwwezCQvpqN75o00XThUS7W8vqqn6I3otl-O7wuS0vqGb6Dv3yKiYgkMK6zylc16EOg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
     "id": "24OyjOpU7BY",
     "title": "【#春雨麗女生誕祭2025】VTuberのお友達に誕生日プレゼントを選んでもらったぜ!!【癒月ちょこ 龍ヶ崎リン 犬山たまき 歌衣メイカ 奈羅花 甘狼このみ ポポナ 石狩あかり #あおぎり高校】",
     "type": "stream",
@@ -129,28 +149,10 @@
     "available_at": "2025-03-05T12:01:46.000Z",
     "duration": 3655,
     "status": "past",
+    "songcount": 19,
     "live_tl_count": {
       "en": 64
     },
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/l7oEio7HwwezCQvpqN75o00XThUS7W8vqqn6I3otl-O7wuS0vqGb6Dv3yKiYgkMK6zylc16EOg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "FNrxA0FGZcs",
-    "title": "【 #さくらみこ生誕祭 】誕生日カウントダウン🎉みんなと迎えるにぇえええええええええ！！！【ホロライブ/さくらみこ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-03-04T07:40:13.000Z",
-    "available_at": "2025-03-04T14:35:33.000Z",
-    "duration": 7056,
-    "status": "past",
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
