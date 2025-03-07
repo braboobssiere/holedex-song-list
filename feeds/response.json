@@ -1,13 +1,36 @@
 [
   {
+    "id": "prXLLn-K6ig",
+    "title": "【アニメーションMV】無理ぽ to ポジ (Original)【hololive/尾丸ポルカ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-07T01:08:51.000Z",
+    "available_at": "2025-03-07T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "eQGx0Lf3BDc",
     "title": "【SING/歌】FES前にテンションあげて歌ってこ~~!!【ホロライブ/ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-07T00:16:15.000Z",
-    "available_at": "2025-03-07T03:00:00.000Z",
+    "available_at": "2025-03-07T03:00:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -20,14 +43,14 @@
   },
   {
     "id": "qROKmkm6g4g",
-    "title": "【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!",
+    "title": "【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠！重大告知あり！",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-03-06T15:44:48.000Z",
     "available_at": "2025-03-07T02:01:32.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 7,
+    "duration": 5314,
+    "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -3758,27 +3781,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "dC43a68sYh8",
-    "title": "ブレイブリーダンス",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-07T15:01:33.000Z",
-    "available_at": "2025-01-07T15:01:33.000Z",
-    "duration": 232,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCbA-98zbiGM_HP0-f8VfU4g",
-    "channel": {
-      "id": "UCO0HdDEA0ZpTf_gSPqGulEg",
-      "name": "ぺぺち ch. アーリオ オーリオ エ ペペロンチーノ🧄🌶️",
-      "org": "Independents",
-      "suborg": "soSony Music",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JjriTzl7xhu3n4JApM_jn73h-Lxg0cDBd7KZB7_uWxkAeembciNmOHtwVltLPW-CYNIiEpyqFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aglio Olio e Peperoncino"
     }
   },
   {
