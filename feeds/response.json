@@ -47,6 +47,7 @@
     "available_at": "2025-03-07T09:01:17.000Z",
     "duration": 9956,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -109,6 +110,7 @@
     "available_at": "2025-03-07T10:01:06.000Z",
     "duration": 3717,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 40
     },
@@ -481,6 +483,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "IKkSNj5uN6I",
+    "title": "【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE1【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-03T09:54:42.000Z",
+    "available_at": "2025-03-08T03:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5641,24 +5662,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "JaOPEm5u1ko",
-    "title": "【3Dミニライブあり】アルバム大解剖SP【#ReGLOSSアルバム発売】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-11-06T11:06:12.000Z",
-    "available_at": "2024-11-06T09:59:03.000Z",
-    "duration": 3757,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
