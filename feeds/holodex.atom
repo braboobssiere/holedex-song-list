@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-07T01:57:29.698Z</updated>
+  <updated>2025-03-07T03:01:10.124Z</updated>
 
   <entry>
     <id>urn:uuid:4126f23a-f682-5ed7-88d9-5a08fec1fa4d</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eQGx0Lf3BDc 【LIVE on &lt;t:1741316400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eQGx0Lf3BDc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:28aebce1-db88-5334-b2f5-6923a8c9986a</id>
+    <title><![CDATA[【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!]]></title>
+    <link href="https://youtu.be/qROKmkm6g4g" rel="alternate" type="text/html"/>
+    <published>2025-03-06T15:44:48.000Z</published>
+    <updated>2025-03-06T15:44:48.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qROKmkm6g4g 【LIVE on &lt;t:1741312892:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qROKmkm6g4g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
