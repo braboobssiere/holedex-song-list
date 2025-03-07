@@ -1,5 +1,24 @@
 [
   {
+    "id": "eQGx0Lf3BDc",
+    "title": "【SING/歌】FES前にテンションあげて歌ってこ~~!!【ホロライブ/ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-07T00:16:15.000Z",
+    "available_at": "2025-03-07T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "qROKmkm6g4g",
     "title": "【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!",
     "type": "stream",
@@ -46,6 +65,7 @@
     "available_at": "2025-03-06T11:31:01.000Z",
     "duration": 1921,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -174,25 +194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/l7oEio7HwwezCQvpqN75o00XThUS7W8vqqn6I3otl-O7wuS0vqGb6Dv3yKiYgkMK6zylc16EOg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "qp8j39-eqpk",
-    "title": "『 Break It Down 』 Trailer ♪ Vestia Zeta's 2nd Original Song",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-03-05T12:03:27.000Z",
-    "available_at": "2025-03-05T12:03:27.000Z",
-    "duration": 17,
-    "status": "past",
-    "channel": {
-      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-      "name": "Vestia Zeta Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Vestia Zeta"
     }
   },
   {
@@ -2233,25 +2234,6 @@
     }
   },
   {
-    "id": "s9Mn0mWuPZg",
-    "title": "【UNARCHIVED】Valentines Karaoke in 3D in Concert Style ✨💗💕 #kfp #キアライブ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-14T13:17:57.000Z",
-    "available_at": "2025-02-14T19:02:53.000Z",
-    "duration": 6079,
-    "status": "missing",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
     "id": "Z96aINLMDJo",
     "title": "【#癒月ちょこ生誕祭2025】ゲスト多数!ちょこのお誕生日LIVE🎂【ホロライブ/癒月ちょこ】",
     "type": "stream",
@@ -3775,6 +3757,27 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "dC43a68sYh8",
+    "title": "ブレイブリーダンス",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-01-07T15:01:33.000Z",
+    "available_at": "2025-01-07T15:01:33.000Z",
+    "duration": 232,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCbA-98zbiGM_HP0-f8VfU4g",
+    "channel": {
+      "id": "UCO0HdDEA0ZpTf_gSPqGulEg",
+      "name": "ぺぺち ch. アーリオ オーリオ エ ペペロンチーノ🧄🌶️",
+      "org": "Independents",
+      "suborg": "soSony Music",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JjriTzl7xhu3n4JApM_jn73h-Lxg0cDBd7KZB7_uWxkAeembciNmOHtwVltLPW-CYNIiEpyqFQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aglio Olio e Peperoncino"
     }
   },
   {
