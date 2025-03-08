@@ -8,6 +8,7 @@
     "available_at": "2025-03-07T11:04:33.000Z",
     "duration": 6167,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -505,14 +506,37 @@
     }
   },
   {
+    "id": "wCblx1C_j68",
+    "title": "【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-03T10:10:14.000Z",
+    "available_at": "2025-03-09T03:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "4C3kreEOk1Q",
     "title": "【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE2【チラ見せ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-03-03T10:02:09.000Z",
-    "available_at": "2025-03-08T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-03-08T09:00:31.000Z",
+    "duration": 4174,
+    "status": "past",
+    "songcount": 5,
+    "live_tl_count": {
+      "en": 37
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -5645,25 +5669,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "9xJEtYYs0ew",
-    "title": "【Digest Movie】Gebyar hololive Indonesia 3D & Showcase",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-11-08T07:00:06.000Z",
-    "available_at": "2024-11-08T07:00:06.000Z",
-    "duration": 202,
-    "status": "past",
-    "channel": {
-      "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
-      "name": "hololive Indonesia",
-      "org": "Hololive",
-      "suborg": "0cOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
