@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-08T18:27:07.861Z</updated>
+  <updated>2025-03-08T20:21:45.225Z</updated>
 
   <entry>
     <id>urn:uuid:bd380ff5-8293-5e1a-a6ff-b8effad49df6</id>
@@ -17,6 +17,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BwA-GzfYzMs 【LIVE on &lt;t:1741438806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BwA-GzfYzMs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:73eabe6b-90e5-5ddd-9f63-a7270824b4ab</id>
+    <title><![CDATA[【歌枠】歌おう♪しゃべろう♪【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/h-NRRBYxbUw" rel="alternate" type="text/html"/>
+    <published>2025-03-07T12:04:39.000Z</published>
+    <updated>2025-03-07T12:04:39.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h-NRRBYxbUw 【LIVE on &lt;t:1741338077:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-NRRBYxbUw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e37f99e4-f0e0-5b59-ba72-e1b99b2a547f</id>
+    <title><![CDATA[【歌枠】fes直前Specialなこよステ!fesに向けて〇〇なセトリで盛り上がろーーー❣✨ #4 【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/khLqm9shE3Q" rel="alternate" type="text/html"/>
+    <published>2025-03-07T11:22:17.000Z</published>
+    <updated>2025-03-07T11:22:17.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=khLqm9shE3Q 【LIVE on &lt;t:1741341666:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khLqm9shE3Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -48,20 +76,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:73eabe6b-90e5-5ddd-9f63-a7270824b4ab</id>
-    <title><![CDATA[【歌枠】歌おう♪しゃべろう♪【ホロライブ/宝鐘マリン】]]></title>
-    <link href="https://youtu.be/h-NRRBYxbUw" rel="alternate" type="text/html"/>
-    <published>2025-03-07T04:24:49.000Z</published>
-    <updated>2025-03-07T04:24:49.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=h-NRRBYxbUw 【LIVE on &lt;t:1741338077:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-NRRBYxbUw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:28aebce1-db88-5334-b2f5-6923a8c9986a</id>
     <title><![CDATA[【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!]]></title>
     <link href="https://youtu.be/qROKmkm6g4g" rel="alternate" type="text/html"/>
@@ -73,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qROKmkm6g4g 【LIVE on &lt;t:1741312892:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qROKmkm6g4g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e37f99e4-f0e0-5b59-ba72-e1b99b2a547f</id>
-    <title><![CDATA[【歌枠】fes直前Specialなこよステ！fesに向けて〇〇なセトリで盛り上がろーーー❣✨ #4 【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/khLqm9shE3Q" rel="alternate" type="text/html"/>
-    <published>2025-03-06T13:58:53.000Z</published>
-    <updated>2025-03-06T13:58:53.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=khLqm9shE3Q 【LIVE on &lt;t:1741341666:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khLqm9shE3Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
