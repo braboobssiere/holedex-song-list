@@ -511,9 +511,12 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-03-03T09:54:42.000Z",
     "available_at": "2025-03-08T03:30:17.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 2,
+    "duration": 4610,
+    "status": "past",
+    "songcount": 5,
+    "live_tl_count": {
+      "en": 22
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
