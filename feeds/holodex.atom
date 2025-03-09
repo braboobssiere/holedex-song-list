@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-09T18:26:49.874Z</updated>
+  <updated>2025-03-09T20:24:30.595Z</updated>
+
+  <entry>
+    <id>urn:uuid:712d7365-bb7e-501b-af11-08b667673b6c</id>
+    <title><![CDATA[【 ASMR 】疲れた体に効き目ばっちりのASMR / KU-100【 猫又おかゆ/ホロライブ 】]]></title>
+    <link href="https://youtu.be/CYtj5KboylA" rel="alternate" type="text/html"/>
+    <published>2025-03-09T15:38:10.000Z</published>
+    <updated>2025-03-09T15:38:10.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CYtj5KboylA 【LIVE on &lt;t:1741611600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CYtj5KboylA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7acab2c8-8867-5d8d-952d-7d89f0714b8f</id>
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=62Y1OM0bMzk 【LIVE on &lt;t:1741586400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/62Y1OM0bMzk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4fed6f0d-fc85-5812-9e2f-d8e0a5849a8d</id>
+    <title><![CDATA[【歌枠】2次会カラオケいくぞ~!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/M68Ltj4QxbE" rel="alternate" type="text/html"/>
+    <published>2025-03-09T14:08:21.000Z</published>
+    <updated>2025-03-09T14:08:21.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=M68Ltj4QxbE 【LIVE on &lt;t:1741611600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M68Ltj4QxbE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2078,20 +2106,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:dc709982-5653-5ed0-ae2f-2d43f72ac862</id>
-    <title><![CDATA[【チラ見せ】Hoshimachi Suisei Live Tour 2024 "Spectra of Nova"]]></title>
-    <link href="https://youtu.be/eWqiZHIoOjk" rel="alternate" type="text/html"/>
-    <published>2024-11-14T10:03:55.000Z</published>
-    <updated>2024-11-14T10:03:55.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eWqiZHIoOjk 【LIVE on &lt;t:1731574816:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWqiZHIoOjk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:23e10c21-16b9-53e2-b1a5-592c7ee1f7ba</id>
     <title><![CDATA[【 誰でも視聴可能 】メンバーシップ体験版💜 / KU-100【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/1o9bqmTDSxY" rel="alternate" type="text/html"/>
@@ -2467,20 +2481,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yTph4XiKLkI 【LIVE on &lt;t:1718442093:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yTph4XiKLkI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:73b1838f-1579-5844-bd1a-4d8009fd4630</id>
-    <title><![CDATA[【 ASMR 】全肯定あまあま安眠💖Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/j8td38j0wo8" rel="alternate" type="text/html"/>
-    <published>2024-06-12T16:35:28.000Z</published>
-    <updated>2024-06-12T16:35:28.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=j8td38j0wo8 【LIVE on &lt;t:1718204590:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j8td38j0wo8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
