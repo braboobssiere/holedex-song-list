@@ -473,9 +473,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-05T12:28:47.000Z",
-    "available_at": "2025-03-09T22:00:00.000Z",
+    "available_at": "2025-03-09T22:01:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -569,7 +572,7 @@
   },
   {
     "id": "24OyjOpU7BY",
-    "title": "【#春雨麗女生誕祭2025】VTuberのお友達に誕生日プレゼントを選んでもらったぜ！！【癒月ちょこ 龍ヶ崎リン 犬山たまき 歌衣メイカ 奈羅花 甘狼このみ ポポナ 石狩あかり #あおぎり高校】",
+    "title": "【#春雨麗女生誕祭2025】VTuberのお友達に誕生日プレゼントを選んでもらったぜ!!【癒月ちょこ 龍ヶ崎リン 犬山たまき 歌衣メイカ 奈羅花 甘狼このみ ポポナ 石狩あかり #あおぎり高校】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-03-04T14:05:57.000Z",
