@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-09T02:38:01.949Z</updated>
+  <updated>2025-03-09T04:25:37.027Z</updated>
 
   <entry>
     <id>urn:uuid:bd380ff5-8293-5e1a-a6ff-b8effad49df6</id>
@@ -171,6 +171,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=SKgDaZefmyg 【LIVE on &lt;t:1740996039:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SKgDaZefmyg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a350956b-5ef6-5fc5-9034-71194f67c8ad</id>
+    <title><![CDATA[【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】]]></title>
+    <link href="https://youtu.be/wCblx1C_j68" rel="alternate" type="text/html"/>
+    <published>2025-03-03T10:10:14.000Z</published>
+    <updated>2025-03-03T10:10:14.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wCblx1C_j68 【LIVE on &lt;t:1741491038:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wCblx1C_j68/maxresdefault.jpg"/>
   </entry>
 
   <entry>
