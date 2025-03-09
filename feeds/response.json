@@ -446,6 +446,25 @@
     }
   },
   {
+    "id": "MJe0u0RY-xA",
+    "title": "【3D Showcase】New Hopes, Old Dreams #Ruze3D",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-04T01:52:50.000Z",
+    "available_at": "2025-03-10T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
+    }
+  },
+  {
     "id": "yempKh_THpc",
     "title": "【 7周年 】みんなで7周年カウントダウンしよおおお #ロボ子7周年記念【ホロライブ/ロボ子さん】",
     "type": "stream",
@@ -531,9 +550,13 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-03-03T10:26:07.000Z",
-    "available_at": "2025-03-09T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-03-09T09:00:22.000Z",
+    "duration": 4543,
+    "status": "past",
+    "songcount": 2,
+    "live_tl_count": {
+      "en": 18
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -1875,7 +1898,7 @@
       "org": "Hololive",
       "suborg": "taDEV_IS ReGLOSS",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/YQU4Moz1OujZA8STx9g8rtaZWm3BA9OGplnz3KP4l8RK0OBujDBkmnlWrJa94Udo4SOduAzWrQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
     }
   },
@@ -5616,26 +5639,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "LMdasntdW5o",
-    "title": "【GIGA MASH LIVE】Team ahamo 3DLIVE #ギガプロLIVE 【天宮こころ/橘ひなの/アルス・アルマル/夏色まつり/尾丸ポルカ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-11-12T12:11:45.000Z",
-    "available_at": "2024-11-12T10:57:03.000Z",
-    "duration": 3788,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCdpUojq0KWZCN9bxXnZwz5w",
-      "name": "アルス・アルマル -ars almal- 【にじさんじ】",
-      "org": "Nijisanji",
-      "suborg": "0uBlues",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/xXPoojHtlJiAwVLth6LzV6Yc6qkOrMURwGTp2izbMrrY19KR4gvMcx6I4Dp4hJUKrlMguubfQA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ars Almal"
     }
   },
   {
