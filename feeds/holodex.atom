@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-10T04:25:42.721Z</updated>
+  <updated>2025-03-10T06:30:39.930Z</updated>
 
   <entry>
     <id>urn:uuid:712d7365-bb7e-501b-af11-08b667673b6c</id>
@@ -43,7 +43,7 @@
       <name>Takanashi Kiara Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=62Y1OM0bMzk 【LIVE on &lt;t:1741586400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=62Y1OM0bMzk 【LIVE on &lt;t:1741590000:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/62Y1OM0bMzk/maxresdefault.jpg"/>
   </entry>
 
@@ -269,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vqoE48K_b6s 【LIVE on &lt;t:1741167222:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vqoE48K_b6s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:01c5af9d-2064-5850-8178-5bb1b0dbd9d6</id>
-    <title><![CDATA[【#hololivefesEXPO25 AFTERPARTY】our harmony, together furr-ever 🐾 【FUWAMOCO】]]></title>
-    <link href="https://youtu.be/0c5pHPdCcg8" rel="alternate" type="text/html"/>
-    <published>2025-03-03T12:00:11.000Z</published>
-    <updated>2025-03-03T12:00:11.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0c5pHPdCcg8 【LIVE on &lt;t:1741568270:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0c5pHPdCcg8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -899,6 +885,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=d54WWb9FgkY 【LIVE on &lt;t:1739872853:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d54WWb9FgkY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:58eab3fe-0e7a-59fd-a577-a4c449640084</id>
+    <title><![CDATA[【白上フブキ】新曲の歌うポイントを紹介‼「僕らの星座」カラオケレクチャー【DAM CHANNEL】]]></title>
+    <link href="https://youtu.be/UdxSPLJ7OdY" rel="alternate" type="text/html"/>
+    <published>2025-02-18T02:00:28.000Z</published>
+    <updated>2025-02-18T02:00:28.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UdxSPLJ7OdY 【LIVE on &lt;t:1739844028:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UdxSPLJ7OdY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
