@@ -77,13 +77,13 @@
   },
   {
     "id": "L7-cXKOE8Y8",
-    "title": "【歌枠】EXPOも4カ月もありがとう【虎金妃笑虎】",
+    "title": "【歌枠】EXPOも４カ月もありがとう【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-09T15:21:13.000Z",
     "available_at": "2025-03-10T08:30:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10635,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -149,6 +149,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "wCblx1C_j68",
+    "title": "【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-09T04:51:24.000Z",
+    "available_at": "2025-03-09T03:30:38.000Z",
+    "duration": 4565,
+    "status": "past",
+    "songcount": 5,
+    "live_tl_count": {
+      "en": 52
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -781,29 +804,6 @@
     "songcount": 7,
     "live_tl_count": {
       "en": 18
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "wCblx1C_j68",
-    "title": "【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-03T10:10:14.000Z",
-    "available_at": "2025-03-09T03:30:38.000Z",
-    "duration": 4529,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 52
     },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
