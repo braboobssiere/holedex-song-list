@@ -27,6 +27,7 @@
     "available_at": "2025-03-10T07:30:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 12,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -84,6 +85,7 @@
     "available_at": "2025-03-10T08:30:58.000Z",
     "duration": 10635,
     "status": "past",
+    "songcount": 25,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -114,6 +116,29 @@
     }
   },
   {
+    "id": "boORVdye89Q",
+    "title": "【hololive 6th fes.&EXPO打ち上げ会場】6th fes&EXPOおつかれさま!2次会カラオケしたくな~~い???🥳 #hololivefesEXPO25 【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-09T15:18:18.000Z",
+    "available_at": "2025-03-09T12:42:07.000Z",
+    "duration": 8934,
+    "status": "past",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 60
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
+    }
+  },
+  {
     "id": "M68Ltj4QxbE",
     "title": "【歌枠】2次会カラオケいくぞ～！【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -122,6 +147,7 @@
     "available_at": "2025-03-10T12:58:51.000Z",
     "duration": 3923,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -347,29 +373,6 @@
     }
   },
   {
-    "id": "boORVdye89Q",
-    "title": "【hololive 6th fes.＆EXPO打ち上げ会場】6th fes&EXPOおつかれさま！2次会カラオケしたくな～～い？？？🥳 #hololivefesEXPO25 【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-07T07:08:41.000Z",
-    "available_at": "2025-03-09T12:42:07.000Z",
-    "duration": 8945,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 60
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
     "id": "eQGx0Lf3BDc",
     "title": "【SING/歌】FES前にテンションあげて歌ってこ~~!!【ホロライブ/ロボ子さん】",
     "type": "stream",
@@ -561,6 +564,7 @@
     "available_at": "2025-03-09T22:01:53.000Z",
     "duration": 8142,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "en": 15
     },
