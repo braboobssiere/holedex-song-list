@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-11T06:36:15.651Z</updated>
+  <updated>2025-03-11T08:33:19.643Z</updated>
 
   <entry>
     <id>urn:uuid:ab763146-07cc-5c6b-bda3-eab8557ca00d</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=P5RmtZj9eYA 【LIVE on &lt;t:1741687200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P5RmtZj9eYA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d4e099f4-48d0-5f5c-9b4c-f23b0e4dfa00</id>
+    <title><![CDATA[【hololive 6th fes. & EXPO】幻のDAY3w朝から高性能ロボ子さんの振り返り打ち上げカラオケにご招待🎤【ホロライブ/ロボ子さん】]]></title>
+    <link href="https://youtu.be/lbjGlvzHCnU" rel="alternate" type="text/html"/>
+    <published>2025-03-10T00:25:12.000Z</published>
+    <updated>2025-03-10T00:25:12.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lbjGlvzHCnU 【LIVE on &lt;t:1741557713:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lbjGlvzHCnU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -269,20 +283,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=W9AZc33ybIw 【LIVE on &lt;t:1741179908:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/W9AZc33ybIw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d4e099f4-48d0-5f5c-9b4c-f23b0e4dfa00</id>
-    <title><![CDATA[【hololive 6th fes. ＆ EXPO】幻のDAY3ｗ朝から高性能ロボ子さんの振り返り打ち上げカラオケにご招待🎤【ホロライブ/ロボ子さん】]]></title>
-    <link href="https://youtu.be/lbjGlvzHCnU" rel="alternate" type="text/html"/>
-    <published>2025-03-05T12:28:47.000Z</published>
-    <updated>2025-03-05T12:28:47.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lbjGlvzHCnU 【LIVE on &lt;t:1741557713:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lbjGlvzHCnU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
