@@ -1,5 +1,24 @@
 [
   {
+    "id": "Zepq--c1Wi8",
+    "title": "【歌枠 / karaoke】アーカイブは運 / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-12T14:30:55.000Z",
+    "available_at": "2025-03-12T15:02:22.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "BUbCnt-iEkM",
     "title": "【Original Song MV】CHRONIC【Anya Melfissa】",
     "type": "stream",
@@ -81,12 +100,12 @@
   },
   {
     "id": "6uzUnp5V3OQ",
-    "title": "ピアノ弾き語り、いろいろな曲をやってみる！",
+    "title": "ピアノ弾き語り、いろいろな曲をやってみる!",
     "type": "stream",
     "topic_id": "Musical_Instrument",
-    "published_at": "2025-03-11T03:08:24.000Z",
+    "published_at": "2025-03-11T06:56:58.000Z",
     "available_at": "2025-03-11T05:02:43.000Z",
-    "duration": 6350,
+    "duration": 6345,
     "status": "past",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
@@ -2265,29 +2284,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "d54WWb9FgkY",
-    "title": "【歌枠】そらのどで歌枠しちゃうよ♪【ホロライブ/ときのそら/春先のどか】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-18T11:10:45.000Z",
-    "available_at": "2025-02-18T10:00:53.000Z",
-    "duration": 3883,
-    "status": "past",
-    "songcount": 7,
-    "live_tl_count": {
-      "en": 65
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
