@@ -5,9 +5,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-11T22:09:24.000Z",
-    "available_at": "2025-03-12T01:00:00.000Z",
+    "available_at": "2025-03-12T00:55:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 7,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -35,25 +36,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "7dQI0CwGFz0",
-    "title": "NAME - Noisemaker #Ruze3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-11T14:14:56.000Z",
-    "available_at": "2025-03-11T14:14:56.000Z",
-    "duration": 246,
-    "status": "past",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
     }
   },
   {
@@ -5485,6 +5467,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Goldbullet"
+    }
+  },
+  {
+    "id": "SdsJ5sdDOHM",
+    "title": "【3D COLLAB】SPECIAL COLLAB WITH GOSEGU! #kfp #キアライブ",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-11-20T12:59:29.000Z",
+    "available_at": "2024-11-20T10:01:56.000Z",
+    "duration": 10151,
+    "status": "past",
+    "live_tl_count": {
+      "en": 9
+    },
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
