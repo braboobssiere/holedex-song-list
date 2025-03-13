@@ -1,15 +1,34 @@
 [
   {
+    "id": "mlIkPH0ehaE",
+    "title": "【#KROW4IT】It's My Birthday But Not Really",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-03-13T14:10:06.000Z",
+    "available_at": "2025-03-14T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
     "id": "X_bZgz4XXB0",
-    "title": "【歌枠】小さい声なら歌っていいよね?練習しよう!!【ホロライブ/ときのそら】",
+    "title": "【歌枠】小さい声なら歌っていいよね？練習しよう！！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-13T11:11:36.000Z",
     "available_at": "2025-03-13T12:01:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7201,
+    "status": "past",
     "live_tl_count": {
-      "en": 48
+      "en": 136
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -19,6 +38,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "CflXVjPU3z8",
+    "title": "【耐久歌枠】もうすぐ155万人⁉突破まで歌うぞ~~~!!!❤️‍🔥【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-13T08:53:43.000Z",
+    "available_at": "2025-03-13T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -2472,26 +2510,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "BZwLFAN7Es4",
-    "title": "【#白銀ノエル200万人】ついに!!200万人いくまで気持ちをこめて歌います🎤💖【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-02-18T13:28:49.000Z",
-    "available_at": "2025-02-18T11:01:25.000Z",
-    "duration": 8101,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -5393,25 +5411,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "sg8JN9b0r6M",
-    "title": "【生誕カウントダウン】24日は団長の誕生日✨ノエポ片手にみんなで迎えよ~!!!【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-11-23T16:03:49.000Z",
-    "available_at": "2024-11-23T14:30:58.000Z",
-    "duration": 5138,
-    "status": "past",
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {

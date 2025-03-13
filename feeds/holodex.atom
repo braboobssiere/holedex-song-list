@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-13T12:52:22.629Z</updated>
+  <updated>2025-03-13T14:29:01.427Z</updated>
 
   <entry>
     <id>urn:uuid:0ae34c3f-3dda-5546-9353-e5aa8553b572</id>
-    <title><![CDATA[【歌枠】小さい声なら歌っていいよね?練習しよう!!【ホロライブ/ときのそら】]]></title>
+    <title><![CDATA[【歌枠】小さい声なら歌っていいよね？練習しよう！！【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/X_bZgz4XXB0" rel="alternate" type="text/html"/>
     <published>2025-03-13T11:11:36.000Z</published>
     <updated>2025-03-13T11:11:36.000Z</updated>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X_bZgz4XXB0 【LIVE on &lt;t:1741867285:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X_bZgz4XXB0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b422e532-42b7-596c-bd83-16c3e1c2edff</id>
+    <title><![CDATA[【耐久歌枠】もうすぐ155万人⁉突破まで歌うぞ~~~!!!❤️‍🔥【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/CflXVjPU3z8" rel="alternate" type="text/html"/>
+    <published>2025-03-13T08:53:43.000Z</published>
+    <updated>2025-03-13T08:53:43.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CflXVjPU3z8 【LIVE on &lt;t:1741878000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CflXVjPU3z8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1053,20 +1067,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lSOiDJCNRRU 【LIVE on &lt;t:1739955669:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lSOiDJCNRRU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b1954315-17b4-5f43-b9ad-464b12fd4e59</id>
-    <title><![CDATA[【#白銀ノエル200万人】ついに!!200万人いくまで気持ちをこめて歌います🎤💖【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/BZwLFAN7Es4" rel="alternate" type="text/html"/>
-    <published>2025-02-18T13:28:49.000Z</published>
-    <updated>2025-02-18T13:28:49.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BZwLFAN7Es4 【LIVE on &lt;t:1739876485:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BZwLFAN7Es4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
