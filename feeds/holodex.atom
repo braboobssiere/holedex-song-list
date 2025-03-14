@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-14T08:32:12.369Z</updated>
+  <updated>2025-03-14T10:30:14.023Z</updated>
+
+  <entry>
+    <id>urn:uuid:5a369a00-9f6e-5533-85c5-5f8faff0e3f5</id>
+    <title><![CDATA[【 歌枠 】ホワイトデー歌枠✨歌練習する!【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/w6hiMwLSzuI" rel="alternate" type="text/html"/>
+    <published>2025-03-14T09:01:56.000Z</published>
+    <updated>2025-03-14T09:01:56.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=w6hiMwLSzuI 【LIVE on &lt;t:1741946494:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w6hiMwLSzuI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:81ef56ab-32f9-59a4-b295-48739b1b13d7</id>
+    <title><![CDATA[【歌枠/KARAOKE】30万人ありがとうううう!!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/2v1eurs-4Do" rel="alternate" type="text/html"/>
+    <published>2025-03-14T05:48:06.000Z</published>
+    <updated>2025-03-14T05:48:06.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2v1eurs-4Do 【LIVE on &lt;t:1741942829:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2v1eurs-4Do/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dcdb69b5-e9bf-5ab5-85e3-bbc1cf13eea2</id>
@@ -969,20 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KM8d6hh4QCw 【LIVE on &lt;t:1740222027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KM8d6hh4QCw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:233a6b95-500b-5717-aaa5-1988e2188311</id>
-    <title><![CDATA[【歌枠】アニソンとホロ曲メインで歌います!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/SIonwOpTyn8" rel="alternate" type="text/html"/>
-    <published>2025-02-22T10:46:18.000Z</published>
-    <updated>2025-02-22T10:46:18.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SIonwOpTyn8 【LIVE on &lt;t:1740214863:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SIonwOpTyn8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
