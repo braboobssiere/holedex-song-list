@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-15T02:38:21.000Z",
-    "available_at": "2025-03-15T03:30:00.000Z",
+    "available_at": "2025-03-15T03:33:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -123,6 +123,7 @@
     "available_at": "2025-03-14T09:59:18.000Z",
     "duration": 1875,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -184,6 +185,7 @@
     "available_at": "2025-03-14T11:00:30.000Z",
     "duration": 1718,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -223,6 +225,7 @@
     "available_at": "2025-03-14T09:00:25.000Z",
     "duration": 1643,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -234,6 +237,26 @@
     }
   },
   {
+    "id": "CflXVjPU3z8",
+    "title": "【耐久歌枠】もうすぐ155万人⁉突破まで歌うぞ~~~!!!❤️‍🔥【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-13T19:26:38.000Z",
+    "available_at": "2025-03-13T15:03:07.000Z",
+    "duration": 14982,
+    "status": "past",
+    "songcount": 46,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "-jvthd7xFD0",
     "title": "【 歌枠 l KARAOKE #ホロスタ歌枠リレー 】ホワイトデーだね？【 水無世燐央 l UPROAR!! 】#vtuber",
     "type": "stream",
@@ -242,6 +265,7 @@
     "available_at": "2025-03-14T11:29:05.000Z",
     "duration": 1984,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -261,6 +285,7 @@
     "available_at": "2025-03-14T09:27:23.000Z",
     "duration": 1977,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -280,6 +305,7 @@
     "available_at": "2025-03-14T10:28:03.000Z",
     "duration": 1943,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -389,26 +415,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Anya Melfissa"
-    }
-  },
-  {
-    "id": "CflXVjPU3z8",
-    "title": "【耐久歌枠】もうすぐ１５５万人⁉突破まで歌うぞ～～～！！！❤️‍🔥【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-13T08:53:43.000Z",
-    "available_at": "2025-03-13T15:03:07.000Z",
-    "duration": 14985,
-    "status": "past",
-    "songcount": 46,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
