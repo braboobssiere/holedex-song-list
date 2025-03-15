@@ -8,6 +8,9 @@
     "available_at": "2025-03-15T07:21:57.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -16,6 +19,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "-NjjaUG0CFc",
+    "title": "【MV】 キミ=♡ / 博衣こより (Official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-15T03:50:43.000Z",
+    "available_at": "2025-03-15T12:08:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -415,6 +438,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
+    }
+  },
+  {
+    "id": "V0plPBgyqPs",
+    "title": "【3D LIVE - HOPE UPON A STAR 】IRyS 2025 BIRTHDAY LIVE #IRySBDay2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-03-13T11:22:20.000Z",
+    "available_at": "2025-03-16T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
     }
   },
   {
@@ -3691,27 +3733,6 @@
     }
   },
   {
-    "id": "x44TdvQ1OJs",
-    "title": "ビビデバ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-21T15:01:24.000Z",
-    "available_at": "2025-01-21T15:01:24.000Z",
-    "duration": 165,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
     "id": "qaqoZk-raP8",
     "title": "【ASMR/安眠】今年最初の耳マッサージ&お耳掃除♡【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -4764,28 +4785,6 @@
     "songcount": 10,
     "live_tl_count": {
       "en": 12
-    },
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
-    }
-  },
-  {
-    "id": "vV1wZ8eKTIQ",
-    "title": "【前夜祭】誕生日カウントダウン!!!!!!みんなとお祝い!!!!【百鬼あやめ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2024-12-12T18:09:12.000Z",
-    "available_at": "2024-12-12T14:29:16.000Z",
-    "duration": 12393,
-    "status": "past",
-    "live_tl_count": {
-      "en": 225
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
