@@ -7,7 +7,7 @@
     "published_at": "2025-03-15T21:25:54.000Z",
     "available_at": "2025-03-15T23:00:09.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -487,9 +487,10 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-03-13T11:22:20.000Z",
-    "available_at": "2025-03-16T03:00:00.000Z",
+    "available_at": "2025-03-16T02:57:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
