@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-16T14:24:41.771Z</updated>
+  <updated>2025-03-16T16:30:19.645Z</updated>
+
+  <entry>
+    <id>urn:uuid:81629261-9af6-5b38-b1e7-a0b039a57dd3</id>
+    <title><![CDATA[DIAMOND GIRLFRIEND]]></title>
+    <link href="https://youtu.be/Cgs5JfCIhrQ" rel="alternate" type="text/html"/>
+    <published>2025-03-16T15:00:21.000Z</published>
+    <updated>2025-03-16T15:00:21.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Cgs5JfCIhrQ 【LIVE on &lt;t:1742137221:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Cgs5JfCIhrQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9903f91e-613e-5108-9963-291d3f855944</id>
+    <title><![CDATA[DIAMOND GIRLFRIEND (Instrumental)]]></title>
+    <link href="https://youtu.be/5qqzVmyAGHA" rel="alternate" type="text/html"/>
+    <published>2025-03-16T15:00:11.000Z</published>
+    <updated>2025-03-16T15:00:11.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5qqzVmyAGHA 【LIVE on &lt;t:1742137211:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5qqzVmyAGHA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9138ee9b-0a61-5c65-a23d-50c0f6b80a4e</id>
@@ -48,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6c932b1f-6f93-5d1a-8173-16f7f4533655</id>
+    <title><![CDATA[【耐久歌枠/KARAOKE】30万人目指して歌枠耐久!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/-a1svxo_zIM" rel="alternate" type="text/html"/>
+    <published>2025-03-15T07:24:05.000Z</published>
+    <updated>2025-03-15T07:24:05.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-a1svxo_zIM 【LIVE on &lt;t:1742022046:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-a1svxo_zIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:304ba62e-9091-5a08-9b63-2ccc141d9491</id>
     <title><![CDATA[【耐久歌枠/KARAOKE】３０万人目指して歌枠耐久！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/ETYLszZJTS4" rel="alternate" type="text/html"/>
@@ -59,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ETYLszZJTS4 【LIVE on &lt;t:1742023317:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ETYLszZJTS4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6c932b1f-6f93-5d1a-8173-16f7f4533655</id>
-    <title><![CDATA[【耐久歌枠/KARAOKE】３０万人目指して歌枠耐久！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/-a1svxo_zIM" rel="alternate" type="text/html"/>
-    <published>2025-03-15T01:09:56.000Z</published>
-    <updated>2025-03-15T01:09:56.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-a1svxo_zIM 【LIVE on &lt;t:1742022046:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-a1svxo_zIM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1487,34 +1515,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Y0jE3O_3deI 【LIVE on &lt;t:1738238706:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y0jE3O_3deI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f45c55af-6e60-5b3c-bae1-c073976a7e4c</id>
-    <title><![CDATA[沙花叉クロヱ MV - 光あれ]]></title>
-    <link href="https://youtu.be/Utu9hixW6mc" rel="alternate" type="text/html"/>
-    <published>2025-01-26T13:30:06.000Z</published>
-    <updated>2025-01-26T13:30:06.000Z</updated>
-    <author>
-      <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Utu9hixW6mc 【LIVE on &lt;t:1737898206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Utu9hixW6mc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:17cbebc0-6995-5572-b570-55c30412dec6</id>
-    <title><![CDATA[Colorful Universe / 大神ミオ (official)]]></title>
-    <link href="https://youtu.be/NXIDznszQhA" rel="alternate" type="text/html"/>
-    <published>2025-01-26T11:00:06.000Z</published>
-    <updated>2025-01-26T11:00:06.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NXIDznszQhA 【LIVE on &lt;t:1737889206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NXIDznszQhA/maxresdefault.jpg"/>
   </entry>
 
   <entry>

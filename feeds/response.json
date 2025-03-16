@@ -1,13 +1,58 @@
 [
   {
+    "id": "Cgs5JfCIhrQ",
+    "title": "DIAMOND GIRLFRIEND",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-16T15:00:21.000Z",
+    "available_at": "2025-03-16T15:00:21.000Z",
+    "duration": 248,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCyWyNomzTjBvuRsqZU1bRCg",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
+    "id": "5qqzVmyAGHA",
+    "title": "DIAMOND GIRLFRIEND (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-16T15:00:11.000Z",
+    "available_at": "2025-03-16T15:00:11.000Z",
+    "duration": 248,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCyWyNomzTjBvuRsqZU1bRCg",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "LkjpLB7aQQk",
     "title": "【UNARCHIVED KARAOKE】SINGING TIME !【Ayunda Risu】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-16T11:40:37.000Z",
     "available_at": "2025-03-16T13:28:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8475,
+    "status": "past",
+    "live_tl_count": {
+      "en": 22
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -117,6 +162,26 @@
     }
   },
   {
+    "id": "-a1svxo_zIM",
+    "title": "【耐久歌枠/KARAOKE】30万人目指して歌枠耐久!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-15T07:24:05.000Z",
+    "available_at": "2025-03-15T07:00:46.000Z",
+    "duration": 989,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
     "id": "ETYLszZJTS4",
     "title": "【耐久歌枠/KARAOKE】３０万人目指して歌枠耐久！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -129,26 +194,6 @@
     "live_tl_count": {
       "en": 10
     },
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XXZ4apG-FPN8G8DpYacbnwxs7S5tf2tjV_u2Eaot3JHGAkSPFBYaGMOyJcAHhLYy_u11JD7O29I=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "-a1svxo_zIM",
-    "title": "【耐久歌枠/KARAOKE】３０万人目指して歌枠耐久！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-15T01:09:56.000Z",
-    "available_at": "2025-03-15T07:00:46.000Z",
-    "duration": 1131,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -3600,46 +3645,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "Utu9hixW6mc",
-    "title": "沙花叉クロヱ MV - 光あれ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-26T13:30:06.000Z",
-    "available_at": "2025-01-26T13:30:06.000Z",
-    "duration": 209,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
-    "id": "NXIDznszQhA",
-    "title": "Colorful Universe / 大神ミオ (official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-01-26T11:00:06.000Z",
-    "available_at": "2025-01-26T11:00:06.000Z",
-    "duration": 174,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
