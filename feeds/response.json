@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-15T21:25:54.000Z",
-    "available_at": "2025-03-15T23:00:00.000Z",
+    "available_at": "2025-03-15T23:00:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-15T14:06:29.000Z",
-    "available_at": "2025-03-16T02:00:00.000Z",
+    "available_at": "2025-03-16T02:00:24.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -86,6 +86,7 @@
     "available_at": "2025-03-15T07:21:57.000Z",
     "duration": 13215,
     "status": "past",
+    "songcount": 26,
     "live_tl_count": {
       "en": 10
     },
@@ -108,6 +109,7 @@
     "available_at": "2025-03-15T07:00:46.000Z",
     "duration": 1131,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -154,6 +156,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Q5AfHrrX0dnIFEmPwE72e4KEUk1K0RSBFiceMyCC2gMWYuKN9ZIS9R_1B3RWkd2Zyc9i3J87g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "7YTtOo8lkDE",
+    "title": "【誕生日&1stアルバム発売カウントダウン】明日全力出すために無言だけど、大切なアルバム発売の瞬間を一緒に迎えさせてください・・・!!! #博衣こより生誕祭2025 【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-03-14T15:16:11.000Z",
+    "available_at": "2025-03-14T14:44:21.000Z",
+    "duration": 1503,
+    "status": "past",
+    "live_tl_count": {
+      "en": 28
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -333,28 +357,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kageyama Shien"
-    }
-  },
-  {
-    "id": "7YTtOo8lkDE",
-    "title": "【誕生日&1stアルバム発売カウントダウン】明日全力出すために無言だけど、大切なアルバム発売の瞬間を一緒に迎えさせてください・・・！！！ #博衣こより生誕祭2025 【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-03-14T06:29:59.000Z",
-    "available_at": "2025-03-14T14:44:21.000Z",
-    "duration": 1508,
-    "status": "past",
-    "live_tl_count": {
-      "en": 28
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
