@@ -332,7 +332,7 @@
     "topic_id": "singing",
     "published_at": "2025-03-14T12:22:55.000Z",
     "available_at": "2025-03-14T10:01:34.000Z",
-    "duration": 7752,
+    "duration": 7487,
     "status": "past",
     "songcount": 16,
     "channel": {
@@ -708,6 +708,25 @@
     }
   },
   {
+    "id": "6N2D5aKU0y4",
+    "title": "【Post 3D Zatsudan】MY WIDE CHEST IN THE THIRD DIMENSION",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-12T14:47:41.000Z",
+    "available_at": "2025-03-17T03:51:28.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+      "name": "Goldbullet Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Goldbullet"
+    }
+  },
+  {
     "id": "FXLKbTnMP2M",
     "title": "【3D BIRTHDAY LIVE】 Through the Curious Tune - Anya Melfissa 2025 Birthday Live 生誕祭ライブ #CuriousTune3D",
     "type": "stream",
@@ -912,8 +931,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-03-10T09:24:00.000Z",
     "available_at": "2025-03-17T03:00:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3007,
+    "status": "past",
     "channel": {
       "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
       "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -5450,26 +5469,6 @@
     }
   },
   {
-    "id": "tZXIA-2fbuQ",
-    "title": "【3D SPECIAL STREAM】SUPER BIG NEWS!超!重大発表",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-11-23T04:07:12.000Z",
-    "available_at": "2024-11-23T02:57:37.000Z",
-    "duration": 3827,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "_lC-6ciWdxQ",
     "title": "【Anniversary Zatsudan】A years worth of Golden Memories",
     "type": "stream",
@@ -6157,7 +6156,7 @@
       "org": "Hololive",
       "suborg": "h English -Myth-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FT92k-lGkFhElXOuq3KlwCvCpWPlEYwtAy2tjRibnmkrPP-Aaksbf2_P7XY26O9R2W4efoP7=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
     }
   },
