@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-20T12:51:49.832Z</updated>
+  <updated>2025-03-20T14:30:30.822Z</updated>
 
   <entry>
     <id>urn:uuid:c9310622-45f3-5a16-8929-1217e0ccd96e</id>
@@ -20,6 +20,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:bb96afe0-d664-502e-9ea7-cbfc082c1392</id>
+    <title><![CDATA[SINGING STREAM BUFF FOR MONHUN【 iofi / hololiveID 】]]></title>
+    <link href="https://youtu.be/GSEstBZJQmM" rel="alternate" type="text/html"/>
+    <published>2025-03-20T09:48:32.000Z</published>
+    <updated>2025-03-20T09:48:32.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GSEstBZJQmM 【LIVE on &lt;t:1742479232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GSEstBZJQmM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:fc038f2f-c393-5d22-b0a9-6b3af9b03fcf</id>
     <title><![CDATA[【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/5j8kn3BZlRw" rel="alternate" type="text/html"/>
@@ -29,7 +43,7 @@
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5j8kn3BZlRw 【LIVE on &lt;t:1742479200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5j8kn3BZlRw 【LIVE on &lt;t:1742479231:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5j8kn3BZlRw/maxresdefault.jpg"/>
   </entry>
 
@@ -133,7 +147,7 @@
 
   <entry>
     <id>urn:uuid:fa5a2f00-8032-56d7-8afc-7167b926aa41</id>
-    <title><![CDATA[IRyS -  DIAMOND GIRLFRIEND feat.MOTSU【Original Song 3D MV】]]></title>
+    <title><![CDATA[IRyS - DIAMOND GIRLFRIEND feat.MOTSU【Original Song 3D MV】]]></title>
     <link href="https://youtu.be/EXM0EE_NpQc" rel="alternate" type="text/html"/>
     <published>2025-03-16T04:04:08.000Z</published>
     <updated>2025-03-16T04:04:08.000Z</updated>
