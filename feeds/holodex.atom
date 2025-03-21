@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-21T16:34:16.614Z</updated>
+  <updated>2025-03-21T18:35:47.531Z</updated>
 
   <entry>
     <id>urn:uuid:bb64fdbd-22ca-5abb-a1ab-5ffb25fbe4ca</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:40b4c0cd-25c3-570b-97e2-b25f828aa230</id>
+    <title><![CDATA[【syudou】罪と蜜 feat. Mori Calliope]]></title>
+    <link href="https://youtu.be/WZmusiHPgww" rel="alternate" type="text/html"/>
+    <published>2025-03-20T03:50:20.000Z</published>
+    <updated>2025-03-20T03:50:20.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WZmusiHPgww 【LIVE on &lt;t:1742641200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WZmusiHPgww/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:fc038f2f-c393-5d22-b0a9-6b3af9b03fcf</id>
     <title><![CDATA[【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/5j8kn3BZlRw" rel="alternate" type="text/html"/>
@@ -115,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3N_h163kETg 【LIVE on &lt;t:1742371334:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3N_h163kETg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:750c5ffb-0035-5cc8-9aed-110ee4e6adb9</id>
+    <title><![CDATA[MV【Break It Down】/ Vestia Zeta]]></title>
+    <link href="https://youtu.be/q4CY4XY-06Q" rel="alternate" type="text/html"/>
+    <published>2025-03-19T09:33:22.000Z</published>
+    <updated>2025-03-19T09:33:22.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=q4CY4XY-06Q 【LIVE on &lt;t:1742644800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q4CY4XY-06Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1473,34 +1501,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ouQF2A1l_cI 【LIVE on &lt;t:1738465089:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ouQF2A1l_cI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:22db3c52-8fe8-5884-a266-ab1e8f0a5ccd</id>
-    <title><![CDATA[もうどうなってもいいや - Movie edition -]]></title>
-    <link href="https://youtu.be/vv7mq4dGm4o" rel="alternate" type="text/html"/>
-    <published>2025-02-01T15:04:53.000Z</published>
-    <updated>2025-02-01T15:04:53.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vv7mq4dGm4o 【LIVE on &lt;t:1738422293:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vv7mq4dGm4o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5480f590-6341-59b7-aa46-4023eeecf48d</id>
-    <title><![CDATA[WataAme Pop/角巻わため【original】]]></title>
-    <link href="https://youtu.be/mmTmdMGbk_M" rel="alternate" type="text/html"/>
-    <published>2025-02-01T14:00:07.000Z</published>
-    <updated>2025-02-01T14:00:07.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mmTmdMGbk_M 【LIVE on &lt;t:1738418407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mmTmdMGbk_M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
