@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-21T14:16:01.000Z",
-    "available_at": "2025-03-21T20:00:00.000Z",
+    "available_at": "2025-03-21T19:58:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -112,6 +112,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "bNvkrJdI0Wg",
+    "title": "【 3D配信 】みんなが駆けつけてくれましたああああ🔥🔥✦【 #おかゆセカンドわかり手GP/ホロライブ 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-20T11:08:25.000Z",
+    "available_at": "2025-03-20T09:57:11.000Z",
+    "duration": 3851,
+    "status": "past",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
     }
   },
   {
@@ -271,25 +290,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "bNvkrJdI0Wg",
-    "title": "【 3D配信 】みんなが駆けつけてくれましたああああ🔥🔥✦【 #おかゆセカンドわかり手GP/ホロライブ 】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-18T17:33:24.000Z",
-    "available_at": "2025-03-20T09:57:11.000Z",
-    "duration": 3842,
-    "status": "past",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
