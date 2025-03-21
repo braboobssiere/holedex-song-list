@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-21T14:28:25.601Z</updated>
+  <updated>2025-03-21T16:34:16.614Z</updated>
+
+  <entry>
+    <id>urn:uuid:bb64fdbd-22ca-5abb-a1ab-5ffb25fbe4ca</id>
+    <title><![CDATA[【SHOW】A TRIBUTE TO IRISH SONGS ~! 💄]]></title>
+    <link href="https://youtu.be/91MZW3b9xWg" rel="alternate" type="text/html"/>
+    <published>2025-03-21T14:16:01.000Z</published>
+    <updated>2025-03-21T14:16:01.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=91MZW3b9xWg 【LIVE on &lt;t:1742587200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/91MZW3b9xWg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9fc5c3bb-5316-5f0b-ae27-09d7a5408124</id>
@@ -43,7 +57,7 @@
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Em3zfzz-vow 【LIVE on &lt;t:1742569200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Em3zfzz-vow 【LIVE on &lt;t:1742569639:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Em3zfzz-vow/maxresdefault.jpg"/>
   </entry>
 
@@ -885,20 +899,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PMgjFPqXZV4 【LIVE on &lt;t:1740823206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PMgjFPqXZV4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:907d94b0-5ae3-52b2-8906-4e8bab99c591</id>
-    <title><![CDATA[【歌枠】3月なので、春っぽい曲うたいたい気分!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/VoeV6htcSWQ" rel="alternate" type="text/html"/>
-    <published>2025-03-01T06:08:41.000Z</published>
-    <updated>2025-03-01T06:08:41.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VoeV6htcSWQ 【LIVE on &lt;t:1740801963:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VoeV6htcSWQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
