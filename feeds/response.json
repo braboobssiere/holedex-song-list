@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-22T16:36:38.000Z",
-    "available_at": "2025-03-22T23:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-03-22T22:57:09.000Z",
+    "duration": 5998,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -199,6 +199,25 @@
     }
   },
   {
+    "id": "hI-2Z3IhcD4",
+    "title": "7周年&生誕カウントダウン‼【ホロライブ / 星街すいせい】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-03-21T15:55:37.000Z",
+    "available_at": "2025-03-21T14:31:36.000Z",
+    "duration": 4542,
+    "status": "past",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
     "id": "91MZW3b9xWg",
     "title": "【SHOW】A TRIBUTE TO IRISH SONGS ~! 💄",
     "type": "stream",
@@ -215,25 +234,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "hI-2Z3IhcD4",
-    "title": "７周年＆生誕カウントダウン‼【ホロライブ / 星街すいせい】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-03-21T11:54:21.000Z",
-    "available_at": "2025-03-21T14:31:36.000Z",
-    "duration": 4543,
-    "status": "past",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
