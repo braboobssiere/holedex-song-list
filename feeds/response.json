@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-23T09:26:33.000Z",
-    "available_at": "2025-03-23T13:30:00.000Z",
+    "available_at": "2025-03-23T13:27:59.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 39
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -25,8 +28,8 @@
     "topic_id": "singing",
     "published_at": "2025-03-23T06:43:08.000Z",
     "available_at": "2025-03-23T09:58:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11081,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -199,6 +202,26 @@
     }
   },
   {
+    "id": "XlS-LfbmBFk",
+    "title": "≪カラオケ・KARAOKE≫ recovering these lungs",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-22T06:11:59.000Z",
+    "available_at": "2025-03-22T03:04:02.000Z",
+    "duration": 10231,
+    "status": "past",
+    "songcount": 22,
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "ieOowFpZ1Qs",
     "title": "【歌枠】いろいろ歌いたい～～～！【 ホロライブ / 大神ミオ 】",
     "type": "stream",
@@ -273,26 +296,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "XlS-LfbmBFk",
-    "title": "≪カラオケ・KARAOKE≫ recovering these lungs",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-21T11:32:05.000Z",
-    "available_at": "2025-03-22T03:04:02.000Z",
-    "duration": 10231,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
