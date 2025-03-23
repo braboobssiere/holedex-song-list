@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-23T06:34:11.307Z</updated>
+  <updated>2025-03-23T08:31:05.606Z</updated>
+
+  <entry>
+    <id>urn:uuid:bd512a75-b893-5dbc-8a3c-cef1564ceb57</id>
+    <title><![CDATA[REBROADCAST = 【SHOW】A TRIBUTE TO IRISH SONGS ~! 💄]]></title>
+    <link href="https://youtu.be/h2Grai-TnBY" rel="alternate" type="text/html"/>
+    <published>2025-03-23T06:43:08.000Z</published>
+    <updated>2025-03-23T06:43:08.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h2Grai-TnBY 【LIVE on &lt;t:1742724000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h2Grai-TnBY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a9794fc2-de15-5c4b-8992-141192908813</id>
