@@ -285,9 +285,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-03-22T05:43:48.000Z",
-    "available_at": "2025-03-24T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-03-24T13:00:06.000Z",
+    "duration": 3918,
+    "status": "past",
+    "live_tl_count": {
+      "en": 195
+    },
     "channel": {
       "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
       "name": "hololive Indonesia",
