@@ -1,13 +1,13 @@
 [
   {
     "id": "tXtb14bkK28",
-    "title": "納得いくまで歌います ※99%の確率で消えるアーカイブ",
+    "title": "納得いくまで歌います ※99％の確率で消えるアーカイブ",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-25T05:58:14.000Z",
     "available_at": "2025-03-25T06:12:22.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -56,6 +56,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "d1yju_GS0bc",
+    "title": "【3D Showcase】The Birth of a Star #Jurard3D",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-24T04:15:32.000Z",
+    "available_at": "2025-03-24T02:57:01.000Z",
+    "duration": 3877,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -498,6 +518,28 @@
     }
   },
   {
+    "id": "9bBmbRtv5pM",
+    "title": "【#Z3TAVERSARY】See? I'm a real secret agent【Zeta's 3rd Anniversary】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-03-20T12:03:54.000Z",
+    "available_at": "2025-03-25T12:01:56.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 12
+    },
+    "channel": {
+      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "name": "Vestia Zeta Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Vestia Zeta"
+    }
+  },
+  {
     "id": "bNvkrJdI0Wg",
     "title": "【 3D配信 】みんなが駆けつけてくれましたああああ🔥🔥✦【 #おかゆセカンドわかり手GP/ホロライブ 】",
     "type": "stream",
@@ -653,26 +695,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Goldbullet"
-    }
-  },
-  {
-    "id": "d1yju_GS0bc",
-    "title": "【3D Showcase】The Birth of a Star #Jurard3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-17T05:38:24.000Z",
-    "available_at": "2025-03-24T02:57:01.000Z",
-    "duration": 3888,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -5651,25 +5673,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "p0UqJmkT1jU",
-    "title": "【 #SSholoX3周年 】 もうすぐholoX3周年!holoXerの質問に答えちゃいます!嬉しいお知らせも!? 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-18T12:02:58.000Z",
-    "available_at": "2024-11-18T10:58:45.000Z",
-    "duration": 3626,
-    "status": "past",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
