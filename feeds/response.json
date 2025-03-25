@@ -8,6 +8,7 @@
     "available_at": "2025-03-24T12:03:32.000Z",
     "duration": 18253,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UCWNVjAzZmYUni8YBXYiy01w",
       "name": "dtto.",
@@ -64,7 +65,7 @@
     "published_at": "2025-03-23T09:26:33.000Z",
     "available_at": "2025-03-23T13:27:59.000Z",
     "duration": 10139,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 82
     },
@@ -454,25 +455,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "9bBmbRtv5pM",
-    "title": "【#Z3TAVERSARY】See? I'm a real secret agent【Zeta's 3rd Anniversary】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-03-20T12:03:54.000Z",
-    "available_at": "2025-03-25T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-      "name": "Vestia Zeta Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Vestia Zeta"
     }
   },
   {
@@ -5672,6 +5654,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "p0UqJmkT1jU",
+    "title": "【 #SSholoX3周年 】 もうすぐholoX3周年!holoXerの質問に答えちゃいます!嬉しいお知らせも!? 【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2024-11-18T12:02:58.000Z",
+    "available_at": "2024-11-18T10:58:45.000Z",
+    "duration": 3626,
+    "status": "past",
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   },
   {
