@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-25T12:52:48.536Z</updated>
+  <updated>2025-03-25T14:31:02.881Z</updated>
+
+  <entry>
+    <id>urn:uuid:9cb385bb-a1df-55a3-a9b7-423ae4ff9562</id>
+    <title><![CDATA[【歌枠】卒業ソングメドレー🌸おめでとうを込めて歌う!!!💌【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/Ip0f_sKJRAw" rel="alternate" type="text/html"/>
+    <published>2025-03-25T13:50:58.000Z</published>
+    <updated>2025-03-25T13:50:58.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ip0f_sKJRAw 【LIVE on &lt;t:1742914800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ip0f_sKJRAw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:94ef3887-36b4-5809-9358-706d5d349abc</id>
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5FRF6fP9ZOw 【LIVE on &lt;t:1742821397:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5FRF6fP9ZOw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:24f73046-d4ba-5156-8b66-0632766d11e5</id>
+    <title><![CDATA[【LAST KARAOKE】Mori and Milky's Final Collab! #calliolive]]></title>
+    <link href="https://youtu.be/BBka4-DkUuU" rel="alternate" type="text/html"/>
+    <published>2025-03-24T05:40:41.000Z</published>
+    <updated>2025-03-24T05:40:41.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BBka4-DkUuU 【LIVE on &lt;t:1742785463:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BBka4-DkUuU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -185,20 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0IH0GW0saHA 【LIVE on &lt;t:1742868364:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0IH0GW0saHA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:24f73046-d4ba-5156-8b66-0632766d11e5</id>
-    <title><![CDATA[【LAST KARAOKE】Mori and Milky's Final Collab! #calliolive]]></title>
-    <link href="https://youtu.be/BBka4-DkUuU" rel="alternate" type="text/html"/>
-    <published>2025-03-21T08:17:03.000Z</published>
-    <updated>2025-03-21T08:17:03.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BBka4-DkUuU 【LIVE on &lt;t:1742785463:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BBka4-DkUuU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -787,20 +801,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IKkSNj5uN6I 【LIVE on &lt;t:1741404617:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKkSNj5uN6I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:73eabe6b-90e5-5ddd-9f63-a7270824b4ab</id>
-    <title><![CDATA[【歌枠】歌おう♪しゃべろう♪【ホロライブ/宝鐘マリン】]]></title>
-    <link href="https://youtu.be/h-NRRBYxbUw" rel="alternate" type="text/html"/>
-    <published>2025-03-07T12:04:39.000Z</published>
-    <updated>2025-03-07T12:04:39.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=h-NRRBYxbUw 【LIVE on &lt;t:1741338077:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h-NRRBYxbUw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
