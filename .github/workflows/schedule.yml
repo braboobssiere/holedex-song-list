@@ -2,7 +2,7 @@ name: Generate Holodex.atom
 
 on:
   schedule:
-    - cron: '5 */2 * * *' # Runs every 2 hours
+    - cron: '5 */1 * * *' # Runs every 2 hours
   workflow_dispatch: # Allows manual triggering of the workflow
 
 permissions:
