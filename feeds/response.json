@@ -38,6 +38,26 @@
     }
   },
   {
+    "id": "vJV4wKPHC_s",
+    "title": "久しぶりに歌います singing stream",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-24T17:24:15.000Z",
+    "available_at": "2025-03-24T12:03:32.000Z",
+    "duration": 18250,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCWNVjAzZmYUni8YBXYiy01w",
+      "name": "dtto.",
+      "org": "Twitch Independents",
+      "suborg": "reREJECT",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3SotsPaIwILzp3_cA5E-NJGd8a2Qkw0wGfKZx74Uu3XpoKEalgXQEXhgQCwbwt4aC7EaAsPSyQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "dtto."
+    }
+  },
+  {
     "id": "cA5VLFlkrXs",
     "title": "【holoh3ro 3rd anniversary】 halo aku yang do3lo3! #holoh3ro_annivdo3lo3",
     "type": "stream",
@@ -77,26 +97,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "vJV4wKPHC_s",
-    "title": "久しぶりに歌います singing stream",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-24T11:23:10.000Z",
-    "available_at": "2025-03-24T12:03:32.000Z",
-    "duration": 18253,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCWNVjAzZmYUni8YBXYiy01w",
-      "name": "dtto.",
-      "org": "Twitch Independents",
-      "suborg": "reREJECT",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3SotsPaIwILzp3_cA5E-NJGd8a2Qkw0wGfKZx74Uu3XpoKEalgXQEXhgQCwbwt4aC7EaAsPSyQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "dtto."
     }
   },
   {
@@ -5492,6 +5492,7 @@
     "available_at": "2025-03-25T09:30:13.000Z",
     "duration": 14941,
     "status": "past",
+    "songcount": 29,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
