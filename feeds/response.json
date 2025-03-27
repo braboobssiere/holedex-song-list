@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2025-03-27T07:25:44.000Z",
     "available_at": "2025-03-27T09:01:22.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5043,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -833,6 +833,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
+    }
+  },
+  {
+    "id": "MGdffr_lIPs",
+    "title": "PlayStation® × YOASOBI「PLAYERS」30周年特別CM|30秒|Project: MEMORY CARD",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-03-20T15:00:06.000Z",
+    "available_at": "2025-03-20T15:00:06.000Z",
+    "duration": 31,
+    "status": "past",
+    "original_channel_id": "UCaghC0OZwAdidMrbvxkcrPg",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
     }
   },
   {
@@ -5648,25 +5668,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Goldbullet"
-    }
-  },
-  {
-    "id": "BSB823fUBic",
-    "title": "【POST-ANNIVERSARY】CHECKING OUT WHAT ARMADA MADE FOR US!!",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-20T12:08:23.000Z",
-    "available_at": "2024-11-20T05:02:06.000Z",
-    "duration": 24436,
-    "status": "past",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
