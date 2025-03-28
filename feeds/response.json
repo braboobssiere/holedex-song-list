@@ -1,5 +1,24 @@
 [
   {
+    "id": "9MFKf4SVSH8",
+    "title": "【※UNARCHIVED】ENGLISH KARAOKE AT NIGHT💘",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-28T14:28:05.000Z",
+    "available_at": "2025-03-28T15:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "rNyZEzN0m2w",
     "title": "【歌枠/KARAOKE】のんびりチルする【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -8,7 +27,7 @@
     "available_at": "2025-03-28T13:59:49.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 1,
+    "songcount": 10,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -1844,26 +1863,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "P5RmtZj9eYA",
-    "title": "【歌枠/KARAOKE】いろいろ歌うだよ~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-11T11:57:14.000Z",
-    "available_at": "2025-03-11T10:02:13.000Z",
-    "duration": 5506,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
