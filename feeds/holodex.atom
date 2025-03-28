@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-28T22:19:24.814Z</updated>
+  <updated>2025-03-28T23:19:15.610Z</updated>
 
   <entry>
     <id>urn:uuid:375a6cf1-e7d4-5205-be54-5104668ef40b</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rNyZEzN0m2w 【LIVE on &lt;t:1743170389:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rNyZEzN0m2w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ffbd3a9d-8d82-5c8a-98dd-63caf0282095</id>
+    <title><![CDATA[【3D Live】KOBO BABY PARTY !!!! GUGU GAGA BABU BABU ???!!! #Kobo3rdAnniversary]]></title>
+    <link href="https://youtu.be/SSuRtcLXA0s" rel="alternate" type="text/html"/>
+    <published>2025-03-27T16:07:11.000Z</published>
+    <updated>2025-03-27T16:07:11.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SSuRtcLXA0s 【LIVE on &lt;t:1743080291:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SSuRtcLXA0s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3fLXoI5OaAc 【LIVE on &lt;t:1742895013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3fLXoI5OaAc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ffbd3a9d-8d82-5c8a-98dd-63caf0282095</id>
-    <title><![CDATA[【3D Live】KOBO BABY PARTY !!!! GUGU GAGA BABU BABU ???!!! #Kobo3rdAnniversary]]></title>
-    <link href="https://youtu.be/SSuRtcLXA0s" rel="alternate" type="text/html"/>
-    <published>2025-03-25T13:28:38.000Z</published>
-    <updated>2025-03-25T13:28:38.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SSuRtcLXA0s 【LIVE on &lt;t:1743080291:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SSuRtcLXA0s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
