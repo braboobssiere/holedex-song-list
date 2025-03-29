@@ -21,13 +21,13 @@
   },
   {
     "id": "ig6aDWk6KU8",
-    "title": "【歌枠】突然やりたくなった!懐メロうたうよ~!【 ホロライブ / 大神ミオ 】",
+    "title": "【歌枠】突然やりたくなった！懐メロうたうよ～！【 ホロライブ / 大神ミオ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-03-29T07:33:10.000Z",
     "available_at": "2025-03-29T09:01:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7125,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -141,9 +141,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-03-28T11:53:42.000Z",
-    "available_at": "2025-03-29T11:00:00.000Z",
+    "available_at": "2025-03-29T11:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 29
+    },
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -3949,6 +3952,25 @@
     }
   },
   {
+    "id": "HcO0_4paRP0",
+    "title": "エリオント 1st LIVE ★配信限定カード配布もあるよ!【アイカツアカデミー!】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-01-28T06:37:37.000Z",
+    "available_at": "2025-03-29T10:00:01.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCt5LKMT1F-ADuSWcIgCsTXw",
+      "name": "アイカツアカデミー ! 配信部【デミカツ】",
+      "org": "Independents",
+      "suborg": "aaAIKATSU ACADEMY",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xqVslhvV11etX_F7vMDeN1Vf9U5h2qa7OXB76lJn9FBisrC3WcTc00ke2DgU-2CqhI07lL39OA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AIKATSU ACADEMY"
+    }
+  },
+  {
     "id": "_v_A9s5nd2I",
     "title": "【#瀬兎一也生誕祭2025】3DLIVE🎃-Set off-🎃重大発表あり!【のりプロ所属】",
     "type": "stream",
@@ -5164,26 +5186,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Murasaki Shion"
-    }
-  },
-  {
-    "id": "hmS_z-2epcM",
-    "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY2】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-08T09:32:48.000Z",
-    "available_at": "2024-12-08T08:30:16.000Z",
-    "duration": 3440,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
     }
   },
   {
