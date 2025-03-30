@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-03-30T20:20:52.297Z</updated>
+  <updated>2025-03-30T21:18:06.144Z</updated>
 
   <entry>
     <id>urn:uuid:b1ad1f35-8115-5f49-a340-5d09b61c81af</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d9b645df-c0e0-57ac-8790-81ad7b65d863</id>
+    <title><![CDATA[【 #桃鈴ねね誕生日Live2025 】ゲストあり!新衣装お披露目あり!ねねリズムバースデーライブ!【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/d-Ua7CIU34I" rel="alternate" type="text/html"/>
+    <published>2025-03-29T12:25:50.000Z</published>
+    <updated>2025-03-29T12:25:50.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=d-Ua7CIU34I 【LIVE on &lt;t:1743246011:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d-Ua7CIU34I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1c9b74eb-4533-5440-aeb3-bad3b7fef99a</id>
     <title><![CDATA[【歌枠】3Dミニライブ前日！メン限お試し版ちょっとだけ全体公開するよスペシャル【儒烏風亭らでん #ReGLOSS 】]]></title>
     <link href="https://youtu.be/RnV6r9QiFu4" rel="alternate" type="text/html"/>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rNyZEzN0m2w 【LIVE on &lt;t:1743170389:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rNyZEzN0m2w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d9b645df-c0e0-57ac-8790-81ad7b65d863</id>
-    <title><![CDATA[【 #桃鈴ねね誕生日Live2025 】ゲストあり！新衣装お披露目あり！ねねリズムバースデーライブ！【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/d-Ua7CIU34I" rel="alternate" type="text/html"/>
-    <published>2025-03-28T11:53:42.000Z</published>
-    <updated>2025-03-28T11:53:42.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=d-Ua7CIU34I 【LIVE on &lt;t:1743246011:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d-Ua7CIU34I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
