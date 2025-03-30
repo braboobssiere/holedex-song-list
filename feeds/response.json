@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-03-29T22:42:13.000Z",
-    "available_at": "2025-03-30T02:00:00.000Z",
+    "available_at": "2025-03-30T02:01:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -242,7 +242,7 @@
     "published_at": "2025-03-28T15:44:58.000Z",
     "available_at": "2025-03-28T15:49:39.000Z",
     "duration": 10039,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -281,7 +281,7 @@
     "available_at": "2025-03-29T11:00:11.000Z",
     "duration": 4566,
     "status": "past",
-    "songcount": 10,
+    "songcount": 11,
     "live_tl_count": {
       "en": 201
     },
