@@ -1,13 +1,13 @@
 [
   {
     "id": "NUTVxir8h6o",
-    "title": "【karaoke】約束を果たしに!65万人耐久歌枠 子守歌~🎶【#歌枠 #一条莉々華/hololive DEV_IS ReGLOSS #Shorts】",
+    "title": "【karaoke】約束を果たしに！65万人耐久歌枠 子守歌～🎶【#歌枠 #一条莉々華/hololive DEV_IS　ReGLOSS #Shorts】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-01T16:07:17.000Z",
     "available_at": "2025-04-01T16:07:35.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2835,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -107,6 +107,7 @@
     "available_at": "2025-04-01T12:00:06.000Z",
     "duration": 168,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -255,25 +256,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "Ry75JmGpeow",
-    "title": "【お披露目】新3Dついに公開⁉【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-31T13:03:45.000Z",
-    "available_at": "2025-04-01T08:59:51.000Z",
-    "duration": 246,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -5287,6 +5269,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "qIbjRU2Mo8I",
+    "title": "【3D LIVE】げまずえでぃしょん!!!!【#ホロゲマズ結成記念LIVE2024】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-14T12:07:29.000Z",
+    "available_at": "2024-12-14T10:57:29.000Z",
+    "duration": 3847,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 11
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
