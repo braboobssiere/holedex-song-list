@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-01T14:20:28.242Z</updated>
+  <updated>2025-04-01T15:21:44.420Z</updated>
+
+  <entry>
+    <id>urn:uuid:ea5c01da-5e78-50ae-aa3a-65d3b920c6bf</id>
+    <title><![CDATA[ラムダック (Instrumental)]]></title>
+    <link href="https://youtu.be/qLInuCp1wvs" rel="alternate" type="text/html"/>
+    <published>2025-04-01T15:01:12.000Z</published>
+    <updated>2025-04-01T15:01:12.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qLInuCp1wvs 【LIVE on &lt;t:1743519672:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qLInuCp1wvs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8fb2c828-7279-5720-ac79-3b8a697a9eb3</id>
+    <title><![CDATA[ラムダック]]></title>
+    <link href="https://youtu.be/BD8MriQxcbQ" rel="alternate" type="text/html"/>
+    <published>2025-04-01T15:00:25.000Z</published>
+    <updated>2025-04-01T15:00:25.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BD8MriQxcbQ 【LIVE on &lt;t:1743519625:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BD8MriQxcbQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f1f662b2-b674-538a-af63-d64278348318</id>
@@ -1291,34 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=11wxYePRtYY 【LIVE on &lt;t:1740387606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11wxYePRtYY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bc3c7197-b921-5635-a496-37c694393f25</id>
-    <title><![CDATA[Funfair]]></title>
-    <link href="https://youtu.be/lfkL0s0Q27o" rel="alternate" type="text/html"/>
-    <published>2025-02-23T15:04:49.000Z</published>
-    <updated>2025-02-23T15:04:49.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lfkL0s0Q27o 【LIVE on &lt;t:1740323089:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lfkL0s0Q27o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:336170a9-551a-528b-a22d-c1bdf55b4528</id>
-    <title><![CDATA[Funfair(Instrumental)]]></title>
-    <link href="https://youtu.be/9QjaDc68cxE" rel="alternate" type="text/html"/>
-    <published>2025-02-23T15:01:51.000Z</published>
-    <updated>2025-02-23T15:01:51.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9QjaDc68cxE 【LIVE on &lt;t:1740322911:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9QjaDc68cxE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
