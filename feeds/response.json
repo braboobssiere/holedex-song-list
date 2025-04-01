@@ -1,13 +1,35 @@
 [
   {
+    "id": "pnoNlR2i40Q",
+    "title": "【sing】エイプリルフールだからハロウィンの服着る【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-01T09:14:32.000Z",
+    "available_at": "2025-04-01T10:02:01.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 20
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "AhK_QdyooqE",
     "title": "【エイプリルフール】65万人さま~!りりかちゃんとおうたを歌おう🎶【#歌枠 #一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-01T08:28:02.000Z",
-    "available_at": "2025-04-01T10:00:00.000Z",
+    "available_at": "2025-04-01T10:01:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -43,9 +65,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-04-01T07:17:22.000Z",
-    "available_at": "2025-04-01T10:00:00.000Z",
+    "available_at": "2025-04-01T10:01:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -63,8 +85,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-04-01T04:58:15.000Z",
     "available_at": "2025-04-01T08:01:32.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5557,
+    "status": "past",
     "channel": {
       "id": "UCc88OV45ICgHbn3ZqLLb52w",
       "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -1955,26 +1977,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "TKLicGXz7aA",
-    "title": "【#ホロスタ歌枠リレー】ホワイトデーのお返しに弾き語りを添えて【律可/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-14T11:06:46.000Z",
-    "available_at": "2025-03-14T10:28:03.000Z",
-    "duration": 1947,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
