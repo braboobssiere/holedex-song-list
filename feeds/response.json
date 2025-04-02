@@ -67,8 +67,8 @@
     "topic_id": "singing",
     "published_at": "2025-04-01T13:30:30.000Z",
     "available_at": "2025-04-01T22:56:42.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5735,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -165,6 +165,7 @@
     "available_at": "2025-04-01T10:02:01.000Z",
     "duration": 6668,
     "status": "past",
+    "songcount": 13,
     "live_tl_count": {
       "en": 140
     },
@@ -187,6 +188,7 @@
     "available_at": "2025-04-01T10:01:05.000Z",
     "duration": 5724,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
