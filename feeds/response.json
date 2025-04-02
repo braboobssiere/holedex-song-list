@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2025-04-02T10:49:46.000Z",
     "available_at": "2025-04-02T13:00:51.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4099,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -1114,6 +1114,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vestia Zeta"
+    }
+  },
+  {
+    "id": "9_luoH2uFyw",
+    "title": "【#ゆめくいゆん3D】はじめての3D…!どきどきしちゃうね ❤︎",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-25T12:49:25.000Z",
+    "available_at": "2025-03-25T10:59:44.000Z",
+    "duration": 5380,
+    "status": "past",
+    "channel": {
+      "id": "UCYRV9PtY5jx0x5PWV6hJD3w",
+      "name": "ゆめくい ゆん / Yun Yumekui",
+      "org": "Independents",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/L9aDScvvOtGPQLCOYhZYCDuN2ileJ9MyYqrqati6xa82Ie1zaDgVGW7jloEzb4Vsh875DuxP9Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yumekui Yun"
     }
   },
   {
@@ -5272,29 +5290,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "qIbjRU2Mo8I",
-    "title": "【3D LIVE】げまずえでぃしょん!!!!【#ホロゲマズ結成記念LIVE2024】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2024-12-14T12:07:29.000Z",
-    "available_at": "2024-12-14T10:57:29.000Z",
-    "duration": 3847,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 11
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
