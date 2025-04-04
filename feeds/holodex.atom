@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-04T19:17:32.760Z</updated>
+  <updated>2025-04-04T20:21:35.048Z</updated>
+
+  <entry>
+    <id>urn:uuid:56a37340-a962-5b0b-8e0e-096709146251</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】A little Sing Song Sesh ~! 💄]]></title>
+    <link href="https://youtu.be/pYKBiKU6Mfs" rel="alternate" type="text/html"/>
+    <published>2025-04-04T20:02:40.000Z</published>
+    <updated>2025-04-04T20:02:40.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pYKBiKU6Mfs 【LIVE on &lt;t:1743797393:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pYKBiKU6Mfs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1cefe4c3-2110-51fd-95ae-3ac1371402a8</id>
@@ -815,20 +829,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-NjjaUG0CFc 【LIVE on &lt;t:1742040486:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-NjjaUG0CFc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:304ba62e-9091-5a08-9b63-2ccc141d9491</id>
-    <title><![CDATA[【耐久歌枠/KARAOKE】30万人目指して歌枠耐久!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/ETYLszZJTS4" rel="alternate" type="text/html"/>
-    <published>2025-03-15T11:18:21.000Z</published>
-    <updated>2025-03-15T11:18:21.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ETYLszZJTS4 【LIVE on &lt;t:1742023317:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ETYLszZJTS4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
