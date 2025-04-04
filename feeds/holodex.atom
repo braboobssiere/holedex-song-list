@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-04T17:17:49.710Z</updated>
+  <updated>2025-04-04T18:27:19.765Z</updated>
 
   <entry>
     <id>urn:uuid:1cefe4c3-2110-51fd-95ae-3ac1371402a8</id>
@@ -427,7 +427,7 @@
 
   <entry>
     <id>urn:uuid:3c9732e8-a6c0-56b2-9469-ed6d688b2632</id>
-    <title><![CDATA[【歌枠】縦型歌枠配信✨眠れない夜にどうですか?【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【歌枠】縦型歌枠配信✨眠れない夜にどうですか？【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/0M60iDKnHII" rel="alternate" type="text/html"/>
     <published>2025-03-25T13:39:22.000Z</published>
     <updated>2025-03-25T13:39:22.000Z</updated>
@@ -829,20 +829,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ETYLszZJTS4 【LIVE on &lt;t:1742023317:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ETYLszZJTS4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6c932b1f-6f93-5d1a-8173-16f7f4533655</id>
-    <title><![CDATA[【耐久歌枠/KARAOKE】30万人目指して歌枠耐久!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/-a1svxo_zIM" rel="alternate" type="text/html"/>
-    <published>2025-03-15T07:24:05.000Z</published>
-    <updated>2025-03-15T07:24:05.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-a1svxo_zIM 【LIVE on &lt;t:1742022046:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-a1svxo_zIM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1823,6 +1809,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Oi0WDyT6xTE 【LIVE on &lt;t:1734231481:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Oi0WDyT6xTE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:98f40d09-c127-5d51-8745-e518a9beb173</id>
+    <title><![CDATA[【歌枠】沢山歌うよ🎶/Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/v_JyeJoTX5Y" rel="alternate" type="text/html"/>
+    <published>2024-12-09T07:15:54.000Z</published>
+    <updated>2024-12-09T07:15:54.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=v_JyeJoTX5Y 【LIVE on &lt;t:1743843600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v_JyeJoTX5Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
