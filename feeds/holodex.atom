@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-05T23:19:21.946Z</updated>
+  <updated>2025-04-06T01:41:49.212Z</updated>
 
   <entry>
     <id>urn:uuid:56c74f6e-8e0b-541e-ad76-1a78f6a0d15d</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3o0ksmm2Hyc 【LIVE on &lt;t:1743825604:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3o0ksmm2Hyc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3c9732e8-a6c0-56b2-9469-ed6d688b2632</id>
+    <title><![CDATA[【歌枠】縦型歌枠配信✨眠れない夜にどうですか?【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/0M60iDKnHII" rel="alternate" type="text/html"/>
+    <published>2025-04-04T17:17:41.000Z</published>
+    <updated>2025-04-04T17:17:41.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0M60iDKnHII 【LIVE on &lt;t:1743777023:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0M60iDKnHII/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -199,6 +213,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AhK_QdyooqE 【LIVE on &lt;t:1743501665:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AhK_QdyooqE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fe76f974-c4eb-5b07-b82d-553c795594b0</id>
+    <title><![CDATA[【#久我レオ3Dお披露目】 昼は英会話教師、夜は掃除屋🗡️ 【久我レオ / ネオポルテ】]]></title>
+    <link href="https://youtu.be/PmmhGoMlCfo" rel="alternate" type="text/html"/>
+    <published>2025-03-31T09:04:52.000Z</published>
+    <updated>2025-03-31T09:04:52.000Z</updated>
+    <author>
+      <name>久我レオ / Kuga Leo</name>
+      <uri>https://www.youtube.com/channel/UCmpEFsiD67ZOjn2CCJoo1mw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PmmhGoMlCfo 【LIVE on &lt;t:1743857711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PmmhGoMlCfo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -451,20 +479,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3fLXoI5OaAc 【LIVE on &lt;t:1742895013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3fLXoI5OaAc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3c9732e8-a6c0-56b2-9469-ed6d688b2632</id>
-    <title><![CDATA[【歌枠】縦型歌枠配信✨眠れない夜にどうですか？【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/0M60iDKnHII" rel="alternate" type="text/html"/>
-    <published>2025-03-25T13:39:22.000Z</published>
-    <updated>2025-03-25T13:39:22.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0M60iDKnHII 【LIVE on &lt;t:1743777023:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0M60iDKnHII/maxresdefault.jpg"/>
   </entry>
 
   <entry>
