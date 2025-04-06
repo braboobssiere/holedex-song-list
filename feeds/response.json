@@ -62,9 +62,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-04-05T14:01:27.000Z",
-    "available_at": "2025-04-06T11:00:00.000Z",
+    "available_at": "2025-04-06T11:00:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -314,7 +314,7 @@
     "id": "SCQYNAfd4ck",
     "title": "【3D STREAM】Dapat surat tantangan dari Kaela!! Ke hutan?! + Pengumuman #holoID5yukuran",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "Anniversary",
     "published_at": "2025-04-03T05:30:53.000Z",
     "available_at": "2025-04-06T12:30:00.000Z",
     "duration": 0,
@@ -5274,6 +5274,25 @@
     }
   },
   {
+    "id": "i3hfGAlJZ54",
+    "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2024-12-24T05:30:39.000Z",
+    "available_at": "2024-12-24T03:40:13.000Z",
+    "duration": 6117,
+    "status": "past",
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
     "id": "DEbGq2ItFOU",
     "title": "【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】",
     "type": "stream",
@@ -5590,26 +5609,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "hQtN_RWYukM",
-    "title": "【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-11-29T16:02:02.000Z",
-    "available_at": "2024-11-29T11:58:53.000Z",
-    "duration": 11775,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   },
   {
