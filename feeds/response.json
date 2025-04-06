@@ -1,5 +1,46 @@
 [
   {
+    "id": "u7oCq65-S5w",
+    "title": "Juara Khatulistiwa - hololive ID [Original Song]",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-06T14:00:06.000Z",
+    "available_at": "2025-04-06T14:00:06.000Z",
+    "duration": 238,
+    "status": "past",
+    "live_tl_count": {
+      "id": 6
+    },
+    "channel": {
+      "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
+      "name": "hololive Indonesia",
+      "org": "Hololive",
+      "suborg": "0cOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
+    }
+  },
+  {
+    "id": "n5CjrwnqIek",
+    "title": "ガザニア / 猫又おかゆ ( official )",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-06T12:15:06.000Z",
+    "available_at": "2025-04-06T12:15:06.000Z",
+    "duration": 280,
+    "status": "past",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
     "id": "Guqr-Q0mMUg",
     "title": "【アカペラ歌枠】かなり珍しいけど、丁寧にがんばります【 ホロライブ / 大神ミオ 】",
     "type": "stream",
@@ -274,25 +315,6 @@
     }
   },
   {
-    "id": "u7oCq65-S5w",
-    "title": "Juara Khatulistiwa - hololive ID [Original Song]",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-04T08:15:38.000Z",
-    "available_at": "2025-04-06T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
-      "name": "hololive Indonesia",
-      "org": "Hololive",
-      "suborg": "0cOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
-    }
-  },
-  {
     "id": "gq5aODmX2HE",
     "title": "【BIRTHDAY COUNTDOWN】Calling Friends and Celebrating! with NEWS! #calliolive",
     "type": "stream",
@@ -337,10 +359,11 @@
     "topic_id": "Anniversary",
     "published_at": "2025-04-03T05:30:53.000Z",
     "available_at": "2025-04-06T12:28:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5671,
+    "status": "past",
     "live_tl_count": {
-      "en": 179
+      "en": 267,
+      "id": 12
     },
     "channel": {
       "id": "UCfrWoRGlawPQDQxxeIDRP0Q",
@@ -3572,26 +3595,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "X_4pIzwShRw",
-    "title": "【MV】Seeing Stars feat. Lotus Juice - Mori Calliope",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-02-28T07:00:08.000Z",
-    "available_at": "2025-02-28T07:00:08.000Z",
-    "duration": 221,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
