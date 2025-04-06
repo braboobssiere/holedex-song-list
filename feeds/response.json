@@ -86,7 +86,7 @@
     "published_at": "2025-04-05T10:54:44.000Z",
     "available_at": "2025-04-06T03:50:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -103,9 +103,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-04-05T10:46:43.000Z",
-    "available_at": "2025-04-06T04:00:00.000Z",
+    "available_at": "2025-04-06T03:53:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -442,8 +442,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-04-02T08:09:05.000Z",
     "available_at": "2025-04-06T03:00:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2474,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCJxZpzx4wHzEYD-eCiZPikg",
