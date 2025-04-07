@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-07T19:16:34.483Z</updated>
+  <updated>2025-04-07T20:22:34.215Z</updated>
+
+  <entry>
+    <id>urn:uuid:33dbca82-807b-5bca-8a33-59539478c9e3</id>
+    <title><![CDATA[🛸【歌枠】 ✧︎SINGING! ✧︎おーきーてー!!!!!!!!!!!【ラプラス・ダークネス/ホロライブ】💜]]></title>
+    <link href="https://youtu.be/J0hLVkFdGEU" rel="alternate" type="text/html"/>
+    <published>2025-04-07T19:51:48.000Z</published>
+    <updated>2025-04-07T19:51:48.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=J0hLVkFdGEU 【LIVE on &lt;t:1744055657:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J0hLVkFdGEU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ed1c67ea-27da-5389-8249-9b3c04c8f876</id>
@@ -871,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3N_h163kETg 【LIVE on &lt;t:1742371334:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3N_h163kETg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:74082130-9ab3-5791-8813-b68a861d4f77</id>
-    <title><![CDATA[【ARCHIVED KARAOKE】 A TREAT FOR THE ZOMRADES ON THE OTHER SIDE OF THE WORLD 【Kureiji Ollie】]]></title>
-    <link href="https://youtu.be/0s8mZ2BXNYk" rel="alternate" type="text/html"/>
-    <published>2025-03-18T22:01:15.000Z</published>
-    <updated>2025-03-18T22:01:15.000Z</updated>
-    <author>
-      <name>Kureiji Ollie Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0s8mZ2BXNYk 【LIVE on &lt;t:1742328275:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0s8mZ2BXNYk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
