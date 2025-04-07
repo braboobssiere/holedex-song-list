@@ -93,6 +93,7 @@
     "available_at": "2025-04-06T09:00:09.000Z",
     "duration": 4530,
     "status": "past",
+    "songcount": 2,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -131,6 +132,7 @@
     "available_at": "2025-04-06T13:21:27.000Z",
     "duration": 8653,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -188,7 +190,7 @@
     "published_at": "2025-04-05T11:07:09.000Z",
     "available_at": "2025-04-05T13:00:31.000Z",
     "duration": 7703,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 6
     },
