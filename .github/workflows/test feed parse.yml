@@ -10,40 +10,38 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v4
 
-    - name: Set up XML parser
+    - name: Set up XML tools
       run: sudo apt-get install -y libxml2-utils
 
-    - name: Fetch and process feed
+    - name: Process entries
       run: |
         FEED_URL="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/refs/heads/main/feeds/holodex.atom"
         
-        # Get all entries
-        entries=$(curl -s "$FEED_URL" | xmllint --xpath "//entry" -)
-        
-        # Count number of entries
-        count=$(echo "$entries" | xmllint --xpath "count(//entry)" -)
-        echo "Found $count entries"
+        # Get all entries as plain XML
+        curl -s "$FEED_URL" | xmllint --xpath "//*[local-name()='entry']" - > entries.xml
 
         # Process each entry
+        count=$(xmllint --xpath "count(//*[local-name()='entry'])" entries.xml)
+        echo "Found $count entries"
+
         for i in $(seq 1 $count); do
           echo "Processing entry $i/$count"
           
-          entry=$(echo "$entries" | xmllint --xpath "//entry[$i]" - 2>/dev/null)
-          
-          # Extract fields
-          id=$(echo "$entry" | xmllint --xpath "//id/text()" -)
-          title=$(echo "$entry" | xmllint --xpath "//title/text()" -)
-          link=$(echo "$entry" | xmllint --xpath "//link[@rel='alternate']/@href" - | cut -d '"' -f 2)
-          published=$(echo "$entry" | xmllint --xpath "//published/text()" -)
-          author_name=$(echo "$entry" | xmllint --xpath "//author/name/text()" -)
-          image_url=$(echo "$entry" | xmllint --xpath "//link[@rel='enclosure']/@href" - | cut -d '"' -f 2)
+          # Extract fields using simple XPath
+          id=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='id']/text())" entries.xml)
+          title=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='title']/text())" entries.xml)
+          link=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='link'][@rel='alternate']/@href)" entries.xml)
+          published=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='published']/text())" entries.xml)
+          author=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='author']/*[local-name()='name']/text())" entries.xml)
+          thumbnail=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='link'][@rel='enclosure']/@href)" entries.xml)
 
           # Output results
-          echo "Entry ID: $id"
+          echo "Entry $i:"
+          echo "ID: $id"
           echo "Title: $title"
-          echo "Video URL: $link"
+          echo "URL: $link"
           echo "Published: $published"
-          echo "Author: $author_name"
-          echo "Thumbnail: $image_url"
+          echo "Author: $author"
+          echo "Thumbnail: $thumbnail"
           echo "------------------------------------"
         done
