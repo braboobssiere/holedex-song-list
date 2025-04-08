@@ -1,4 +1,4 @@
-name: Holodex Feed Parser
+name: Parse Holodex Feed
 
 on:
   workflow_dispatch:
@@ -7,41 +7,39 @@ jobs:
   parse-feed:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repo
+    - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Set up XML tools
-      run: sudo apt-get install -y libxml2-utils
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-    - name: Process entries
+    - name: Install dependencies
+      run: pip install lxml requests
+
+    - name: Extract Feed Data
       run: |
-        FEED_URL="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/refs/heads/main/feeds/holodex.atom"
-        
-        # Get all entries as plain XML
-        curl -s "$FEED_URL" | xmllint --xpath "//*[local-name()='entry']" - > entries.xml
+        import xml.etree.ElementTree as ET
+        import requests
 
-        # Process each entry
-        count=$(xmllint --xpath "count(//*[local-name()='entry'])" entries.xml)
-        echo "Found $count entries"
+        feed_url = "https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom"
+        response = requests.get(feed_url)
+        root = ET.fromstring(response.content)
 
-        for i in $(seq 1 $count); do
-          echo "Processing entry $i/$count"
-          
-          # Extract fields using simple XPath
-          id=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='id']/text())" entries.xml)
-          title=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='title']/text())" entries.xml)
-          link=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='link'][@rel='alternate']/@href)" entries.xml)
-          published=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='published']/text())" entries.xml)
-          author=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='author']/*[local-name()='name']/text())" entries.xml)
-          thumbnail=$(xmllint --xpath "string((//*[local-name()='entry'])[$i]/*[local-name()='link'][@rel='enclosure']/@href)" entries.xml)
+        ns = {'atom': 'http://www.w3.org/2005/Atom'}
 
-          # Output results
-          echo "Entry $i:"
-          echo "ID: $id"
-          echo "Title: $title"
-          echo "URL: $link"
-          echo "Published: $published"
-          echo "Author: $author"
-          echo "Thumbnail: $thumbnail"
-          echo "------------------------------------"
-        done
+        for entry in root.findall('atom:entry', ns):
+            # Extract title
+            title = entry.find('atom:title', ns).text.strip()
+            
+            # Extract video link
+            link = entry.find("atom:link[@rel='alternate']", ns).attrib['href']
+            
+            # Extract summary
+            summary = entry.find('atom:summary', ns).text.strip()
+            
+            print(f"Title: {title}")
+            print(f"Link: {link}")
+            print(f"Summary: {summary}\n{'='*50}\n")
+      shell: python
