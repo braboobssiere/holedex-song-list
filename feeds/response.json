@@ -8,6 +8,7 @@
     "available_at": "2025-04-07T19:54:17.000Z",
     "duration": 9741,
     "status": "past",
+    "songcount": 30,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -27,6 +28,7 @@
     "available_at": "2025-04-07T14:01:52.000Z",
     "duration": 4189,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -35,6 +37,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "PFs1MDalfBA",
+    "title": "【歌枠】第123回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-06T16:04:58.000Z",
+    "available_at": "2025-04-06T13:21:27.000Z",
+    "duration": 8658,
+    "status": "past",
+    "songcount": 15,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -239,26 +261,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HOLOSTARS Official"
-    }
-  },
-  {
-    "id": "PFs1MDalfBA",
-    "title": "【歌枠】第１２３回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-06T02:26:45.000Z",
-    "available_at": "2025-04-06T13:21:27.000Z",
-    "duration": 8653,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
