@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-08T16:26:18.683Z</updated>
+  <updated>2025-04-08T17:18:19.643Z</updated>
+
+  <entry>
+    <id>urn:uuid:ca07b2ee-94c7-5684-a716-59fbb60d2fdc</id>
+    <title><![CDATA[『機動戦士Gundam GQuuuuuuX(ジークアクス)』ノンクレジットエンディング映像│星街すいせい「もうどうなってもいいや」]]></title>
+    <link href="https://youtu.be/Rd3Gu4pQURY" rel="alternate" type="text/html"/>
+    <published>2025-04-08T16:00:39.000Z</published>
+    <updated>2025-04-08T16:00:39.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Rd3Gu4pQURY 【LIVE on &lt;t:1744128039:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Rd3Gu4pQURY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:987b977e-17aa-50bb-80a6-7989d3542514</id>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GQFy71KVaVo 【LIVE on &lt;t:1740913227:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GQFy71KVaVo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0441be03-0757-5f47-ab26-45c1474a38b0</id>
-    <title><![CDATA[【original anime MV】LOVE受信、ヒクツ発信【 hololive/桃鈴ねね 】]]></title>
-    <link href="https://youtu.be/80vy5YyMKF8" rel="alternate" type="text/html"/>
-    <published>2025-03-02T11:50:06.000Z</published>
-    <updated>2025-03-02T11:50:06.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=80vy5YyMKF8 【LIVE on &lt;t:1740916206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/80vy5YyMKF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
