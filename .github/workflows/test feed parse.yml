@@ -1,0 +1,49 @@
+name: Holodex Feed Parser
+
+on:
+  workflow_dispatch:
+
+jobs:
+  parse-feed:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Set up XML parser
+      run: sudo apt-get install -y libxml2-utils
+
+    - name: Fetch and process feed
+      run: |
+        FEED_URL="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/refs/heads/main/feeds/holodex.atom"
+        
+        # Get all entries
+        entries=$(curl -s "$FEED_URL" | xmllint --xpath "//entry" -)
+        
+        # Count number of entries
+        count=$(echo "$entries" | xmllint --xpath "count(//entry)" -)
+        echo "Found $count entries"
+
+        # Process each entry
+        for i in $(seq 1 $count); do
+          echo "Processing entry $i/$count"
+          
+          entry=$(echo "$entries" | xmllint --xpath "//entry[$i]" - 2>/dev/null)
+          
+          # Extract fields
+          id=$(echo "$entry" | xmllint --xpath "//id/text()" -)
+          title=$(echo "$entry" | xmllint --xpath "//title/text()" -)
+          link=$(echo "$entry" | xmllint --xpath "//link[@rel='alternate']/@href" - | cut -d '"' -f 2)
+          published=$(echo "$entry" | xmllint --xpath "//published/text()" -)
+          author_name=$(echo "$entry" | xmllint --xpath "//author/name/text()" -)
+          image_url=$(echo "$entry" | xmllint --xpath "//link[@rel='enclosure']/@href" - | cut -d '"' -f 2)
+
+          # Output results
+          echo "Entry ID: $id"
+          echo "Title: $title"
+          echo "Video URL: $link"
+          echo "Published: $published"
+          echo "Author: $author_name"
+          echo "Thumbnail: $image_url"
+          echo "------------------------------------"
+        done
