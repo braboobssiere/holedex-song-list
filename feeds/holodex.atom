@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-09T15:31:46.798Z</updated>
+  <updated>2025-04-09T16:34:18.062Z</updated>
 
   <entry>
     <id>urn:uuid:1835c379-1a0c-5327-b5ac-8764961c2529</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Rd3Gu4pQURY 【LIVE on &lt;t:1744128039:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Rd3Gu4pQURY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3ec3ef59-28f6-5e47-b41b-2cf7085a1a30</id>
+    <title><![CDATA[もうどうなってもいいや / 星街すいせい(official)]]></title>
+    <link href="https://youtu.be/ojZaWERcbaI" rel="alternate" type="text/html"/>
+    <published>2025-04-08T13:34:22.000Z</published>
+    <updated>2025-04-08T13:34:22.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ojZaWERcbaI 【LIVE on &lt;t:1744279200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ojZaWERcbaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IKkSNj5uN6I 【LIVE on &lt;t:1741404617:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKkSNj5uN6I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4f7ea5ca-2cfa-57c0-8921-00fde2e62d67</id>
-    <title><![CDATA[【アニメーションMV】無理ぽ to ポジ (Original)【hololive/尾丸ポルカ】]]></title>
-    <link href="https://youtu.be/prXLLn-K6ig" rel="alternate" type="text/html"/>
-    <published>2025-03-07T09:00:06.000Z</published>
-    <updated>2025-03-07T09:00:06.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=prXLLn-K6ig 【LIVE on &lt;t:1741338006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/prXLLn-K6ig/maxresdefault.jpg"/>
   </entry>
 
   <entry>
