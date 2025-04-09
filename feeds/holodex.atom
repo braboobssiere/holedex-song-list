@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-09T09:30:11.756Z</updated>
+  <updated>2025-04-09T10:33:11.179Z</updated>
+
+  <entry>
+    <id>urn:uuid:468b5634-c63d-55fd-afc0-1e559700394a</id>
+    <title><![CDATA[I don't care]]></title>
+    <link href="https://youtu.be/K6byv4lH3XY" rel="alternate" type="text/html"/>
+    <published>2025-04-09T10:01:58.000Z</published>
+    <updated>2025-04-09T10:01:58.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=K6byv4lH3XY 【LIVE on &lt;t:1744192918:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/K6byv4lH3XY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ca07b2ee-94c7-5684-a716-59fbb60d2fdc</id>
@@ -1291,20 +1305,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=W9AZc33ybIw 【LIVE on &lt;t:1741179908:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/W9AZc33ybIw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:80632828-6f5e-55f0-b2b4-cf73d06fbc9f</id>
-    <title><![CDATA[【MV】召喚ショーケース ~異世界転移した先でフェネックが悪魔の象徴!?冒険から追放されたので、歌とダンスで世界を変えます!~ 【hololive/尾丸ポルカ】]]></title>
-    <link href="https://youtu.be/R14Ns4REA_g" rel="alternate" type="text/html"/>
-    <published>2025-03-02T14:00:07.000Z</published>
-    <updated>2025-03-02T14:00:07.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R14Ns4REA_g 【LIVE on &lt;t:1740924007:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R14Ns4REA_g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
