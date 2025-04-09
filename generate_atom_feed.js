@@ -75,7 +75,7 @@ function createAtomFeed(videos, feedUrl) {
     <title>${title}</title>
     <link href="${shortlink}" rel="alternate" type="text/html"/>
     <published>${published}</published>
-    <updated>${updated}</updated>
+    <updated>${published}</updated>
     <author>
       <name>${authorName}</name>
       <uri>${authorUrl}</uri>
