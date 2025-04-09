@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-09T20:27:45.517Z</updated>
+  <updated>2025-04-09T21:23:14.694Z</updated>
 
   <entry>
     <id>urn:uuid:1835c379-1a0c-5327-b5ac-8764961c2529</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qOektbdkG0s 【LIVE on &lt;t:1744211082:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qOektbdkG0s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fdf26879-70d1-5993-9bf9-6a39243f1aa9</id>
+    <title><![CDATA[【#AnniversaRi5u】UNARCHIVED KARAOKE !!!【Ayunda Risu】]]></title>
+    <link href="https://youtu.be/S1hKca67n_w" rel="alternate" type="text/html"/>
+    <published>2025-04-09T10:21:33.000Z</published>
+    <updated>2025-04-09T10:21:33.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=S1hKca67n_w 【LIVE on &lt;t:1744297200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S1hKca67n_w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -63,9 +77,9 @@
 
   <entry>
     <id>urn:uuid:987b977e-17aa-50bb-80a6-7989d3542514</id>
-    <title><![CDATA[【歌 】歌いに来ちゃったボクだよ～ん！！！！【ホロライブ/ ロボ子さん】]]></title>
+    <title><![CDATA[【歌 】歌いに来ちゃったボクだよ~ん!!!!【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/8ViH72o7muc" rel="alternate" type="text/html"/>
-    <published>2025-04-08T08:47:43.000Z</published>
+    <published>2025-04-08T13:07:58.000Z</published>
     <updated>2025-04-08T10:54:54.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
@@ -941,20 +955,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Yc2xGzGLtNA 【LIVE on &lt;t:1742468707:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yc2xGzGLtNA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:808c6f55-7110-537d-a601-e7dc7456b1bc</id>
-    <title><![CDATA[【歌枠】新しく覚えた曲とか歌うぞ~【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/3N_h163kETg" rel="alternate" type="text/html"/>
-    <published>2025-03-19T10:20:31.000Z</published>
-    <updated>2025-03-19T08:02:14.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3N_h163kETg 【LIVE on &lt;t:1742371334:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3N_h163kETg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
