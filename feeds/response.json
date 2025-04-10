@@ -1,5 +1,25 @@
 [
   {
+    "id": "ojZaWERcbaI",
+    "title": "もうどうなってもいいや / 星街すいせい(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-10T10:00:06.000Z",
+    "available_at": "2025-04-10T10:00:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 1,
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
     "id": "s8AahcDCuV0",
     "title": "「HANDCAM」Anniversary Card Signing!!!",
     "type": "stream",
@@ -67,7 +87,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 83
+      "en": 119
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -111,26 +131,6 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UC7wu64jFsV02bbu6UHUd7JA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "ojZaWERcbaI",
-    "title": "もうどうなってもいいや / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-08T13:34:22.000Z",
-    "available_at": "2025-04-10T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
