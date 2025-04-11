@@ -1,15 +1,15 @@
 [
   {
     "id": "yoR1qrMKvrs",
-    "title": "【歌枠】告知&プチお披露目あり!久しぶりに歌を歌うんだ~~~~!【戌神ころね】",
+    "title": "【歌枠】告知＆プチお披露目あり！久しぶりに歌を歌うんだ～～～～！【戌神ころね】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-11T08:42:44.000Z",
     "available_at": "2025-04-11T12:00:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4770,
+    "status": "past",
     "live_tl_count": {
-      "en": 95
+      "en": 117
     },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -61,32 +61,13 @@
     }
   },
   {
-    "id": "u43vHLD_aog",
-    "title": "【#天下無双歌枠リレー】拙の歌声で天下無双する | LET'S SCREAM OUR HEARTS OUT🤘🔥【#BANZOINHAKKA】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-09T23:57:32.000Z",
-    "available_at": "2025-04-11T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
     "id": "s8AahcDCuV0",
     "title": "「HANDCAM」Anniversary Card Signing!!!",
     "type": "stream",
     "topic_id": "Anniversary",
-    "published_at": "2025-04-09T19:14:59.000Z",
+    "published_at": "2025-04-10T05:50:47.000Z",
     "available_at": "2025-04-10T02:23:02.000Z",
-    "duration": 11595,
+    "duration": 11600,
     "status": "past",
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
@@ -96,6 +77,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Machina X Flayon"
+    }
+  },
+  {
+    "id": "u43vHLD_aog",
+    "title": "【#天下無双歌枠リレー】拙の歌声で天下無双する | LET'S SCREAM OUR HEARTS OUT🤘🔥【#BANZOINHAKKA】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-09T23:57:32.000Z",
+    "available_at": "2025-04-11T13:58:12.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
     }
   },
   {
