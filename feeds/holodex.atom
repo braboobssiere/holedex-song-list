@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-11T10:06:21.315Z</updated>
+  <updated>2025-04-11T11:06:20.374Z</updated>
 
   <entry>
     <id>urn:uuid:bb58d36d-0c3f-5f35-86e0-74be0a5caaee</id>
@@ -160,6 +160,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:fabb3f5e-f3ed-534d-8ff6-4644cdd28b06</id>
+    <title><![CDATA[Juara Khatulistiwa]]></title>
+    <link href="https://youtu.be/-lgkUWu72s8" rel="alternate" type="text/html"/>
+    <published>2025-04-06T15:02:10.000Z</published>
+    <updated>2025-04-06T15:02:10.000Z</updated>
+    <author>
+      <name>hololive Indonesia</name>
+      <uri>https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-lgkUWu72s8 【LIVE on &lt;t:1743951730:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-lgkUWu72s8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:10684463-4e80-599d-bdf4-bc1701d37581</id>
+    <title><![CDATA[Juara Khatulistiwa (Instrumental)]]></title>
+    <link href="https://youtu.be/y6-f_u9XpqQ" rel="alternate" type="text/html"/>
+    <published>2025-04-06T15:01:17.000Z</published>
+    <updated>2025-04-06T15:01:17.000Z</updated>
+    <author>
+      <name>hololive Indonesia</name>
+      <uri>https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=y6-f_u9XpqQ 【LIVE on &lt;t:1743951677:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/y6-f_u9XpqQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d27fe1c4-124a-5781-b3c4-b2af767595e7</id>
     <title><![CDATA[ガザニア(Instrumental)]]></title>
     <link href="https://youtu.be/qd95T-mq5VA" rel="alternate" type="text/html"/>
@@ -227,6 +255,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Guqr-Q0mMUg 【LIVE on &lt;t:1743930009:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Guqr-Q0mMUg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ea0495ed-a33f-599a-9110-7e84861dd2e4</id>
+    <title><![CDATA[【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(^ω^)【#ククルアクレイユ|Re:AcT】]]></title>
+    <link href="https://youtu.be/3LXa2OR6by4" rel="alternate" type="text/html"/>
+    <published>2025-04-05T21:48:20.000Z</published>
+    <updated>2025-04-05T21:48:20.000Z</updated>
+    <author>
+      <name>ククルア・クレイユ - Coucourua Creil -</name>
+      <uri>https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3LXa2OR6by4 【LIVE on &lt;t:1744369356:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3LXa2OR6by4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -902,20 +944,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1858e5e2-10de-52cc-b989-19b8ee4ec2f4</id>
-    <title><![CDATA[【歌枠】いろいろ歌いたい~~~!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/ieOowFpZ1Qs" rel="alternate" type="text/html"/>
-    <published>2025-03-22T09:46:02.000Z</published>
-    <updated>2025-03-22T09:46:02.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ieOowFpZ1Qs 【LIVE on &lt;t:1742630533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ieOowFpZ1Qs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:fc038f2f-c393-5d22-b0a9-6b3af9b03fcf</id>
     <title><![CDATA[【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/5j8kn3BZlRw" rel="alternate" type="text/html"/>
@@ -1193,34 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CYtj5KboylA 【LIVE on &lt;t:1741612269:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CYtj5KboylA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7dfe216a-70ea-5cb0-8c4a-8babe82a9db6</id>
-    <title><![CDATA[サクラミラージュ(Instrumental)]]></title>
-    <link href="https://youtu.be/lcQP_nm-4js" rel="alternate" type="text/html"/>
-    <published>2025-03-09T15:01:02.000Z</published>
-    <updated>2025-03-09T15:01:02.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lcQP_nm-4js 【LIVE on &lt;t:1741532462:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lcQP_nm-4js/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:61c83f4f-4b87-5ebc-ac96-316636fe1198</id>
-    <title><![CDATA[サクラミラージュ]]></title>
-    <link href="https://youtu.be/HJCn1urH4ww" rel="alternate" type="text/html"/>
-    <published>2025-03-09T15:00:23.000Z</published>
-    <updated>2025-03-09T15:00:23.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HJCn1urH4ww 【LIVE on &lt;t:1741532423:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HJCn1urH4ww/maxresdefault.jpg"/>
   </entry>
 
   <entry>
