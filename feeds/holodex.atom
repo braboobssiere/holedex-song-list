@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-11T11:06:20.374Z</updated>
+  <updated>2025-04-11T12:06:21.585Z</updated>
 
   <entry>
     <id>urn:uuid:bb58d36d-0c3f-5f35-86e0-74be0a5caaee</id>
@@ -15,7 +15,7 @@
       <name>Korone Ch. 戌神ころね</name>
       <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yoR1qrMKvrs 【LIVE on &lt;t:1744372800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yoR1qrMKvrs 【LIVE on &lt;t:1744372843:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yoR1qrMKvrs/maxresdefault.jpg"/>
   </entry>
 
@@ -258,20 +258,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ea0495ed-a33f-599a-9110-7e84861dd2e4</id>
-    <title><![CDATA[【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(^ω^)【#ククルアクレイユ|Re:AcT】]]></title>
-    <link href="https://youtu.be/3LXa2OR6by4" rel="alternate" type="text/html"/>
-    <published>2025-04-05T21:48:20.000Z</published>
-    <updated>2025-04-05T21:48:20.000Z</updated>
-    <author>
-      <name>ククルア・クレイユ - Coucourua Creil -</name>
-      <uri>https://www.youtube.com/channel/UCIueYPQm6sk8oaKxq0hSjyQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3LXa2OR6by4 【LIVE on &lt;t:1744369356:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3LXa2OR6by4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:fe76f974-c4eb-5b07-b82d-553c795594b0</id>
     <title><![CDATA[【#久我レオ3Dお披露目】 昼は英会話教師、夜は掃除屋🗡️ 【久我レオ / ネオポルテ】]]></title>
     <link href="https://youtu.be/PmmhGoMlCfo" rel="alternate" type="text/html"/>
@@ -339,20 +325,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3o0ksmm2Hyc 【LIVE on &lt;t:1743825604:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3o0ksmm2Hyc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9db8e9d2-5048-5f97-b5a1-f69f8609109f</id>
-    <title><![CDATA[【 #天下無双歌枠リレー 】女神が贈る高難度曲無双🔥まとめてかかってきなさい!【 #MUS1CA / #Vsinger 】]]></title>
-    <link href="https://youtu.be/7IqF6HfFC2s" rel="alternate" type="text/html"/>
-    <published>2025-04-05T01:46:40.000Z</published>
-    <updated>2025-04-05T01:46:40.000Z</updated>
-    <author>
-      <name>MUS1CA</name>
-      <uri>https://www.youtube.com/channel/UC3zSmwgOOIjWUbus4cZIUPg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7IqF6HfFC2s 【LIVE on &lt;t:1744374600:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7IqF6HfFC2s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -941,6 +913,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WZmusiHPgww 【LIVE on &lt;t:1742641206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WZmusiHPgww/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1858e5e2-10de-52cc-b989-19b8ee4ec2f4</id>
+    <title><![CDATA[【歌枠】いろいろ歌いたい~~~!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/ieOowFpZ1Qs" rel="alternate" type="text/html"/>
+    <published>2025-03-22T09:46:02.000Z</published>
+    <updated>2025-03-22T09:46:02.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ieOowFpZ1Qs 【LIVE on &lt;t:1742630533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ieOowFpZ1Qs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9fc5c3bb-5316-5f0b-ae27-09d7a5408124</id>
+    <title><![CDATA[≪カラオケ・KARAOKE≫ recovering these lungs]]></title>
+    <link href="https://youtu.be/XlS-LfbmBFk" rel="alternate" type="text/html"/>
+    <published>2025-03-22T06:11:59.000Z</published>
+    <updated>2025-03-22T06:11:59.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XlS-LfbmBFk 【LIVE on &lt;t:1742612642:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XlS-LfbmBFk/maxresdefault.jpg"/>
   </entry>
 
   <entry>

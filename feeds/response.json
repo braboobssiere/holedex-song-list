@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-11T08:42:44.000Z",
-    "available_at": "2025-04-11T12:00:00.000Z",
+    "available_at": "2025-04-11T12:00:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
@@ -551,25 +554,6 @@
     }
   },
   {
-    "id": "3LXa2OR6by4",
-    "title": "【#天下無双歌枠リレー】インターネット老人も無双させてもらうお(^ω^)【#ククルアクレイユ|Re:AcT】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-05T21:48:20.000Z",
-    "available_at": "2025-04-11T11:02:36.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCIueYPQm6sk8oaKxq0hSjyQ",
-      "name": "ククルア・クレイユ - Coucourua Creil -",
-      "org": "ReAcT",
-      "suborg": "aaArtists",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/fxO3DVsW1oJdYdtGYyTDkDAp_LiXLHMfgZM4AMNGJyMehPDI3wHtO4sK3qkTst_UTyDEAUdQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Coucourua Creil"
-    }
-  },
-  {
     "id": "PmmhGoMlCfo",
     "title": "【#久我レオ3Dお披露目】 昼は英会話教師、夜は掃除屋🗡️ 【久我レオ / ネオポルテ】",
     "type": "stream",
@@ -709,25 +693,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "7IqF6HfFC2s",
-    "title": "【 #天下無双歌枠リレー 】女神が贈る高難度曲無双🔥まとめてかかってきなさい!【 #MUS1CA / #Vsinger 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-05T01:46:40.000Z",
-    "available_at": "2025-04-11T12:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC3zSmwgOOIjWUbus4cZIUPg",
-      "name": "MUS1CA",
-      "org": "Independents",
-      "suborg": "rmRIONECTION",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/erG81aYf5BPw5e9J3Nl-UD9Tk824SRphYmGmyqoO5yxD5ByOzKiADeya9WgcQrjEjTOfTSUrrg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "MUS1CA"
     }
   },
   {
@@ -2443,6 +2408,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
+    }
+  },
+  {
+    "id": "ieOowFpZ1Qs",
+    "title": "【歌枠】いろいろ歌いたい~~~!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-22T09:46:02.000Z",
+    "available_at": "2025-03-22T08:02:13.000Z",
+    "duration": 5331,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "XlS-LfbmBFk",
+    "title": "≪カラオケ・KARAOKE≫ recovering these lungs",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-03-22T06:11:59.000Z",
+    "available_at": "2025-03-22T03:04:02.000Z",
+    "duration": 10231,
+    "status": "past",
+    "songcount": 22,
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
     }
   },
   {
