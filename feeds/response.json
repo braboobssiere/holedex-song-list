@@ -63,8 +63,12 @@
     "topic_id": "Anniversary",
     "published_at": "2025-04-11T18:11:37.000Z",
     "available_at": "2025-04-12T12:00:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3100,
+    "status": "past",
+    "live_tl_count": {
+      "en": 98,
+      "id": 19
+    },
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -100,9 +104,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-11T15:48:41.000Z",
-    "available_at": "2025-04-12T13:00:00.000Z",
+    "available_at": "2025-04-12T13:01:04.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
