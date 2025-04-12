@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-12T09:55:35.000Z",
-    "available_at": "2025-04-12T15:00:00.000Z",
+    "available_at": "2025-04-12T15:01:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCXTpFs_3PqI41qX2d9tL2Rw",
       "name": "Shion Ch. 紫咲シオン",
@@ -62,9 +62,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-04-12T06:20:49.000Z",
-    "available_at": "2025-04-12T14:30:00.000Z",
+    "available_at": "2025-04-12T14:31:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 68
+    },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
