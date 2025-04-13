@@ -152,6 +152,29 @@
     }
   },
   {
+    "id": "qQhjBEno63Y",
+    "title": "【#io5thversary】Babe Wake Up! We're Gonna Decorate a Cake!【 iofi / hololiveID 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-04-12T12:59:13.000Z",
+    "available_at": "2025-04-12T12:00:55.000Z",
+    "duration": 3104,
+    "status": "past",
+    "live_tl_count": {
+      "en": 98,
+      "id": 19
+    },
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
     "id": "7cFJkGpXezI",
     "title": "【歌枠】土曜の夕方に盛り上がっちゃうぞ!【虎金妃笑虎】",
     "type": "stream",
@@ -256,29 +279,6 @@
     }
   },
   {
-    "id": "qQhjBEno63Y",
-    "title": "【#io5thversary】Babe Wake Up! We're Gonna Decorate a Cake!【 iofi / hololiveID 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-04-11T18:11:37.000Z",
-    "available_at": "2025-04-12T12:00:55.000Z",
-    "duration": 3100,
-    "status": "past",
-    "live_tl_count": {
-      "en": 98,
-      "id": 19
-    },
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
     "id": "uo_UL_OdZEE",
     "title": "You'll Regret Clicking This【UNARCHIVED KARAOKE】",
     "type": "stream",
@@ -325,7 +325,7 @@
     "published_at": "2025-04-11T15:48:41.000Z",
     "available_at": "2025-04-12T13:01:04.000Z",
     "duration": 548,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
