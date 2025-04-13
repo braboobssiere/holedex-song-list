@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-12T23:06:14.151Z</updated>
+  <updated>2025-04-13T00:06:17.226Z</updated>
+
+  <entry>
+    <id>urn:uuid:fa6d8b84-9c48-53ae-9ea3-e3a20c65aa89</id>
+    <title><![CDATA[【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MBTe3cDomgs" rel="alternate" type="text/html"/>
+    <published>2025-04-12T22:58:09.000Z</published>
+    <updated>2025-04-12T22:58:09.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MBTe3cDomgs 【LIVE on &lt;t:1744524000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MBTe3cDomgs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d230da7f-a278-50a3-a8fb-7d0f04f96066</id>
@@ -2775,19 +2789,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V5yvpYSsktA 【LIVE on &lt;t:1675555220:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V5yvpYSsktA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7c6e31d2-21e6-5b7b-836b-d454a256163e</id>
-    <title><![CDATA[【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/IMi1Jdo6FHQ" rel="alternate" type="text/html"/>
-    <published>2023-01-29T03:28:59.000Z</published>
-    <updated>2023-01-29T03:28:59.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IMi1Jdo6FHQ 【LIVE on &lt;t:1674953232:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IMi1Jdo6FHQ/maxresdefault.jpg"/>
   </entry>
 </feed>
