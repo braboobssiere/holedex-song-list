@@ -1,5 +1,43 @@
 [
   {
+    "id": "2KjSV1skWU4",
+    "title": "空を飛ぶVTuber!? #音乃瀬奏 #ホロライブ #音乃瀬奏生誕祭2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-04-13T12:00:03.000Z",
+    "available_at": "2025-04-13T12:00:03.000Z",
+    "duration": 31,
+    "status": "past",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "8P7vNMI944Q",
+    "title": "【耐久歌枠】もうすぐ156万人!?突破まで全力で歌うぞおおおおお!❤️‍🔥【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-13T11:46:18.000Z",
+    "available_at": "2025-04-13T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "i5Pr0keXF7o",
     "title": "【弾き語り歌枠】日曜日はまったり【律可/ホロスターズ】 #りつすた",
     "type": "stream",
@@ -77,7 +115,7 @@
   },
   {
     "id": "MBTe3cDomgs",
-    "title": "【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】",
+    "title": "【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら～～～！！！🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2025-04-12T22:58:09.000Z",
@@ -174,13 +212,16 @@
   },
   {
     "id": "ASwjM25ax58",
-    "title": "【3D Live】 戌神ころね6th記念★☆ 3D&パペットライブ!? 【#戌神ころね6周年】",
+    "title": "【3D Live】 戌神ころね6th記念★☆ 3D＆パペットライブ！？ 【#戌神ころね6周年】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-04-12T07:15:53.000Z",
     "available_at": "2025-04-13T11:00:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3403,
+    "status": "past",
+    "live_tl_count": {
+      "en": 226
+    },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
@@ -244,7 +285,7 @@
     "published_at": "2025-04-11T17:08:23.000Z",
     "available_at": "2025-04-12T01:25:09.000Z",
     "duration": 5514,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -2576,26 +2617,6 @@
     }
   },
   {
-    "id": "0IH0GW0saHA",
-    "title": "【KARAOKE】Singing...! With an Announcement!? #calliolive",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-25T04:14:01.000Z",
-    "available_at": "2025-03-25T02:06:04.000Z",
-    "duration": 7231,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "cA5VLFlkrXs",
     "title": "【holoh3ro 3rd anniversary】 halo aku yang do3lo3! #holoh3ro_annivdo3lo3",
     "type": "stream",
@@ -4851,28 +4872,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "aRNk8gEO_as",
-    "title": "【BIRTHDAY COUNTDOWN】WOW BIRTHDAY TOMORROW ?????【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-01-14T17:49:40.000Z",
-    "available_at": "2025-01-14T16:00:57.000Z",
-    "duration": 5645,
-    "status": "past",
-    "live_tl_count": {
-      "en": 60
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
