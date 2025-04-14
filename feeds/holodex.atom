@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-14T17:06:22.088Z</updated>
+  <updated>2025-04-14T18:06:21.406Z</updated>
 
   <entry>
     <id>urn:uuid:3b21eb30-62aa-5d42-8b2f-e507f862351e</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LH8XZVUaOcQ 【LIVE on &lt;t:1744621287:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH8XZVUaOcQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e75493cc-436d-5e99-906f-2b587f343bac</id>
+    <title><![CDATA[【ANNOUNCEMENT】KARAOKE TIME 【UNARCHIVED】#kfp #キアライブ]]></title>
+    <link href="https://youtu.be/wcsTWfl2JUU" rel="alternate" type="text/html"/>
+    <published>2025-04-13T23:45:16.000Z</published>
+    <updated>2025-04-13T23:45:16.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wcsTWfl2JUU 【LIVE on &lt;t:1744653797:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wcsTWfl2JUU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1011,20 +1025,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ySDD80xGpQo 【LIVE on &lt;t:1742986687:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ySDD80xGpQo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9cb385bb-a1df-55a3-a9b7-423ae4ff9562</id>
-    <title><![CDATA[【歌枠】卒業ソングメドレー🌸おめでとうを込めて歌う!!!💌【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/Ip0f_sKJRAw" rel="alternate" type="text/html"/>
-    <published>2025-03-25T17:41:53.000Z</published>
-    <updated>2025-03-25T17:41:53.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ip0f_sKJRAw 【LIVE on &lt;t:1742914946:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ip0f_sKJRAw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
