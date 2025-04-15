@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-04-14T14:21:40.000Z",
-    "available_at": "2025-04-15T11:00:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "available_at": "2025-04-15T11:09:27.000Z",
+    "duration": 3250,
+    "status": "past",
+    "live_tl_count": {
+      "en": 47
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -104,8 +107,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-04-14T07:05:18.000Z",
     "available_at": "2025-04-15T05:06:20.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 22942,
+    "status": "past",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -794,8 +797,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-04-11T10:16:22.000Z",
     "available_at": "2025-04-15T10:59:28.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3673,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
