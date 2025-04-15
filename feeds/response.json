@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-04-14T23:58:04.000Z",
-    "available_at": "2025-04-15T02:00:00.000Z",
+    "available_at": "2025-04-15T02:24:12.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -104,8 +104,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-04-14T05:02:14.000Z",
     "available_at": "2025-04-15T00:56:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5174,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -125,6 +125,7 @@
     "available_at": "2025-04-14T09:01:27.000Z",
     "duration": 6683,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -163,6 +164,7 @@
     "available_at": "2025-04-14T09:31:09.000Z",
     "duration": 5463,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -263,7 +265,7 @@
     "available_at": "2025-04-13T15:03:16.000Z",
     "duration": 16281,
     "status": "past",
-    "songcount": 38,
+    "songcount": 37,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
