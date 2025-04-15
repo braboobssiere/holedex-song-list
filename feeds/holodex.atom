@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-15T12:06:15.746Z</updated>
+  <updated>2025-04-15T13:06:20.769Z</updated>
+
+  <entry>
+    <id>urn:uuid:a7217660-9869-5056-adc0-fe0208df5ebe</id>
+    <title><![CDATA[【配信アーカイブ・歌枠】がんばれ新生活!!!!歌のエール届けえええええええ🌸✨【ホロライブ DEV IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/9XZJ99Q4McI" rel="alternate" type="text/html"/>
+    <published>2025-04-15T12:34:04.000Z</published>
+    <updated>2025-04-15T12:34:04.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9XZJ99Q4McI 【LIVE on &lt;t:1744720444:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9XZJ99Q4McI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3b21eb30-62aa-5d42-8b2f-e507f862351e</id>
@@ -983,20 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=M7VCm9Q6m2c 【LIVE on &lt;t:1743001280:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M7VCm9Q6m2c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a89d02e7-ec1f-5c2e-b71c-e7e9eda7a1ea</id>
-    <title><![CDATA[【OFF COLLAB】KARAOKE 歌枠 w/ @ShiranuiFlare !告知あり!!!AND ANNOUNCEMENTS]]></title>
-    <link href="https://youtu.be/uPEzCiYOw7Y" rel="alternate" type="text/html"/>
-    <published>2025-03-26T13:07:47.000Z</published>
-    <updated>2025-03-26T13:07:47.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uPEzCiYOw7Y 【LIVE on &lt;t:1742990264:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uPEzCiYOw7Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
