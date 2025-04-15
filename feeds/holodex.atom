@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-15T03:06:22.545Z</updated>
+  <updated>2025-04-15T04:06:22.810Z</updated>
 
   <entry>
     <id>urn:uuid:3b21eb30-62aa-5d42-8b2f-e507f862351e</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wcsTWfl2JUU 【LIVE on &lt;t:1744653797:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wcsTWfl2JUU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ef5695c9-732b-53ba-865a-e398f5b1b1cf</id>
+    <title><![CDATA[【耐久歌枠】もうすぐ156万人!?突破まで全力で歌うぞおおおおお!❤️‍🔥【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/8P7vNMI944Q" rel="alternate" type="text/html"/>
+    <published>2025-04-13T19:51:44.000Z</published>
+    <updated>2025-04-13T19:51:44.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8P7vNMI944Q 【LIVE on &lt;t:1744556596:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8P7vNMI944Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ASwjM25ax58 【LIVE on &lt;t:1744542021:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ASwjM25ax58/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ef5695c9-732b-53ba-865a-e398f5b1b1cf</id>
-    <title><![CDATA[【耐久歌枠】もうすぐ１５６万人！？突破まで全力で歌うぞおおおおお！❤️‍🔥【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/8P7vNMI944Q" rel="alternate" type="text/html"/>
-    <published>2025-04-13T11:46:18.000Z</published>
-    <updated>2025-04-13T11:46:18.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8P7vNMI944Q 【LIVE on &lt;t:1744556596:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8P7vNMI944Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
