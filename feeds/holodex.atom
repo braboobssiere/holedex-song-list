@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-18T10:06:23.292Z</updated>
+  <updated>2025-04-18T11:06:23.580Z</updated>
+
+  <entry>
+    <id>urn:uuid:af081851-77b2-5257-b051-b6f8d3513e72</id>
+    <title><![CDATA[【歌枠】オリ曲歌っちゃうぞ~!!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/oTpNI4pt5nM" rel="alternate" type="text/html"/>
+    <published>2025-04-18T10:20:50.000Z</published>
+    <updated>2025-04-18T10:20:50.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oTpNI4pt5nM 【LIVE on &lt;t:1744974115:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oTpNI4pt5nM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3efc6bd7-1248-5b2e-bad7-55fb52ad14ea</id>
-    <title><![CDATA[【歌枠】すーぱーアイドルSong!【ホロライブ/夏色まつり】]]></title>
+    <title><![CDATA[【歌枠】すーぱーアイドルSong！【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/H58Dv0EX8b0" rel="alternate" type="text/html"/>
     <published>2025-04-17T15:02:39.000Z</published>
     <updated>2025-04-17T15:02:39.000Z</updated>

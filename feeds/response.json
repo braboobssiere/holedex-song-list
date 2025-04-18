@@ -1,32 +1,32 @@
 [
   {
-    "id": "MGGWng4tc0E",
-    "title": "しごおわの民 #音乃瀬奏 #ホロライブ #音乃瀬奏生誕祭2025",
+    "id": "oTpNI4pt5nM",
+    "title": "【歌枠】オリ曲歌っちゃうぞ~!!【ホロライブ/ときのそら】",
     "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-18T10:00:37.000Z",
-    "available_at": "2025-04-18T10:00:37.000Z",
-    "duration": 37,
-    "status": "past",
+    "topic_id": "singing",
+    "published_at": "2025-04-18T10:20:50.000Z",
+    "available_at": "2025-04-18T11:01:55.000Z",
+    "duration": 0,
+    "status": "live",
     "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
       "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
+      "suborg": "0v0th Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
     }
   },
   {
     "id": "H58Dv0EX8b0",
-    "title": "【歌枠】すーぱーアイドルSong!【ホロライブ/夏色まつり】",
+    "title": "【歌枠】すーぱーアイドルSong！【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-17T15:02:39.000Z",
     "available_at": "2025-04-18T09:01:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4255,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -2713,25 +2713,6 @@
     }
   },
   {
-    "id": "QlCzP0vyHFc",
-    "title": "２時間だけ歌練習！ アーカイブなし！",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-27T06:31:49.000Z",
-    "available_at": "2025-03-27T06:44:40.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
     "id": "A_HV8r3rZcI",
     "title": "青く在れ",
     "type": "stream",
@@ -4787,6 +4768,25 @@
     "live_tl_count": {
       "en": 138
     },
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
+    "id": "fMftWUo3dAU",
+    "title": "【ポルカの伝説】こいつぁどこのご当地グルメだい!?誕生日でご褒美!?",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-01-30T10:00:06.000Z",
+    "available_at": "2025-01-30T10:00:06.000Z",
+    "duration": 761,
+    "status": "past",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
