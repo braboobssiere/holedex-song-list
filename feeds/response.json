@@ -27,6 +27,7 @@
     "available_at": "2025-04-17T14:01:02.000Z",
     "duration": 4155,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -45,7 +46,7 @@
     "published_at": "2025-04-17T02:27:53.000Z",
     "available_at": "2025-04-18T01:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -54,6 +55,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "7HbBB6Vm0J8",
+    "title": "【3D】SIGNING CHEKIS UNTIL I DIE",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-04-16T16:52:13.000Z",
+    "available_at": "2025-04-16T05:00:42.000Z",
+    "duration": 39639,
+    "status": "past",
+    "live_tl_count": {
+      "en": 5
+    },
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -172,28 +195,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "7HbBB6Vm0J8",
-    "title": "【3D】SIGNING CHEKIS UNTIL I DIE",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-04-15T12:06:44.000Z",
-    "available_at": "2025-04-16T05:00:42.000Z",
-    "duration": 39635,
-    "status": "past",
-    "live_tl_count": {
-      "en": 5
-    },
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
