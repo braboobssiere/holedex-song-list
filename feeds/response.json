@@ -26,7 +26,7 @@
     "published_at": "2025-04-19T14:36:48.000Z",
     "available_at": "2025-04-19T19:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -117,6 +117,26 @@
     }
   },
   {
+    "id": "H58Dv0EX8b0",
+    "title": "【歌枠】すーぱーアイドルSong!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-18T10:19:01.000Z",
+    "available_at": "2025-04-18T09:01:13.000Z",
+    "duration": 4266,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "AsQhFlSSaJQ",
     "title": "【教育】かなでおねえさんの好き嫌いを発表します【#かなでといっしょ】",
     "type": "stream",
@@ -193,26 +213,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "H58Dv0EX8b0",
-    "title": "【歌枠】すーぱーアイドルSong！【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-17T15:02:39.000Z",
-    "available_at": "2025-04-18T09:01:13.000Z",
-    "duration": 4255,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
