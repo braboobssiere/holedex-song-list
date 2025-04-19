@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-18T23:06:20.416Z</updated>
+  <updated>2025-04-19T00:06:27.522Z</updated>
 
   <entry>
     <id>urn:uuid:af081851-77b2-5257-b051-b6f8d3513e72</id>
@@ -20,6 +20,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:41b6e178-65ea-5c6e-8009-739c4d42cca7</id>
+    <title><![CDATA[【 歌枠 】ノープラン歌枠だｧ^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/Qw3m2ysjEkA" rel="alternate" type="text/html"/>
+    <published>2025-04-17T15:15:59.000Z</published>
+    <updated>2025-04-17T15:15:59.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Qw3m2ysjEkA 【LIVE on &lt;t:1744898462:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Qw3m2ysjEkA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:3efc6bd7-1248-5b2e-bad7-55fb52ad14ea</id>
     <title><![CDATA[【歌枠】すーぱーアイドルSong！【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/H58Dv0EX8b0" rel="alternate" type="text/html"/>
@@ -31,20 +45,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=H58Dv0EX8b0 【LIVE on &lt;t:1744966873:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/H58Dv0EX8b0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:41b6e178-65ea-5c6e-8009-739c4d42cca7</id>
-    <title><![CDATA[【 歌枠 】ノープラン歌枠だｧ＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/Qw3m2ysjEkA" rel="alternate" type="text/html"/>
-    <published>2025-04-17T10:17:39.000Z</published>
-    <updated>2025-04-17T10:17:39.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Qw3m2ysjEkA 【LIVE on &lt;t:1744898462:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Qw3m2ysjEkA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
