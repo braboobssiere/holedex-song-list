@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-20T14:06:18.046Z</updated>
+  <updated>2025-04-20T15:06:21.633Z</updated>
+
+  <entry>
+    <id>urn:uuid:e96fdeaf-f5fe-5604-b234-a92e96d8f0cc</id>
+    <title><![CDATA[GREATEST]]></title>
+    <link href="https://youtu.be/ModFMNgQldA" rel="alternate" type="text/html"/>
+    <published>2025-04-20T15:00:36.000Z</published>
+    <updated>2025-04-20T15:00:36.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ModFMNgQldA 【LIVE on &lt;t:1745161236:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ModFMNgQldA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:719c3041-d77b-5e06-b698-7e74edb8d2d7</id>
+    <title><![CDATA[GREATEST(Instrumental)]]></title>
+    <link href="https://youtu.be/KTl8eqjFOyk" rel="alternate" type="text/html"/>
+    <published>2025-04-20T15:00:26.000Z</published>
+    <updated>2025-04-20T15:00:26.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KTl8eqjFOyk 【LIVE on &lt;t:1745161226:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KTl8eqjFOyk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:788504d0-feca-5b9e-9827-8afebd18c11f</id>
@@ -1193,34 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aar05QJLz4k 【LIVE on &lt;t:1742482805:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aar05QJLz4k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c9310622-45f3-5a16-8929-1217e0ccd96e</id>
-    <title><![CDATA[デコグラデーション / 猫又おかゆ ( official )]]></title>
-    <link href="https://youtu.be/Yc2xGzGLtNA" rel="alternate" type="text/html"/>
-    <published>2025-03-20T11:05:07.000Z</published>
-    <updated>2025-03-20T11:05:07.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Yc2xGzGLtNA 【LIVE on &lt;t:1742468707:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yc2xGzGLtNA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8b119126-7908-52e4-93d9-bd4ef0c31262</id>
-    <title><![CDATA[Tsumi to Mitsu feat. Mori Calliope]]></title>
-    <link href="https://youtu.be/lRyCZququpQ" rel="alternate" type="text/html"/>
-    <published>2025-03-18T10:00:56.000Z</published>
-    <updated>2025-03-18T10:00:56.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lRyCZququpQ 【LIVE on &lt;t:1742292056:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lRyCZququpQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
