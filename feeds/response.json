@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-04-20T05:02:38.000Z",
-    "available_at": "2025-04-20T05:15:00.000Z",
+    "available_at": "2025-04-20T05:04:57.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -55,6 +55,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gawr Gura"
+    }
+  },
+  {
+    "id": "jjLLByDa3Xc",
+    "title": "【3D CONCERT】KIARA & FRIENDS: H!P Cover Song Spring Concert #HPmeetsHoloEN",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-04-20T00:42:50.000Z",
+    "available_at": "2025-04-21T00:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -5200,25 +5219,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "r_A8mrNXXTw",
-    "title": "【3D】UNARCHIVED CHRISTMAS KARAOKE🎄✨ #kfp #キアライブ",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-01-05T04:00:06.000Z",
-    "available_at": "2025-01-05T04:00:06.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
     }
   },
   {
