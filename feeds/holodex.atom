@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-20T11:06:28.487Z</updated>
+  <updated>2025-04-20T12:06:21.416Z</updated>
 
   <entry>
     <id>urn:uuid:788504d0-feca-5b9e-9827-8afebd18c11f</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=H58Dv0EX8b0 【LIVE on &lt;t:1744966873:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/H58Dv0EX8b0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8c11438-e669-504a-ac0a-4857145aa842</id>
+    <title><![CDATA[【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/mt8AyISL9Ig" rel="alternate" type="text/html"/>
+    <published>2025-04-18T07:15:53.000Z</published>
+    <updated>2025-04-18T07:15:53.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mt8AyISL9Ig 【LIVE on &lt;t:1745146506:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mt8AyISL9Ig/maxresdefault.jpg"/>
   </entry>
 
   <entry>
