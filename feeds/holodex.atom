@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-21T00:06:23.555Z</updated>
+  <updated>2025-04-21T01:06:21.584Z</updated>
 
   <entry>
     <id>urn:uuid:b9902e55-fc4c-55fd-9c55-9c6ff3cfa33e</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:640b5540-1e42-5285-956b-12577d4ddecc</id>
+    <title><![CDATA[PERFUME - Takanashi Kiara (Official Music Video)]]></title>
+    <link href="https://youtu.be/07alVKGB-Aw" rel="alternate" type="text/html"/>
+    <published>2025-04-20T12:34:49.000Z</published>
+    <updated>2025-04-20T12:34:49.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=07alVKGB-Aw 【LIVE on &lt;t:1745198100:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/07alVKGB-Aw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:788504d0-feca-5b9e-9827-8afebd18c11f</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】SINGING ?????【Ayunda Risu】]]></title>
     <link href="https://youtu.be/pPCMqX24pEo" rel="alternate" type="text/html"/>
@@ -73,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=twUFbqyul_M 【LIVE on &lt;t:1745109944:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/twUFbqyul_M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1082de80-844b-516b-95b8-1739badbeb60</id>
+    <title><![CDATA[【3D CONCERT】KIARA & FRIENDS: H!P Cover Song Spring Concert #HPmeetsHoloEN]]></title>
+    <link href="https://youtu.be/jjLLByDa3Xc" rel="alternate" type="text/html"/>
+    <published>2025-04-20T00:42:50.000Z</published>
+    <updated>2025-04-20T00:42:50.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jjLLByDa3Xc 【LIVE on &lt;t:1745193345:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jjLLByDa3Xc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1221,20 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xOt5k7x1_yQ 【LIVE on &lt;t:1742482877:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xOt5k7x1_yQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:989c899a-a11d-532d-98eb-9e578c1d2547</id>
-    <title><![CDATA[デコグラデーション(Instrumental)]]></title>
-    <link href="https://youtu.be/aar05QJLz4k" rel="alternate" type="text/html"/>
-    <published>2025-03-20T15:00:05.000Z</published>
-    <updated>2025-03-20T15:00:05.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aar05QJLz4k 【LIVE on &lt;t:1742482805:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aar05QJLz4k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
