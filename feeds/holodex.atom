@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-21T14:06:21.824Z</updated>
+  <updated>2025-04-21T15:06:23.253Z</updated>
+
+  <entry>
+    <id>urn:uuid:9af9f04a-c99b-5690-97d1-c776a6928def</id>
+    <title><![CDATA[PERFUME]]></title>
+    <link href="https://youtu.be/lyqTfjRFie8" rel="alternate" type="text/html"/>
+    <published>2025-04-21T15:01:17.000Z</published>
+    <updated>2025-04-21T15:01:17.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lyqTfjRFie8 【LIVE on &lt;t:1745247677:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lyqTfjRFie8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7b4460e4-3182-5872-8358-38e3e75e4c9a</id>
+    <title><![CDATA[PERFUME(Instrumental)]]></title>
+    <link href="https://youtu.be/XSgt8tf47RE" rel="alternate" type="text/html"/>
+    <published>2025-04-21T15:00:52.000Z</published>
+    <updated>2025-04-21T15:00:52.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XSgt8tf47RE 【LIVE on &lt;t:1745247652:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XSgt8tf47RE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:640b5540-1e42-5285-956b-12577d4ddecc</id>
@@ -1196,20 +1224,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:40b4c0cd-25c3-570b-97e2-b25f828aa230</id>
-    <title><![CDATA[【syudou】罪と蜜 feat. Mori Calliope]]></title>
-    <link href="https://youtu.be/WZmusiHPgww" rel="alternate" type="text/html"/>
-    <published>2025-03-22T11:00:06.000Z</published>
-    <updated>2025-03-22T11:00:06.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WZmusiHPgww 【LIVE on &lt;t:1742641206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WZmusiHPgww/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:fc038f2f-c393-5d22-b0a9-6b3af9b03fcf</id>
     <title><![CDATA[【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/5j8kn3BZlRw" rel="alternate" type="text/html"/>
@@ -1221,20 +1235,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5j8kn3BZlRw 【LIVE on &lt;t:1742479231:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5j8kn3BZlRw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ddaf611b-4c47-56d6-b44a-83c427bd792c</id>
-    <title><![CDATA[デコグラデーション]]></title>
-    <link href="https://youtu.be/xOt5k7x1_yQ" rel="alternate" type="text/html"/>
-    <published>2025-03-20T15:01:17.000Z</published>
-    <updated>2025-03-20T15:01:17.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xOt5k7x1_yQ 【LIVE on &lt;t:1742482877:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xOt5k7x1_yQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
