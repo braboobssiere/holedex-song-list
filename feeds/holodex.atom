@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-22T14:06:26.438Z</updated>
+  <updated>2025-04-22T15:06:31.746Z</updated>
+
+  <entry>
+    <id>urn:uuid:1e5e0583-66a0-5a73-9dd6-77331c188229</id>
+    <title><![CDATA[きゅーぴっど。]]></title>
+    <link href="https://youtu.be/CF4HoXLuoMc" rel="alternate" type="text/html"/>
+    <published>2025-04-22T15:02:29.000Z</published>
+    <updated>2025-04-22T15:02:29.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CF4HoXLuoMc 【LIVE on &lt;t:1745334149:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CF4HoXLuoMc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0e901582-fe35-5738-b036-91aed8a96845</id>
+    <title><![CDATA[きゅーぴっど。(Instrumental)]]></title>
+    <link href="https://youtu.be/RDKkzdmwd9I" rel="alternate" type="text/html"/>
+    <published>2025-04-22T15:01:40.000Z</published>
+    <updated>2025-04-22T15:01:40.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RDKkzdmwd9I 【LIVE on &lt;t:1745334100:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RDKkzdmwd9I/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2d46c788-fb65-569e-ba36-808c1a4816c9</id>
@@ -1140,20 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b02b8289-3dfa-5aa4-8f0d-3d6d4b48eacf</id>
-    <title><![CDATA[【original MV】青く在れ/不知火フレア&IRyS (official)]]></title>
-    <link href="https://youtu.be/CYsxFfqtFjk" rel="alternate" type="text/html"/>
-    <published>2025-03-26T13:00:06.000Z</published>
-    <updated>2025-03-26T13:00:06.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CYsxFfqtFjk 【LIVE on &lt;t:1742994006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CYsxFfqtFjk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:61752c44-5161-54f2-b885-20872f1a8b4a</id>
     <title><![CDATA[【 #パトこよ3D 】2人でASMR!?ライブ!?パトちゃん監修ASMR発売記念3Dコラボいくよおおお!!!🦀🧪【周防パトラ・博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/ySDD80xGpQo" rel="alternate" type="text/html"/>
@@ -1179,34 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=pTpVbAduBm4 【LIVE on &lt;t:1742709602:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pTpVbAduBm4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:94421309-c574-553a-8aea-b5fa0181e100</id>
-    <title><![CDATA[Break It Down]]></title>
-    <link href="https://youtu.be/vqdSVnmn_v8" rel="alternate" type="text/html"/>
-    <published>2025-03-22T15:03:12.000Z</published>
-    <updated>2025-03-22T15:03:12.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vqdSVnmn_v8 【LIVE on &lt;t:1742655792:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vqdSVnmn_v8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:31cf9341-5df3-5184-aed5-e2caa60a114c</id>
-    <title><![CDATA[Break It Down(Instrumental)]]></title>
-    <link href="https://youtu.be/ktgoxVJbCUo" rel="alternate" type="text/html"/>
-    <published>2025-03-22T15:02:21.000Z</published>
-    <updated>2025-03-22T15:02:21.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ktgoxVJbCUo 【LIVE on &lt;t:1742655741:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ktgoxVJbCUo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
