@@ -1,5 +1,44 @@
 [
   {
+    "id": "JiZHJzcbs4s",
+    "title": "きゅーぴっど。 / 天音かなた(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-22T12:55:07.000Z",
+    "available_at": "2025-04-22T12:55:07.000Z",
+    "duration": 199,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "3L0AVntuhhA",
+    "title": "【OFF COLLAB】Karaoke with @MomosuzuNene  and @IRyS +announcement!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-22T12:15:01.000Z",
+    "available_at": "2025-04-23T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
+    }
+  },
+  {
     "id": "TahlS4FZXDA",
     "title": "【MV】Omen of Crows - Banzoin Hakka / Prod. by @Cametek.CamelliaOfficial 【Original Song】",
     "type": "stream",
@@ -339,14 +378,17 @@
   },
   {
     "id": "UdbB5g1ncHs",
-    "title": "【3DLIVE】重大告知あり! #天音かなた生誕祭 「堕天使の憂鬱」/ Amane Kanata 3DLIVE \"Melancholy of the Fallen Angel\"【ホロライブ】",
+    "title": "【3DLIVE】重大告知あり！ #天音かなた生誕祭 「堕天使の憂鬱」/ Amane Kanata 3DLIVE \"Melancholy of the Fallen Angel\"【ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-04-20T01:56:34.000Z",
     "available_at": "2025-04-22T11:59:01.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 3262,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 86
+    },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -3093,26 +3135,6 @@
     }
   },
   {
-    "id": "JN_mOlwzn_4",
-    "title": "【雑談歌枠】明日のライブに向けて最後の気合!【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-03-28T11:52:41.000Z",
-    "available_at": "2025-03-28T10:32:20.000Z",
-    "duration": 4457,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
     "id": "SSuRtcLXA0s",
     "title": "【3D Live】KOBO BABY PARTY !!!! GUGU GAGA BABU BABU ???!!! #Kobo3rdAnniversary",
     "type": "stream",
@@ -3368,26 +3390,6 @@
     "available_at": "2025-03-22T10:57:10.000Z",
     "duration": 4205,
     "status": "past",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "UpEPkPg8YP4",
-    "title": "Caramel Pain / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-03-22T12:10:08.000Z",
-    "available_at": "2025-03-22T12:10:08.000Z",
-    "duration": 181,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
