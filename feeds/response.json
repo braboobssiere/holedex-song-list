@@ -128,9 +128,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-22T12:15:01.000Z",
-    "available_at": "2025-04-23T03:00:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "available_at": "2025-04-23T03:02:53.000Z",
+    "duration": 3280,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 19
+    },
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
