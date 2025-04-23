@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-23T16:06:29.054Z</updated>
+  <updated>2025-04-23T17:06:23.641Z</updated>
+
+  <entry>
+    <id>urn:uuid:9f4c26d4-73d8-5748-ae2f-7f0ba2dbabe8</id>
+    <title><![CDATA[Unarchived Karaoke 30 Min Test]]></title>
+    <link href="https://youtu.be/hJVZp_cTZb8" rel="alternate" type="text/html"/>
+    <published>2025-04-23T16:47:25.000Z</published>
+    <updated>2025-04-23T16:47:25.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hJVZp_cTZb8 【LIVE on &lt;t:1745426977:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hJVZp_cTZb8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1e5e0583-66a0-5a73-9dd6-77331c188229</id>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ig6aDWk6KU8 【LIVE on &lt;t:1743238860:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ig6aDWk6KU8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b2b81411-f582-5fde-8156-699b23903f22</id>
-    <title><![CDATA[【歌枠/KARAOKE】のんびりチルする【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/rNyZEzN0m2w" rel="alternate" type="text/html"/>
-    <published>2025-03-28T16:15:14.000Z</published>
-    <updated>2025-03-28T16:15:14.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=rNyZEzN0m2w 【LIVE on &lt;t:1743170389:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rNyZEzN0m2w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
