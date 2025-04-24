@@ -7,7 +7,7 @@
     "published_at": "2025-04-23T20:56:19.000Z",
     "available_at": "2025-04-23T23:00:19.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -54,6 +54,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "heyzPjt_Jl4",
+    "title": "【BIRTHDAY STREAM】I'M TURNING 20!!!【Tana Nona - JKT48V】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-04-22T16:52:03.000Z",
+    "available_at": "2025-04-22T12:00:51.000Z",
+    "duration": 16595,
+    "status": "past",
+    "live_tl_count": {
+      "id": 19
+    },
+    "channel": {
+      "id": "UCyam-qAWHwBoVnTNXk3gHbQ",
+      "name": "Tana Nona - JKT48V",
+      "org": "Independents",
+      "suborg": "jkJKT48V",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SWv-8zGWUtPod53XO4WqjiBMD_NXcLLI65Du_dIObzWCdCdXcQRBN0A6wrhOcMxj7EtTdKX5odQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tana Nona"
     }
   },
   {
@@ -361,28 +383,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HOLOSTARS Official"
-    }
-  },
-  {
-    "id": "heyzPjt_Jl4",
-    "title": "【BIRTHDAY STREAM】I'M TURNING 20!!!【Tana Nona - JKT48V】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-21T08:05:14.000Z",
-    "available_at": "2025-04-22T12:00:51.000Z",
-    "duration": 16588,
-    "status": "past",
-    "live_tl_count": {
-      "id": 19
-    },
-    "channel": {
-      "id": "UCyam-qAWHwBoVnTNXk3gHbQ",
-      "name": "Tana Nona - JKT48V",
-      "org": "Independents",
-      "suborg": "jkJKT48V",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SWv-8zGWUtPod53XO4WqjiBMD_NXcLLI65Du_dIObzWCdCdXcQRBN0A6wrhOcMxj7EtTdKX5odQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tana Nona"
     }
   },
   {
