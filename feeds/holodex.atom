@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-25T12:06:22.412Z</updated>
+  <updated>2025-04-25T13:06:30.444Z</updated>
 
   <entry>
     <id>urn:uuid:ced52f79-bfff-5270-abc9-d2a5bb365bbc</id>
@@ -2204,20 +2204,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e99a64b8-43a6-5297-b7fb-b00414cdd61c</id>
-    <title><![CDATA[【 楽器演奏 】1ヶ月ぶりにエレクトーン演奏するのら~!🎹Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/sgJR7l4SkPg" rel="alternate" type="text/html"/>
-    <published>2024-07-11T14:53:24.000Z</published>
-    <updated>2024-07-11T14:53:24.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sgJR7l4SkPg 【LIVE on &lt;t:1720778649:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sgJR7l4SkPg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f9d28726-dda1-588e-93fb-daadec1ec15a</id>
     <title><![CDATA[【毎年恒例】そうめんちゅるちゅるASMR...ちゅるちゅる成功でお披露目?!【ホロライブ/大神ミオ】]]></title>
     <link href="https://youtu.be/_7hUQI6OdBQ" rel="alternate" type="text/html"/>
@@ -2649,5 +2635,19 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V5yvpYSsktA 【LIVE on &lt;t:1675555220:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V5yvpYSsktA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7c6e31d2-21e6-5b7b-836b-d454a256163e</id>
+    <title><![CDATA[【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/IMi1Jdo6FHQ" rel="alternate" type="text/html"/>
+    <published>2023-01-29T03:28:59.000Z</published>
+    <updated>2023-01-29T03:28:59.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IMi1Jdo6FHQ 【LIVE on &lt;t:1674953232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IMi1Jdo6FHQ/maxresdefault.jpg"/>
   </entry>
 </feed>
