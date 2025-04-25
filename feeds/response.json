@@ -1,5 +1,24 @@
 [
   {
+    "id": "4m1I3xpQe48",
+    "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢/FLOW GLOW】#hololiveDEV_IS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-25T19:05:01.000Z",
+    "available_at": "2025-04-26T05:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "5NoWJ1awCec",
     "title": "【歌枠】朝に元気に歌うぞっ【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -141,8 +160,8 @@
     "topic_id": "singing",
     "published_at": "2025-04-25T06:25:29.000Z",
     "available_at": "2025-04-25T17:03:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7301,
+    "status": "past",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -3060,29 +3079,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "pnoNlR2i40Q",
-    "title": "【sing】エイプリルフールだからハロウィンの服着る【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-01T11:59:29.000Z",
-    "available_at": "2025-04-01T10:02:01.000Z",
-    "duration": 6681,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "en": 140
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
