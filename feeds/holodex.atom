@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-25T09:06:28.282Z</updated>
+  <updated>2025-04-25T10:06:26.200Z</updated>
+
+  <entry>
+    <id>urn:uuid:ced52f79-bfff-5270-abc9-d2a5bb365bbc</id>
+    <title><![CDATA[【original】シオン【ホロライブ/紫咲シオン】]]></title>
+    <link href="https://youtu.be/QcBj02A8ln4" rel="alternate" type="text/html"/>
+    <published>2025-04-25T10:00:06.000Z</published>
+    <updated>2025-04-25T10:00:06.000Z</updated>
+    <author>
+      <name>Shion Ch. 紫咲シオン</name>
+      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QcBj02A8ln4 【LIVE on &lt;t:1745575206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QcBj02A8ln4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f557452d-1f1e-5af8-b4ce-d7c757c37eec</id>
@@ -15,7 +29,7 @@
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TVEeeGVZwQ8 【LIVE on &lt;t:1745575200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TVEeeGVZwQ8 【LIVE on &lt;t:1745575245:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TVEeeGVZwQ8/maxresdefault.jpg"/>
   </entry>
 
@@ -77,7 +91,7 @@
 
   <entry>
     <id>urn:uuid:63c1937d-ef16-5731-b445-ea2b1e185311</id>
-    <title><![CDATA[unarchived Ash Again(Instrumental)]]></title>
+    <title><![CDATA[Ash Again(Instrumental)]]></title>
     <link href="https://youtu.be/5mRO69pvn7o" rel="alternate" type="text/html"/>
     <published>2025-04-24T15:00:08.000Z</published>
     <updated>2025-04-24T15:00:08.000Z</updated>
@@ -85,7 +99,7 @@
       <name>Gawr Gura Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5mRO69pvn7o 【LIVE on &lt;t:1745572258:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5mRO69pvn7o 【LIVE on &lt;t:1745506808:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5mRO69pvn7o/maxresdefault.jpg"/>
   </entry>
 
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0sRo1EodKWw 【LIVE on &lt;t:1745499531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0sRo1EodKWw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ced52f79-bfff-5270-abc9-d2a5bb365bbc</id>
-    <title><![CDATA[【original】シオン【ホロライブ/紫咲シオン】]]></title>
-    <link href="https://youtu.be/QcBj02A8ln4" rel="alternate" type="text/html"/>
-    <published>2025-04-24T10:47:00.000Z</published>
-    <updated>2025-04-24T10:47:00.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QcBj02A8ln4 【LIVE on &lt;t:1745575200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QcBj02A8ln4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
