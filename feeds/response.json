@@ -25,10 +25,10 @@
     "topic_id": "singing",
     "published_at": "2025-04-26T06:19:21.000Z",
     "available_at": "2025-04-26T07:00:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8317,
+    "status": "past",
     "live_tl_count": {
-      "en": 34
+      "en": 37
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -44,7 +44,7 @@
     "id": "IkXagoCIRHs",
     "title": "【MV】Omen of Crows - Banzoin Hakka / Prod. by Camellia【ACAPELLA】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Original_Song",
     "published_at": "2025-04-26T06:03:57.000Z",
     "available_at": "2025-04-26T06:03:57.000Z",
     "duration": 248,
@@ -2964,6 +2964,25 @@
     }
   },
   {
+    "id": "F2ZhZRboBDA",
+    "title": "【UNARCHIVED】dancing fruit party megamix",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-01T20:43:57.000Z",
+    "available_at": "2025-04-01T21:41:31.000Z",
+    "duration": 12445,
+    "status": "missing",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "wAr-jDsjOEg",
     "title": "【誕生日カウントダウン】明日誕生日です!!!!!祝ってください!!!💐【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -3243,27 +3262,6 @@
     "topic_id": "Original_Song",
     "published_at": "2025-03-29T15:04:15.000Z",
     "available_at": "2025-03-29T15:04:15.000Z",
-    "duration": 253,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCPxyh_8Q4sh6FXXtS3bRPUA",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "0GqccJ-1TNU",
-    "title": "String Theology",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-03-29T15:04:03.000Z",
-    "available_at": "2025-03-29T15:04:03.000Z",
     "duration": 253,
     "status": "past",
     "songcount": 1,
