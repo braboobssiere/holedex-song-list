@@ -1,5 +1,46 @@
 [
   {
+    "id": "-nV04SV0PSc",
+    "title": "【歌 】感情ましましで歌いたい日【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-26T06:19:21.000Z",
+    "available_at": "2025-04-26T07:00:17.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 5
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "IkXagoCIRHs",
+    "title": "【MV】Omen of Crows - Banzoin Hakka / Prod. by Camellia【ACAPELLA】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-26T06:03:57.000Z",
+    "available_at": "2025-04-26T06:03:57.000Z",
+    "duration": 248,
+    "status": "past",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "4m1I3xpQe48",
     "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢/FLOW GLOW】#hololiveDEV_IS",
     "type": "stream",
@@ -998,6 +1039,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "hsbr7tzw53U",
+    "title": "【 ELYSION - Sound Horizon】20th Anniversary Fan Concert",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-04-18T09:54:30.000Z",
+    "available_at": "2025-04-27T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "name": "Obake PAM Ch.",
+      "org": "Independents",
+      "suborg": "plPlayasia",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2_ol1I583hpmgXyBIb2NeSWG26Tkrx2M22Y0KFNW4vYmWi2wk9BTaK2bU-4GMXWCbxvfrcUZcw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Obake PAM"
     }
   },
   {
@@ -2904,26 +2964,6 @@
     }
   },
   {
-    "id": "NUTVxir8h6o",
-    "title": "【karaoke】約束を果たしに!65万人耐久歌枠 子守歌~🎶【#歌枠 #一条莉々華/hololive DEV_IS ReGLOSS #Shorts】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-01T17:02:28.000Z",
-    "available_at": "2025-04-01T16:07:35.000Z",
-    "duration": 2832,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
-    }
-  },
-  {
     "id": "wAr-jDsjOEg",
     "title": "【誕生日カウントダウン】明日誕生日です!!!!!祝ってください!!!💐【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -2940,26 +2980,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "HXXHyE7LFbc",
-    "title": "おやすみ 歌枠 ~New Guitarを添えて~【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-01T15:28:56.000Z",
-    "available_at": "2025-04-01T13:35:27.000Z",
-    "duration": 6056,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -5614,26 +5634,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "Oi0WDyT6xTE",
-    "title": "【#TheBrokenPromise】hololive English -Promise- 1st Anniversary Musical: The Broken Promise",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2024-12-15T04:08:01.000Z",
-    "available_at": "2024-12-15T02:58:01.000Z",
-    "duration": 3839,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
