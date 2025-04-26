@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-25T14:02:39.000Z",
-    "available_at": "2025-04-26T01:00:00.000Z",
+    "available_at": "2025-04-26T01:03:30.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -280,7 +280,7 @@
     "published_at": "2025-04-24T10:52:39.000Z",
     "available_at": "2025-04-24T12:58:51.000Z",
     "duration": 8918,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 19,
       "ja": 7
