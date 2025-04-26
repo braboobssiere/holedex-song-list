@@ -1,26 +1,5 @@
 [
   {
-    "id": "GTIN4DwgCQk",
-    "title": "Ash Again",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-26T17:42:24.000Z",
-    "available_at": "2025-04-26T17:42:24.000Z",
-    "duration": 278,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCGWJmXZpYgpMnP-e0_L14eQ",
-    "channel": {
-      "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "name": "Gawr Gura Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gawr Gura"
-    }
-  },
-  {
     "id": "NE8WOw6GhUg",
     "title": "「3D Collab」w/ Jurard T Rexford | ThE SuiT it F e e DS",
     "type": "stream",
@@ -48,6 +27,7 @@
     "available_at": "2025-04-26T13:50:06.000Z",
     "duration": 247,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -146,6 +126,7 @@
     "available_at": "2025-04-26T05:42:47.000Z",
     "duration": 7383,
     "status": "past",
+    "songcount": 22,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -165,7 +146,7 @@
     "available_at": "2025-04-26T01:03:30.000Z",
     "duration": 7903,
     "status": "past",
-    "songcount": 9,
+    "songcount": 21,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -3249,6 +3230,26 @@
     "duration": 4016,
     "status": "past",
     "songcount": 4,
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
+    }
+  },
+  {
+    "id": "BfJUAtR1tG0",
+    "title": "Rise up!!! / UPROAR!! 【オリジナルMV】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-03-31T12:05:26.000Z",
+    "available_at": "2025-03-31T12:05:26.000Z",
+    "duration": 214,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCWsfcksUUpoEvhia0_ut0bA",
       "name": "holostars ホロスターズ - VTuber Group",
