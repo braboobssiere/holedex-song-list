@@ -3,14 +3,28 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-26T14:06:22.781Z</updated>
+  <updated>2025-04-26T15:06:35.707Z</updated>
+
+  <entry>
+    <id>urn:uuid:acc37ed2-dc24-5b94-99d9-3891fd8c117d</id>
+    <title><![CDATA[【MV】スターライト【ホロライブ/大空スバル】]]></title>
+    <link href="https://youtu.be/v-2eM7LoNq8" rel="alternate" type="text/html"/>
+    <published>2025-04-26T13:50:06.000Z</published>
+    <updated>2025-04-26T13:50:06.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=v-2eM7LoNq8 【LIVE on &lt;t:1745675406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v-2eM7LoNq8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:02fdd01c-f449-5f88-be93-ae6598d09fab</id>
     <title><![CDATA[【歌枠】少し歌わせて【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/TlWzOmRPFXI" rel="alternate" type="text/html"/>
     <published>2025-04-26T08:52:19.000Z</published>
-    <updated>2025-04-26T08:52:19.000Z</updated>
+    <updated>2025-04-26T10:58:34.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -20,11 +34,25 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b26f2813-86ae-5396-9552-20fab9c4ad65</id>
+    <title><![CDATA[【】【ホロライブ/大空スバル】]]></title>
+    <link href="https://youtu.be/Jylxp6p26bI" rel="alternate" type="text/html"/>
+    <published>2025-04-26T08:30:49.000Z</published>
+    <updated>2025-04-26T13:50:00.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Jylxp6p26bI 【LIVE on &lt;t:1745675400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jylxp6p26bI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9b45aceb-7cf2-5781-b77a-61491438d57c</id>
     <title><![CDATA[【歌 】感情ましましで歌いたい日【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/-nV04SV0PSc" rel="alternate" type="text/html"/>
     <published>2025-04-26T06:19:21.000Z</published>
-    <updated>2025-04-26T06:19:21.000Z</updated>
+    <updated>2025-04-26T07:00:17.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
       <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
@@ -38,7 +66,7 @@
     <title><![CDATA[【歌枠 KARAOKE】久々の歌枠🧊【水宮枢／FLOW GLOW】#hololiveDEV_IS]]></title>
     <link href="https://youtu.be/4m1I3xpQe48" rel="alternate" type="text/html"/>
     <published>2025-04-25T19:05:01.000Z</published>
-    <updated>2025-04-25T19:05:01.000Z</updated>
+    <updated>2025-04-26T05:42:47.000Z</updated>
     <author>
       <name>Su Ch. 水宮枢 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
@@ -52,7 +80,7 @@
     <title><![CDATA[【歌枠】朝に元気に歌うぞっ【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/5NoWJ1awCec" rel="alternate" type="text/html"/>
     <published>2025-04-25T14:02:39.000Z</published>
-    <updated>2025-04-25T14:02:39.000Z</updated>
+    <updated>2025-04-26T01:03:30.000Z</updated>
     <author>
       <name>Flare Ch. 不知火フレア</name>
       <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
@@ -66,7 +94,7 @@
     <title><![CDATA[すきなうたを歌っていく！【轟はじめ】]]></title>
     <link href="https://youtu.be/r7i4KcB_9vw" rel="alternate" type="text/html"/>
     <published>2025-04-25T13:12:32.000Z</published>
-    <updated>2025-04-25T13:12:32.000Z</updated>
+    <updated>2025-04-25T14:00:29.000Z</updated>
     <author>
       <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
@@ -94,7 +122,7 @@
     <title><![CDATA[【歌枠/karaoke】一週間お疲れさま！！！の歌【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/TVEeeGVZwQ8" rel="alternate" type="text/html"/>
     <published>2025-04-25T08:51:27.000Z</published>
-    <updated>2025-04-25T08:51:27.000Z</updated>
+    <updated>2025-04-25T10:00:45.000Z</updated>
     <author>
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
@@ -108,7 +136,7 @@
     <title><![CDATA[【歌枠】一週間の終わりに虎の歌、、ええやん【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/mDXifT2rICk" rel="alternate" type="text/html"/>
     <published>2025-04-25T08:01:10.000Z</published>
-    <updated>2025-04-25T08:01:10.000Z</updated>
+    <updated>2025-04-25T08:01:25.000Z</updated>
     <author>
       <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
@@ -122,7 +150,7 @@
     <title><![CDATA[【歌枠】歌う！！！！！！最後に嬉しい告知あり！！！ Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/qgHtgSgCbQA" rel="alternate" type="text/html"/>
     <published>2025-04-25T07:16:45.000Z</published>
-    <updated>2025-04-25T07:16:45.000Z</updated>
+    <updated>2025-04-25T09:01:16.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -136,7 +164,7 @@
     <title><![CDATA[【歌枠|UNARCHIVED KARAOKE】One More Silly Singing Stream ! ~]]></title>
     <link href="https://youtu.be/K0AoqXW3vPk" rel="alternate" type="text/html"/>
     <published>2025-04-25T04:34:52.000Z</published>
-    <updated>2025-04-25T04:34:52.000Z</updated>
+    <updated>2025-04-26T03:01:11.000Z</updated>
     <author>
       <name>Nanashi Mumei Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA</uri>
@@ -150,7 +178,7 @@
     <title><![CDATA[【BIRTHDAY KARAOKE】SEVEN! #04 (EIGHT EDITION) + SPECIAL ANNOUNCEMENT ~! 💄#ERBday2025]]></title>
     <link href="https://youtu.be/1OSCNdXa2Zs" rel="alternate" type="text/html"/>
     <published>2025-04-24T16:25:05.000Z</published>
-    <updated>2025-04-24T16:25:05.000Z</updated>
+    <updated>2025-04-25T09:58:09.000Z</updated>
     <author>
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
@@ -192,7 +220,7 @@
     <title><![CDATA[【OFF COLLAB】Karaoke with @MomosuzuNene  and @IRyS +announcement!]]></title>
     <link href="https://youtu.be/3L0AVntuhhA" rel="alternate" type="text/html"/>
     <published>2025-04-23T04:02:50.000Z</published>
-    <updated>2025-04-23T04:02:50.000Z</updated>
+    <updated>2025-04-23T03:02:53.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
@@ -234,7 +262,7 @@
     <title><![CDATA[【3DLIVE】重大告知あり! #天音かなた生誕祭 「堕天使の憂鬱」/ Amane Kanata 3DLIVE "Melancholy of the Fallen Angel"【ホロライブ】]]></title>
     <link href="https://youtu.be/UdbB5g1ncHs" rel="alternate" type="text/html"/>
     <published>2025-04-22T12:57:21.000Z</published>
-    <updated>2025-04-22T12:57:21.000Z</updated>
+    <updated>2025-04-22T11:59:01.000Z</updated>
     <author>
       <name>Kanata Ch. 天音かなた</name>
       <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
@@ -290,7 +318,7 @@
     <title><![CDATA[【 ASMR 】低音ボイスで君にご奉仕します😸 / 耳かき/吐息/囁き/マッサージ…KU-100 Ear Cleaning 【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/ddlKdN0kwjI" rel="alternate" type="text/html"/>
     <published>2025-04-21T14:04:51.000Z</published>
-    <updated>2025-04-21T14:04:51.000Z</updated>
+    <updated>2025-04-21T13:00:30.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -304,7 +332,7 @@
     <title><![CDATA[【3D CONCERT】KIARA & FRIENDS: H!P Cover Song Spring Concert #HPmeetsHoloEN]]></title>
     <link href="https://youtu.be/jjLLByDa3Xc" rel="alternate" type="text/html"/>
     <published>2025-04-21T01:13:12.000Z</published>
-    <updated>2025-04-21T01:13:12.000Z</updated>
+    <updated>2025-04-20T23:55:45.000Z</updated>
     <author>
       <name>Takanashi Kiara Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
@@ -360,7 +388,7 @@
     <title><![CDATA[【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/mt8AyISL9Ig" rel="alternate" type="text/html"/>
     <published>2025-04-20T12:13:06.000Z</published>
-    <updated>2025-04-20T12:13:06.000Z</updated>
+    <updated>2025-04-20T10:55:06.000Z</updated>
     <author>
       <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
@@ -388,7 +416,7 @@
     <title><![CDATA[【歌枠】オリ曲歌っちゃうぞ~!!【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/oTpNI4pt5nM" rel="alternate" type="text/html"/>
     <published>2025-04-18T12:25:50.000Z</published>
-    <updated>2025-04-18T12:25:50.000Z</updated>
+    <updated>2025-04-18T11:01:55.000Z</updated>
     <author>
       <name>SoraCh. ときのそらチャンネル</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
@@ -402,7 +430,7 @@
     <title><![CDATA[【歌枠】すーぱーアイドルSong!【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/H58Dv0EX8b0" rel="alternate" type="text/html"/>
     <published>2025-04-18T10:19:01.000Z</published>
-    <updated>2025-04-18T10:19:01.000Z</updated>
+    <updated>2025-04-18T09:01:13.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -416,7 +444,7 @@
     <title><![CDATA[【 歌枠 】ノープラン歌枠だｧ^_^【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/Qw3m2ysjEkA" rel="alternate" type="text/html"/>
     <published>2025-04-17T15:15:59.000Z</published>
-    <updated>2025-04-17T15:15:59.000Z</updated>
+    <updated>2025-04-17T14:01:02.000Z</updated>
     <author>
       <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
@@ -444,7 +472,7 @@
     <title><![CDATA[【 雑歌 】胃腸炎から復活してきた!!!!【 桃鈴ねね / hololive 】]]></title>
     <link href="https://youtu.be/LH8XZVUaOcQ" rel="alternate" type="text/html"/>
     <published>2025-04-14T10:59:10.000Z</published>
-    <updated>2025-04-14T10:59:10.000Z</updated>
+    <updated>2025-04-14T09:01:27.000Z</updated>
     <author>
       <name>Nene Ch.桃鈴ねね</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
@@ -458,7 +486,7 @@
     <title><![CDATA[【耐久歌枠】もうすぐ156万人!?突破まで全力で歌うぞおおおおお!❤️‍🔥【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/8P7vNMI944Q" rel="alternate" type="text/html"/>
     <published>2025-04-13T19:51:44.000Z</published>
-    <updated>2025-04-13T19:51:44.000Z</updated>
+    <updated>2025-04-13T15:03:16.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -472,7 +500,7 @@
     <title><![CDATA[【ASMR】新生活応援!お姉さんが貴方を夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/CnwE1PmtPy8" rel="alternate" type="text/html"/>
     <published>2025-04-13T15:32:42.000Z</published>
-    <updated>2025-04-13T15:32:42.000Z</updated>
+    <updated>2025-04-13T14:00:45.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -486,7 +514,7 @@
     <title><![CDATA[【歌枠】病み曲限定歌枠♡【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/pSO1HVq8ucU" rel="alternate" type="text/html"/>
     <published>2025-04-13T14:20:12.000Z</published>
-    <updated>2025-04-13T14:20:12.000Z</updated>
+    <updated>2025-04-13T12:59:48.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -500,7 +528,7 @@
     <title><![CDATA[【3D Live】 戌神ころね6th記念★☆ 3D&パペットライブ!? 【#戌神ころね6周年】]]></title>
     <link href="https://youtu.be/ASwjM25ax58" rel="alternate" type="text/html"/>
     <published>2025-04-13T12:02:51.000Z</published>
-    <updated>2025-04-13T12:02:51.000Z</updated>
+    <updated>2025-04-13T11:00:21.000Z</updated>
     <author>
       <name>Korone Ch. 戌神ころね</name>
       <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
@@ -514,7 +542,7 @@
     <title><![CDATA[【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/MBTe3cDomgs" rel="alternate" type="text/html"/>
     <published>2025-04-13T11:19:49.000Z</published>
-    <updated>2025-04-13T11:19:49.000Z</updated>
+    <updated>2025-04-13T05:59:42.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -528,7 +556,7 @@
     <title><![CDATA[【歌枠】久しぶりにまったり歌う~~!!KARAOKE!【ホロライブ/紫咲シオン】]]></title>
     <link href="https://youtu.be/iPm5YHGZnaA" rel="alternate" type="text/html"/>
     <published>2025-04-12T20:07:15.000Z</published>
-    <updated>2025-04-12T20:07:15.000Z</updated>
+    <updated>2025-04-12T15:01:36.000Z</updated>
     <author>
       <name>Shion Ch. 紫咲シオン</name>
       <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
@@ -542,7 +570,7 @@
     <title><![CDATA[【歌枠】土曜の夕方に盛り上がっちゃうぞ!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/7cFJkGpXezI" rel="alternate" type="text/html"/>
     <published>2025-04-12T09:56:53.000Z</published>
-    <updated>2025-04-12T09:56:53.000Z</updated>
+    <updated>2025-04-12T07:31:25.000Z</updated>
     <author>
       <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
@@ -556,7 +584,7 @@
     <title><![CDATA[【PANDORA】Countdown Album Release!!【#MoonaPANDORA】]]></title>
     <link href="https://youtu.be/kqbhFkFxwPk" rel="alternate" type="text/html"/>
     <published>2025-04-11T15:50:46.000Z</published>
-    <updated>2025-04-11T15:50:46.000Z</updated>
+    <updated>2025-04-11T14:32:31.000Z</updated>
     <author>
       <name>Moona Hoshinova hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
@@ -724,7 +752,7 @@
     <title><![CDATA[【歌枠】告知&プチお披露目あり!久しぶりに歌を歌うんだ~~~~!【戌神ころね】]]></title>
     <link href="https://youtu.be/yoR1qrMKvrs" rel="alternate" type="text/html"/>
     <published>2025-04-11T13:24:56.000Z</published>
-    <updated>2025-04-11T13:24:56.000Z</updated>
+    <updated>2025-04-11T12:00:43.000Z</updated>
     <author>
       <name>Korone Ch. 戌神ころね</name>
       <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
@@ -738,7 +766,7 @@
     <title><![CDATA[【#AnniversaRi5u】(NOT) UNARCHIVED KARAOKE !!!【Ayunda Risu】]]></title>
     <link href="https://youtu.be/S1hKca67n_w" rel="alternate" type="text/html"/>
     <published>2025-04-10T17:35:26.000Z</published>
-    <updated>2025-04-10T17:35:26.000Z</updated>
+    <updated>2025-04-10T14:57:43.000Z</updated>
     <author>
       <name>Ayunda Risu Ch. hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
@@ -808,7 +836,7 @@
     <title><![CDATA[【歌 】歌いに来ちゃったボクだよ~ん!!!!【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/8ViH72o7muc" rel="alternate" type="text/html"/>
     <published>2025-04-08T13:07:58.000Z</published>
-    <updated>2025-04-08T13:07:58.000Z</updated>
+    <updated>2025-04-08T10:54:54.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
       <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
@@ -822,7 +850,7 @@
     <title><![CDATA[🛸【歌枠】 ✧︎SINGING! ✧︎おーきーてー!!!!!!!!!!!【ラプラス・ダークネス/ホロライブ】💜]]></title>
     <link href="https://youtu.be/J0hLVkFdGEU" rel="alternate" type="text/html"/>
     <published>2025-04-07T22:47:06.000Z</published>
-    <updated>2025-04-07T22:47:06.000Z</updated>
+    <updated>2025-04-07T19:54:17.000Z</updated>
     <author>
       <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
       <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
@@ -836,7 +864,7 @@
     <title><![CDATA[【 歌枠 / 縦型 】ボイトレ帰りの歌枠!🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/m0gb_Xt8AsE" rel="alternate" type="text/html"/>
     <published>2025-04-07T15:18:23.000Z</published>
-    <updated>2025-04-07T15:18:23.000Z</updated>
+    <updated>2025-04-07T14:01:52.000Z</updated>
     <author>
       <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
@@ -850,7 +878,7 @@
     <title><![CDATA[【歌枠】第123回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/PFs1MDalfBA" rel="alternate" type="text/html"/>
     <published>2025-04-06T16:04:58.000Z</published>
-    <updated>2025-04-06T16:04:58.000Z</updated>
+    <updated>2025-04-06T13:21:27.000Z</updated>
     <author>
       <name>Watame Ch. 角巻わため</name>
       <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
@@ -948,7 +976,7 @@
     <title><![CDATA[【アカペラ歌枠】かなり珍しいけど、丁寧にがんばります【 ホロライブ / 大神ミオ 】]]></title>
     <link href="https://youtu.be/Guqr-Q0mMUg" rel="alternate" type="text/html"/>
     <published>2025-04-06T10:21:53.000Z</published>
-    <updated>2025-04-06T10:21:53.000Z</updated>
+    <updated>2025-04-06T09:00:09.000Z</updated>
     <author>
       <name>Mio Channel 大神ミオ</name>
       <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
@@ -962,7 +990,7 @@
     <title><![CDATA[【#久我レオ3Dお披露目】 昼は英会話教師、夜は掃除屋🗡️ 【久我レオ / ネオポルテ】]]></title>
     <link href="https://youtu.be/PmmhGoMlCfo" rel="alternate" type="text/html"/>
     <published>2025-04-05T14:21:58.000Z</published>
-    <updated>2025-04-05T14:21:58.000Z</updated>
+    <updated>2025-04-05T12:55:11.000Z</updated>
     <author>
       <name>久我レオ / Kuga Leo</name>
       <uri>https://www.youtube.com/channel/UCmpEFsiD67ZOjn2CCJoo1mw</uri>
@@ -976,7 +1004,7 @@
     <title><![CDATA[【歌枠】沢山歌うよ🎶/Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/v_JyeJoTX5Y" rel="alternate" type="text/html"/>
     <published>2025-04-05T10:07:51.000Z</published>
-    <updated>2025-04-05T10:07:51.000Z</updated>
+    <updated>2025-04-05T09:00:16.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -990,7 +1018,7 @@
     <title><![CDATA[【3D BIRTHDAY LIVE】ARCANA - Mori Calliope's Birthday Concert! With Many Guests!]]></title>
     <link href="https://youtu.be/YRySeGZNzQ0" rel="alternate" type="text/html"/>
     <published>2025-04-05T04:06:31.000Z</published>
-    <updated>2025-04-05T04:06:31.000Z</updated>
+    <updated>2025-04-05T02:57:08.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
@@ -1032,7 +1060,7 @@
     <title><![CDATA[【歌枠】縦型歌枠配信✨眠れない夜にどうですか?【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/0M60iDKnHII" rel="alternate" type="text/html"/>
     <published>2025-04-04T17:17:41.000Z</published>
-    <updated>2025-04-04T17:17:41.000Z</updated>
+    <updated>2025-04-04T14:30:23.000Z</updated>
     <author>
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
@@ -1046,7 +1074,7 @@
     <title><![CDATA[【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream]]></title>
     <link href="https://youtu.be/NtzRhLagoJ0" rel="alternate" type="text/html"/>
     <published>2025-04-03T03:04:08.000Z</published>
-    <updated>2025-04-03T03:04:08.000Z</updated>
+    <updated>2025-04-03T01:12:20.000Z</updated>
     <author>
       <name>Koseki Bijou Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
@@ -1088,7 +1116,7 @@
     <title><![CDATA[【3DLIVE】3D新衣装も! #不知火フレア生誕祭2025 ゲストと一緒に盛り上がろう🎉【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/XcRns_s_wQ8" rel="alternate" type="text/html"/>
     <published>2025-04-02T13:09:59.000Z</published>
-    <updated>2025-04-02T13:09:59.000Z</updated>
+    <updated>2025-04-02T11:58:33.000Z</updated>
     <author>
       <name>Flare Ch. 不知火フレア</name>
       <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
@@ -1158,7 +1186,7 @@
     <title><![CDATA[【 #ReGLOSS3Dライブ 】Sakura Mirage / 新曲サクラミラージュ披露!【 ミニライブ 】]]></title>
     <link href="https://youtu.be/qc2owX4GFwA" rel="alternate" type="text/html"/>
     <published>2025-03-30T11:47:22.000Z</published>
-    <updated>2025-03-30T11:47:22.000Z</updated>
+    <updated>2025-03-30T11:00:11.000Z</updated>
     <author>
       <name>hololive DEV_IS ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
@@ -1168,25 +1196,11 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b1ad1f35-8115-5f49-a340-5d09b61c81af</id>
-    <title><![CDATA[ReGLOSS 'サクラミラージュ'  Performance Video]]></title>
-    <link href="https://youtu.be/jAOqZqQXbqM" rel="alternate" type="text/html"/>
-    <published>2025-03-30T11:45:06.000Z</published>
-    <updated>2025-03-30T11:45:06.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jAOqZqQXbqM 【LIVE on &lt;t:1743335106:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jAOqZqQXbqM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:d9b645df-c0e0-57ac-8790-81ad7b65d863</id>
     <title><![CDATA[【 #桃鈴ねね誕生日Live2025 】ゲストあり!新衣装お披露目あり!ねねリズムバースデーライブ!【 桃鈴ねね / hololive 】]]></title>
     <link href="https://youtu.be/d-Ua7CIU34I" rel="alternate" type="text/html"/>
     <published>2025-03-29T12:25:50.000Z</published>
-    <updated>2025-03-29T12:25:50.000Z</updated>
+    <updated>2025-03-29T11:00:11.000Z</updated>
     <author>
       <name>Nene Ch.桃鈴ねね</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
@@ -1200,7 +1214,7 @@
     <title><![CDATA[【3D Live】KOBO BABY PARTY !!!! GUGU GAGA BABU BABU ???!!! #Kobo3rdAnniversary]]></title>
     <link href="https://youtu.be/SSuRtcLXA0s" rel="alternate" type="text/html"/>
     <published>2025-03-27T16:07:11.000Z</published>
-    <updated>2025-03-27T16:07:11.000Z</updated>
+    <updated>2025-03-27T12:58:11.000Z</updated>
     <author>
       <name>Kobo Kanaeru Ch. hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
@@ -1214,7 +1228,7 @@
     <title><![CDATA[【 #パトこよ3D 】2人でASMR!?ライブ!?パトちゃん監修ASMR発売記念3Dコラボいくよおおお!!!🦀🧪【周防パトラ・博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/ySDD80xGpQo" rel="alternate" type="text/html"/>
     <published>2025-03-26T12:15:08.000Z</published>
-    <updated>2025-03-26T12:15:08.000Z</updated>
+    <updated>2025-03-26T10:58:07.000Z</updated>
     <author>
       <name>Koyori ch. 博衣こより - holoX -</name>
       <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
@@ -1228,7 +1242,7 @@
     <title><![CDATA[【 エレクトーン 】華麗なる姫の特技を見せちゃうのら~~!!!🎹🎶(・o・🍬)【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/pTpVbAduBm4" rel="alternate" type="text/html"/>
     <published>2025-03-23T11:47:23.000Z</published>
-    <updated>2025-03-23T11:47:23.000Z</updated>
+    <updated>2025-03-23T06:00:02.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -1242,7 +1256,7 @@
     <title><![CDATA[【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/5j8kn3BZlRw" rel="alternate" type="text/html"/>
     <published>2025-03-20T15:30:19.000Z</published>
-    <updated>2025-03-20T15:30:19.000Z</updated>
+    <updated>2025-03-20T14:00:31.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -1256,7 +1270,7 @@
     <title><![CDATA[【3D LIVE - HOPE UPON A STAR 】IRyS 2025 BIRTHDAY LIVE #IRySBDay2025]]></title>
     <link href="https://youtu.be/V0plPBgyqPs" rel="alternate" type="text/html"/>
     <published>2025-03-16T04:09:03.000Z</published>
-    <updated>2025-03-16T04:09:03.000Z</updated>
+    <updated>2025-03-16T02:57:11.000Z</updated>
     <author>
       <name>IRyS Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
@@ -1270,7 +1284,7 @@
     <title><![CDATA[【 3D LIVE 】豪華ゲスト & 生演奏 & 告知あり! #博衣こより生誕Live2025 -FIRST STEP- 【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/ERIxQaoEbXs" rel="alternate" type="text/html"/>
     <published>2025-03-15T12:19:43.000Z</published>
-    <updated>2025-03-15T12:19:43.000Z</updated>
+    <updated>2025-03-15T10:55:14.000Z</updated>
     <author>
       <name>Koyori ch. 博衣こより - holoX -</name>
       <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
@@ -1284,7 +1298,7 @@
     <title><![CDATA[【3D BIRTHDAY LIVE】 Through the Curious Tune - Anya Melfissa 2025 Birthday Live 生誕祭ライブ #CuriousTune3D]]></title>
     <link href="https://youtu.be/FXLKbTnMP2M" rel="alternate" type="text/html"/>
     <published>2025-03-12T13:07:25.000Z</published>
-    <updated>2025-03-12T13:07:25.000Z</updated>
+    <updated>2025-03-12T11:59:11.000Z</updated>
     <author>
       <name>Anya Melfissa Ch. hololive-ID</name>
       <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
@@ -1298,7 +1312,7 @@
     <title><![CDATA[【 ASMR 】疲れた体に効き目ばっちりのASMR / KU-100【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/CYtj5KboylA" rel="alternate" type="text/html"/>
     <published>2025-03-10T14:19:29.000Z</published>
-    <updated>2025-03-10T14:19:29.000Z</updated>
+    <updated>2025-03-10T13:11:09.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -1312,7 +1326,7 @@
     <title><![CDATA[【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony hololive STAGE3【チラ見せ】]]></title>
     <link href="https://youtu.be/3OkprzHcirU" rel="alternate" type="text/html"/>
     <published>2025-03-09T10:21:06.000Z</published>
-    <updated>2025-03-09T10:21:06.000Z</updated>
+    <updated>2025-03-09T09:00:22.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1326,7 +1340,7 @@
     <title><![CDATA[【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】]]></title>
     <link href="https://youtu.be/wCblx1C_j68" rel="alternate" type="text/html"/>
     <published>2025-03-09T04:51:24.000Z</published>
-    <updated>2025-03-09T04:51:24.000Z</updated>
+    <updated>2025-03-09T03:30:38.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1340,7 +1354,7 @@
     <title><![CDATA[【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE2【チラ見せ】]]></title>
     <link href="https://youtu.be/4C3kreEOk1Q" rel="alternate" type="text/html"/>
     <published>2025-03-08T10:15:40.000Z</published>
-    <updated>2025-03-08T10:15:40.000Z</updated>
+    <updated>2025-03-08T09:00:31.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1354,7 +1368,7 @@
     <title><![CDATA[【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE1【チラ見せ】]]></title>
     <link href="https://youtu.be/IKkSNj5uN6I" rel="alternate" type="text/html"/>
     <published>2025-03-08T04:54:59.000Z</published>
-    <updated>2025-03-08T04:54:59.000Z</updated>
+    <updated>2025-03-08T03:30:17.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1368,7 +1382,7 @@
     <title><![CDATA[【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!]]></title>
     <link href="https://youtu.be/qROKmkm6g4g" rel="alternate" type="text/html"/>
     <published>2025-03-07T03:38:51.000Z</published>
-    <updated>2025-03-07T03:38:51.000Z</updated>
+    <updated>2025-03-07T02:01:32.000Z</updated>
     <author>
       <name>IRyS Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
@@ -1382,7 +1396,7 @@
     <title><![CDATA[【 3D LIVE 】ゲスト多数 &告知あり!さくらみこ生誕祭2025 " Re:member colors " 🌸【 #さくらみこ生誕祭 】]]></title>
     <link href="https://youtu.be/PlC7enNzbgE" rel="alternate" type="text/html"/>
     <published>2025-03-05T13:12:26.000Z</published>
-    <updated>2025-03-05T13:12:26.000Z</updated>
+    <updated>2025-03-05T12:01:46.000Z</updated>
     <author>
       <name>Miko Ch. さくらみこ</name>
       <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
@@ -1396,7 +1410,7 @@
     <title><![CDATA[【#大空スバル6周年LIVE】大空スバル 6th 記念LIVE 星灯【ホロライブ/大空スバル】]]></title>
     <link href="https://youtu.be/KJGX0gJhvrM" rel="alternate" type="text/html"/>
     <published>2025-03-02T13:12:25.000Z</published>
-    <updated>2025-03-02T13:12:25.000Z</updated>
+    <updated>2025-03-02T11:58:22.000Z</updated>
     <author>
       <name>Subaru Ch. 大空スバル</name>
       <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
@@ -1410,7 +1424,7 @@
     <title><![CDATA[【 #桃鈴ねね生誕祭2025 】感謝の歌枠!誕生日迎えました~!重大告知あるから見てね!【 桃鈴ねね / hololive 】]]></title>
     <link href="https://youtu.be/GQFy71KVaVo" rel="alternate" type="text/html"/>
     <published>2025-03-02T11:56:29.000Z</published>
-    <updated>2025-03-02T11:56:29.000Z</updated>
+    <updated>2025-03-02T11:00:27.000Z</updated>
     <author>
       <name>Nene Ch.桃鈴ねね</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
@@ -1424,7 +1438,7 @@
     <title><![CDATA[【#いづくく3Dライブ】全編無料❣柚原いづみ×風見くく5周年記念3Dライブ🎤 w/ アステル・レダ / 空星きらめ【柚原いづみ / ななしいんく】]]></title>
     <link href="https://youtu.be/ssB_4uHSASw" rel="alternate" type="text/html"/>
     <published>2025-03-01T12:10:11.000Z</published>
-    <updated>2025-03-01T12:10:11.000Z</updated>
+    <updated>2025-03-01T10:50:57.000Z</updated>
     <author>
       <name>柚原いづみ / Izumi Channel 【ななしいんく】</name>
       <uri>https://www.youtube.com/channel/UCW8WKciBixmaqaGqrlTITRQ</uri>
@@ -1438,7 +1452,7 @@
     <title><![CDATA[≪-KAGURA- Dance of the Gods 3D LIVE≫ Hakos Baelz Birthday 2025 + ANNOUNCEMENTS! #BaeDDay2025]]></title>
     <link href="https://youtu.be/viPlIHvk724" rel="alternate" type="text/html"/>
     <published>2025-02-28T13:05:24.000Z</published>
-    <updated>2025-02-28T13:05:24.000Z</updated>
+    <updated>2025-02-28T12:00:17.000Z</updated>
     <author>
       <name>Hakos Baelz Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
@@ -1452,7 +1466,7 @@
     <title><![CDATA[【初3DLIVE】キミの王子様☆青くんのお誕生日ライブ!ゲスト盛沢山!【#⁠火威青生誕祭2025】]]></title>
     <link href="https://youtu.be/PyQ4-6-TeRI" rel="alternate" type="text/html"/>
     <published>2025-02-27T12:04:24.000Z</published>
-    <updated>2025-02-27T12:04:24.000Z</updated>
+    <updated>2025-02-27T10:57:23.000Z</updated>
     <author>
       <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
@@ -1466,7 +1480,7 @@
     <title><![CDATA[【Free Preview】Mori Calliope 2nd Concert "Grimoire"]]></title>
     <link href="https://youtu.be/cw3e0HzTj10" rel="alternate" type="text/html"/>
     <published>2025-02-27T03:34:56.000Z</published>
-    <updated>2025-02-27T03:34:56.000Z</updated>
+    <updated>2025-02-27T02:30:21.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
@@ -1480,7 +1494,7 @@
     <title><![CDATA[【 3D LIVE 】ゲスト盛りだくさん!重大告知アリアリ🎂😸【 #⁠猫又おかゆ生誕祭2025 】]]></title>
     <link href="https://youtu.be/E1Qy0OttVcs" rel="alternate" type="text/html"/>
     <published>2025-02-22T13:12:57.000Z</published>
-    <updated>2025-02-22T13:12:57.000Z</updated>
+    <updated>2025-02-22T11:55:14.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -1494,7 +1508,7 @@
     <title><![CDATA[【 3DLIVE 】#アキロゼ生誕祭2025 ーYour True Colorsー【ホロライブ/アキ・ローゼンタール】]]></title>
     <link href="https://youtu.be/etiR9Qnqlmc" rel="alternate" type="text/html"/>
     <published>2025-02-17T13:22:54.000Z</published>
-    <updated>2025-02-17T13:22:54.000Z</updated>
+    <updated>2025-02-17T12:00:12.000Z</updated>
     <author>
       <name>アキロゼCh。Vtuber/ホロライブ所属</name>
       <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
@@ -1508,7 +1522,7 @@
     <title><![CDATA[【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive]]></title>
     <link href="https://youtu.be/4JNyad4TTuY" rel="alternate" type="text/html"/>
     <published>2025-02-15T13:03:35.000Z</published>
-    <updated>2025-02-15T13:03:35.000Z</updated>
+    <updated>2025-02-15T11:59:53.000Z</updated>
     <author>
       <name>Moona Hoshinova hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
@@ -1522,7 +1536,7 @@
     <title><![CDATA[【ASMR🩷全体公開】今日も一緒に寝よ😴タッピング/囁き/Deep Sleep #asmr 【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/Rx6gMtiSgec" rel="alternate" type="text/html"/>
     <published>2025-02-14T15:19:14.000Z</published>
-    <updated>2025-02-14T15:19:14.000Z</updated>
+    <updated>2025-02-14T14:03:28.000Z</updated>
     <author>
       <name>Polka Ch. 尾丸ポルカ</name>
       <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
@@ -1536,7 +1550,7 @@
     <title><![CDATA[【ASMR】ヤンデレのあずらみに愛されて眠れないASMR【ホロライブ / AZKi / 雪花ラミィ】]]></title>
     <link href="https://youtu.be/Eo8jxyDki7A" rel="alternate" type="text/html"/>
     <published>2025-02-14T15:03:05.000Z</published>
-    <updated>2025-02-14T15:03:05.000Z</updated>
+    <updated>2025-02-14T14:31:52.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -1550,7 +1564,7 @@
     <title><![CDATA[【VALENTINE'S DAY】🩷First-ever ASMR + a special surprise! 😸🩷]]></title>
     <link href="https://youtu.be/9nSeGsKOwfc" rel="alternate" type="text/html"/>
     <published>2025-02-14T13:32:26.000Z</published>
-    <updated>2025-02-14T13:32:26.000Z</updated>
+    <updated>2025-02-14T12:01:30.000Z</updated>
     <author>
       <name>Raora Panthera Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
@@ -1564,7 +1578,7 @@
     <title><![CDATA[【チラ見せ】Shirakami Fubuki 1stLIVE FBKINGDOM “ANTHEM"]]></title>
     <link href="https://youtu.be/BRiz6VMcL8c" rel="alternate" type="text/html"/>
     <published>2025-02-13T10:00:44.000Z</published>
-    <updated>2025-02-13T10:00:44.000Z</updated>
+    <updated>2025-02-13T09:00:26.000Z</updated>
     <author>
       <name>フブキCh。白上フブキ</name>
       <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
@@ -1578,7 +1592,7 @@
     <title><![CDATA[【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/ed7dCfg9sGg" rel="alternate" type="text/html"/>
     <published>2025-02-12T10:15:52.000Z</published>
-    <updated>2025-02-12T10:15:52.000Z</updated>
+    <updated>2025-02-12T10:00:17.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -1592,7 +1606,7 @@
     <title><![CDATA[【ASMR】節分=鬼=強い...にちなんで♡二つのマイクで刺激的な音中心♡ゾクゾクを貴方に...【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/VVoEVmd20uA" rel="alternate" type="text/html"/>
     <published>2025-02-02T15:25:19.000Z</published>
-    <updated>2025-02-02T15:25:19.000Z</updated>
+    <updated>2025-02-02T14:00:55.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -1606,7 +1620,7 @@
     <title><![CDATA[【チラ見せ】Hoshimachi Suisei 日本武道館 Live "SuperNova"]]></title>
     <link href="https://youtu.be/_o_mtN68KEg" rel="alternate" type="text/html"/>
     <published>2025-02-01T09:29:32.000Z</published>
-    <updated>2025-02-01T09:29:32.000Z</updated>
+    <updated>2025-02-01T08:30:22.000Z</updated>
     <author>
       <name>Suisei Channel</name>
       <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
@@ -1620,7 +1634,7 @@
     <title><![CDATA[【ASMR】全体公開!音が設定変更でめちゃめちゃ良くなったので、珍しい全体公開でのASMRです*~甘々・耳かき・マッサージ・添い寝etc~【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/TkrnS3uUvWw" rel="alternate" type="text/html"/>
     <published>2025-01-31T15:48:52.000Z</published>
-    <updated>2025-01-31T15:48:52.000Z</updated>
+    <updated>2025-01-31T14:01:15.000Z</updated>
     <author>
       <name>Koyori ch. 博衣こより - holoX -</name>
       <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
@@ -1634,7 +1648,7 @@
     <title><![CDATA[【 楽器演奏 】エレクトーンを2ヶ月ぶりに演奏するのら!!!🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/MIR5amvbvXk" rel="alternate" type="text/html"/>
     <published>2025-01-25T13:03:18.000Z</published>
-    <updated>2025-01-25T13:03:18.000Z</updated>
+    <updated>2025-01-25T07:00:25.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -1648,7 +1662,7 @@
     <title><![CDATA[【ASMR】 My first time with a 3dio ~! 💄]]></title>
     <link href="https://youtu.be/s_CzysIgrNE" rel="alternate" type="text/html"/>
     <published>2025-01-23T02:27:48.000Z</published>
-    <updated>2025-01-23T02:27:48.000Z</updated>
+    <updated>2025-01-22T23:13:19.000Z</updated>
     <author>
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
@@ -1662,7 +1676,7 @@
     <title><![CDATA[【 ASMR 】確実にねれるエグい音⚠️Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/olYQU0xNYg8" rel="alternate" type="text/html"/>
     <published>2025-01-22T16:50:01.000Z</published>
-    <updated>2025-01-22T16:50:01.000Z</updated>
+    <updated>2025-01-22T15:07:12.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1676,7 +1690,7 @@
     <title><![CDATA[【ASMR/安眠】今年最初の耳マッサージ&お耳掃除♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/qaqoZk-raP8" rel="alternate" type="text/html"/>
     <published>2025-01-19T15:38:23.000Z</published>
-    <updated>2025-01-19T15:38:23.000Z</updated>
+    <updated>2025-01-19T14:00:31.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -1690,7 +1704,7 @@
     <title><![CDATA[【3D LIVE】秘密結社holoX3周年 3DLIVE【#SSholoX3周年】]]></title>
     <link href="https://youtu.be/ztW56LCevmI" rel="alternate" type="text/html"/>
     <published>2025-01-19T13:41:42.000Z</published>
-    <updated>2025-01-19T13:41:42.000Z</updated>
+    <updated>2025-01-19T11:55:11.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1704,7 +1718,7 @@
     <title><![CDATA[【 ASMR 】お風呂でこっそり永眠🛀💕Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/XTqiaM0Slhw" rel="alternate" type="text/html"/>
     <published>2025-01-16T16:45:50.000Z</published>
-    <updated>2025-01-16T16:45:50.000Z</updated>
+    <updated>2025-01-16T15:01:03.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1718,7 +1732,7 @@
     <title><![CDATA[【 ASMR 】寒い日にどうぞ。 KU-100/ Brain Tingling Best Triggers for Deep Sleep【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/fBs_AY2F-x0" rel="alternate" type="text/html"/>
     <published>2025-01-07T15:04:52.000Z</published>
-    <updated>2025-01-07T15:04:52.000Z</updated>
+    <updated>2025-01-07T14:00:09.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -1732,7 +1746,7 @@
     <title><![CDATA[【3D LIVE】1 day 4 colors【#ホロ4期生ライブ2025】]]></title>
     <link href="https://youtu.be/H8A2CZiyc_E" rel="alternate" type="text/html"/>
     <published>2025-01-05T11:58:48.000Z</published>
-    <updated>2025-01-05T11:58:48.000Z</updated>
+    <updated>2025-01-05T10:57:13.000Z</updated>
     <author>
       <name>hololive ホロライブ - VTuber Group</name>
       <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
@@ -1746,7 +1760,7 @@
     <title><![CDATA[【Members Only】 Practicing my lyre harp!]]></title>
     <link href="https://youtu.be/ODll2JO1qKs" rel="alternate" type="text/html"/>
     <published>2025-01-04T01:43:16.000Z</published>
-    <updated>2025-01-04T01:43:16.000Z</updated>
+    <updated>2024-07-22T22:00:11.000Z</updated>
     <author>
       <name>Ceres Fauna Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
@@ -1760,7 +1774,7 @@
     <title><![CDATA[【Members Only】 Short kalimba practice!]]></title>
     <link href="https://youtu.be/UqOvKVc2PoU" rel="alternate" type="text/html"/>
     <published>2025-01-04T01:43:00.000Z</published>
-    <updated>2025-01-04T01:43:00.000Z</updated>
+    <updated>2024-04-14T22:00:18.000Z</updated>
     <author>
       <name>Ceres Fauna Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ</uri>
@@ -1774,7 +1788,7 @@
     <title><![CDATA[【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/SIp41_h5aus" rel="alternate" type="text/html"/>
     <published>2024-12-27T10:15:46.000Z</published>
-    <updated>2024-12-27T10:15:46.000Z</updated>
+    <updated>2024-12-27T10:00:14.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
       <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
@@ -1788,7 +1802,7 @@
     <title><![CDATA[【ASMR MIC】Relaxing at a Cyberpunk Bar! On Christmas?! #calliolive]]></title>
     <link href="https://youtu.be/OvCnlu-NmZQ" rel="alternate" type="text/html"/>
     <published>2024-12-26T07:06:01.000Z</published>
-    <updated>2024-12-26T07:06:01.000Z</updated>
+    <updated>2024-12-26T06:01:09.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
@@ -1802,7 +1816,7 @@
     <title><![CDATA[【ASMR】ヤンデレのあずきちに愛されて眠れないASMR 2024【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/q62fOkvRzpQ" rel="alternate" type="text/html"/>
     <published>2024-12-25T15:07:25.000Z</published>
-    <updated>2024-12-25T15:07:25.000Z</updated>
+    <updated>2024-12-25T14:01:37.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -1816,7 +1830,7 @@
     <title><![CDATA[【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】]]></title>
     <link href="https://youtu.be/DEbGq2ItFOU" rel="alternate" type="text/html"/>
     <published>2024-12-23T23:02:56.000Z</published>
-    <updated>2024-12-23T23:02:56.000Z</updated>
+    <updated>2024-12-23T22:03:03.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
       <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
@@ -1830,7 +1844,7 @@
     <title><![CDATA[【 ASMR 】君と海でぐっすり🏖️Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/OfMRbViwNGo" rel="alternate" type="text/html"/>
     <published>2024-12-05T16:43:55.000Z</published>
-    <updated>2024-12-05T16:43:55.000Z</updated>
+    <updated>2024-12-05T15:05:40.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1858,7 +1872,7 @@
     <title><![CDATA[【 55万人耐久 】リコーダー枠。ソウルを込めて。リクエスト受け付けてます。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/Z9O494QY-ao" rel="alternate" type="text/html"/>
     <published>2024-12-01T05:43:36.000Z</published>
-    <updated>2024-12-01T05:43:36.000Z</updated>
+    <updated>2024-12-01T03:01:33.000Z</updated>
     <author>
       <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
@@ -1872,7 +1886,7 @@
     <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
     <published>2024-11-26T16:37:44.000Z</published>
-    <updated>2024-11-26T16:37:44.000Z</updated>
+    <updated>2024-11-26T15:03:35.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1886,7 +1900,7 @@
     <title><![CDATA[休日のエレクトーン練習でみんなのQOLを上げるのら~~!🎹 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/B1RyNxgc9zk" rel="alternate" type="text/html"/>
     <published>2024-11-24T12:24:35.000Z</published>
-    <updated>2024-11-24T12:24:35.000Z</updated>
+    <updated>2024-11-24T07:02:03.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -1900,7 +1914,7 @@
     <title><![CDATA[【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/TnbY43G4q10" rel="alternate" type="text/html"/>
     <published>2024-11-19T16:34:58.000Z</published>
-    <updated>2024-11-19T16:34:58.000Z</updated>
+    <updated>2024-11-19T15:06:10.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1914,7 +1928,7 @@
     <title><![CDATA[【安眠】KU100と耳かきマイクの2台仕様!全肯定あまあまノエママによる耳掃除&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/xv_B4BUvs8Q" rel="alternate" type="text/html"/>
     <published>2024-11-17T15:23:44.000Z</published>
-    <updated>2024-11-17T15:23:44.000Z</updated>
+    <updated>2024-11-17T14:00:57.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -1928,7 +1942,7 @@
     <title><![CDATA[【 誰でも視聴可能 】メンバーシップ体験版💜 / KU-100【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/1o9bqmTDSxY" rel="alternate" type="text/html"/>
     <published>2024-11-11T16:19:26.000Z</published>
-    <updated>2024-11-11T16:19:26.000Z</updated>
+    <updated>2024-11-11T13:30:12.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -1942,7 +1956,7 @@
     <title><![CDATA[【安眠】肌寒い秋の夜長に♡お耳と心がポカポカする癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/WTFWi7ymYEE" rel="alternate" type="text/html"/>
     <published>2024-11-03T15:28:16.000Z</published>
-    <updated>2024-11-03T15:28:16.000Z</updated>
+    <updated>2024-11-03T14:00:25.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -1956,7 +1970,7 @@
     <title><![CDATA[【 ASMR 】真夜中の読み聞かせ⛩️Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/JDSt-f6SzUY" rel="alternate" type="text/html"/>
     <published>2024-11-02T16:54:14.000Z</published>
-    <updated>2024-11-02T16:54:14.000Z</updated>
+    <updated>2024-11-02T15:12:39.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -1970,7 +1984,7 @@
     <title><![CDATA[【 ASMR / KU-100 】そらちゃんと一緒に仲良く癒します💙💜【 #mogunuun / ホロライブ 】]]></title>
     <link href="https://youtu.be/HeHVngIEoB8" rel="alternate" type="text/html"/>
     <published>2024-10-30T14:06:03.000Z</published>
-    <updated>2024-10-30T14:06:03.000Z</updated>
+    <updated>2024-10-30T13:00:09.000Z</updated>
     <author>
       <name>Okayu Ch. 猫又おかゆ</name>
       <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
@@ -1984,7 +1998,7 @@
     <title><![CDATA[2ヶ月ぶりのエレクトーン練習で癒されるがいいのら!!!🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/egINPf12ZOM" rel="alternate" type="text/html"/>
     <published>2024-10-27T12:59:52.000Z</published>
-    <updated>2024-10-27T12:59:52.000Z</updated>
+    <updated>2024-10-27T08:01:32.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -1998,7 +2012,7 @@
     <title><![CDATA[【ASMR/TAKIBI】焚き火しながら、AZKiとお話しませんか?【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/bpxeC3ijNNo" rel="alternate" type="text/html"/>
     <published>2024-10-25T17:01:51.000Z</published>
-    <updated>2024-10-25T17:01:51.000Z</updated>
+    <updated>2024-10-25T14:02:47.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -2012,7 +2026,7 @@
     <title><![CDATA[【 ASMR 】眠れる読み聞かせ📚Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/5f9v8M1reec" rel="alternate" type="text/html"/>
     <published>2024-10-23T16:04:23.000Z</published>
-    <updated>2024-10-23T16:04:23.000Z</updated>
+    <updated>2024-10-23T15:03:05.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -2026,7 +2040,7 @@
     <title><![CDATA[【1st ASMR VOICEPACK AFTERPARTY】comfy fluffy and fuzzy everyday 🐾🫧 【FUWAMOCO】]]></title>
     <link href="https://youtu.be/MyA_K-awSoU" rel="alternate" type="text/html"/>
     <published>2024-10-23T03:07:24.000Z</published>
-    <updated>2024-10-23T03:07:24.000Z</updated>
+    <updated>2024-10-23T00:55:10.000Z</updated>
     <author>
       <name>FUWAMOCO Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
@@ -2054,7 +2068,7 @@
     <title><![CDATA[【 ASMR 】癖になる良い音💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
     <link href="https://youtu.be/kR0hfKajaM4" rel="alternate" type="text/html"/>
     <published>2024-10-16T16:22:48.000Z</published>
-    <updated>2024-10-16T16:22:48.000Z</updated>
+    <updated>2024-10-16T15:03:55.000Z</updated>
     <author>
       <name>HAACHAMA Ch 赤井はあと</name>
       <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
@@ -2068,7 +2082,7 @@
     <title><![CDATA[【安眠】心細くて眠れない夜に...♡まるで隣にいるような癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/xls59o2GGCU" rel="alternate" type="text/html"/>
     <published>2024-10-06T15:47:39.000Z</published>
-    <updated>2024-10-06T15:47:39.000Z</updated>
+    <updated>2024-10-06T14:00:16.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -2082,7 +2096,7 @@
     <title><![CDATA[【安眠】ASMRマイク2台使用✨まだ夏を感じる寝れない夜に...♡癒しの囁き&耳かき+ひんやりマッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/D9dbJJHU2ws" rel="alternate" type="text/html"/>
     <published>2024-09-08T16:07:53.000Z</published>
-    <updated>2024-09-08T16:07:53.000Z</updated>
+    <updated>2024-09-08T14:21:46.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -2124,7 +2138,7 @@
     <title><![CDATA[【ASMR/囁き】納涼!ダジャレASMR【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/lUQ2V-IHXAQ" rel="alternate" type="text/html"/>
     <published>2024-08-27T14:23:17.000Z</published>
-    <updated>2024-08-27T14:23:17.000Z</updated>
+    <updated>2024-08-27T13:01:38.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
@@ -2138,7 +2152,7 @@
     <title><![CDATA[【 エレクトーン|カメラ枠 】夏の終わりの楽器練習風景なのら~🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/VewtEHnovS4" rel="alternate" type="text/html"/>
     <published>2024-08-25T12:07:37.000Z</published>
-    <updated>2024-08-25T12:07:37.000Z</updated>
+    <updated>2024-08-25T07:00:38.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2152,7 +2166,7 @@
     <title><![CDATA[【夜のまったり練習】ピアノの練習しようかな?【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/0iJfc7DZqHo" rel="alternate" type="text/html"/>
     <published>2024-08-12T16:20:42.000Z</published>
-    <updated>2024-08-12T16:20:42.000Z</updated>
+    <updated>2024-08-12T13:02:07.000Z</updated>
     <author>
       <name>SoraCh. ときのそらチャンネル</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
@@ -2166,7 +2180,7 @@
     <title><![CDATA[【楽器】なんかしようか?~フルートの日~【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/gl1o5gXNdTA" rel="alternate" type="text/html"/>
     <published>2024-08-03T09:10:02.000Z</published>
-    <updated>2024-08-03T09:10:02.000Z</updated>
+    <updated>2024-08-03T07:00:49.000Z</updated>
     <author>
       <name>SoraCh. ときのそらチャンネル</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
@@ -2180,7 +2194,7 @@
     <title><![CDATA[【ASMR】月末定期ASMR2024.07 ぷち告知もありますっ【ホロライブ/白上フブキ】]]></title>
     <link href="https://youtu.be/yDDTTdEqMbU" rel="alternate" type="text/html"/>
     <published>2024-08-01T14:06:33.000Z</published>
-    <updated>2024-08-01T14:06:33.000Z</updated>
+    <updated>2024-08-01T13:04:29.000Z</updated>
     <author>
       <name>フブキCh。白上フブキ</name>
       <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
@@ -2194,7 +2208,7 @@
     <title><![CDATA[【ASMR】Singing & Humming You to Sleep~! 💄]]></title>
     <link href="https://youtu.be/tNaF7e9XRYw" rel="alternate" type="text/html"/>
     <published>2024-07-20T21:06:14.000Z</published>
-    <updated>2024-07-20T21:06:14.000Z</updated>
+    <updated>2024-07-20T19:59:48.000Z</updated>
     <author>
       <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
@@ -2208,7 +2222,7 @@
     <title><![CDATA[【CURSED ASMR】beautiful sounds, from Death, to you!]]></title>
     <link href="https://youtu.be/uDuq7xoFrKo" rel="alternate" type="text/html"/>
     <published>2024-07-16T02:08:03.000Z</published>
-    <updated>2024-07-16T02:08:03.000Z</updated>
+    <updated>2024-07-16T01:01:51.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
@@ -2222,7 +2236,7 @@
     <title><![CDATA[【毎年恒例】そうめんちゅるちゅるASMR...ちゅるちゅる成功でお披露目?!【ホロライブ/大神ミオ】]]></title>
     <link href="https://youtu.be/_7hUQI6OdBQ" rel="alternate" type="text/html"/>
     <published>2024-07-09T11:04:55.000Z</published>
-    <updated>2024-07-09T11:04:55.000Z</updated>
+    <updated>2024-07-09T09:59:46.000Z</updated>
     <author>
       <name>Mio Channel 大神ミオ</name>
       <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
@@ -2236,7 +2250,7 @@
     <title><![CDATA[【ASMR/KU100】(8分40秒~本編開始)寂しさ感じる夜に安心感じる癒しの囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/KW8AVXQsWWE" rel="alternate" type="text/html"/>
     <published>2024-07-02T16:09:44.000Z</published>
-    <updated>2024-07-02T16:09:44.000Z</updated>
+    <updated>2024-07-02T14:00:30.000Z</updated>
     <author>
       <name>Noel Ch. 白銀ノエル</name>
       <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
@@ -2250,7 +2264,7 @@
     <title><![CDATA[【 楽器演奏 】いつもと違うアングルでエレクトーン演奏するのら!🎹Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/6Mtv0wrtjcs" rel="alternate" type="text/html"/>
     <published>2024-06-09T15:11:20.000Z</published>
-    <updated>2024-06-09T15:11:20.000Z</updated>
+    <updated>2024-06-09T09:06:46.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2264,7 +2278,7 @@
     <title><![CDATA[【 エレクトーン | カメラ枠 】んな姫は楽器も嗜みますなのら!🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/zNU4eUtXzmU" rel="alternate" type="text/html"/>
     <published>2024-04-27T16:19:05.000Z</published>
-    <updated>2024-04-27T16:19:05.000Z</updated>
+    <updated>2024-04-27T11:00:24.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2278,7 +2292,7 @@
     <title><![CDATA[【 エレクトーン|カメラ枠 】hololive Expo 展示記念の演奏するのら~!!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/dExGvpGLLxY" rel="alternate" type="text/html"/>
     <published>2024-03-14T17:34:11.000Z</published>
-    <updated>2024-03-14T17:34:11.000Z</updated>
+    <updated>2024-03-14T12:01:14.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2292,7 +2306,7 @@
     <title><![CDATA[【Valentine's Afterparty】If I Tangent, Bonk Me Challenge]]></title>
     <link href="https://youtu.be/-7e3SugNjl0" rel="alternate" type="text/html"/>
     <published>2024-02-16T05:13:21.000Z</published>
-    <updated>2024-02-16T05:13:21.000Z</updated>
+    <updated>2024-02-16T03:00:05.000Z</updated>
     <author>
       <name>Shiori Novella Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
@@ -2306,7 +2320,7 @@
     <title><![CDATA[【 楽器演奏 】エレクトーンのお稽古なのら🎶~限定ｱｰｶｲﾌﾞ【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/hNvCPQTAfQ0" rel="alternate" type="text/html"/>
     <published>2024-01-28T17:58:46.000Z</published>
-    <updated>2024-01-28T17:58:46.000Z</updated>
+    <updated>2024-01-28T14:29:37.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2320,7 +2334,7 @@
     <title><![CDATA[♥姫の演奏会♥￤エレクトーンを弾くのらっ!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/wL2Pn1QTtJ0" rel="alternate" type="text/html"/>
     <published>2023-12-29T11:14:25.000Z</published>
-    <updated>2023-12-29T11:14:25.000Z</updated>
+    <updated>2023-12-29T06:01:40.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2334,7 +2348,7 @@
     <title><![CDATA[【 エレクトーン 】深夜なのでしっとりピアノ音ver.で演奏するのら!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/LXL1sILWLuo" rel="alternate" type="text/html"/>
     <published>2023-10-07T19:14:57.000Z</published>
-    <updated>2023-10-07T19:14:57.000Z</updated>
+    <updated>2023-10-07T13:59:58.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2348,7 +2362,7 @@
     <title><![CDATA[【 楽器演奏 / カメラあり 】久々にエレクトーンに触れるのら!!!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/4_gAGQAt_M8" rel="alternate" type="text/html"/>
     <published>2023-08-29T09:08:39.000Z</published>
-    <updated>2023-08-29T09:08:39.000Z</updated>
+    <updated>2023-08-29T06:01:14.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2362,7 +2376,7 @@
     <title><![CDATA[【アンダーテール】初のピアノ配信でUNDERTALEの曲を弾くぞ…!そしてホロサマビンゴじゃい!【ホロライブ/沙花叉クロヱ】]]></title>
     <link href="https://youtu.be/k1oP9iMXoJo" rel="alternate" type="text/html"/>
     <published>2023-08-23T16:59:57.000Z</published>
-    <updated>2023-08-23T16:59:57.000Z</updated>
+    <updated>2023-08-23T14:00:40.000Z</updated>
     <author>
       <name>Chloe ch. 沙花叉クロヱ - holoX -</name>
       <uri>https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw</uri>
@@ -2376,7 +2390,7 @@
     <title><![CDATA[≪HOLOSUMMER: BINGO≫ Learning how to play the Otamatone #hololivesummer2023]]></title>
     <link href="https://youtu.be/akfZjZZPGUI" rel="alternate" type="text/html"/>
     <published>2023-07-27T03:54:11.000Z</published>
-    <updated>2023-07-27T03:54:11.000Z</updated>
+    <updated>2023-07-27T01:02:23.000Z</updated>
     <author>
       <name>Hakos Baelz Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
@@ -2390,7 +2404,7 @@
     <title><![CDATA[【 エレクトーン 】明日7/8(土)からエレクトーン『LUNA』全国ツアー開催なのら!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/YsK07Ra1V-M" rel="alternate" type="text/html"/>
     <published>2023-07-07T11:11:31.000Z</published>
-    <updated>2023-07-07T11:11:31.000Z</updated>
+    <updated>2023-07-07T07:00:27.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2404,7 +2418,7 @@
     <title><![CDATA[【フルート】はじめてのYouTubeでの練習【ホロライブ/ときのそら/TokinoSora】]]></title>
     <link href="https://youtu.be/JYIom8xruCI" rel="alternate" type="text/html"/>
     <published>2023-07-06T11:52:59.000Z</published>
-    <updated>2023-07-06T11:52:59.000Z</updated>
+    <updated>2023-07-06T10:03:50.000Z</updated>
     <author>
       <name>SoraCh. ときのそらチャンネル</name>
       <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
@@ -2418,7 +2432,7 @@
     <title><![CDATA[【 エレクトーン 】夕方の練習時間なのら~🎹🎶手袋で丁寧に弾きたい!【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/6C9WHww-qsM" rel="alternate" type="text/html"/>
     <published>2023-07-04T11:47:48.000Z</published>
-    <updated>2023-07-04T11:47:48.000Z</updated>
+    <updated>2023-07-04T08:01:27.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2432,7 +2446,7 @@
     <title><![CDATA[【 エレクトーン 】ジブリとか色々演奏するのら!🎹🎶 ~新たなる挑戦なのら!【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/0zisuu7ObQs" rel="alternate" type="text/html"/>
     <published>2023-07-01T10:11:53.000Z</published>
-    <updated>2023-07-01T10:11:53.000Z</updated>
+    <updated>2023-07-01T07:01:05.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2446,7 +2460,7 @@
     <title><![CDATA[【 エレクトーン演奏 】深夜作業BGM…垂れ流し…(声小さめ) 🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/vH5skofzdKU" rel="alternate" type="text/html"/>
     <published>2023-06-18T18:59:52.000Z</published>
-    <updated>2023-06-18T18:59:52.000Z</updated>
+    <updated>2023-06-18T16:25:12.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2460,7 +2474,7 @@
     <title><![CDATA[【 #なのらいぶ 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY16>【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/6B7iyHgsKb8" rel="alternate" type="text/html"/>
     <published>2023-05-20T16:09:24.000Z</published>
-    <updated>2023-05-20T16:09:24.000Z</updated>
+    <updated>2023-05-20T23:00:28.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2474,7 +2488,7 @@
     <title><![CDATA[【 エレクトーン 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY15>【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/Cda-6iTlr9U" rel="alternate" type="text/html"/>
     <published>2023-05-14T04:48:53.000Z</published>
-    <updated>2023-05-14T04:48:53.000Z</updated>
+    <updated>2023-05-13T23:00:17.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2488,7 +2502,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY14>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/QdViyW7gif0" rel="alternate" type="text/html"/>
     <published>2023-05-07T04:20:34.000Z</published>
-    <updated>2023-05-07T04:20:34.000Z</updated>
+    <updated>2023-05-06T23:00:26.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2502,7 +2516,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY12>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/MNg1QHiqJfY" rel="alternate" type="text/html"/>
     <published>2023-04-23T05:41:58.000Z</published>
-    <updated>2023-04-23T05:41:58.000Z</updated>
+    <updated>2023-04-22T23:00:14.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2516,7 +2530,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY11>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/4GwbAhLC09M" rel="alternate" type="text/html"/>
     <published>2023-04-16T04:00:59.000Z</published>
-    <updated>2023-04-16T04:00:59.000Z</updated>
+    <updated>2023-04-15T23:00:41.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2530,7 +2544,7 @@
     <title><![CDATA[【 楽器演奏 】日曜朝のエレクトーン10回目を迎えたのら~~~!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/5TzW6bnO7h8" rel="alternate" type="text/html"/>
     <published>2023-04-09T03:49:13.000Z</published>
-    <updated>2023-04-09T03:49:13.000Z</updated>
+    <updated>2023-04-08T23:41:08.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2544,7 +2558,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY9>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/rcRKaOLFoBA" rel="alternate" type="text/html"/>
     <published>2023-04-02T04:01:21.000Z</published>
-    <updated>2023-04-02T04:01:21.000Z</updated>
+    <updated>2023-04-01T22:59:59.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2558,7 +2572,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY8>世界で1つだけのオリジナルエレクトーン完成なのら!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/-qtjNVyhv74" rel="alternate" type="text/html"/>
     <published>2023-03-26T03:49:13.000Z</published>
-    <updated>2023-03-26T03:49:13.000Z</updated>
+    <updated>2023-03-25T23:00:10.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2572,7 +2586,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY7>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/_eQSsaPKZ74" rel="alternate" type="text/html"/>
     <published>2023-03-12T03:18:23.000Z</published>
-    <updated>2023-03-12T03:18:23.000Z</updated>
+    <updated>2023-03-11T23:06:27.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2586,7 +2600,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY6>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/fZ8vtn68gjw" rel="alternate" type="text/html"/>
     <published>2023-03-05T03:31:12.000Z</published>
-    <updated>2023-03-05T03:31:12.000Z</updated>
+    <updated>2023-03-04T23:00:41.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2600,7 +2614,7 @@
     <title><![CDATA[【 楽器演奏 】<DAY5>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/5fEbt3fOFDs" rel="alternate" type="text/html"/>
     <published>2023-02-26T03:58:35.000Z</published>
-    <updated>2023-02-26T03:58:35.000Z</updated>
+    <updated>2023-02-25T23:00:12.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2614,7 +2628,7 @@
     <title><![CDATA[【 #なのらいぶ 】<DAY4>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/OnXRvhbHkUY" rel="alternate" type="text/html"/>
     <published>2023-02-19T02:17:46.000Z</published>
-    <updated>2023-02-19T02:17:46.000Z</updated>
+    <updated>2023-02-18T23:02:20.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2628,7 +2642,7 @@
     <title><![CDATA[【 #なのらいぶ 】<DAY3>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/o6ul5FySP8M" rel="alternate" type="text/html"/>
     <published>2023-02-12T04:05:54.000Z</published>
-    <updated>2023-02-12T04:05:54.000Z</updated>
+    <updated>2023-02-12T00:30:37.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2642,7 +2656,7 @@
     <title><![CDATA[【 #なのらいぶ 】<DAY2>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/V5yvpYSsktA" rel="alternate" type="text/html"/>
     <published>2023-02-05T03:31:12.000Z</published>
-    <updated>2023-02-05T03:31:12.000Z</updated>
+    <updated>2023-02-05T00:00:20.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
@@ -2656,7 +2670,7 @@
     <title><![CDATA[【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/IMi1Jdo6FHQ" rel="alternate" type="text/html"/>
     <published>2023-01-29T03:28:59.000Z</published>
-    <updated>2023-01-29T03:28:59.000Z</updated>
+    <updated>2023-01-29T00:47:12.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
