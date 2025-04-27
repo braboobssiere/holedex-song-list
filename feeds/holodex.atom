@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-27T20:06:21.527Z</updated>
+  <updated>2025-04-27T21:06:21.762Z</updated>
 
   <entry>
     <id>urn:uuid:bdb7821c-7ab2-5aa0-8f3b-562d86104410</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:02fdd01c-f449-5f88-be93-ae6598d09fab</id>
+    <title><![CDATA[【歌枠】少し歌わせて【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/TlWzOmRPFXI" rel="alternate" type="text/html"/>
+    <published>2025-04-26T11:55:25.000Z</published>
+    <updated>2025-04-26T10:58:34.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TlWzOmRPFXI 【LIVE on &lt;t:1745665114:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TlWzOmRPFXI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:330313b4-1303-5843-a442-ff1e26003cf1</id>
     <title><![CDATA[Nekkyo]]></title>
     <link href="https://youtu.be/yDQLSTf53_g" rel="alternate" type="text/html"/>
@@ -73,34 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-nV04SV0PSc 【LIVE on &lt;t:1745650817:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-nV04SV0PSc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:02fdd01c-f449-5f88-be93-ae6598d09fab</id>
-    <title><![CDATA[【歌枠】少し歌わせて【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/TlWzOmRPFXI" rel="alternate" type="text/html"/>
-    <published>2025-04-26T08:52:19.000Z</published>
-    <updated>2025-04-26T10:58:34.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TlWzOmRPFXI 【LIVE on &lt;t:1745665114:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TlWzOmRPFXI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b26f2813-86ae-5396-9552-20fab9c4ad65</id>
-    <title><![CDATA[【】【ホロライブ/大空スバル】]]></title>
-    <link href="https://youtu.be/Jylxp6p26bI" rel="alternate" type="text/html"/>
-    <published>2025-04-26T08:30:49.000Z</published>
-    <updated>2025-04-26T13:50:00.000Z</updated>
-    <author>
-      <name>Subaru Ch. 大空スバル</name>
-      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Jylxp6p26bI 【LIVE on &lt;t:1745675400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jylxp6p26bI/maxresdefault.jpg"/>
   </entry>
 
   <entry>

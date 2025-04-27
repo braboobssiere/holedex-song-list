@@ -99,6 +99,25 @@
     }
   },
   {
+    "id": "TlWzOmRPFXI",
+    "title": "【歌枠】少し歌わせて【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-26T11:55:25.000Z",
+    "available_at": "2025-04-26T10:58:34.000Z",
+    "duration": 3051,
+    "status": "past",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "yDQLSTf53_g",
     "title": "Nekkyo",
     "type": "stream",
@@ -142,25 +161,6 @@
     }
   },
   {
-    "id": "TlWzOmRPFXI",
-    "title": "【歌枠】少し歌わせて【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-26T08:52:19.000Z",
-    "available_at": "2025-04-26T10:58:34.000Z",
-    "duration": 3065,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "Jylxp6p26bI",
     "title": "【】【ホロライブ/大空スバル】",
     "type": "stream",
@@ -168,7 +168,7 @@
     "published_at": "2025-04-26T08:30:49.000Z",
     "available_at": "2025-04-26T13:50:00.000Z",
     "duration": 247,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
