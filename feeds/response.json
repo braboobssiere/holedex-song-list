@@ -39,6 +39,27 @@
     }
   },
   {
+    "id": "yDQLSTf53_g",
+    "title": "Nekkyo",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-26T10:03:35.000Z",
+    "available_at": "2025-04-26T10:03:35.000Z",
+    "duration": 177,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC6xrX65hmPyL1BV_OmmEb3w",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
+    }
+  },
+  {
     "id": "TlWzOmRPFXI",
     "title": "【歌枠】少し歌わせて【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -303,7 +324,7 @@
     "published_at": "2025-04-25T06:25:29.000Z",
     "available_at": "2025-04-25T17:03:43.000Z",
     "duration": 7301,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -1148,8 +1169,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-04-18T09:54:30.000Z",
     "available_at": "2025-04-27T01:08:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7285,
+    "status": "past",
     "channel": {
       "id": "UCZIFph1bYyGxmFkkNNLAKdA",
       "name": "Obake PAM Ch.",
@@ -3241,26 +3262,6 @@
     }
   },
   {
-    "id": "BfJUAtR1tG0",
-    "title": "Rise up!!! / UPROAR!! 【オリジナルMV】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-03-31T12:05:26.000Z",
-    "available_at": "2025-03-31T12:05:26.000Z",
-    "duration": 214,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCWsfcksUUpoEvhia0_ut0bA",
-      "name": "holostars ホロスターズ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0bOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HOLOSTARS Official"
-    }
-  },
-  {
     "id": "Cel-8Z1lL2U",
     "title": "【KU100】UPROAR!!3周年記念ボイス『カミフェス!!! ~after~』 #アップロー3周年",
     "type": "stream",
@@ -4123,7 +4124,7 @@
       "org": "Hololive",
       "suborg": "0w0th Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gKitLHfMqsfmC26xRBBNBVE9jz4m0X-xAvcdPUwy8VPa4FCw0-XRxOKLvJZxm-lQnIDQU2rDA0k=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
     }
   },
