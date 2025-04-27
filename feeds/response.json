@@ -1,14 +1,33 @@
 [
   {
+    "id": "A_0u_sgaKkc",
+    "title": "oops, i accidentally slept through my birthday...",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-04-27T15:27:56.000Z",
+    "available_at": "2025-04-27T23:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
+      "name": "Regis Altare Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Regis Altare"
+    }
+  },
+  {
     "id": "lz7ImEXeHW8",
     "title": "【雑談/歌】すこしのざつだんとうた【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-27T13:38:06.000Z",
     "available_at": "2025-04-27T14:00:09.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 7,
+    "duration": 6846,
+    "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -4696,29 +4715,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "4JNyad4TTuY",
-    "title": "【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-15T13:03:35.000Z",
-    "available_at": "2025-02-15T11:59:53.000Z",
-    "duration": 3473,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "en": 9
-    },
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
     }
   },
   {
