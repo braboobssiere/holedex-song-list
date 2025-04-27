@@ -138,6 +138,26 @@
     }
   },
   {
+    "id": "r7i4KcB_9vw",
+    "title": "すきなうたを歌っていく!【轟はじめ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-25T15:35:14.000Z",
+    "available_at": "2025-04-25T14:00:29.000Z",
+    "duration": 4933,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "5NoWJ1awCec",
     "title": "【歌枠】朝に元気に歌うぞっ【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -155,26 +175,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "r7i4KcB_9vw",
-    "title": "すきなうたを歌っていく！【轟はじめ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-25T13:12:32.000Z",
-    "available_at": "2025-04-25T14:00:29.000Z",
-    "duration": 4951,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -1149,7 +1149,7 @@
     "published_at": "2025-04-18T09:54:30.000Z",
     "available_at": "2025-04-27T01:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZIFph1bYyGxmFkkNNLAKdA",
       "name": "Obake PAM Ch.",
