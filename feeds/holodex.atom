@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-28T20:07:13.339Z</updated>
+  <updated>2025-04-28T21:06:27.900Z</updated>
 
   <entry>
     <id>urn:uuid:ae1de97c-8dbe-5878-9309-e49075f5691c</id>
@@ -241,6 +241,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5mRO69pvn7o 【LIVE on &lt;t:1745506808:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5mRO69pvn7o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85c3110b-748e-526b-94fe-2b3c148c567f</id>
+    <title><![CDATA[Bloom in the night]]></title>
+    <link href="https://youtu.be/ZVza4omGfTk" rel="alternate" type="text/html"/>
+    <published>2025-04-24T05:26:20.000Z</published>
+    <updated>2025-04-24T05:26:20.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZVza4omGfTk 【LIVE on &lt;t:1745472380:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZVza4omGfTk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2ccc1bb3-3fe4-55a3-9bad-76e3c5cd479f</id>
+    <title><![CDATA[夜に咲く]]></title>
+    <link href="https://youtu.be/cvsnofS1T64" rel="alternate" type="text/html"/>
+    <published>2025-04-23T15:03:57.000Z</published>
+    <updated>2025-04-23T15:03:57.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cvsnofS1T64 【LIVE on &lt;t:1745420637:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cvsnofS1T64/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1165,34 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CwEGRizGRvQ 【LIVE on &lt;t:1743599106:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CwEGRizGRvQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ea5c01da-5e78-50ae-aa3a-65d3b920c6bf</id>
-    <title><![CDATA[ラムダック (Instrumental)]]></title>
-    <link href="https://youtu.be/qLInuCp1wvs" rel="alternate" type="text/html"/>
-    <published>2025-04-01T15:01:12.000Z</published>
-    <updated>2025-04-01T15:01:12.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qLInuCp1wvs 【LIVE on &lt;t:1743519672:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qLInuCp1wvs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8fb2c828-7279-5720-ac79-3b8a697a9eb3</id>
-    <title><![CDATA[ラムダック]]></title>
-    <link href="https://youtu.be/BD8MriQxcbQ" rel="alternate" type="text/html"/>
-    <published>2025-04-01T15:00:25.000Z</published>
-    <updated>2025-04-01T15:00:25.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BD8MriQxcbQ 【LIVE on &lt;t:1743519625:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BD8MriQxcbQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
