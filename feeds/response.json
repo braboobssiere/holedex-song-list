@@ -1,24 +1,5 @@
 [
   {
-    "id": "vHy9cbZrg3Q",
-    "title": "【推しカメラ】絶対アイドル辞めないで / さくらみこ生誕祭2025 \" Re:member colors \"",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-28T19:56:23.000Z",
-    "available_at": "2025-04-28T19:56:23.000Z",
-    "duration": 240,
-    "status": "past",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
     "id": "2_opjVlYhi4",
     "title": "【original anime MV】A Horny Money World ~伝説の夜~【hololive/宝鐘マリン】",
     "type": "stream",
@@ -27,6 +8,7 @@
     "available_at": "2025-04-29T10:57:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -76,6 +58,26 @@
     }
   },
   {
+    "id": "lz7ImEXeHW8",
+    "title": "【雑談/歌】すこしのざつだんとうた【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-27T16:25:20.000Z",
+    "available_at": "2025-04-27T14:00:09.000Z",
+    "duration": 6826,
+    "status": "past",
+    "songcount": 14,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "A_0u_sgaKkc",
     "title": "oops, i accidentally slept through my birthday...",
     "type": "stream",
@@ -92,26 +94,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
-    }
-  },
-  {
-    "id": "lz7ImEXeHW8",
-    "title": "【雑談/歌】すこしのざつだんとうた【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-27T13:38:06.000Z",
-    "available_at": "2025-04-27T14:00:09.000Z",
-    "duration": 6846,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -4725,6 +4707,25 @@
     "live_tl_count": {
       "en": 326
     },
+    "channel": {
+      "id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aki Rosenthal"
+    }
+  },
+  {
+    "id": "p9MLt51AVzE",
+    "title": "誕生日カウントダウンして一緒に迎えたい!【ホロライブ/アキ・ローゼンタール】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-16T15:40:09.000Z",
+    "available_at": "2025-02-16T14:33:29.000Z",
+    "duration": 3733,
+    "status": "past",
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
