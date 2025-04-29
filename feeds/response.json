@@ -1,5 +1,24 @@
 [
   {
+    "id": "lwAHXuM9fDY",
+    "title": "ギター弾き語りをするぞ【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-29T11:25:55.000Z",
+    "available_at": "2025-04-29T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "2_opjVlYhi4",
     "title": "【original anime MV】A Horny Money World ~伝説の夜~【hololive/宝鐘マリン】",
     "type": "stream",
@@ -78,13 +97,13 @@
   },
   {
     "id": "BpQcZ871C5o",
-    "title": "【告知歌枠】告知がある...2つ!!!!!もちろん良い方のヤツ【 ホロライブ / 大神ミオ 】",
+    "title": "【告知歌枠】告知がある...２つ！！！！！もちろん良い方のヤツ【 ホロライブ / 大神ミオ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-27T23:44:00.000Z",
     "available_at": "2025-04-29T10:01:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4455,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -2931,26 +2950,6 @@
     }
   },
   {
-    "id": "0M60iDKnHII",
-    "title": "【歌枠】縦型歌枠配信✨眠れない夜にどうですか?【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-04T17:17:41.000Z",
-    "available_at": "2025-04-04T14:30:23.000Z",
-    "duration": 8900,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "6jg7_m_J2A8",
     "title": "【歌枠】縦型歌枠配信✨眠れない夜にどうですか?【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -3707,7 +3706,7 @@
     "published_at": "2025-03-16T19:27:33.000Z",
     "available_at": "2025-04-28T01:59:36.000Z",
     "duration": 3145,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
       "name": "Goldbullet Ch. HOLOSTARS-EN",
