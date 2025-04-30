@@ -81,9 +81,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-29T15:01:50.000Z",
-    "available_at": "2025-04-30T09:30:00.000Z",
+    "available_at": "2025-04-30T09:31:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -169,6 +169,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HOLOSTARS Official"
+    }
+  },
+  {
+    "id": "YyAiLmldlr0",
+    "title": "【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-28T02:50:49.000Z",
+    "available_at": "2025-04-30T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCMGfV7TVTmHhEErVJg1oHBQ",
+      "name": "Ao Ch. 火威青 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5ORfvtCTg1dnyGVq9omlDYYSymrdiSqAAY-1IKH_U9V5o9mzfh7qTwO1qI_AtqOKTlIT_Em77ss=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hiodoshi Ao"
     }
   },
   {
@@ -3149,27 +3169,6 @@
     "published_at": "2025-04-02T15:02:49.000Z",
     "available_at": "2025-04-02T15:02:49.000Z",
     "duration": 252,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCha0EDJ2dLclUXA_d4KUQHg",
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "6VFtKOGP0PM",
-    "title": "薄明光線 (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-02T15:01:25.000Z",
-    "available_at": "2025-04-02T15:01:25.000Z",
-    "duration": 250,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCha0EDJ2dLclUXA_d4KUQHg",
