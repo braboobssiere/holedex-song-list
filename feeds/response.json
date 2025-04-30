@@ -1,34 +1,13 @@
 [
   {
-    "id": "Fx9VERQJ4LY",
-    "title": "Ash Again",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-29T20:36:42.000Z",
-    "available_at": "2025-04-29T20:36:42.000Z",
-    "duration": 280,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCGWJmXZpYgpMnP-e0_L14eQ",
-    "channel": {
-      "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "name": "Gawr Gura Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gawr Gura"
-    }
-  },
-  {
     "id": "daPr7J9OQDU",
     "title": "【UNARCHIVED KARAOKE】the last one!",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-04-29T20:13:16.000Z",
-    "available_at": "2025-04-29T23:30:00.000Z",
+    "available_at": "2025-04-30T00:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
       "name": "Gawr Gura Ch. hololive-EN",
@@ -3179,6 +3158,26 @@
     "live_tl_count": {
       "en": 161
     },
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "CwEGRizGRvQ",
+    "title": "【original anime MV】薄明光線/不知火フレア(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-02T13:05:06.000Z",
+    "available_at": "2025-04-02T13:05:06.000Z",
+    "duration": 258,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
