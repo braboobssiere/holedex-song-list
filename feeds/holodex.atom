@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-30T18:06:25.604Z</updated>
+  <updated>2025-04-30T19:06:27.217Z</updated>
 
   <entry>
     <id>urn:uuid:789b2045-6055-551d-a5db-0a7f8e536713</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:06543e14-e984-5930-b1a0-b73b005e0ae4</id>
+    <title><![CDATA[【歌枠】ご注文はおうたのじかんですか?【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/Y9UzZ5_pRP0" rel="alternate" type="text/html"/>
+    <published>2025-04-30T03:54:40.000Z</published>
+    <updated>2025-04-30T03:54:40.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y9UzZ5_pRP0 【LIVE on &lt;t:1746104400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y9UzZ5_pRP0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1025,20 +1039,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=m0gb_Xt8AsE 【LIVE on &lt;t:1744034512:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m0gb_Xt8AsE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:29b8999e-c45e-53bd-8bd3-22b070d5cbf5</id>
-    <title><![CDATA[【歌枠】第123回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/PFs1MDalfBA" rel="alternate" type="text/html"/>
-    <published>2025-04-06T16:04:58.000Z</published>
-    <updated>2025-04-06T13:21:27.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PFs1MDalfBA 【LIVE on &lt;t:1743945687:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PFs1MDalfBA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
