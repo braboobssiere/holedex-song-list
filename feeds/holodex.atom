@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-30T10:06:27.544Z</updated>
+  <updated>2025-04-30T11:06:27.012Z</updated>
+
+  <entry>
+    <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
+    <title><![CDATA[【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/YyAiLmldlr0" rel="alternate" type="text/html"/>
+    <published>2025-04-30T11:00:06.000Z</published>
+    <updated>2025-04-30T11:00:06.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:fa3de2a1-3b0e-5cfe-8f09-d1f9725576e7</id>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2_opjVlYhi4 【LIVE on &lt;t:1745924226:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2_opjVlYhi4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
-    <title><![CDATA[【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/YyAiLmldlr0" rel="alternate" type="text/html"/>
-    <published>2025-04-28T02:50:49.000Z</published>
-    <updated>2025-04-28T02:50:49.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1193,6 +1193,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LdRU0O-f0F4 【LIVE on &lt;t:1743606169:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LdRU0O-f0F4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bea23005-7b57-5f7a-b3c4-2ffa86ff8947</id>
+    <title><![CDATA[薄明光線 (Instrumental)]]></title>
+    <link href="https://youtu.be/6VFtKOGP0PM" rel="alternate" type="text/html"/>
+    <published>2025-04-02T15:01:25.000Z</published>
+    <updated>2025-04-02T15:01:25.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6VFtKOGP0PM 【LIVE on &lt;t:1743606085:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6VFtKOGP0PM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
