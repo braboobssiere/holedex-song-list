@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-04-30T12:06:26.686Z</updated>
+  <updated>2025-04-30T13:06:28.776Z</updated>
+
+  <entry>
+    <id>urn:uuid:789b2045-6055-551d-a5db-0a7f8e536713</id>
+    <title><![CDATA[【UNARCHIVE】Karaoke night shall we?【Moona Hoshinova】]]></title>
+    <link href="https://youtu.be/V50IhKaBfWU" rel="alternate" type="text/html"/>
+    <published>2025-04-30T12:30:48.000Z</published>
+    <updated>2025-04-30T13:00:00.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=V50IhKaBfWU 【LIVE on &lt;t:1746018000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V50IhKaBfWU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9d8ed214-97a4-54ac-b930-89ce1b2c3954</id>
+    <title><![CDATA[【歌枠/KARAOKE】アニソンたちが君を待っている!!!【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/M98xc9291zg" rel="alternate" type="text/html"/>
+    <published>2025-04-29T23:56:03.000Z</published>
+    <updated>2025-04-30T13:01:50.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=M98xc9291zg 【LIVE on &lt;t:1746018110:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M98xc9291zg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,20 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PmmhGoMlCfo 【LIVE on &lt;t:1743857711:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PmmhGoMlCfo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:98f40d09-c127-5d51-8745-e518a9beb173</id>
-    <title><![CDATA[【歌枠】沢山歌うよ🎶/Singing KARAOKE【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/v_JyeJoTX5Y" rel="alternate" type="text/html"/>
-    <published>2025-04-05T10:07:51.000Z</published>
-    <updated>2025-04-05T09:00:16.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=v_JyeJoTX5Y 【LIVE on &lt;t:1743843616:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v_JyeJoTX5Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
