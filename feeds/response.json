@@ -100,9 +100,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-01T11:05:52.000Z",
-    "available_at": "2025-05-01T23:00:00.000Z",
+    "available_at": "2025-05-01T22:56:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -130,6 +130,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "13rfK2lBKIQ",
+    "title": "【ASMR】月末定期ASMR2025.04 今月は全国民向け。【白上フブキ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-04-30T13:06:39.000Z",
+    "available_at": "2025-04-30T12:02:11.000Z",
+    "duration": 3641,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -304,25 +323,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gawr Gura"
-    }
-  },
-  {
-    "id": "13rfK2lBKIQ",
-    "title": "【ASMR】月末定期ASMR2025.04　今月は全国民向け。【白上フブキ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-04-29T17:50:37.000Z",
-    "available_at": "2025-04-30T12:02:11.000Z",
-    "duration": 3642,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
