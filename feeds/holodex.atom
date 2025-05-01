@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-01T19:06:26.322Z</updated>
+  <updated>2025-05-01T20:06:25.302Z</updated>
+
+  <entry>
+    <id>urn:uuid:ad55c65b-9bf8-55fc-b085-7a30356e9477</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】anime song freedom + ANNOUNCEMENT ♪✨️ #FWMCbeats 【告知あり歌枠】]]></title>
+    <link href="https://youtu.be/1yBUDi2Ew0M" rel="alternate" type="text/html"/>
+    <published>2025-05-01T18:53:48.000Z</published>
+    <updated>2025-05-01T18:53:48.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1yBUDi2Ew0M 【LIVE on &lt;t:1746147600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1yBUDi2Ew0M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5a824a77-4ae6-5fd7-867d-821f4f14f431</id>
     <title><![CDATA[【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED]]></title>
     <link href="https://youtu.be/EQhdClmT1cs" rel="alternate" type="text/html"/>
     <published>2025-05-01T17:22:32.000Z</published>
-    <updated>2025-05-01T19:00:00.000Z</updated>
+    <updated>2025-05-01T19:06:32.000Z</updated>
     <author>
       <name>Cecilia Immergreen Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126392:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EQhdClmT1cs/maxresdefault.jpg"/>
   </entry>
 
@@ -104,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:359832f3-074e-516e-9be4-ec58e25cde08</id>
+    <title><![CDATA[【告知歌枠】新しく覚えた曲 アリマス【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/khylVdhmRV0" rel="alternate" type="text/html"/>
+    <published>2025-04-30T11:09:07.000Z</published>
+    <updated>2025-04-30T09:31:42.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=khylVdhmRV0 【LIVE on &lt;t:1746005502:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khylVdhmRV0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
     <title><![CDATA[【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/YyAiLmldlr0" rel="alternate" type="text/html"/>
@@ -157,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=13rfK2lBKIQ 【LIVE on &lt;t:1746014531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/13rfK2lBKIQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:359832f3-074e-516e-9be4-ec58e25cde08</id>
-    <title><![CDATA[【告知歌枠】新しく覚えた曲　アリマス【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/khylVdhmRV0" rel="alternate" type="text/html"/>
-    <published>2025-04-29T15:01:50.000Z</published>
-    <updated>2025-04-30T09:31:42.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=khylVdhmRV0 【LIVE on &lt;t:1746005502:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khylVdhmRV0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1053,20 +1067,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Rd3Gu4pQURY 【LIVE on &lt;t:1744128039:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Rd3Gu4pQURY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:987b977e-17aa-50bb-80a6-7989d3542514</id>
-    <title><![CDATA[【歌 】歌いに来ちゃったボクだよ~ん!!!!【ホロライブ/ ロボ子さん】]]></title>
-    <link href="https://youtu.be/8ViH72o7muc" rel="alternate" type="text/html"/>
-    <published>2025-04-08T13:07:58.000Z</published>
-    <updated>2025-04-08T10:54:54.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8ViH72o7muc 【LIVE on &lt;t:1744109694:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8ViH72o7muc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
