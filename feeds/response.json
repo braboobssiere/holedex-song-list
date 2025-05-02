@@ -3,11 +3,11 @@
     "id": "TjfK-qXbseU",
     "title": "【UNARCHIVED】LET'S CELEBRATE HAKKAMAMA'S BIRTHDAY, LET'S SINGY SONGY ٩(ˊᗜˋ*)و ♡【KARAOKE】",
     "type": "stream",
-    "topic_id": "Birthday",
+    "topic_id": "singing",
     "published_at": "2025-05-01T20:47:57.000Z",
-    "available_at": "2025-05-02T00:15:00.000Z",
+    "available_at": "2025-05-02T00:17:38.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-01T18:53:48.000Z",
-    "available_at": "2025-05-02T01:00:00.000Z",
+    "available_at": "2025-05-02T00:55:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -133,6 +133,26 @@
     }
   },
   {
+    "id": "M98xc9291zg",
+    "title": "【歌枠/KARAOKE】アニソンたちが君を待っている!!!【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-30T15:47:54.000Z",
+    "available_at": "2025-04-30T13:01:50.000Z",
+    "duration": 9262,
+    "status": "past",
+    "songcount": 28,
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "13rfK2lBKIQ",
     "title": "【ASMR】月末定期ASMR2025.04 今月は全国民向け。【白上フブキ/ホロライブ】",
     "type": "stream",
@@ -198,6 +218,7 @@
     "available_at": "2025-05-01T09:50:16.000Z",
     "duration": 4192,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -285,25 +306,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "M98xc9291zg",
-    "title": "【歌枠/KARAOKE】アニソンたちが君を待っている！！！【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-29T23:56:03.000Z",
-    "available_at": "2025-04-30T13:01:50.000Z",
-    "duration": 9280,
-    "status": "past",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
@@ -2325,7 +2327,7 @@
       "org": "Hololive",
       "suborg": "kaIndonesia 1st Gen (AREA 15)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/9e7J_lAxCEZO6IRC_Sl3Gj-bt9uPvSXolU_vBpmqWABzv99oHxzbYhWWgvRI_c2qmB4jH0p_ZA=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Moona Hoshinova"
     }
   },
@@ -2619,29 +2621,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "S1hKca67n_w",
-    "title": "【#AnniversaRi5u】(NOT) UNARCHIVED KARAOKE !!!【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-10T17:35:26.000Z",
-    "available_at": "2025-04-10T14:57:43.000Z",
-    "duration": 8899,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 4
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
@@ -4832,6 +4811,25 @@
     "live_tl_count": {
       "en": 326
     },
+    "channel": {
+      "id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aki Rosenthal"
+    }
+  },
+  {
+    "id": "p9MLt51AVzE",
+    "title": "誕生日カウントダウンして一緒に迎えたい!【ホロライブ/アキ・ローゼンタール】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-16T15:40:09.000Z",
+    "available_at": "2025-02-16T14:33:29.000Z",
+    "duration": 3733,
+    "status": "past",
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
