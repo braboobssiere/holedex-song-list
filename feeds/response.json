@@ -1,5 +1,24 @@
 [
   {
+    "id": "pkjsfPzzg0A",
+    "title": "【歌枠】1週間お疲れさまでした!労いの歌枠【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-02T07:29:56.000Z",
+    "available_at": "2025-05-02T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
     "id": "ZhT7TYTGZDo",
     "title": "IT IS I (The poppet you've forgotten) - Original song by Octavio",
     "type": "stream",
@@ -584,6 +603,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2_ol1I583hpmgXyBIb2NeSWG26Tkrx2M22Y0KFNW4vYmWi2wk9BTaK2bU-4GMXWCbxvfrcUZcw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Obake PAM"
+    }
+  },
+  {
+    "id": "cSVfZtL8GyQ",
+    "title": "A Wonderland Tea Party【Happy Birthday 2025】#partyvella2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-04-26T18:49:48.000Z",
+    "available_at": "2025-05-03T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "name": "Shiori Novella Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiori Novella"
     }
   },
   {
@@ -2644,29 +2682,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Moona Hoshinova"
-    }
-  },
-  {
-    "id": "yoR1qrMKvrs",
-    "title": "【歌枠】告知&プチお披露目あり!久しぶりに歌を歌うんだ~~~~!【戌神ころね】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-11T13:24:56.000Z",
-    "available_at": "2025-04-11T12:00:43.000Z",
-    "duration": 4579,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 117
-    },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
@@ -4863,29 +4878,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "4JNyad4TTuY",
-    "title": "【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-15T13:03:35.000Z",
-    "available_at": "2025-02-15T11:59:53.000Z",
-    "duration": 3473,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "en": 9
-    },
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
     }
   },
   {
