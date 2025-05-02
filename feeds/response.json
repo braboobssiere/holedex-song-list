@@ -26,8 +26,8 @@
     "topic_id": "asmr",
     "published_at": "2025-05-02T01:06:37.000Z",
     "available_at": "2025-05-02T04:57:35.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5170,
+    "status": "past",
     "channel": {
       "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "name": "Raora Panthera Ch. hololive-EN",
@@ -310,6 +310,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5ORfvtCTg1dnyGVq9omlDYYSymrdiSqAAY-1IKH_U9V5o9mzfh7qTwO1qI_AtqOKTlIT_Em77ss=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hiodoshi Ao"
+    }
+  },
+  {
+    "id": "xb2pi8p9A8U",
+    "title": "【3D】ENigmatic Recollection - A New Chapter【#ENreco】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-04-30T07:32:07.000Z",
+    "available_at": "2025-05-03T00:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -5355,25 +5374,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "_PvPXz0UAdM",
-    "title": "【#ホロライブじゃんけん王】優勝者は100万円!新春運試しじゃんけん大会!【ホロライブ/兎田ぺこら】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-01-11T13:36:14.000Z",
-    "available_at": "2025-01-11T12:00:21.000Z",
-    "duration": 5380,
-    "status": "past",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
     }
   },
   {
