@@ -1,5 +1,25 @@
 [
   {
+    "id": "ZhT7TYTGZDo",
+    "title": "IT IS I (The poppet you've forgotten) - Original song by Octavio",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-02T02:00:36.000Z",
+    "available_at": "2025-05-02T02:00:36.000Z",
+    "duration": 61,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "TjfK-qXbseU",
     "title": "【UNARCHIVED】LET'S CELEBRATE HAKKAMAMA'S BIRTHDAY, LET'S SINGY SONGY ٩(ˊᗜˋ*)و ♡【KARAOKE】",
     "type": "stream",
@@ -8,6 +28,9 @@
     "available_at": "2025-05-02T00:17:38.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -27,6 +50,7 @@
     "available_at": "2025-05-02T00:55:15.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 7,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -101,8 +125,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-01T11:05:52.000Z",
     "available_at": "2025-05-01T22:56:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9414,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -278,6 +302,7 @@
     "available_at": "2025-05-01T12:58:22.000Z",
     "duration": 4442,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -1774,25 +1799,6 @@
     }
   },
   {
-    "id": "LBeu6CjcrS0",
-    "title": "【 #律可誕生日2025 】振り返り【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-16T13:57:07.000Z",
-    "available_at": "2025-04-16T12:01:46.000Z",
-    "duration": 5621,
-    "status": "past",
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
-    }
-  },
-  {
     "id": "PBeDtNHTK9Y",
     "title": "【#AREA15_anniver5ary】LIE or TRUTH game?! Apakah Risu, Moona dan Iofi saling mengenal satu sama lain?",
     "type": "stream",
@@ -3214,27 +3220,6 @@
     "published_at": "2025-04-02T15:02:49.000Z",
     "available_at": "2025-04-02T15:02:49.000Z",
     "duration": 252,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCha0EDJ2dLclUXA_d4KUQHg",
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "6VFtKOGP0PM",
-    "title": "薄明光線 (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-02T15:01:25.000Z",
-    "available_at": "2025-04-02T15:01:25.000Z",
-    "duration": 250,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCha0EDJ2dLclUXA_d4KUQHg",
@@ -4838,6 +4823,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
+    }
+  },
+  {
+    "id": "4JNyad4TTuY",
+    "title": "【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-15T13:03:35.000Z",
+    "available_at": "2025-02-15T11:59:53.000Z",
+    "duration": 3473,
+    "status": "past",
+    "songcount": 13,
+    "live_tl_count": {
+      "en": 9
+    },
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
     }
   },
   {

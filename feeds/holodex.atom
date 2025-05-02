@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-02T01:06:25.287Z</updated>
+  <updated>2025-05-02T02:06:25.653Z</updated>
 
   <entry>
     <id>urn:uuid:ad55c65b-9bf8-55fc-b085-7a30356e9477</id>
@@ -1210,20 +1210,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bea23005-7b57-5f7a-b3c4-2ffa86ff8947</id>
-    <title><![CDATA[薄明光線 (Instrumental)]]></title>
-    <link href="https://youtu.be/6VFtKOGP0PM" rel="alternate" type="text/html"/>
-    <published>2025-04-02T15:01:25.000Z</published>
-    <updated>2025-04-02T15:01:25.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6VFtKOGP0PM 【LIVE on &lt;t:1743606085:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6VFtKOGP0PM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:643acfd8-90de-5b51-9395-6c946f2c18c9</id>
     <title><![CDATA[【3DLIVE】3D新衣装も! #不知火フレア生誕祭2025 ゲストと一緒に盛り上がろう🎉【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/XcRns_s_wQ8" rel="alternate" type="text/html"/>
@@ -1571,6 +1557,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=etiR9Qnqlmc 【LIVE on &lt;t:1739793612:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/etiR9Qnqlmc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:badfacf3-3f5a-5186-9f11-2851e3661065</id>
+    <title><![CDATA[【Eclipse Breaker】Moona Birthday Live #EclipseBreaker3DLive]]></title>
+    <link href="https://youtu.be/4JNyad4TTuY" rel="alternate" type="text/html"/>
+    <published>2025-02-15T13:03:35.000Z</published>
+    <updated>2025-02-15T11:59:53.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4JNyad4TTuY 【LIVE on &lt;t:1739620793:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4JNyad4TTuY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
