@@ -4,7 +4,7 @@ name: Cleanup Short Runs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0/30 * * * *'
+    - cron: '10/30 * * * *'
 
 
 jobs:
