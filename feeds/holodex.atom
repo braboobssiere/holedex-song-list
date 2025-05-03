@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-02T23:06:20.125Z</updated>
+  <updated>2025-05-03T00:06:21.834Z</updated>
 
   <entry>
     <id>urn:uuid:2861df78-d677-5f42-a71f-69077116f61f</id>
@@ -48,6 +48,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:58d6a94e-2baa-5da0-9956-9be0daa84ffc</id>
+    <title><![CDATA[【 110万人突破へ 】定期歌枠「B'z」を歌うのら~🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/7omRNMI81us" rel="alternate" type="text/html"/>
+    <published>2025-05-01T14:56:13.000Z</published>
+    <updated>2025-05-01T11:59:39.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7omRNMI81us 【LIVE on &lt;t:1746100779:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7omRNMI81us/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:06543e14-e984-5930-b1a0-b73b005e0ae4</id>
+    <title><![CDATA[【歌枠】ご注文はおうたのじかんですか?【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/Y9UzZ5_pRP0" rel="alternate" type="text/html"/>
+    <published>2025-05-01T14:17:56.000Z</published>
+    <updated>2025-05-01T12:58:22.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y9UzZ5_pRP0 【LIVE on &lt;t:1746104302:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y9UzZ5_pRP0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:34cc9928-779b-5b0a-817c-d90753a97b7a</id>
     <title><![CDATA[【トロンボーン練習】何曲か吹けるように練習したい!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/IEC6NX2UWjA" rel="alternate" type="text/html"/>
@@ -87,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Aglj9Y7cO0g 【LIVE on &lt;t:1746140171:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Aglj9Y7cO0g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:58d6a94e-2baa-5da0-9956-9be0daa84ffc</id>
-    <title><![CDATA[【 110万人突破へ 】定期歌枠「B'z」を歌うのら～🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/7omRNMI81us" rel="alternate" type="text/html"/>
-    <published>2025-04-30T19:26:59.000Z</published>
-    <updated>2025-05-01T11:59:39.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7omRNMI81us 【LIVE on &lt;t:1746100779:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7omRNMI81us/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:06543e14-e984-5930-b1a0-b73b005e0ae4</id>
-    <title><![CDATA[【歌枠】ご注文はおうたのじかんですか？【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/Y9UzZ5_pRP0" rel="alternate" type="text/html"/>
-    <published>2025-04-30T03:54:40.000Z</published>
-    <updated>2025-05-01T12:58:22.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Y9UzZ5_pRP0 【LIVE on &lt;t:1746104302:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y9UzZ5_pRP0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -801,20 +801,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7cFJkGpXezI 【LIVE on &lt;t:1744443085:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7cFJkGpXezI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:61f3da0a-887e-5a08-84b6-937a282a7f93</id>
-    <title><![CDATA[【PANDORA】Countdown Album Release!!【#MoonaPANDORA】]]></title>
-    <link href="https://youtu.be/kqbhFkFxwPk" rel="alternate" type="text/html"/>
-    <published>2025-04-11T15:50:46.000Z</published>
-    <updated>2025-04-11T14:32:31.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kqbhFkFxwPk 【LIVE on &lt;t:1744381951:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kqbhFkFxwPk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
