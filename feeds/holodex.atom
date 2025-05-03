@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-03T05:06:21.123Z</updated>
+  <updated>2025-05-03T06:06:24.915Z</updated>
 
   <entry>
     <id>urn:uuid:88b11c27-a3e1-5eff-880d-98e61c100d3a</id>
@@ -34,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5a824a77-4ae6-5fd7-867d-821f4f14f431</id>
+    <title><![CDATA[【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED]]></title>
+    <link href="https://youtu.be/EQhdClmT1cs" rel="alternate" type="text/html"/>
+    <published>2025-05-01T20:52:22.000Z</published>
+    <updated>2025-05-01T19:06:32.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126392:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EQhdClmT1cs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ad55c65b-9bf8-55fc-b085-7a30356e9477</id>
     <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】anime song freedom + ANNOUNCEMENT ♪✨️ #FWMCbeats 【告知あり歌枠】]]></title>
     <link href="https://youtu.be/1yBUDi2Ew0M" rel="alternate" type="text/html"/>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1yBUDi2Ew0M 【LIVE on &lt;t:1746147315:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1yBUDi2Ew0M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5a824a77-4ae6-5fd7-867d-821f4f14f431</id>
-    <title><![CDATA[【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED]]></title>
-    <link href="https://youtu.be/EQhdClmT1cs" rel="alternate" type="text/html"/>
-    <published>2025-05-01T17:22:32.000Z</published>
-    <updated>2025-05-01T19:06:32.000Z</updated>
-    <author>
-      <name>Cecilia Immergreen Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126392:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EQhdClmT1cs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
