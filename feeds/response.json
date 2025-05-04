@@ -1,13 +1,32 @@
 [
   {
+    "id": "wn2DcixtE3w",
+    "title": "【 歌枠 】GW!✨おでかけでまったり聴きたい曲歌う!【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-04T14:00:02.000Z",
+    "available_at": "2025-05-04T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "GkrZIhp2h6s",
     "title": "【🎺 REBROADCAST UNARCHIVED KARAOKE 🎺】 A Night of Classics~ ✨ #Suitare #TEMPUSGala",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-04T12:13:54.000Z",
-    "available_at": "2025-05-04T14:00:00.000Z",
+    "available_at": "2025-05-04T14:00:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -62,7 +81,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-04T10:09:58.000Z",
-    "available_at": "2025-05-04T13:00:00.000Z",
+    "available_at": "2025-05-04T13:30:23.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -137,6 +156,26 @@
     }
   },
   {
+    "id": "4twjlRrIXNw",
+    "title": "【KARAOKE】Daddy's money?  nah.. Daddy's little devil🌹✨【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-03T05:02:39.000Z",
+    "available_at": "2025-05-03T03:30:56.000Z",
+    "duration": 4835,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "NkNuVfvP6SA",
     "title": "【KARAOKE】GET THOSE CHAMPAGNE TOWER READY MY KONEKO CHANNN😎😎😎【HOST THEMED】",
     "type": "stream",
@@ -154,26 +193,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "4twjlRrIXNw",
-    "title": "【KARAOKE】Daddy's money? nah.. Daddy's little devil🌹✨【ARCHIVED】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-03T03:18:51.000Z",
-    "available_at": "2025-05-03T03:30:56.000Z",
-    "duration": 4833,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
@@ -2589,25 +2608,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "ITiBgGYrm7w",
-    "title": "【UNARCHIVED】grems we vibe",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-12T09:25:20.000Z",
-    "available_at": "2025-04-12T21:01:10.000Z",
-    "duration": 9996,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
