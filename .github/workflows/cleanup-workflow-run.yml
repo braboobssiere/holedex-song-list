@@ -27,11 +27,11 @@ jobs:
           exit 1
         fi
 
-        # Filter and delete runs with duration < 600s
+        # Filter and delete runs with duration < 120s
         jq -r '
           .workflow_runs[] | 
           select(
-            ( (.updated_at | fromdateiso8601) - (.created_at | fromdateiso8601) ) < 120
+            ( (.updated_at | fromdateiso8601) - (.created_at | fromdateiso8601) ) < 600
           ) | .id
         ' runs.json | while read -r run_id; do
           echo "Deleting run $run_id"
