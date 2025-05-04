@@ -20,7 +20,7 @@
   },
   {
     "id": "wn2DcixtE3w",
-    "title": "【 歌枠 】GW!✨おでかけでまったり聴きたい曲歌う!【ホロライブ/赤井はあと】",
+    "title": "【 歌枠 】GW！✨おでかけでまったり聴きたい曲歌う！【ホロライブ/赤井はあと】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-04T14:00:02.000Z",
@@ -76,25 +76,6 @@
     }
   },
   {
-    "id": "H5ciKLfRfYQ",
-    "title": "【 #⁠音乃瀬奏生誕祭2025 】BANG!!!(cover)【音乃瀬奏】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-04T11:00:22.000Z",
-    "available_at": "2025-05-04T11:00:22.000Z",
-    "duration": 202,
-    "status": "past",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
     "id": "ppF3pl9m_uw",
     "title": "たんぽぽ/ 大神ミオ (official)",
     "type": "stream",
@@ -120,8 +101,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-04T10:09:58.000Z",
     "available_at": "2025-05-04T13:30:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9434,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -4909,6 +4890,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nPHRhyl-fq_XwruRR5btA8_lafZKoc86TZBBDx6XjiclwI1qU51ejBG_wwj69CdWKyDyDmLM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HIMEHINA"
+    }
+  },
+  {
+    "id": "etiR9Qnqlmc",
+    "title": "【 3DLIVE 】#アキロゼ生誕祭2025 ーYour True Colorsー【ホロライブ/アキ・ローゼンタール】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-17T13:22:54.000Z",
+    "available_at": "2025-02-17T12:00:12.000Z",
+    "duration": 4607,
+    "status": "past",
+    "songcount": 7,
+    "live_tl_count": {
+      "en": 326
+    },
+    "channel": {
+      "id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aki Rosenthal"
     }
   },
   {
