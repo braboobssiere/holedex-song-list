@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-04T18:06:45.353Z</updated>
+  <updated>2025-05-04T19:06:41.210Z</updated>
+
+  <entry>
+    <id>urn:uuid:517ba1e6-92cf-5e63-88dc-371b7642db04</id>
+    <title><![CDATA[たんぽぽ(Instrumental)]]></title>
+    <link href="https://youtu.be/irLx8oSidtk" rel="alternate" type="text/html"/>
+    <published>2025-05-04T15:02:53.000Z</published>
+    <updated>2025-05-04T15:02:53.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=irLx8oSidtk 【LIVE on &lt;t:1746370973:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/irLx8oSidtk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6cd35a29-d567-56b0-8ff7-61a04bff5b9a</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rceEPXHIBLM 【LIVE on &lt;t:1746374576:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rceEPXHIBLM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:df18c909-1af2-5f05-bb29-e1d08bdea168</id>
+    <title><![CDATA[たんぽぽ]]></title>
+    <link href="https://youtu.be/at0dWpW06lU" rel="alternate" type="text/html"/>
+    <published>2025-05-04T15:01:22.000Z</published>
+    <updated>2025-05-04T15:01:22.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=at0dWpW06lU 【LIVE on &lt;t:1746370882:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/at0dWpW06lU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,34 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=No1GLYZrIJ4 【LIVE on &lt;t:1743951632:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/No1GLYZrIJ4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5e671d41-eed0-5bec-add2-7b7bd7d804af</id>
-    <title><![CDATA[Juara Khatulistiwa - hololive ID [Original Song]]]></title>
-    <link href="https://youtu.be/u7oCq65-S5w" rel="alternate" type="text/html"/>
-    <published>2025-04-06T14:00:06.000Z</published>
-    <updated>2025-04-06T14:00:06.000Z</updated>
-    <author>
-      <name>hololive Indonesia</name>
-      <uri>https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=u7oCq65-S5w 【LIVE on &lt;t:1743948006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u7oCq65-S5w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2472f11e-0f67-51ab-a077-3f8f666c73bc</id>
-    <title><![CDATA[ガザニア / 猫又おかゆ ( official )]]></title>
-    <link href="https://youtu.be/n5CjrwnqIek" rel="alternate" type="text/html"/>
-    <published>2025-04-06T12:15:06.000Z</published>
-    <updated>2025-04-06T12:15:06.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=n5CjrwnqIek 【LIVE on &lt;t:1743941706:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/n5CjrwnqIek/maxresdefault.jpg"/>
   </entry>
 
   <entry>
