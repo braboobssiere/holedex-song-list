@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-04T10:06:42.159Z</updated>
+  <updated>2025-05-04T11:06:48.738Z</updated>
+
+  <entry>
+    <id>urn:uuid:dcc90c40-4821-50df-9167-35d26909c8ef</id>
+    <title><![CDATA[たんぽぽ/ 大神ミオ (official)]]></title>
+    <link href="https://youtu.be/ppF3pl9m_uw" rel="alternate" type="text/html"/>
+    <published>2025-05-04T10:10:06.000Z</published>
+    <updated>2025-05-04T10:10:06.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ppF3pl9m_uw 【LIVE on &lt;t:1746353406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ppF3pl9m_uw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:949934c1-ca6f-5931-86eb-93908dd62e9a</id>
@@ -1140,20 +1154,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1cefe4c3-2110-51fd-95ae-3ac1371402a8</id>
-    <title><![CDATA[【MV】Sepia feat. TOOBOE - Mori Calliope]]></title>
-    <link href="https://youtu.be/73_TiCJ-Wtc" rel="alternate" type="text/html"/>
-    <published>2025-04-05T04:03:16.000Z</published>
-    <updated>2025-04-05T04:03:16.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=73_TiCJ-Wtc 【LIVE on &lt;t:1743825796:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/73_TiCJ-Wtc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:6f354560-f7aa-5fbe-8027-623cd6112bb5</id>
     <title><![CDATA[【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream]]></title>
     <link href="https://youtu.be/NtzRhLagoJ0" rel="alternate" type="text/html"/>
@@ -1501,20 +1501,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=E1Qy0OttVcs 【LIVE on &lt;t:1740225314:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1Qy0OttVcs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a0bb2393-4b63-5b44-a46d-45d242fa5090</id>
-    <title><![CDATA[【 3DLIVE 】#アキロゼ生誕祭2025 ーYour True Colorsー【ホロライブ/アキ・ローゼンタール】]]></title>
-    <link href="https://youtu.be/etiR9Qnqlmc" rel="alternate" type="text/html"/>
-    <published>2025-02-17T13:22:54.000Z</published>
-    <updated>2025-02-17T12:00:12.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=etiR9Qnqlmc 【LIVE on &lt;t:1739793612:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/etiR9Qnqlmc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
