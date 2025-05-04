@@ -4,7 +4,7 @@ name: Cleanup Short Runs
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10/30 * * * *'
+    - cron: '47 15 * * *'
 
 
 jobs:
@@ -27,7 +27,7 @@ jobs:
           exit 1
         fi
 
-        # Filter and delete runs with duration < 120s
+        # Filter and delete runs with duration < 600s
         jq -r '
           .workflow_runs[] | 
           select(
