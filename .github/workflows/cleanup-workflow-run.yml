@@ -31,7 +31,7 @@ jobs:
         jq -r '
           .workflow_runs[] | 
           select(
-            ( (.updated_at | fromdateiso8601) - (.created_at | fromdateiso8601) ) < 600
+            ( (.updated_at | fromdateiso8601) - (.created_at | fromdateiso8601) ) < 120
           ) | .id
         ' runs.json | while read -r run_id; do
           echo "Deleting run $run_id"
