@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-05T08:06:45.449Z</updated>
+  <updated>2025-05-05T09:06:39.620Z</updated>
+
+  <entry>
+    <id>urn:uuid:0a139bc9-9df6-5132-9c7c-98f84e71e9c4</id>
+    <title><![CDATA[【歌枠】こどもの日!!!!!!!!!!!【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/DdzPR8WX27E" rel="alternate" type="text/html"/>
+    <published>2025-05-05T08:20:14.000Z</published>
+    <updated>2025-05-05T09:01:44.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DdzPR8WX27E 【LIVE on &lt;t:1746435704:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DdzPR8WX27E/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5e187a7e-f60d-51b0-8c8b-027981bc7188</id>
@@ -829,20 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LH8XZVUaOcQ 【LIVE on &lt;t:1744621287:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH8XZVUaOcQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ef5695c9-732b-53ba-865a-e398f5b1b1cf</id>
-    <title><![CDATA[【耐久歌枠】もうすぐ156万人!?突破まで全力で歌うぞおおおおお!❤️‍🔥【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/8P7vNMI944Q" rel="alternate" type="text/html"/>
-    <published>2025-04-13T19:51:44.000Z</published>
-    <updated>2025-04-13T15:03:16.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8P7vNMI944Q 【LIVE on &lt;t:1744556596:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8P7vNMI944Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
