@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-06T00:06:36.707Z</updated>
+  <updated>2025-05-06T01:06:38.079Z</updated>
 
   <entry>
     <id>urn:uuid:0a139bc9-9df6-5132-9c7c-98f84e71e9c4</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X4-FNbcsuHY 【LIVE on &lt;t:1746446520:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X4-FNbcsuHY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:40fa3764-0479-560f-8f66-6a0dda3c0db3</id>
+    <title><![CDATA[【 歌枠 】GW!✨おでかけでまったり聴きたい曲歌う!【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/wn2DcixtE3w" rel="alternate" type="text/html"/>
+    <published>2025-05-04T16:08:18.000Z</published>
+    <updated>2025-05-04T15:02:26.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wn2DcixtE3w 【LIVE on &lt;t:1746370946:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wn2DcixtE3w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -73,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=at0dWpW06lU 【LIVE on &lt;t:1746370882:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/at0dWpW06lU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:40fa3764-0479-560f-8f66-6a0dda3c0db3</id>
-    <title><![CDATA[【 歌枠 】GW！✨おでかけでまったり聴きたい曲歌う！【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/wn2DcixtE3w" rel="alternate" type="text/html"/>
-    <published>2025-05-04T14:00:02.000Z</published>
-    <updated>2025-05-04T15:02:26.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wn2DcixtE3w 【LIVE on &lt;t:1746370946:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wn2DcixtE3w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
