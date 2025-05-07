@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-07T18:06:41.438Z</updated>
+  <updated>2025-05-07T19:06:42.109Z</updated>
+
+  <entry>
+    <id>urn:uuid:0ce90a57-850f-5ad4-9a11-bfe4477c54d1</id>
+    <title><![CDATA[【縦型歌枠】GW最終日💛リオナの歌聴いてってください✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/6jg7_m_J2A8" rel="alternate" type="text/html"/>
+    <published>2025-05-06T09:19:18.000Z</published>
+    <updated>2025-05-06T06:30:12.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6jg7_m_J2A8 【LIVE on &lt;t:1746513012:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6jg7_m_J2A8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5e187a7e-f60d-51b0-8c8b-027981bc7188</id>
@@ -1137,20 +1151,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YRySeGZNzQ0 【LIVE on &lt;t:1743821828:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YRySeGZNzQ0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0ce90a57-850f-5ad4-9a11-bfe4477c54d1</id>
-    <title><![CDATA[【縦型歌枠】GW最終日💛リオナの歌聴いてってください✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/6jg7_m_J2A8" rel="alternate" type="text/html"/>
-    <published>2025-04-04T17:06:37.000Z</published>
-    <updated>2025-05-06T06:30:12.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6jg7_m_J2A8 【LIVE on &lt;t:1746513012:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6jg7_m_J2A8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
