@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-10T22:06:36.420Z</updated>
+  <updated>2025-05-10T23:06:35.439Z</updated>
+
+  <entry>
+    <id>urn:uuid:69d54c6c-a934-5812-b5f3-d6a3bcd49366</id>
+    <title><![CDATA[Oh Princess - Lyric Video [CECILIA IMMERGREEN]]]></title>
+    <link href="https://youtu.be/5x9ix5CGmoo" rel="alternate" type="text/html"/>
+    <published>2025-05-10T23:00:06.000Z</published>
+    <updated>2025-05-10T23:00:06.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5x9ix5CGmoo 【LIVE on &lt;t:1746918006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5x9ix5CGmoo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:10fe7807-b99c-5242-92d2-16a8db25795e</id>
@@ -1095,20 +1109,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=y6-f_u9XpqQ 【LIVE on &lt;t:1743951677:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/y6-f_u9XpqQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d27fe1c4-124a-5781-b3c4-b2af767595e7</id>
-    <title><![CDATA[ガザニア(Instrumental)]]></title>
-    <link href="https://youtu.be/qd95T-mq5VA" rel="alternate" type="text/html"/>
-    <published>2025-04-06T15:01:13.000Z</published>
-    <updated>2025-04-06T15:01:13.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qd95T-mq5VA 【LIVE on &lt;t:1743951673:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qd95T-mq5VA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
