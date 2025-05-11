@@ -6,10 +6,10 @@
     "topic_id": "singing",
     "published_at": "2025-05-11T14:03:48.000Z",
     "available_at": "2025-05-11T14:06:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4365,
+    "status": "past",
     "live_tl_count": {
-      "en": 18
+      "en": 25
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -23,13 +23,13 @@
   },
   {
     "id": "YGj_4Igj4AE",
-    "title": "【#一条莉々華生誕祭2025】あっという間に2回目の誕生日を迎えるらしい…!!カウントダウン雑談【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "title": "【＃一条莉々華生誕祭2025】あっという間に２回目の誕生日を迎えるらしい…！！カウントダウン雑談【一条莉々華/hololive DEV_IS　ReGLOSS】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-11T10:57:57.000Z",
     "available_at": "2025-05-11T14:00:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5439,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -251,6 +251,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "HB8sU0qsePE",
+    "title": "【#一条莉々華生誕祭2025】初の生誕ライブ開幕!!一条莉々華生誕祭ライブ2025【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-08T09:59:44.000Z",
+    "available_at": "2025-05-12T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -4857,25 +4876,6 @@
     "published_at": "2025-02-25T12:20:19.000Z",
     "available_at": "2025-02-25T10:58:09.000Z",
     "duration": 4004,
-    "status": "past",
-    "channel": {
-      "id": "UChSvpZYRPh0FvG4SJGSga3g",
-      "name": "Shien Ch.影山シエン",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kageyama Shien"
-    }
-  },
-  {
-    "id": "7glW0WYbx3g",
-    "title": "【#影山シエン生誕祭2025】5回目の誕生日を迎えようとしているワイ【影山シエン/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-24T16:25:53.000Z",
-    "available_at": "2025-02-24T14:30:49.000Z",
-    "duration": 6087,
     "status": "past",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
