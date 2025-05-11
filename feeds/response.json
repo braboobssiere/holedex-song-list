@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-11T14:03:48.000Z",
-    "available_at": "2025-05-11T14:05:00.000Z",
+    "available_at": "2025-05-11T14:06:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 18
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -16,28 +19,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "Iv3ZUdlrpcw",
-    "title": "【誕生日に向けて】データ整理が終わりません。作業しながらお話します。【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-11T12:48:19.000Z",
-    "available_at": "2025-05-11T13:29:46.000Z",
-    "duration": 0,
-    "status": "live",
-    "live_tl_count": {
-      "en": 51
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -4876,6 +4857,25 @@
     "published_at": "2025-02-25T12:20:19.000Z",
     "available_at": "2025-02-25T10:58:09.000Z",
     "duration": 4004,
+    "status": "past",
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
+    }
+  },
+  {
+    "id": "7glW0WYbx3g",
+    "title": "【#影山シエン生誕祭2025】5回目の誕生日を迎えようとしているワイ【影山シエン/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-02-24T16:25:53.000Z",
+    "available_at": "2025-02-24T14:30:49.000Z",
+    "duration": 6087,
     "status": "past",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
