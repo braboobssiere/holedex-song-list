@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-11T18:06:41.122Z</updated>
+  <updated>2025-05-11T19:06:36.362Z</updated>
 
   <entry>
     <id>urn:uuid:a47f914e-277a-5f39-b0be-edbb6e497423</id>
@@ -871,6 +871,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=twUFbqyul_M 【LIVE on &lt;t:1745109944:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/twUFbqyul_M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7ac194ea-6b87-55f9-8e17-5c9e0fface73</id>
+    <title><![CDATA[【歌枠】うたいます。【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/xfXtgC75wJY" rel="alternate" type="text/html"/>
+    <published>2025-04-17T15:03:43.000Z</published>
+    <updated>2025-04-17T15:03:43.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xfXtgC75wJY 【LIVE on &lt;t:1747018800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xfXtgC75wJY/maxresdefault.jpg"/>
   </entry>
 
   <entry>

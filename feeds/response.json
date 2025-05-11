@@ -1781,25 +1781,6 @@
     }
   },
   {
-    "id": "XlX5-iaExJg",
-    "title": "[UNARCHIVED KARAOKE] Ghost ONLY Karaoke",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-23T20:56:19.000Z",
-    "available_at": "2025-04-23T23:00:19.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
-    }
-  },
-  {
     "id": "cvsnofS1T64",
     "title": "夜に咲く",
     "type": "stream",
@@ -2437,6 +2418,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "xfXtgC75wJY",
+    "title": "【歌枠】うたいます。【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-04-17T15:03:43.000Z",
+    "available_at": "2025-05-12T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
