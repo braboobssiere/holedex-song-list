@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-10T23:39:11.000Z",
-    "available_at": "2025-05-11T09:00:00.000Z",
+    "available_at": "2025-05-11T08:57:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -55,6 +55,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
+    "id": "poPa_tyw3jo",
+    "title": "【RAORATHON】🎂 IT'S MY BIRTHDAY!!! 🎂 #RAORABDAY2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-10T17:05:12.000Z",
+    "available_at": "2025-05-12T02:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "name": "Raora Panthera Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Raora Panthera"
     }
   },
   {
@@ -4867,26 +4886,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "E1Qy0OttVcs",
-    "title": "【 3D LIVE 】ゲスト盛りだくさん!重大告知アリアリ🎂😸【 #⁠猫又おかゆ生誕祭2025 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-22T13:12:57.000Z",
-    "available_at": "2025-02-22T11:55:14.000Z",
-    "duration": 4172,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
