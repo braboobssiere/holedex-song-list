@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-11T05:06:44.668Z</updated>
+  <updated>2025-05-11T06:06:38.845Z</updated>
 
   <entry>
     <id>urn:uuid:feaa7c09-6ba9-5091-9398-64a11fa06254</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JbNrQRKbdA8 【LIVE on &lt;t:1746865991:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JbNrQRKbdA8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:77acf31d-de5d-576b-92c3-f2867c25c81e</id>
+    <title><![CDATA[【RAORATHON】KARAOKE + ANNOUNCEMENT! - Part 1 #RAORABDAY2025]]></title>
+    <link href="https://youtu.be/LW11EkOfFIw" rel="alternate" type="text/html"/>
+    <published>2025-05-09T09:14:13.000Z</published>
+    <updated>2025-05-09T09:14:13.000Z</updated>
+    <author>
+      <name>Raora Panthera Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LW11EkOfFIw 【LIVE on &lt;t:1747008000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LW11EkOfFIw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
