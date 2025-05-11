@@ -1,13 +1,35 @@
 [
   {
+    "id": "YVjpNjCMm1g",
+    "title": "【歌 】2秒で終わってすみません LOST SONG TIME【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-11T14:03:48.000Z",
+    "available_at": "2025-05-11T14:05:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "Iv3ZUdlrpcw",
     "title": "【誕生日に向けて】データ整理が終わりません。作業しながらお話します。【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-11T12:48:19.000Z",
-    "available_at": "2025-05-11T13:30:00.000Z",
+    "available_at": "2025-05-11T13:29:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 51
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -24,9 +46,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-11T10:57:57.000Z",
-    "available_at": "2025-05-11T14:00:00.000Z",
+    "available_at": "2025-05-11T14:00:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -43,9 +65,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-11T09:54:42.000Z",
-    "available_at": "2025-05-11T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-05-11T14:02:29.000Z",
+    "duration": 2,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -1774,25 +1796,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gavis Bettel"
-    }
-  },
-  {
-    "id": "hJVZp_cTZb8",
-    "title": "Unarchived Karaoke 30 Min Test",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-23T16:47:25.000Z",
-    "available_at": "2025-04-23T16:49:37.000Z",
-    "duration": 5077,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
