@@ -1,5 +1,43 @@
 [
   {
+    "id": "4tz-QDdpmVU",
+    "title": "【歌枠/KARAOKE】げんきちゃーーーーーじ!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-12T07:32:56.000Z",
+    "available_at": "2025-05-12T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "dmR4g92tPMo",
+    "title": "【UNARCHIVED KARAOKE】YAY SINGING !!!【Ayunda Risu】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-12T07:08:21.000Z",
+    "available_at": "2025-05-12T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
     "id": "YVjpNjCMm1g",
     "title": "【歌 】2秒で終わってすみません LOST SONG TIME【ホロライブ/ ロボ子さん】",
     "type": "stream",
@@ -107,7 +145,7 @@
     "published_at": "2025-05-10T19:17:48.000Z",
     "available_at": "2025-05-10T20:45:32.000Z",
     "duration": 8213,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -1538,26 +1576,6 @@
     }
   },
   {
-    "id": "mDXifT2rICk",
-    "title": "【歌枠】一週間の終わりに虎の歌、、ええやん【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-25T12:11:35.000Z",
-    "available_at": "2025-04-25T08:01:25.000Z",
-    "duration": 14145,
-    "status": "past",
-    "songcount": 47,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "1OSCNdXa2Zs",
     "title": "【BIRTHDAY KARAOKE】SEVEN! #04 (EIGHT EDITION) + SPECIAL ANNOUNCEMENT ~! 💄#ERBday2025",
     "type": "stream",
@@ -1734,29 +1752,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gawr Gura"
-    }
-  },
-  {
-    "id": "0sRo1EodKWw",
-    "title": "【UNARCHIVED KARAOKE】MEME SONG ON THE LIST【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-24T10:52:39.000Z",
-    "available_at": "2025-04-24T12:58:51.000Z",
-    "duration": 8918,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 19,
-      "ja": 7
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
