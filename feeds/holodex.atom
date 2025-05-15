@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-15T17:06:34.896Z</updated>
+  <updated>2025-05-15T18:06:37.413Z</updated>
 
   <entry>
     <id>urn:uuid:36f65a64-87c3-563e-9194-c522bfb86fa4</id>
@@ -300,20 +300,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:51802e3c-8eae-5e17-a88c-7f198f939111</id>
-    <title><![CDATA[【歌 】LOST SONG TIME【ホロライブ/ ロボ子さん】]]></title>
-    <link href="https://youtu.be/i6jczPBizPY" rel="alternate" type="text/html"/>
-    <published>2025-05-11T09:54:42.000Z</published>
-    <updated>2025-05-11T14:02:29.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=i6jczPBizPY 【LIVE on &lt;t:1746972149:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i6jczPBizPY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:69d54c6c-a934-5812-b5f3-d6a3bcd49366</id>
     <title><![CDATA[Oh Princess - Lyric Video [CECILIA IMMERGREEN]]]></title>
     <link href="https://youtu.be/5x9ix5CGmoo" rel="alternate" type="text/html"/>
@@ -353,6 +339,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JbNrQRKbdA8 【LIVE on &lt;t:1746865991:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JbNrQRKbdA8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9249c53b-e1a1-548f-9e11-1b156976e698</id>
+    <title><![CDATA[???]]></title>
+    <link href="https://youtu.be/54TvG--sg8c" rel="alternate" type="text/html"/>
+    <published>2025-05-09T05:19:04.000Z</published>
+    <updated>2025-05-09T05:19:04.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=54TvG--sg8c 【LIVE on &lt;t:1747396800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/54TvG--sg8c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,20 +1109,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KiC1XEy-WbI 【LIVE on &lt;t:1744383767:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KiC1XEy-WbI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b7d3c783-ae88-5c32-9501-53d4cfdac006</id>
-    <title><![CDATA[100%]]></title>
-    <link href="https://youtu.be/ojppMrhww8M" rel="alternate" type="text/html"/>
-    <published>2025-04-11T15:02:33.000Z</published>
-    <updated>2025-04-11T15:02:33.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ojppMrhww8M 【LIVE on &lt;t:1744383753:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ojppMrhww8M/maxresdefault.jpg"/>
   </entry>
 
   <entry>

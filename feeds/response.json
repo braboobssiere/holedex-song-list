@@ -598,7 +598,7 @@
     "published_at": "2025-05-11T09:54:42.000Z",
     "available_at": "2025-05-11T14:02:29.000Z",
     "duration": 2,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -724,6 +724,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
+    }
+  },
+  {
+    "id": "54TvG--sg8c",
+    "title": "???",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-09T05:19:04.000Z",
+    "available_at": "2025-05-16T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -3107,27 +3126,6 @@
     "published_at": "2025-04-11T15:02:47.000Z",
     "available_at": "2025-04-11T15:02:47.000Z",
     "duration": 187,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
-    }
-  },
-  {
-    "id": "ojppMrhww8M",
-    "title": "100%",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-11T15:02:33.000Z",
-    "available_at": "2025-04-11T15:02:33.000Z",
-    "duration": 247,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
