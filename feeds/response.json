@@ -1,5 +1,24 @@
 [
   {
+    "id": "NBCHRO_n8s8",
+    "title": "【オリジナル楽曲】ときのそら「Swallow Tail」【Official Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-15T12:10:06.000Z",
+    "available_at": "2025-05-15T12:10:06.000Z",
+    "duration": 231,
+    "status": "past",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "c0ZSpa8xl3o",
     "title": "【歌枠】第124回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -7,7 +26,7 @@
     "published_at": "2025-05-14T19:06:12.000Z",
     "available_at": "2025-05-15T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -66,6 +85,9 @@
     "available_at": "2025-05-15T12:00:40.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -785,15 +807,15 @@
   },
   {
     "id": "IZDRnl38gvY",
-    "title": "【#ときのそらお披露目誕生日2025】うれしい告知あり!ゲストあり!理想のライブはここにある【ホロライブ/ときのそら】",
+    "title": "【#ときのそらお披露目誕生日2025】うれしい告知あり！ゲストあり！理想のライブはここにある【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-05T11:05:39.000Z",
     "available_at": "2025-05-15T10:55:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4774,
+    "status": "past",
     "live_tl_count": {
-      "en": 172
+      "en": 208
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -3110,27 +3132,6 @@
     "published_at": "2025-04-11T15:02:33.000Z",
     "available_at": "2025-04-11T15:02:33.000Z",
     "duration": 247,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
-    }
-  },
-  {
-    "id": "7Omkk-MSxcc",
-    "title": "Charade",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-11T15:02:32.000Z",
-    "available_at": "2025-04-11T15:02:32.000Z",
-    "duration": 261,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCp7qDg6MkpR2DlnTf6JOeWA",

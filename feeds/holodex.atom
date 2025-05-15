@@ -3,14 +3,28 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-15T12:06:42.066Z</updated>
+  <updated>2025-05-15T13:06:40.837Z</updated>
+
+  <entry>
+    <id>urn:uuid:568b51f9-558a-54a5-bc6b-b74a42b10c45</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「Swallow Tail」【Official Music Video】]]></title>
+    <link href="https://youtu.be/NBCHRO_n8s8" rel="alternate" type="text/html"/>
+    <published>2025-05-15T12:10:06.000Z</published>
+    <updated>2025-05-15T12:10:06.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NBCHRO_n8s8 【LIVE on &lt;t:1747311006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NBCHRO_n8s8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:41ac561a-6015-5674-9a38-45e0d0c5036f</id>
     <title><![CDATA[【歌枠】第124回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/c0ZSpa8xl3o" rel="alternate" type="text/html"/>
     <published>2025-05-14T19:06:12.000Z</published>
-    <updated>2025-05-14T19:06:12.000Z</updated>
+    <updated>2025-05-15T13:00:00.000Z</updated>
     <author>
       <name>Watame Ch. 角巻わため</name>
       <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ojppMrhww8M 【LIVE on &lt;t:1744383753:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ojppMrhww8M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7e20a101-7ff1-50ad-b0e3-2238b4d83b79</id>
-    <title><![CDATA[Charade]]></title>
-    <link href="https://youtu.be/7Omkk-MSxcc" rel="alternate" type="text/html"/>
-    <published>2025-04-11T15:02:32.000Z</published>
-    <updated>2025-04-11T15:02:32.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7Omkk-MSxcc 【LIVE on &lt;t:1744383752:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7Omkk-MSxcc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
