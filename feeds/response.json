@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-14T11:35:02.000Z",
-    "available_at": "2025-05-15T12:00:00.000Z",
+    "available_at": "2025-05-15T12:00:40.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -792,6 +792,9 @@
     "available_at": "2025-05-15T10:55:03.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 172
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
