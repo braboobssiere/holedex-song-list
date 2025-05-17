@@ -1,5 +1,24 @@
 [
   {
+    "id": "0aG7yIo8pzk",
+    "title": "【sing】まったりゆったり歌っていこう!!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-17T05:24:39.000Z",
+    "available_at": "2025-05-17T06:02:24.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "ykuVlT8Yi4g",
     "title": "【MV】Die For You - Mori Calliope",
     "type": "stream",
@@ -47,8 +66,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-05-17T03:12:06.000Z",
     "available_at": "2025-05-17T03:14:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9946,
+    "status": "past",
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
       "name": "Machina X Flayon Ch. HOLOSTARS-EN",
@@ -1948,26 +1967,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
-    }
-  },
-  {
-    "id": "lz7ImEXeHW8",
-    "title": "【雑談/歌】すこしのざつだんとうた【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-27T16:25:20.000Z",
-    "available_at": "2025-04-27T14:00:09.000Z",
-    "duration": 6826,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
