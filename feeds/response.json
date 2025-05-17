@@ -6,8 +6,8 @@
     "topic_id": "Original_Song",
     "published_at": "2025-05-17T04:00:07.000Z",
     "available_at": "2025-05-17T04:00:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 251,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -95,6 +95,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "Imo-SQhQrGA",
+    "title": "[BIRTHDAY STREAM] BETTEL WHO? FINDING A NEW BROTHER",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-16T03:59:44.000Z",
+    "available_at": "2025-05-17T23:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
     }
   },
   {
@@ -4870,26 +4889,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
-    }
-  },
-  {
-    "id": "viPlIHvk724",
-    "title": "≪-KAGURA- Dance of the Gods 3D LIVE≫ Hakos Baelz Birthday 2025 + ANNOUNCEMENTS! #BaeDDay2025",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-02-28T13:05:24.000Z",
-    "available_at": "2025-02-28T12:00:17.000Z",
-    "duration": 3618,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
