@@ -45,8 +45,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-17T12:41:12.000Z",
     "available_at": "2025-05-17T20:06:28.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7177,
+    "status": "past",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -142,6 +142,26 @@
     }
   },
   {
+    "id": "6BNkVBVNbKY",
+    "title": "【#飯田ぽち3D】ゲスト&重大告知あり! 奥行きを獲得した漫画家の3Dお披露目 【飯田ぽち。Iida Pochi.】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-16T12:57:38.000Z",
+    "available_at": "2025-05-16T11:56:06.000Z",
+    "duration": 3240,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
+      "name": "飯田ぽち。【Iida Pochi.】",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Iida Pochi"
+    }
+  },
+  {
     "id": "dkr7TA6gWHE",
     "title": "【ときのそらお披露目誕生日2025】感想会～〇〇のお披露目も！！～【ホロライブ/ときのそら】",
     "type": "stream",
@@ -166,9 +186,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-16T03:59:44.000Z",
-    "available_at": "2025-05-17T23:00:00.000Z",
+    "available_at": "2025-05-17T23:00:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -690,26 +710,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "6BNkVBVNbKY",
-    "title": "【#飯田ぽち3D】ゲスト＆重大告知あり! 奥行きを獲得した漫画家の３Dお披露目　【飯田ぽち。Iida Pochi.】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-12T07:40:41.000Z",
-    "available_at": "2025-05-16T11:56:06.000Z",
-    "duration": 3225,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
-      "name": "飯田ぽち。【Iida Pochi.】",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Iida Pochi"
     }
   },
   {
