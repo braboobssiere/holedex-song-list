@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-18T06:06:33.042Z</updated>
+  <updated>2025-05-18T07:06:36.780Z</updated>
+
+  <entry>
+    <id>urn:uuid:6bec1aa0-a0f9-5481-bbe1-d6d3f80e2845</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】Jet Lagged chill sing song ~! 💄]]></title>
+    <link href="https://youtu.be/I4EkxkO4GI4" rel="alternate" type="text/html"/>
+    <published>2025-05-18T07:03:39.000Z</published>
+    <updated>2025-05-18T07:03:39.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=I4EkxkO4GI4 【LIVE on &lt;t:1747552500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/I4EkxkO4GI4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6c337a13-dcb4-5b72-a743-9d42a412745e</id>
@@ -24,12 +38,12 @@
     <title><![CDATA[【ボカロ歌枠】ボカロ曲縛り!喉飛ばしていきます!【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/g-v-rZojvVw" rel="alternate" type="text/html"/>
     <published>2025-05-17T18:24:46.000Z</published>
-    <updated>2025-05-17T18:24:46.000Z</updated>
+    <updated>2025-05-18T06:45:59.000Z</updated>
     <author>
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=g-v-rZojvVw 【LIVE on &lt;t:1747550700:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g-v-rZojvVw 【LIVE on &lt;t:1747550759:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g-v-rZojvVw/maxresdefault.jpg"/>
   </entry>
 
@@ -787,20 +801,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ae566da7-a288-5dd8-89d3-aee9d0a5d63a</id>
-    <title><![CDATA[【告知歌枠】告知がある...2つ!!!!!もちろん良い方のヤツ【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/BpQcZ871C5o" rel="alternate" type="text/html"/>
-    <published>2025-04-29T11:19:54.000Z</published>
-    <updated>2025-04-29T10:01:11.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BpQcZ871C5o 【LIVE on &lt;t:1745920871:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BpQcZ871C5o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
