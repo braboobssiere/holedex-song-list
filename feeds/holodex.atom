@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-18T20:06:39.946Z</updated>
+  <updated>2025-05-18T21:06:31.845Z</updated>
 
   <entry>
     <id>urn:uuid:05c0b2d8-c669-5fb2-a163-0baafd27ebe8</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ea3b0c65-8606-5476-9551-63bbcf5e3583</id>
+    <title><![CDATA[【耐久歌枠】130万人達成するまで歌います!JOYSOUNDでね!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/0R2-YKXDo9I" rel="alternate" type="text/html"/>
+    <published>2025-05-17T11:06:20.000Z</published>
+    <updated>2025-05-17T08:59:36.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0R2-YKXDo9I 【LIVE on &lt;t:1747472376:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0R2-YKXDo9I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:5e66622c-c69d-567b-994f-6d4dcd41337d</id>
     <title><![CDATA[【sing】まったりゆったり歌っていこう!!【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/0aG7yIo8pzk" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-n3_Z4mNlQs 【LIVE on &lt;t:1747454400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-n3_Z4mNlQs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ea3b0c65-8606-5476-9551-63bbcf5e3583</id>
-    <title><![CDATA[【耐久歌枠】１３０万人達成するまで歌います！JOYSOUNDでね！【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/0R2-YKXDo9I" rel="alternate" type="text/html"/>
-    <published>2025-05-16T13:13:38.000Z</published>
-    <updated>2025-05-17T08:59:36.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0R2-YKXDo9I 【LIVE on &lt;t:1747472376:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0R2-YKXDo9I/maxresdefault.jpg"/>
   </entry>
 
   <entry>

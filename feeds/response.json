@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-18T17:46:26.000Z",
-    "available_at": "2025-05-18T21:00:00.000Z",
+    "available_at": "2025-05-18T21:00:54.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -154,6 +154,26 @@
     }
   },
   {
+    "id": "0R2-YKXDo9I",
+    "title": "【耐久歌枠】130万人達成するまで歌います!JOYSOUNDでね!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-17T11:06:20.000Z",
+    "available_at": "2025-05-17T08:59:36.000Z",
+    "duration": 6982,
+    "status": "past",
+    "songcount": 14,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "0aG7yIo8pzk",
     "title": "【sing】まったりゆったり歌っていこう!!【ホロライブ/ときのそら】",
     "type": "stream",
@@ -253,26 +273,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "0R2-YKXDo9I",
-    "title": "【耐久歌枠】１３０万人達成するまで歌います！JOYSOUNDでね！【 ホロライブ / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-16T13:13:38.000Z",
-    "available_at": "2025-05-17T08:59:36.000Z",
-    "duration": 7009,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
