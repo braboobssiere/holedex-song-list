@@ -1,13 +1,32 @@
 [
   {
+    "id": "R0NmDjSA4pA",
+    "title": "【CHAT】IT'S MY BIRTHDAY!!!! (in JST)",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-19T13:39:29.000Z",
+    "available_at": "2025-05-20T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ninomae Ina'nis"
+    }
+  },
+  {
     "id": "DFQ8Kr_ek4Q",
-    "title": "歌枠ゲリラ~!ゆったり歌っていくマン【轟はじめ】",
+    "title": "歌枠ゲリラ～！ゆったり歌っていくマン【轟はじめ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-19T11:59:07.000Z",
     "available_at": "2025-05-19T11:59:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4937,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -4832,25 +4851,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "JPLRMKT2vQc",
-    "title": "【 #桃鈴ねね生誕祭2025 】今年もカウントダウンしていくぞ~~!【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-03-01T17:20:38.000Z",
-    "available_at": "2025-03-01T14:00:12.000Z",
-    "duration": 11222,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
