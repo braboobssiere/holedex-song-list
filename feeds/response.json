@@ -1,5 +1,24 @@
 [
   {
+    "id": "EEsAEtwtL50",
+    "title": "【歌枠】月曜日だし、歌うか。【花咲みやび/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-19T05:30:29.000Z",
+    "available_at": "2025-05-19T07:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+      "name": "Miyabi Ch. 花咲みやび",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hanasaki Miyabi"
+    }
+  },
+  {
     "id": "0Glen-mLDRw",
     "title": "[SPECIAL ZATSU] BETTEL BIRTHDAY AFTERMATH w/ Bettel 2",
     "type": "stream",
@@ -25,9 +44,12 @@
     "topic_id": "singing",
     "published_at": "2025-05-18T17:29:41.000Z",
     "available_at": "2025-05-19T04:00:56.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 8,
+    "duration": 6442,
+    "status": "past",
+    "songcount": 13,
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -2011,25 +2033,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "daPr7J9OQDU",
-    "title": "【UNARCHIVED KARAOKE】the last one!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-04-29T20:13:16.000Z",
-    "available_at": "2025-04-30T00:04:42.000Z",
-    "duration": 7717,
-    "status": "missing",
-    "channel": {
-      "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "name": "Gawr Gura Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gawr Gura"
     }
   },
   {
