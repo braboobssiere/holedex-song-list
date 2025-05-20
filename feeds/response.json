@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-19T13:39:29.000Z",
-    "available_at": "2025-05-20T01:00:00.000Z",
+    "available_at": "2025-05-20T01:01:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -27,6 +27,7 @@
     "available_at": "2025-05-19T11:59:31.000Z",
     "duration": 4937,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -138,6 +139,25 @@
     }
   },
   {
+    "id": "Q-FRQRsAR6Q",
+    "title": "【ASMR】憂鬱な気持ちを吹き飛ばす♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-05-18T15:20:00.000Z",
+    "available_at": "2025-05-18T13:59:25.000Z",
+    "duration": 4453,
+    "status": "past",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "XumdmlMV7sU",
     "title": "絡みがほぼない人々に電話かける!!!!! #しぐれうい6周年",
     "type": "stream",
@@ -232,25 +252,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gavis Bettel"
-    }
-  },
-  {
-    "id": "Q-FRQRsAR6Q",
-    "title": "【ASMR】憂鬱な気持ちを吹き飛ばす♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-05-18T02:27:42.000Z",
-    "available_at": "2025-05-18T13:59:25.000Z",
-    "duration": 4453,
-    "status": "past",
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {
