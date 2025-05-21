@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-21T12:06:37.435Z</updated>
+  <updated>2025-05-21T13:06:40.659Z</updated>
+
+  <entry>
+    <id>urn:uuid:6c5c1529-0029-513d-bd08-d45f3d1c1662</id>
+    <title><![CDATA[【歌】ゲリラ!もう少しでライブだしうたっちゃお~~~!!!【ホロライブ/ ロボ子さん】]]></title>
+    <link href="https://youtu.be/QP6Az9ad6NM" rel="alternate" type="text/html"/>
+    <published>2025-05-21T12:13:25.000Z</published>
+    <updated>2025-05-21T12:29:18.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QP6Az9ad6NM 【LIVE on &lt;t:1747830558:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QP6Az9ad6NM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5f5ce53b-e202-52bf-a023-f269abe4df60</id>
