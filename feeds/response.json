@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-21T15:34:46.000Z",
-    "available_at": "2025-05-22T14:00:00.000Z",
+    "available_at": "2025-05-22T14:01:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
