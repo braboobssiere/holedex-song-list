@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-23T11:51:42.000Z",
     "available_at": "2025-05-23T11:51:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4090,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -39,13 +39,16 @@
   },
   {
     "id": "BA-YWCSgkQo",
-    "title": "【3DLIVE】新衣装お披露目❣ はろーぼ飯店へようこそ🐉2年ぶりに #ロボ子爆誕2025 3D全身全力歌LIVE🎤🎂 【ホロライブ/ ロボ子さん】",
+    "title": "【3DLIVE】新衣装初お披露目❤本日限定開店!はろーぼ飯店へようこそ🐉 【ホロライブ/  #ロボ子爆誕2025】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-21T15:41:21.000Z",
-    "available_at": "2025-05-23T13:00:00.000Z",
+    "available_at": "2025-05-23T12:57:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -538,6 +541,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Iida Pochi"
+    }
+  },
+  {
+    "id": "324b4mbtDpU",
+    "title": "【 #栞葉るり3D 】ご機嫌麗しゅう~!  3Dの栞葉るりです🐾【栞葉るり/にじさんじ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-16T09:14:14.000Z",
+    "available_at": "2025-05-23T11:59:09.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
+      "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
+      "org": "Nijisanji",
+      "suborg": "1uMitarashi-dan",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/jPvNu-C4MkzbOLXVUGwi1F_gwDOHrktOJO9whBMl4n-99llZD27rdXVQTcHZPWmiBPl9-nwT=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shioriha Ruri"
     }
   },
   {
@@ -5247,25 +5269,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "IWKkruyQIZo",
-    "title": "【 MachiPoses】3D Pilot Posing 4 The Fans",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-02-02T05:02:58.000Z",
-    "available_at": "2025-02-02T01:40:14.000Z",
-    "duration": 11458,
-    "status": "past",
-    "channel": {
-      "id": "UC060r4zABV18vcahAWR1n7w",
-      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Machina X Flayon"
     }
   },
   {
