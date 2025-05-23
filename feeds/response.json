@@ -1,7 +1,7 @@
 [
   {
     "id": "Ooa84eBpG1g",
-    "title": "【ゲリラ歌枠】新しく覚えた曲もうたってくぞーー!!【虎金妃笑虎】",
+    "title": "【ゲリラ歌枠】新しく覚えた曲もうたってくぞーー！！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-23T11:51:42.000Z",
@@ -47,7 +47,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 8
+      "en": 10
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -68,29 +68,6 @@
     "available_at": "2025-05-22T14:01:19.000Z",
     "duration": 5564,
     "status": "past",
-    "live_tl_count": {
-      "en": 17
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "QP6Az9ad6NM",
-    "title": "【歌】ゲリラ!もう少しでライブだしうたっちゃお~~~!!!【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-21T13:55:55.000Z",
-    "available_at": "2025-05-21T12:29:18.000Z",
-    "duration": 4749,
-    "status": "past",
-    "songcount": 6,
     "live_tl_count": {
       "en": 17
     },
@@ -545,13 +522,14 @@
   },
   {
     "id": "324b4mbtDpU",
-    "title": "【 #栞葉るり3D 】ご機嫌麗しゅう~!  3Dの栞葉るりです🐾【栞葉るり/にじさんじ】",
+    "title": "【 #栞葉るり3D 】ご機嫌麗しゅう～！ 3Dの栞葉るりです🐾【栞葉るり/にじさんじ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-16T09:14:14.000Z",
     "available_at": "2025-05-23T11:59:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4264,
+    "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
       "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
@@ -1984,6 +1962,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
+    }
+  },
+  {
+    "id": "7omRNMI81us",
+    "title": "【 110万人突破へ 】定期歌枠「B'z」を歌うのら~🎶 KARAOKE【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-01T14:56:13.000Z",
+    "available_at": "2025-05-01T11:59:39.000Z",
+    "duration": 9714,
+    "status": "past",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
     }
   },
   {
