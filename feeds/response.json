@@ -1,13 +1,32 @@
 [
   {
+    "id": "gNGUec9ohco",
+    "title": "【Amogus 3D】The Holostar? More like the Holosus (sry)",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-24T01:03:44.000Z",
+    "available_at": "2025-05-24T01:10:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+      "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Josuiji Shinri"
+    }
+  },
+  {
     "id": "Uc-n0V7usOI",
-    "title": "【歌枠/縦型】朝活!アニソン中心に初めて歌う曲も沢山歌いそう【不知火フレア/ホロライブ】",
+    "title": "【歌枠/縦型】朝活!アニソン中心に初めて歌う曲も沢山歌いそう  #shorts【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-23T20:19:27.000Z",
-    "available_at": "2025-05-24T01:00:00.000Z",
+    "available_at": "2025-05-24T01:03:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -46,6 +65,7 @@
     "available_at": "2025-05-23T11:51:58.000Z",
     "duration": 4090,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -65,6 +85,7 @@
     "available_at": "2025-05-23T09:02:27.000Z",
     "duration": 6912,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -73,6 +94,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "Hq2XbyHmAb8",
+    "title": "【誕生日】8才➡9才にアップグレード!誕生日カウントダウン🍰新衣装予想図もみます!【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-22T15:41:06.000Z",
+    "available_at": "2025-05-22T14:01:19.000Z",
+    "duration": 5395,
+    "status": "past",
+    "live_tl_count": {
+      "en": 17
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -87,28 +130,6 @@
     "songcount": 10,
     "live_tl_count": {
       "en": 10
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "Hq2XbyHmAb8",
-    "title": "【誕生日】８才➡９才にアップグレード！誕生日カウントダウン🍰新衣装予想図もみます！【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-21T15:34:46.000Z",
-    "available_at": "2025-05-22T14:01:19.000Z",
-    "duration": 5564,
-    "status": "past",
-    "live_tl_count": {
-      "en": 17
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -5211,24 +5232,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "mUVIz-cSaSw",
-    "title": "【決闘】オリジナルカードゲームで対決!!【#ReGLOSSカードゲーム】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-02-10T11:07:55.000Z",
-    "available_at": "2025-02-10T10:00:09.000Z",
-    "duration": 3736,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
