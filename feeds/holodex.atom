@@ -3,19 +3,19 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-24T01:06:41.462Z</updated>
+  <updated>2025-05-24T02:06:36.843Z</updated>
 
   <entry>
     <id>urn:uuid:6fec3714-c1b8-5f8a-985d-27b5ebabfcd3</id>
     <title><![CDATA[【歌枠/縦型】朝活!アニソン中心に初めて歌う曲も沢山歌いそう  #shorts【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/Uc-n0V7usOI" rel="alternate" type="text/html"/>
     <published>2025-05-23T20:19:27.000Z</published>
-    <updated>2025-05-24T01:03:11.000Z</updated>
+    <updated>2025-05-24T01:04:50.000Z</updated>
     <author>
       <name>Flare Ch. 不知火フレア</name>
       <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Uc-n0V7usOI 【LIVE on &lt;t:1748048591:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Uc-n0V7usOI 【LIVE on &lt;t:1748048690:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Uc-n0V7usOI/maxresdefault.jpg"/>
   </entry>
 
@@ -2246,20 +2246,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9cc595e6-cc3c-52ed-ab27-1cdf40be0e8d</id>
-    <title><![CDATA[【 エレクトーン 】深夜なのでしっとりピアノ音ver.で演奏するのら!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/LXL1sILWLuo" rel="alternate" type="text/html"/>
-    <published>2023-10-07T19:14:57.000Z</published>
-    <updated>2023-10-07T13:59:58.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LXL1sILWLuo 【LIVE on &lt;t:1696687198:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LXL1sILWLuo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:c798b0f9-39b6-5fe3-9349-1be249a1f2a3</id>
     <title><![CDATA[【 楽器演奏 / カメラあり 】久々にエレクトーンに触れるのら!!!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/4_gAGQAt_M8" rel="alternate" type="text/html"/>
@@ -2565,5 +2551,19 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V5yvpYSsktA 【LIVE on &lt;t:1675555220:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V5yvpYSsktA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7c6e31d2-21e6-5b7b-836b-d454a256163e</id>
+    <title><![CDATA[【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/IMi1Jdo6FHQ" rel="alternate" type="text/html"/>
+    <published>2023-01-29T03:28:59.000Z</published>
+    <updated>2023-01-29T00:47:12.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IMi1Jdo6FHQ 【LIVE on &lt;t:1674953232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IMi1Jdo6FHQ/maxresdefault.jpg"/>
   </entry>
 </feed>

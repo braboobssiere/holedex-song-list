@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-24T01:03:44.000Z",
-    "available_at": "2025-05-24T01:10:00.000Z",
+    "available_at": "2025-05-24T01:16:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -24,7 +24,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-23T20:19:27.000Z",
-    "available_at": "2025-05-24T01:03:11.000Z",
+    "available_at": "2025-05-24T01:04:50.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -6456,25 +6456,6 @@
     }
   },
   {
-    "id": "LXL1sILWLuo",
-    "title": "【 エレクトーン 】深夜なのでしっとりピアノ音ver.で演奏するのら!🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-10-07T19:14:57.000Z",
-    "available_at": "2023-10-07T13:59:58.000Z",
-    "duration": 18101,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
     "id": "4_gAGQAt_M8",
     "title": "【 楽器演奏 / カメラあり 】久々にエレクトーンに触れるのら!!!🎹🎶【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -6947,6 +6928,28 @@
     "available_at": "2023-02-05T00:00:20.000Z",
     "duration": 11211,
     "status": "past",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "IMi1Jdo6FHQ",
+    "title": "【 #なのらいぶ 】<DAY1>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2023-01-29T03:28:59.000Z",
+    "available_at": "2023-01-29T00:47:12.000Z",
+    "duration": 9069,
+    "status": "past",
+    "live_tl_count": {
+      "en": 212
+    },
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
