@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-24T22:06:27.598Z</updated>
+  <updated>2025-05-24T23:06:26.923Z</updated>
 
   <entry>
     <id>urn:uuid:1f09ba06-835d-5ef6-9291-d060be2ec5bd</id>
@@ -35,9 +35,9 @@
 
   <entry>
     <id>urn:uuid:2c1e8ff8-49fd-5628-b4bd-a5e543cbdd96</id>
-    <title><![CDATA[【ゲリラ歌枠】新しく覚えた曲もうたってくぞーー！！【虎金妃笑虎】]]></title>
+    <title><![CDATA[【ゲリラ歌枠】新しく覚えた曲もうたってくぞーー!!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/Ooa84eBpG1g" rel="alternate" type="text/html"/>
-    <published>2025-05-23T11:51:42.000Z</published>
+    <published>2025-05-23T13:42:09.000Z</published>
     <updated>2025-05-23T11:51:58.000Z</updated>
     <author>
       <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ooa84eBpG1g 【LIVE on &lt;t:1748001118:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ooa84eBpG1g/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:816f2d01-5d19-5cd2-bae4-6c6cc37b9394</id>
+    <title><![CDATA[【 #栞葉るり3D 】ご機嫌麗しゅう~!  3Dの栞葉るりです🐾【栞葉るり/にじさんじ】]]></title>
+    <link href="https://youtu.be/324b4mbtDpU" rel="alternate" type="text/html"/>
+    <published>2025-05-23T13:17:48.000Z</published>
+    <updated>2025-05-23T11:59:09.000Z</updated>
+    <author>
+      <name>栞葉るり / Shioriha Ruri【にじさんじ】</name>
+      <uri>https://www.youtube.com/channel/UC7_MFM9b8hp5kuTSpa8WyOQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=324b4mbtDpU 【LIVE on &lt;t:1748001549:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/324b4mbtDpU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -255,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6BNkVBVNbKY 【LIVE on &lt;t:1747396566:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6BNkVBVNbKY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:816f2d01-5d19-5cd2-bae4-6c6cc37b9394</id>
-    <title><![CDATA[【 #栞葉るり3D 】ご機嫌麗しゅう～！ 3Dの栞葉るりです🐾【栞葉るり/にじさんじ】]]></title>
-    <link href="https://youtu.be/324b4mbtDpU" rel="alternate" type="text/html"/>
-    <published>2025-05-16T09:14:14.000Z</published>
-    <updated>2025-05-23T11:59:09.000Z</updated>
-    <author>
-      <name>栞葉るり / Shioriha Ruri【にじさんじ】</name>
-      <uri>https://www.youtube.com/channel/UC7_MFM9b8hp5kuTSpa8WyOQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=324b4mbtDpU 【LIVE on &lt;t:1748001549:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/324b4mbtDpU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
