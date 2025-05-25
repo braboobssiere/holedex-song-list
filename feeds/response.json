@@ -1,14 +1,33 @@
 [
   {
+    "id": "jUL5vG-iW1Q",
+    "title": "【Unarchived Karaoke Rebroadcast!】Sing, sing, sing, SING!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-25T00:19:08.000Z",
+    "available_at": "2025-05-25T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+      "name": "Goldbullet Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Goldbullet"
+    }
+  },
+  {
     "id": "2vEUfTlbzZ8",
     "title": "【3D CONCERT】#RequiemforLove3D - A JukeBox Musical",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-24T23:30:05.000Z",
     "available_at": "2025-05-24T23:30:05.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 4,
+    "duration": 3383,
+    "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -28,6 +47,7 @@
     "available_at": "2025-05-24T09:37:04.000Z",
     "duration": 2897,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -103,7 +123,7 @@
     "available_at": "2025-05-24T01:04:50.000Z",
     "duration": 12442,
     "status": "past",
-    "songcount": 4,
+    "songcount": 30,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -2156,25 +2176,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "Aglj9Y7cO0g",
-    "title": "【UNARCHIVED KARAOKE】I FINALLY SOUNDPROOFED MY ROOM SO IM TESTING THE ACOUSTICS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-01T11:05:52.000Z",
-    "available_at": "2025-05-01T22:56:11.000Z",
-    "duration": 9414,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
