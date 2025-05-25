@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-24T23:06:26.923Z</updated>
+  <updated>2025-05-25T00:06:31.816Z</updated>
+
+  <entry>
+    <id>urn:uuid:3d5cc1b2-cd1c-5807-ba49-1e64abdbc2bf</id>
+    <title><![CDATA[【3D CONCERT】#RequiemforLove3D - A JukeBox Musical]]></title>
+    <link href="https://youtu.be/2vEUfTlbzZ8" rel="alternate" type="text/html"/>
+    <published>2025-05-24T23:30:05.000Z</published>
+    <updated>2025-05-24T23:30:05.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2vEUfTlbzZ8 【LIVE on &lt;t:1748129405:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2vEUfTlbzZ8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1f09ba06-835d-5ef6-9291-d060be2ec5bd</id>
@@ -31,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Uc-n0V7usOI 【LIVE on &lt;t:1748048690:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Uc-n0V7usOI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d30efd29-4393-5bc1-9720-c67cdad37c9d</id>
+    <title><![CDATA[【3DLIVE】新衣装初お披露目❤本日限定開店!はろーぼ飯店へようこそ🐉 【ホロライブ/  #ロボ子爆誕2025】]]></title>
+    <link href="https://youtu.be/BA-YWCSgkQo" rel="alternate" type="text/html"/>
+    <published>2025-05-23T14:10:56.000Z</published>
+    <updated>2025-05-23T12:57:51.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BA-YWCSgkQo 【LIVE on &lt;t:1748005071:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BA-YWCSgkQo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -73,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Y3AIzVnktH0 【LIVE on &lt;t:1747990947:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y3AIzVnktH0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d30efd29-4393-5bc1-9720-c67cdad37c9d</id>
-    <title><![CDATA[【３DLIVE】新衣装初お披露目❤本日限定開店！はろーぼ飯店へようこそ🐉　【ホロライブ/ #ロボ子爆誕2025】]]></title>
-    <link href="https://youtu.be/BA-YWCSgkQo" rel="alternate" type="text/html"/>
-    <published>2025-05-21T15:41:21.000Z</published>
-    <updated>2025-05-23T12:57:51.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BA-YWCSgkQo 【LIVE on &lt;t:1748005071:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BA-YWCSgkQo/maxresdefault.jpg"/>
   </entry>
 
   <entry>

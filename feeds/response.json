@@ -1,5 +1,25 @@
 [
   {
+    "id": "2vEUfTlbzZ8",
+    "title": "【3D CONCERT】#RequiemforLove3D - A JukeBox Musical",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-24T23:30:05.000Z",
+    "available_at": "2025-05-24T23:30:05.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 4,
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "Ng0TQMWolp4",
     "title": "ちょっとだけボカロ歌わせて～！【轟はじめ】",
     "type": "stream",
@@ -83,6 +103,7 @@
     "available_at": "2025-05-24T01:04:50.000Z",
     "duration": 12442,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -91,6 +112,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "BA-YWCSgkQo",
+    "title": "【3DLIVE】新衣装初お披露目❤本日限定開店!はろーぼ飯店へようこそ🐉 【ホロライブ/  #ロボ子爆誕2025】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-23T14:10:56.000Z",
+    "available_at": "2025-05-23T12:57:51.000Z",
+    "duration": 4023,
+    "status": "past",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 10
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -195,29 +239,6 @@
     }
   },
   {
-    "id": "BA-YWCSgkQo",
-    "title": "【３DLIVE】新衣装初お披露目❤本日限定開店！はろーぼ飯店へようこそ🐉　【ホロライブ/ #ロボ子爆誕2025】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-21T15:41:21.000Z",
-    "available_at": "2025-05-23T12:57:51.000Z",
-    "duration": 4019,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 10
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
     "id": "I-J11Da5ONY",
     "title": "【3D LIVE】『EVERMORE』 Ninomae Ina'nis Birthday Live 2025  #EvermoreLIVE",
     "type": "stream",
@@ -235,25 +256,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
-    "id": "2vEUfTlbzZ8",
-    "title": "【3D CONCERT】#RequiemforLove3D - A JukeBox Musical",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-20T17:22:20.000Z",
-    "available_at": "2025-05-24T23:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   },
   {
