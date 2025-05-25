@@ -6,8 +6,9 @@
     "topic_id": "Original_Song",
     "published_at": "2025-05-25T13:00:09.000Z",
     "available_at": "2025-05-25T13:00:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 173,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -138,6 +139,26 @@
     }
   },
   {
+    "id": "Uc-n0V7usOI",
+    "title": "【歌枠/縦型】朝活!アニソン中心に初めて歌う曲も沢山歌いそう  #shorts【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-24T04:46:27.000Z",
+    "available_at": "2025-05-24T01:04:50.000Z",
+    "duration": 12443,
+    "status": "past",
+    "songcount": 30,
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
+    }
+  },
+  {
     "id": "jBTMHPhEh4c",
     "title": "供養",
     "type": "stream",
@@ -172,26 +193,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "Uc-n0V7usOI",
-    "title": "【歌枠/縦型】朝活！アニソン中心に初めて歌う曲も沢山歌いそう #shorts【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-23T20:19:27.000Z",
-    "available_at": "2025-05-24T01:04:50.000Z",
-    "duration": 12442,
-    "status": "past",
-    "songcount": 30,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -728,7 +729,7 @@
     "duration": 3545,
     "status": "past",
     "live_tl_count": {
-      "en": 95
+      "en": 100
     },
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
