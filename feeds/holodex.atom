@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-25T19:06:28.083Z</updated>
+  <updated>2025-05-25T20:06:29.945Z</updated>
 
   <entry>
     <id>urn:uuid:00a2a1dc-e939-5c28-ba8d-cdffea5f3fda</id>
@@ -92,9 +92,9 @@
 
   <entry>
     <id>urn:uuid:1f09ba06-835d-5ef6-9291-d060be2ec5bd</id>
-    <title><![CDATA[ちょっとだけボカロ歌わせて～！【轟はじめ】]]></title>
+    <title><![CDATA[ちょっとだけボカロ歌わせて~!【轟はじめ】]]></title>
     <link href="https://youtu.be/Ng0TQMWolp4" rel="alternate" type="text/html"/>
-    <published>2025-05-24T09:36:47.000Z</published>
+    <published>2025-05-24T10:32:36.000Z</published>
     <updated>2025-05-24T09:37:04.000Z</updated>
     <author>
       <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
@@ -340,6 +340,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-n3_Z4mNlQs 【LIVE on &lt;t:1747454400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-n3_Z4mNlQs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fd1b4287-9097-52fd-8d17-0fd7f3394ee5</id>
+    <title><![CDATA[いつか吾輩もあの頃のインターネットって言われる日が来るのかな #ラプラス・バースデイ2025]]></title>
+    <link href="https://youtu.be/m8hqs4NMij4" rel="alternate" type="text/html"/>
+    <published>2025-05-16T23:23:27.000Z</published>
+    <updated>2025-05-25T11:56:33.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=m8hqs4NMij4 【LIVE on &lt;t:1748174193:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m8hqs4NMij4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
