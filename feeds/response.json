@@ -6,8 +6,8 @@
     "topic_id": "Original_Song",
     "published_at": "2025-05-25T11:00:36.000Z",
     "available_at": "2025-05-25T11:00:36.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 227,
+    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -20,7 +20,7 @@
   },
   {
     "id": "ZiY_YnZEoKo",
-    "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
+    "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢／FLOW GLOW】\n#hololiveDEV_IS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-25T08:27:39.000Z",
@@ -724,9 +724,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-05-16T23:23:27.000Z",
-    "available_at": "2025-05-25T12:00:00.000Z",
+    "available_at": "2025-05-25T11:56:33.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
