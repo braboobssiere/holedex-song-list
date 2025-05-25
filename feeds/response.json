@@ -1,13 +1,32 @@
 [
   {
+    "id": "GZVRO1IxHlA",
+    "title": "【Performance Video】Die For You - Mori Calliope",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-25T11:00:36.000Z",
+    "available_at": "2025-05-25T11:00:36.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
+    }
+  },
+  {
     "id": "ZiY_YnZEoKo",
     "title": "【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-25T08:27:39.000Z",
     "available_at": "2025-05-25T08:28:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8865,
+    "status": "past",
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -3075,26 +3094,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "twUFbqyul_M",
-    "title": "Ash Again / Gawr Gura x Casey Edwards",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-20T00:45:44.000Z",
-    "available_at": "2025-04-20T00:45:44.000Z",
-    "duration": 299,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "name": "Gawr Gura Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gawr Gura"
     }
   },
   {
