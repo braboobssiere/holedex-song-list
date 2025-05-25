@@ -1,5 +1,24 @@
 [
   {
+    "id": "Mh_DnoGsh88",
+    "title": "✧︎バグラブ / DECO*27 ×ラプラス・ダークネス✧︎",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-25T13:00:09.000Z",
+    "available_at": "2025-05-25T13:00:09.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "GZVRO1IxHlA",
     "title": "【Performance Video】Die For You - Mori Calliope",
     "type": "stream",
@@ -659,25 +678,6 @@
     }
   },
   {
-    "id": "Mh_DnoGsh88",
-    "title": "𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-17T06:22:14.000Z",
-    "available_at": "2025-05-25T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
-    }
-  },
-  {
     "id": "ykuVlT8Yi4g",
     "title": "【MV】Die For You - Mori Calliope",
     "type": "stream",
@@ -725,10 +725,10 @@
     "topic_id": "Birthday",
     "published_at": "2025-05-16T23:23:27.000Z",
     "available_at": "2025-05-25T11:56:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3545,
+    "status": "past",
     "live_tl_count": {
-      "en": 4
+      "en": 95
     },
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
