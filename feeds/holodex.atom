@@ -3,11 +3,26 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-25T08:06:34.161Z</updated>
+  <updated>2025-05-25T09:06:30.164Z</updated>
+
+  <entry>
+    <id>urn:uuid:f6c37f9a-ce03-5133-b717-aeae312e17c9</id>
+    <title><![CDATA[【歌枠 KARAOKE】縦型で久々の歌枠🧊【水宮枢/FLOW GLOW】
+#hololiveDEV_IS]]></title>
+    <link href="https://youtu.be/ZiY_YnZEoKo" rel="alternate" type="text/html"/>
+    <published>2025-05-25T08:27:39.000Z</published>
+    <updated>2025-05-25T08:28:00.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZiY_YnZEoKo 【LIVE on &lt;t:1748161680:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZiY_YnZEoKo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a1155e39-a9fb-5f36-9b93-8969f4ede4c8</id>
-    <title><![CDATA[【sing】夕方に楽しく歌うのだ!!【ホロライブ/ときのそら】]]></title>
+    <title><![CDATA[【sing】夕方に楽しく歌うのだ！！【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/60CxXmqT-cA" rel="alternate" type="text/html"/>
     <published>2025-05-25T05:27:01.000Z</published>
     <updated>2025-05-25T07:00:55.000Z</updated>
@@ -829,20 +844,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MeLBh4BTBNs 【LIVE on &lt;t:1746161855:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MeLBh4BTBNs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ad55c65b-9bf8-55fc-b085-7a30356e9477</id>
-    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】anime song freedom + ANNOUNCEMENT ♪✨️ #FWMCbeats 【告知あり歌枠】]]></title>
-    <link href="https://youtu.be/1yBUDi2Ew0M" rel="alternate" type="text/html"/>
-    <published>2025-05-02T04:18:24.000Z</published>
-    <updated>2025-05-02T00:55:15.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1yBUDi2Ew0M 【LIVE on &lt;t:1746147315:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1yBUDi2Ew0M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
