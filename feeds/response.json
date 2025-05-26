@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-26T09:16:37.000Z",
-    "available_at": "2025-05-26T13:00:00.000Z",
+    "available_at": "2025-05-26T13:01:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -46,9 +46,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-05-25T15:01:01.000Z",
-    "available_at": "2025-05-26T13:00:00.000Z",
+    "available_at": "2025-05-26T13:02:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
