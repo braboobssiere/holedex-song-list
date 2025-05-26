@@ -1,13 +1,35 @@
 [
   {
+    "id": "GQUpT3M-zg8",
+    "title": "【歌枠】しっとり歌うよ  / Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-26T09:16:37.000Z",
+    "available_at": "2025-05-26T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "ipgF1JGc_vU",
     "title": "【ケツバトラー】 #ホロ551 でケツバトラーmocopiオフコラボ!!! 【尾丸ポルカ・一条莉々華・博衣こより/ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-26T03:21:33.000Z",
-    "available_at": "2025-05-26T10:00:00.000Z",
+    "available_at": "2025-05-26T09:59:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -2125,25 +2147,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
-    }
-  },
-  {
-    "id": "LQ-bt1Fz5QQ",
-    "title": "≪Midnight Friday Radio - unarchived≫ Episode 13 #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-02T05:47:43.000Z",
-    "available_at": "2025-05-02T15:00:34.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
