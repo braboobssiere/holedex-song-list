@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-26T14:06:30.686Z</updated>
+  <updated>2025-05-26T15:06:30.374Z</updated>
 
   <entry>
     <id>urn:uuid:1eaec1aa-3a3e-5a44-8bdb-3088a12966d6</id>
-    <title><![CDATA[【歌枠】しっとり歌うよ  / Singing Stream【ホロライブ / AZKi】]]></title>
+    <title><![CDATA[【歌枠】しっとり歌うよ / Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/GQUpT3M-zg8" rel="alternate" type="text/html"/>
     <published>2025-05-26T09:16:37.000Z</published>
     <updated>2025-05-26T13:01:35.000Z</updated>
@@ -88,6 +88,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=60CxXmqT-cA 【LIVE on &lt;t:1748156455:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/60CxXmqT-cA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:804ab95f-3c1d-565e-b0b2-f8e0040aed24</id>
+    <title><![CDATA[【縦型歌枠】日曜のお昼に楽しく歌う🎵【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/zR_7fFVnRHY" rel="alternate" type="text/html"/>
+    <published>2025-05-25T05:23:56.000Z</published>
+    <updated>2025-05-25T03:01:24.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zR_7fFVnRHY 【LIVE on &lt;t:1748142084:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zR_7fFVnRHY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -746,20 +760,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6jg7_m_J2A8 【LIVE on &lt;t:1746513012:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6jg7_m_J2A8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:804ab95f-3c1d-565e-b0b2-f8e0040aed24</id>
-    <title><![CDATA[【縦型歌枠】日曜のお昼に楽しく歌う🎵【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/zR_7fFVnRHY" rel="alternate" type="text/html"/>
-    <published>2025-05-06T09:07:52.000Z</published>
-    <updated>2025-05-25T03:01:24.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zR_7fFVnRHY 【LIVE on &lt;t:1748142084:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zR_7fFVnRHY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
