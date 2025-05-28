@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-28T04:06:28.227Z</updated>
+  <updated>2025-05-28T05:06:28.786Z</updated>
 
   <entry>
     <id>urn:uuid:1eaec1aa-3a3e-5a44-8bdb-3088a12966d6</id>
@@ -2331,20 +2331,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c798b0f9-39b6-5fe3-9349-1be249a1f2a3</id>
-    <title><![CDATA[【 楽器演奏 / カメラあり 】久々にエレクトーンに触れるのら!!!🎹🎶【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/4_gAGQAt_M8" rel="alternate" type="text/html"/>
-    <published>2023-08-29T09:08:39.000Z</published>
-    <updated>2023-08-29T06:01:14.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4_gAGQAt_M8 【LIVE on &lt;t:1693288874:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4_gAGQAt_M8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1018ad69-0a1d-5ce4-9d5a-338e87ab431f</id>
     <title><![CDATA[【アンダーテール】初のピアノ配信でUNDERTALEの曲を弾くぞ…!そしてホロサマビンゴじゃい!【ホロライブ/沙花叉クロヱ】]]></title>
     <link href="https://youtu.be/k1oP9iMXoJo" rel="alternate" type="text/html"/>
@@ -2650,5 +2636,19 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IMi1Jdo6FHQ 【LIVE on &lt;t:1674953232:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IMi1Jdo6FHQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e1bbc8a6-6923-5964-bfa4-aa9b837c7299</id>
+    <title><![CDATA[【 エレクトーン練習 】年の瀬のエレクトーン納めなのら~🎵🎹~Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/2bp42wHPz30" rel="alternate" type="text/html"/>
+    <published>2022-12-29T03:51:12.000Z</published>
+    <updated>2022-12-28T16:02:53.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2bp42wHPz30 【LIVE on &lt;t:1672243373:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2bp42wHPz30/maxresdefault.jpg"/>
   </entry>
 </feed>
