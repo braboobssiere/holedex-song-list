@@ -1,5 +1,62 @@
 [
   {
+    "id": "CjQD-nJ0zJo",
+    "title": "【 歌枠 l KARAOKE 】お披露目あり〜!いろんな衣装で歌います!【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-29T17:57:40.000Z",
+    "available_at": "2025-05-30T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "qZ5uvyJbxWQ",
+    "title": "【#ROCKがNIGHT】IT'S TIME TO ROCK BABY 🤘🔥【Banzoin Hakka/ホロスターズEN】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-29T17:36:10.000Z",
+    "available_at": "2025-05-30T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "XD8fwcTT-OI",
+    "title": "【 #ROCKがNIGHT 】君のフライデー・ナイトをロックに染める!【#折咲もしゅ #REJECT #もっしゅライブ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-29T15:07:32.000Z",
+    "available_at": "2025-05-30T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCez5D_dtExDJzQOAzg1k1RQ",
+      "name": "折咲もしゅch-Moshu Orisaki-",
+      "org": "Independents",
+      "suborg": "reREJECT",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZddCTxoH9h6Zz4NpHhixaOnp1Lus07qEctwolUic4_vdlqhriyQu7l-eQr5IM5zfP7lbZd8wfg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Orisaki Moshu"
+    }
+  },
+  {
     "id": "w88ViLldgso",
     "title": "【#ROCKがNIGHT】 3番手参ります!!!【鬼ヶ谷テン/ネオポルテ】",
     "type": "stream",
@@ -46,6 +103,7 @@
     "available_at": "2025-05-29T09:08:51.000Z",
     "duration": 5106,
     "status": "past",
+    "songcount": 2,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -1951,46 +2009,6 @@
     }
   },
   {
-    "id": "DdzPR8WX27E",
-    "title": "【歌枠】こどもの日!!!!!!!!!!!【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-05T10:19:38.000Z",
-    "available_at": "2025-05-05T09:01:44.000Z",
-    "duration": 4400,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "rceEPXHIBLM",
-    "title": "【MoonUtau】Karaoke time!! 【Moona Hoshinova】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-04T17:55:00.000Z",
-    "available_at": "2025-05-04T16:02:56.000Z",
-    "duration": 6285,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
-      "name": "Moona Hoshinova hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Moona Hoshinova"
-    }
-  },
-  {
     "id": "irLx8oSidtk",
     "title": "たんぽぽ(Instrumental)",
     "type": "stream",
@@ -2030,25 +2048,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "vFBt6RjPPHA",
-    "title": "【UNARCHIVED】vibez",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-04T12:27:31.000Z",
-    "available_at": "2025-05-04T21:01:06.000Z",
-    "duration": 6501,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
