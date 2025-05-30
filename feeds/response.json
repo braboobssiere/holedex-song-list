@@ -46,6 +46,7 @@
     "available_at": "2025-05-29T13:00:33.000Z",
     "duration": 4338,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -85,6 +86,7 @@
     "available_at": "2025-05-29T11:01:11.000Z",
     "duration": 7597,
     "status": "past",
+    "songcount": 26,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -104,6 +106,7 @@
     "available_at": "2025-05-28T12:46:37.000Z",
     "duration": 4126,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -131,6 +134,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
+    }
+  },
+  {
+    "id": "9GbHHBgFZz0",
+    "title": "【 誕生日カウントダウン 】誕生日を迎えるには筋肉をいじめないといけないらしい【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-28T17:35:40.000Z",
+    "available_at": "2025-05-28T14:00:16.000Z",
+    "duration": 4200,
+    "status": "past",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -172,25 +194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "9GbHHBgFZz0",
-    "title": "【 誕生日カウントダウン 】誕生日を迎えるには筋肉をいじめないといけないらしい【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-27T13:57:40.000Z",
-    "available_at": "2025-05-28T14:00:16.000Z",
-    "duration": 4191,
-    "status": "past",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
