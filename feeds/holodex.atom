@@ -3,21 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-30T20:06:30.504Z</updated>
-
-  <entry>
-    <id>urn:uuid:d8e03a1d-0649-502d-a5c9-2945b154dc72</id>
-    <title><![CDATA[【ASMR】月末定期ASMR 2025.05【ホロライブ/白上フブキ】]]></title>
-    <link href="https://youtu.be/zwl2cR09WHI" rel="alternate" type="text/html"/>
-    <published>2025-05-30T14:47:14.000Z</published>
-    <updated>2025-05-30T14:47:14.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zwl2cR09WHI 【LIVE on &lt;t:1748689200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zwl2cR09WHI/maxresdefault.jpg"/>
-  </entry>
+  <updated>2025-05-30T21:06:31.995Z</updated>
 
   <entry>
     <id>urn:uuid:e17dc35d-94d9-538f-a612-510b617bed42</id>
@@ -2300,6 +2286,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=gl1o5gXNdTA 【LIVE on &lt;t:1722668449:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gl1o5gXNdTA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b6f91b40-6bc2-5ffe-a964-bf8e98041fb3</id>
+    <title><![CDATA[【ASMR】月末定期ASMR2024.07 ぷち告知もありますっ【ホロライブ/白上フブキ】]]></title>
+    <link href="https://youtu.be/yDDTTdEqMbU" rel="alternate" type="text/html"/>
+    <published>2024-08-01T14:06:33.000Z</published>
+    <updated>2024-08-01T13:04:29.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yDDTTdEqMbU 【LIVE on &lt;t:1722517469:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yDDTTdEqMbU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
