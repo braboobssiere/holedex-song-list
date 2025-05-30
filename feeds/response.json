@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-30T11:42:12.000Z",
-    "available_at": "2025-05-30T13:00:00.000Z",
+    "available_at": "2025-05-30T13:00:17.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -38,14 +38,34 @@
     }
   },
   {
+    "id": "aJvGQYVpOYQ",
+    "title": "【 #小森めと5周年記念ライブ 】小森めと5周年記念LIVE!~ NEET Invasion Complete? ~ 【 ぶいすぽっ! / 小森めと 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-05-30T11:29:08.000Z",
+    "available_at": "2025-05-30T09:57:11.000Z",
+    "duration": 4919,
+    "status": "past",
+    "channel": {
+      "id": "UCzUNASdzI4PV5SlqtYwAkKQ",
+      "name": "Met Channel / 小森めと ",
+      "org": "VSpo",
+      "suborg": "SSSolo",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8km4MzJjHfYgZ7gbACC42-p2iwGFjmRFL-mppdpn4y35mIWhDTg2qVxmrGV1WQCqrjV7ZB9_Bw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Komori Met"
+    }
+  },
+  {
     "id": "auRfCftO_Yo",
-    "title": "【 歌枠/KARAOKE 】5月もおつかれさまの歌【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【 歌枠/KARAOKE 】5月もおつかれさまの歌【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-30T09:58:02.000Z",
     "available_at": "2025-05-30T10:20:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6849,
+    "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -217,7 +237,7 @@
   },
   {
     "id": "mfrFBTXkZZQ",
-    "title": "【#オウガニックフラワー 】オガフラ3D【荒咬オウガ /ホロスターズ】",
+    "title": "【#オウガニックフラワー 】オガフラ３D【荒咬オウガ /ホロスターズ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-29T08:20:35.000Z",
@@ -235,22 +255,22 @@
     }
   },
   {
-    "id": "aJvGQYVpOYQ",
-    "title": "【 #小森めと5周年記念ライブ 】小森めと5周年記念LIVE！~ NEET Invasion Complete? ~ 【 ぶいすぽっ！ / 小森めと 】",
+    "id": "A1Cs9A8JhYs",
+    "title": "【3D LIVE】インターネット・ガール・バースデー 【#しぐれうい生誕2025】",
     "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-05-29T07:46:35.000Z",
-    "available_at": "2025-05-30T09:57:11.000Z",
-    "duration": 4911,
+    "topic_id": "Birthday",
+    "published_at": "2025-05-29T01:27:14.000Z",
+    "available_at": "2025-05-30T12:00:08.000Z",
+    "duration": 3501,
     "status": "past",
     "channel": {
-      "id": "UCzUNASdzI4PV5SlqtYwAkKQ",
-      "name": "Met Channel / 小森めと ",
-      "org": "VSpo",
-      "suborg": "SSSolo",
+      "id": "UCt30jJgChL8qeT9VPadidSw",
+      "name": "しぐれうい",
+      "org": "Independents",
+      "suborg": "ZZ",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8km4MzJjHfYgZ7gbACC42-p2iwGFjmRFL-mppdpn4y35mIWhDTg2qVxmrGV1WQCqrjV7ZB9_Bw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Komori Met"
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_m6xQ9ez0I8lnwswHqAns9ZRPsaCCutfzu6eUbM7pwzqsA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shigure Ui"
     }
   },
   {
@@ -4826,26 +4846,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "qROKmkm6g4g",
-    "title": "【#HopeyBirthday2025】KARAOKE + BIG ANNOUNCEMENT! 誕生日歌枠!重大告知あり!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-03-07T03:38:51.000Z",
-    "available_at": "2025-03-07T02:01:32.000Z",
-    "duration": 5301,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
