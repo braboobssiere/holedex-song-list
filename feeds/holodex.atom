@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-30T06:06:28.568Z</updated>
+  <updated>2025-05-30T07:06:32.757Z</updated>
+
+  <entry>
+    <id>urn:uuid:3204fa5a-08b8-5ce8-a633-54abc5e8701f</id>
+    <title><![CDATA[【 歌枠 】BLEACH縛りでアニソン歌うのら~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/2-IZy46WA1o" rel="alternate" type="text/html"/>
+    <published>2025-05-30T05:49:23.000Z</published>
+    <updated>2025-05-30T05:49:23.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2-IZy46WA1o 【LIVE on &lt;t:1748606400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2-IZy46WA1o/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4b0fe058-b7ba-5bb2-8b13-305da62b4663</id>
@@ -59,20 +73,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rYe7GISpAWg 【LIVE on &lt;t:1748436397:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rYe7GISpAWg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1ddbbd51-3a21-5cbf-bc19-ba3e885a4c5e</id>
-    <title><![CDATA[【 #ROCKがNIGHT 】絶唱上等🏳最強音圧でロックをくらえ~~!!!【 天籠りのん/Sony Music VEE 】#歌枠 #karaoke]]></title>
-    <link href="https://youtu.be/b6uRsxSTzTU" rel="alternate" type="text/html"/>
-    <published>2025-05-28T13:30:16.000Z</published>
-    <updated>2025-05-28T13:30:16.000Z</updated>
-    <author>
-      <name>Linon ch. 天籠りのん</name>
-      <uri>https://www.youtube.com/channel/UCdIa_1lEL5c5RrGgIKptQrw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=b6uRsxSTzTU 【LIVE on &lt;t:1748594700:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/b6uRsxSTzTU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
