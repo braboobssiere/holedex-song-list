@@ -8,7 +8,7 @@
     "available_at": "2025-05-31T15:00:49.000Z",
     "duration": 160,
     "status": "past",
-    "songcount": 1,
+    "songcount": 2,
     "original_channel_id": "UCPCiIrrrNJOKvi_5vr3G6PA",
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
@@ -39,25 +39,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "Z_FHoBlKjw8",
-    "title": "月末のカラオケ 歌枠 【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-31T14:11:03.000Z",
-    "available_at": "2025-05-31T14:12:16.000Z",
-    "duration": 1764,
-    "status": "past",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -107,6 +88,7 @@
     "available_at": "2025-05-31T12:00:06.000Z",
     "duration": 160,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -156,6 +138,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "adCVS66I6n4",
+    "title": "【カウントダウン】７年活動を続けてるらしい【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-05-31T07:06:28.000Z",
+    "available_at": "2025-05-31T14:30:52.000Z",
+    "duration": 3129,
+    "status": "past",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -2039,6 +2040,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
+    }
+  },
+  {
+    "id": "YVjpNjCMm1g",
+    "title": "【歌 】2秒で終わってすみません LOST SONG TIME【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-11T14:03:48.000Z",
+    "available_at": "2025-05-11T14:06:09.000Z",
+    "duration": 4365,
+    "status": "missing",
+    "live_tl_count": {
+      "en": 25
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -5615,25 +5638,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "pjCB1FzrGV0",
-    "title": "【 #姫森ルーナ5周年 】6年目もよろしくなのらね!!!嬉しい発表もあるのら💓【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-01-04T12:30:35.000Z",
-    "available_at": "2025-01-04T10:59:36.000Z",
-    "duration": 5094,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
