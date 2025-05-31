@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-31T20:06:26.696Z</updated>
+  <updated>2025-05-31T21:06:25.277Z</updated>
+
+  <entry>
+    <id>urn:uuid:64384e0a-4d9f-5be3-9e21-60bc2448eeec</id>
+    <title><![CDATA[【歌枠】嬉しくて楽しい告知があります!!!!!!【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/sDhA8M5HLnA" rel="alternate" type="text/html"/>
+    <published>2025-05-31T20:42:01.000Z</published>
+    <updated>2025-05-31T20:42:01.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sDhA8M5HLnA 【LIVE on &lt;t:1748779200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sDhA8M5HLnA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:34eb92a4-012c-5b94-9005-214a92e7e5a3</id>
@@ -105,6 +119,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f74f154d-c43b-5817-b778-a55e1eb22da8</id>
+    <title><![CDATA[【歌枠】新しく覚えた曲もうたっていくぞおお【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/Gx6_WEVv1iM" rel="alternate" type="text/html"/>
+    <published>2025-05-30T13:00:55.000Z</published>
+    <updated>2025-05-30T08:59:49.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Gx6_WEVv1iM 【LIVE on &lt;t:1748595589:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Gx6_WEVv1iM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4bf05748-b892-522a-9d4f-01326296dc9f</id>
     <title><![CDATA[【 歌枠 】自己満【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/_Q3feRXFUbI" rel="alternate" type="text/html"/>
@@ -116,6 +144,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_Q3feRXFUbI 【LIVE on &lt;t:1748610017:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Q3feRXFUbI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:902dcd9e-9edf-55fe-8b3f-5295c81bde8e</id>
+    <title><![CDATA[【 #ROCKがNIGHT 】I'm 最強 / スペシャルゲストあり!?【 #宙月ティラ 】]]></title>
+    <link href="https://youtu.be/cy1OL3k4cH0" rel="alternate" type="text/html"/>
+    <published>2025-05-30T11:40:26.000Z</published>
+    <updated>2025-05-30T11:01:11.000Z</updated>
+    <author>
+      <name>Tyra Ch. 宙月ティラ</name>
+      <uri>https://www.youtube.com/channel/UCdQYcUyffHZoz0KOwuiG0lQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cy1OL3k4cH0 【LIVE on &lt;t:1748602871:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cy1OL3k4cH0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -144,20 +186,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=auRfCftO_Yo 【LIVE on &lt;t:1748600417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/auRfCftO_Yo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f74f154d-c43b-5817-b778-a55e1eb22da8</id>
-    <title><![CDATA[【歌枠】新しく覚えた曲もうたっていくぞおお【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/Gx6_WEVv1iM" rel="alternate" type="text/html"/>
-    <published>2025-05-30T08:59:33.000Z</published>
-    <updated>2025-05-30T08:59:49.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Gx6_WEVv1iM 【LIVE on &lt;t:1748595589:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Gx6_WEVv1iM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -242,20 +270,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=A1Cs9A8JhYs 【LIVE on &lt;t:1748606408:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A1Cs9A8JhYs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:902dcd9e-9edf-55fe-8b3f-5295c81bde8e</id>
-    <title><![CDATA[【 #ROCKがNIGHT 】I’m 最強 / スペシャルゲストあり！？【 #宙月ティラ 】]]></title>
-    <link href="https://youtu.be/cy1OL3k4cH0" rel="alternate" type="text/html"/>
-    <published>2025-05-28T14:18:10.000Z</published>
-    <updated>2025-05-30T11:01:11.000Z</updated>
-    <author>
-      <name>Tyra Ch. 宙月ティラ</name>
-      <uri>https://www.youtube.com/channel/UCdQYcUyffHZoz0KOwuiG0lQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cy1OL3k4cH0 【LIVE on &lt;t:1748602871:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cy1OL3k4cH0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
