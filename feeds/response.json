@@ -1,5 +1,24 @@
 [
   {
+    "id": "haz-0Gcw3_A",
+    "title": "【KARAOKE】Vocaloid and Anisong【 iofi / hololiveID 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-31T13:28:19.000Z",
+    "available_at": "2025-05-31T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
     "id": "DwXCB_gADMQ",
     "title": "【歌枠 / karaoke】おひさ~~~ねっむ / アステル",
     "type": "stream",
@@ -7,7 +26,7 @@
     "published_at": "2025-05-31T12:31:00.000Z",
     "available_at": "2025-05-31T13:30:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -43,7 +62,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-31T10:55:47.000Z",
-    "available_at": "2025-05-31T13:00:00.000Z",
+    "available_at": "2025-05-31T13:03:49.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -123,8 +142,9 @@
     "topic_id": "singing",
     "published_at": "2025-05-30T14:29:24.000Z",
     "available_at": "2025-05-31T13:00:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3619,
+    "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -1972,25 +1992,6 @@
     "live_tl_count": {
       "en": 25
     },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "i6jczPBizPY",
-    "title": "【歌 】LOST SONG TIME【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-11T09:54:42.000Z",
-    "available_at": "2025-05-11T14:02:29.000Z",
-    "duration": 2,
-    "status": "missing",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
