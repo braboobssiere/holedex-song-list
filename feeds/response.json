@@ -62,9 +62,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-30T14:26:04.000Z",
-    "available_at": "2025-05-31T05:00:00.000Z",
+    "available_at": "2025-05-31T05:00:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -93,25 +93,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "pWjKUV_0Rto",
-    "title": "【 歌枠 l KARAOKE 】お披露目あり〜！いろんな衣装で歌います！【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-30T11:33:16.000Z",
-    "available_at": "2025-05-30T11:38:22.000Z",
-    "duration": 7529,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
@@ -2053,6 +2034,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
+    }
+  },
+  {
+    "id": "JbNrQRKbdA8",
+    "title": "【リオニコ歌枠】初!!リオニコ歌枠!沢山歌う💛💕【ホロライブ DEV_IS 響咲リオナ 虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-10T10:23:37.000Z",
+    "available_at": "2025-05-10T08:33:11.000Z",
+    "duration": 5318,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
