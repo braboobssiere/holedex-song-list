@@ -1,5 +1,43 @@
 [
   {
+    "id": "DwXCB_gADMQ",
+    "title": "【歌枠 / karaoke】おひさ~~~ねっむ / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-31T12:31:00.000Z",
+    "available_at": "2025-05-31T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "wvtP9tUr_S4",
+    "title": "セルフサービス / 天音かなた(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-31T12:00:06.000Z",
+    "available_at": "2025-05-31T12:00:06.000Z",
+    "duration": 160,
+    "status": "past",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "ho-IuaLMDQk",
     "title": "月末のカラオケ 歌枠 【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
@@ -7,7 +45,7 @@
     "published_at": "2025-05-31T10:55:47.000Z",
     "available_at": "2025-05-31T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -84,9 +122,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-30T14:29:24.000Z",
-    "available_at": "2025-05-31T13:00:00.000Z",
+    "available_at": "2025-05-31T13:00:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -302,7 +340,7 @@
   },
   {
     "id": "fm9yOM9knZo",
-    "title": "【3D重大告知】VTuber人生を教科書にして #しくじりかなたそ 先生爆誕!!【天音かなた/ホロライブ】",
+    "title": "【3D重大告知】VTuber人生を教科書にして #しくじりかなたそ 先生爆誕！！【天音かなた/ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-05-29T09:30:31.000Z",
@@ -310,7 +348,7 @@
     "duration": 3741,
     "status": "past",
     "live_tl_count": {
-      "en": 157
+      "en": 156
     },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
@@ -1945,26 +1983,6 @@
     }
   },
   {
-    "id": "WDabbOTV-qc",
-    "title": "【 #アキロゼ100万人耐久 】チャンネル登録100万人いくまで歌うぞ!!【アキロゼ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-11T10:11:25.000Z",
-    "available_at": "2025-05-11T08:57:45.000Z",
-    "duration": 4065,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCFTLzh12_nrtzqBPsTCqenA",
-      "name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aki Rosenthal"
-    }
-  },
-  {
     "id": "i6jczPBizPY",
     "title": "【歌 】LOST SONG TIME【ホロライブ/ ロボ子さん】",
     "type": "stream",
@@ -3222,27 +3240,6 @@
     "published_at": "2025-04-20T15:00:36.000Z",
     "available_at": "2025-04-20T15:00:36.000Z",
     "duration": 221,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCd98gt94MNkYpfe4-OJU8Tw",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "KTl8eqjFOyk",
-    "title": "GREATEST(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-20T15:00:26.000Z",
-    "available_at": "2025-04-20T15:00:26.000Z",
-    "duration": 220,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCd98gt94MNkYpfe4-OJU8Tw",
