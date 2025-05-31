@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-31T07:18:00.000Z",
-    "available_at": "2025-05-31T08:00:00.000Z",
+    "available_at": "2025-05-31T08:06:03.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 75
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -73,25 +76,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "pos3dcQuKng",
-    "title": "【3D SORAWRITEA】READING MORE OF YOUR TEA!!!",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-30T14:26:04.000Z",
-    "available_at": "2025-05-31T05:00:09.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -5185,6 +5169,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
+    }
+  },
+  {
+    "id": "cw3e0HzTj10",
+    "title": "【Free Preview】Mori Calliope 2nd Concert \"Grimoire\"",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-02-27T03:34:56.000Z",
+    "available_at": "2025-02-27T02:30:21.000Z",
+    "duration": 3650,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
