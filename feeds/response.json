@@ -124,6 +124,7 @@
     "available_at": "2025-05-30T08:59:49.000Z",
     "duration": 7394,
     "status": "past",
+    "songcount": 19,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -162,6 +163,7 @@
     "available_at": "2025-05-30T10:00:22.000Z",
     "duration": 5873,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -181,6 +183,7 @@
     "available_at": "2025-05-30T10:30:51.000Z",
     "duration": 1831,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "ja": 18
     },
@@ -192,6 +195,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "PuoQIMGkxDE",
+    "title": "【歌枠】JOYSOUNDアプリの採点で100点取れるか?!1時間チャレンジ!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-29T14:18:39.000Z",
+    "available_at": "2025-05-29T13:00:33.000Z",
+    "duration": 4328,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -212,26 +235,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Omaru Polka"
-    }
-  },
-  {
-    "id": "PuoQIMGkxDE",
-    "title": "【歌枠】JOYSOUNDアプリの採点で１００点取れるか？！１時間チャレンジ！【 ホロライブ / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-29T11:35:07.000Z",
-    "available_at": "2025-05-29T13:00:33.000Z",
-    "duration": 4338,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
