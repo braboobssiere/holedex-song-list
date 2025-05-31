@@ -48,8 +48,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-31T13:28:19.000Z",
     "available_at": "2025-05-31T15:00:40.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6428,
+    "status": "past",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -578,6 +578,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "wrsUn4IQmZ0",
+    "title": "【3D LIVE】 1st generation 7th anniversary♪♪ 【 #電脳ぴゅあ推し大宣言 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-05-27T04:59:34.000Z",
+    "available_at": "2025-06-01T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5619,25 +5638,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "C10buz7L-kI",
-    "title": "【総集編】総勢40名! 常闇トワ5周年記念こんやっぴーまとめ",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-01-05T02:16:12.000Z",
-    "available_at": "2025-01-05T02:16:12.000Z",
-    "duration": 1008,
-    "status": "past",
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
     }
   },
   {
