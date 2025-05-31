@@ -1,5 +1,24 @@
 [
   {
+    "id": "9HpBUX9yhB0",
+    "title": "【AXELOTL DAY KARAOKE】Are we going to do our stupid little shot drink karaoke?【Unarchived】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-31T02:07:48.000Z",
+    "available_at": "2025-05-31T03:00:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC2hx0xVkMoHGWijwr_lA01w",
+      "name": "Axel Syrios Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Axel Syrios"
+    }
+  },
+  {
     "id": "4N5uEPMD4Dg",
     "title": "【歌枠】重大告知...しちゃっていい!?【轟はじめ/ReGLOSS】 #hololivedev_is",
     "type": "stream",
@@ -326,6 +345,7 @@
     "available_at": "2025-05-30T12:00:08.000Z",
     "duration": 3501,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCt30jJgChL8qeT9VPadidSw",
       "name": "しぐれうい",
@@ -2053,26 +2073,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
-    }
-  },
-  {
-    "id": "D8qcXiDTkj0",
-    "title": "【弾き語り歌枠 】うたうっす【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-08T14:26:52.000Z",
-    "available_at": "2025-05-08T13:15:39.000Z",
-    "duration": 3636,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
