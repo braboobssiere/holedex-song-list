@@ -1,13 +1,74 @@
 [
   {
+    "id": "VyVhVvFQCV8",
+    "title": "セルフサービス(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-31T15:00:49.000Z",
+    "available_at": "2025-05-31T15:00:49.000Z",
+    "duration": 160,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCPCiIrrrNJOKvi_5vr3G6PA",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "azUCUgVXNF4",
+    "title": "セルフサービス",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-31T15:00:06.000Z",
+    "available_at": "2025-05-31T15:00:06.000Z",
+    "duration": 161,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCPCiIrrrNJOKvi_5vr3G6PA",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "Z_FHoBlKjw8",
+    "title": "月末のカラオケ 歌枠 【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-31T14:11:03.000Z",
+    "available_at": "2025-05-31T14:12:16.000Z",
+    "duration": 1764,
+    "status": "past",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "haz-0Gcw3_A",
     "title": "【KARAOKE】Vocaloid and Anisong【 iofi / hololiveID 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-31T13:28:19.000Z",
-    "available_at": "2025-05-31T15:00:00.000Z",
+    "available_at": "2025-05-31T15:00:40.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -63,8 +124,8 @@
     "topic_id": "singing",
     "published_at": "2025-05-31T10:55:47.000Z",
     "available_at": "2025-05-31T13:03:49.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4094,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -137,7 +198,7 @@
   },
   {
     "id": "4N5uEPMD4Dg",
-    "title": "【歌枠】重大告知...しちゃっていい!?【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "title": "【歌枠】重大告知...しちゃっていい！？【轟はじめ/ReGLOSS】 #hololivedev_is",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-05-30T14:29:24.000Z",
@@ -1981,28 +2042,6 @@
     }
   },
   {
-    "id": "YVjpNjCMm1g",
-    "title": "【歌 】2秒で終わってすみません LOST SONG TIME【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-11T14:03:48.000Z",
-    "available_at": "2025-05-11T14:06:09.000Z",
-    "duration": 4365,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 25
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
     "id": "5x9ix5CGmoo",
     "title": "Oh Princess - Lyric Video [CECILIA IMMERGREEN]",
     "type": "stream",
@@ -3176,26 +3215,6 @@
     }
   },
   {
-    "id": "07alVKGB-Aw",
-    "title": "PERFUME - Takanashi Kiara (Official Music Video)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-21T01:11:24.000Z",
-    "available_at": "2025-04-21T01:11:24.000Z",
-    "duration": 172,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
     "id": "zOFKpbMMR4s",
     "title": "【3D VR Stream】I'M TAKING YOU WITH ME",
     "type": "stream",
@@ -3231,27 +3250,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "ModFMNgQldA",
-    "title": "GREATEST",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-20T15:00:36.000Z",
-    "available_at": "2025-04-20T15:00:36.000Z",
-    "duration": 221,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCd98gt94MNkYpfe4-OJU8Tw",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {

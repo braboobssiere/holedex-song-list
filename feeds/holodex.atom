@@ -3,19 +3,47 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-05-31T14:06:25.953Z</updated>
+  <updated>2025-05-31T15:06:28.325Z</updated>
+
+  <entry>
+    <id>urn:uuid:34eb92a4-012c-5b94-9005-214a92e7e5a3</id>
+    <title><![CDATA[セルフサービス(Instrumental)]]></title>
+    <link href="https://youtu.be/VyVhVvFQCV8" rel="alternate" type="text/html"/>
+    <published>2025-05-31T15:00:49.000Z</published>
+    <updated>2025-05-31T15:00:49.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VyVhVvFQCV8 【LIVE on &lt;t:1748703649:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VyVhVvFQCV8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a23f2d13-e617-5cc3-ab0b-13d77c047c79</id>
+    <title><![CDATA[セルフサービス]]></title>
+    <link href="https://youtu.be/azUCUgVXNF4" rel="alternate" type="text/html"/>
+    <published>2025-05-31T15:00:06.000Z</published>
+    <updated>2025-05-31T15:00:06.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=azUCUgVXNF4 【LIVE on &lt;t:1748703606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/azUCUgVXNF4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1b0c08d3-a451-53dd-bec1-fffd39492409</id>
     <title><![CDATA[【KARAOKE】Vocaloid and Anisong【 iofi / hololiveID 】]]></title>
     <link href="https://youtu.be/haz-0Gcw3_A" rel="alternate" type="text/html"/>
     <published>2025-05-31T13:28:19.000Z</published>
-    <updated>2025-05-31T13:28:19.000Z</updated>
+    <updated>2025-05-31T15:00:40.000Z</updated>
     <author>
       <name>Airani Iofifteen Channel hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=haz-0Gcw3_A 【LIVE on &lt;t:1748703600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=haz-0Gcw3_A 【LIVE on &lt;t:1748703640:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/haz-0Gcw3_A/maxresdefault.jpg"/>
   </entry>
 
@@ -64,7 +92,7 @@
 
   <entry>
     <id>urn:uuid:e17dc35d-94d9-538f-a612-510b617bed42</id>
-    <title><![CDATA[【歌枠】重大告知...しちゃっていい!?【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
+    <title><![CDATA[【歌枠】重大告知...しちゃっていい！？【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
     <link href="https://youtu.be/4N5uEPMD4Dg" rel="alternate" type="text/html"/>
     <published>2025-05-30T14:29:24.000Z</published>
     <updated>2025-05-31T13:00:13.000Z</updated>
@@ -1321,34 +1349,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jjLLByDa3Xc 【LIVE on &lt;t:1745193345:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jjLLByDa3Xc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:640b5540-1e42-5285-956b-12577d4ddecc</id>
-    <title><![CDATA[PERFUME - Takanashi Kiara (Official Music Video)]]></title>
-    <link href="https://youtu.be/07alVKGB-Aw" rel="alternate" type="text/html"/>
-    <published>2025-04-21T01:11:24.000Z</published>
-    <updated>2025-04-21T01:11:24.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=07alVKGB-Aw 【LIVE on &lt;t:1745197884:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/07alVKGB-Aw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e96fdeaf-f5fe-5604-b234-a92e96d8f0cc</id>
-    <title><![CDATA[GREATEST]]></title>
-    <link href="https://youtu.be/ModFMNgQldA" rel="alternate" type="text/html"/>
-    <published>2025-04-20T15:00:36.000Z</published>
-    <updated>2025-04-20T15:00:36.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ModFMNgQldA 【LIVE on &lt;t:1745161236:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ModFMNgQldA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
