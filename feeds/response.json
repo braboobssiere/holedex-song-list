@@ -1,5 +1,24 @@
 [
   {
+    "id": "IOMG0ZQpqNM",
+    "title": "【UNARCHIVED KARAOKE】Set Fire To The Rain ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-01T11:19:03.000Z",
+    "available_at": "2025-06-01T11:37:59.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "KKpnfp4rczg",
     "title": "【#7周年フブちゃん】みんなで7周年記念ライブ振り返り!!本当にありがとThank you【ホロライブ/白上フブキ】",
     "type": "stream",
@@ -19,6 +38,25 @@
     }
   },
   {
+    "id": "3KYhMk63lj4",
+    "title": "電脳ぴゅあ推し大宣言 / ホロライブ1期生(Original)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-01T04:29:46.000Z",
+    "available_at": "2025-06-01T12:15:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "sDhA8M5HLnA",
     "title": "【歌枠】嬉しくて楽しい告知があります!!!!!!【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -26,7 +64,7 @@
     "published_at": "2025-05-31T20:42:01.000Z",
     "available_at": "2025-06-01T12:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -97,25 +135,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "DwXCB_gADMQ",
-    "title": "【歌枠 / karaoke】おひさ~~~ねっむ / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-31T12:31:00.000Z",
-    "available_at": "2025-05-31T13:30:00.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -630,8 +649,11 @@
     "topic_id": "Anniversary",
     "published_at": "2025-05-27T04:59:34.000Z",
     "available_at": "2025-06-01T10:55:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3737,
+    "status": "past",
+    "live_tl_count": {
+      "en": 137
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -3146,27 +3168,6 @@
     "topic_id": "Original_Song",
     "published_at": "2025-04-21T15:01:17.000Z",
     "available_at": "2025-04-21T15:01:17.000Z",
-    "duration": 171,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC2bwyj9ZETKZQh5e8T3vvtA",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "XSgt8tf47RE",
-    "title": "PERFUME(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-21T15:00:52.000Z",
-    "available_at": "2025-04-21T15:00:52.000Z",
     "duration": 171,
     "status": "past",
     "songcount": 1,
