@@ -1,24 +1,5 @@
 [
   {
-    "id": "apSRnB5h7So",
-    "title": "STRING THEOLOGY - Original Song by Octavio",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-01T02:00:03.000Z",
-    "available_at": "2025-06-01T02:00:03.000Z",
-    "duration": 44,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "sDhA8M5HLnA",
     "title": "【歌枠】嬉しくて楽しい告知があります!!!!!!【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -88,6 +69,7 @@
     "available_at": "2025-05-31T15:00:40.000Z",
     "duration": 6428,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -146,6 +128,7 @@
     "available_at": "2025-05-31T13:03:49.000Z",
     "duration": 4094,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -207,6 +190,7 @@
     "available_at": "2025-05-31T03:29:05.000Z",
     "duration": 9746,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -3143,6 +3127,27 @@
     "topic_id": "Original_Song",
     "published_at": "2025-04-21T15:01:17.000Z",
     "available_at": "2025-04-21T15:01:17.000Z",
+    "duration": 171,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC2bwyj9ZETKZQh5e8T3vvtA",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "XSgt8tf47RE",
+    "title": "PERFUME(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-04-21T15:00:52.000Z",
+    "available_at": "2025-04-21T15:00:52.000Z",
     "duration": 171,
     "status": "past",
     "songcount": 1,

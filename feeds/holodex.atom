@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-01T02:06:29.743Z</updated>
+  <updated>2025-06-01T03:06:28.836Z</updated>
 
   <entry>
     <id>urn:uuid:64384e0a-4d9f-5be3-9e21-60bc2448eeec</id>
@@ -1335,6 +1335,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lyqTfjRFie8 【LIVE on &lt;t:1745247677:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lyqTfjRFie8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7b4460e4-3182-5872-8358-38e3e75e4c9a</id>
+    <title><![CDATA[PERFUME(Instrumental)]]></title>
+    <link href="https://youtu.be/XSgt8tf47RE" rel="alternate" type="text/html"/>
+    <published>2025-04-21T15:00:52.000Z</published>
+    <updated>2025-04-21T15:00:52.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XSgt8tf47RE 【LIVE on &lt;t:1745247652:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XSgt8tf47RE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
