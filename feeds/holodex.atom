@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-01T12:06:34.223Z</updated>
+  <updated>2025-06-01T13:06:30.475Z</updated>
+
+  <entry>
+    <id>urn:uuid:23afe1e4-356b-5adf-be49-a50666a0701e</id>
+    <title><![CDATA[電脳ぴゅあ推し大宣言 / ホロライブ1期生(Original)]]></title>
+    <link href="https://youtu.be/3KYhMk63lj4" rel="alternate" type="text/html"/>
+    <published>2025-06-01T12:15:06.000Z</published>
+    <updated>2025-06-01T12:15:06.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3KYhMk63lj4 【LIVE on &lt;t:1748780106:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3KYhMk63lj4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f5ca8895-746a-5eeb-a088-aaee4f830add</id>
@@ -20,30 +34,16 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:23afe1e4-356b-5adf-be49-a50666a0701e</id>
-    <title><![CDATA[電脳ぴゅあ推し大宣言 / ホロライブ1期生(Original)]]></title>
-    <link href="https://youtu.be/3KYhMk63lj4" rel="alternate" type="text/html"/>
-    <published>2025-06-01T04:29:46.000Z</published>
-    <updated>2025-06-01T04:29:46.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3KYhMk63lj4 【LIVE on &lt;t:1748780100:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3KYhMk63lj4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:64384e0a-4d9f-5be3-9e21-60bc2448eeec</id>
     <title><![CDATA[【歌枠】嬉しくて楽しい告知があります!!!!!!【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/sDhA8M5HLnA" rel="alternate" type="text/html"/>
     <published>2025-05-31T20:42:01.000Z</published>
-    <updated>2025-06-01T12:00:00.000Z</updated>
+    <updated>2025-06-01T12:05:26.000Z</updated>
     <author>
       <name>Watame Ch. 角巻わため</name>
       <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sDhA8M5HLnA 【LIVE on &lt;t:1748779200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sDhA8M5HLnA 【LIVE on &lt;t:1748779526:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sDhA8M5HLnA/maxresdefault.jpg"/>
   </entry>
 
