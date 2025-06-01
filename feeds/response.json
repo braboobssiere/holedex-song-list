@@ -1,5 +1,66 @@
 [
   {
+    "id": "WPxvMSEzKoY",
+    "title": "🛸【歌枠】 ✧︎SINGING! ✧︎おーきーてー!!!!!!!!!!!【ラプラス・ダークネス/ホロライブ】💜",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-01T19:05:05.000Z",
+    "available_at": "2025-06-01T19:56:50.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
+    "id": "kwAsjfVInS4",
+    "title": "めちゃゴミ♡完♡全♡食!!(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-01T15:04:17.000Z",
+    "available_at": "2025-06-01T15:04:17.000Z",
+    "duration": 181,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "fDvGpsTm-xk",
+    "title": "めちゃゴミ♡完♡全♡食!!",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-01T15:03:05.000Z",
+    "available_at": "2025-06-01T15:03:05.000Z",
+    "duration": 181,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ob0LQV8-i9FXY_GX4AEnsWsxvYUojcYtjZjtLsmjQRtPoYMZN5qWAe9hRhy7sMa19PlF61BG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "3KYhMk63lj4",
     "title": "電脳ぴゅあ推し大宣言 / ホロライブ1期生(Original)",
     "type": "stream",
@@ -85,6 +146,7 @@
     "available_at": "2025-06-02T09:30:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -2128,26 +2190,6 @@
     }
   },
   {
-    "id": "xfXtgC75wJY",
-    "title": "【歌枠】うたいます。【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-12T05:57:04.000Z",
-    "available_at": "2025-05-12T02:58:59.000Z",
-    "duration": 10122,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "YGj_4Igj4AE",
     "title": "【#一条莉々華生誕祭2025】あっという間に2回目の誕生日を迎えるらしい…!!カウントダウン雑談【一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
@@ -3124,26 +3166,6 @@
     }
   },
   {
-    "id": "JiZHJzcbs4s",
-    "title": "きゅーぴっど。 / 天音かなた(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-22T12:55:07.000Z",
-    "available_at": "2025-04-22T12:55:07.000Z",
-    "duration": 199,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "AwatsxA2oG0",
     "title": "🎉🎂【HAKKA BIRBDAY 2025】TODAY, IS MY SPECIAL DAY HAKKITO ! ! !【Birthday Zatsu + Totsumachi】🎂🎉",
     "type": "stream",
@@ -3152,26 +3174,6 @@
     "available_at": "2025-04-22T01:08:28.000Z",
     "duration": 13235,
     "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "TahlS4FZXDA",
-    "title": "【MV】Omen of Crows - Banzoin Hakka / Prod. by @Cametek.CamelliaOfficial  【Original Song】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-04-22T01:00:06.000Z",
-    "available_at": "2025-04-22T01:00:06.000Z",
-    "duration": 248,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
