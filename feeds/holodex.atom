@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-01T23:06:26.267Z</updated>
+  <updated>2025-06-02T00:06:25.081Z</updated>
 
   <entry>
     <id>urn:uuid:5c218118-8b85-5fbd-b344-94f2781f682d</id>
@@ -132,6 +132,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:e17dc35d-94d9-538f-a612-510b617bed42</id>
+    <title><![CDATA[【歌枠】重大告知...しちゃっていい!?【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
+    <link href="https://youtu.be/4N5uEPMD4Dg" rel="alternate" type="text/html"/>
+    <published>2025-05-31T14:05:26.000Z</published>
+    <updated>2025-05-31T13:00:13.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4N5uEPMD4Dg 【LIVE on &lt;t:1748696413:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4N5uEPMD4Dg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1b0c08d3-a451-53dd-bec1-fffd39492409</id>
     <title><![CDATA[【KARAOKE】Vocaloid and Anisong【 iofi / hololiveID 】]]></title>
     <link href="https://youtu.be/haz-0Gcw3_A" rel="alternate" type="text/html"/>
@@ -186,20 +200,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=srm6QWTKHmw 【LIVE on &lt;t:1748662145:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/srm6QWTKHmw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e17dc35d-94d9-538f-a612-510b617bed42</id>
-    <title><![CDATA[【歌枠】重大告知...しちゃっていい！？【轟はじめ/ReGLOSS】 #hololivedev_is]]></title>
-    <link href="https://youtu.be/4N5uEPMD4Dg" rel="alternate" type="text/html"/>
-    <published>2025-05-30T14:29:24.000Z</published>
-    <updated>2025-05-31T13:00:13.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4N5uEPMD4Dg 【LIVE on &lt;t:1748696413:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4N5uEPMD4Dg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
