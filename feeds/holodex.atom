@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-02T05:06:27.432Z</updated>
+  <updated>2025-06-02T06:06:25.008Z</updated>
+
+  <entry>
+    <id>urn:uuid:6ce74f84-68d1-58e1-afcd-ebc832030ab6</id>
+    <title><![CDATA[オリジナルミュージカル『MUSICAL Fantasia of Bremen』/Oster project 【ホロライブ/アキロゼ】]]></title>
+    <link href="https://youtu.be/9PUyXekcnms" rel="alternate" type="text/html"/>
+    <published>2025-06-01T21:56:26.000Z</published>
+    <updated>2025-06-01T21:56:26.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9PUyXekcnms 【LIVE on &lt;t:1748854800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9PUyXekcnms/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0ff06cc5-5b2e-56fc-842a-b627a0e3f424</id>
@@ -20,6 +34,62 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:1e62de44-ec9f-59f3-a9c5-664e103a8bc0</id>
+    <title><![CDATA[Prelude]]></title>
+    <link href="https://youtu.be/BMf07iUaucQ" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:03:58.000Z</published>
+    <updated>2025-06-01T15:03:58.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BMf07iUaucQ 【LIVE on &lt;t:1748790238:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BMf07iUaucQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:28e750f2-dafe-5166-aa8f-5e1a07cffd17</id>
+    <title><![CDATA[電脳ぴゅあ推し大宣言 (Instrumental)]]></title>
+    <link href="https://youtu.be/xsBb6dm8Ytk" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:03:52.000Z</published>
+    <updated>2025-06-01T15:03:52.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xsBb6dm8Ytk 【LIVE on &lt;t:1748790232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xsBb6dm8Ytk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fa6ca2da-44a9-5457-8549-30c505fd9c38</id>
+    <title><![CDATA[電脳ぴゅあ推し大宣言]]></title>
+    <link href="https://youtu.be/wS_9sZ2yRC4" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:03:36.000Z</published>
+    <updated>2025-06-01T15:03:36.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wS_9sZ2yRC4 【LIVE on &lt;t:1748790216:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wS_9sZ2yRC4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4e8a7332-f514-53d5-bb43-9e03529d8feb</id>
+    <title><![CDATA[Road to Bremen (with Hen)]]></title>
+    <link href="https://youtu.be/c4kR3fa3cLo" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:03:27.000Z</published>
+    <updated>2025-06-01T15:03:27.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=c4kR3fa3cLo 【LIVE on &lt;t:1748790207:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c4kR3fa3cLo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:319630ad-ebb3-5d7a-93c4-b7547e6bed0a</id>
     <title><![CDATA[めちゃゴミ♡完♡全♡食!!]]></title>
     <link href="https://youtu.be/fDvGpsTm-xk" rel="alternate" type="text/html"/>
@@ -31,6 +101,132 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fDvGpsTm-xk 【LIVE on &lt;t:1748790185:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fDvGpsTm-xk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cce2671c-72a7-5e83-beb7-b7882e5822ff</id>
+    <title><![CDATA[The Fantasy Seeker]]></title>
+    <link href="https://youtu.be/Kc0Nb55pkW4" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:02:35.000Z</published>
+    <updated>2025-06-01T15:02:35.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Kc0Nb55pkW4 【LIVE on &lt;t:1748790155:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kc0Nb55pkW4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:82817cea-e671-58d8-a414-6e3d2feccbec</id>
+    <title><![CDATA[Road to Bremen (with Dog)]]></title>
+    <link href="https://youtu.be/TSiYkvEXxsE" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:02:22.000Z</published>
+    <updated>2025-06-01T15:02:22.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TSiYkvEXxsE 【LIVE on &lt;t:1748790142:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TSiYkvEXxsE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a2b106be-8b0c-519d-902d-8de06dd82dce</id>
+    <title><![CDATA[The Kind Illusionist〜Road to Bremen (with All)]]></title>
+    <link href="https://youtu.be/EF_zB50Kzj4" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:02:11.000Z</published>
+    <updated>2025-06-01T15:02:11.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EF_zB50Kzj4 【LIVE on &lt;t:1748790131:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EF_zB50Kzj4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4db7b4e6-8e3c-5046-ab12-3503a2681ab4</id>
+    <title><![CDATA[Road to Bremen (with Cat)]]></title>
+    <link href="https://youtu.be/NePVC7CQktg" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:02:09.000Z</published>
+    <updated>2025-06-01T15:02:09.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NePVC7CQktg 【LIVE on &lt;t:1748790129:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NePVC7CQktg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f91ca749-775b-5de8-ba99-7b625c442020</id>
+    <title><![CDATA[Bremen Music Festival]]></title>
+    <link href="https://youtu.be/BczTVRPQJ44" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:01:55.000Z</published>
+    <updated>2025-06-01T15:01:55.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BczTVRPQJ44 【LIVE on &lt;t:1748790115:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BczTVRPQJ44/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:215e884d-14cf-52c4-b9c2-9e8ed7df1f30</id>
+    <title><![CDATA[Dreaming Princess〜Road to Bremen]]></title>
+    <link href="https://youtu.be/hZezWrdD17k" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:01:55.000Z</published>
+    <updated>2025-06-01T15:01:55.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hZezWrdD17k 【LIVE on &lt;t:1748790115:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZezWrdD17k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0ffe4d63-7d02-5087-9680-08b4e18f11a8</id>
+    <title><![CDATA[Miracle Voice]]></title>
+    <link href="https://youtu.be/zGK3M6Trz4I" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:01:53.000Z</published>
+    <updated>2025-06-01T15:01:53.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zGK3M6Trz4I 【LIVE on &lt;t:1748790113:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zGK3M6Trz4I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9a4f455f-9dd3-5bcf-8c35-11a755455cfd</id>
+    <title><![CDATA[Feel my Song!]]></title>
+    <link href="https://youtu.be/jMV3xaoikVA" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:01:34.000Z</published>
+    <updated>2025-06-01T15:01:34.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jMV3xaoikVA 【LIVE on &lt;t:1748790094:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jMV3xaoikVA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cc18f872-45b6-582d-a083-e98db1293e75</id>
+    <title><![CDATA[Finale]]></title>
+    <link href="https://youtu.be/r1aDEhYv41s" rel="alternate" type="text/html"/>
+    <published>2025-06-01T15:01:29.000Z</published>
+    <updated>2025-06-01T15:01:29.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r1aDEhYv41s 【LIVE on &lt;t:1748790089:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r1aDEhYv41s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1198,48 +1394,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ae1de97c-8dbe-5878-9309-e49075f5691c</id>
-    <title><![CDATA[【original anime MV】A Horny Money World ~伝説の夜~【hololive/宝鐘マリン】]]></title>
-    <link href="https://youtu.be/2_opjVlYhi4" rel="alternate" type="text/html"/>
-    <published>2025-04-29T10:57:06.000Z</published>
-    <updated>2025-04-29T10:57:06.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2_opjVlYhi4 【LIVE on &lt;t:1745924226:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2_opjVlYhi4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:acc37ed2-dc24-5b94-99d9-3891fd8c117d</id>
-    <title><![CDATA[【MV】スターライト【ホロライブ/大空スバル】]]></title>
-    <link href="https://youtu.be/v-2eM7LoNq8" rel="alternate" type="text/html"/>
-    <published>2025-04-26T13:50:06.000Z</published>
-    <updated>2025-04-26T13:50:06.000Z</updated>
-    <author>
-      <name>Subaru Ch. 大空スバル</name>
-      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=v-2eM7LoNq8 【LIVE on &lt;t:1745675406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v-2eM7LoNq8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:330313b4-1303-5843-a442-ff1e26003cf1</id>
-    <title><![CDATA[Nekkyo]]></title>
-    <link href="https://youtu.be/yDQLSTf53_g" rel="alternate" type="text/html"/>
-    <published>2025-04-26T10:03:35.000Z</published>
-    <updated>2025-04-26T10:03:35.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yDQLSTf53_g 【LIVE on &lt;t:1745661815:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yDQLSTf53_g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:6a1a9801-e5a3-5f2c-91fa-dbd98d5803b3</id>
     <title><![CDATA[【BIRTHDAY KARAOKE】SEVEN! #04 (EIGHT EDITION) + SPECIAL ANNOUNCEMENT ~! 💄#ERBday2025]]></title>
     <link href="https://youtu.be/1OSCNdXa2Zs" rel="alternate" type="text/html"/>
@@ -1251,104 +1405,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1OSCNdXa2Zs 【LIVE on &lt;t:1745575089:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1OSCNdXa2Zs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ced52f79-bfff-5270-abc9-d2a5bb365bbc</id>
-    <title><![CDATA[【original】シオン【ホロライブ/紫咲シオン】]]></title>
-    <link href="https://youtu.be/QcBj02A8ln4" rel="alternate" type="text/html"/>
-    <published>2025-04-25T10:00:06.000Z</published>
-    <updated>2025-04-25T10:00:06.000Z</updated>
-    <author>
-      <name>Shion Ch. 紫咲シオン</name>
-      <uri>https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QcBj02A8ln4 【LIVE on &lt;t:1745575206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QcBj02A8ln4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f48dc23b-d670-5786-8c8a-d23005adc5c8</id>
-    <title><![CDATA[Ash Again]]></title>
-    <link href="https://youtu.be/NR_B8KIIjpY" rel="alternate" type="text/html"/>
-    <published>2025-04-24T15:00:38.000Z</published>
-    <updated>2025-04-24T15:00:38.000Z</updated>
-    <author>
-      <name>Gawr Gura Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NR_B8KIIjpY 【LIVE on &lt;t:1745506838:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NR_B8KIIjpY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:63c1937d-ef16-5731-b445-ea2b1e185311</id>
-    <title><![CDATA[Ash Again(Instrumental)]]></title>
-    <link href="https://youtu.be/5mRO69pvn7o" rel="alternate" type="text/html"/>
-    <published>2025-04-24T15:00:08.000Z</published>
-    <updated>2025-04-24T15:00:08.000Z</updated>
-    <author>
-      <name>Gawr Gura Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5mRO69pvn7o 【LIVE on &lt;t:1745506808:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5mRO69pvn7o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:85c3110b-748e-526b-94fe-2b3c148c567f</id>
-    <title><![CDATA[Bloom in the night]]></title>
-    <link href="https://youtu.be/ZVza4omGfTk" rel="alternate" type="text/html"/>
-    <published>2025-04-24T05:26:20.000Z</published>
-    <updated>2025-04-24T05:26:20.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ZVza4omGfTk 【LIVE on &lt;t:1745472380:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZVza4omGfTk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2ccc1bb3-3fe4-55a3-9bad-76e3c5cd479f</id>
-    <title><![CDATA[夜に咲く]]></title>
-    <link href="https://youtu.be/cvsnofS1T64" rel="alternate" type="text/html"/>
-    <published>2025-04-23T15:03:57.000Z</published>
-    <updated>2025-04-23T15:03:57.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cvsnofS1T64 【LIVE on &lt;t:1745420637:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cvsnofS1T64/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1e5e0583-66a0-5a73-9dd6-77331c188229</id>
-    <title><![CDATA[きゅーぴっど。]]></title>
-    <link href="https://youtu.be/CF4HoXLuoMc" rel="alternate" type="text/html"/>
-    <published>2025-04-22T15:02:29.000Z</published>
-    <updated>2025-04-22T15:02:29.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CF4HoXLuoMc 【LIVE on &lt;t:1745334149:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CF4HoXLuoMc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0e901582-fe35-5738-b036-91aed8a96845</id>
-    <title><![CDATA[きゅーぴっど。(Instrumental)]]></title>
-    <link href="https://youtu.be/RDKkzdmwd9I" rel="alternate" type="text/html"/>
-    <published>2025-04-22T15:01:40.000Z</published>
-    <updated>2025-04-22T15:01:40.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RDKkzdmwd9I 【LIVE on &lt;t:1745334100:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RDKkzdmwd9I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
