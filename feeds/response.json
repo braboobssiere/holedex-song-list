@@ -393,6 +393,26 @@
     }
   },
   {
+    "id": "7Y0VWVwp-gs",
+    "title": "【弾き語り歌枠 】ゆったり歌う1時間歌ったあとの枠【律可/ホロスターズ 】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-01T14:22:47.000Z",
+    "available_at": "2025-06-01T13:00:12.000Z",
+    "duration": 4221,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "KKpnfp4rczg",
     "title": "【#7周年フブちゃん】みんなで7周年記念ライブ振り返り!!本当にありがとThank you【ホロライブ/白上フブキ】",
     "type": "stream",
@@ -491,26 +511,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "7Y0VWVwp-gs",
-    "title": "【弾き語り歌枠 】ゆったり歌う1時間歌ったあとの枠【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-01T11:16:14.000Z",
-    "available_at": "2025-06-01T13:00:12.000Z",
-    "duration": 4247,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -1279,6 +1279,7 @@
     "available_at": "2025-06-02T09:30:16.000Z",
     "duration": 5208,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
