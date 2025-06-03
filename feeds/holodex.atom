@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-03T05:06:27.519Z</updated>
+  <updated>2025-06-03T06:06:28.803Z</updated>
+
+  <entry>
+    <id>urn:uuid:1efa961d-6600-5879-a932-cdd862295ad1</id>
+    <title><![CDATA[ホロライブ1期生オリジナル楽曲『電脳ぴゅあ推し大宣言』  #電脳ぴゅあ推し大宣言 #vtuber #ホロライブ #白上フブキ #踊ってみた]]></title>
+    <link href="https://youtu.be/GUuMEBSWcro" rel="alternate" type="text/html"/>
+    <published>2025-06-03T06:00:17.000Z</published>
+    <updated>2025-06-03T06:00:17.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GUuMEBSWcro 【LIVE on &lt;t:1748930417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GUuMEBSWcro/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c95c752d-35c2-554a-bbe4-b7f869fc4d7c</id>
@@ -63,7 +77,7 @@
 
   <entry>
     <id>urn:uuid:0ff06cc5-5b2e-56fc-842a-b627a0e3f424</id>
-    <title><![CDATA[めちゃゴミ♡完♡全♡食!!(Instrumental)]]></title>
+    <title><![CDATA[めちゃゴミ♡完♡全♡食!!（Instrumental）]]></title>
     <link href="https://youtu.be/kwAsjfVInS4" rel="alternate" type="text/html"/>
     <published>2025-06-01T15:04:17.000Z</published>
     <updated>2025-06-01T15:04:17.000Z</updated>
@@ -1391,20 +1405,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=13rfK2lBKIQ 【LIVE on &lt;t:1746014531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/13rfK2lBKIQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
-    <title><![CDATA[【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/YyAiLmldlr0" rel="alternate" type="text/html"/>
-    <published>2025-04-30T11:00:06.000Z</published>
-    <updated>2025-04-30T11:00:06.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
