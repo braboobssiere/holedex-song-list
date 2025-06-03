@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-03T07:06:26.510Z</updated>
+  <updated>2025-06-03T08:06:25.251Z</updated>
+
+  <entry>
+    <id>urn:uuid:ad40ad95-ce65-5f3d-a0e5-cb558dc76985</id>
+    <title><![CDATA[【歌枠】てんしのうたわく【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/0Ex84GyJeME" rel="alternate" type="text/html"/>
+    <published>2025-06-03T08:03:44.000Z</published>
+    <updated>2025-06-03T08:03:44.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Ex84GyJeME 【LIVE on &lt;t:1748959200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Ex84GyJeME/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c95c752d-35c2-554a-bbe4-b7f869fc4d7c</id>
@@ -1797,20 +1811,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ssB_4uHSASw 【LIVE on &lt;t:1740826257:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ssB_4uHSASw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2140cd3-f0f8-50ba-95f9-da4ed5922369</id>
-    <title><![CDATA[【Free Preview】Mori Calliope 2nd Concert "Grimoire"]]></title>
-    <link href="https://youtu.be/cw3e0HzTj10" rel="alternate" type="text/html"/>
-    <published>2025-02-27T03:34:56.000Z</published>
-    <updated>2025-02-27T02:30:21.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cw3e0HzTj10 【LIVE on &lt;t:1740623421:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cw3e0HzTj10/maxresdefault.jpg"/>
   </entry>
 
   <entry>

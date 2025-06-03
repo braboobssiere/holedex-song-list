@@ -1,5 +1,43 @@
 [
   {
+    "id": "0Ex84GyJeME",
+    "title": "【歌枠】てんしのうたわく【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-03T08:03:44.000Z",
+    "available_at": "2025-06-03T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "SjwGB_A5P_8",
+    "title": "初主演3D LIVEまであと4日!!【轟はじめ】#vtuber  #dance",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-03T08:00:27.000Z",
+    "available_at": "2025-06-03T08:00:27.000Z",
+    "duration": 27,
+    "status": "past",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "WPxvMSEzKoY",
     "title": "🛸【歌枠】 ✧︎SINGING! ✧︎おーきーてー!!!!!!!!!!!【ラプラス・ダークネス/ホロライブ】💜",
     "type": "stream",
@@ -8,6 +46,7 @@
     "available_at": "2025-06-01T19:56:50.000Z",
     "duration": 7527,
     "status": "past",
+    "songcount": 22,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -2460,28 +2499,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xPsA58D-QHyZREj_TSsFXW4fTI6y8rDmPnMJ_Y5lnmNtc38p2rvBVZb0tp_ML_lSMVLfFaDFtQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "dmR4g92tPMo",
-    "title": "【UNARCHIVED KARAOKE】YAY SINGING !!!【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-12T07:08:21.000Z",
-    "available_at": "2025-05-12T12:59:47.000Z",
-    "duration": 9099,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 20
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
@@ -5240,26 +5257,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
-    "id": "cw3e0HzTj10",
-    "title": "【Free Preview】Mori Calliope 2nd Concert \"Grimoire\"",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-02-27T03:34:56.000Z",
-    "available_at": "2025-02-27T02:30:21.000Z",
-    "duration": 3650,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
