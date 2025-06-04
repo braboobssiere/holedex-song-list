@@ -27,6 +27,9 @@
     "available_at": "2025-06-04T12:00:07.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -2192,26 +2195,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "I8BAe6LdYIs",
-    "title": "【ゲリラ歌枠】ちょっとだけ歌うぞ~!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-14T15:04:43.000Z",
-    "available_at": "2025-05-14T12:51:41.000Z",
-    "duration": 7469,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -5706,6 +5689,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "lOtd7B96nkQ",
+    "title": "【歌枠】超絶久々の深夜縦型歌枠🎶ぐるぐる回避できるかな…?!🌀【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-12-26T18:18:14.000Z",
+    "available_at": "2025-06-04T13:00:22.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
     }
   },
   {
