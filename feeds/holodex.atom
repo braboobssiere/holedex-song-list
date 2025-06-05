@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-05T21:06:33.064Z</updated>
+  <updated>2025-06-05T22:06:35.274Z</updated>
 
   <entry>
     <id>urn:uuid:255259ba-5997-5663-9e5e-d3655868efb5</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2W6pyLcyGkM 【LIVE on &lt;t:1749182400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2W6pyLcyGkM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:13b1336b-648d-5ecd-86bd-90466e247d55</id>
+    <title><![CDATA[???]]></title>
+    <link href="https://youtu.be/cVT_yB1qpYY" rel="alternate" type="text/html"/>
+    <published>2025-06-05T01:40:36.000Z</published>
+    <updated>2025-06-05T01:40:36.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cVT_yB1qpYY 【LIVE on &lt;t:1749214800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cVT_yB1qpYY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1433,20 +1447,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=13rfK2lBKIQ 【LIVE on &lt;t:1746014531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/13rfK2lBKIQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:72356b26-dd89-58f9-b709-f0710f4b4aa7</id>
-    <title><![CDATA[【火威青】インフルエンサーランドリー【DYES IWASAKI(FAKE TYPE.)】 #hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/YyAiLmldlr0" rel="alternate" type="text/html"/>
-    <published>2025-04-30T11:00:06.000Z</published>
-    <updated>2025-04-30T11:00:06.000Z</updated>
-    <author>
-      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YyAiLmldlr0 【LIVE on &lt;t:1746010806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YyAiLmldlr0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
