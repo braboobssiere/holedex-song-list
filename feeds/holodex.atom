@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-06T18:06:32.148Z</updated>
+  <updated>2025-06-06T19:06:27.550Z</updated>
+
+  <entry>
+    <id>urn:uuid:04672b76-d31b-5a17-9d1e-4270031e7ea2</id>
+    <title><![CDATA[【Archived Karaoke】First Archived Karaoke... Yay...]]></title>
+    <link href="https://youtu.be/QsGNQB6StRc" rel="alternate" type="text/html"/>
+    <published>2025-06-06T18:21:09.000Z</published>
+    <updated>2025-06-06T18:21:09.000Z</updated>
+    <author>
+      <name>Ouro Kronii Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QsGNQB6StRc 【LIVE on &lt;t:1749258000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QsGNQB6StRc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1be29bc9-4af1-5f82-b56f-d5529cc7cba1</id>
@@ -1097,20 +1111,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6BNkVBVNbKY 【LIVE on &lt;t:1747396566:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6BNkVBVNbKY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5ef8f7f0-bf0f-5d21-9e92-6c9badd0ad2f</id>
-    <title><![CDATA[【歌枠】第124回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/IYp3zbOVav0" rel="alternate" type="text/html"/>
-    <published>2025-05-15T16:40:49.000Z</published>
-    <updated>2025-05-15T13:40:47.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IYp3zbOVav0 【LIVE on &lt;t:1747316447:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IYp3zbOVav0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
