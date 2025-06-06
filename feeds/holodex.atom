@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-06T14:06:30.472Z</updated>
+  <updated>2025-06-06T15:06:33.938Z</updated>
+
+  <entry>
+    <id>urn:uuid:1be29bc9-4af1-5f82-b56f-d5529cc7cba1</id>
+    <title><![CDATA[ビリ(Instrumental)]]></title>
+    <link href="https://youtu.be/UayNfjTgoH0" rel="alternate" type="text/html"/>
+    <published>2025-06-06T15:00:49.000Z</published>
+    <updated>2025-06-06T15:00:49.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UayNfjTgoH0 【LIVE on &lt;t:1749222049:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UayNfjTgoH0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9fc861ac-6aa4-5220-90e0-ff864176b1e0</id>
+    <title><![CDATA[ビリ]]></title>
+    <link href="https://youtu.be/HFIyR1p1TAo" rel="alternate" type="text/html"/>
+    <published>2025-06-06T15:00:25.000Z</published>
+    <updated>2025-06-06T15:00:25.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HFIyR1p1TAo 【LIVE on &lt;t:1749222025:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HFIyR1p1TAo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:13b1336b-648d-5ecd-86bd-90466e247d55</id>
@@ -1391,20 +1419,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2kllY6gIU6o 【LIVE on &lt;t:1746284405:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2kllY6gIU6o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:88b11c27-a3e1-5eff-880d-98e61c100d3a</id>
-    <title><![CDATA[【MV】MONSTER【ENigmatic Recollection Chapter 2 Theme Song】]]></title>
-    <link href="https://youtu.be/nUrITFpI85A" rel="alternate" type="text/html"/>
-    <published>2025-05-03T01:50:06.000Z</published>
-    <updated>2025-05-03T01:50:06.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nUrITFpI85A 【LIVE on &lt;t:1746237006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nUrITFpI85A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
