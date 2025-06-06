@@ -795,9 +795,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-01T11:27:09.000Z",
-    "available_at": "2025-06-06T11:00:00.000Z",
+    "available_at": "2025-06-06T10:57:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
