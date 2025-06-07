@@ -27,6 +27,7 @@
     "available_at": "2025-06-07T01:02:43.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 8,
     "channel": {
       "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "name": "Ouro Kronii Ch. hololive-EN",
@@ -119,6 +120,25 @@
     }
   },
   {
+    "id": "2FpFPugJB3o",
+    "title": "お誕生日おめでとうって言いに来る枠、君たちが。 / アステル",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-05T16:07:41.000Z",
+    "available_at": "2025-06-05T14:32:25.000Z",
+    "duration": 5000,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "2W6pyLcyGkM",
     "title": "【ASMR】Just Chatting with my Chattini, but ASMR! 🩷",
     "type": "stream",
@@ -155,25 +175,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ykIwucEAmkwK1oJ5iqXXq3brcDVJw-U6Ng97MUNd3Qg8CO8uLYEWJPTt1KKJ2fY6l485CzC_PKU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Unnamed"
-    }
-  },
-  {
-    "id": "2FpFPugJB3o",
-    "title": "お誕生日おめでとうって言いに来る枠、君たちが。 / アステル",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-06-05T13:49:10.000Z",
-    "available_at": "2025-06-05T14:32:25.000Z",
-    "duration": 5005,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -852,7 +853,7 @@
   },
   {
     "id": "3KYhMk63lj4",
-    "title": "電脳ぴゅあ推し大宣言 / ホロライブ1期生（Original）",
+    "title": "電脳ぴゅあ推し大宣言 / ホロライブ1期生(Original)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-06-01T12:15:06.000Z",
@@ -902,6 +903,7 @@
     "available_at": "2025-06-06T10:57:11.000Z",
     "duration": 3923,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 148
     },
