@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-06T23:06:29.418Z</updated>
+  <updated>2025-06-07T00:06:30.844Z</updated>
 
   <entry>
     <id>urn:uuid:04672b76-d31b-5a17-9d1e-4270031e7ea2</id>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=iEFEBDYtFLQ 【LIVE on &lt;t:1749128441:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iEFEBDYtFLQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:58a892e9-e42b-576b-a26f-12c68bc930da</id>
+    <title><![CDATA[【3DLIVE】重大告知あり！"アニソン Night Fever!!"【#角巻わため生誕祭2025】]]></title>
+    <link href="https://youtu.be/rhgRzAgYKDM" rel="alternate" type="text/html"/>
+    <published>2025-06-03T22:33:35.000Z</published>
+    <updated>2025-06-06T11:58:25.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rhgRzAgYKDM 【LIVE on &lt;t:1749211105:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rhgRzAgYKDM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
