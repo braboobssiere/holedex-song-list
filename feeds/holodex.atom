@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-07T00:06:30.844Z</updated>
+  <updated>2025-06-07T01:06:24.783Z</updated>
+
+  <entry>
+    <id>urn:uuid:4bd7a8af-7528-5e9a-bcce-2cab6f9d3c2d</id>
+    <title><![CDATA[【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/gT1ARDYPxPs" rel="alternate" type="text/html"/>
+    <published>2025-06-07T00:22:08.000Z</published>
+    <updated>2025-06-07T00:22:08.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gT1ARDYPxPs 【LIVE on &lt;t:1749272400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gT1ARDYPxPs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:04672b76-d31b-5a17-9d1e-4270031e7ea2</id>
     <title><![CDATA[【Archived Karaoke】First Archived Karaoke... Yay...]]></title>
     <link href="https://youtu.be/QsGNQB6StRc" rel="alternate" type="text/html"/>
     <published>2025-06-06T18:21:09.000Z</published>
-    <updated>2025-06-06T18:21:09.000Z</updated>
+    <updated>2025-06-07T01:02:43.000Z</updated>
     <author>
       <name>Ouro Kronii Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QsGNQB6StRc 【LIVE on &lt;t:1749258000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QsGNQB6StRc 【LIVE on &lt;t:1749258163:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QsGNQB6StRc/maxresdefault.jpg"/>
   </entry>
 
@@ -76,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:c60748b1-b11a-55cc-8813-177f9c92efd7</id>
+    <title><![CDATA[【3D CONCERT】#EmbersWeHold - Unnämed - Our 3D Concert]]></title>
+    <link href="https://youtu.be/iEFEBDYtFLQ" rel="alternate" type="text/html"/>
+    <published>2025-06-05T14:48:31.000Z</published>
+    <updated>2025-06-05T13:00:41.000Z</updated>
+    <author>
+      <name>Unnämed</name>
+      <uri>https://www.youtube.com/channel/UCrIs26bEKOvA_lRnO2Hgscw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iEFEBDYtFLQ 【LIVE on &lt;t:1749128441:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iEFEBDYtFLQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1440bc2e-cc93-56d7-aac3-2e863a11e789</id>
     <title><![CDATA[【 110万人耐久】ろぼさーと一緒に見届けたい👊リクエスト◎で歌っちゃおおお!【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/xrmmUGA44KA" rel="alternate" type="text/html"/>
@@ -101,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lOtd7B96nkQ 【LIVE on &lt;t:1749042022:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lOtd7B96nkQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c60748b1-b11a-55cc-8813-177f9c92efd7</id>
-    <title><![CDATA[【3D CONCERT】#EmbersWeHold - Unnämed - Our 3D Concert]]></title>
-    <link href="https://youtu.be/iEFEBDYtFLQ" rel="alternate" type="text/html"/>
-    <published>2025-06-04T12:42:00.000Z</published>
-    <updated>2025-06-05T13:00:41.000Z</updated>
-    <author>
-      <name>Unnämed</name>
-      <uri>https://www.youtube.com/channel/UCrIs26bEKOvA_lRnO2Hgscw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=iEFEBDYtFLQ 【LIVE on &lt;t:1749128441:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iEFEBDYtFLQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>

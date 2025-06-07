@@ -1,13 +1,32 @@
 [
   {
+    "id": "gT1ARDYPxPs",
+    "title": "【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T00:22:08.000Z",
+    "available_at": "2025-06-07T05:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "QsGNQB6StRc",
     "title": "【Archived Karaoke】First Archived Karaoke... Yay...",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-06T18:21:09.000Z",
-    "available_at": "2025-06-07T01:00:00.000Z",
+    "available_at": "2025-06-07T01:02:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "name": "Ouro Kronii Ch. hololive-EN",
@@ -119,6 +138,26 @@
     }
   },
   {
+    "id": "iEFEBDYtFLQ",
+    "title": "【3D CONCERT】#EmbersWeHold - Unnämed - Our 3D Concert",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-05T14:48:31.000Z",
+    "available_at": "2025-06-05T13:00:41.000Z",
+    "duration": 5662,
+    "status": "past",
+    "songcount": 17,
+    "channel": {
+      "id": "UCrIs26bEKOvA_lRnO2Hgscw",
+      "name": "Unnämed",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ykIwucEAmkwK1oJ5iqXXq3brcDVJw-U6Ng97MUNd3Qg8CO8uLYEWJPTt1KKJ2fY6l485CzC_PKU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Unnamed"
+    }
+  },
+  {
     "id": "2FpFPugJB3o",
     "title": "お誕生日おめでとうって言いに来る枠、君たちが。 / アステル",
     "type": "stream",
@@ -216,26 +255,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "iEFEBDYtFLQ",
-    "title": "【3D CONCERT】#EmbersWeHold - Unnämed - Our 3D Concert",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-04T12:42:00.000Z",
-    "available_at": "2025-06-05T13:00:41.000Z",
-    "duration": 5663,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCrIs26bEKOvA_lRnO2Hgscw",
-      "name": "Unnämed",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ykIwucEAmkwK1oJ5iqXXq3brcDVJw-U6Ng97MUNd3Qg8CO8uLYEWJPTt1KKJ2fY6l485CzC_PKU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Unnamed"
     }
   },
   {
@@ -2369,25 +2388,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Iida Pochi"
-    }
-  },
-  {
-    "id": "rFrKx8tgXBM",
-    "title": "【UNARCHIVED KARAOKE】MOTHER'S DAY SETLIST (MOMSEKI'S CHOICE)",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-15T13:39:45.000Z",
-    "available_at": "2025-05-15T22:55:59.000Z",
-    "duration": 4617,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
