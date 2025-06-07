@@ -1,13 +1,33 @@
 [
   {
+    "id": "J_J4CkUVi2o",
+    "title": "【歌枠/KARAOKE】土曜日の夜は歌いたくなるよね?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T12:45:19.000Z",
+    "available_at": "2025-06-07T13:01:55.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "AuVjtPcxlfE",
     "title": "BANZAI-轟はじめ【Original Song 3D MV】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-06-07T12:00:07.000Z",
     "available_at": "2025-06-07T12:00:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 185,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -2190,29 +2210,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hanasaki Miyabi"
-    }
-  },
-  {
-    "id": "8DWvYDaW_XY",
-    "title": "【KARAOKE / 歌枠】Singing some songs because why not :D",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-19T05:58:01.000Z",
-    "available_at": "2025-05-19T04:00:56.000Z",
-    "duration": 6459,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "en": 4
-    },
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
