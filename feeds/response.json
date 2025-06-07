@@ -1,13 +1,32 @@
 [
   {
+    "id": "TspQgRVUFZQ",
+    "title": "【歌枠】ぐるぐるするな!歌わせろ!!!!!!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T06:46:46.000Z",
+    "available_at": "2025-06-07T06:47:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "rfC6-a37ko4",
-    "title": "【 歌枠 】歌う気分!!!!!!!いくぞおおおお!!!!!!【 桃鈴ねね / hololive 】",
+    "title": "【 歌枠 】歌う気分！！！！！！！いくぞおおおお！！！！！！【 桃鈴ねね / hololive 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-07T05:43:49.000Z",
-    "available_at": "2025-06-07T06:15:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-06-07T06:17:11.000Z",
+    "duration": 1712,
+    "status": "past",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -20,13 +39,13 @@
   },
   {
     "id": "xTB0sPt8FFY",
-    "title": "【歌枠 KARAOKE】縦型歌枠🩵【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
+    "title": "【歌枠 KARAOKE】縦型歌枠🩵【水宮枢／FLOW GLOW】#hololivedev_is",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-07T03:29:10.000Z",
     "available_at": "2025-06-07T03:29:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10302,
+    "status": "past",
     "live_tl_count": {
       "en": 22
     },
@@ -2230,26 +2249,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/jUCD6CqjFOR82p7LSFJkA9LEWrMuJXrO_XYbo7ZhHiqk4elZ2W6che1Ljwe-A5F9g47c-mxW=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "g-v-rZojvVw",
-    "title": "【ボカロ歌枠】ボカロ曲縛り!喉飛ばしていきます!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-18T08:13:49.000Z",
-    "available_at": "2025-05-18T06:45:59.000Z",
-    "duration": 4573,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
