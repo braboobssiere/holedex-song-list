@@ -1,24 +1,5 @@
 [
   {
-    "id": "jzKw_kUBajw",
-    "title": "ホロライブ1期生オリジナル楽曲『電脳ぴゅあ推し大宣言』踊ってみた #電脳ぴゅあ推し大宣言 #ぴゅあ推しダンス #ホロライブ #白上フブキ #アキローゼンタール #夏色まつり#赤井はあと",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-07T15:01:09.000Z",
-    "available_at": "2025-06-07T15:01:09.000Z",
-    "duration": 24,
-    "status": "past",
-    "channel": {
-      "id": "UCBHlcxEjbYXPhShy40KBkdA",
-      "name": "猫咲あんじ Nekosaki anji",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/4LTTGeQGl2EIkXqIc0l5SzaC_pVtw-f76PTMxD_7a6_L824LXaahpD7BYdkDnynhpJqPRh1m=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekosaki Anji"
-    }
-  },
-  {
     "id": "JjyTZdZnDQU",
     "title": "BANZAI(Instrumental)",
     "type": "stream",
@@ -62,13 +43,13 @@
   },
   {
     "id": "J_J4CkUVi2o",
-    "title": "【歌枠/KARAOKE】土曜日の夜は歌いたくなるよね?【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】土曜日の夜は歌いたくなるよね？【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-07T12:45:19.000Z",
     "available_at": "2025-06-07T13:01:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7394,
+    "status": "past",
     "songcount": 14,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
@@ -82,9 +63,9 @@
   },
   {
     "id": "AuVjtPcxlfE",
-    "title": "BANZAI-轟はじめ【Original Song 3D MV】",
+    "title": "BANZAI-轟はじめ【Original 3D MV】",
     "type": "stream",
-    "topic_id": "Original_Song",
+    "topic_id": "3D_Stream",
     "published_at": "2025-06-07T12:00:07.000Z",
     "available_at": "2025-06-07T12:00:07.000Z",
     "duration": 185,
@@ -685,7 +666,7 @@
     "available_at": "2025-06-07T10:54:01.000Z",
     "duration": 3961,
     "status": "past",
-    "songcount": 6,
+    "songcount": 19,
     "live_tl_count": {
       "en": 78
     },
@@ -2943,6 +2924,27 @@
     }
   },
   {
+    "id": "at0dWpW06lU",
+    "title": "たんぽぽ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-04T15:01:22.000Z",
+    "available_at": "2025-05-04T15:01:22.000Z",
+    "duration": 194,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCHYTTba2SyK82DuoFh1FLDg",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "3pEp8hxzWNM",
     "title": "【 重大告知 】大神ミオのトリセツ?!を作りながら違和感を探せ!【3D 】",
     "type": "stream",
@@ -2951,6 +2953,26 @@
     "available_at": "2025-05-04T08:52:13.000Z",
     "duration": 4561,
     "status": "past",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "ppF3pl9m_uw",
+    "title": "たんぽぽ/ 大神ミオ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-04T10:10:06.000Z",
+    "available_at": "2025-05-04T10:10:06.000Z",
+    "duration": 194,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -5216,25 +5238,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yunohara Izumi"
-    }
-  },
-  {
-    "id": "fB38eN_ucms",
-    "title": "【3D Showcase Highlight Reel】 Hero of Elysium...in 10 minutes!",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-01T05:00:26.000Z",
-    "available_at": "2025-03-01T05:00:26.000Z",
-    "duration": 581,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
