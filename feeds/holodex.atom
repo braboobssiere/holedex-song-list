@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-07T10:06:29.471Z</updated>
+  <updated>2025-06-07T11:06:29.586Z</updated>
 
   <entry>
     <id>urn:uuid:cd5c4445-658c-57c7-9b21-cd263e3a6901</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xTB0sPt8FFY 【LIVE on &lt;t:1749266965:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xTB0sPt8FFY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4bd7a8af-7528-5e9a-bcce-2cab6f9d3c2d</id>
+    <title><![CDATA[【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/gT1ARDYPxPs" rel="alternate" type="text/html"/>
+    <published>2025-06-07T00:22:08.000Z</published>
+    <updated>2025-06-07T05:00:22.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gT1ARDYPxPs 【LIVE on &lt;t:1749272422:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gT1ARDYPxPs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -227,6 +241,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_fxO856a0wo 【LIVE on &lt;t:1748856616:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_fxO856a0wo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2f9ef09e-d612-5c7b-b372-a9f5c3e42966</id>
+    <title><![CDATA[【縦型歌枠】ゲリラ縦型っ!!歌おうぜえええ【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/kq46_TvfzsU" rel="alternate" type="text/html"/>
+    <published>2025-06-02T10:57:30.000Z</published>
+    <updated>2025-06-07T10:03:31.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kq46_TvfzsU 【LIVE on &lt;t:1749290611:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kq46_TvfzsU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1069,20 +1097,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HRCV_lZ3uxM 【LIVE on &lt;t:1747557005:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HRCV_lZ3uxM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e46957aa-b453-5f28-b024-acbbec954098</id>
-    <title><![CDATA[【ボカロ歌枠】ボカロ曲縛り!喉飛ばしていきます!【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/g-v-rZojvVw" rel="alternate" type="text/html"/>
-    <published>2025-05-18T08:13:49.000Z</published>
-    <updated>2025-05-18T06:45:59.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=g-v-rZojvVw 【LIVE on &lt;t:1747550759:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g-v-rZojvVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
