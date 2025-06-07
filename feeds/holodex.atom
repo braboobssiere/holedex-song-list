@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-07T16:06:35.973Z</updated>
+  <updated>2025-06-07T17:06:29.284Z</updated>
 
   <entry>
     <id>urn:uuid:79d45c81-e3fe-549b-b66e-46b660e1c599</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=J_J4CkUVi2o 【LIVE on &lt;t:1749301315:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J_J4CkUVi2o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a7402393-b3c5-5485-98a2-02950f79d617</id>
+    <title><![CDATA[BANZAI-轟はじめ【Original 3D MV】]]></title>
+    <link href="https://youtu.be/AuVjtPcxlfE" rel="alternate" type="text/html"/>
+    <published>2025-06-07T12:00:07.000Z</published>
+    <updated>2025-06-07T12:00:07.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AuVjtPcxlfE 【LIVE on &lt;t:1749297607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AuVjtPcxlfE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -163,7 +177,7 @@
     <id>urn:uuid:255259ba-5997-5663-9e5e-d3655868efb5</id>
     <title><![CDATA[【ASMR】Just Chatting with my Chattini, but ASMR! 🩷]]></title>
     <link href="https://youtu.be/2W6pyLcyGkM" rel="alternate" type="text/html"/>
-    <published>2025-06-05T15:35:32.000Z</published>
+    <published>2025-06-06T07:08:54.000Z</published>
     <updated>2025-06-06T04:02:39.000Z</updated>
     <author>
       <name>Raora Panthera Ch. hololive-EN</name>
@@ -1447,20 +1461,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=at0dWpW06lU 【LIVE on &lt;t:1746370882:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/at0dWpW06lU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dcc90c40-4821-50df-9167-35d26909c8ef</id>
-    <title><![CDATA[たんぽぽ/ 大神ミオ (official)]]></title>
-    <link href="https://youtu.be/ppF3pl9m_uw" rel="alternate" type="text/html"/>
-    <published>2025-05-04T10:10:06.000Z</published>
-    <updated>2025-05-04T10:10:06.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ppF3pl9m_uw 【LIVE on &lt;t:1746353406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ppF3pl9m_uw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
