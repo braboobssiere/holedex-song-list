@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-07T11:06:29.586Z</updated>
+  <updated>2025-06-07T12:06:32.003Z</updated>
+
+  <entry>
+    <id>urn:uuid:a7402393-b3c5-5485-98a2-02950f79d617</id>
+    <title><![CDATA[BANZAI-轟はじめ【Original Song 3D MV】]]></title>
+    <link href="https://youtu.be/AuVjtPcxlfE" rel="alternate" type="text/html"/>
+    <published>2025-06-07T12:00:07.000Z</published>
+    <updated>2025-06-07T12:00:07.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AuVjtPcxlfE 【LIVE on &lt;t:1749297607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AuVjtPcxlfE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cd5c4445-658c-57c7-9b21-cd263e3a6901</id>
@@ -245,7 +259,7 @@
 
   <entry>
     <id>urn:uuid:2f9ef09e-d612-5c7b-b372-a9f5c3e42966</id>
-    <title><![CDATA[【縦型歌枠】ゲリラ縦型っ!!歌おうぜえええ【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【縦型歌枠】ゲリラ縦型っ！！歌おうぜえええ【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/kq46_TvfzsU" rel="alternate" type="text/html"/>
     <published>2025-06-02T10:57:30.000Z</published>
     <updated>2025-06-07T10:03:31.000Z</updated>
@@ -1433,20 +1447,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=um4o0W6Q6bY 【LIVE on &lt;t:1746284479:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/um4o0W6Q6bY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4e363773-0b3e-5e03-9a59-33d8f42ed3d3</id>
-    <title><![CDATA[MONSTER]]></title>
-    <link href="https://youtu.be/2kllY6gIU6o" rel="alternate" type="text/html"/>
-    <published>2025-05-03T15:00:05.000Z</published>
-    <updated>2025-05-03T15:00:05.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2kllY6gIU6o 【LIVE on &lt;t:1746284405:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2kllY6gIU6o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
