@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-08T13:10:21.000Z",
     "available_at": "2025-06-08T13:30:18.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9302,
+    "status": "past",
     "live_tl_count": {
       "en": 18
     },
@@ -123,6 +123,26 @@
     }
   },
   {
+    "id": "rfC6-a37ko4",
+    "title": "【 歌枠 】歌う気分!!!!!!!いくぞおおおお!!!!!!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T06:48:34.000Z",
+    "available_at": "2025-06-07T06:17:11.000Z",
+    "duration": 1708,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "TspQgRVUFZQ",
     "title": "【歌枠】ぐるぐるするな！歌わせろ！！！！！！【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -163,26 +183,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "rfC6-a37ko4",
-    "title": "【 歌枠 】歌う気分！！！！！！！いくぞおおおお！！！！！！【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-07T05:43:49.000Z",
-    "available_at": "2025-06-07T06:17:11.000Z",
-    "duration": 1712,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
