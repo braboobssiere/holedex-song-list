@@ -6,8 +6,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-06-08T21:40:48.000Z",
     "available_at": "2025-06-08T22:00:28.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2351,
+    "status": "past",
     "channel": {
       "id": "UC6t3-_N8A6ME1JShZHHqOMw",
       "name": "Miyabi Ch. 花咲みやび",
@@ -65,9 +65,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-08T06:07:33.000Z",
-    "available_at": "2025-06-08T23:00:00.000Z",
+    "available_at": "2025-06-08T22:59:38.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHP4f7G2dWD4qib7BMatGAw",
       "name": "Gavis Bettel Ch. HOLOSTARS-EN",
@@ -576,6 +576,7 @@
     "available_at": "2025-06-08T12:00:05.000Z",
     "duration": 3518,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
