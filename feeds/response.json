@@ -183,6 +183,26 @@
     }
   },
   {
+    "id": "QsGNQB6StRc",
+    "title": "【Archived Karaoke】First Archived Karaoke... Yay...",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T02:40:45.000Z",
+    "available_at": "2025-06-07T01:02:43.000Z",
+    "duration": 5541,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
     "id": "gT1ARDYPxPs",
     "title": "【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -219,26 +239,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/OFmHbL9uqQ2ZEn94S4-ftZVKM5_h-Zq_obpZCPdypZg4nNpaX2EPBNxXwCvx-ngNvS4qd8XqpQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hazumi Aileen Okazaki"
-    }
-  },
-  {
-    "id": "QsGNQB6StRc",
-    "title": "【Archived Karaoke】First Archived Karaoke... Yay...",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-06T18:21:09.000Z",
-    "available_at": "2025-06-07T01:02:43.000Z",
-    "duration": 5549,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
@@ -470,9 +470,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-05T13:21:22.000Z",
-    "available_at": "2025-06-08T12:00:00.000Z",
+    "available_at": "2025-06-08T12:00:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
