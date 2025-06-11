@@ -1,5 +1,24 @@
 [
   {
+    "id": "0fhzLbjDQKc",
+    "title": "ZIG-ZAG / 鷹嶺ルイ(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-11T12:00:06.000Z",
+    "available_at": "2025-06-11T12:00:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
+      "name": "Lui ch. 鷹嶺ルイ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takane Lui"
+    }
+  },
+  {
     "id": "ke77TddPT4U",
     "title": "【UNARCHIVED】couldn't decide what to do today so it's this",
     "type": "stream",
@@ -60,25 +79,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "0fhzLbjDQKc",
-    "title": "--------------?",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-10T09:13:54.000Z",
-    "available_at": "2025-06-11T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
     }
   },
   {
@@ -165,10 +165,11 @@
     "topic_id": "Birthday",
     "published_at": "2025-06-09T09:33:04.000Z",
     "available_at": "2025-06-11T10:55:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3936,
+    "status": "past",
+    "songcount": 12,
     "live_tl_count": {
-      "en": 23
+      "en": 197
     },
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
