@@ -1,5 +1,24 @@
 [
   {
+    "id": "EO9A7DwPf2Q",
+    "title": "unarchived - SING & BASS NIGHT",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-11T13:33:10.000Z",
+    "available_at": "2025-06-11T14:01:43.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "0fhzLbjDQKc",
     "title": "ZIG-ZAG / 鷹嶺ルイ(official)",
     "type": "stream",
@@ -2177,29 +2196,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "60CxXmqT-cA",
-    "title": "【sing】夕方に楽しく歌うのだ!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-25T08:45:56.000Z",
-    "available_at": "2025-05-25T07:00:55.000Z",
-    "duration": 5702,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 91
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
