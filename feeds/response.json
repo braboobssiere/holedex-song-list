@@ -1,13 +1,32 @@
 [
   {
-    "id": "M65fCgMteio",
+    "id": "8BWo1lpMmQU",
     "title": "【歌雑枠】なにやら移行する配信らしい・・・まったり歌雑していきます!!【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-12T09:47:00.000Z",
+    "available_at": "2025-06-12T09:48:07.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "M65fCgMteio",
+    "title": "【歌雑枠】なにやら移行する配信らしい・・・まったり歌雑していきます！！【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-12T08:33:26.000Z",
     "available_at": "2025-06-12T08:35:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4370,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2069,26 +2088,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "rYe7GISpAWg",
-    "title": "【ゲリラ雑談】最近のこと話してちょびっと歌っちゃうぞ【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-29T09:12:51.000Z",
-    "available_at": "2025-05-28T12:46:37.000Z",
-    "duration": 4126,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
