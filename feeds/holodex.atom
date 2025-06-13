@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-13T13:06:26.305Z</updated>
+  <updated>2025-06-13T14:06:27.510Z</updated>
+
+  <entry>
+    <id>urn:uuid:4018e643-8441-528c-b1ea-cbdce276c8ae</id>
+    <title><![CDATA[ド深夜のまったり一人カラオケ~雑談も交えて~【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/OX2Nuh-zd3k" rel="alternate" type="text/html"/>
+    <published>2025-06-13T12:37:32.000Z</published>
+    <updated>2025-06-13T12:37:32.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OX2Nuh-zd3k 【LIVE on &lt;t:1749826800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OX2Nuh-zd3k/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ff599f2e-7019-565a-a416-0515f518dc95</id>
@@ -1053,20 +1067,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rYe7GISpAWg 【LIVE on &lt;t:1748436397:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rYe7GISpAWg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1eaec1aa-3a3e-5a44-8bdb-3088a12966d6</id>
-    <title><![CDATA[【歌枠】しっとり歌うよ  / Singing Stream【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/GQUpT3M-zg8" rel="alternate" type="text/html"/>
-    <published>2025-05-26T14:51:48.000Z</published>
-    <updated>2025-05-26T13:01:35.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GQUpT3M-zg8 【LIVE on &lt;t:1748264495:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GQUpT3M-zg8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
