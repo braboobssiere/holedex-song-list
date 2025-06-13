@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-13T12:37:32.000Z",
-    "available_at": "2025-06-13T15:00:00.000Z",
+    "available_at": "2025-06-13T15:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -442,6 +442,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "R_kn22NBCwY",
+    "title": "ReGLOSS '瞬間ハートビート'  Rehearsal Video【 #ReGLOSS3Dライブ 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-08T14:06:29.000Z",
+    "available_at": "2025-06-14T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5256,26 +5274,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "ssB_4uHSASw",
-    "title": "【#いづくく3Dライブ】全編無料❣柚原いづみ×風見くく5周年記念3Dライブ🎤 w/ アステル・レダ / 空星きらめ【柚原いづみ / ななしいんく】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-01T12:10:11.000Z",
-    "available_at": "2025-03-01T10:50:57.000Z",
-    "duration": 3871,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCW8WKciBixmaqaGqrlTITRQ",
-      "name": "柚原いづみ / Izumi Channel 【ななしいんく】",
-      "org": "774inc",
-      "suborg": "0 Ex-AniMare",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KaDu_P5Tna6PWz5P_yfAdFXRsdo69NULoE-pFY39fX9Jm0IgXb6zsBHfkbPG9nJh5TozQo9ur8A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yunohara Izumi"
     }
   },
   {
