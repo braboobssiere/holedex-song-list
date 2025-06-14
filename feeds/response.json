@@ -8,6 +8,9 @@
     "available_at": "2025-06-14T12:01:32.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 61
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -38,13 +41,13 @@
   },
   {
     "id": "FQ7oSUS1TcA",
-    "title": "【耐久歌枠】1,234,567人目指して歌う!!!!! SINGING STREAM【ホロライブ / AZKi】",
+    "title": "【耐久歌枠】1,234,567人目指して歌う！！！！！ SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-14T04:05:51.000Z",
     "available_at": "2025-06-14T09:03:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 12701,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -117,13 +120,13 @@
   },
   {
     "id": "uXTdXl2V8NI",
-    "title": "【Maestro】3Dで優雅なオーケストラ指揮者きーつね!!!【ホロライブ/白上フブキ】",
+    "title": "【Maestro】３Dで優雅なオーケストラ指揮者きーつね!!!【ホロライブ/白上フブキ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-06-13T16:27:35.000Z",
     "available_at": "2025-06-14T11:04:49.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5060,
+    "status": "past",
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -132,6 +135,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "FjvTM4Di_50",
+    "title": "【告知ありすぎ 】2歌い1告知配信です🎤【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-13T16:03:40.000Z",
+    "available_at": "2025-06-14T10:00:31.000Z",
+    "duration": 4164,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -303,8 +326,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-11T15:57:37.000Z",
     "available_at": "2025-06-14T11:01:44.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4357,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -2147,26 +2170,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_m6xQ9ez0I8lnwswHqAns9ZRPsaCCutfzu6eUbM7pwzqsA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shigure Ui"
-    }
-  },
-  {
-    "id": "auRfCftO_Yo",
-    "title": "【 歌枠/KARAOKE 】5月もおつかれさまの歌【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-30T12:34:30.000Z",
-    "available_at": "2025-05-30T10:20:17.000Z",
-    "duration": 6822,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
