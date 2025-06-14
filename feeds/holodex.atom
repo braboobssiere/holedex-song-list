@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-14T22:06:25.758Z</updated>
+  <updated>2025-06-14T23:06:21.190Z</updated>
 
   <entry>
     <id>urn:uuid:24be0334-65b2-5cb3-bc25-faae85fd1f39</id>
@@ -88,6 +88,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FjvTM4Di_50 【LIVE on &lt;t:1749895231:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FjvTM4Di_50/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:220f5579-23fa-591c-befc-aeb05313a88c</id>
+    <title><![CDATA[【 #ぷてち3D新衣装お披露目 】ゲスト多数✨重大告知あり!歌って踊って楽しもう~!【ラトナ・プティ/にじさんじ】]]></title>
+    <link href="https://youtu.be/7augI3wfhAI" rel="alternate" type="text/html"/>
+    <published>2025-06-13T13:10:45.000Z</published>
+    <updated>2025-06-13T11:59:09.000Z</updated>
+    <author>
+      <name>ラトナ・プティ -Ratna Petit -にじさんじ所属</name>
+      <uri>https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7augI3wfhAI 【LIVE on &lt;t:1749815949:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7augI3wfhAI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -592,20 +606,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HUhbQ-HORUg 【LIVE on &lt;t:1748955644:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HUhbQ-HORUg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:220f5579-23fa-591c-befc-aeb05313a88c</id>
-    <title><![CDATA[【 #ぷてち3D新衣装お披露目 】ゲスト多数✨重大告知あり！歌って踊って楽しもう～！【ラトナ・プティ/にじさんじ】]]></title>
-    <link href="https://youtu.be/7augI3wfhAI" rel="alternate" type="text/html"/>
-    <published>2025-06-02T13:14:35.000Z</published>
-    <updated>2025-06-13T11:59:09.000Z</updated>
-    <author>
-      <name>ラトナ・プティ -Ratna Petit -にじさんじ所属</name>
-      <uri>https://www.youtube.com/channel/UCIG9rDtgR45VCZmYnd-4DUw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7augI3wfhAI 【LIVE on &lt;t:1749815949:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7augI3wfhAI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
