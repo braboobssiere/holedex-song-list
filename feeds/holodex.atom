@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-14T04:06:21.782Z</updated>
+  <updated>2025-06-14T05:06:26.317Z</updated>
+
+  <entry>
+    <id>urn:uuid:7acfcd47-e376-52ca-8629-eeb441480152</id>
+    <title><![CDATA[【耐久歌枠】1,234,567人目指して歌う!!!!! SINGING STREAM【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/FQ7oSUS1TcA" rel="alternate" type="text/html"/>
+    <published>2025-06-14T04:05:51.000Z</published>
+    <updated>2025-06-14T04:05:51.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FQ7oSUS1TcA 【LIVE on &lt;t:1749891600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FQ7oSUS1TcA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:93849d77-7334-516d-92c3-d5bf4ce268e3</id>
@@ -46,6 +60,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OX2Nuh-zd3k 【LIVE on &lt;t:1749826811:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OX2Nuh-zd3k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dcf0970c-5e38-50cc-835a-fc06388400e2</id>
+    <title><![CDATA[HIMEHINA『V』MV #ヴィー]]></title>
+    <link href="https://youtu.be/7oE8YnXumMk" rel="alternate" type="text/html"/>
+    <published>2025-06-13T12:00:11.000Z</published>
+    <updated>2025-06-13T12:00:11.000Z</updated>
+    <author>
+      <name>HIMEHINA Channel</name>
+      <uri>https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7oE8YnXumMk 【LIVE on &lt;t:1749816011:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7oE8YnXumMk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1001,20 +1029,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f74f154d-c43b-5817-b778-a55e1eb22da8</id>
-    <title><![CDATA[【歌枠】新しく覚えた曲もうたっていくぞおお【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/Gx6_WEVv1iM" rel="alternate" type="text/html"/>
-    <published>2025-05-30T13:00:55.000Z</published>
-    <updated>2025-05-30T08:59:49.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Gx6_WEVv1iM 【LIVE on &lt;t:1748595589:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Gx6_WEVv1iM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f2897afc-b912-5b92-b96f-9baebb35afe5</id>
     <title><![CDATA[【 歌枠/KARAOKE 】5月もおつかれさまの歌【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/auRfCftO_Yo" rel="alternate" type="text/html"/>
@@ -1404,20 +1418,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dQb-GSVx2nc 【LIVE on &lt;t:1747148465:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dQb-GSVx2nc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8ec05ca4-72be-5393-be07-539671c43f0a</id>
-    <title><![CDATA[謙虚っち]]></title>
-    <link href="https://youtu.be/J1o92-eWauY" rel="alternate" type="text/html"/>
-    <published>2025-05-13T15:00:34.000Z</published>
-    <updated>2025-05-13T15:00:34.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=J1o92-eWauY 【LIVE on &lt;t:1747148434:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J1o92-eWauY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
