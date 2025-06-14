@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-14T11:15:32.000Z",
     "available_at": "2025-06-14T12:01:32.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9017,
+    "status": "past",
     "live_tl_count": {
       "en": 96
     },
@@ -641,6 +641,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "49NdSMoFbAM",
+    "title": "ReGLOSS '泡沫メイビー'  Rehearsal Video【 #ReGLOSS3Dライブ 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-08T13:56:58.000Z",
+    "available_at": "2025-06-15T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2994,27 +3012,6 @@
     "published_at": "2025-05-13T15:01:14.000Z",
     "available_at": "2025-05-13T15:01:14.000Z",
     "duration": 193,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCKnvC2XMqiXatNTK0N50LqA",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "fiy_tbMBlVE",
-    "title": "キスだけでいいからね",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-13T15:01:09.000Z",
-    "available_at": "2025-05-13T15:01:09.000Z",
-    "duration": 196,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCKnvC2XMqiXatNTK0N50LqA",

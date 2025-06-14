@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-14T14:06:31.113Z</updated>
+  <updated>2025-06-14T15:06:27.084Z</updated>
 
   <entry>
     <id>urn:uuid:24be0334-65b2-5cb3-bc25-faae85fd1f39</id>
@@ -298,6 +298,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wj9LJWHij-A 【LIVE on &lt;t:1749402080:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wj9LJWHij-A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5e43d5c1-37e1-5644-80fb-32965a17cebb</id>
+    <title><![CDATA[ReGLOSS '泡沫メイビー'  Rehearsal Video【 #ReGLOSS3Dライブ 】]]></title>
+    <link href="https://youtu.be/49NdSMoFbAM" rel="alternate" type="text/html"/>
+    <published>2025-06-08T13:56:58.000Z</published>
+    <updated>2025-06-08T13:56:58.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=49NdSMoFbAM 【LIVE on &lt;t:1749978000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/49NdSMoFbAM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1418,20 +1432,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jrhYdEqoFqI 【LIVE on &lt;t:1747148474:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jrhYdEqoFqI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8600f539-9bc8-55e5-92aa-a6c780055eb2</id>
-    <title><![CDATA[キスだけでいいからね]]></title>
-    <link href="https://youtu.be/fiy_tbMBlVE" rel="alternate" type="text/html"/>
-    <published>2025-05-13T15:01:09.000Z</published>
-    <updated>2025-05-13T15:01:09.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fiy_tbMBlVE 【LIVE on &lt;t:1747148469:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fiy_tbMBlVE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
