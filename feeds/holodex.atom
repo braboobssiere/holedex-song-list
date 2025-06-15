@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-15T17:06:27.817Z</updated>
+  <updated>2025-06-15T18:06:26.432Z</updated>
 
   <entry>
     <id>urn:uuid:f50fb77d-e70f-5217-8959-863eb134f4ee</id>
@@ -76,6 +76,21 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:93849d77-7334-516d-92c3-d5bf4ce268e3</id>
+    <title><![CDATA[【歌枠 KARAOKE】縦型歌枠☁️【水宮枢/FLOW GLOW】
+#hololiveDEV_IS]]></title>
+    <link href="https://youtu.be/CQ4oP0wkSLA" rel="alternate" type="text/html"/>
+    <published>2025-06-14T07:44:49.000Z</published>
+    <updated>2025-06-14T03:31:01.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CQ4oP0wkSLA 【LIVE on &lt;t:1749871861:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CQ4oP0wkSLA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7acfcd47-e376-52ca-8629-eeb441480152</id>
     <title><![CDATA[【耐久歌枠】1,234,567人目指して歌う！！！！！ SINGING STREAM【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/FQ7oSUS1TcA" rel="alternate" type="text/html"/>
@@ -87,21 +102,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FQ7oSUS1TcA 【LIVE on &lt;t:1749891811:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FQ7oSUS1TcA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:93849d77-7334-516d-92c3-d5bf4ce268e3</id>
-    <title><![CDATA[【歌枠 KARAOKE】縦型歌枠☁️【水宮枢／FLOW GLOW】
-#hololiveDEV_IS]]></title>
-    <link href="https://youtu.be/CQ4oP0wkSLA" rel="alternate" type="text/html"/>
-    <published>2025-06-14T03:30:44.000Z</published>
-    <updated>2025-06-14T03:31:01.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CQ4oP0wkSLA 【LIVE on &lt;t:1749871861:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CQ4oP0wkSLA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
