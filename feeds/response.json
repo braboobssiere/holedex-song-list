@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-14T20:22:32.000Z",
-    "available_at": "2025-06-15T02:00:00.000Z",
+    "available_at": "2025-06-15T02:01:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -2366,25 +2366,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "WLLVyjF6u8Q",
-    "title": "【#RequiemforLove3D】 Meltdown",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-26T17:51:28.000Z",
-    "available_at": "2025-06-15T15:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   },
   {
@@ -5244,6 +5225,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "7J3paQ_m3Fs",
+    "title": "【3D Showcase Highlight Reel】IT'S SOME OF THE GREATEST SHOW, MAN",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-03T04:00:07.000Z",
+    "available_at": "2025-03-03T04:00:07.000Z",
+    "duration": 703,
+    "status": "past",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
     }
   },
   {
