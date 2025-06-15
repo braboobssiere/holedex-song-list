@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-15T12:40:16.000Z",
     "available_at": "2025-06-15T12:46:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5757,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -16,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "56oMwz7zP8Q",
+    "title": "【3DLIVE】セルフサービス 真正面カメラ💓【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-15T11:51:35.000Z",
+    "available_at": "2025-06-15T11:51:35.000Z",
+    "duration": 162,
+    "status": "past",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -5268,25 +5287,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "7J3paQ_m3Fs",
-    "title": "【3D Showcase Highlight Reel】IT'S SOME OF THE GREATEST SHOW, MAN",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-03T04:00:07.000Z",
-    "available_at": "2025-03-03T04:00:07.000Z",
-    "duration": 703,
-    "status": "past",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
     }
   },
   {
