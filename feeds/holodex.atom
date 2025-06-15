@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-15T12:06:27.561Z</updated>
+  <updated>2025-06-15T13:06:24.977Z</updated>
+
+  <entry>
+    <id>urn:uuid:f50fb77d-e70f-5217-8959-863eb134f4ee</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】One hour Andy - for realsies this time! ~! 💄]]></title>
+    <link href="https://youtu.be/cN809BYNJtA" rel="alternate" type="text/html"/>
+    <published>2025-06-15T12:40:16.000Z</published>
+    <updated>2025-06-15T12:46:05.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cN809BYNJtA 【LIVE on &lt;t:1749991565:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cN809BYNJtA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5e43d5c1-37e1-5644-80fb-32965a17cebb</id>
@@ -1068,20 +1082,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=A1Cs9A8JhYs 【LIVE on &lt;t:1748606408:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A1Cs9A8JhYs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:902dcd9e-9edf-55fe-8b3f-5295c81bde8e</id>
-    <title><![CDATA[【 #ROCKがNIGHT 】I'm 最強 / スペシャルゲストあり!?【 #宙月ティラ 】]]></title>
-    <link href="https://youtu.be/cy1OL3k4cH0" rel="alternate" type="text/html"/>
-    <published>2025-05-30T11:40:26.000Z</published>
-    <updated>2025-05-30T11:01:11.000Z</updated>
-    <author>
-      <name>Tyra Ch. 宙月ティラ</name>
-      <uri>https://www.youtube.com/channel/UCdQYcUyffHZoz0KOwuiG0lQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cy1OL3k4cH0 【LIVE on &lt;t:1748602871:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cy1OL3k4cH0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
