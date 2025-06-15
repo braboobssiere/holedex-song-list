@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-15T02:06:21.088Z</updated>
+  <updated>2025-06-15T03:06:22.624Z</updated>
 
   <entry>
     <id>urn:uuid:24be0334-65b2-5cb3-bc25-faae85fd1f39</id>
@@ -77,6 +77,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4018e643-8441-528c-b1ea-cbdce276c8ae</id>
+    <title><![CDATA[ド深夜のまったり一人カラオケ~雑談も交えて~【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/OX2Nuh-zd3k" rel="alternate" type="text/html"/>
+    <published>2025-06-13T17:10:39.000Z</published>
+    <updated>2025-06-13T15:00:11.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OX2Nuh-zd3k 【LIVE on &lt;t:1749826811:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OX2Nuh-zd3k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:c128550c-36c2-5ae7-82af-f93b2eb54550</id>
     <title><![CDATA[【告知ありすぎ 】2歌い1告知配信です🎤【風真いろは/ホロライブ】]]></title>
     <link href="https://youtu.be/FjvTM4Di_50" rel="alternate" type="text/html"/>
@@ -102,20 +116,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7augI3wfhAI 【LIVE on &lt;t:1749815949:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7augI3wfhAI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4018e643-8441-528c-b1ea-cbdce276c8ae</id>
-    <title><![CDATA[ド深夜のまったり一人カラオケ～雑談も交えて～【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/OX2Nuh-zd3k" rel="alternate" type="text/html"/>
-    <published>2025-06-13T12:37:32.000Z</published>
-    <updated>2025-06-13T15:00:11.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OX2Nuh-zd3k 【LIVE on &lt;t:1749826811:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OX2Nuh-zd3k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
