@@ -19,25 +19,6 @@
     }
   },
   {
-    "id": "56oMwz7zP8Q",
-    "title": "【3DLIVE】セルフサービス 真正面カメラ💓【天音かなた/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-15T11:51:35.000Z",
-    "available_at": "2025-06-15T11:51:35.000Z",
-    "duration": 162,
-    "status": "past",
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "D3yjMC9vFg4",
     "title": "【#ホロスタ6周年】ひたむき / SUPER BEAVER covered by HOLOSTARS【歌ってみた】",
     "type": "stream",
@@ -65,6 +46,7 @@
     "available_at": "2025-06-15T09:00:06.000Z",
     "duration": 172,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -147,6 +129,7 @@
     "available_at": "2025-06-14T09:00:06.000Z",
     "duration": 215,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -326,6 +309,7 @@
     "available_at": "2025-06-13T12:00:11.000Z",
     "duration": 217,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCFv2z4iM5vHrS8bZPq4fHQQ",
       "name": "HIMEHINA Channel",
@@ -460,14 +444,33 @@
     }
   },
   {
+    "id": "rFw9SwoIVD8",
+    "title": "【#すう爆誕2025】初のお誕生日&逆凸❕告知あり【水宮枢/FLOW GLOW】#hololiveDEV_IS",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-11T19:28:02.000Z",
+    "available_at": "2025-06-16T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "-EcQnZmr9qk",
-    "title": "【誕生日カウントダウン】🎂雑談して皆で迎えよ〜!【水宮枢/FLOW GLOW】#hololiveDEV_IS",
+    "title": "【誕生日カウントダウン】🎂雑談して皆で迎えよ〜！【水宮枢／FLOW GLOW】#hololiveDEV_IS",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-11T19:23:14.000Z",
     "available_at": "2025-06-15T13:59:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4653,
+    "status": "past",
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -4261,25 +4264,6 @@
     }
   },
   {
-    "id": "SPLK95dK3w4",
-    "title": "【BIRTHDAY ZATSU】ITS MY BIRTHDAY!!!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-08T04:33:41.000Z",
-    "available_at": "2025-04-08T03:14:41.000Z",
-    "duration": 3756,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "SCQYNAfd4ck",
     "title": "【3D STREAM】Dapat surat tantangan dari Kaela!! Ke hutan?! + Pengumuman #holoID5yukuran",
     "type": "stream",
@@ -5287,6 +5271,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "7J3paQ_m3Fs",
+    "title": "【3D Showcase Highlight Reel】IT'S SOME OF THE GREATEST SHOW, MAN",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-03T04:00:07.000Z",
+    "available_at": "2025-03-03T04:00:07.000Z",
+    "duration": 703,
+    "status": "past",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
     }
   },
   {
