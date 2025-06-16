@@ -1,5 +1,24 @@
 [
   {
+    "id": "sKxrRjruYIQ",
+    "title": "【歌枠】⋈SINGING! ⋈るーるるるん♪【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-16T10:48:56.000Z",
+    "available_at": "2025-06-17T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "cN809BYNJtA",
     "title": "【UNARCHIVED KARAOKE】One hour Andy - for realsies this time! ~! 💄",
     "type": "stream",
@@ -67,7 +86,7 @@
     "published_at": "2025-06-14T20:22:32.000Z",
     "available_at": "2025-06-15T02:01:02.000Z",
     "duration": 12462,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -2256,26 +2275,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "_Q3feRXFUbI",
-    "title": "【 歌枠 】自己満【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-30T14:08:35.000Z",
-    "available_at": "2025-05-30T13:00:17.000Z",
-    "duration": 3765,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
