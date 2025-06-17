@@ -246,9 +246,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-14T11:11:14.000Z",
-    "available_at": "2025-06-17T14:30:00.000Z",
+    "available_at": "2025-06-17T14:32:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 135
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
