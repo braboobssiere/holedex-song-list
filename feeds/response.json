@@ -1,5 +1,24 @@
 [
   {
+    "id": "Uj_4-a_VxgE",
+    "title": "【歌枠 / Singing Stream】おひさしぶり歌枠!今日は鼻の調子大丈夫なのか!?【常闇トワ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-17T02:19:10.000Z",
+    "available_at": "2025-06-17T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
     "id": "sKxrRjruYIQ",
     "title": "【歌枠】⋈SINGING! ⋈るーるるるん♪【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -653,6 +672,7 @@
     "available_at": "2025-06-16T08:00:30.000Z",
     "duration": 7030,
     "status": "past",
+    "songcount": 12,
     "live_tl_count": {
       "en": 4
     },
@@ -2275,25 +2295,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "9HpBUX9yhB0",
-    "title": "【AXELOTL DAY KARAOKE】Are we going to do our stupid little shot drink karaoke?【Unarchived】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-31T02:07:48.000Z",
-    "available_at": "2025-05-31T03:15:54.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC2hx0xVkMoHGWijwr_lA01w",
-      "name": "Axel Syrios Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Axel Syrios"
     }
   },
   {
