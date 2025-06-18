@@ -27,9 +27,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-18T04:16:28.000Z",
-    "available_at": "2025-06-18T14:15:00.000Z",
+    "available_at": "2025-06-18T14:08:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -142,6 +142,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "K6zDW0NVmKw",
+    "title": "EXPO 2025 Virtual Osaka Helthcare Pavilion\"Eudaimonia\" presentsVIRTUAL LIVE「ARK-或ル世界-」",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-16T06:46:28.000Z",
+    "available_at": "2025-06-19T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
+      "name": "花譜 -KAF-",
+      "org": "KAMITSUBAKI",
+      "suborg": "11PHENOMENON RECORD",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "KAF"
     }
   },
   {
@@ -5284,25 +5303,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "7J3paQ_m3Fs",
-    "title": "【3D Showcase Highlight Reel】IT'S SOME OF THE GREATEST SHOW, MAN",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-03T04:00:07.000Z",
-    "available_at": "2025-03-03T04:00:07.000Z",
-    "duration": 703,
-    "status": "past",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
     }
   },
   {
