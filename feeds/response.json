@@ -1,5 +1,27 @@
 [
   {
+    "id": "UQXxEwf7T6Q",
+    "title": "unarchived - SIKE THERE IS STREAM TODAY (it's bass again)",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-18T11:22:02.000Z",
+    "available_at": "2025-06-18T11:31:54.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 15
+    },
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "bhmuhXXBlmw",
     "title": "【REBROADCAST】LET'S BREAK THIS HABIT HAKKITO, IT'S LINKIN PARK TIME 🤘🔥【KARAOKE】",
     "type": "stream",
@@ -331,9 +353,9 @@
     "available_at": "2025-06-18T10:57:06.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 1,
+    "songcount": 11,
     "live_tl_count": {
-      "en": 4
+      "en": 138
     },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -2321,29 +2343,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "WmTWMFTSZ5k",
-    "title": "【歌枠】オリ曲~スタスタの曲を全部歌ってみよう~【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-31T09:21:04.000Z",
-    "available_at": "2025-05-31T08:06:03.000Z",
-    "duration": 4195,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 87
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
