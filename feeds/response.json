@@ -1,13 +1,32 @@
 [
   {
+    "id": "OttQK5hqQOk",
+    "title": "【歌枠 KARAOKE】縦型歌枠【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-19T07:00:20.000Z",
+    "available_at": "2025-06-19T07:00:36.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "TMzob7M9H-A",
     "title": "【ARCHIVED KARAOKE】Warmup Karaoke before I record later :3",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-19T01:51:59.000Z",
     "available_at": "2025-06-19T02:30:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13822,
+    "status": "past",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -2317,26 +2336,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "ho-IuaLMDQk",
-    "title": "月末のカラオケ 歌枠 【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-05-31T14:21:50.000Z",
-    "available_at": "2025-05-31T13:03:49.000Z",
-    "duration": 4111,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
