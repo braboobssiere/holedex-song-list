@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 46
+      "en": 75
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -1630,25 +1630,6 @@
     }
   },
   {
-    "id": "URBn58ty_zE",
-    "title": "【 第二回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-05T10:44:18.000Z",
-    "available_at": "2025-06-20T10:00:20.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
-    }
-  },
-  {
     "id": "9hewsp4G5K4",
     "title": "【KARAOKE / 歌枠】Unarchived Singing with ANNOUNCEMENT! ☆彡",
     "type": "stream",
@@ -2321,6 +2302,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "haz-0Gcw3_A",
+    "title": "【KARAOKE】Vocaloid and Anisong【 iofi / hololiveID 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-05-31T17:07:42.000Z",
+    "available_at": "2025-05-31T15:00:40.000Z",
+    "duration": 6436,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
