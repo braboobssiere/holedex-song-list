@@ -20,13 +20,13 @@
   },
   {
     "id": "FiUR0YMBKVM",
-    "title": "まったり歌っていく~!【轟はじめ】",
+    "title": "まったり歌っていく～！【轟はじめ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-20T13:00:31.000Z",
     "available_at": "2025-06-20T13:00:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7785,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -76,6 +76,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "Ebc6tvYjkFs",
+    "title": "【⚠告知あり】復活!!ただいま!!!歌枠!!!!【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-19T14:58:24.000Z",
+    "available_at": "2025-06-21T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -2257,26 +2276,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "7Y0VWVwp-gs",
-    "title": "【弾き語り歌枠 】ゆったり歌う1時間歌ったあとの枠【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-01T14:22:47.000Z",
-    "available_at": "2025-06-01T13:00:12.000Z",
-    "duration": 4221,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
