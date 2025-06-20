@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-20T11:39:37.000Z",
     "available_at": "2025-06-20T18:13:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 15641,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -76,6 +76,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "xg6DUmRRXlw",
+    "title": "【MV】RENEGADE【hololive English -Justice- 2nd Original Song】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-20T05:20:37.000Z",
+    "available_at": "2025-06-20T23:10:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -3181,27 +3201,6 @@
     "published_at": "2025-05-13T15:01:20.000Z",
     "available_at": "2025-05-13T15:01:20.000Z",
     "duration": 173,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCKnvC2XMqiXatNTK0N50LqA",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "oQLrmjIQzDY",
-    "title": "つらい思いをさせてごめんね",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-13T15:01:19.000Z",
-    "available_at": "2025-05-13T15:01:19.000Z",
-    "duration": 148,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCKnvC2XMqiXatNTK0N50LqA",

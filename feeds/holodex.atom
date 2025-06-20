@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-20T22:06:21.987Z</updated>
+  <updated>2025-06-20T23:06:26.523Z</updated>
 
   <entry>
     <id>urn:uuid:1d83c929-21a4-5a24-8605-4835623f1d28</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JZUxyQRp77M 【LIVE on &lt;t:1750410027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JZUxyQRp77M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bdd2c9a8-23a8-5d3c-9693-3d49cbaffa25</id>
+    <title><![CDATA[【MV】RENEGADE【hololive English -Justice- 2nd Original Song】]]></title>
+    <link href="https://youtu.be/xg6DUmRRXlw" rel="alternate" type="text/html"/>
+    <published>2025-06-20T05:20:37.000Z</published>
+    <updated>2025-06-20T05:20:37.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xg6DUmRRXlw 【LIVE on &lt;t:1750461000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg6DUmRRXlw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1433,20 +1447,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oWII6MKt_MQ 【LIVE on &lt;t:1747148480:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oWII6MKt_MQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:26b088ab-c30b-57e2-847a-c1807831690c</id>
-    <title><![CDATA[つらい思いをさせてごめんね]]></title>
-    <link href="https://youtu.be/oQLrmjIQzDY" rel="alternate" type="text/html"/>
-    <published>2025-05-13T15:01:19.000Z</published>
-    <updated>2025-05-13T15:01:19.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oQLrmjIQzDY 【LIVE on &lt;t:1747148479:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oQLrmjIQzDY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
