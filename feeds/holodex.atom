@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-20T12:06:22.494Z</updated>
+  <updated>2025-06-20T13:06:28.067Z</updated>
+
+  <entry>
+    <id>urn:uuid:1d83c929-21a4-5a24-8605-4835623f1d28</id>
+    <title><![CDATA[まったり歌っていく~!【轟はじめ】]]></title>
+    <link href="https://youtu.be/FiUR0YMBKVM" rel="alternate" type="text/html"/>
+    <published>2025-06-20T13:00:31.000Z</published>
+    <updated>2025-06-20T13:00:48.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FiUR0YMBKVM 【LIVE on &lt;t:1750424448:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FiUR0YMBKVM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:54888105-628a-5eaa-8b9f-39955c033591</id>
@@ -21,7 +35,7 @@
 
   <entry>
     <id>urn:uuid:ce51d173-0fc0-5766-9bde-568f219f9a73</id>
-    <title><![CDATA[【130万人耐久】久々歌枠こよステ!!!ケツは21時半!!130万人いけるかな・・・!?【博衣こより/ホロライブ】]]></title>
+    <title><![CDATA[【130万人耐久】久々歌枠こよステ！！！ケツは21時半！！130万人いけるかな・・・！？【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/JZUxyQRp77M" rel="alternate" type="text/html"/>
     <published>2025-06-20T05:21:26.000Z</published>
     <updated>2025-06-20T09:00:27.000Z</updated>
@@ -130,6 +144,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4mMHwJhWVZk 【LIVE on &lt;t:1750060830:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4mMHwJhWVZk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:deba325d-475a-5e5a-a211-e06b053ce6ca</id>
+    <title><![CDATA[【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/qZ4kw6FOMU0" rel="alternate" type="text/html"/>
+    <published>2025-06-16T09:57:48.000Z</published>
+    <updated>2025-06-20T12:52:02.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qZ4kw6FOMU0 【LIVE on &lt;t:1750423922:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ4kw6FOMU0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
