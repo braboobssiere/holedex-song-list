@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-21T00:13:24.000Z",
     "available_at": "2025-06-21T02:59:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 14040,
+    "status": "past",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -401,6 +401,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "NVXAOQGm4uM",
+    "title": "COLD BLUE - Original Song by Octavio (Short ver.)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-17T07:13:09.000Z",
+    "available_at": "2025-06-22T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
@@ -3211,27 +3231,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "oWII6MKt_MQ",
-    "title": "大嫌いがもっともっと積もるまで",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-13T15:01:20.000Z",
-    "available_at": "2025-05-13T15:01:20.000Z",
-    "duration": 173,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCKnvC2XMqiXatNTK0N50LqA",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
