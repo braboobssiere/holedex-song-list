@@ -240,8 +240,11 @@
     "topic_id": "singing",
     "published_at": "2025-06-19T14:58:24.000Z",
     "available_at": "2025-06-21T10:01:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3462,
+    "status": "past",
+    "live_tl_count": {
+      "en": 82
+    },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
