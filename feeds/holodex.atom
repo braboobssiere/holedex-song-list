@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-20T23:06:26.523Z</updated>
+  <updated>2025-06-21T00:06:22.720Z</updated>
+
+  <entry>
+    <id>urn:uuid:bdd2c9a8-23a8-5d3c-9693-3d49cbaffa25</id>
+    <title><![CDATA[【MV】RENEGADE【hololive English -Justice- 2nd Original Song】]]></title>
+    <link href="https://youtu.be/xg6DUmRRXlw" rel="alternate" type="text/html"/>
+    <published>2025-06-20T23:10:06.000Z</published>
+    <updated>2025-06-20T23:10:06.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xg6DUmRRXlw 【LIVE on &lt;t:1750461006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg6DUmRRXlw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1d83c929-21a4-5a24-8605-4835623f1d28</id>
@@ -48,20 +62,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bdd2c9a8-23a8-5d3c-9693-3d49cbaffa25</id>
-    <title><![CDATA[【MV】RENEGADE【hololive English -Justice- 2nd Original Song】]]></title>
-    <link href="https://youtu.be/xg6DUmRRXlw" rel="alternate" type="text/html"/>
-    <published>2025-06-20T05:20:37.000Z</published>
-    <updated>2025-06-20T05:20:37.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xg6DUmRRXlw 【LIVE on &lt;t:1750461000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg6DUmRRXlw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1a3bbeb0-4b07-50e8-a771-b28e94c6da78</id>
     <title><![CDATA[【⚠告知あり】復活!!ただいま!!!歌枠!!!!【天音かなた/ホロライブ】]]></title>
     <link href="https://youtu.be/Ebc6tvYjkFs" rel="alternate" type="text/html"/>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ebc6tvYjkFs 【LIVE on &lt;t:1750500000:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ebc6tvYjkFs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f31b5f4b-2135-57a7-b234-9b08fd810967</id>
+    <title><![CDATA[【 歌枠 】L'Arc〜en〜Ciel (ラルク) を雰囲気で歌うのら~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/4C5GmGZ-nQY" rel="alternate" type="text/html"/>
+    <published>2025-06-19T14:04:59.000Z</published>
+    <updated>2025-06-19T11:57:53.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4C5GmGZ-nQY 【LIVE on &lt;t:1750334273:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4C5GmGZ-nQY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -102,20 +116,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OttQK5hqQOk 【LIVE on &lt;t:1750316436:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OttQK5hqQOk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f31b5f4b-2135-57a7-b234-9b08fd810967</id>
-    <title><![CDATA[【 歌枠 】L'Arc〜en〜Ciel (ラルク) を雰囲気で歌うのら～！！！🎵 ～ KARAOKE【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/4C5GmGZ-nQY" rel="alternate" type="text/html"/>
-    <published>2025-06-18T13:29:14.000Z</published>
-    <updated>2025-06-19T11:57:53.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4C5GmGZ-nQY 【LIVE on &lt;t:1750334273:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4C5GmGZ-nQY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
