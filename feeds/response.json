@@ -240,9 +240,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-21T04:30:47.000Z",
-    "available_at": "2025-06-22T09:00:00.000Z",
+    "available_at": "2025-06-22T09:01:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -271,6 +271,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "mW1-0BTSQg0",
+    "title": "【Justice 1 Year Anniversary】 Operation DECODE",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-06-20T23:14:04.000Z",
+    "available_at": "2025-06-20T21:59:35.000Z",
+    "duration": 4210,
+    "status": "past",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
     }
   },
   {
@@ -383,7 +402,7 @@
     "published_at": "2025-06-20T11:39:37.000Z",
     "available_at": "2025-06-20T18:13:58.000Z",
     "duration": 15641,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -532,25 +551,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "mW1-0BTSQg0",
-    "title": "【Justice 1 Year Anniversary】 Operation DECODE",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-06-18T15:22:58.000Z",
-    "available_at": "2025-06-20T21:59:35.000Z",
-    "duration": 4205,
-    "status": "past",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
