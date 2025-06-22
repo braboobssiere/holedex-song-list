@@ -1,5 +1,24 @@
 [
   {
+    "id": "0WLPsKREmN4",
+    "title": "【 歌枠 】1日の終わりにうたう💭✨【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-22T14:41:32.000Z",
+    "available_at": "2025-06-22T15:00:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "1zNlSvEPoMk",
     "title": "【弾き語り歌枠】弾き語る、今日も【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
@@ -28,7 +47,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 7
+      "en": 16
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -47,8 +66,8 @@
     "topic_id": "asmr",
     "published_at": "2025-06-22T05:41:01.000Z",
     "available_at": "2025-06-22T14:01:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3627,
+    "status": "past",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -1820,29 +1839,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "xTB0sPt8FFY",
-    "title": "【歌枠 KARAOKE】縦型歌枠🩵【水宮枢/FLOW GLOW】#hololivedev_is",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-07T06:35:59.000Z",
-    "available_at": "2025-06-07T03:29:25.000Z",
-    "duration": 10315,
-    "status": "past",
-    "songcount": 22,
-    "live_tl_count": {
-      "en": 22
-    },
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
