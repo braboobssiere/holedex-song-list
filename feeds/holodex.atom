@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-22T00:06:24.610Z</updated>
+  <updated>2025-06-22T01:06:19.037Z</updated>
 
   <entry>
     <id>urn:uuid:41653e9a-7ca2-50c7-8298-6abbe3accd9b</id>
@@ -119,9 +119,9 @@
 
   <entry>
     <id>urn:uuid:1d83c929-21a4-5a24-8605-4835623f1d28</id>
-    <title><![CDATA[まったり歌っていく～！【轟はじめ】]]></title>
+    <title><![CDATA[まったり歌っていく~!【轟はじめ】]]></title>
     <link href="https://youtu.be/FiUR0YMBKVM" rel="alternate" type="text/html"/>
-    <published>2025-06-20T13:00:31.000Z</published>
+    <published>2025-06-20T15:20:15.000Z</published>
     <updated>2025-06-20T13:00:48.000Z</updated>
     <author>
       <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
@@ -129,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FiUR0YMBKVM 【LIVE on &lt;t:1750424448:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FiUR0YMBKVM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:deba325d-475a-5e5a-a211-e06b053ce6ca</id>
+    <title><![CDATA[【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/qZ4kw6FOMU0" rel="alternate" type="text/html"/>
+    <published>2025-06-20T15:09:00.000Z</published>
+    <updated>2025-06-20T12:52:02.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qZ4kw6FOMU0 【LIVE on &lt;t:1750423922:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ4kw6FOMU0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -298,20 +312,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4mMHwJhWVZk 【LIVE on &lt;t:1750060830:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4mMHwJhWVZk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:deba325d-475a-5e5a-a211-e06b053ce6ca</id>
-    <title><![CDATA[【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/qZ4kw6FOMU0" rel="alternate" type="text/html"/>
-    <published>2025-06-16T09:57:48.000Z</published>
-    <updated>2025-06-20T12:52:02.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qZ4kw6FOMU0 【LIVE on &lt;t:1750423922:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ4kw6FOMU0/maxresdefault.jpg"/>
   </entry>
 
   <entry>

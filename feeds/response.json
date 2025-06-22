@@ -1,5 +1,25 @@
 [
   {
+    "id": "NVXAOQGm4uM",
+    "title": "COLD BLUE - Original Song by Octavio (Short ver.)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-22T01:00:11.000Z",
+    "available_at": "2025-06-22T01:00:11.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 1,
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "QHG_71NO0lE",
     "title": "RENEGADE",
     "type": "stream",
@@ -214,6 +234,46 @@
     }
   },
   {
+    "id": "FiUR0YMBKVM",
+    "title": "まったり歌っていく~!【轟はじめ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-20T15:20:15.000Z",
+    "available_at": "2025-06-20T13:00:48.000Z",
+    "duration": 7789,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "qZ4kw6FOMU0",
+    "title": "【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-20T15:09:00.000Z",
+    "available_at": "2025-06-20T12:52:02.000Z",
+    "duration": 7805,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "wpX9K6kac6o",
     "title": "【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -230,26 +290,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "FiUR0YMBKVM",
-    "title": "まったり歌っていく～！【轟はじめ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-20T13:00:31.000Z",
-    "available_at": "2025-06-20T13:00:48.000Z",
-    "duration": 7785,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -601,26 +641,6 @@
     }
   },
   {
-    "id": "NVXAOQGm4uM",
-    "title": "COLD BLUE - Original Song by Octavio (Short ver.)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-17T07:13:09.000Z",
-    "available_at": "2025-06-22T01:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "rFw9SwoIVD8",
     "title": "【#すう爆誕2025】初のお誕生日&逆凸❕告知あり【水宮枢/FLOW GLOW】#hololiveDEV_IS",
     "type": "stream",
@@ -652,26 +672,6 @@
     "live_tl_count": {
       "en": 4
     },
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "qZ4kw6FOMU0",
-    "title": "【縦型歌枠】縦型歌雑枠♡金夜ゆっくりすごそおお【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-16T09:57:48.000Z",
-    "available_at": "2025-06-20T12:52:02.000Z",
-    "duration": 7796,
-    "status": "past",
-    "songcount": 13,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
