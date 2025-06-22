@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-22T14:41:32.000Z",
-    "available_at": "2025-06-22T15:00:00.000Z",
+    "available_at": "2025-06-22T15:04:51.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -44,10 +44,10 @@
     "topic_id": "singing",
     "published_at": "2025-06-22T07:17:10.000Z",
     "available_at": "2025-06-22T12:58:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8135,
+    "status": "past",
     "live_tl_count": {
-      "en": 16
+      "en": 17
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
