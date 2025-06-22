@@ -300,9 +300,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-06-20T10:42:11.000Z",
-    "available_at": "2025-06-22T00:00:00.000Z",
+    "available_at": "2025-06-21T23:59:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -320,8 +320,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-20T10:37:48.000Z",
     "available_at": "2025-06-21T22:05:22.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6808,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
