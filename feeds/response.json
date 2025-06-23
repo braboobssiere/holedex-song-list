@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-06-23T11:11:06.000Z",
-    "available_at": "2025-06-23T14:00:00.000Z",
+    "available_at": "2025-06-23T14:01:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -539,28 +539,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "URBn58ty_zE",
-    "title": "【 第二回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-20T11:45:40.000Z",
-    "available_at": "2025-06-20T10:00:20.000Z",
-    "duration": 4650,
-    "status": "past",
-    "live_tl_count": {
-      "en": 71
-    },
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
     }
   },
   {
@@ -1874,6 +1852,26 @@
     "duration": 3949,
     "status": "past",
     "songcount": 11,
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "rfC6-a37ko4",
+    "title": "【 歌枠 】歌う気分!!!!!!!いくぞおおおお!!!!!!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-07T06:48:34.000Z",
+    "available_at": "2025-06-07T06:17:11.000Z",
+    "duration": 1708,
+    "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
