@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-23T04:06:21.491Z</updated>
+  <updated>2025-06-23T05:06:24.579Z</updated>
 
   <entry>
     <id>urn:uuid:ce90360d-f917-5798-993f-582c92671f49</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jcS-IhOcoXs 【LIVE on &lt;t:1750600893:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jcS-IhOcoXs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1c5c785e-9cb2-5d23-b394-36f0fb09c65a</id>
+    <title><![CDATA[【歌枠/縦型】朝活！アニソン中心に歌うぞっ #shorts【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/pxt8D5LURSg" rel="alternate" type="text/html"/>
+    <published>2025-06-22T01:09:31.000Z</published>
+    <updated>2025-06-22T02:02:43.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pxt8D5LURSg 【LIVE on &lt;t:1750557763:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pxt8D5LURSg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -705,20 +719,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kq46_TvfzsU 【LIVE on &lt;t:1749290611:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kq46_TvfzsU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4bd7a8af-7528-5e9a-bcce-2cab6f9d3c2d</id>
-    <title><![CDATA[【 歌枠 】70万人を目指しましょうの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/gT1ARDYPxPs" rel="alternate" type="text/html"/>
-    <published>2025-06-07T10:35:36.000Z</published>
-    <updated>2025-06-07T05:00:22.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gT1ARDYPxPs 【LIVE on &lt;t:1749272422:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gT1ARDYPxPs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
