@@ -27,6 +27,7 @@
     "available_at": "2025-06-22T15:04:51.000Z",
     "duration": 14825,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -46,6 +47,7 @@
     "available_at": "2025-06-22T10:05:47.000Z",
     "duration": 4533,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -569,7 +571,7 @@
     "published_at": "2025-06-20T10:37:48.000Z",
     "available_at": "2025-06-21T22:05:22.000Z",
     "duration": 6808,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -1853,26 +1855,6 @@
     "duration": 3949,
     "status": "past",
     "songcount": 11,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
-    "id": "rfC6-a37ko4",
-    "title": "【 歌枠 】歌う気分!!!!!!!いくぞおおおお!!!!!!【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-07T06:48:34.000Z",
-    "available_at": "2025-06-07T06:17:11.000Z",
-    "duration": 1708,
-    "status": "past",
-    "songcount": 5,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -6052,6 +6034,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "940BbIi-EwU",
+    "title": "【 縦型歌枠/KARAOKE】 縦ってこれであってますか・・?【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2024-11-19T12:10:34.000Z",
+    "available_at": "2025-06-23T09:42:47.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
     }
   },
   {
