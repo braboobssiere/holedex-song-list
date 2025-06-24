@@ -264,8 +264,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-06-22T00:16:16.000Z",
     "available_at": "2025-06-24T01:00:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10865,
+    "status": "past",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -2102,25 +2102,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ykIwucEAmkwK1oJ5iqXXq3brcDVJw-U6Ng97MUNd3Qg8CO8uLYEWJPTt1KKJ2fY6l485CzC_PKU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Unnamed"
-    }
-  },
-  {
-    "id": "DmdN1ejLZUw",
-    "title": "【FANCAM VER.】Moe Chakka Fire(モエチャッカファイア) / Anya Melfissa【#CuriousTune3D】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-02T19:29:51.000Z",
-    "available_at": "2025-06-02T19:29:51.000Z",
-    "duration": 163,
-    "status": "past",
-    "channel": {
-      "id": "UC727SQYUvx5pDDGQpTICNWg",
-      "name": "Anya Melfissa Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Anya Melfissa"
     }
   },
   {
@@ -5361,6 +5342,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "kNyHW2eAZXc",
+    "title": "【3D Showcase Highlight Reel】Parallel Life Happiness; Highlighted Growth",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-04T04:00:28.000Z",
+    "available_at": "2025-03-04T04:00:28.000Z",
+    "duration": 648,
+    "status": "past",
+    "channel": {
+      "id": "UC060r4zABV18vcahAWR1n7w",
+      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Machina X Flayon"
     }
   },
   {
