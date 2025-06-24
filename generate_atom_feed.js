@@ -30,7 +30,14 @@ function createAtomFeed(videos, feedUrl) {
 
   videos.forEach(video => {
     //skip missing, holostars video, no song live
-    if (video.status === "missing" || ((video.songcount === undefined || video.songcount <= 1) && (video.topic_id === "Birthday" || video.topic_id === "Anniversary" || video.topic_id === "3D_Stream")) || video.channel.name.toLowerCase().includes("holostar") || (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))) {
+    if (video.status === "missing" ||
+        (!video.title.toLowerCase().includes("unarchive") && (video.songcount === undefined ||
+          video.songcount <= 1) && (video.topic_id === "Birthday" ||
+          video.topic_id === "Anniversary" || video.topic_id === "3D_Stream")
+        ) || video.channel.name.toLowerCase().includes("holostar") ||
+        (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))
+       )
+    {
       return;
     }
     const title = `<![CDATA[${video.title}]]>`;
