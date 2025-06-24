@@ -57,6 +57,25 @@
     }
   },
   {
+    "id": "jcS-IhOcoXs",
+    "title": "【 添い寝ASMR 】囁き声メインで君を寝かしつけちゃいます…♥ KU-100 / ASMR Super close up whispers【 猫又おかゆ/ホロライブ 】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-06-22T15:05:37.000Z",
+    "available_at": "2025-06-22T14:01:33.000Z",
+    "duration": 3604,
+    "status": "past",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
     "id": "0WLPsKREmN4",
     "title": "【 歌枠 】1日の終わりにうたう💭✨【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -166,7 +185,7 @@
     "published_at": "2025-06-22T07:17:10.000Z",
     "available_at": "2025-06-22T12:58:41.000Z",
     "duration": 8135,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 17
     },
@@ -178,25 +197,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_lfOOnprUv5xcScxIgQBTa2ZGUfS3TdfMEerPzr6BXED94=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ayunda Risu"
-    }
-  },
-  {
-    "id": "jcS-IhOcoXs",
-    "title": "【 添い寝ASMR 】囁き声メインで君を寝かしつけちゃいます…♥ KU-100 / ASMR Super close up whispers【 猫又おかゆ/ホロライブ 】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-06-22T05:41:01.000Z",
-    "available_at": "2025-06-22T14:01:33.000Z",
-    "duration": 3627,
-    "status": "past",
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
     }
   },
   {
@@ -263,9 +263,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-22T00:16:16.000Z",
-    "available_at": "2025-06-24T01:00:00.000Z",
+    "available_at": "2025-06-24T01:00:37.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
