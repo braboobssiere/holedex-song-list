@@ -1,5 +1,24 @@
 [
   {
+    "id": "7IalhfaqjWI",
+    "title": "【初‼朝歌枠】お話もしながら朝っぽい曲を歌う【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-25T21:24:41.000Z",
+    "available_at": "2025-06-25T21:25:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "qSb3gUX-OhQ",
     "title": "【UARCHIVED KARAOKE】DA-YO~~~!!!🌟",
     "type": "stream",
@@ -7,7 +26,7 @@
     "published_at": "2025-06-25T16:40:03.000Z",
     "available_at": "2025-06-25T16:47:46.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -1830,26 +1849,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "iTCi8zNPA4c",
-    "title": "【歌枠】月曜夜の歌【影山シエン/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-09T16:46:05.000Z",
-    "available_at": "2025-06-09T15:01:04.000Z",
-    "duration": 5338,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UChSvpZYRPh0FvG4SJGSga3g",
-      "name": "Shien Ch.影山シエン",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kageyama Shien"
     }
   },
   {
