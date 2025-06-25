@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "eHG8r1Bav8k",
+    "title": "【歌枠】重大告知させてください!!!!!Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-25T12:28:35.000Z",
+    "available_at": "2025-06-26T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "svbNkLJzSic",
     "title": "【 縦型歌枠/KARAOKE】　お疲れ様のうたわく！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -1831,26 +1850,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hanasaki Miyabi"
-    }
-  },
-  {
-    "id": "wj9LJWHij-A",
-    "title": "【 Chil🌃】夜行性なので深夜のチルチルソングや雑談をしにきました【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-08T20:50:35.000Z",
-    "available_at": "2025-06-08T17:01:20.000Z",
-    "duration": 13132,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -4536,6 +4535,9 @@
     "available_at": "2025-06-25T14:00:48.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
