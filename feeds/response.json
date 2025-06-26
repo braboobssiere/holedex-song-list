@@ -698,25 +698,6 @@
     }
   },
   {
-    "id": "NSD2EgN8IsM",
-    "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-21T06:57:05.000Z",
-    "available_at": "2025-06-21T06:57:05.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
     "id": "mW1-0BTSQg0",
     "title": "【Justice 1 Year Anniversary】 Operation DECODE",
     "type": "stream",
@@ -1850,6 +1831,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
+    }
+  },
+  {
+    "id": "iTCi8zNPA4c",
+    "title": "【歌枠】月曜夜の歌【影山シエン/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-09T16:46:05.000Z",
+    "available_at": "2025-06-09T15:01:04.000Z",
+    "duration": 5338,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
     }
   },
   {
