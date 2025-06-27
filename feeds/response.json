@@ -1,5 +1,24 @@
 [
   {
+    "id": "Uq69tfr9xaI",
+    "title": "[REBROADCAST] GHOST ONLY KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-27T20:10:37.000Z",
+    "available_at": "2025-06-27T21:00:29.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
+    }
+  },
+  {
     "id": "6h0keYCJ_QI",
     "title": "【 #ねねねトワワ 】💜 💛ねねねトワワ3周年記念日 一緒にお祝い動画を見ましょう!💛💜 【 桃鈴ねね / 常闇トワ 】",
     "type": "stream",
@@ -103,6 +122,26 @@
     "available_at": "2025-06-26T14:19:34.000Z",
     "duration": 0,
     "status": "missing",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "NSD2EgN8IsM",
+    "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-26T13:19:00.000Z",
+    "available_at": "2025-06-26T06:57:46.000Z",
+    "duration": 13041,
+    "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -498,7 +537,7 @@
     "published_at": "2025-06-23T15:23:02.000Z",
     "available_at": "2025-06-23T14:01:27.000Z",
     "duration": 4268,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -921,26 +960,6 @@
     "duration": 14049,
     "status": "past",
     "songcount": 25,
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "NSD2EgN8IsM",
-    "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-21T06:57:05.000Z",
-    "available_at": "2025-06-26T06:57:46.000Z",
-    "duration": 13033,
-    "status": "past",
-    "songcount": 15,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -1821,26 +1840,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "YEjSfVn-OY8",
-    "title": "【 歌枠 l KARAOKE 】REC前の寝起き声出しうた〜〜【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-12T02:27:11.000Z",
-    "available_at": "2025-06-11T23:00:37.000Z",
-    "duration": 7425,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {

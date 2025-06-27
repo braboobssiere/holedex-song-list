@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-27T20:06:22.269Z</updated>
+  <updated>2025-06-27T21:06:22.334Z</updated>
 
   <entry>
     <id>urn:uuid:52ddd564-ff9f-5402-b0a7-95d788bb71b7</id>
@@ -32,6 +32,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=B4vosjJcmEw 【LIVE on &lt;t:1750975329:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B4vosjJcmEw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:355e8587-bb28-5fad-9b8e-07718a592f25</id>
+    <title><![CDATA[【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/NSD2EgN8IsM" rel="alternate" type="text/html"/>
+    <published>2025-06-26T13:19:00.000Z</published>
+    <updated>2025-06-26T06:57:46.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NSD2EgN8IsM 【LIVE on &lt;t:1750921066:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NSD2EgN8IsM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -355,20 +369,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YlLLrzYQVCY 【LIVE on &lt;t:1750474783:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YlLLrzYQVCY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:355e8587-bb28-5fad-9b8e-07718a592f25</id>
-    <title><![CDATA[【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/NSD2EgN8IsM" rel="alternate" type="text/html"/>
-    <published>2025-06-21T06:57:05.000Z</published>
-    <updated>2025-06-26T06:57:46.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NSD2EgN8IsM 【LIVE on &lt;t:1750921066:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NSD2EgN8IsM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
