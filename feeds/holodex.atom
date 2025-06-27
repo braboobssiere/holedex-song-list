@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-27T14:06:21.418Z</updated>
+  <updated>2025-06-27T15:06:27.793Z</updated>
 
   <entry>
     <id>urn:uuid:52ddd564-ff9f-5402-b0a7-95d788bb71b7</id>
@@ -32,6 +32,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=B4vosjJcmEw 【LIVE on &lt;t:1750975329:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B4vosjJcmEw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c34cddd7-5bd8-5d90-90a0-6c7bd6eede50</id>
+    <title><![CDATA[【 告知つき 】夏休み前に歌をうたう~!!告知は例の・・・!?💐【ホロライブ/ ロボ子さん】]]></title>
+    <link href="https://youtu.be/sPK_Kp0pN_0" rel="alternate" type="text/html"/>
+    <published>2025-06-25T23:03:42.000Z</published>
+    <updated>2025-06-25T23:03:42.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sPK_Kp0pN_0 【LIVE on &lt;t:1751101200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sPK_Kp0pN_0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -130,6 +144,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=v-OWxvisxjM 【LIVE on &lt;t:1750845689:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v-OWxvisxjM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a24365da-2cc9-5ae8-912f-d25576c5e848</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「∞超スーパー無限インフィニティ∞」【Official Music Video】]]></title>
+    <link href="https://youtu.be/qWEWwgzMpZY" rel="alternate" type="text/html"/>
+    <published>2025-06-25T08:41:08.000Z</published>
+    <updated>2025-06-25T08:41:08.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qWEWwgzMpZY 【LIVE on &lt;t:1751101200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qWEWwgzMpZY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -724,20 +752,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:01452178-6f2f-5026-9c08-3eafe5482b08</id>
-    <title><![CDATA[unarchived - SING & BASS NIGHT]]></title>
-    <link href="https://youtu.be/EO9A7DwPf2Q" rel="alternate" type="text/html"/>
-    <published>2025-06-11T14:16:02.000Z</published>
-    <updated>2025-06-11T14:01:43.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EO9A7DwPf2Q 【LIVE on &lt;t:1749650503:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EO9A7DwPf2Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f247b9dc-fe21-587f-ad40-d513787f11eb</id>
     <title><![CDATA[【3DLIVE】重大告知あり‼パワーアップして帰ってきた音楽番組『MUSIC GARDEN』🎤✨【#鷹嶺ルイ生誕祭2025】]]></title>
     <link href="https://youtu.be/28P_1Y0WbrM" rel="alternate" type="text/html"/>
@@ -763,20 +777,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0fhzLbjDQKc 【LIVE on &lt;t:1749643206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0fhzLbjDQKc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:612b17ae-5ed7-52d1-bb70-74b1ed6d3bcc</id>
-    <title><![CDATA[【縦型歌枠】雨だねえバラード多めの縦型歌枠♡【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/YSys42daKH4" rel="alternate" type="text/html"/>
-    <published>2025-06-11T11:14:04.000Z</published>
-    <updated>2025-06-11T10:01:02.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YSys42daKH4 【LIVE on &lt;t:1749636062:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YSys42daKH4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1407,20 +1407,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q-FRQRsAR6Q 【LIVE on &lt;t:1747576765:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q-FRQRsAR6Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:527948bc-8f14-5fec-8e3f-d2566f991f8a</id>
-    <title><![CDATA[【original rap】薄明エンコード【儒烏風亭らでん】]]></title>
-    <link href="https://youtu.be/HRCV_lZ3uxM" rel="alternate" type="text/html"/>
-    <published>2025-05-18T08:30:05.000Z</published>
-    <updated>2025-05-18T08:30:05.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HRCV_lZ3uxM 【LIVE on &lt;t:1747557005:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HRCV_lZ3uxM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
