@@ -1,32 +1,13 @@
 [
   {
-    "id": "4iqQSJ4gV50",
-    "title": "【FANCAM VER.】CHRONIC LIVE VER. / Anya Melfissa【#CuriousTune3D】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-28T09:00:15.000Z",
-    "available_at": "2025-06-28T09:00:15.000Z",
-    "duration": 24,
-    "status": "past",
-    "channel": {
-      "id": "UC727SQYUvx5pDDGQpTICNWg",
-      "name": "Anya Melfissa Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Anya Melfissa"
-    }
-  },
-  {
     "id": "qWEWwgzMpZY",
     "title": "【オリジナル楽曲】ときのそら「∞超スーパー無限インフィニティ∞」【Official Music Video】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-06-28T09:00:06.000Z",
     "available_at": "2025-06-28T09:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 204,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -40,15 +21,15 @@
   },
   {
     "id": "I0O4Y4ilT48",
-    "title": "【歌枠ちょうでんぱぴーす】もうすぐMV公開枠!!【ホロライブ/ときのそら】",
+    "title": "【歌枠ちょうでんぱぴーす】もうすぐMV公開枠！！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-28T07:14:09.000Z",
     "available_at": "2025-06-28T07:43:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6369,
+    "status": "past",
     "live_tl_count": {
-      "en": 87
+      "en": 130
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -69,6 +50,9 @@
     "available_at": "2025-06-28T08:00:41.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 20
+    },
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -299,6 +283,9 @@
     "available_at": "2025-06-28T09:01:30.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -5333,6 +5320,29 @@
     "songcount": 5,
     "live_tl_count": {
       "en": 52
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "4C3kreEOk1Q",
+    "title": "【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE2【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-03-08T10:15:40.000Z",
+    "available_at": "2025-03-08T09:00:31.000Z",
+    "duration": 4190,
+    "status": "past",
+    "songcount": 5,
+    "live_tl_count": {
+      "en": 37
     },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
