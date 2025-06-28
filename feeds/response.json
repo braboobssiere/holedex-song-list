@@ -1,13 +1,35 @@
 [
   {
+    "id": "I0O4Y4ilT48",
+    "title": "【歌枠ちょうでんぱぴーす】もうすぐMV公開枠!!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-28T07:14:09.000Z",
+    "available_at": "2025-06-28T07:43:17.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 23
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "EQGgCLLiZN8",
     "title": "【歌雑枠】復活・・!?!?復帰明けの歌雑配信やっ!!✨【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-28T05:28:42.000Z",
-    "available_at": "2025-06-28T08:00:00.000Z",
+    "available_at": "2025-06-28T08:00:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -297,8 +319,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-25T16:51:23.000Z",
     "available_at": "2025-06-28T05:01:46.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10551,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -1711,29 +1733,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "jVlnoaqlC8o",
-    "title": "【 Chil🌃】寝起きの夜行性なので深夜のチルチルソングを・・・・・【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-13T21:02:27.000Z",
-    "available_at": "2025-06-13T17:31:57.000Z",
-    "duration": 11973,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 8
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
