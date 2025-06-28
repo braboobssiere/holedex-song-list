@@ -63,8 +63,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-27T14:49:26.000Z",
     "available_at": "2025-06-28T05:01:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6027,
+    "status": "past",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -208,6 +208,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "pKpWdttxPQk",
+    "title": "夏宿り / 大神ミオ (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-26T05:01:34.000Z",
+    "available_at": "2025-06-28T12:05:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -3258,26 +3277,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
-    "id": "VPhLXeU25KA",
-    "title": "綺麗事 / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-19T11:30:06.000Z",
-    "available_at": "2025-05-19T11:30:06.000Z",
-    "duration": 296,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
