@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-28T08:06:24.768Z</updated>
+  <updated>2025-06-28T09:06:26.935Z</updated>
+
+  <entry>
+    <id>urn:uuid:a24365da-2cc9-5ae8-912f-d25576c5e848</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「∞超スーパー無限インフィニティ∞」【Official Music Video】]]></title>
+    <link href="https://youtu.be/qWEWwgzMpZY" rel="alternate" type="text/html"/>
+    <published>2025-06-28T09:00:06.000Z</published>
+    <updated>2025-06-28T09:00:06.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qWEWwgzMpZY 【LIVE on &lt;t:1751101206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qWEWwgzMpZY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c40d7c12-2f56-5d5d-b105-0563847a8c93</id>
@@ -109,12 +123,12 @@
     <title><![CDATA[【 告知つき 】夏休み前に歌をうたう~!!告知は例の・・・!?💐【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/sPK_Kp0pN_0" rel="alternate" type="text/html"/>
     <published>2025-06-25T23:03:42.000Z</published>
-    <updated>2025-06-25T23:03:42.000Z</updated>
+    <updated>2025-06-28T09:01:30.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
       <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sPK_Kp0pN_0 【LIVE on &lt;t:1751101200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sPK_Kp0pN_0 【LIVE on &lt;t:1751101290:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sPK_Kp0pN_0/maxresdefault.jpg"/>
   </entry>
 
@@ -148,7 +162,7 @@
 
   <entry>
     <id>urn:uuid:ab6766d3-b368-56e4-9fdb-7eeb25ef246b</id>
-    <title><![CDATA[【縦型mgmg eat】ご飯を食べたりうたをうたったり!休暇前に1111111 登録みれるかなぁ!!【ホロライブ/ロボ子さん】]]></title>
+    <title><![CDATA[【縦型mgmg eat】ご飯を食べたりうたをうたったり！休暇前に1111111 登録みれるかなぁ！！【ホロライブ/ロボ子さん】]]></title>
     <link href="https://youtu.be/WwtiS80hz_0" rel="alternate" type="text/html"/>
     <published>2025-06-25T16:51:23.000Z</published>
     <updated>2025-06-28T05:01:46.000Z</updated>
@@ -214,20 +228,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=v-OWxvisxjM 【LIVE on &lt;t:1750845689:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v-OWxvisxjM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a24365da-2cc9-5ae8-912f-d25576c5e848</id>
-    <title><![CDATA[【オリジナル楽曲】ときのそら「∞超スーパー無限インフィニティ∞」【Official Music Video】]]></title>
-    <link href="https://youtu.be/qWEWwgzMpZY" rel="alternate" type="text/html"/>
-    <published>2025-06-25T08:41:08.000Z</published>
-    <updated>2025-06-25T08:41:08.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qWEWwgzMpZY 【LIVE on &lt;t:1751101200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qWEWwgzMpZY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1785,20 +1785,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wCblx1C_j68 【LIVE on &lt;t:1741491038:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wCblx1C_j68/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:818febd0-df65-5d1c-8491-3b566d84718f</id>
-    <title><![CDATA[【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE2【チラ見せ】]]></title>
-    <link href="https://youtu.be/4C3kreEOk1Q" rel="alternate" type="text/html"/>
-    <published>2025-03-08T10:15:40.000Z</published>
-    <updated>2025-03-08T09:00:31.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4C3kreEOk1Q 【LIVE on &lt;t:1741424431:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4C3kreEOk1Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
