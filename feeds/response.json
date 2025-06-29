@@ -64,8 +64,8 @@
     "topic_id": "singing",
     "published_at": "2025-06-29T00:48:46.000Z",
     "available_at": "2025-06-29T17:30:34.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10669,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -273,6 +273,52 @@
     }
   },
   {
+    "id": "sPK_Kp0pN_0",
+    "title": "【 告知つき 】夏休み前に歌をうたう~!!告知は例の・・・!?💐【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-28T10:20:38.000Z",
+    "available_at": "2025-06-28T09:01:30.000Z",
+    "duration": 4357,
+    "status": "past",
+    "songcount": 5,
+    "live_tl_count": {
+      "en": 9
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "EQGgCLLiZN8",
+    "title": "【歌雑枠】復活・・!?!?復帰明けの歌雑配信やっ!!✨【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-28T10:19:16.000Z",
+    "available_at": "2025-06-28T08:00:41.000Z",
+    "duration": 7775,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 23
+    },
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "I0O4Y4ilT48",
     "title": "【歌枠ちょうでんぱぴーす】もうすぐMV公開枠!!【ホロライブ/ときのそら】",
     "type": "stream",
@@ -333,29 +379,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "EQGgCLLiZN8",
-    "title": "【歌雑枠】復活・・！？！？復帰明けの歌雑配信やっ！！✨【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-28T05:28:42.000Z",
-    "available_at": "2025-06-28T08:00:41.000Z",
-    "duration": 7768,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 23
-    },
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SDCaFRHdMGhdq26NhwFCSd5LePULc0qhOw35_ee40Jis6amcKjwlWBYO1OH8nNCemc11RUDD=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
@@ -568,29 +591,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "sPK_Kp0pN_0",
-    "title": "【 告知つき 】夏休み前に歌をうたう～！！告知は例の・・・！？💐【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-25T23:03:42.000Z",
-    "available_at": "2025-06-28T09:01:30.000Z",
-    "duration": 4434,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 9
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
