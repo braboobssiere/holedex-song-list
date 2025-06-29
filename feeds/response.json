@@ -24,7 +24,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-28T23:05:33.000Z",
-    "available_at": "2025-06-29T01:00:00.000Z",
+    "available_at": "2025-06-29T01:19:23.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -2498,7 +2498,7 @@
     "id": "9PUyXekcnms",
     "title": "オリジナルミュージカル『MUSICAL Fantasia of Bremen』/Oster project 【ホロライブ/アキロゼ】",
     "type": "stream",
-    "topic_id": "Original_Song",
+    "topic_id": "3D_Stream",
     "published_at": "2025-06-02T09:00:06.000Z",
     "available_at": "2025-06-02T09:00:06.000Z",
     "duration": 1091,
@@ -3172,6 +3172,26 @@
     "live_tl_count": {
       "en": 100
     },
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
+    "id": "Mh_DnoGsh88",
+    "title": "バグラブ / DECO*27 (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-05-25T13:00:09.000Z",
+    "available_at": "2025-05-25T13:00:09.000Z",
+    "duration": 173,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -5376,29 +5396,6 @@
     "songcount": 5,
     "live_tl_count": {
       "en": 52
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "4C3kreEOk1Q",
-    "title": "【#hololivefesEXPO25_DAY1】hololive 6th fes. Color Rise Harmony hololive STAGE2【チラ見せ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-08T10:15:40.000Z",
-    "available_at": "2025-03-08T09:00:31.000Z",
-    "duration": 4190,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 37
     },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
