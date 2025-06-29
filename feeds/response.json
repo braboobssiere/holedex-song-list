@@ -1,5 +1,24 @@
 [
   {
+    "id": "OC9twC8iM6U",
+    "title": "【歌枠/KARAOKE】40万人めざして!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-29T06:35:23.000Z",
+    "available_at": "2025-06-29T08:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "fD7AigWCGNk",
     "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -126,6 +145,7 @@
     "available_at": "2025-06-28T14:31:41.000Z",
     "duration": 12906,
     "status": "past",
+    "songcount": 37,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -1761,29 +1781,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "IQNJqLNHe4g",
-    "title": "【歌枠】るんるんるんるん♪【百鬼あやめ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-14T14:45:48.000Z",
-    "available_at": "2025-06-14T12:01:32.000Z",
-    "duration": 8969,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 96
-    },
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
     }
   },
   {
