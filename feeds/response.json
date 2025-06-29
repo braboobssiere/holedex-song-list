@@ -1,14 +1,33 @@
 [
   {
+    "id": "-QzZR_GHbXw",
+    "title": "【 歌枠 l KARAOKE 】とつぜんの歌!【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-29T13:02:12.000Z",
+    "available_at": "2025-06-29T13:00:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "OC9twC8iM6U",
     "title": "【歌枠/KARAOKE】40万人めざして!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-29T06:35:23.000Z",
     "available_at": "2025-06-29T08:30:42.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 32,
+    "duration": 15893,
+    "status": "past",
+    "songcount": 40,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -1763,25 +1782,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "HTGX5lXhsZc",
-    "title": "【UNARCHIVED】LET'S BREAK THIS HABIT HAKKITO, IT'S LINKIN PARK TIME 🤘🔥【KARAOKE】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-14T20:22:32.000Z",
-    "available_at": "2025-06-15T02:01:02.000Z",
-    "duration": 12462,
-    "status": "missing",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
