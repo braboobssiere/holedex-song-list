@@ -7,7 +7,7 @@
     "published_at": "2025-06-29T14:06:06.000Z",
     "available_at": "2025-06-29T15:01:46.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -16,25 +16,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
-    }
-  },
-  {
-    "id": "-QzZR_GHbXw",
-    "title": "【 歌枠 l KARAOKE 】とつぜんの歌！【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-29T13:02:12.000Z",
-    "available_at": "2025-06-29T13:07:30.000Z",
-    "duration": 2132,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
@@ -82,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-06-29T00:48:46.000Z",
-    "available_at": "2025-06-29T17:30:00.000Z",
+    "available_at": "2025-06-29T17:30:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -309,6 +290,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "WwtiS80hz_0",
+    "title": "【縦型mgmg eat】ご飯を食べたりうたをうたったり!休暇前に1111111 登録みれるかなぁ!!【ホロライブ/ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-28T08:07:49.000Z",
+    "available_at": "2025-06-28T05:01:46.000Z",
+    "duration": 10563,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -605,26 +606,6 @@
     "live_tl_count": {
       "en": 5
     },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "WwtiS80hz_0",
-    "title": "【縦型mgmg eat】ご飯を食べたりうたをうたったり！休暇前に1111111 登録みれるかなぁ！！【ホロライブ/ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-25T16:51:23.000Z",
-    "available_at": "2025-06-28T05:01:46.000Z",
-    "duration": 10551,
-    "status": "past",
-    "songcount": 10,
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -1741,6 +1722,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "cN809BYNJtA",
+    "title": "【UNARCHIVED KARAOKE】One hour Andy - for realsies this time! ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-15T12:40:16.000Z",
+    "available_at": "2025-06-15T12:46:05.000Z",
+    "duration": 5757,
+    "status": "missing",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
