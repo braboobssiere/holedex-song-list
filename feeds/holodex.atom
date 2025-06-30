@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-06-30T08:06:27.390Z</updated>
+  <updated>2025-06-30T09:06:36.178Z</updated>
+
+  <entry>
+    <id>urn:uuid:867eefc3-f28b-52e5-ba03-2e8b90f89e25</id>
+    <title><![CDATA[【歌枠】第125回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/yxohBmRFdtU" rel="alternate" type="text/html"/>
+    <published>2025-06-30T08:32:54.000Z</published>
+    <updated>2025-06-30T08:32:54.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yxohBmRFdtU 【LIVE on &lt;t:1751288400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yxohBmRFdtU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d4e973ad-b186-51d4-b778-6e0b0e4e5353</id>
