@@ -77,6 +77,26 @@
     }
   },
   {
+    "id": "OC9twC8iM6U",
+    "title": "【歌枠/KARAOKE】40万人めざして!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-29T13:23:48.000Z",
+    "available_at": "2025-06-29T08:30:42.000Z",
+    "duration": 15869,
+    "status": "past",
+    "songcount": 40,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "QJstI6bV0Ns",
     "title": "【歌枠 / Singing Stream】いろいろ歌うよ~!【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -113,26 +133,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "OC9twC8iM6U",
-    "title": "【歌枠/KARAOKE】40万人めざして！！！！【輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-29T06:35:23.000Z",
-    "available_at": "2025-06-29T08:30:42.000Z",
-    "duration": 15893,
-    "status": "past",
-    "songcount": 40,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -2049,9 +2049,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-11T23:11:18.000Z",
-    "available_at": "2025-06-30T23:00:00.000Z",
+    "available_at": "2025-06-30T22:54:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
       "name": "Goldbullet Ch. HOLOSTARS-EN",
