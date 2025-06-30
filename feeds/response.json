@@ -77,6 +77,26 @@
     }
   },
   {
+    "id": "QJstI6bV0Ns",
+    "title": "【歌枠 / Singing Stream】いろいろ歌うよ~!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-29T11:23:50.000Z",
+    "available_at": "2025-06-29T10:00:19.000Z",
+    "duration": 4635,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "fD7AigWCGNk",
     "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -190,26 +210,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "QJstI6bV0Ns",
-    "title": "【歌枠 / Singing Stream】いろいろ歌うよ～！【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-28T17:02:28.000Z",
-    "available_at": "2025-06-29T10:00:19.000Z",
-    "duration": 4636,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
