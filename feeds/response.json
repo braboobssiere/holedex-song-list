@@ -1,5 +1,24 @@
 [
   {
+    "id": "ReQNxkmkWOQ",
+    "title": "A Song for Us【ボカデュオ2025】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-01T04:43:27.000Z",
+    "available_at": "2025-07-01T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC2hx0xVkMoHGWijwr_lA01w",
+      "name": "Axel Syrios Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Axel Syrios"
+    }
+  },
+  {
     "id": "Tu2n-MKVPMs",
     "title": "君にしか読めない手紙 / 風真いろは(official)",
     "type": "stream",
@@ -56,6 +75,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "hBivrbBcnb0",
+    "title": "【 #キズナアイが生まれた日】誕生日カウントダウン配信!一緒に迎えたいっ!【KizunaAI / キズナアイ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-29T16:02:56.000Z",
+    "available_at": "2025-06-29T14:31:16.000Z",
+    "duration": 5095,
+    "status": "past",
+    "channel": {
+      "id": "UC4YaOt1yT-ZeyB0OmxHgolA",
+      "name": "KizunaAI - A.I.Channel",
+      "org": "Kizuna Ai Inc.",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/286wUM8BvWF_ZhXpgMYFGR0kDZ4E8Y-n6jusQ-rYk0gsmUUsHdHXl_Ukz3RbmwdOWa29C4uxLg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kizuna AI"
     }
   },
   {
@@ -3056,26 +3094,6 @@
     }
   },
   {
-    "id": "wvtP9tUr_S4",
-    "title": "セルフサービス / 天音かなた(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-05-31T12:00:06.000Z",
-    "available_at": "2025-05-31T12:00:06.000Z",
-    "duration": 160,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
-    }
-  },
-  {
     "id": "A1Cs9A8JhYs",
     "title": "【3D LIVE】インターネット・ガール・バースデー 【#しぐれうい生誕2025】",
     "type": "stream",
@@ -4276,26 +4294,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "mt8AyISL9Ig",
-    "title": "【 3D LIVE 】The First Note【 #⁠音乃瀬奏生誕祭2025 】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-20T12:13:06.000Z",
-    "available_at": "2025-04-20T10:55:06.000Z",
-    "duration": 4330,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/c9NMa9oHAgutm1mh7CaGIfwgBJhw-woJZ_l5tn_lqmy3cKftM6ri8CKQuKvzio6IMz5hWyzC=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
