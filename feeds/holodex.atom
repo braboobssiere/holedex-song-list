@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-01T01:06:23.118Z</updated>
+  <updated>2025-07-01T02:06:20.610Z</updated>
 
   <entry>
     <id>urn:uuid:5c979d88-c10d-5ecb-8aa6-e3078c1bc10c</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yxohBmRFdtU 【LIVE on &lt;t:1751288474:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yxohBmRFdtU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:55fc7149-cab7-5bb2-ab17-15585ebdbb20</id>
+    <title><![CDATA[【ASMR】寝苦しい夜はノエちゃんと過ごそ?♡今月もお疲れさまでした♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/Quoirx8lsFM" rel="alternate" type="text/html"/>
+    <published>2025-06-29T15:45:25.000Z</published>
+    <updated>2025-06-29T14:00:32.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Quoirx8lsFM 【LIVE on &lt;t:1751205632:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Quoirx8lsFM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DTbyvlOmzuU 【LIVE on &lt;t:1751122818:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DTbyvlOmzuU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:55fc7149-cab7-5bb2-ab17-15585ebdbb20</id>
-    <title><![CDATA[【ASMR】寝苦しい夜はノエちゃんと過ごそ？♡今月もお疲れさまでした♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/Quoirx8lsFM" rel="alternate" type="text/html"/>
-    <published>2025-06-28T13:22:52.000Z</published>
-    <updated>2025-06-29T14:00:32.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Quoirx8lsFM 【LIVE on &lt;t:1751205632:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Quoirx8lsFM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
