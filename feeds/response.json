@@ -6,8 +6,8 @@
     "topic_id": "Original_Song",
     "published_at": "2025-07-01T10:00:06.000Z",
     "available_at": "2025-07-01T10:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 238,
+    "status": "past",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -24,9 +24,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-01T09:52:47.000Z",
-    "available_at": "2025-07-01T10:00:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "available_at": "2025-07-01T10:04:53.000Z",
+    "duration": 3228,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -774,9 +775,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-26T06:00:36.000Z",
-    "available_at": "2025-07-01T11:00:00.000Z",
+    "available_at": "2025-07-01T10:57:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 39
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
