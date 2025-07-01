@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-01T09:06:27.627Z</updated>
+  <updated>2025-07-01T10:06:28.169Z</updated>
+
+  <entry>
+    <id>urn:uuid:7c74252f-ac2e-59a0-a0fe-6b8fb43aa7d0</id>
+    <title><![CDATA[【歌・雑談/KARAOKE】歌って喋って告知する【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/O5HoVgvkUgg" rel="alternate" type="text/html"/>
+    <published>2025-07-01T09:52:47.000Z</published>
+    <updated>2025-07-01T10:00:00.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=O5HoVgvkUgg 【LIVE on &lt;t:1751364000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/O5HoVgvkUgg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:696ab5d1-7a0a-513f-bd52-ea8f6caa1272</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】Singing my heart out so I can get a noise complaint]]></title>
+    <link href="https://youtu.be/bdNakZdIKxM" rel="alternate" type="text/html"/>
+    <published>2025-07-01T09:32:55.000Z</published>
+    <updated>2025-07-01T09:32:55.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bdNakZdIKxM 【LIVE on &lt;t:1751382000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bdNakZdIKxM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5c979d88-c10d-5ecb-8aa6-e3078c1bc10c</id>
@@ -597,7 +625,7 @@
 
   <entry>
     <id>urn:uuid:8baa9e9a-0748-5341-b722-132b2a989c65</id>
-    <title><![CDATA[【縦型雑談歌枠】七月突入!!もう夏だあ!!🌞【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【縦型雑談歌枠】七月突入！！もう夏だあ！！🌞【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/wpX9K6kac6o" rel="alternate" type="text/html"/>
     <published>2025-06-20T15:02:11.000Z</published>
     <updated>2025-07-01T08:00:32.000Z</updated>
@@ -678,48 +706,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=42h4ydJS3zk 【LIVE on &lt;t:1750244226:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/42h4ydJS3zk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:31900099-db26-5a3d-80af-a96106b5a040</id>
-    <title><![CDATA[【歌枠 / Singing Stream】おひさしぶり歌枠!今日は鼻の調子大丈夫なのか!?【常闇トワ/ホロライブ】]]></title>
-    <link href="https://youtu.be/Uj_4-a_VxgE" rel="alternate" type="text/html"/>
-    <published>2025-06-17T11:36:30.000Z</published>
-    <updated>2025-06-17T10:02:44.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Uj_4-a_VxgE 【LIVE on &lt;t:1750154564:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Uj_4-a_VxgE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5bf42d68-c4f0-584b-a3e9-b3072caa724d</id>
-    <title><![CDATA[【歌枠】⋈SINGING! ⋈るーるるるん♪【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/sKxrRjruYIQ" rel="alternate" type="text/html"/>
-    <published>2025-06-17T10:08:19.000Z</published>
-    <updated>2025-06-17T08:58:27.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sKxrRjruYIQ 【LIVE on &lt;t:1750150707:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sKxrRjruYIQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b99c4563-af84-5e00-8578-71eca75d9125</id>
-    <title><![CDATA[【縦型歌枠】縦型歌枠♡仕事・学校お疲れ様!【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/4mMHwJhWVZk" rel="alternate" type="text/html"/>
-    <published>2025-06-16T10:16:29.000Z</published>
-    <updated>2025-06-16T08:00:30.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4mMHwJhWVZk 【LIVE on &lt;t:1750060830:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4mMHwJhWVZk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1784,6 +1770,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3OkprzHcirU 【LIVE on &lt;t:1741510822:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3OkprzHcirU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a350956b-5ef6-5fc5-9034-71194f67c8ad</id>
+    <title><![CDATA[【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】]]></title>
+    <link href="https://youtu.be/wCblx1C_j68" rel="alternate" type="text/html"/>
+    <published>2025-03-09T04:51:24.000Z</published>
+    <updated>2025-03-09T03:30:38.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wCblx1C_j68 【LIVE on &lt;t:1741491038:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wCblx1C_j68/maxresdefault.jpg"/>
   </entry>
 
   <entry>
