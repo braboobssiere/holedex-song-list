@@ -1,5 +1,24 @@
 [
   {
+    "id": "1ZrPTu4bsig",
+    "title": "未来カンパネラ / AZKi (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-01T12:05:06.000Z",
+    "available_at": "2025-07-01T12:05:06.000Z",
+    "duration": 229,
+    "status": "past",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "ReQNxkmkWOQ",
     "title": "A Song for Us【ボカデュオ2025】",
     "type": "stream",
@@ -44,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-01T09:51:57.000Z",
-    "available_at": "2025-07-01T13:00:00.000Z",
+    "available_at": "2025-07-01T12:57:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -94,25 +113,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "1ZrPTu4bsig",
-    "title": "AZKi「未来カンパネラ」【Official Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-30T20:48:47.000Z",
-    "available_at": "2025-07-01T12:05:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -448,7 +448,7 @@
   },
   {
     "id": "Qml7iiZtuCg",
-    "title": "💜前編|ねねねトワワ3周年記念旅行inナガシマスパーランド",
+    "title": "💜前編｜ねねねトワワ3周年記念旅行inナガシマスパーランド",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-06-28T13:00:06.000Z",
@@ -809,7 +809,7 @@
   },
   {
     "id": "gdQ4eN9wzZg",
-    "title": "【3D LIVE】AZKi 7th Birthday Live \"Sweet Pop Story\" 新衣装お披露目&重大発表【#AZKi生誕ライブ2025】",
+    "title": "【3D LIVE】AZKi 7th Birthday Live \"Sweet Pop Story\" 新衣装お披露目＆重大発表【#AZKi生誕ライブ2025】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-26T06:00:36.000Z",
@@ -817,7 +817,7 @@
     "duration": 3989,
     "status": "past",
     "live_tl_count": {
-      "en": 174
+      "en": 173
     },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -1078,8 +1078,8 @@
     "topic_id": "asmr",
     "published_at": "2025-06-23T15:23:02.000Z",
     "available_at": "2025-06-23T14:01:27.000Z",
-    "duration": 4268,
-    "status": "missing",
+    "duration": 3344,
+    "status": "past",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
