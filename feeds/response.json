@@ -127,6 +127,7 @@
     "available_at": "2025-07-01T10:00:06.000Z",
     "duration": 238,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -217,6 +218,25 @@
     }
   },
   {
+    "id": "CohaXjDMyAg",
+    "title": "【Birthday Cooking Handcam!】A BRAND NEW DISH FOR THE BUBBIES!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-01T03:05:59.000Z",
+    "available_at": "2025-06-30T22:54:26.000Z",
+    "duration": 14138,
+    "status": "past",
+    "channel": {
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+      "name": "Goldbullet Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Goldbullet"
+    }
+  },
+  {
     "id": "yxohBmRFdtU",
     "title": "【歌枠】第125回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -245,6 +265,9 @@
     "available_at": "2025-07-02T12:01:26.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 225
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -2176,25 +2199,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "CohaXjDMyAg",
-    "title": "【Birthday Cooking Handcam!】A BRAND NEW DISH FOR THE BUBBIES!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-06-11T23:11:18.000Z",
-    "available_at": "2025-06-30T22:54:26.000Z",
-    "duration": 14135,
-    "status": "past",
-    "channel": {
-      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-      "name": "Goldbullet Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Goldbullet"
     }
   },
   {
