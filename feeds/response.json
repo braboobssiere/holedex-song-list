@@ -197,6 +197,25 @@
     }
   },
   {
+    "id": "84LYPCDZMak",
+    "title": "【もうすぐ誕生日】みんなと一緒に迎える誕生日!カウントダウン!新衣装予想会も!【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-30T15:50:26.000Z",
+    "available_at": "2025-06-30T14:30:33.000Z",
+    "duration": 4458,
+    "status": "past",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "L8L0AWGBKW0",
     "title": "【無料オンラインライブ】KizunaAI 9th Birthday Live『 A.I.Party! 2025 〜It's all u〜 』【KizunaAI / キズナアイ】",
     "type": "stream",
@@ -233,25 +252,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "84LYPCDZMak",
-    "title": "【もうすぐ誕生日】みんなと一緒に迎える誕生日！カウントダウン！新衣装予想会も！【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-06-30T05:06:23.000Z",
-    "available_at": "2025-06-30T14:30:33.000Z",
-    "duration": 4466,
-    "status": "past",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -1662,6 +1662,7 @@
     "available_at": "2025-07-01T08:00:32.000Z",
     "duration": 4988,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
