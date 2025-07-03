@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-03T10:06:28.568Z</updated>
+  <updated>2025-07-03T11:06:24.104Z</updated>
+
+  <entry>
+    <id>urn:uuid:471f6295-4d3c-559c-8fb1-4d766fc4dc59</id>
+    <title><![CDATA[【歌枠】SINGING! 歌お〜!🎤 プチお披露目アリ✧︎【ラプラス・ダークネス/ホロライブ】]]></title>
+    <link href="https://youtu.be/AMaLJUgVQ88" rel="alternate" type="text/html"/>
+    <published>2025-07-03T10:47:32.000Z</published>
+    <updated>2025-07-03T10:47:32.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AMaLJUgVQ88 【LIVE on &lt;t:1751547600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AMaLJUgVQ88/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4f2c5beb-c97c-53de-a26e-32e8f13ccbe6</id>
@@ -761,20 +775,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qZ4kw6FOMU0 【LIVE on &lt;t:1750423922:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ4kw6FOMU0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ce51d173-0fc0-5766-9bde-568f219f9a73</id>
-    <title><![CDATA[【130万人耐久】久々歌枠こよステ!!!ケツは21時半!!130万人いけるかな・・・!?【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/JZUxyQRp77M" rel="alternate" type="text/html"/>
-    <published>2025-06-20T12:49:59.000Z</published>
-    <updated>2025-06-20T09:00:27.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JZUxyQRp77M 【LIVE on &lt;t:1750410027:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JZUxyQRp77M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
