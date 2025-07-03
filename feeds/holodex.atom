@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-03T08:06:33.763Z</updated>
+  <updated>2025-07-03T09:06:26.363Z</updated>
 
   <entry>
     <id>urn:uuid:4f2c5beb-c97c-53de-a26e-32e8f13ccbe6</id>
@@ -255,6 +255,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fD7AigWCGNk 【LIVE on &lt;t:1751173627:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fD7AigWCGNk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e81a09c-80ee-5aa1-80d4-e535ac616cd8</id>
+    <title><![CDATA[【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/sP8ZyDnvpAY" rel="alternate" type="text/html"/>
+    <published>2025-06-29T09:23:35.000Z</published>
+    <updated>2025-07-03T08:01:13.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sP8ZyDnvpAY 【LIVE on &lt;t:1751529673:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sP8ZyDnvpAY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -775,20 +789,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JZUxyQRp77M 【LIVE on &lt;t:1750410027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JZUxyQRp77M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f31b5f4b-2135-57a7-b234-9b08fd810967</id>
-    <title><![CDATA[【 歌枠 】L'Arc〜en〜Ciel (ラルク) を雰囲気で歌うのら~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/4C5GmGZ-nQY" rel="alternate" type="text/html"/>
-    <published>2025-06-19T14:04:59.000Z</published>
-    <updated>2025-06-19T11:57:53.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4C5GmGZ-nQY 【LIVE on &lt;t:1750334273:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4C5GmGZ-nQY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
