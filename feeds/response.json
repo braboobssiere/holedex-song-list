@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-04T11:45:10.000Z",
-    "available_at": "2025-07-04T14:00:19.000Z",
+    "available_at": "2025-07-04T14:03:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -112,6 +112,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
+    "id": "DsZz2bIg-Ho",
+    "title": "【#超ゲマズ2_day1】hololive GAMERS fes. 超超超超ゲーマーズ2【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-03T12:42:43.000Z",
+    "available_at": "2025-07-05T07:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5407,29 +5426,6 @@
     "songcount": 7,
     "live_tl_count": {
       "en": 18
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "wCblx1C_j68",
-    "title": "【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony CREATORS' STAGE【チラ見せ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-09T04:51:24.000Z",
-    "available_at": "2025-03-09T03:30:38.000Z",
-    "duration": 4565,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 52
     },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
