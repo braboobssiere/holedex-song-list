@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-04T11:06:24.503Z</updated>
+  <updated>2025-07-04T12:06:27.669Z</updated>
+
+  <entry>
+    <id>urn:uuid:c69d9546-2c10-5224-8f8e-eb365937d367</id>
+    <title><![CDATA[【縦型歌枠】縦型用新ステージお披露目Chill歌枠!Singing Stream!【角巻わため/ホロライブ4期生】 #shorts #vtuber]]></title>
+    <link href="https://youtu.be/C4t6ORKPuoY" rel="alternate" type="text/html"/>
+    <published>2025-07-04T11:45:10.000Z</published>
+    <updated>2025-07-04T11:45:10.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=C4t6ORKPuoY 【LIVE on &lt;t:1751637619:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C4t6ORKPuoY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:223f0a78-7e86-547e-a831-4deb230a02c6</id>
@@ -776,20 +790,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X6ybtxucgpA 【LIVE on &lt;t:1750494796:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X6ybtxucgpA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:72eaea8f-76de-590b-b3f2-c37dda5c3b3a</id>
-    <title><![CDATA[【歌枠/KARAOKE】初めての縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/YlLLrzYQVCY" rel="alternate" type="text/html"/>
-    <published>2025-06-21T07:11:49.000Z</published>
-    <updated>2025-06-21T02:59:43.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YlLLrzYQVCY 【LIVE on &lt;t:1750474783:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YlLLrzYQVCY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
