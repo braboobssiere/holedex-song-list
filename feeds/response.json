@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-05T02:35:43.000Z",
     "available_at": "2025-07-05T02:36:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10752,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -35,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "f-UbyQUUykE",
+    "title": "【3D LIVE】SUPER SPECIAL SUMMER BIRTHDAY LIVE! #KiaraBDay2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-04T23:18:59.000Z",
+    "available_at": "2025-07-06T00:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -4207,29 +4226,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hAn3-vbHdWx0GN7rMIrpqTSOtJNYNs4Qc3AttalMtViuJeOKQ-nloe_77k4iarEKe7sxUyR33EY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tana Nona"
-    }
-  },
-  {
-    "id": "UdbB5g1ncHs",
-    "title": "【3DLIVE】重大告知あり! #天音かなた生誕祭 「堕天使の憂鬱」/ Amane Kanata 3DLIVE \"Melancholy of the Fallen Angel\"【ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-22T12:57:21.000Z",
-    "available_at": "2025-04-22T11:59:01.000Z",
-    "duration": 3251,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 86
-    },
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
     }
   },
   {
