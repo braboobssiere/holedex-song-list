@@ -162,7 +162,7 @@
     "published_at": "2025-07-03T20:19:33.000Z",
     "available_at": "2025-07-03T22:57:16.000Z",
     "duration": 11819,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -250,6 +250,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
+    "id": "rEXa7NyZOFY",
+    "title": "【#超ゲマズ2_day2】hololive GAMERS fes. 超超超超ゲーマーズ2【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-03T12:45:28.000Z",
+    "available_at": "2025-07-06T06:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5410,29 +5429,6 @@
     }
   },
   {
-    "id": "3OkprzHcirU",
-    "title": "【#hololivefesEXPO25_DAY2】hololive 6th fes. Color Rise Harmony hololive STAGE3【チラ見せ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-03-09T10:21:06.000Z",
-    "available_at": "2025-03-09T09:00:22.000Z",
-    "duration": 4561,
-    "status": "past",
-    "songcount": 7,
-    "live_tl_count": {
-      "en": 18
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
     "id": "Zx_W5SB0PZI",
     "title": "課題曲：ドライフラワー 練習がんばる!",
     "type": "stream",
@@ -5856,8 +5852,9 @@
     "available_at": "2025-07-05T12:00:18.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 8,
     "live_tl_count": {
-      "en": 4
+      "en": 166
     },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
