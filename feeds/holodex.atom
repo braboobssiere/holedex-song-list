@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-05T02:06:24.759Z</updated>
+  <updated>2025-07-05T03:06:24.179Z</updated>
+
+  <entry>
+    <id>urn:uuid:9d924106-60f1-58bc-b127-95584cc6e73c</id>
+    <title><![CDATA[【歌枠】虎さんの歌を聴きなさい【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/WhN86DWVPtQ" rel="alternate" type="text/html"/>
+    <published>2025-07-05T02:35:43.000Z</published>
+    <updated>2025-07-05T02:36:00.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WhN86DWVPtQ 【LIVE on &lt;t:1751682960:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WhN86DWVPtQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f930e1f0-6df5-57ee-82a4-c68071763434</id>
+    <title><![CDATA[【歌みた投稿しました】配信予定地【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/jEU_CboUBI8" rel="alternate" type="text/html"/>
+    <published>2025-07-05T02:08:50.000Z</published>
+    <updated>2025-07-05T02:08:50.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jEU_CboUBI8 【LIVE on &lt;t:1751713200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jEU_CboUBI8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c69d9546-2c10-5224-8f8e-eb365937d367</id>
@@ -64,7 +92,7 @@
 
   <entry>
     <id>urn:uuid:794d31ce-b4f1-5a92-a494-5cf03238944d</id>
-    <title><![CDATA[【LIZ】Salt Born]]></title>
+    <title><![CDATA[【LIZ】Salt Born (TV Sized)]]></title>
     <link href="https://youtu.be/e9rY7slCeOw" rel="alternate" type="text/html"/>
     <published>2025-07-03T16:45:06.000Z</published>
     <updated>2025-07-03T16:45:06.000Z</updated>
@@ -762,34 +790,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AKySPgWbXio 【LIVE on &lt;t:1750518130:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AKySPgWbXio/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1a3bbeb0-4b07-50e8-a771-b28e94c6da78</id>
-    <title><![CDATA[【🔴告知あり】復活!!ただいま!!!歌枠!!!!【天音かなた/ホロライブ】]]></title>
-    <link href="https://youtu.be/Ebc6tvYjkFs" rel="alternate" type="text/html"/>
-    <published>2025-06-21T11:09:33.000Z</published>
-    <updated>2025-06-21T10:01:05.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ebc6tvYjkFs 【LIVE on &lt;t:1750500065:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ebc6tvYjkFs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6d7db760-9b5e-5ece-be89-403f05ab042e</id>
-    <title><![CDATA[【歌枠】最近覚えた曲といつもの曲を【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/X6ybtxucgpA" rel="alternate" type="text/html"/>
-    <published>2025-06-21T10:13:48.000Z</published>
-    <updated>2025-06-21T08:33:16.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=X6ybtxucgpA 【LIVE on &lt;t:1750494796:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X6ybtxucgpA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
