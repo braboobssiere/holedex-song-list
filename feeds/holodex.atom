@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-05T21:06:23.283Z</updated>
+  <updated>2025-07-05T22:06:22.331Z</updated>
 
   <entry>
     <id>urn:uuid:5ae7dd19-45f7-5cb2-b878-ffdf6cd836a1</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ytw11GLl59s 【LIVE on &lt;t:1751770800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ytw11GLl59s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b70eb249-e102-5ff3-b6a5-9cb7e534112b</id>
+    <title><![CDATA[???]]></title>
+    <link href="https://youtu.be/g5k5yScMWDc" rel="alternate" type="text/html"/>
+    <published>2025-07-05T11:27:32.000Z</published>
+    <updated>2025-07-05T11:27:32.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g5k5yScMWDc 【LIVE on &lt;t:1751763840:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g5k5yScMWDc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1308,20 +1322,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BczTVRPQJ44 【LIVE on &lt;t:1748790115:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BczTVRPQJ44/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:215e884d-14cf-52c4-b9c2-9e8ed7df1f30</id>
-    <title><![CDATA[Dreaming Princess〜Road to Bremen]]></title>
-    <link href="https://youtu.be/hZezWrdD17k" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:01:55.000Z</published>
-    <updated>2025-06-01T15:01:55.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hZezWrdD17k 【LIVE on &lt;t:1748790115:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZezWrdD17k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
