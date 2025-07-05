@@ -61,25 +61,6 @@
     }
   },
   {
-    "id": "g5k5yScMWDc",
-    "title": "???",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-05T11:27:32.000Z",
-    "available_at": "2025-07-06T01:04:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
     "id": "ThJafudfHFY",
     "title": "【歌枠 / karaoke】１か月振り リハビリ / アステル",
     "type": "stream",
@@ -161,9 +142,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-07-04T23:15:26.000Z",
-    "available_at": "2025-07-05T21:00:00.000Z",
+    "available_at": "2025-07-05T21:01:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -195,6 +176,26 @@
     }
   },
   {
+    "id": "w4rYmCo7Q_Q",
+    "title": "【歌枠/KARAOKE】放課後カラオケタイムだ~~~~~~!!!!!!!【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-04T10:18:22.000Z",
+    "available_at": "2025-07-04T08:02:17.000Z",
+    "duration": 7410,
+    "status": "past",
+    "songcount": 23,
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "b0hGb_-UTWs",
     "title": "【歌枠 KARAOKE】縦型歌枠- 【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
     "type": "stream",
@@ -212,26 +213,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "w4rYmCo7Q_Q",
-    "title": "【歌枠/KARAOKE】放課後カラオケタイムだ～～～～～～！！！！！！！【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-04T07:18:05.000Z",
-    "available_at": "2025-07-04T08:02:17.000Z",
-    "duration": 7426,
-    "status": "past",
-    "songcount": 23,
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
@@ -3142,6 +3123,27 @@
     "published_at": "2025-06-01T15:02:09.000Z",
     "available_at": "2025-06-01T15:02:09.000Z",
     "duration": 23,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
+    "channel": {
+      "id": "UCFTLzh12_nrtzqBPsTCqenA",
+      "name": "アキロゼCh。Vtuber/ホロライブ所属",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Aki Rosenthal"
+    }
+  },
+  {
+    "id": "BczTVRPQJ44",
+    "title": "Bremen Music Festival",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-01T15:01:55.000Z",
+    "available_at": "2025-06-01T15:01:55.000Z",
+    "duration": 186,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
