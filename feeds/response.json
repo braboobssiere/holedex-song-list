@@ -1,5 +1,24 @@
 [
   {
+    "id": "Ytw11GLl59s",
+    "title": "≪KARAOKE・歌件≫ FOR YOUR HEALTH! w/ ANNOUNCEMENT!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-05T14:28:46.000Z",
+    "available_at": "2025-07-06T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "6bUkfM0-nqA",
     "title": "【#unplan】例のスタジオの簡易3Dで遊ぶunplanズ【影山シエン/花咲みやび/律可/アルランディス】",
     "type": "stream",
@@ -299,6 +318,7 @@
     "available_at": "2025-07-05T07:30:11.000Z",
     "duration": 4194,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -327,25 +347,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "x2FvmLFrzyA",
-    "title": "【歌枠】歌謡曲で懐かしくなろう!懐メロもあり?【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-03T10:33:30.000Z",
-    "available_at": "2025-07-06T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -5851,9 +5852,9 @@
     "available_at": "2025-07-05T12:00:18.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 24,
+    "songcount": 31,
     "live_tl_count": {
-      "en": 413
+      "en": 520
     },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
