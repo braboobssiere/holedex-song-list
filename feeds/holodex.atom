@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-06T14:06:22.468Z</updated>
+  <updated>2025-07-06T15:06:22.225Z</updated>
+
+  <entry>
+    <id>urn:uuid:d460dffa-5216-5e78-adbf-85d2db97ed77</id>
+    <title><![CDATA[TASTY]]></title>
+    <link href="https://youtu.be/XjtOeqkdRDg" rel="alternate" type="text/html"/>
+    <published>2025-07-06T15:00:46.000Z</published>
+    <updated>2025-07-06T15:00:46.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XjtOeqkdRDg 【LIVE on &lt;t:1751814046:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XjtOeqkdRDg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3ce389e7-cfcb-5da9-aaac-b9bbf533c1a8</id>
+    <title><![CDATA[TASTY(Instrumental)]]></title>
+    <link href="https://youtu.be/5HVcytsx5KY" rel="alternate" type="text/html"/>
+    <published>2025-07-06T15:00:07.000Z</published>
+    <updated>2025-07-06T15:00:07.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5HVcytsx5KY 【LIVE on &lt;t:1751814007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5HVcytsx5KY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bc9d97f6-91e4-5917-a8f8-2c27d79ad289</id>
@@ -1323,34 +1351,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=EF_zB50Kzj4 【LIVE on &lt;t:1748790131:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EF_zB50Kzj4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4db7b4e6-8e3c-5046-ab12-3503a2681ab4</id>
-    <title><![CDATA[Road to Bremen (with Cat)]]></title>
-    <link href="https://youtu.be/NePVC7CQktg" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:02:09.000Z</published>
-    <updated>2025-06-01T15:02:09.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NePVC7CQktg 【LIVE on &lt;t:1748790129:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NePVC7CQktg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:215e884d-14cf-52c4-b9c2-9e8ed7df1f30</id>
-    <title><![CDATA[Dreaming Princess〜Road to Bremen]]></title>
-    <link href="https://youtu.be/hZezWrdD17k" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:01:55.000Z</published>
-    <updated>2025-06-01T15:01:55.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hZezWrdD17k 【LIVE on &lt;t:1748790115:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZezWrdD17k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
