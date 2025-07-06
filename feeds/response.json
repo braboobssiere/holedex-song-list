@@ -142,9 +142,10 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-07-04T23:18:59.000Z",
-    "available_at": "2025-07-05T23:55:00.000Z",
+    "available_at": "2025-07-05T23:54:57.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 2,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -163,7 +164,7 @@
     "published_at": "2025-07-04T23:15:26.000Z",
     "available_at": "2025-07-05T21:01:23.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -3156,13 +3157,13 @@
     }
   },
   {
-    "id": "hZezWrdD17k",
-    "title": "Dreaming Princess〜Road to Bremen",
+    "id": "BczTVRPQJ44",
+    "title": "Bremen Music Festival",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-06-01T15:01:55.000Z",
     "available_at": "2025-06-01T15:01:55.000Z",
-    "duration": 162,
+    "duration": 186,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
