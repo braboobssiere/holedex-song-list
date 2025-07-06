@@ -128,7 +128,7 @@
     "available_at": "2025-07-05T07:31:36.000Z",
     "duration": 6159,
     "status": "past",
-    "songcount": 11,
+    "songcount": 14,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -382,8 +382,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-07-03T12:45:28.000Z",
     "available_at": "2025-07-06T06:30:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4215,
+    "status": "past",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -3160,13 +3160,13 @@
     }
   },
   {
-    "id": "BczTVRPQJ44",
-    "title": "Bremen Music Festival",
+    "id": "hZezWrdD17k",
+    "title": "Dreaming Princess〜Road to Bremen",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-06-01T15:01:55.000Z",
     "available_at": "2025-06-01T15:01:55.000Z",
-    "duration": 186,
+    "duration": 162,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
