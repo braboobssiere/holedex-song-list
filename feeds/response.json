@@ -1,5 +1,24 @@
 [
   {
+    "id": "_JWiqH6978g",
+    "title": "七夕雑談|誕生日は○○します。 - 夜十神封魔",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-07T11:14:43.000Z",
+    "available_at": "2025-07-07T12:00:41.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCc88OV45ICgHbn3ZqLLb52w",
+      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yatogami Fuma"
+    }
+  },
+  {
     "id": "fJ2LcadjJQ4",
     "title": "【誕生日カウントダウン】みんなと迎える初めての誕生日【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -77,7 +96,7 @@
   },
   {
     "id": "bmqXNklsJZw",
-    "title": "【お願い叶える枠 】歌あり笑いありボイスあり七夕なのでね【律可/ホロスターズ 】#りつすた",
+    "title": "【 #お願いりっか 】歌あり笑いありボイスあり七夕なのでね【律可/ホロスターズ 】#りつすた",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-07T07:01:38.000Z",
@@ -4223,25 +4242,6 @@
     }
   },
   {
-    "id": "eU2ED67DCN8",
-    "title": "【BIRTHDAY COLLAB】My First ERBday + Surprises ~! 💄👧🍵🐱🐙⏳👁‍🗨🗿🎼🍂 #ERBday2025",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-25T22:24:49.000Z",
-    "available_at": "2025-04-25T19:00:19.000Z",
-    "duration": 11588,
-    "status": "past",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
     "id": "xVzCJwR555s",
     "title": "【UPROAR!!】『Rise up!!!』推しカメラ並べてみた【#アップロー3周年】",
     "type": "stream",
@@ -4373,6 +4373,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
+    }
+  },
+  {
+    "id": "GXntqIaiZcU",
+    "title": "MY FIRST 3D ANNIVERSARY CONCERT !! 🎉🥳",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-04-20T06:27:40.000Z",
+    "available_at": "2025-04-20T03:57:27.000Z",
+    "duration": 8495,
+    "status": "past",
+    "channel": {
+      "id": "UCnS5IYNyGKOti9cFlK5SefQ",
+      "name": "Michi Mochievee",
+      "org": "VShojo",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/jk_-OI1YZYl0LOzOAC4iZ8vzzDCRbWTJ3uP9wJVfdTAFFDjL7GItGtvukQHuFjYmK1GAnmf0L8Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Michi Mochievee"
     }
   },
   {
@@ -5521,29 +5540,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "KJGX0gJhvrM",
-    "title": "【#大空スバル6周年LIVE】大空スバル 6th 記念LIVE 星灯【ホロライブ/大空スバル】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-03-02T13:12:25.000Z",
-    "available_at": "2025-03-02T11:58:22.000Z",
-    "duration": 3611,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 74
-    },
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
