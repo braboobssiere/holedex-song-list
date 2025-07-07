@@ -1,5 +1,81 @@
 [
   {
+    "id": "fJ2LcadjJQ4",
+    "title": "【誕生日カウントダウン】みんなと迎える初めての誕生日【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-07T10:49:50.000Z",
+    "available_at": "2025-07-07T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "v2JXxju3L_c",
+    "title": "【 歌枠/KARAOKE 】40万人記念!縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-07T10:46:11.000Z",
+    "available_at": "2025-07-07T10:46:11.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "hrcWMST8fR0",
+    "title": "【歌枠】１２９万人見守り💛【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-07T10:19:39.000Z",
+    "available_at": "2025-07-07T10:20:46.000Z",
+    "duration": 1781,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "BPc2riVLt7A",
+    "title": "【歌枠】１２９万人見守り💛【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-07T10:13:42.000Z",
+    "available_at": "2025-07-07T10:17:46.000Z",
+    "duration": 52,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "bmqXNklsJZw",
     "title": "【お願い叶える枠 】歌あり笑いありボイスあり七夕なのでね【律可/ホロスターズ 】#りつすた",
     "type": "stream",
@@ -20,13 +96,13 @@
   },
   {
     "id": "AVis9XgFc3g",
-    "title": "【 歌枠/KARAOKE 】40万人記念!縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "title": "【 歌枠/KARAOKE 】40万人記念！縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-06T17:20:17.000Z",
     "available_at": "2025-07-07T07:00:20.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 13488,
+    "status": "past",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -155,6 +231,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "f-UbyQUUykE",
+    "title": "【3D LIVE】SUPER SPECIAL SUMMER BIRTHDAY LIVE! #KiaraBDay2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-06T01:08:20.000Z",
+    "available_at": "2025-07-05T23:54:57.000Z",
+    "duration": 4116,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -356,26 +452,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "f-UbyQUUykE",
-    "title": "【3D LIVE】SUPER SPECIAL SUMMER BIRTHDAY LIVE! #KiaraBDay2025",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-04T23:18:59.000Z",
-    "available_at": "2025-07-05T23:54:57.000Z",
-    "duration": 4117,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -1733,26 +1809,6 @@
     }
   },
   {
-    "id": "Z87M3ElmtIA",
-    "title": "【 縦型歌枠/KARAOKE】 お疲れ様のうたわく!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-25T10:47:36.000Z",
-    "available_at": "2025-06-25T08:32:26.000Z",
-    "duration": 7585,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "v-OWxvisxjM",
     "title": "∞超スーパー無限インフィニティ∞",
     "type": "stream",
@@ -1836,26 +1892,6 @@
     }
   },
   {
-    "id": "T8mW93MZRqo",
-    "title": "【歌枠 KARAOKE】縦型歌枠 【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-24T10:48:18.000Z",
-    "available_at": "2025-06-24T07:28:02.000Z",
-    "duration": 11340,
-    "status": "past",
-    "songcount": 25,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
-    }
-  },
-  {
     "id": "kBmEQcPff40",
     "title": "【Birthday!】It's my #birthdaykoi25 handcam stream!",
     "type": "stream",
@@ -1872,25 +1908,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Josuiji Shinri"
-    }
-  },
-  {
-    "id": "JcKSlvi10BU",
-    "title": "【歌 】発散しにきました　オーバーヒートLOST SONG　TIME【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-23T19:41:57.000Z",
-    "available_at": "2025-06-23T19:44:13.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -4214,26 +4231,6 @@
     "available_at": "2025-04-25T19:00:19.000Z",
     "duration": 11588,
     "status": "past",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "1OSCNdXa2Zs",
-    "title": "【BIRTHDAY KARAOKE】SEVEN! #04 (EIGHT EDITION) + SPECIAL ANNOUNCEMENT ~! 💄#ERBday2025",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-04-25T11:52:18.000Z",
-    "available_at": "2025-04-25T09:58:09.000Z",
-    "duration": 6380,
-    "status": "past",
-    "songcount": 9,
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
