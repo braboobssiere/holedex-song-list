@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-08T22:06:22.343Z</updated>
+  <updated>2025-07-08T23:06:23.027Z</updated>
+
+  <entry>
+    <id>urn:uuid:022e492e-7ef7-5fdb-ab4f-d17970f69bb8</id>
+    <title><![CDATA[Ooh Eeh Ooh Aah【Unarchived Guerilla】]]></title>
+    <link href="https://youtu.be/DxOThx3f6HE" rel="alternate" type="text/html"/>
+    <published>2025-07-08T22:21:14.000Z</published>
+    <updated>2025-07-08T22:36:33.000Z</updated>
+    <author>
+      <name>Shiori Novella Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DxOThx3f6HE 【LIVE on &lt;t:1752014193:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DxOThx3f6HE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d988ba67-a700-5435-8edf-2c4beb7a38aa</id>
@@ -790,20 +804,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PdsF_JaMXZU 【LIVE on &lt;t:1750860048:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PdsF_JaMXZU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ddcb8c15-5656-5a58-b174-592c19c2dfe8</id>
-    <title><![CDATA[【 縦型歌枠/KARAOKE】 お疲れ様のうたわく!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/svbNkLJzSic" rel="alternate" type="text/html"/>
-    <published>2025-06-25T12:04:43.000Z</published>
-    <updated>2025-06-25T12:01:20.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=svbNkLJzSic 【LIVE on &lt;t:1750852880:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/svbNkLJzSic/maxresdefault.jpg"/>
   </entry>
 
   <entry>
