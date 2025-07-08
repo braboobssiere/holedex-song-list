@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-08T11:16:18.000Z",
     "available_at": "2025-07-08T13:04:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 20730,
+    "status": "past",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -116,6 +116,26 @@
     }
   },
   {
+    "id": "8_dCqWHHIFk",
+    "title": "【 歌枠 】オフコラボでかわいい曲歌う~っ!💙❤【#すうはあ / 告知あり!!◎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-07T09:09:10.000Z",
+    "available_at": "2025-07-07T08:01:51.000Z",
+    "duration": 3613,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "AVis9XgFc3g",
     "title": "【 歌枠/KARAOKE 】40万人記念！縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -133,26 +153,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "8_dCqWHHIFk",
-    "title": "【 歌枠 】オフコラボでかわいい曲歌う～っ！💙❤【#すうはあ / 告知あり!!◎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-06T16:47:36.000Z",
-    "available_at": "2025-07-07T08:01:51.000Z",
-    "duration": 3609,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
