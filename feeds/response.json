@@ -7,7 +7,7 @@
     "published_at": "2025-07-07T15:07:22.000Z",
     "available_at": "2025-07-08T00:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -66,6 +66,7 @@
     "available_at": "2025-07-07T10:20:46.000Z",
     "duration": 1781,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -96,25 +97,6 @@
     }
   },
   {
-    "id": "bmqXNklsJZw",
-    "title": "【 #お願いりっか 】歌あり笑いありボイスあり七夕なのでね【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-07T07:01:38.000Z",
-    "available_at": "2025-07-07T13:02:07.000Z",
-    "duration": 5145,
-    "status": "past",
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
-    }
-  },
-  {
     "id": "AVis9XgFc3g",
     "title": "【 歌枠/KARAOKE 】40万人記念！縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -123,6 +105,7 @@
     "available_at": "2025-07-07T07:00:20.000Z",
     "duration": 13488,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -142,6 +125,7 @@
     "available_at": "2025-07-07T08:01:51.000Z",
     "duration": 3609,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -214,6 +198,26 @@
     }
   },
   {
+    "id": "0dxgFMNnlUc",
+    "title": "【歌枠】アニソンカラオケ~!楽しもう!【轟はじめ】 #shorts",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-06T13:26:10.000Z",
+    "available_at": "2025-07-06T10:59:31.000Z",
+    "duration": 8278,
+    "status": "past",
+    "songcount": 18,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "x2FvmLFrzyA",
     "title": "【歌枠】歌謡曲で懐かしくなろう!懐メロもあり?【虎金妃笑虎】",
     "type": "stream",
@@ -231,26 +235,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "0dxgFMNnlUc",
-    "title": "【歌枠】アニソンカラオケ～！楽しもう！【轟はじめ】 #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-06T10:59:09.000Z",
-    "available_at": "2025-07-06T10:59:31.000Z",
-    "duration": 8276,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -1845,6 +1829,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "Z87M3ElmtIA",
+    "title": "【 縦型歌枠/KARAOKE】 お疲れ様のうたわく!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-06-25T10:47:36.000Z",
+    "available_at": "2025-06-25T08:32:26.000Z",
+    "duration": 7585,
+    "status": "past",
+    "songcount": 20,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
     }
   },
   {
