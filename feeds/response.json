@@ -1,24 +1,5 @@
 [
   {
-    "id": "af32UGDElYs",
-    "title": "【MUSIC】ELECTRIC GUITAR TESTING",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-07-07T15:07:22.000Z",
-    "available_at": "2025-07-08T00:00:00.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
     "id": "fJ2LcadjJQ4",
     "title": "【誕生日カウントダウン】みんなと迎える初めての誕生日【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -153,6 +134,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "JBUsNxnQgtU",
+    "title": "【🎊 #まどか誕生日2025】誕生日記念に3年半ぶりの凸待ち!🎉ドキドキ……【星見まどか】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-06T15:29:52.000Z",
+    "available_at": "2025-07-06T10:00:50.000Z",
+    "duration": 18652,
+    "status": "past",
+    "channel": {
+      "id": "UCdSSq9vdTFch5e9DgvEry8Q",
+      "name": "星見まどかの宇宙情報室",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SsyZn996AGugDMUzc9dGD1--TABofT96qMpUAtd7MJ1qo6JPyp0SrChMxi-D1zdmWAlRaWDl=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimi Madoka"
     }
   },
   {
@@ -757,25 +757,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "JBUsNxnQgtU",
-    "title": "【🎊 #まどか誕生日2025】誕生日記念に3年半ぶりの凸待ち！🎉ドキドキ……【星見まどか】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-02T09:50:26.000Z",
-    "available_at": "2025-07-06T10:00:50.000Z",
-    "duration": 18650,
-    "status": "past",
-    "channel": {
-      "id": "UCdSSq9vdTFch5e9DgvEry8Q",
-      "name": "星見まどかの宇宙情報室",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SsyZn996AGugDMUzc9dGD1--TABofT96qMpUAtd7MJ1qo6JPyp0SrChMxi-D1zdmWAlRaWDl=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimi Madoka"
     }
   },
   {
@@ -6954,6 +6935,25 @@
     "live_tl_count": {
       "en": 270
     },
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "V5yvpYSsktA",
+    "title": "【 #なのらいぶ 】<DAY2>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2023-02-05T03:31:12.000Z",
+    "available_at": "2023-02-05T00:00:20.000Z",
+    "duration": 11211,
+    "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
