@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-09T14:06:17.333Z</updated>
+  <updated>2025-07-09T15:06:26.330Z</updated>
+
+  <entry>
+    <id>urn:uuid:c85882b2-4acd-5040-aac2-fda67e74f580</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】Let's sing for a little before I sleeps! ~! 💄]]></title>
+    <link href="https://youtu.be/JjUJNwxF_pk" rel="alternate" type="text/html"/>
+    <published>2025-07-09T14:56:48.000Z</published>
+    <updated>2025-07-09T14:56:48.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JjUJNwxF_pk 【LIVE on &lt;t:1752075000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JjUJNwxF_pk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0329447b-99a9-58f9-b381-24127b2c4ec1</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=S3MwX750Jug 【LIVE on &lt;t:1752055571:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S3MwX750Jug/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:39922520-c4fd-53d1-b49f-fdd1049d3e17</id>
+    <title><![CDATA[ReGLOSS 'ミッドサマーシトラス' OFFICIAL MV]]></title>
+    <link href="https://youtu.be/MQr9XHYCm5A" rel="alternate" type="text/html"/>
+    <published>2025-07-09T05:43:14.000Z</published>
+    <updated>2025-07-09T05:43:14.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MQr9XHYCm5A 【LIVE on &lt;t:1752138000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MQr9XHYCm5A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -807,20 +835,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9439cc87-38d4-5b65-8ef2-18ad3d8553f7</id>
-    <title><![CDATA[【KARAOKE 】深夜の縦型歌枠🎤【ホロライブ/ロボ子さん】]]></title>
-    <link href="https://youtu.be/PdsF_JaMXZU" rel="alternate" type="text/html"/>
-    <published>2025-06-25T17:01:49.000Z</published>
-    <updated>2025-06-25T14:00:48.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PdsF_JaMXZU 【LIVE on &lt;t:1750860048:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PdsF_JaMXZU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:78d436a9-d446-5171-bf07-87869ef315fa</id>
     <title><![CDATA[∞超スーパー無限インフィニティ∞]]></title>
     <link href="https://youtu.be/v-OWxvisxjM" rel="alternate" type="text/html"/>
@@ -1378,20 +1392,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Kc0Nb55pkW4 【LIVE on &lt;t:1748790155:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kc0Nb55pkW4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:82817cea-e671-58d8-a414-6e3d2feccbec</id>
-    <title><![CDATA[Road to Bremen (with Dog)]]></title>
-    <link href="https://youtu.be/TSiYkvEXxsE" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:02:22.000Z</published>
-    <updated>2025-06-01T15:02:22.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TSiYkvEXxsE 【LIVE on &lt;t:1748790142:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TSiYkvEXxsE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
