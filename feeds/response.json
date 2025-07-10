@@ -1,13 +1,51 @@
 [
   {
+    "id": "nFdxP7Ftw-I",
+    "title": "【弾き語り歌枠 】純粋なる歌【律可/ホロスターズ 】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-10T09:54:32.000Z",
+    "available_at": "2025-07-10T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "IWC2TswVAdM",
+    "title": "【歌枠】練習したい!!!!!!!!!!!!声の調子確認!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-10T09:12:28.000Z",
+    "available_at": "2025-07-10T10:02:35.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "MQr9XHYCm5A",
     "title": "ReGLOSS 'ミッドサマーシトラス' OFFICIAL MV",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-07-10T09:00:06.000Z",
     "available_at": "2025-07-10T09:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 226,
+    "status": "past",
     "songcount": 1,
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
@@ -126,9 +164,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-09T01:13:51.000Z",
-    "available_at": "2025-07-10T10:00:00.000Z",
+    "available_at": "2025-07-10T09:58:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -1776,25 +1814,6 @@
     }
   },
   {
-    "id": "Uq69tfr9xaI",
-    "title": "[REBROADCAST] GHOST ONLY KARAOKE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-27T20:10:37.000Z",
-    "available_at": "2025-06-27T21:00:29.000Z",
-    "duration": 10604,
-    "status": "missing",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
-    }
-  },
-  {
     "id": "sfleWVAsXQ8",
     "title": "【3D KARAOKE REBROADCAST】He said, I've been to the year 2000",
     "type": "stream",
@@ -1830,26 +1849,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nPHRhyl-fq_XwruRR5btA8_lafZKoc86TZBBDx6XjiclwI1qU51ejBG_wwj69CdWKyDyDmLM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HIMEHINA"
-    }
-  },
-  {
-    "id": "OQ1GVzOyZUs",
-    "title": "【歌枠 KARAOKE】縦型歌枠! 【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-27T10:30:09.000Z",
-    "available_at": "2025-06-27T09:09:52.000Z",
-    "duration": 4175,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MYWoxQG3Cm7GsNkUH6q0OkiZH5QyXlt1VC3lykte3oBZlgyLQdJFpLymdvTksoUMzGdPjztvqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
@@ -6363,9 +6362,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2024-07-10T04:43:52.000Z",
-    "available_at": "2025-07-10T10:00:00.000Z",
+    "available_at": "2025-07-10T10:01:04.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
