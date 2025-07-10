@@ -1,13 +1,32 @@
 [
   {
+    "id": "KSjtvZdJ7vk",
+    "title": "【#4thAnniversaRyS】3.0 MODEL REVEAL & HOLOLIVE SONG KARAOKE!!【4 Year Anniversary Stream🎉 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-07-10T11:22:03.000Z",
+    "available_at": "2025-07-11T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "EPZgH-bEQf8",
     "title": "ギター弾いて歌うやつ【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-10T10:21:28.000Z",
-    "available_at": "2025-07-10T11:30:00.000Z",
+    "available_at": "2025-07-10T11:35:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -20,15 +39,15 @@
   },
   {
     "id": "4D-5Onyjvbk",
-    "title": "縦型歌枠うまくできてるのか!????????【博衣こより/ホロライブ】",
+    "title": "縦型歌枠うまくできてるのか！？？？？？？？？【博衣こより/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-10T10:17:33.000Z",
     "available_at": "2025-07-10T10:21:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5056,
+    "status": "past",
     "live_tl_count": {
-      "en": 25
+      "en": 45
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -61,13 +80,13 @@
   },
   {
     "id": "IWC2TswVAdM",
-    "title": "【歌枠】練習したい!!!!!!!!!!!!声の調子確認!【 桃鈴ねね / hololive 】",
+    "title": "【歌枠】練習したい！！！！！！！！！！！！声の調子確認！【 桃鈴ねね / hololive 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-10T09:12:28.000Z",
     "available_at": "2025-07-10T10:02:35.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5256,
+    "status": "past",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -201,7 +220,7 @@
   },
   {
     "id": "DiHB5voNt00",
-    "title": "真夏のReGLOSSカラオケ!〜新曲披露もあるよ〜【#真夏のReGLOSS】",
+    "title": "真夏のReGLOSSカラオケ！〜新曲披露もあるよ〜【#真夏のReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-09T01:13:51.000Z",
@@ -225,7 +244,7 @@
     "published_at": "2025-07-08T22:21:14.000Z",
     "available_at": "2025-07-08T22:36:33.000Z",
     "duration": 8709,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "name": "Shiori Novella Ch. hololive-EN",
@@ -312,7 +331,7 @@
       "org": "Hololive",
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/o9Ecl4eJDka9Q2sPuBDVVzerGRY_wbbcUaBtXSvpkIgNvSSMFry6usw18Wb7ex1DTXP1z8Kzkg=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
     }
   },
@@ -5520,25 +5539,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "gHQw8rgAiIM",
-    "title": "【】大空スバル 6th 記念ライブ 星灯【ホロライブ/大空スバル】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-02-28T16:38:08.000Z",
-    "available_at": "2025-03-02T12:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
