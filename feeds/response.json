@@ -67,7 +67,7 @@
     "published_at": "2025-07-10T09:54:32.000Z",
     "available_at": "2025-07-10T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -273,6 +273,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "L0AfbFuoH20",
+    "title": "LOAD",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-08T15:04:10.000Z",
+    "available_at": "2025-07-08T15:04:10.000Z",
+    "duration": 189,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCTB4b-Q1luVP-3GNvJ4LjkQ",
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "YHWcgM5atjs",
+    "title": "LOAD (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-08T15:01:49.000Z",
+    "available_at": "2025-07-08T15:01:49.000Z",
+    "duration": 189,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCTB4b-Q1luVP-3GNvJ4LjkQ",
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -3184,48 +3224,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "wS_9sZ2yRC4",
-    "title": "電脳ぴゅあ推し大宣言",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-01T15:03:36.000Z",
-    "available_at": "2025-06-01T15:03:36.000Z",
-    "duration": 178,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "c4kR3fa3cLo",
-    "title": "Road to Bremen (with Hen)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-01T15:03:27.000Z",
-    "available_at": "2025-06-01T15:03:27.000Z",
-    "duration": 20,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCkchb08qq-E4zPB8_f4BnOA",
-    "channel": {
-      "id": "UCFTLzh12_nrtzqBPsTCqenA",
-      "name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aki Rosenthal"
     }
   },
   {
