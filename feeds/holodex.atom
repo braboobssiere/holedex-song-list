@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-10T14:06:23.898Z</updated>
+  <updated>2025-07-10T15:06:28.252Z</updated>
+
+  <entry>
+    <id>urn:uuid:14414b79-293c-5c3f-acc7-1d4136b42179</id>
+    <title><![CDATA[ミッドサマーシトラス]]></title>
+    <link href="https://youtu.be/Pc6YLWgS0sQ" rel="alternate" type="text/html"/>
+    <published>2025-07-10T15:03:07.000Z</published>
+    <updated>2025-07-10T15:03:07.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Pc6YLWgS0sQ 【LIVE on &lt;t:1752159787:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Pc6YLWgS0sQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d6b82d3e-5c57-5d54-90b6-a2c97e971445</id>
+    <title><![CDATA[ミッドサマーシトラス (Instrumental)]]></title>
+    <link href="https://youtu.be/jFlFnOLnWjc" rel="alternate" type="text/html"/>
+    <published>2025-07-10T15:03:00.000Z</published>
+    <updated>2025-07-10T15:03:00.000Z</updated>
+    <author>
+      <name>Ao Ch. 火威青 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jFlFnOLnWjc 【LIVE on &lt;t:1752159780:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jFlFnOLnWjc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f0268372-0b3d-5e1c-9466-5b1a98bb410e</id>
@@ -1349,34 +1377,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kwAsjfVInS4 【LIVE on &lt;t:1748790257:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kwAsjfVInS4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1e62de44-ec9f-59f3-a9c5-664e103a8bc0</id>
-    <title><![CDATA[Prelude]]></title>
-    <link href="https://youtu.be/BMf07iUaucQ" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:03:58.000Z</published>
-    <updated>2025-06-01T15:03:58.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BMf07iUaucQ 【LIVE on &lt;t:1748790238:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BMf07iUaucQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:28e750f2-dafe-5166-aa8f-5e1a07cffd17</id>
-    <title><![CDATA[電脳ぴゅあ推し大宣言 (Instrumental)]]></title>
-    <link href="https://youtu.be/xsBb6dm8Ytk" rel="alternate" type="text/html"/>
-    <published>2025-06-01T15:03:52.000Z</published>
-    <updated>2025-06-01T15:03:52.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xsBb6dm8Ytk 【LIVE on &lt;t:1748790232:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xsBb6dm8Ytk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
