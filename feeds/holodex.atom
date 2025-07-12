@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-12T06:06:20.760Z</updated>
+  <updated>2025-07-12T07:06:24.169Z</updated>
 
   <entry>
     <id>urn:uuid:c407b1bb-470f-553b-8916-56887d3cbb76</id>
@@ -353,6 +353,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fJ2LcadjJQ4 【LIVE on &lt;t:1751896755:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fJ2LcadjJQ4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9474f6b3-cf8a-5983-85d3-5b8acaf6d44e</id>
+    <title><![CDATA[ホロメン体操]]></title>
+    <link href="https://youtu.be/wBS2uEzBsFY" rel="alternate" type="text/html"/>
+    <published>2025-07-07T15:04:36.000Z</published>
+    <updated>2025-07-07T15:04:36.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wBS2uEzBsFY 【LIVE on &lt;t:1751900676:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wBS2uEzBsFY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a7e0c766-12f1-5c5f-9d9e-723df34ad889</id>
+    <title><![CDATA[ホロメン体操 (Instrumental)]]></title>
+    <link href="https://youtu.be/hPr77V15BCY" rel="alternate" type="text/html"/>
+    <published>2025-07-07T15:04:19.000Z</published>
+    <updated>2025-07-07T15:04:19.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hPr77V15BCY 【LIVE on &lt;t:1751900659:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hPr77V15BCY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1114,6 +1142,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:31d9c8c2-a8e8-5427-a511-99d1ce1e98b8</id>
+    <title><![CDATA[バズビバザヴ(Instrumental)]]></title>
+    <link href="https://youtu.be/hHl4Jqjdbes" rel="alternate" type="text/html"/>
+    <published>2025-06-19T15:01:12.000Z</published>
+    <updated>2025-06-19T15:01:12.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hHl4Jqjdbes 【LIVE on &lt;t:1750345272:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hHl4Jqjdbes/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7dc8d12e-1f42-5cea-bd2c-05273c258c81</id>
+    <title><![CDATA[バズビバザヴ]]></title>
+    <link href="https://youtu.be/LODCcZNvgoc" rel="alternate" type="text/html"/>
+    <published>2025-06-19T15:00:41.000Z</published>
+    <updated>2025-06-19T15:00:41.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LODCcZNvgoc 【LIVE on &lt;t:1750345241:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LODCcZNvgoc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7a508c4b-12dd-5431-8003-cef125afd666</id>
     <title><![CDATA[バズビバザヴ / 常闇トワ (official)]]></title>
     <link href="https://youtu.be/uxjcPq0Y_IA" rel="alternate" type="text/html"/>
@@ -1125,6 +1181,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uxjcPq0Y_IA 【LIVE on &lt;t:1750329906:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uxjcPq0Y_IA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d29befe4-498d-50c3-9ea0-7a101399654a</id>
+    <title><![CDATA[ホントノワタシ]]></title>
+    <link href="https://youtu.be/XMCxO2zQ0s0" rel="alternate" type="text/html"/>
+    <published>2025-06-18T15:01:01.000Z</published>
+    <updated>2025-06-18T15:01:01.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XMCxO2zQ0s0 【LIVE on &lt;t:1750258861:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XMCxO2zQ0s0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:356ee70a-2be1-5a88-a2ed-e195645ebd47</id>
+    <title><![CDATA[ホントノワタシ (Instrumental)]]></title>
+    <link href="https://youtu.be/B7SYHGPZLOU" rel="alternate" type="text/html"/>
+    <published>2025-06-18T15:00:15.000Z</published>
+    <updated>2025-06-18T15:00:15.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B7SYHGPZLOU 【LIVE on &lt;t:1750258815:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7SYHGPZLOU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1254,34 +1338,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7845c971-0b3e-53c7-a18e-f97207e7735c</id>
-    <title><![CDATA[ZIG-ZAG]]></title>
-    <link href="https://youtu.be/IHpqBMYGe0g" rel="alternate" type="text/html"/>
-    <published>2025-06-11T15:00:35.000Z</published>
-    <updated>2025-06-11T15:00:35.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IHpqBMYGe0g 【LIVE on &lt;t:1749654035:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IHpqBMYGe0g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2ce4e967-53e3-5964-b81f-6a45fcc75f4e</id>
-    <title><![CDATA[ZIG-ZAG (Instrumental)]]></title>
-    <link href="https://youtu.be/BfFy-5OpOhM" rel="alternate" type="text/html"/>
-    <published>2025-06-11T15:00:17.000Z</published>
-    <updated>2025-06-11T15:00:17.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BfFy-5OpOhM 【LIVE on &lt;t:1749654017:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BfFy-5OpOhM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f247b9dc-fe21-587f-ad40-d513787f11eb</id>
     <title><![CDATA[【3DLIVE】重大告知あり‼パワーアップして帰ってきた音楽番組『MUSIC GARDEN』🎤✨【#鷹嶺ルイ生誕祭2025】]]></title>
     <link href="https://youtu.be/28P_1Y0WbrM" rel="alternate" type="text/html"/>
@@ -1296,48 +1352,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:95f41760-184c-5d2a-bc3a-7d07360c5501</id>
-    <title><![CDATA[ZIG-ZAG / 鷹嶺ルイ(official)]]></title>
-    <link href="https://youtu.be/0fhzLbjDQKc" rel="alternate" type="text/html"/>
-    <published>2025-06-11T12:00:06.000Z</published>
-    <updated>2025-06-11T12:00:06.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0fhzLbjDQKc 【LIVE on &lt;t:1749643206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0fhzLbjDQKc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:79d45c81-e3fe-549b-b66e-46b660e1c599</id>
-    <title><![CDATA[BANZAI(Instrumental)]]></title>
-    <link href="https://youtu.be/JjyTZdZnDQU" rel="alternate" type="text/html"/>
-    <published>2025-06-07T15:00:25.000Z</published>
-    <updated>2025-06-07T15:00:25.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JjyTZdZnDQU 【LIVE on &lt;t:1749308425:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JjyTZdZnDQU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:edc1357e-e8a1-5ff4-a333-4c2672c2804e</id>
-    <title><![CDATA[BANZAI]]></title>
-    <link href="https://youtu.be/1hnjShTrTtc" rel="alternate" type="text/html"/>
-    <published>2025-06-07T15:00:03.000Z</published>
-    <updated>2025-06-07T15:00:03.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1hnjShTrTtc 【LIVE on &lt;t:1749308403:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1hnjShTrTtc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:bd1afa2d-f1e2-5521-b1a2-5308afd5d4c1</id>
     <title><![CDATA[【3DLIVE】First Starring Role【轟はじめ/ReGLOSS】 #轟はじめ生誕祭2025]]></title>
     <link href="https://youtu.be/bjPYXtxhm0I" rel="alternate" type="text/html"/>
@@ -1349,20 +1363,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bjPYXtxhm0I 【LIVE on &lt;t:1749293641:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bjPYXtxhm0I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a7402393-b3c5-5485-98a2-02950f79d617</id>
-    <title><![CDATA[BANZAI-轟はじめ【Original 3D MV】]]></title>
-    <link href="https://youtu.be/AuVjtPcxlfE" rel="alternate" type="text/html"/>
-    <published>2025-06-07T12:00:07.000Z</published>
-    <updated>2025-06-07T12:00:07.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AuVjtPcxlfE 【LIVE on &lt;t:1749297607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AuVjtPcxlfE/maxresdefault.jpg"/>
   </entry>
 
   <entry>

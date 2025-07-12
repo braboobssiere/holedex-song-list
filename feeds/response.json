@@ -112,7 +112,7 @@
     "published_at": "2025-07-11T04:00:47.000Z",
     "available_at": "2025-07-12T09:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -606,6 +606,48 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "wBS2uEzBsFY",
+    "title": "ホロメン体操",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-07T15:04:36.000Z",
+    "available_at": "2025-07-07T15:04:36.000Z",
+    "duration": 230,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC941zySjR_pFTSQO3TvHO-A",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "hPr77V15BCY",
+    "title": "ホロメン体操 (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-07T15:04:19.000Z",
+    "available_at": "2025-07-07T15:04:19.000Z",
+    "duration": 230,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC941zySjR_pFTSQO3TvHO-A",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -2432,6 +2474,48 @@
     }
   },
   {
+    "id": "hHl4Jqjdbes",
+    "title": "バズビバザヴ(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-19T15:01:12.000Z",
+    "available_at": "2025-06-19T15:01:12.000Z",
+    "duration": 220,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCL6zH0jSt3-2MqzAZ1ciUAw",
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
+    "id": "LODCcZNvgoc",
+    "title": "バズビバザヴ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-19T15:00:41.000Z",
+    "available_at": "2025-06-19T15:00:41.000Z",
+    "duration": 222,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCL6zH0jSt3-2MqzAZ1ciUAw",
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
     "id": "uxjcPq0Y_IA",
     "title": "バズビバザヴ / 常闇トワ (official)",
     "type": "stream",
@@ -2449,6 +2533,48 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
+    }
+  },
+  {
+    "id": "XMCxO2zQ0s0",
+    "title": "ホントノワタシ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-18T15:01:01.000Z",
+    "available_at": "2025-06-18T15:01:01.000Z",
+    "duration": 216,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCjva3gVObXVZP2ooPnuyaAA",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
+    }
+  },
+  {
+    "id": "B7SYHGPZLOU",
+    "title": "ホントノワタシ (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-06-18T15:00:15.000Z",
+    "available_at": "2025-06-18T15:00:15.000Z",
+    "duration": 216,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCjva3gVObXVZP2ooPnuyaAA",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -2817,48 +2943,6 @@
     }
   },
   {
-    "id": "IHpqBMYGe0g",
-    "title": "ZIG-ZAG",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-11T15:00:35.000Z",
-    "available_at": "2025-06-11T15:00:35.000Z",
-    "duration": 212,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCQMgXC391DOrMXY430fAHYQ",
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "BfFy-5OpOhM",
-    "title": "ZIG-ZAG (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-11T15:00:17.000Z",
-    "available_at": "2025-06-11T15:00:17.000Z",
-    "duration": 212,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCQMgXC391DOrMXY430fAHYQ",
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
-    }
-  },
-  {
     "id": "28P_1Y0WbrM",
     "title": "【3DLIVE】重大告知あり‼パワーアップして帰ってきた音楽番組『MUSIC GARDEN』🎤✨【#鷹嶺ルイ生誕祭2025】",
     "type": "stream",
@@ -2871,26 +2955,6 @@
     "live_tl_count": {
       "en": 197
     },
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "0fhzLbjDQKc",
-    "title": "ZIG-ZAG / 鷹嶺ルイ(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-11T12:00:06.000Z",
-    "available_at": "2025-06-11T12:00:06.000Z",
-    "duration": 212,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -2997,48 +3061,6 @@
     }
   },
   {
-    "id": "JjyTZdZnDQU",
-    "title": "BANZAI(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-07T15:00:25.000Z",
-    "available_at": "2025-06-07T15:00:25.000Z",
-    "duration": 183,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCc_goqg5cuZSlEK3lJNDFjg",
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "1hnjShTrTtc",
-    "title": "BANZAI",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-07T15:00:03.000Z",
-    "available_at": "2025-06-07T15:00:03.000Z",
-    "duration": 182,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCc_goqg5cuZSlEK3lJNDFjg",
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
-    }
-  },
-  {
     "id": "bjPYXtxhm0I",
     "title": "【3DLIVE】First Starring Role【轟はじめ/ReGLOSS】 #轟はじめ生誕祭2025",
     "type": "stream",
@@ -3058,29 +3080,6 @@
       "suborg": "taDEV_IS ReGLOSS",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EW6irfBrtyabcjsWhjiNa2i4wuaJ9NgJg1_i_EmGCYJwiVP677QTzP644ikJOcbAInIFuG7T9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "AuVjtPcxlfE",
-    "title": "BANZAI-轟はじめ【Original 3D MV】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-07T12:00:07.000Z",
-    "available_at": "2025-06-07T12:00:07.000Z",
-    "duration": 185,
-    "status": "past",
-    "songcount": 1,
-    "live_tl_count": {
-      "ko": 48
-    },
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B1jxecjdxwcqWVM7oRRjaE_TBkZ73p_UVn1Ouzx_6w5gJfowkiSwUoJtBIhsoRWQSERZ2gIb=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
     }
   },
