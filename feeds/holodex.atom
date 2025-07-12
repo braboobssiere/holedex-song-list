@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-12T16:06:23.977Z</updated>
+  <updated>2025-07-12T17:06:28.090Z</updated>
+
+  <entry>
+    <id>urn:uuid:b45a1e14-e62a-5b64-a172-e69ad89e6517</id>
+    <title><![CDATA[welcome TO NEW MEMBERS!!! I Play the bass again and unarchive the stream]]></title>
+    <link href="https://youtu.be/Z2_e3utsoAs" rel="alternate" type="text/html"/>
+    <published>2025-07-12T15:53:11.000Z</published>
+    <updated>2025-07-12T15:53:11.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z2_e3utsoAs 【LIVE on &lt;t:1752364800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z2_e3utsoAs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:352f8875-6d73-5325-9a6e-d8b3ed230d80</id>
@@ -90,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:2bc20fef-5509-5936-9e82-b3f8889d96f5</id>
+    <title><![CDATA[【#4thAnniversaRyS】3.0 MODEL REVEAL & HOLOLIVE SONG KARAOKE!!【4 Year Anniversary Stream🎉 】]]></title>
+    <link href="https://youtu.be/KSjtvZdJ7vk" rel="alternate" type="text/html"/>
+    <published>2025-07-11T06:29:39.000Z</published>
+    <updated>2025-07-11T03:00:13.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KSjtvZdJ7vk 【LIVE on &lt;t:1752202813:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KSjtvZdJ7vk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:dea3e19d-8c17-50a8-89bd-e8d09fceaf35</id>
     <title><![CDATA[KARAOKE AND BIRTHDAY SCHEDULE ANNOUNCEMENT 【 iofi / hololiveID 】]]></title>
     <link href="https://youtu.be/7HqTyCdfSAE" rel="alternate" type="text/html"/>
@@ -157,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IWC2TswVAdM 【LIVE on &lt;t:1752141755:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IWC2TswVAdM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2bc20fef-5509-5936-9e82-b3f8889d96f5</id>
-    <title><![CDATA[【#4thAnniversaRyS】3.0 MODEL REVEAL & HOLOLIVE SONG KARAOKE!!【4 Year Anniversary Stream🎉 】]]></title>
-    <link href="https://youtu.be/KSjtvZdJ7vk" rel="alternate" type="text/html"/>
-    <published>2025-07-10T11:22:03.000Z</published>
-    <updated>2025-07-11T03:00:13.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KSjtvZdJ7vk 【LIVE on &lt;t:1752202813:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KSjtvZdJ7vk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
