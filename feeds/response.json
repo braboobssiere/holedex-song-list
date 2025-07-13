@@ -1,5 +1,24 @@
 [
   {
+    "id": "p4stP5tu7IY",
+    "title": "【歌枠】歌声はパールホワイト♥中身は真っ黒タイガーです♥【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-13T07:36:51.000Z",
+    "available_at": "2025-07-13T07:37:08.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "JOMFI9JWr4U",
     "title": "【KARAOKE 1.2M ENDURANCE|120万人耐久歌枠】singing free to whatever is in our hearts ✨️ #FWMCbeats 【FUWAMOCO】",
     "type": "stream",
@@ -26,7 +45,7 @@
     "published_at": "2025-07-13T04:33:57.000Z",
     "available_at": "2025-07-13T05:00:38.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -849,7 +868,7 @@
   },
   {
     "id": "v2JXxju3L_c",
-    "title": "【 歌枠/KARAOKE 】40万人記念!縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "title": "【 歌枠/KARAOKE 】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-07T10:46:11.000Z",
@@ -862,7 +881,7 @@
       "org": "Hololive",
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
     }
   },
@@ -1980,25 +1999,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "fD7AigWCGNk",
-    "title": "【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-29T10:33:45.000Z",
-    "available_at": "2025-06-29T05:07:07.000Z",
-    "duration": 13583,
-    "status": "past",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/FpR5z20knyd7CGXpjvGRWhWhoTHVsHPlNs3PSfj10MHF6Dc9DRDErsrkX4UTqxIGbn3HpftVmg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
