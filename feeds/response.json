@@ -65,6 +65,7 @@
     "available_at": "2025-07-13T13:55:03.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 10,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -150,6 +151,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZMU2CsCiMyj1Xp4LTZMtzGJ6GLJhnb8iy9LWhTcD5btUBF5tTNZuymqattGQAuf0qC_SmVSLCgs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ha Yun"
+    }
+  },
+  {
+    "id": "8jLyk3LUqDA",
+    "title": "【縦型雑談歌枠】お昼ですなああああ💛💦【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-12T04:40:45.000Z",
+    "available_at": "2025-07-12T02:42:19.000Z",
+    "duration": 5388,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -528,26 +549,6 @@
     "published_at": "2025-07-10T07:13:06.000Z",
     "available_at": "2025-07-10T06:00:56.000Z",
     "duration": 3842,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "8jLyk3LUqDA",
-    "title": "【縦型雑談歌枠】お昼ですなああああ💛💦【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-10T07:04:51.000Z",
-    "available_at": "2025-07-12T02:42:19.000Z",
-    "duration": 5378,
     "status": "past",
     "songcount": 6,
     "channel": {
