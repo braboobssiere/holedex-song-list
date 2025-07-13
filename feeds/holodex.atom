@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-13T05:06:23.887Z</updated>
+  <updated>2025-07-13T06:06:18.720Z</updated>
+
+  <entry>
+    <id>urn:uuid:d9e2284a-de1c-532a-90c9-4d5cab2a23db</id>
+    <title><![CDATA[【KARAOKE 1.2M ENDURANCE|120万人耐久歌枠】singing free to whatever is in our hearts ✨️ #FWMCbeats 【FUWAMOCO】]]></title>
+    <link href="https://youtu.be/JOMFI9JWr4U" rel="alternate" type="text/html"/>
+    <published>2025-07-13T05:29:10.000Z</published>
+    <updated>2025-07-13T05:29:10.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JOMFI9JWr4U 【LIVE on &lt;t:1752415200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JOMFI9JWr4U/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:67829bbc-f702-5101-9749-4b21b72a8dd1</id>
@@ -971,20 +985,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fD7AigWCGNk 【LIVE on &lt;t:1751173627:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fD7AigWCGNk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:36d9edee-a6b9-5d06-be73-ad63491fc0b2</id>
-    <title><![CDATA[どすこいヴィヴィ【歌枠/KARAOKE】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/4tZqKGCfTSE" rel="alternate" type="text/html"/>
-    <published>2025-06-29T05:06:18.000Z</published>
-    <updated>2025-06-29T05:00:50.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4tZqKGCfTSE 【LIVE on &lt;t:1751173250:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4tZqKGCfTSE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
