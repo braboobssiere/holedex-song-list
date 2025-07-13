@@ -1,5 +1,43 @@
 [
   {
+    "id": "HKKhLxgOOYc",
+    "title": "【UNARCHIVED KARAOKE】RUZEBOW RETURNS PART 2!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-13T11:31:49.000Z",
+    "available_at": "2025-07-14T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
+    }
+  },
+  {
+    "id": "GM0BScnZ6qs",
+    "title": "【 歌枠/KARAOKE 】縦型歌枠【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-13T11:07:57.000Z",
+    "available_at": "2025-07-13T11:07:57.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
     "id": "p4stP5tu7IY",
     "title": "【歌枠】歌声はパールホワイト♥中身は真っ黒タイガーです♥【虎金妃笑虎】",
     "type": "stream",
@@ -873,8 +911,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-07T10:46:11.000Z",
     "available_at": "2025-07-13T08:00:08.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11054,
+    "status": "past",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -1959,46 +1997,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
-    }
-  },
-  {
-    "id": "OC9twC8iM6U",
-    "title": "【歌枠/KARAOKE】40万人めざして!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-29T13:23:48.000Z",
-    "available_at": "2025-06-29T08:30:42.000Z",
-    "duration": 15869,
-    "status": "past",
-    "songcount": 40,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "QJstI6bV0Ns",
-    "title": "【歌枠 / Singing Stream】いろいろ歌うよ~!【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-29T11:23:50.000Z",
-    "available_at": "2025-06-29T10:00:19.000Z",
-    "duration": 4635,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
