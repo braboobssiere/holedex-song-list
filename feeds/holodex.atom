@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-13T04:06:18.746Z</updated>
+  <updated>2025-07-13T05:06:23.887Z</updated>
+
+  <entry>
+    <id>urn:uuid:67829bbc-f702-5101-9749-4b21b72a8dd1</id>
+    <title><![CDATA[≪unarchived karaoke・歌枠≫ LIL STRAWBERRY SINGIN! #shorts]]></title>
+    <link href="https://youtu.be/4nMNeNbkFUs" rel="alternate" type="text/html"/>
+    <published>2025-07-13T04:33:57.000Z</published>
+    <updated>2025-07-13T05:00:38.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4nMNeNbkFUs 【LIVE on &lt;t:1752382838:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4nMNeNbkFUs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:352f8875-6d73-5325-9a6e-d8b3ed230d80</id>
@@ -101,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NNK7IP7E0vU 【LIVE on &lt;t:1752238747:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NNK7IP7E0vU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:44218dd0-a0cb-524b-8991-9c3af248fd6b</id>
+    <title><![CDATA[Ash Again]]></title>
+    <link href="https://youtu.be/3lSj0W4DBBk" rel="alternate" type="text/html"/>
+    <published>2025-07-11T11:24:19.000Z</published>
+    <updated>2025-07-11T11:24:19.000Z</updated>
+    <author>
+      <name>Gawr Gura Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3lSj0W4DBBk 【LIVE on &lt;t:1752233059:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3lSj0W4DBBk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1293,20 +1321,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7augI3wfhAI 【LIVE on &lt;t:1749815949:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7augI3wfhAI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dcf0970c-5e38-50cc-835a-fc06388400e2</id>
-    <title><![CDATA[HIMEHINA『V』MV #ヴィー]]></title>
-    <link href="https://youtu.be/7oE8YnXumMk" rel="alternate" type="text/html"/>
-    <published>2025-06-13T12:00:11.000Z</published>
-    <updated>2025-06-13T12:00:11.000Z</updated>
-    <author>
-      <name>HIMEHINA Channel</name>
-      <uri>https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7oE8YnXumMk 【LIVE on &lt;t:1749816011:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7oE8YnXumMk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
