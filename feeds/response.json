@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-13T11:31:49.000Z",
-    "available_at": "2025-07-14T01:00:00.000Z",
+    "available_at": "2025-07-14T01:06:01.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -115,6 +115,44 @@
     }
   },
   {
+    "id": "SDPRRX0VIuc",
+    "title": "誕生日カウントダウン - 夜十神封魔",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-12T15:46:55.000Z",
+    "available_at": "2025-07-12T14:30:40.000Z",
+    "duration": 3792,
+    "status": "past",
+    "channel": {
+      "id": "UCc88OV45ICgHbn3ZqLLb52w",
+      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yatogami Fuma"
+    }
+  },
+  {
+    "id": "RMuxtnrDe6Q",
+    "title": "ハユン誕生日逆凸待!!!【ハユン/にじさんじ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-12T15:25:42.000Z",
+    "available_at": "2025-07-12T10:04:37.000Z",
+    "duration": 17855,
+    "status": "past",
+    "channel": {
+      "id": "UCrhhJPNsOqzNIkUfTABoSpg",
+      "name": "ハユン / HaYun ",
+      "org": "Nijisanji",
+      "suborg": "4aEx-KR Sixth Wave",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JO6TvTgT7MGU9I1qmHUI5-gsfX-9h0ysyGEGUTo0YZL5TvhaQ9WWxD5YzfvSWzSmfuVLpE3tAQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ha Yun"
+    }
+  },
+  {
     "id": "LRZNrt1KvK0",
     "title": "【 歌枠 】1週間のおわりにうたうっ！🍋【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -132,44 +170,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "SDPRRX0VIuc",
-    "title": "誕生日カウントダウン - 夜十神封魔",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-12T09:11:00.000Z",
-    "available_at": "2025-07-12T14:30:40.000Z",
-    "duration": 3794,
-    "status": "past",
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
-    }
-  },
-  {
-    "id": "RMuxtnrDe6Q",
-    "title": "ハユン誕生日逆凸待！！！【ハユン/にじさんじ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-12T05:14:05.000Z",
-    "available_at": "2025-07-12T10:04:37.000Z",
-    "duration": 17953,
-    "status": "past",
-    "channel": {
-      "id": "UCrhhJPNsOqzNIkUfTABoSpg",
-      "name": "ハユン / HaYun ",
-      "org": "Nijisanji",
-      "suborg": "4aEx-KR Sixth Wave",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZMU2CsCiMyj1Xp4LTZMtzGJ6GLJhnb8iy9LWhTcD5btUBF5tTNZuymqattGQAuf0qC_SmVSLCgs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ha Yun"
     }
   },
   {
