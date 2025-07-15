@@ -27,11 +27,11 @@
     "topic_id": "singing",
     "published_at": "2025-07-15T06:47:51.000Z",
     "available_at": "2025-07-15T11:03:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4715,
+    "status": "past",
     "live_tl_count": {
-      "en": 64,
-      "ko": 70
+      "en": 89,
+      "ko": 86
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -109,7 +109,7 @@
     "published_at": "2025-07-13T11:31:49.000Z",
     "available_at": "2025-07-14T01:06:01.000Z",
     "duration": 6001,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -224,9 +224,10 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-07-12T18:03:59.000Z",
-    "available_at": "2025-07-15T13:00:00.000Z",
+    "available_at": "2025-07-15T12:56:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
