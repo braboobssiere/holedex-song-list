@@ -1,5 +1,26 @@
 [
   {
+    "id": "9V4TpG1ODfg",
+    "title": "Dancing Reed",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-15T10:00:13.000Z",
+    "available_at": "2025-07-15T10:00:13.000Z",
+    "duration": 205,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCX1VP45sH-XFxNDzXbMeEBg",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "fjwQfRlllYM",
     "title": "【歌枠】今日も楽しく歌っていこう【ホロライブ/ときのそら】",
     "type": "stream",
@@ -292,13 +313,13 @@
   },
   {
     "id": "KhO1w7vYgyk",
-    "title": "【縦型雑談歌枠】リオナとお話しませんか?♡【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【縦型雑談歌枠】リオナとお話しませんか？♡【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-12T04:12:03.000Z",
     "available_at": "2025-07-15T07:00:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7794,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -3016,26 +3037,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mX9S_nkRRv8Mk7hqcb_S4c4awLoeI0mIbZRQWMoO3ox9I=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ratna Petit"
-    }
-  },
-  {
-    "id": "7oE8YnXumMk",
-    "title": "HIMEHINA『V』MV #ヴィー",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-13T12:00:11.000Z",
-    "available_at": "2025-06-13T12:00:11.000Z",
-    "duration": 217,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCFv2z4iM5vHrS8bZPq4fHQQ",
-      "name": "HIMEHINA Channel",
-      "org": "Independents",
-      "suborg": "stStudio LaRa",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nPHRhyl-fq_XwruRR5btA8_lafZKoc86TZBBDx6XjiclwI1qU51ejBG_wwj69CdWKyDyDmLM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HIMEHINA"
     }
   },
   {
