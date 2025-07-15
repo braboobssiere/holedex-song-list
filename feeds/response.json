@@ -26,9 +26,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-15T06:47:51.000Z",
-    "available_at": "2025-07-15T11:00:00.000Z",
+    "available_at": "2025-07-15T11:03:07.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 64,
+      "ko": 70
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
