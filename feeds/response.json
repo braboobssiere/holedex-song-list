@@ -225,9 +225,12 @@
     "topic_id": "Birthday",
     "published_at": "2025-07-12T18:03:59.000Z",
     "available_at": "2025-07-15T12:56:36.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 3808,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
