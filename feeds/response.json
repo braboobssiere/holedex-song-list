@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-17T07:35:58.000Z",
-    "available_at": "2025-07-17T12:00:00.000Z",
+    "available_at": "2025-07-17T12:05:36.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -45,7 +45,7 @@
     "published_at": "2025-07-17T06:14:31.000Z",
     "available_at": "2025-07-17T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -63,9 +63,9 @@
     "topic_id": "singing",
     "published_at": "2025-07-17T03:11:01.000Z",
     "available_at": "2025-07-17T10:18:18.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 7,
+    "duration": 6451,
+    "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
