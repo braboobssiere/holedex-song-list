@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-19T13:06:27.678Z</updated>
+  <updated>2025-07-19T14:06:23.642Z</updated>
+
+  <entry>
+    <id>urn:uuid:cdfb5e2f-ab14-51db-8955-806a06443a9d</id>
+    <title><![CDATA[【ニコ担メン】歌練習をおみまもりくだたい【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/SwVWG6dIXOI" rel="alternate" type="text/html"/>
+    <published>2025-07-19T13:34:55.000Z</published>
+    <updated>2025-07-19T13:34:55.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SwVWG6dIXOI 【LIVE on &lt;t:1752934500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SwVWG6dIXOI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cc06484a-7544-5685-931c-6cdaadcf0064</id>
@@ -887,20 +901,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=C4t6ORKPuoY 【LIVE on &lt;t:1751637781:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C4t6ORKPuoY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:46e9714a-7dfe-553d-bfd1-253e23c9c891</id>
-    <title><![CDATA[【歌枠/KARAOKE】放課後カラオケタイムだ~~~~~~!!!!!!!【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/w4rYmCo7Q_Q" rel="alternate" type="text/html"/>
-    <published>2025-07-04T10:18:22.000Z</published>
-    <updated>2025-07-04T08:02:17.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=w4rYmCo7Q_Q 【LIVE on &lt;t:1751616137:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w4rYmCo7Q_Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
