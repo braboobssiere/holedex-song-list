@@ -1,21 +1,21 @@
 [
   {
-    "id": "93s5VmGitWI",
-    "title": "Relaxing Puzzle Night! Still Celebrating My Birthday!",
+    "id": "wJgJlavw-XQ",
+    "title": "RUZEBOW KARAOKE COMBO PACK【REBROADCAST】",
     "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-20T09:09:46.000Z",
-    "available_at": "2025-07-20T14:00:00.000Z",
+    "topic_id": "singing",
+    "published_at": "2025-07-20T10:58:18.000Z",
+    "available_at": "2025-07-20T17:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
       "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
+      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
     }
   },
   {
@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-19T16:11:53.000Z",
     "available_at": "2025-07-20T09:00:44.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7182,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -589,8 +589,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-14T14:39:12.000Z",
     "available_at": "2025-07-20T10:01:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1748,
+    "status": "past",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -1942,25 +1942,6 @@
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "JlpooSONUcg",
-    "title": "【歌枠】虎さんの歌を聴きなさい【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-05T02:31:33.000Z",
-    "available_at": "2025-07-05T02:31:49.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ACubs_Mw4YtmgHDIIZvW_gZaPf_VR1wg9yffFLsq4Lrw-W7Md-0pK4Gob8OJebCYCmgrArsE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
     }
   },
@@ -4085,6 +4066,28 @@
     "songcount": 10,
     "live_tl_count": {
       "en": 228
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "0eIUDz4MJmQ",
+    "title": "【いよいよ今日は】誕生日のカウントダウンだ~!!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-05-14T15:45:44.000Z",
+    "available_at": "2025-05-14T14:26:17.000Z",
+    "duration": 4407,
+    "status": "past",
+    "live_tl_count": {
+      "en": 135
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
