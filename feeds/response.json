@@ -39,13 +39,13 @@
   },
   {
     "id": "SrLVYVsbFkk",
-    "title": "【ASMR】落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
+    "title": "【ASMR】落ち着く声♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-07-20T02:41:35.000Z",
     "available_at": "2025-07-20T14:00:44.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -115,6 +115,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
+    }
+  },
+  {
+    "id": "CjxA0bYRVdc",
+    "title": "【縦型雑談歌枠】土曜日だYO!!!【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-19T04:08:43.000Z",
+    "available_at": "2025-07-19T01:00:22.000Z",
+    "duration": 10401,
+    "status": "past",
+    "songcount": 14,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -571,26 +591,6 @@
     "duration": 7707,
     "status": "past",
     "songcount": 10,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "CjxA0bYRVdc",
-    "title": "【縦型雑談歌枠】土曜日だYO!!!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-15T09:10:27.000Z",
-    "available_at": "2025-07-19T01:00:22.000Z",
-    "duration": 10390,
-    "status": "past",
-    "songcount": 14,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
