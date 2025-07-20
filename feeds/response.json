@@ -19,14 +19,33 @@
     }
   },
   {
+    "id": "ovWVOItgmtM",
+    "title": "【歌枠】アニソンを歌いたいという気持ち【影山シエン/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-20T09:04:19.000Z",
+    "available_at": "2025-07-20T14:00:40.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
+    }
+  },
+  {
     "id": "SrLVYVsbFkk",
     "title": "【ASMR】落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-07-20T02:41:35.000Z",
-    "available_at": "2025-07-20T14:00:00.000Z",
+    "available_at": "2025-07-20T14:00:44.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -88,6 +107,25 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCjQ6ovaNmqZuZTo-dn9C9Kw",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
+    }
+  },
+  {
+    "id": "1xWFxL6ZdGA",
+    "title": "【3D & New Info!】All for One as We Head Toward the Concert! It's a Snack-Fest Party!【#holoAllforOne】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-19T03:10:45.000Z",
+    "available_at": "2025-07-19T02:03:53.000Z",
+    "duration": 3676,
+    "status": "past",
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
       "name": "hololive English",
@@ -561,25 +599,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "1xWFxL6ZdGA",
-    "title": "【3D & New Info!】All for One as We Head Toward the Concert! It's a Snack-Fest Party!【#holoAllforOne】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-07-15T05:22:48.000Z",
-    "available_at": "2025-07-19T02:03:53.000Z",
-    "duration": 3668,
-    "status": "past",
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
@@ -1923,26 +1942,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "WhN86DWVPtQ",
-    "title": "【歌枠】虎さんの歌を聴きなさい【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-05T05:49:08.000Z",
-    "available_at": "2025-07-05T02:36:00.000Z",
-    "duration": 10763,
-    "status": "past",
-    "songcount": 33,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
