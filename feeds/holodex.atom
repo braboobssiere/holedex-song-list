@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-22T16:06:27.621Z</updated>
+  <updated>2025-07-22T17:06:27.974Z</updated>
 
   <entry>
     <id>urn:uuid:1e182bae-a166-5d14-bd72-c3c9ebaf5129</id>
@@ -132,8 +132,22 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:abacf30b-ac69-5778-9b6a-14c3c95f95b6</id>
+    <title><![CDATA[Last-resort / 天音かなた(official)]]></title>
+    <link href="https://youtu.be/Ohf-kbf6cR4" rel="alternate" type="text/html"/>
+    <published>2025-07-22T09:02:09.000Z</published>
+    <updated>2025-07-22T09:02:09.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ohf-kbf6cR4 【LIVE on &lt;t:1753268400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ohf-kbf6cR4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e369bc90-ba3e-5285-a4a3-a36f770e7e45</id>
-    <title><![CDATA[【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
+    <title><![CDATA[【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/k0Z3uPdj3Bk" rel="alternate" type="text/html"/>
     <published>2025-07-22T07:53:08.000Z</published>
     <updated>2025-07-22T15:00:17.000Z</updated>
@@ -143,6 +157,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e7a1a406-b995-56ef-ac7c-04dd924a7e1d</id>
+    <title><![CDATA[【縦型雑談歌枠】こんばんわ！寝る前にリオナとはなそお【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/phvJYC2PNwQ" rel="alternate" type="text/html"/>
+    <published>2025-07-21T22:50:16.000Z</published>
+    <updated>2025-07-22T15:01:27.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=phvJYC2PNwQ 【LIVE on &lt;t:1753196487:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/phvJYC2PNwQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -188,6 +216,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d2b2488e-6659-5b86-bed0-6df5a991283e</id>
+    <title><![CDATA[【 歌枠 / KARAOKE 】アイドルソング縛り!みんな一緒に歌おう~!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/QR7jedt3eoc" rel="alternate" type="text/html"/>
+    <published>2025-07-21T06:18:57.000Z</published>
+    <updated>2025-07-21T03:00:19.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QR7jedt3eoc 【LIVE on &lt;t:1753066819:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QR7jedt3eoc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:a7ca2a11-7c6f-5222-a881-08d75a8b08cb</id>
     <title><![CDATA[【歌枠】BUMP OF CHICKENさん縛り歌枠!【虎金妃笑虎/お知らせあり】]]></title>
     <link href="https://youtu.be/9_ldBiI7PrY" rel="alternate" type="text/html"/>
@@ -213,20 +255,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vXA6u6L_quw 【LIVE on &lt;t:1753005661:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vXA6u6L_quw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2b2488e-6659-5b86-bed0-6df5a991283e</id>
-    <title><![CDATA[【 歌枠 / KARAOKE 】アイドルソング縛り！みんな一緒に歌おう～！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/QR7jedt3eoc" rel="alternate" type="text/html"/>
-    <published>2025-07-20T06:08:51.000Z</published>
-    <updated>2025-07-21T03:00:19.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QR7jedt3eoc 【LIVE on &lt;t:1753066819:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QR7jedt3eoc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1029,20 +1057,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c02b4bba-cf00-5505-a6ea-0326874affa7</id>
-    <title><![CDATA[【歌枠】歌謡曲で懐かしくなろう!懐メロもあり?【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/x2FvmLFrzyA" rel="alternate" type="text/html"/>
-    <published>2025-07-06T13:26:01.000Z</published>
-    <updated>2025-07-06T10:31:05.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=x2FvmLFrzyA 【LIVE on &lt;t:1751797865:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/x2FvmLFrzyA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5ed72ea9-3c36-56d8-86b3-ed7597186267</id>
     <title><![CDATA[【3D LIVE】SUPER SPECIAL SUMMER BIRTHDAY LIVE! #KiaraBDay2025]]></title>
     <link href="https://youtu.be/f-UbyQUUykE" rel="alternate" type="text/html"/>
@@ -1306,20 +1320,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=v-OWxvisxjM 【LIVE on &lt;t:1750845689:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v-OWxvisxjM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:65ac25d9-9c54-5144-b92b-c1722aa6ccd7</id>
-    <title><![CDATA[【#hololiveSTAGE25】LIVE IT LOUD! MV【hololive STAGE World Tour '25 -Synchronize!- Original Song】]]></title>
-    <link href="https://youtu.be/yh6KC6htG0s" rel="alternate" type="text/html"/>
-    <published>2025-06-25T04:00:05.000Z</published>
-    <updated>2025-06-25T04:00:05.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yh6KC6htG0s 【LIVE on &lt;t:1750824005:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yh6KC6htG0s/maxresdefault.jpg"/>
   </entry>
 
   <entry>

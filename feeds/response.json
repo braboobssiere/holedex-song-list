@@ -208,14 +208,34 @@
     }
   },
   {
+    "id": "Ohf-kbf6cR4",
+    "title": "Last-resort / 天音かなた(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-22T09:02:09.000Z",
+    "available_at": "2025-07-23T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "k0Z3uPdj3Bk",
-    "title": "【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
+    "title": "【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-07-22T07:53:08.000Z",
     "available_at": "2025-07-22T15:00:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4258,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -224,6 +244,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "phvJYC2PNwQ",
+    "title": "【縦型雑談歌枠】こんばんわ！寝る前にリオナとはなそお【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-21T22:50:16.000Z",
+    "available_at": "2025-07-22T15:01:27.000Z",
+    "duration": 4151,
+    "status": "past",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -302,6 +341,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "QR7jedt3eoc",
+    "title": "【 歌枠 / KARAOKE 】アイドルソング縛り!みんな一緒に歌おう~!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-21T06:18:57.000Z",
+    "available_at": "2025-07-21T03:00:19.000Z",
+    "duration": 10981,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -420,26 +479,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "QR7jedt3eoc",
-    "title": "【 歌枠 / KARAOKE 】アイドルソング縛り！みんな一緒に歌おう～！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-20T06:08:51.000Z",
-    "available_at": "2025-07-21T03:00:19.000Z",
-    "duration": 10973,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -2072,26 +2111,6 @@
     }
   },
   {
-    "id": "x2FvmLFrzyA",
-    "title": "【歌枠】歌謡曲で懐かしくなろう!懐メロもあり?【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-06T13:26:01.000Z",
-    "available_at": "2025-07-06T10:31:05.000Z",
-    "duration": 9809,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "6bUkfM0-nqA",
     "title": "【#unplan】例のスタジオの簡易3Dで遊ぶunplanズ【影山シエン/花咲みやび/律可/アルランディス】",
     "type": "stream",
@@ -2825,26 +2844,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "yh6KC6htG0s",
-    "title": "【#hololiveSTAGE25】LIVE IT LOUD! MV【hololive STAGE World Tour '25 -Synchronize!- Original Song】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-06-25T04:00:05.000Z",
-    "available_at": "2025-06-25T04:00:05.000Z",
-    "duration": 231,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
