@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T00:46:06.000Z",
-    "available_at": "2025-07-23T02:00:00.000Z",
+    "available_at": "2025-07-23T02:00:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -344,6 +344,25 @@
     }
   },
   {
+    "id": "oELyMENOAlM",
+    "title": "【カウントダウン】🎂誕生日🎂本日の主役じゃ~い!!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-21T15:14:52.000Z",
+    "available_at": "2025-07-21T14:29:28.000Z",
+    "duration": 2351,
+    "status": "past",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "eUkFxmnIIOA",
     "title": "【 縦型歌枠 】ノープランすぎる歌枠をやりたいと思います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -537,25 +556,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "oELyMENOAlM",
-    "title": "【カウントダウン】🎂誕生日🎂本日の主役じゃ～い！！【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-19T22:39:21.000Z",
-    "available_at": "2025-07-21T14:29:28.000Z",
-    "duration": 2351,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
