@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-07-22T18:09:45.000Z",
-    "available_at": "2025-07-22T23:00:00.000Z",
+    "available_at": "2025-07-22T23:07:02.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -274,6 +274,7 @@
     "available_at": "2025-07-22T15:01:27.000Z",
     "duration": 4151,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -324,6 +325,26 @@
     }
   },
   {
+    "id": "eUkFxmnIIOA",
+    "title": "【 縦型歌枠 】ノープランすぎる歌枠をやりたいと思います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-21T13:14:21.000Z",
+    "available_at": "2025-07-21T11:00:49.000Z",
+    "duration": 7417,
+    "status": "past",
+    "songcount": 17,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "GgWwut_K7nY",
     "title": "【 歌枠 / KARAOKE 】アイドルソング縛り!みんな一緒に歌おう~!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -340,26 +361,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "eUkFxmnIIOA",
-    "title": "【 縦型歌枠 】ノープランすぎる歌枠をやりたいと思います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-21T06:36:06.000Z",
-    "available_at": "2025-07-21T11:00:49.000Z",
-    "duration": 7417,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
