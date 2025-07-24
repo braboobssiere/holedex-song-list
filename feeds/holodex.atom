@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-24T02:06:24.656Z</updated>
+  <updated>2025-07-24T03:06:22.729Z</updated>
 
   <entry>
     <id>urn:uuid:287199ca-033a-597d-beb5-66ced47c813e</id>
@@ -31,6 +31,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ohf-kbf6cR4 【LIVE on &lt;t:1753268407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ohf-kbf6cR4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e7a1a406-b995-56ef-ac7c-04dd924a7e1d</id>
+    <title><![CDATA[【縦型雑談歌枠】こんばんわ!寝る前にリオナとはなそお【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/phvJYC2PNwQ" rel="alternate" type="text/html"/>
+    <published>2025-07-22T16:24:19.000Z</published>
+    <updated>2025-07-22T15:01:27.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=phvJYC2PNwQ 【LIVE on &lt;t:1753196487:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/phvJYC2PNwQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e369bc90-ba3e-5285-a4a3-a36f770e7e45</id>
+    <title><![CDATA[【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/k0Z3uPdj3Bk" rel="alternate" type="text/html"/>
+    <published>2025-07-22T16:17:26.000Z</published>
+    <updated>2025-07-22T15:00:17.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -157,34 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4qHnXDyVcYg 【LIVE on &lt;t:1753196407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4qHnXDyVcYg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e369bc90-ba3e-5285-a4a3-a36f770e7e45</id>
-    <title><![CDATA[【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき＆マッサージ♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/k0Z3uPdj3Bk" rel="alternate" type="text/html"/>
-    <published>2025-07-22T07:53:08.000Z</published>
-    <updated>2025-07-22T15:00:17.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e7a1a406-b995-56ef-ac7c-04dd924a7e1d</id>
-    <title><![CDATA[【縦型雑談歌枠】こんばんわ！寝る前にリオナとはなそお【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/phvJYC2PNwQ" rel="alternate" type="text/html"/>
-    <published>2025-07-21T22:50:16.000Z</published>
-    <updated>2025-07-22T15:01:27.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=phvJYC2PNwQ 【LIVE on &lt;t:1753196487:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/phvJYC2PNwQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
