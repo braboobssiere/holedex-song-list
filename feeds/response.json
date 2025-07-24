@@ -1,5 +1,24 @@
 [
   {
+    "id": "KC1DqqpZZmk",
+    "title": "【#ホロナツ歌枠リレー】この歌声、届け~~!!!!🎤【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-24T14:42:30.000Z",
+    "available_at": "2025-07-25T10:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tcVZfW4wo4eLVYX5blfoGn1y3Fp43EfyQpP5-fMZNTe6avP74TsQV6BrHhWxij04XSUKGjB1dLY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "jseieZY-PYs",
     "title": "【歌枠】#ホロナツ歌枠リレー 19時スタート!!【ホロライブ/ときのそら】",
     "type": "stream",
@@ -93,6 +112,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "4ah4SwFCC5I",
+    "title": "【配信予定地】次の未来は夏歌枠リレーだ~い🎤✨【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-23T01:03:15.000Z",
+    "available_at": "2025-07-25T10:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -1984,26 +2022,6 @@
     }
   },
   {
-    "id": "GsIaShbUyS8",
-    "title": "縦型歌枠!?",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-08T11:53:55.000Z",
-    "available_at": "2025-07-08T08:48:04.000Z",
-    "duration": 10398,
-    "status": "past",
-    "songcount": 30,
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
-    }
-  },
-  {
     "id": "fJ2LcadjJQ4",
     "title": "【誕生日カウントダウン】みんなと迎える初めての誕生日【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -2063,26 +2081,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "hrcWMST8fR0",
-    "title": "【歌枠】129万人見守り💛【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-07T10:53:29.000Z",
-    "available_at": "2025-07-07T10:20:46.000Z",
-    "duration": 1775,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
