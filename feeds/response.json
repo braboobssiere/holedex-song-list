@@ -199,9 +199,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-25T08:32:17.000Z",
-    "available_at": "2025-07-25T22:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T22:42:18.000Z",
+    "duration": 1101,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -699,9 +700,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T15:40:10.000Z",
-    "available_at": "2025-07-25T22:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T22:20:19.000Z",
+    "duration": 1201,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -836,9 +838,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T10:37:22.000Z",
-    "available_at": "2025-07-25T23:00:00.000Z",
+    "available_at": "2025-07-25T22:59:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCjLEmnpCNeisMxy134KPwWw",
       "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -888,6 +891,25 @@
     }
   },
   {
+    "id": "yglrVhQ-U6I",
+    "title": "【 雑談 | BD COUNTDOWN 】今年もみんなと一緒に迎えたい！【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-23T04:46:20.000Z",
+    "available_at": "2025-07-25T14:31:36.000Z",
+    "duration": 8611,
+    "status": "past",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "MuuIj9KYLiE",
     "title": "【 歌枠 l KARAOKE 】声量おばけを目指して【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
@@ -913,8 +935,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-23T02:06:47.000Z",
     "available_at": "2025-07-25T22:01:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1276,
+    "status": "past",
     "channel": {
       "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
       "name": "Ouro Kronii Ch. hololive-EN",
@@ -4074,25 +4096,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
-    }
-  },
-  {
-    "id": "0Glen-mLDRw",
-    "title": "[SPECIAL ZATSU] BETTEL BIRTHDAY AFTERMATH w/ Bettel 2",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-18T23:18:41.000Z",
-    "available_at": "2025-05-18T21:00:54.000Z",
-    "duration": 7704,
-    "status": "past",
-    "channel": {
-      "id": "UCHP4f7G2dWD4qib7BMatGAw",
-      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gavis Bettel"
     }
   },
   {
