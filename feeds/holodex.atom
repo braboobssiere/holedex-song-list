@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-25T12:06:26.465Z</updated>
+  <updated>2025-07-25T13:06:26.088Z</updated>
+
+  <entry>
+    <id>urn:uuid:9f2a04a6-6ef1-599c-8fcf-6cad2240b614</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー】夏だ!水着で真昼間から歌うマリン船長🌞🎶【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/81KjnEhRD60" rel="alternate" type="text/html"/>
+    <published>2025-07-25T12:04:56.000Z</published>
+    <updated>2025-07-25T12:04:56.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=81KjnEhRD60 【LIVE on &lt;t:1753498800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/81KjnEhRD60/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0222e733-cbfc-5df1-abe5-35cd60dec956</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー】夏だ!歌だ!盛り上がっていきましょ~🎤🔥【風真いろは/ホロライブ】]]></title>
+    <link href="https://youtu.be/4ah4SwFCC5I" rel="alternate" type="text/html"/>
+    <published>2025-07-25T11:03:07.000Z</published>
+    <updated>2025-07-25T10:40:25.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4ah4SwFCC5I 【LIVE on &lt;t:1753440025:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4ah4SwFCC5I/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7f28dca4-b5aa-5b68-9536-b84cb81c5914</id>
@@ -17,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=St6kCyIF_ag 【LIVE on &lt;t:1753495200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/St6kCyIF_ag/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ddadeb50-c525-5e68-b417-d1c1eca55e45</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー】夏🏖️夏🍉夏🍹を感じて歌いませんか!?🎆🌊【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/JMEalNwJ1Tw" rel="alternate" type="text/html"/>
+    <published>2025-07-25T10:32:54.000Z</published>
+    <updated>2025-07-25T10:32:54.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JMEalNwJ1Tw 【LIVE on &lt;t:1753513200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JMEalNwJ1Tw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,6 +143,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=12A9U3kl4xw 【LIVE on &lt;t:1753497600:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/12A9U3kl4xw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aab02e67-a66a-58b7-82e5-ebdb6373574f</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー】夏!ひさびさの歌枠だ~!HOLONATSU SUMMER KARAOKE【獅白ぼたん/ホロライブ】]]></title>
+    <link href="https://youtu.be/7bZP4Xbf3ck" rel="alternate" type="text/html"/>
+    <published>2025-07-24T17:15:01.000Z</published>
+    <updated>2025-07-24T17:15:01.000Z</updated>
+    <author>
+      <name>Botan Ch.獅白ぼたん</name>
+      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7bZP4Xbf3ck 【LIVE on &lt;t:1753510800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bZP4Xbf3ck/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -374,12 +430,12 @@
     <title><![CDATA[【 #ホロナツ歌枠リレー 】夏だ!歌うぞおおおおおおおおおにぇ!🎤🍉 / HOLONATSU SUMMER KARAOKE 【さくらみこ/ホロライブ】]]></title>
     <link href="https://youtu.be/AHtpYf8t1qU" rel="alternate" type="text/html"/>
     <published>2025-07-23T15:14:29.000Z</published>
-    <updated>2025-07-23T15:14:29.000Z</updated>
+    <updated>2025-07-25T13:01:11.000Z</updated>
     <author>
       <name>Miko Ch. さくらみこ</name>
       <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AHtpYf8t1qU 【LIVE on &lt;t:1753448400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AHtpYf8t1qU 【LIVE on &lt;t:1753448471:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AHtpYf8t1qU/maxresdefault.jpg"/>
   </entry>
 
@@ -507,20 +563,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p6Vq2ICepMU 【LIVE on &lt;t:1753480800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p6Vq2ICepMU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0222e733-cbfc-5df1-abe5-35cd60dec956</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】夏だ！歌だ！盛り上がっていきましょ～🎤🔥【風真いろは/ホロライブ】]]></title>
-    <link href="https://youtu.be/4ah4SwFCC5I" rel="alternate" type="text/html"/>
-    <published>2025-07-23T01:03:15.000Z</published>
-    <updated>2025-07-25T10:40:25.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4ah4SwFCC5I 【LIVE on &lt;t:1753440025:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4ah4SwFCC5I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -678,6 +720,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:262baae7-5db6-5599-a3fb-4380ca5897d0</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー|HOLONATSU SUMMER KARAOKE】fuzzy summertime melodies へそ出し魅惑の番犬 ✨️ #FWMCbeats 【FUWAMOCO】]]></title>
+    <link href="https://youtu.be/f-FNgBMrZow" rel="alternate" type="text/html"/>
+    <published>2025-07-22T11:42:41.000Z</published>
+    <updated>2025-07-22T11:42:41.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=f-FNgBMrZow 【LIVE on &lt;t:1753512000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/f-FNgBMrZow/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:7d831af6-4ee2-53ce-abf8-33c1bea1f3e9</id>
     <title><![CDATA[【#ホロナツ歌枠リレー|HOLONATSU SUMMER KARAOKE】fluffy summertime melodies ナマ足魅惑の番犬 ✨️ #FWMCbeats 【FUWAMOCO】]]></title>
     <link href="https://youtu.be/yoHfUz9Lnsk" rel="alternate" type="text/html"/>
@@ -696,41 +752,27 @@
     <title><![CDATA[【#ホロナツ歌枠リレー】Summer singing time!🏝️【Moona Hoshinova】]]></title>
     <link href="https://youtu.be/8frQPxeiIbY" rel="alternate" type="text/html"/>
     <published>2025-07-22T10:09:30.000Z</published>
-    <updated>2025-07-22T10:09:30.000Z</updated>
+    <updated>2025-07-25T12:40:46.000Z</updated>
     <author>
       <name>Moona Hoshinova hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8frQPxeiIbY 【LIVE on &lt;t:1753447200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8frQPxeiIbY 【LIVE on &lt;t:1753447246:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8frQPxeiIbY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
     <id>urn:uuid:1073a881-eaa6-5c09-8768-0b1113e32343</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー ・ SUMMER RELAY KARAOKE】  BRINGING IN THE HEAT 🔥 夏の夜に響け!【Kureiji Ollie】]]></title>
+    <title><![CDATA[【#ホロナツ歌枠リレー ・ SUMMER RELAY KARAOKE】 BRINGING IN THE HEAT 🔥 夏の夜に響け！【Kureiji Ollie】]]></title>
     <link href="https://youtu.be/CzxOzN7Lbd0" rel="alternate" type="text/html"/>
     <published>2025-07-21T16:22:45.000Z</published>
-    <updated>2025-07-21T16:22:45.000Z</updated>
+    <updated>2025-07-25T12:19:48.000Z</updated>
     <author>
       <name>Kureiji Ollie Ch. hololive-ID</name>
       <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CzxOzN7Lbd0 【LIVE on &lt;t:1753446000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CzxOzN7Lbd0 【LIVE on &lt;t:1753445988:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CzxOzN7Lbd0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:58ee6dba-f94e-5cab-bafa-f5936068b928</id>
-    <title><![CDATA[縦型歌枠!?]]></title>
-    <link href="https://youtu.be/5itsTtU3EUk" rel="alternate" type="text/html"/>
-    <published>2025-07-21T15:48:52.000Z</published>
-    <updated>2025-07-21T07:14:24.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5itsTtU3EUk 【LIVE on &lt;t:1753082064:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5itsTtU3EUk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -745,20 +787,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eUkFxmnIIOA 【LIVE on &lt;t:1753095649:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eUkFxmnIIOA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2b2488e-6659-5b86-bed0-6df5a991283e</id>
-    <title><![CDATA[【 歌枠 / KARAOKE 】アイドルソング縛り!みんな一緒に歌おう~!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/QR7jedt3eoc" rel="alternate" type="text/html"/>
-    <published>2025-07-21T06:18:57.000Z</published>
-    <updated>2025-07-21T03:00:19.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QR7jedt3eoc 【LIVE on &lt;t:1753066819:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QR7jedt3eoc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
