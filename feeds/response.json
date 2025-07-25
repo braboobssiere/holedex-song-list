@@ -101,9 +101,9 @@
     "topic_id": "singing",
     "published_at": "2025-07-25T05:22:44.000Z",
     "available_at": "2025-07-25T11:00:11.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 1217,
+    "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -154,13 +154,13 @@
   },
   {
     "id": "k0CMRZ5cYO4",
-    "title": "【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "title": "【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-24T15:16:18.000Z",
-    "available_at": "2025-07-25T11:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T11:20:39.000Z",
+    "duration": 1211,
+    "status": "past",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -245,6 +245,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "20QPTz-iy68",
+    "title": "【#ホロナツ歌枠リレー】SUMMER? SUMMER!【 iofi / hololiveID 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-24T09:01:09.000Z",
+    "available_at": "2025-07-26T05:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -389,9 +408,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T19:28:38.000Z",
-    "available_at": "2025-07-25T12:00:00.000Z",
+    "available_at": "2025-07-25T12:00:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -457,6 +476,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "wwGbAyYbRkA",
+    "title": "【 #ホロナツ歌枠リレー | Summer Relay Karaoke】WOAHHHHH ITS....SUMMER?!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-23T15:40:10.000Z",
+    "available_at": "2025-07-25T22:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
     }
   },
   {
@@ -576,13 +614,13 @@
   },
   {
     "id": "WY634oIYPNw",
-    "title": "【歌枠】Singing❕🎤夏の曲をうーたーお!#ホロナツ歌枠リレー【ラプラス・ダークネス/ホロライブ】",
+    "title": "【歌枠】Singing❕🎤夏の曲をうーたーお！#ホロナツ歌枠リレー【ラプラス・ダークネス/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T10:51:21.000Z",
-    "available_at": "2025-07-25T11:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T11:39:47.000Z",
+    "duration": 1233,
+    "status": "past",
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -629,6 +667,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ninomae Ina'nis"
+    }
+  },
+  {
+    "id": "scde6Qo3NK0",
+    "title": "【 #ホロナツ歌枠リレー 】僕の歌を聴けええええ!!!🎤🍍 / HOLONATSU SUMMER KARAOKE 【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-23T07:26:54.000Z",
+    "available_at": "2025-07-26T06:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -1190,45 +1247,6 @@
     }
   },
   {
-    "id": "ovWVOItgmtM",
-    "title": "【歌枠】アニソンを歌いたいという気持ち【影山シエン/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-20T16:21:28.000Z",
-    "available_at": "2025-07-20T14:00:40.000Z",
-    "duration": 4881,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UChSvpZYRPh0FvG4SJGSga3g",
-      "name": "Shien Ch.影山シエン",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kageyama Shien"
-    }
-  },
-  {
-    "id": "wJgJlavw-XQ",
-    "title": "RUZEBOW KARAOKE COMBO PACK【REBROADCAST】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-20T10:58:18.000Z",
-    "available_at": "2025-07-20T17:04:15.000Z",
-    "duration": 14940,
-    "status": "missing",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
-    }
-  },
-  {
     "id": "8b7ykVc_d6I",
     "title": "【歌枠】誕生日カウントダウン歌枠！告知あり！【虎金妃笑虎】",
     "type": "stream",
@@ -1245,26 +1263,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "vXA6u6L_quw",
-    "title": "【 #ドラマソング歌枠リレー 】たのしく歌います🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-20T10:35:42.000Z",
-    "available_at": "2025-07-20T10:01:01.000Z",
-    "duration": 1745,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
