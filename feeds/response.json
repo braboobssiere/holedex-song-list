@@ -1,5 +1,24 @@
 [
   {
+    "id": "St6kCyIF_ag",
+    "title": "【#ホロナツ歌枠リレー | Summer Relay Karaoke】Hot Singing🌺",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-25T10:45:01.000Z",
+    "available_at": "2025-07-26T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "rZurtV2PJ78",
     "title": "【#ホロナツ歌枠リレー】夏の恒例✨お昼にお歌を歌います!【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -16,6 +35,44 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "6_IwN7XvdcA",
+    "title": "【歌枠】SINGING~!!🎤うたうぞ~~~っ!🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-25T08:44:56.000Z",
+    "available_at": "2025-07-26T04:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "UKMrtTEz2is",
+    "title": "【 #ホロナツ歌枠リレー | Summer Relay Karaoke】Singing! Playing?! LET'S HAVE FUN!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-25T08:32:17.000Z",
+    "available_at": "2025-07-25T22:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
     }
   },
   {
@@ -43,9 +100,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-25T05:22:44.000Z",
-    "available_at": "2025-07-25T11:00:00.000Z",
+    "available_at": "2025-07-25T11:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -153,13 +211,13 @@
   },
   {
     "id": "KC1DqqpZZmk",
-    "title": "【#ホロナツ歌枠リレー】この歌声、届け~~!!!!🎤【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "title": "【#ホロナツ歌枠リレー】この歌声、届け～～！！！！🎤【一条莉々華/hololive DEV_IS　ReGLOSS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-24T14:42:30.000Z",
-    "available_at": "2025-07-25T10:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T10:19:49.000Z",
+    "duration": 1195,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -209,14 +267,36 @@
     }
   },
   {
+    "id": "aS-b7fBZSJg",
+    "title": "【 #ホロナツ歌枠リレー 】夏だ!歌枠だ!!!うちの番だ~!【 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-24T05:47:55.000Z",
+    "available_at": "2025-07-26T04:20:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "jseieZY-PYs",
-    "title": "【歌枠】#ホロナツ歌枠リレー 19時スタート!!【ホロライブ/ときのそら】",
+    "title": "【歌枠】#ホロナツ歌枠リレー １９時スタート！！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-24T01:40:46.000Z",
     "available_at": "2025-07-25T09:59:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1240,
+    "status": "past",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -591,13 +671,16 @@
   },
   {
     "id": "4ah4SwFCC5I",
-    "title": "【#ホロナツ歌枠リレー】夏だ!歌だ!盛り上がっていきましょ~🎤🔥【風真いろは/ホロライブ】",
+    "title": "【#ホロナツ歌枠リレー】夏だ！歌だ！盛り上がっていきましょ～🎤🔥【風真いろは/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T01:03:15.000Z",
-    "available_at": "2025-07-25T10:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T10:40:25.000Z",
+    "duration": 1258,
+    "status": "past",
+    "live_tl_count": {
+      "en": 25
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
@@ -937,9 +1020,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-22T10:09:30.000Z",
-    "available_at": "2025-07-24T12:40:00.000Z",
+    "available_at": "2025-07-25T12:40:00.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "upcoming",
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
@@ -1127,26 +1210,6 @@
     }
   },
   {
-    "id": "9_ldBiI7PrY",
-    "title": "【歌枠】BUMP OF CHICKENさん縛り歌枠!【虎金妃笑虎/お知らせあり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-20T11:14:57.000Z",
-    "available_at": "2025-07-20T09:00:44.000Z",
-    "duration": 7188,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "wJgJlavw-XQ",
     "title": "RUZEBOW KARAOKE COMBO PACK【REBROADCAST】",
     "type": "stream",
@@ -1224,26 +1287,6 @@
     }
   },
   {
-    "id": "9CvK518d7fw",
-    "title": "【歌枠/縦型】深夜にお布団の中でだんちょの歌声きく?【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-19T15:10:58.000Z",
-    "available_at": "2025-07-19T13:00:33.000Z",
-    "duration": 7123,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
-    }
-  },
-  {
     "id": "PihdOUsMOO8",
     "title": "All for One(Instrumental)",
     "type": "stream",
@@ -1305,26 +1348,6 @@
     }
   },
   {
-    "id": "CjxA0bYRVdc",
-    "title": "【縦型雑談歌枠】土曜日だYO!!!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-19T04:08:43.000Z",
-    "available_at": "2025-07-19T01:00:22.000Z",
-    "duration": 10401,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "1xWFxL6ZdGA",
     "title": "【3D & New Info!】All for One as We Head Toward the Concert! It's a Snack-Fest Party!【#holoAllforOne】",
     "type": "stream",
@@ -1341,25 +1364,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "BsVRZAn56C8",
-    "title": "【KARAOKE】Time to Drink and Sing :3",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-19T02:29:37.000Z",
-    "available_at": "2025-07-19T03:50:30.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC2hx0xVkMoHGWijwr_lA01w",
-      "name": "Axel Syrios Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Axel Syrios"
     }
   },
   {
