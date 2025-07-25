@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-25T04:06:23.324Z</updated>
+  <updated>2025-07-25T05:06:28.403Z</updated>
 
   <entry>
     <id>urn:uuid:26ea44a5-9368-59f2-a3fa-f864e3837378</id>
@@ -227,6 +227,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WY634oIYPNw 【LIVE on &lt;t:1753443600:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WY634oIYPNw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:40edf8a0-5670-5e4d-9641-1367dfb99ff9</id>
+    <title><![CDATA[【Karaoke】Nyanyi bareng yuk !! #ホロナツ歌枠リレー]]></title>
+    <link href="https://youtu.be/qv4UY38RVRI" rel="alternate" type="text/html"/>
+    <published>2025-07-23T10:37:22.000Z</published>
+    <updated>2025-07-23T10:37:22.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qv4UY38RVRI 【LIVE on &lt;t:1753484400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qv4UY38RVRI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -774,20 +788,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=v2JXxju3L_c 【LIVE on &lt;t:1752393608:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v2JXxju3L_c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:53c29e42-a82f-54f3-88eb-890974291ccf</id>
-    <title><![CDATA[【歌枠】歌声はパールホワイト♥中身は真っ黒タイガーです♥【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/p4stP5tu7IY" rel="alternate" type="text/html"/>
-    <published>2025-07-13T11:00:04.000Z</published>
-    <updated>2025-07-13T07:37:08.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p4stP5tu7IY 【LIVE on &lt;t:1752392228:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p4stP5tu7IY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
