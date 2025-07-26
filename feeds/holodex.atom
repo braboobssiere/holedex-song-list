@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-26T17:06:27.879Z</updated>
+  <updated>2025-07-26T18:06:21.139Z</updated>
+
+  <entry>
+    <id>urn:uuid:bf0f84ed-0fc8-54d5-8055-5bf39e226967</id>
+    <title><![CDATA[【Freetalk】真夜中の滅びの歌枠📣 【ホロライブ/癒月ちょこ】]]></title>
+    <link href="https://youtu.be/0Dw_1FdFUwY" rel="alternate" type="text/html"/>
+    <published>2025-07-26T16:17:51.000Z</published>
+    <updated>2025-07-26T16:25:42.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Dw_1FdFUwY 【LIVE on &lt;t:1753547142:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Dw_1FdFUwY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c7970bcf-78cb-510a-a05a-34004138607d</id>
@@ -367,20 +381,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aS-b7fBZSJg 【LIVE on &lt;t:1753503535:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aS-b7fBZSJg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bd2b3d76-b34a-5ab0-bff5-321b5b800c3b</id>
-    <title><![CDATA[【歌枠】#ホロナツ歌枠リレー １９時スタート！！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/jseieZY-PYs" rel="alternate" type="text/html"/>
-    <published>2025-07-24T01:40:46.000Z</published>
-    <updated>2025-07-25T09:59:03.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jseieZY-PYs 【LIVE on &lt;t:1753437543:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jseieZY-PYs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
