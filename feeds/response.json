@@ -1,5 +1,25 @@
 [
   {
+    "id": "LSvci_GdHhE",
+    "title": "≪#ホロナツ歌枠リレー≫ WALKIN' ON SUNSHINE!! HOLOSUMMER KARAOKE!!!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T01:46:04.000Z",
+    "available_at": "2025-07-26T01:18:23.000Z",
+    "duration": 1401,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "ZYSGTj5IojM",
     "title": "【UNARCHIVED】HAKKAMAMA WANTED TO KARAOKE AGAIN, SO LET'S PARTY BABY ٩(ˊᗜˋ*)و ♡【KARAOKE】",
     "type": "stream",
@@ -7,7 +27,7 @@
     "published_at": "2025-07-25T20:23:53.000Z",
     "available_at": "2025-07-26T02:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -24,7 +44,7 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-07-25T16:29:35.000Z",
-    "available_at": "2025-07-26T01:00:00.000Z",
+    "available_at": "2025-07-26T01:14:46.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -46,6 +66,7 @@
     "available_at": "2025-07-25T15:19:13.000Z",
     "duration": 4039,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -123,9 +144,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-25T10:45:01.000Z",
-    "available_at": "2025-07-26T02:00:00.000Z",
+    "available_at": "2025-07-26T01:57:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -299,6 +320,7 @@
     "available_at": "2025-07-25T15:21:11.000Z",
     "duration": 1141,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -357,6 +379,7 @@
     "available_at": "2025-07-25T15:39:07.000Z",
     "duration": 1477,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -385,6 +408,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tcVZfW4wo4eLVYX5blfoGn1y3Fp43EfyQpP5-fMZNTe6avP74TsQV6BrHhWxij04XSUKGjB1dLY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
+    }
+  },
+  {
+    "id": "MuuIj9KYLiE",
+    "title": "【 歌枠 l KARAOKE 】声量おばけを目指して【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-24T14:35:25.000Z",
+    "available_at": "2025-07-24T12:03:57.000Z",
+    "duration": 8301,
+    "status": "past",
+    "songcount": 19,
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
     }
   },
   {
@@ -573,14 +616,12 @@
     "available_at": "2025-07-26T00:00:00.000Z",
     "duration": 0,
     "status": "live",
+    "lang": "hidden",
     "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
+      "id": "HIDDEN",
+      "name": "?",
+      "type": "system",
+      "english_name": "?"
     }
   },
   {
@@ -691,7 +732,7 @@
     "available_at": "2025-07-25T14:20:07.000Z",
     "duration": 1246,
     "status": "past",
-    "songcount": 3,
+    "songcount": 4,
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -771,6 +812,7 @@
     "available_at": "2025-07-25T14:39:11.000Z",
     "duration": 1297,
     "status": "past",
+    "songcount": 5,
     "live_tl_count": {
       "en": 12
     },
@@ -793,6 +835,7 @@
     "available_at": "2025-07-25T15:00:07.000Z",
     "duration": 1211,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -922,26 +965,6 @@
     }
   },
   {
-    "id": "MuuIj9KYLiE",
-    "title": "【 歌枠 l KARAOKE 】声量おばけを目指して【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-23T04:41:54.000Z",
-    "available_at": "2025-07-24T12:03:57.000Z",
-    "duration": 8313,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
     "id": "p6Vq2ICepMU",
     "title": "【#ホロナツ歌枠リレー | Summer Relay Karaoke】Woo Hot 🔥🧑‍🚒",
     "type": "stream",
@@ -996,25 +1019,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "LSvci_GdHhE",
-    "title": "≪#ホロナツ歌枠リレー≫ WALKIN' ON SUNSHINE!! HOLOSUMMER KARAOKE!!!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-22T15:03:52.000Z",
-    "available_at": "2025-07-26T01:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
@@ -1246,13 +1250,14 @@
   },
   {
     "id": "yoHfUz9Lnsk",
-    "title": "【#ホロナツ歌枠リレー|HOLONATSU SUMMER KARAOKE】fluffy summertime melodies ナマ足魅惑の番犬 ✨️ #FWMCbeats 【FUWAMOCO】",
+    "title": "【#ホロナツ歌枠リレー｜HOLONATSU SUMMER KARAOKE】fluffy summertime melodies ナマ足魅惑の番犬 ✨️ #FWMCbeats 【FUWAMOCO】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-22T11:38:54.000Z",
-    "available_at": "2025-07-26T01:40:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-26T01:35:10.000Z",
+    "duration": 1509,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -1409,8 +1414,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-19T11:53:54.000Z",
     "available_at": "2025-07-26T01:03:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1143,
+    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
