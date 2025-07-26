@@ -517,9 +517,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-07-24T12:10:54.000Z",
-    "available_at": "2025-07-26T09:00:00.000Z",
+    "available_at": "2025-07-26T09:00:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -532,7 +535,7 @@
   },
   {
     "id": "K1b7k-CRJIE",
-    "title": "【 #ホロナツ歌枠リレー 】ねねのターン!!ドロー!!!!!!【 桃鈴ねね / hololive 】",
+    "title": "【 #ホロナツ歌枠リレー 】ねねのターン！！ドロー！！！！！！【 桃鈴ねね / hololive 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-24T09:37:52.000Z",
