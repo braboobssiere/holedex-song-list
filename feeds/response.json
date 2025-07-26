@@ -569,7 +569,7 @@
     "published_at": "2025-07-23T22:02:51.000Z",
     "available_at": "2025-07-26T00:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -605,9 +605,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T20:21:26.000Z",
-    "available_at": "2025-07-25T23:40:00.000Z",
+    "available_at": "2025-07-25T23:40:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 4,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -646,6 +647,7 @@
     "available_at": "2025-07-25T12:00:21.000Z",
     "duration": 1179,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -658,13 +660,14 @@
   },
   {
     "id": "cnNs-0naDcg",
-    "title": "【 #ホロナツ歌枠リレー 】夏曲を歌いに~?ニコたんが~、、【虎金妃笑虎】",
+    "title": "【 #ホロナツ歌枠リレー 】夏曲を歌いに～？ニコたんが～、、【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T17:50:09.000Z",
-    "available_at": "2025-07-25T23:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-07-25T23:20:53.000Z",
+    "duration": 1153,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -839,9 +842,9 @@
     "topic_id": "singing",
     "published_at": "2025-07-23T10:37:22.000Z",
     "available_at": "2025-07-25T22:59:53.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 1,
+    "duration": 1275,
+    "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCjLEmnpCNeisMxy134KPwWw",
       "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -858,7 +861,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-23T07:39:04.000Z",
-    "available_at": "2025-07-26T00:20:00.000Z",
+    "available_at": "2025-07-26T00:10:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -918,6 +921,7 @@
     "available_at": "2025-07-24T12:03:57.000Z",
     "duration": 8313,
     "status": "past",
+    "songcount": 59,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
