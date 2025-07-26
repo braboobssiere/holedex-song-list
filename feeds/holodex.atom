@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-26T22:06:22.785Z</updated>
+  <updated>2025-07-26T23:06:25.806Z</updated>
 
   <entry>
     <id>urn:uuid:78ddb9a0-1b7b-5842-841c-28c8f8622035</id>
@@ -87,6 +87,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=81KjnEhRD60 【LIVE on &lt;t:1753498787:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/81KjnEhRD60/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3f685a18-a979-5d38-a9d3-17e6dcad5fb8</id>
+    <title><![CDATA[【歌枠】Singing❕🎤夏の曲をうーたーお!#ホロナツ歌枠リレー【ラプラス・ダークネス/ホロライブ】]]></title>
+    <link href="https://youtu.be/WY634oIYPNw" rel="alternate" type="text/html"/>
+    <published>2025-07-25T12:02:33.000Z</published>
+    <updated>2025-07-25T11:39:47.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WY634oIYPNw 【LIVE on &lt;t:1753443587:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WY634oIYPNw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:622be251-73c9-5953-bc4f-8fb6e65bee35</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ~【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/k0CMRZ5cYO4" rel="alternate" type="text/html"/>
+    <published>2025-07-25T11:43:52.000Z</published>
+    <updated>2025-07-25T11:20:39.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k0CMRZ5cYO4 【LIVE on &lt;t:1753442439:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0CMRZ5cYO4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3ea46fad-bbc8-5f9e-a4b4-d2e656638348</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー 】holonatsu Karaoke Relay! Olé! ~ 💄]]></title>
+    <link href="https://youtu.be/LwaDbamHgy8" rel="alternate" type="text/html"/>
+    <published>2025-07-25T11:23:26.000Z</published>
+    <updated>2025-07-25T11:00:11.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LwaDbamHgy8 【LIVE on &lt;t:1753441211:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LwaDbamHgy8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -202,20 +244,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3ea46fad-bbc8-5f9e-a4b4-d2e656638348</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】holonatsu Karaoke Relay! Olé! ~ 💄]]></title>
-    <link href="https://youtu.be/LwaDbamHgy8" rel="alternate" type="text/html"/>
-    <published>2025-07-25T05:22:44.000Z</published>
-    <updated>2025-07-25T11:00:11.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LwaDbamHgy8 【LIVE on &lt;t:1753441211:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LwaDbamHgy8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2b5b16eb-1b7e-547c-9315-a62d471b499b</id>
     <title><![CDATA[【#ホロナツ歌枠リレー】11時40分！お昼に夏ソングだあああああ🌞✨【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/12A9U3kl4xw" rel="alternate" type="text/html"/>
@@ -255,20 +283,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cLZXcIV9PdI 【LIVE on &lt;t:1753456871:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cLZXcIV9PdI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:622be251-73c9-5953-bc4f-8fb6e65bee35</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】ジャパンの夏アツすぎるよぉ～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/k0CMRZ5cYO4" rel="alternate" type="text/html"/>
-    <published>2025-07-24T15:16:18.000Z</published>
-    <updated>2025-07-25T11:20:39.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k0CMRZ5cYO4 【LIVE on &lt;t:1753442439:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0CMRZ5cYO4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -549,20 +563,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ohf-kbf6cR4 【LIVE on &lt;t:1753268407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ohf-kbf6cR4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3f685a18-a979-5d38-a9d3-17e6dcad5fb8</id>
-    <title><![CDATA[【歌枠】Singing❕🎤夏の曲をうーたーお！#ホロナツ歌枠リレー【ラプラス・ダークネス/ホロライブ】]]></title>
-    <link href="https://youtu.be/WY634oIYPNw" rel="alternate" type="text/html"/>
-    <published>2025-07-23T10:51:21.000Z</published>
-    <updated>2025-07-25T11:39:47.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WY634oIYPNw 【LIVE on &lt;t:1753443587:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WY634oIYPNw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
