@@ -128,8 +128,8 @@
     "topic_id": "singing",
     "published_at": "2025-07-27T05:23:03.000Z",
     "available_at": "2025-07-27T14:00:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6114,
+    "status": "past",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -278,6 +278,66 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "plQt-seA_8w",
+    "title": "【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ!!【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T05:33:43.000Z",
+    "available_at": "2025-07-26T05:00:18.000Z",
+    "duration": 1819,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "6_IwN7XvdcA",
+    "title": "【歌枠】SINGING~!!🎤うたうぞ~~~っ!🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T05:04:14.000Z",
+    "available_at": "2025-07-26T04:39:59.000Z",
+    "duration": 1247,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "aS-b7fBZSJg",
+    "title": "【 #ホロナツ歌枠リレー 】夏だ!歌枠だ!!!うちの番だ~!【 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T04:42:32.000Z",
+    "available_at": "2025-07-26T04:18:55.000Z",
+    "duration": 1289,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
     }
   },
   {
@@ -801,26 +861,6 @@
     }
   },
   {
-    "id": "plQt-seA_8w",
-    "title": "【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ！！【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T14:17:04.000Z",
-    "available_at": "2025-07-26T05:00:18.000Z",
-    "duration": 1823,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "CXM-SZTvUKM",
     "title": "【#ホロナツ歌枠リレー】夏だ!歌だ!ホロナツパラダイス!SUMMER SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
@@ -961,26 +1001,6 @@
     }
   },
   {
-    "id": "6_IwN7XvdcA",
-    "title": "【歌枠】SINGING~!!🎤うたうぞ～～～っ！🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T08:44:56.000Z",
-    "available_at": "2025-07-26T04:39:59.000Z",
-    "duration": 1231,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "7bZP4Xbf3ck",
     "title": "【#ホロナツ歌枠リレー】夏！ひさびさの歌枠だ～！HOLONATSU SUMMER KARAOKE【獅白ぼたん/ホロライブ】",
     "type": "stream",
@@ -1118,26 +1138,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "aS-b7fBZSJg",
-    "title": "【 #ホロナツ歌枠リレー 】夏だ！歌枠だ！！！うちの番だ～！【 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-24T05:47:55.000Z",
-    "available_at": "2025-07-26T04:18:55.000Z",
-    "duration": 1291,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {

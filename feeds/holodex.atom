@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-27T15:06:27.631Z</updated>
+  <updated>2025-07-27T16:06:23.237Z</updated>
 
   <entry>
     <id>urn:uuid:c74732e4-95f9-5234-8758-097bac520db7</id>
@@ -129,6 +129,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YddrL9mYKjA 【LIVE on &lt;t:1753536606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YddrL9mYKjA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:890adf80-def2-5c4f-8d82-38f817edc4ee</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ!!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/plQt-seA_8w" rel="alternate" type="text/html"/>
+    <published>2025-07-26T05:33:43.000Z</published>
+    <updated>2025-07-26T05:00:18.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=plQt-seA_8w 【LIVE on &lt;t:1753506018:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/plQt-seA_8w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:69cc6222-0e07-5de9-ba53-b68bc64f91f6</id>
+    <title><![CDATA[【歌枠】SINGING~!!🎤うたうぞ~~~っ!🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/6_IwN7XvdcA" rel="alternate" type="text/html"/>
+    <published>2025-07-26T05:04:14.000Z</published>
+    <updated>2025-07-26T04:39:59.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6_IwN7XvdcA 【LIVE on &lt;t:1753504799:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6_IwN7XvdcA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c19b88e2-5f69-5e63-85cc-f61d52e79f01</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏だ!歌枠だ!!!うちの番だ~!【 大神ミオ 】]]></title>
+    <link href="https://youtu.be/aS-b7fBZSJg" rel="alternate" type="text/html"/>
+    <published>2025-07-26T04:42:32.000Z</published>
+    <updated>2025-07-26T04:18:55.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aS-b7fBZSJg 【LIVE on &lt;t:1753503535:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aS-b7fBZSJg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -440,20 +482,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:890adf80-def2-5c4f-8d82-38f817edc4ee</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ！！【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/plQt-seA_8w" rel="alternate" type="text/html"/>
-    <published>2025-07-25T14:17:04.000Z</published>
-    <updated>2025-07-26T05:00:18.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=plQt-seA_8w 【LIVE on &lt;t:1753506018:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/plQt-seA_8w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:41cc2f38-a5d0-5248-ab2d-5d24153ee177</id>
     <title><![CDATA[【#ホロナツ歌枠リレー】夏だ!歌だ!ホロナツパラダイス!SUMMER SINGING STREAM【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/CXM-SZTvUKM" rel="alternate" type="text/html"/>
@@ -552,20 +580,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:69cc6222-0e07-5de9-ba53-b68bc64f91f6</id>
-    <title><![CDATA[【歌枠】SINGING~!!🎤うたうぞ～～～っ！🎆🍉#ホロナツ歌枠リレー【ホロライブ/赤井はあと】]]></title>
-    <link href="https://youtu.be/6_IwN7XvdcA" rel="alternate" type="text/html"/>
-    <published>2025-07-25T08:44:56.000Z</published>
-    <updated>2025-07-26T04:39:59.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6_IwN7XvdcA 【LIVE on &lt;t:1753504799:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6_IwN7XvdcA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:aab02e67-a66a-58b7-82e5-ebdb6373574f</id>
     <title><![CDATA[【#ホロナツ歌枠リレー】夏！ひさびさの歌枠だ～！HOLONATSU SUMMER KARAOKE【獅白ぼたん/ホロライブ】]]></title>
     <link href="https://youtu.be/7bZP4Xbf3ck" rel="alternate" type="text/html"/>
@@ -619,20 +633,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=20QPTz-iy68 【LIVE on &lt;t:1753507842:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/20QPTz-iy68/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c19b88e2-5f69-5e63-85cc-f61d52e79f01</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏だ！歌枠だ！！！うちの番だ～！【 大神ミオ 】]]></title>
-    <link href="https://youtu.be/aS-b7fBZSJg" rel="alternate" type="text/html"/>
-    <published>2025-07-24T05:47:55.000Z</published>
-    <updated>2025-07-26T04:18:55.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aS-b7fBZSJg 【LIVE on &lt;t:1753503535:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aS-b7fBZSJg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
