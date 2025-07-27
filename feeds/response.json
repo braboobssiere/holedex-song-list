@@ -42,7 +42,7 @@
   },
   {
     "id": "AkWYON7aSCg",
-    "title": "【歌枠】30万人目指して歌います✨【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠】３０万人目指して歌います✨【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-26T16:06:06.000Z",
@@ -138,6 +138,45 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "1N4-PFDizXo",
+    "title": "【歌枠 / karaoke】睡眠導入おやすみ歌枠 もうねむい / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-25T18:16:54.000Z",
+    "available_at": "2025-07-25T15:19:13.000Z",
+    "duration": 4035,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "yglrVhQ-U6I",
+    "title": "【 雑談 | BD COUNTDOWN 】今年もみんなと一緒に迎えたい!【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-25T17:02:09.000Z",
+    "available_at": "2025-07-25T14:31:36.000Z",
+    "duration": 8604,
+    "status": "past",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
     }
   },
   {
@@ -280,26 +319,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "1N4-PFDizXo",
-    "title": "【歌枠 / karaoke】睡眠導入おやすみ歌枠 もうねむい / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T14:24:05.000Z",
-    "available_at": "2025-07-25T15:19:13.000Z",
-    "duration": 4039,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -1082,25 +1101,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "yglrVhQ-U6I",
-    "title": "【 雑談 | BD COUNTDOWN 】今年もみんなと一緒に迎えたい！【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-23T04:46:20.000Z",
-    "available_at": "2025-07-25T14:31:36.000Z",
-    "duration": 8611,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
