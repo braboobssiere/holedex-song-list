@@ -1,13 +1,14 @@
 [
   {
     "id": "v5RKZXNuVyw",
-    "title": "【Mythmash】MV Glow in the Dark",
+    "title": "【Mythmash】Glow in the Dark - Takanashi Kiara & La+ Darknesss (Official MV)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-07-27T13:00:06.000Z",
     "available_at": "2025-07-27T13:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 176,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -46,6 +47,9 @@
     "available_at": "2025-07-27T12:59:55.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 13
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -81,9 +85,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-27T05:23:03.000Z",
-    "available_at": "2025-07-27T14:00:00.000Z",
+    "available_at": "2025-07-27T14:00:59.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -155,6 +159,25 @@
     }
   },
   {
+    "id": "1Ed1RGdRboc",
+    "title": "【#ホロスタあたなるコラボ】歌枠2人組リレー律可&星乃歌カズ~生弾き語りver~【12時間リレー】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T16:16:42.000Z",
+    "available_at": "2025-07-28T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "AkWYON7aSCg",
     "title": "【歌枠】３０万人目指して歌います✨【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -213,6 +236,85 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "XNE3bMbA_cI",
+    "title": "【#ホロナツ歌枠リレー】夏も!元気に歌う🔅!  KARAOKE【水宮枢/FLOW GLOW】#hololivedev_is",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T03:42:01.000Z",
+    "available_at": "2025-07-26T03:20:11.000Z",
+    "duration": 1157,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "dV1CmBlhYGg",
+    "title": "【🗣️ 3RD ANNIVERSARY CHATTING 🗣️】 Sharing Memories and a Meal w/ @AxelSyrios",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-07-26T03:34:02.000Z",
+    "available_at": "2025-07-26T01:14:46.000Z",
+    "duration": 7838,
+    "status": "past",
+    "channel": {
+      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
+      "name": "Regis Altare Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Regis Altare"
+    }
+  },
+  {
+    "id": "81KjnEhRD60",
+    "title": "【#ホロナツ歌枠リレー】夏だ!水着で真昼間から歌うマリン船長🌞🎶【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T03:22:35.000Z",
+    "available_at": "2025-07-26T02:59:47.000Z",
+    "duration": 1224,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "12A9U3kl4xw",
+    "title": "【#ホロナツ歌枠リレー】11時40分!お昼に夏ソングだあああああ🌞✨【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T03:01:52.000Z",
+    "available_at": "2025-07-26T02:40:19.000Z",
+    "duration": 1163,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -494,25 +596,6 @@
     }
   },
   {
-    "id": "dV1CmBlhYGg",
-    "title": "【🗣️ 3RD ANNIVERSARY CHATTING 🗣️】 Sharing Memories and a Meal w/ @AxelSyrios",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-25T16:29:35.000Z",
-    "available_at": "2025-07-26T01:14:46.000Z",
-    "duration": 7834,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
-    }
-  },
-  {
     "id": "2CaSvsdZLv8",
     "title": "【 #ホロナツ歌枠リレー 】深夜?そんなの関係ねぇ!Singing Stream!【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -776,46 +859,6 @@
     }
   },
   {
-    "id": "81KjnEhRD60",
-    "title": "【#ホロナツ歌枠リレー】夏だ！水着で真昼間から歌うマリン船長🌞🎶【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T12:04:56.000Z",
-    "available_at": "2025-07-26T02:59:47.000Z",
-    "duration": 1217,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "WY634oIYPNw",
-    "title": "【歌枠】Singing❕🎤夏の曲をうーたーお!#ホロナツ歌枠リレー【ラプラス・ダークネス/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T12:02:33.000Z",
-    "available_at": "2025-07-25T11:39:47.000Z",
-    "duration": 1220,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
-    }
-  },
-  {
     "id": "JMEalNwJ1Tw",
     "title": "【#ホロナツ歌枠リレー】夏🏖️夏🍉夏🍹を感じて歌いませんか！？🎆🌊【尾丸ポルカ/ホロライブ】",
     "type": "stream",
@@ -873,26 +916,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "12A9U3kl4xw",
-    "title": "【#ホロナツ歌枠リレー】11時40分！お昼に夏ソングだあああああ🌞✨【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T02:42:22.000Z",
-    "available_at": "2025-07-26T02:40:19.000Z",
-    "duration": 1167,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -1092,26 +1115,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "XNE3bMbA_cI",
-    "title": "【#ホロナツ歌枠リレー】夏も！元気に歌う🔅！ KARAOKE【水宮枢／FLOW GLOW】#hololivedev_is",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-23T19:54:21.000Z",
-    "available_at": "2025-07-26T03:20:11.000Z",
-    "duration": 1149,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
