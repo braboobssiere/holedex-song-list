@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-27T14:06:26.047Z</updated>
+  <updated>2025-07-27T15:06:27.631Z</updated>
+
+  <entry>
+    <id>urn:uuid:c74732e4-95f9-5234-8758-097bac520db7</id>
+    <title><![CDATA[Glow in the Dark]]></title>
+    <link href="https://youtu.be/yugjvxhhRA0" rel="alternate" type="text/html"/>
+    <published>2025-07-27T15:01:37.000Z</published>
+    <updated>2025-07-27T15:01:37.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yugjvxhhRA0 【LIVE on &lt;t:1753628497:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yugjvxhhRA0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ee9ec30d-35b0-5d9b-ae85-4cf5d222420e</id>
+    <title><![CDATA[Glow in the Dark(Instrumental)]]></title>
+    <link href="https://youtu.be/TBpj9dmn_rg" rel="alternate" type="text/html"/>
+    <published>2025-07-27T15:00:47.000Z</published>
+    <updated>2025-07-27T15:00:47.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TBpj9dmn_rg 【LIVE on &lt;t:1753628447:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TBpj9dmn_rg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9d2e1b25-ea1e-5ea7-a1b0-80c968bc929d</id>
@@ -101,6 +129,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YddrL9mYKjA 【LIVE on &lt;t:1753536606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YddrL9mYKjA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:467c2e7e-51fe-57fa-ae71-f7b81f05ec2b</id>
+    <title><![CDATA[【#holonatsuparadise 】SUMMER SONG KARAOKE TO BEAT THE HEATT!! #ホロナツ歌枠リレー]]></title>
+    <link href="https://youtu.be/CoGqp0L-qEI" rel="alternate" type="text/html"/>
+    <published>2025-07-26T04:24:54.000Z</published>
+    <updated>2025-07-26T03:59:21.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CoGqp0L-qEI 【LIVE on &lt;t:1753502361:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CoGqp0L-qEI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c0b8f6a2-ecb0-567b-8f78-b3b248b89d8a</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー | Summer Relay Karaoke】every minute counts!!!!!!! (ARCHIVED) #kfp]]></title>
+    <link href="https://youtu.be/GSyDNQ89-pQ" rel="alternate" type="text/html"/>
+    <published>2025-07-26T04:02:42.000Z</published>
+    <updated>2025-07-26T03:39:33.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GSyDNQ89-pQ 【LIVE on &lt;t:1753501173:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GSyDNQ89-pQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -510,20 +566,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:467c2e7e-51fe-57fa-ae71-f7b81f05ec2b</id>
-    <title><![CDATA[【#holonatsuparadise 】SUMMER SONG KARAOKE TO BEAT THE HEATT!! #ホロナツ歌枠リレー]]></title>
-    <link href="https://youtu.be/CoGqp0L-qEI" rel="alternate" type="text/html"/>
-    <published>2025-07-25T08:03:02.000Z</published>
-    <updated>2025-07-26T03:59:21.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CoGqp0L-qEI 【LIVE on &lt;t:1753502361:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CoGqp0L-qEI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:aab02e67-a66a-58b7-82e5-ebdb6373574f</id>
     <title><![CDATA[【#ホロナツ歌枠リレー】夏！ひさびさの歌枠だ～！HOLONATSU SUMMER KARAOKE【獅白ぼたん/ホロライブ】]]></title>
     <link href="https://youtu.be/7bZP4Xbf3ck" rel="alternate" type="text/html"/>
@@ -535,20 +577,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7bZP4Xbf3ck 【LIVE on &lt;t:1753510820:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bZP4Xbf3ck/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c0b8f6a2-ecb0-567b-8f78-b3b248b89d8a</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー | Summer Relay Karaoke】every minute counts!!!!!!! (ARCHIVED) #kfp]]></title>
-    <link href="https://youtu.be/GSyDNQ89-pQ" rel="alternate" type="text/html"/>
-    <published>2025-07-24T15:14:31.000Z</published>
-    <updated>2025-07-26T03:39:33.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GSyDNQ89-pQ 【LIVE on &lt;t:1753501173:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GSyDNQ89-pQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1389,34 +1417,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Quoirx8lsFM 【LIVE on &lt;t:1751205632:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Quoirx8lsFM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c9329cc0-278b-5761-9cfb-3c302bdd7a69</id>
-    <title><![CDATA[夏宿り(Instrumental)]]></title>
-    <link href="https://youtu.be/UHGSfiyT8z4" rel="alternate" type="text/html"/>
-    <published>2025-06-28T15:00:49.000Z</published>
-    <updated>2025-06-28T15:00:49.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UHGSfiyT8z4 【LIVE on &lt;t:1751122849:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UHGSfiyT8z4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f43c7af3-ec34-52d4-b038-27d54fecc23f</id>
-    <title><![CDATA[夏宿り]]></title>
-    <link href="https://youtu.be/DTbyvlOmzuU" rel="alternate" type="text/html"/>
-    <published>2025-06-28T15:00:18.000Z</published>
-    <updated>2025-06-28T15:00:18.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DTbyvlOmzuU 【LIVE on &lt;t:1751122818:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DTbyvlOmzuU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
