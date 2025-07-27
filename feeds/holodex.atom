@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-27T10:06:21.672Z</updated>
+  <updated>2025-07-27T11:06:27.987Z</updated>
 
   <entry>
     <id>urn:uuid:b1fd373e-b70b-5a0b-b694-2417ed847d11</id>
@@ -73,6 +73,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LSvci_GdHhE 【LIVE on &lt;t:1753492703:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LSvci_GdHhE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:81debcc0-b66b-587d-bbe2-f480298b9fa8</id>
+    <title><![CDATA[【#ホロナツ歌枠リレー | Summer Relay Karaoke】Good Morning It's Summer!!!!]]></title>
+    <link href="https://youtu.be/xg7WrkcJqNw" rel="alternate" type="text/html"/>
+    <published>2025-07-26T00:44:59.000Z</published>
+    <updated>2025-07-26T00:10:08.000Z</updated>
+    <author>
+      <name>Ninomae Ina'nis Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xg7WrkcJqNw 【LIVE on &lt;t:1753488608:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg7WrkcJqNw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:432eb7cd-5cd4-5410-a066-6de21dd5a171</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー /KARAOKE  】ホロライブと過ごす夏!みんなに元気を届けた~い!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/uVxA_OECtQo" rel="alternate" type="text/html"/>
+    <published>2025-07-26T00:12:56.000Z</published>
+    <updated>2025-07-25T23:40:11.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uVxA_OECtQo 【LIVE on &lt;t:1753486811:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVxA_OECtQo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9691f4fe-82ec-52a9-b0e5-cc54e6ff7e35</id>
+    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏曲を歌いに~?ニコたんが~、、【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/cnNs-0naDcg" rel="alternate" type="text/html"/>
+    <published>2025-07-25T23:42:24.000Z</published>
+    <updated>2025-07-25T23:20:53.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cnNs-0naDcg 【LIVE on &lt;t:1753485653:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cnNs-0naDcg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -538,20 +580,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:432eb7cd-5cd4-5410-a066-6de21dd5a171</id>
-    <title><![CDATA[【 ＃ホロナツ歌枠リレー /KARAOKE 】ホロライブと過ごす夏！みんなに元気を届けた～い！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/uVxA_OECtQo" rel="alternate" type="text/html"/>
-    <published>2025-07-23T20:21:26.000Z</published>
-    <updated>2025-07-25T23:40:11.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uVxA_OECtQo 【LIVE on &lt;t:1753486811:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVxA_OECtQo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5ae59428-9236-5191-8ab5-117ef8aba3d0</id>
     <title><![CDATA[【#ホロナツ歌枠リレー】夏も！元気に歌う🔅！ KARAOKE【水宮枢／FLOW GLOW】#hololivedev_is]]></title>
     <link href="https://youtu.be/XNE3bMbA_cI" rel="alternate" type="text/html"/>
@@ -563,20 +591,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XNE3bMbA_cI 【LIVE on &lt;t:1753500011:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XNE3bMbA_cI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9691f4fe-82ec-52a9-b0e5-cc54e6ff7e35</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】夏曲を歌いに～？ニコたんが～、、【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/cnNs-0naDcg" rel="alternate" type="text/html"/>
-    <published>2025-07-23T17:50:09.000Z</published>
-    <updated>2025-07-25T23:20:53.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cnNs-0naDcg 【LIVE on &lt;t:1753485653:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cnNs-0naDcg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -605,20 +619,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ohf-kbf6cR4 【LIVE on &lt;t:1753268407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ohf-kbf6cR4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:81debcc0-b66b-587d-bbe2-f480298b9fa8</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー | Summer Relay Karaoke】Good Morning It's Summer!!!!]]></title>
-    <link href="https://youtu.be/xg7WrkcJqNw" rel="alternate" type="text/html"/>
-    <published>2025-07-23T07:39:04.000Z</published>
-    <updated>2025-07-26T00:10:08.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xg7WrkcJqNw 【LIVE on &lt;t:1753488608:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg7WrkcJqNw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
