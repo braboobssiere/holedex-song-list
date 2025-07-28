@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-28T06:06:24.777Z</updated>
+  <updated>2025-07-28T07:06:23.412Z</updated>
+
+  <entry>
+    <id>urn:uuid:30c4f17e-5ca1-51b5-96f1-59e91a31478f</id>
+    <title><![CDATA[【歌枠】夏曲!夏に聴きたいアニソン・J-POP・ボカロ曲!SUMMER SINGING STREAM【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/qex8btUdSnk" rel="alternate" type="text/html"/>
+    <published>2025-07-28T06:31:23.000Z</published>
+    <updated>2025-07-28T06:31:23.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qex8btUdSnk 【LIVE on &lt;t:1753700400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qex8btUdSnk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c74732e4-95f9-5234-8758-097bac520db7</id>
@@ -94,12 +108,12 @@
     <title><![CDATA[【#ホロスタあたなるコラボ】歌枠2人組リレー影山シエン&二代目・赤【12時間リレー】]]></title>
     <link href="https://youtu.be/BmugtkjMCq8" rel="alternate" type="text/html"/>
     <published>2025-07-26T16:47:07.000Z</published>
-    <updated>2025-07-26T16:47:07.000Z</updated>
+    <updated>2025-07-28T07:02:20.000Z</updated>
     <author>
       <name>二代目・赤</name>
       <uri>https://www.youtube.com/channel/UCvy86WpnHG-h7-tgBVQBJYg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BmugtkjMCq8 【LIVE on &lt;t:1753686000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BmugtkjMCq8 【LIVE on &lt;t:1753686140:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BmugtkjMCq8/maxresdefault.jpg"/>
   </entry>
 
@@ -647,20 +661,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CzxOzN7Lbd0 【LIVE on &lt;t:1753445988:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CzxOzN7Lbd0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:18e02498-76fe-59cc-a730-cd00b18a88db</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】初めてみんなと過ごす夏、最高の夏にしようね✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/Xzo5i-fRk7A" rel="alternate" type="text/html"/>
-    <published>2025-07-25T12:23:07.000Z</published>
-    <updated>2025-07-25T12:00:21.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Xzo5i-fRk7A 【LIVE on &lt;t:1753444821:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Xzo5i-fRk7A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
