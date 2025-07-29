@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-29T17:06:20.964Z</updated>
+  <updated>2025-07-29T18:06:25.887Z</updated>
 
   <entry>
     <id>urn:uuid:6e00c81a-fda5-5835-9b55-ae1604729b90</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X2KpK47AacY 【LIVE on &lt;t:1753796406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X2KpK47AacY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f0b382b-86a7-5a83-b310-f49232a1b62c</id>
+    <title><![CDATA[【original anime MV】スキスキdieスキ超ayeシテル【hololive/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/aI769CgHfLc" rel="alternate" type="text/html"/>
+    <published>2025-07-29T09:14:33.000Z</published>
+    <updated>2025-07-29T09:14:33.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aI769CgHfLc 【LIVE on &lt;t:1753876800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aI769CgHfLc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1392,20 +1406,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0cd0fdaf-df00-5e01-809f-4d39af89b026</id>
-    <title><![CDATA[未来カンパネラ(Instrumental)]]></title>
-    <link href="https://youtu.be/SLYsjtZC4gg" rel="alternate" type="text/html"/>
-    <published>2025-07-01T21:59:35.000Z</published>
-    <updated>2025-07-01T21:59:35.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SLYsjtZC4gg 【LIVE on &lt;t:1751407175:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SLYsjtZC4gg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:49750606-155e-58ea-951a-7648b0ecc9b2</id>
     <title><![CDATA[【3D LIVE】AZKi 7th Birthday Live "Sweet Pop Story" 新衣装お披露目&重大発表【#AZKi生誕ライブ2025】]]></title>
     <link href="https://youtu.be/gdQ4eN9wzZg" rel="alternate" type="text/html"/>
@@ -1907,20 +1907,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qc2owX4GFwA 【LIVE on &lt;t:1743332411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qc2owX4GFwA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ffbd3a9d-8d82-5c8a-98dd-63caf0282095</id>
-    <title><![CDATA[【3D Live】KOBO BABY PARTY !!!! GUGU GAGA BABU BABU ???!!! #Kobo3rdAnniversary]]></title>
-    <link href="https://youtu.be/SSuRtcLXA0s" rel="alternate" type="text/html"/>
-    <published>2025-03-27T16:07:11.000Z</published>
-    <updated>2025-03-27T12:58:11.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SSuRtcLXA0s 【LIVE on &lt;t:1743080291:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SSuRtcLXA0s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
