@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-07-30T08:06:21.919Z</updated>
+  <updated>2025-07-30T09:06:24.507Z</updated>
+
+  <entry>
+    <id>urn:uuid:43745720-f0b5-50dd-afb9-21211489ca0d</id>
+    <title><![CDATA[【MV】メメントモリ「lumière」/ Song by 天音かなた【hololive】]]></title>
+    <link href="https://youtu.be/AVAOoP2g2BQ" rel="alternate" type="text/html"/>
+    <published>2025-07-30T09:00:06.000Z</published>
+    <updated>2025-07-30T09:00:06.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AVAOoP2g2BQ 【LIVE on &lt;t:1753866006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AVAOoP2g2BQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9368a24e-0b16-50cf-ab6e-9f91585605b6</id>
+    <title><![CDATA[【 縦型歌枠 】ゆるゆる~と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/pfgyOvyp600" rel="alternate" type="text/html"/>
+    <published>2025-07-30T03:04:16.000Z</published>
+    <updated>2025-07-30T03:04:16.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pfgyOvyp600 【LIVE on &lt;t:1753869600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pfgyOvyp600/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6e00c81a-fda5-5835-9b55-ae1604729b90</id>
@@ -49,7 +77,7 @@
 
   <entry>
     <id>urn:uuid:9f0b382b-86a7-5a83-b310-f49232a1b62c</id>
-    <title><![CDATA[【original anime MV】スキスキdieスキ超ayeシテル【hololive/宝鐘マリン】]]></title>
+    <title><![CDATA[【original anime MV】スキスキDieスキ超Ayeシテル【hololive/宝鐘マリン】]]></title>
     <link href="https://youtu.be/aI769CgHfLc" rel="alternate" type="text/html"/>
     <published>2025-07-29T09:14:33.000Z</published>
     <updated>2025-07-29T09:14:33.000Z</updated>
@@ -73,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=TL1dug7RUF4 【LIVE on &lt;t:1753777309:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TL1dug7RUF4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:43745720-f0b5-50dd-afb9-21211489ca0d</id>
-    <title><![CDATA[【MV】メメントモリ「lumière」/ Song by 天音かなた【hololive】]]></title>
-    <link href="https://youtu.be/AVAOoP2g2BQ" rel="alternate" type="text/html"/>
-    <published>2025-07-29T05:57:49.000Z</published>
-    <updated>2025-07-29T05:57:49.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AVAOoP2g2BQ 【LIVE on &lt;t:1753866000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AVAOoP2g2BQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -661,20 +675,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GcVoE26Ywb8 【LIVE on &lt;t:1753452055:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GcVoE26Ywb8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:41cc2f38-a5d0-5248-ab2d-5d24153ee177</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】夏だ!歌だ!ホロナツパラダイス!SUMMER SINGING STREAM【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/CXM-SZTvUKM" rel="alternate" type="text/html"/>
-    <published>2025-07-25T14:02:13.000Z</published>
-    <updated>2025-07-25T13:39:19.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CXM-SZTvUKM 【LIVE on &lt;t:1753450759:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CXM-SZTvUKM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
