@@ -1,5 +1,25 @@
 [
   {
+    "id": "aI769CgHfLc",
+    "title": "【original anime MV】スキスキDieスキ超Ayeシテル【hololive/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-30T12:00:06.000Z",
+    "available_at": "2025-07-30T12:00:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 1,
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "7cYMezkPIC0",
     "title": "【涼しそうなこと】アイスを食べたり、風鈴を鳴らしたり、扇いだり【月1ASMR】",
     "type": "stream",
@@ -221,28 +241,11 @@
     "topic_id": "Birthday",
     "published_at": "2025-07-29T10:38:37.000Z",
     "available_at": "2025-07-30T10:58:26.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "aI769CgHfLc",
-    "title": "【original anime MV】スキスキDieスキ超Ayeシテル【hololive/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-29T09:14:33.000Z",
-    "available_at": "2025-07-30T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
+    "duration": 3699,
+    "status": "past",
+    "live_tl_count": {
+      "en": 128
+    },
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
