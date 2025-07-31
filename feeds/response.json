@@ -1,32 +1,13 @@
 [
   {
-    "id": "UIkDcq2irSI",
-    "title": "【ASMR】疲れた時は癒しの音が必要なんだよね【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-07-31T12:58:35.000Z",
-    "available_at": "2025-07-31T13:15:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
     "id": "RAKMNxkZdLI",
     "title": "弾き語りで 歌う ぞい【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-07-31T12:04:36.000Z",
     "available_at": "2025-07-31T12:34:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4006,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -6312,6 +6293,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "HeHVngIEoB8",
+    "title": "【 ASMR / KU-100 】そらちゃんと一緒に仲良く癒します💙💜【 #mogunuun / ホロライブ 】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-10-30T14:06:03.000Z",
+    "available_at": "2024-10-30T13:00:09.000Z",
+    "duration": 3680,
+    "status": "past",
+    "live_tl_count": {
+      "en": 104
+    },
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
     }
   },
   {
