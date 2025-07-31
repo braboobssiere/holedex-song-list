@@ -62,13 +62,13 @@
   },
   {
     "id": "JlTQcBG3Klk",
-    "title": "happy two year anniversary  💙",
+    "title": "happy two year anniversary 💙",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-07-30T12:19:26.000Z",
     "available_at": "2025-07-30T23:57:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7826,
+    "status": "past",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -128,6 +128,7 @@
     "available_at": "2025-07-31T01:55:23.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 4,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -194,6 +195,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "lkVjxDyh5nw",
+    "title": "【誕生日カウントダウン!】マリン船長何歳になったの!?【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-29T16:02:23.000Z",
+    "available_at": "2025-07-29T14:01:26.000Z",
+    "duration": 6540,
+    "status": "past",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -325,6 +345,7 @@
     "available_at": "2025-07-30T10:58:26.000Z",
     "duration": 3699,
     "status": "past",
+    "songcount": 10,
     "live_tl_count": {
       "en": 128
     },
@@ -379,22 +400,23 @@
     }
   },
   {
-    "id": "lkVjxDyh5nw",
-    "title": "【誕生日カウントダウン！】マリン船長何歳になったの！？【ホロライブ/宝鐘マリン】",
+    "id": "Nj17tbZP4oA",
+    "title": "【ORIGINAL SONG】Lifetime Showtime 【FUWAMOCO】",
     "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-07-29T05:57:47.000Z",
-    "available_at": "2025-07-29T14:01:26.000Z",
-    "duration": 6545,
-    "status": "past",
+    "topic_id": "Original_Song",
+    "published_at": "2025-07-29T06:51:08.000Z",
+    "available_at": "2025-07-31T03:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
     "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
       "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
+      "suborg": "ihEnglish -Advent-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -2869,27 +2891,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Raora Panthera"
-    }
-  },
-  {
-    "id": "VI-jRvikNq4",
-    "title": "To Be Continued....",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-02T15:04:45.000Z",
-    "available_at": "2025-07-02T15:04:45.000Z",
-    "duration": 230,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCb7BNVpkpJCD1dY_8SVBdyw",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
