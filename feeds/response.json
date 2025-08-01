@@ -7,7 +7,7 @@
     "published_at": "2025-08-01T11:21:04.000Z",
     "available_at": "2025-08-01T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
       "name": "Oga Ch.荒咬オウガ",
@@ -198,6 +198,25 @@
     }
   },
   {
+    "id": "JlTQcBG3Klk",
+    "title": "happy two year anniversary  💙",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-07-31T02:15:10.000Z",
+    "available_at": "2025-07-30T23:57:00.000Z",
+    "duration": 7831,
+    "status": "past",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "pfgyOvyp600",
     "title": "【 縦型歌枠 】ゆるゆる~と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -276,25 +295,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "JlTQcBG3Klk",
-    "title": "happy two year anniversary 💙",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-30T12:19:26.000Z",
-    "available_at": "2025-07-30T23:57:00.000Z",
-    "duration": 7826,
-    "status": "past",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   },
   {
