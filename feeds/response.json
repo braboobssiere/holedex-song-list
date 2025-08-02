@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-08-02T03:33:47.000Z",
     "available_at": "2025-08-02T03:34:03.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 12153,
+    "status": "past",
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -1657,26 +1657,6 @@
     }
   },
   {
-    "id": "2CaSvsdZLv8",
-    "title": "【 #ホロナツ歌枠リレー 】深夜?そんなの関係ねぇ!Singing Stream!【角巻わため/ホロライブ4期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T16:06:37.000Z",
-    "available_at": "2025-07-25T15:39:07.000Z",
-    "duration": 1484,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
     "id": "lVi3Wb7WShU",
     "title": "【3D DEBUT】GIIII~MURIN! × 3D Gigi Murin desu #GIGI3D",
     "type": "stream",
@@ -2940,6 +2920,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "a2kzv_XakH0",
+    "title": "【緊急歌枠】登録者数全部1のゾロ目を見たい👀✨️#shorts 【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-05T03:15:41.000Z",
+    "available_at": "2025-08-02T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
