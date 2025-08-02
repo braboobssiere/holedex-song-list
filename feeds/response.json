@@ -1,13 +1,33 @@
 [
   {
+    "id": "nvcxTU6_88U",
+    "title": "UNARCHIVED KARAOKE the night before the big day...just hanging out!!! surprise guerilla!!! chill",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-02T11:07:18.000Z",
+    "available_at": "2025-08-02T11:28:41.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 4,
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "sYyeIVErpPo",
     "title": "【 歌枠 】久しぶりに歌う…!【百鬼あやめ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-02T09:56:53.000Z",
-    "available_at": "2025-08-02T12:00:00.000Z",
+    "available_at": "2025-08-02T12:00:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -103,6 +123,9 @@
     "available_at": "2025-08-02T11:01:46.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -1614,26 +1637,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kobo Kanaeru"
-    }
-  },
-  {
-    "id": "UKMrtTEz2is",
-    "title": "【 #ホロナツ歌枠リレー | Summer Relay Karaoke】Singing! Playing?! LET'S HAVE FUN!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T23:02:29.000Z",
-    "available_at": "2025-07-25T22:42:18.000Z",
-    "duration": 1107,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
     }
   },
   {
