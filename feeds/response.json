@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-08-02T11:07:18.000Z",
     "available_at": "2025-08-02T11:28:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5838,
+    "status": "past",
     "songcount": 18,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
@@ -29,7 +29,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 65
+      "en": 145
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -178,6 +178,25 @@
     }
   },
   {
+    "id": "pz5HmD9qKXo",
+    "title": "HOLOSTARS EN 3D LIVE IS HAPPENING! Let's talk about it #HSEverglow【SINGING & CHILLING】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-01T03:39:03.000Z",
+    "available_at": "2025-08-01T02:03:22.000Z",
+    "duration": 4799,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "_WCpTUXv9NI",
     "title": "【#さくらみこ7周年】告知アリ‼ 7周年凸待ちするにぇぇぇぇえええええええぇえ‼【ホロライブ/さくらみこ】",
     "type": "stream",
@@ -194,25 +213,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "pz5HmD9qKXo",
-    "title": "HOLOSTARS EN 3D LIVE IS HAPPENING! Let's talk about it #HSEverglow【SINGING & CHILLING】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-31T17:37:00.000Z",
-    "available_at": "2025-08-01T02:03:22.000Z",
-    "duration": 4794,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
