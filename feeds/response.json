@@ -8,7 +8,7 @@
     "available_at": "2025-08-02T11:28:41.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 4,
+    "songcount": 18,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -28,6 +28,9 @@
     "available_at": "2025-08-02T12:00:58.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 65
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -44,9 +47,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-02T07:13:20.000Z",
-    "available_at": "2025-08-02T13:00:00.000Z",
+    "available_at": "2025-08-02T13:03:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -116,13 +119,13 @@
   },
   {
     "id": "ZL9WK6WjvQs",
-    "title": "【#さくらみこ7周年】分かり手王は誰だ⁉ さくらみこ分かり手王決定戦!!!!!!!👑🌸【 7周年記念企画Week】",
+    "title": "【#さくらみこ7周年】分かり手王は誰だ⁉ さくらみこ分かり手王決定戦！！！！！！！👑🌸【 7周年記念企画Week】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-01T15:48:39.000Z",
     "available_at": "2025-08-02T11:01:46.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4158,
+    "status": "past",
     "live_tl_count": {
       "en": 7
     },
