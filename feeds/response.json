@@ -1,5 +1,24 @@
 [
   {
+    "id": "_GcNpYYTi2c",
+    "title": "【歌】ずっと、おれ【枠】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-03T16:15:04.000Z",
+    "available_at": "2025-08-04T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "dKdg971CMVc",
     "title": "【企画】誰からのプレゼント⁉ホロメンからのプレゼントを当てろ！！！！🎁【7周年記念企画Week】",
     "type": "stream",
@@ -98,6 +117,28 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "ZL9WK6WjvQs",
+    "title": "【#さくらみこ7周年】分かり手王は誰だ⁉ さくらみこ分かり手王決定戦!!!!!!!👑🌸【 7周年記念企画Week】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-02T12:15:43.000Z",
+    "available_at": "2025-08-02T11:01:46.000Z",
+    "duration": 4180,
+    "status": "past",
+    "live_tl_count": {
+      "en": 7
+    },
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
     }
   },
   {
@@ -254,28 +295,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "ZL9WK6WjvQs",
-    "title": "【#さくらみこ7周年】分かり手王は誰だ⁉ さくらみこ分かり手王決定戦！！！！！！！👑🌸【 7周年記念企画Week】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-08-01T15:48:39.000Z",
-    "available_at": "2025-08-02T11:01:46.000Z",
-    "duration": 4158,
-    "status": "past",
-    "live_tl_count": {
-      "en": 7
-    },
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
     }
   },
   {
@@ -1738,26 +1757,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "cnNs-0naDcg",
-    "title": "【 #ホロナツ歌枠リレー 】夏曲を歌いに~?ニコたんが~、、【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T23:42:24.000Z",
-    "available_at": "2025-07-25T23:20:53.000Z",
-    "duration": 1158,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
