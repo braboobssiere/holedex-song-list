@@ -1,5 +1,24 @@
 [
   {
+    "id": "_GcNpYYTi2c",
+    "title": "【】うたうぞ・・・・・・【】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-03T16:15:04.000Z",
+    "available_at": "2025-08-04T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "dKdg971CMVc",
     "title": "【企画】誰からのプレゼント⁉ホロメンからのプレゼントを当てろ！！！！🎁【7周年記念企画Week】",
     "type": "stream",
@@ -1719,26 +1738,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "cnNs-0naDcg",
-    "title": "【 #ホロナツ歌枠リレー 】夏曲を歌いに~?ニコたんが~、、【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-25T23:42:24.000Z",
-    "available_at": "2025-07-25T23:20:53.000Z",
-    "duration": 1158,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
