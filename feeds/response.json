@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-03T06:29:22.000Z",
-    "available_at": "2025-08-03T12:00:00.000Z",
+    "available_at": "2025-08-03T12:03:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -234,6 +234,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "q0Uhp8IN5-w",
+    "title": "【 3D SHOWCASE 】I'll Be Your Hero Too! ~ 💄#ERB3D #holojustice",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-02T01:08:01.000Z",
+    "available_at": "2025-08-01T23:57:43.000Z",
+    "duration": 3989,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -665,8 +685,8 @@
     "topic_id": "asmr",
     "published_at": "2025-07-30T08:18:20.000Z",
     "available_at": "2025-08-03T10:59:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2492,
+    "status": "past",
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -873,26 +893,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "q0Uhp8IN5-w",
-    "title": "【 3D SHOWCASE 】I'll Be Your Hero Too! ~ 💄#ERB3D #holojustice",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-07-28T14:29:13.000Z",
-    "available_at": "2025-08-01T23:57:43.000Z",
-    "duration": 3981,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
