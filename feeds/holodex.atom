@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-03T20:06:33.651Z</updated>
+  <updated>2025-08-03T21:06:24.920Z</updated>
 
   <entry>
     <id>urn:uuid:df1ac389-a261-504d-8c4d-5ca4ed15906b</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f790f612-07e9-5bee-8501-0fecbe4f174e</id>
+    <title><![CDATA[【夏歌枠】20分じゃ足りなかった・・!夏らしい歌をうたう!!!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/QNTgtCXRaJU" rel="alternate" type="text/html"/>
+    <published>2025-08-02T10:08:16.000Z</published>
+    <updated>2025-08-02T08:00:21.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QNTgtCXRaJU 【LIVE on &lt;t:1754121621:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QNTgtCXRaJU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:a97a9f22-6ce5-56e1-b406-cda44358b565</id>
     <title><![CDATA[【 歌枠 】久しぶりに歌う…！【百鬼あやめ/ホロライブ】]]></title>
     <link href="https://youtu.be/sYyeIVErpPo" rel="alternate" type="text/html"/>
@@ -116,34 +130,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qw9dUs4aYew 【LIVE on &lt;t:1754105643:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qw9dUs4aYew/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:929071fe-1370-5da5-ac64-645fc71b664e</id>
-    <title><![CDATA[【UNARCHIVED KARAOKE】Super short mini summer karaoke!]]></title>
-    <link href="https://youtu.be/0I1Q5wprffo" rel="alternate" type="text/html"/>
-    <published>2025-08-02T05:37:21.000Z</published>
-    <updated>2025-08-02T09:02:59.000Z</updated>
-    <author>
-      <name>Cecilia Immergreen Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0I1Q5wprffo 【LIVE on &lt;t:1754125379:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0I1Q5wprffo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f790f612-07e9-5bee-8501-0fecbe4f174e</id>
-    <title><![CDATA[【夏歌枠】２０分じゃ足りなかった・・！夏らしい歌をうたう！！！【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/QNTgtCXRaJU" rel="alternate" type="text/html"/>
-    <published>2025-08-02T05:18:39.000Z</published>
-    <updated>2025-08-02T08:00:21.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QNTgtCXRaJU 【LIVE on &lt;t:1754121621:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QNTgtCXRaJU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
