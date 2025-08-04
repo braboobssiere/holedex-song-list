@@ -1,13 +1,13 @@
 [
   {
     "id": "FuXiow-eVF8",
-    "title": "【 歌枠 】このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "title": "【 歌枠 】アニソン多め~このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-04T08:02:59.000Z",
-    "available_at": "2025-08-04T11:00:00.000Z",
+    "available_at": "2025-08-04T11:00:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -45,7 +45,7 @@
     "published_at": "2025-08-04T04:50:50.000Z",
     "available_at": "2025-08-04T13:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "missing",
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -73,6 +73,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "5Zqmg7LC43M",
+    "title": "【GUERILLA UNARCHIVED KARAOKE】join together and BAU BAU the night away ✨️🐾【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-04T01:27:05.000Z",
+    "available_at": "2025-08-04T05:55:15.000Z",
+    "duration": 2282,
+    "status": "past",
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -1792,26 +1811,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "LSvci_GdHhE",
-    "title": "≪#ホロナツ歌枠リレー≫ WALKIN' ON SUNSHINE!! HOLOSUMMER KARAOKE!!!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-26T01:46:04.000Z",
-    "available_at": "2025-07-26T01:18:23.000Z",
-    "duration": 1401,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
