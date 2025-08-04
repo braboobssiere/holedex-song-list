@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-04T13:06:32.900Z</updated>
+  <updated>2025-08-04T14:06:31.608Z</updated>
 
   <entry>
     <id>urn:uuid:43d5d4dd-c9bb-5ca4-810b-45c4caf3f918</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=t7lNu-p_ANs 【LIVE on &lt;t:1754310906:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/t7lNu-p_ANs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1685126a-be83-592c-a01c-7b5b9b130801</id>
+    <title><![CDATA[ぐれいてすと]]></title>
+    <link href="https://youtu.be/PHGOpLwYGtE" rel="alternate" type="text/html"/>
+    <published>2025-08-04T11:55:06.000Z</published>
+    <updated>2025-08-04T11:55:06.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PHGOpLwYGtE 【LIVE on &lt;t:1754308506:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PHGOpLwYGtE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1348,20 +1362,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=S3MwX750Jug 【LIVE on &lt;t:1752055571:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S3MwX750Jug/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8c5491ed-05f9-583b-b4b6-8b3a7b1f584b</id>
-    <title><![CDATA[LOAD]]></title>
-    <link href="https://youtu.be/L0AfbFuoH20" rel="alternate" type="text/html"/>
-    <published>2025-07-08T15:04:10.000Z</published>
-    <updated>2025-07-08T15:04:10.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=L0AfbFuoH20 【LIVE on &lt;t:1751987050:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L0AfbFuoH20/maxresdefault.jpg"/>
   </entry>
 
   <entry>
