@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-04T22:06:22.476Z</updated>
+  <updated>2025-08-04T23:06:29.418Z</updated>
+
+  <entry>
+    <id>urn:uuid:42f4d2dc-a427-538d-92c5-a2144d85cfb3</id>
+    <title><![CDATA[【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/6TQEyFUOX1Y" rel="alternate" type="text/html"/>
+    <published>2025-08-04T22:51:35.000Z</published>
+    <updated>2025-08-04T23:00:07.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6TQEyFUOX1Y 【LIVE on &lt;t:1754348407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6TQEyFUOX1Y/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:767490f1-41dc-5de3-9b96-86de9a00f471</id>
@@ -115,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_GcNpYYTi2c 【LIVE on &lt;t:1754294503:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_GcNpYYTi2c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:888c7b6a-6b5a-5b04-9269-2f590937ef0f</id>
+    <title><![CDATA[【ご褒美】待望のネリッサお姉様オフコラボ🤓汚い言葉を言ってもらう♡ ASMR KU100 withFUWAMOCO 【ラプラス・ダークネス/ホロライブ】]]></title>
+    <link href="https://youtu.be/_1ffz3ADSNI" rel="alternate" type="text/html"/>
+    <published>2025-08-03T11:44:23.000Z</published>
+    <updated>2025-08-03T10:59:13.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_1ffz3ADSNI 【LIVE on &lt;t:1754218753:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_1ffz3ADSNI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -438,20 +466,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AVAOoP2g2BQ 【LIVE on &lt;t:1753866006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AVAOoP2g2BQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:888c7b6a-6b5a-5b04-9269-2f590937ef0f</id>
-    <title><![CDATA[【ご褒美】待望のネリッサお姉様オフコラボ🤓汚い言葉を言ってもらう♡ ASMR KU100 withFUWAMOCO 【ラプラス・ダークネス/ホロライブ】]]></title>
-    <link href="https://youtu.be/_1ffz3ADSNI" rel="alternate" type="text/html"/>
-    <published>2025-07-30T08:18:20.000Z</published>
-    <updated>2025-08-03T10:59:13.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_1ffz3ADSNI 【LIVE on &lt;t:1754218753:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_1ffz3ADSNI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -872,20 +886,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rZurtV2PJ78 【LIVE on &lt;t:1753496427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rZurtV2PJ78/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7f28dca4-b5aa-5b68-9536-b84cb81c5914</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー | Summer Relay Karaoke】Hot Singing🌺]]></title>
-    <link href="https://youtu.be/St6kCyIF_ag" rel="alternate" type="text/html"/>
-    <published>2025-07-26T02:23:10.000Z</published>
-    <updated>2025-07-26T01:57:50.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=St6kCyIF_ag 【LIVE on &lt;t:1753495070:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/St6kCyIF_ag/maxresdefault.jpg"/>
   </entry>
 
   <entry>
