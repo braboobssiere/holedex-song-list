@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-04T03:06:21.911Z</updated>
+  <updated>2025-08-04T04:06:24.875Z</updated>
+
+  <entry>
+    <id>urn:uuid:6070c69b-d79e-525d-831b-17279f53db46</id>
+    <title><![CDATA[【 洋楽歌枠 】英語の歌をふなふな歌うのら~~!!!🎵 ~ KARAOKE #shorts【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/vTy0wYvIGxs" rel="alternate" type="text/html"/>
+    <published>2025-08-04T02:51:38.000Z</published>
+    <updated>2025-08-04T02:51:38.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vTy0wYvIGxs 【LIVE on &lt;t:1754308800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vTy0wYvIGxs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:04c546fe-1ca4-5d2e-964f-ffe8cd8f7e01</id>
@@ -858,20 +872,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xg7WrkcJqNw 【LIVE on &lt;t:1753488608:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xg7WrkcJqNw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:432eb7cd-5cd4-5410-a066-6de21dd5a171</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー /KARAOKE  】ホロライブと過ごす夏!みんなに元気を届けた~い!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/uVxA_OECtQo" rel="alternate" type="text/html"/>
-    <published>2025-07-26T00:12:56.000Z</published>
-    <updated>2025-07-25T23:40:11.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uVxA_OECtQo 【LIVE on &lt;t:1753486811:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVxA_OECtQo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
