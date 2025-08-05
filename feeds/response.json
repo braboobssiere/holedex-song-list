@@ -1,5 +1,24 @@
 [
   {
+    "id": "U6Cu_n3e8sA",
+    "title": "KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-05T22:44:09.000Z",
+    "available_at": "2025-08-05T22:44:27.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "h1A76PvsqD4",
     "title": "【MV】Genesis【The Story of Advent - Chapter 1】",
     "type": "stream",
@@ -121,6 +140,45 @@
     }
   },
   {
+    "id": "_U7m48Qq2qU",
+    "title": "【歌枠】元気な曲多めで夏ぶっとばす!!!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-04T12:20:51.000Z",
+    "available_at": "2025-08-04T09:02:14.000Z",
+    "duration": 10812,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "FuXiow-eVF8",
+    "title": "【 歌枠 】アニソン多め~このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-04T11:58:32.000Z",
+    "available_at": "2025-08-04T11:00:15.000Z",
+    "duration": 3293,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "PHGOpLwYGtE",
     "title": "ぐれいてすと",
     "type": "stream",
@@ -157,45 +215,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "FuXiow-eVF8",
-    "title": "【 歌枠 】アニソン多め～このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-04T08:02:59.000Z",
-    "available_at": "2025-08-04T11:00:15.000Z",
-    "duration": 3317,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "_U7m48Qq2qU",
-    "title": "【歌枠】元気な曲多めで夏ぶっとばす！！！【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-04T06:40:03.000Z",
-    "available_at": "2025-08-04T09:02:14.000Z",
-    "duration": 10807,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -1894,26 +1913,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "rZurtV2PJ78",
-    "title": "【#ホロナツ歌枠リレー】夏の恒例✨お昼にお歌を歌います!【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-26T02:43:22.000Z",
-    "available_at": "2025-07-26T02:20:27.000Z",
-    "duration": 1230,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {

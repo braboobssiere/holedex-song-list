@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-05T22:06:24.943Z</updated>
+  <updated>2025-08-05T23:06:23.890Z</updated>
+
+  <entry>
+    <id>urn:uuid:05cd50ac-d19f-5d6f-8901-0bb0259702bf</id>
+    <title><![CDATA[KARAOKE]]></title>
+    <link href="https://youtu.be/U6Cu_n3e8sA" rel="alternate" type="text/html"/>
+    <published>2025-08-05T22:44:09.000Z</published>
+    <updated>2025-08-05T22:44:27.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U6Cu_n3e8sA 【LIVE on &lt;t:1754433867:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U6Cu_n3e8sA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:478de171-d73f-55bc-b868-b3f19ca7becc</id>
@@ -76,6 +90,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4f2c1635-031d-571f-9acf-de5c9d3ef1f7</id>
+    <title><![CDATA[【歌枠】元気な曲多めで夏ぶっとばす!!!【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/_U7m48Qq2qU" rel="alternate" type="text/html"/>
+    <published>2025-08-04T12:20:51.000Z</published>
+    <updated>2025-08-04T09:02:14.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_U7m48Qq2qU 【LIVE on &lt;t:1754298134:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_U7m48Qq2qU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1dd1c073-9bc3-51ef-b0ed-73106939d2c3</id>
+    <title><![CDATA[【 歌枠 】アニソン多め~このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/FuXiow-eVF8" rel="alternate" type="text/html"/>
+    <published>2025-08-04T11:58:32.000Z</published>
+    <updated>2025-08-04T11:00:15.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FuXiow-eVF8 【LIVE on &lt;t:1754305215:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FuXiow-eVF8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1685126a-be83-592c-a01c-7b5b9b130801</id>
     <title><![CDATA[ぐれいてすと]]></title>
     <link href="https://youtu.be/PHGOpLwYGtE" rel="alternate" type="text/html"/>
@@ -101,34 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_GcNpYYTi2c 【LIVE on &lt;t:1754294503:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_GcNpYYTi2c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1dd1c073-9bc3-51ef-b0ed-73106939d2c3</id>
-    <title><![CDATA[【 歌枠 】アニソン多め～このあと上がる動画を待つ歌枠ｿﾜｿﾜ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/FuXiow-eVF8" rel="alternate" type="text/html"/>
-    <published>2025-08-04T08:02:59.000Z</published>
-    <updated>2025-08-04T11:00:15.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FuXiow-eVF8 【LIVE on &lt;t:1754305215:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FuXiow-eVF8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4f2c1635-031d-571f-9acf-de5c9d3ef1f7</id>
-    <title><![CDATA[【歌枠】元気な曲多めで夏ぶっとばす！！！【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/_U7m48Qq2qU" rel="alternate" type="text/html"/>
-    <published>2025-08-04T06:40:03.000Z</published>
-    <updated>2025-08-04T09:02:14.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_U7m48Qq2qU 【LIVE on &lt;t:1754298134:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_U7m48Qq2qU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -900,20 +914,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=12A9U3kl4xw 【LIVE on &lt;t:1753497619:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/12A9U3kl4xw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c94c7afd-fd6b-520a-8cac-6fbedc08cf2e</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】夏の恒例✨お昼にお歌を歌います!【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/rZurtV2PJ78" rel="alternate" type="text/html"/>
-    <published>2025-07-26T02:43:22.000Z</published>
-    <updated>2025-07-26T02:20:27.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=rZurtV2PJ78 【LIVE on &lt;t:1753496427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rZurtV2PJ78/maxresdefault.jpg"/>
   </entry>
 
   <entry>
