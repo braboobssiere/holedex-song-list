@@ -590,6 +590,7 @@
     "available_at": "2025-08-02T03:34:03.000Z",
     "duration": 12165,
     "status": "past",
+    "songcount": 28,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -1537,28 +1538,6 @@
     }
   },
   {
-    "id": "0Dw_1FdFUwY",
-    "title": "【Freetalk】真夜中の滅びの歌枠📣 【ホロライブ/癒月ちょこ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-26T16:17:51.000Z",
-    "available_at": "2025-07-26T16:25:42.000Z",
-    "duration": 0,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 30
-    },
-    "channel": {
-      "id": "UC1suqwovbL1kzsoaZgFZLKg",
-      "name": "Choco Ch. 癒月ちょこ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yuzuki Choco"
-    }
-  },
-  {
     "id": "YddrL9mYKjA",
     "title": "【#holonatsuparadise 】メインテーマ『藍染サマータイム!!』MV",
     "type": "stream",
@@ -1962,6 +1941,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "rZurtV2PJ78",
+    "title": "【#ホロナツ歌枠リレー】夏の恒例✨お昼にお歌を歌います!【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-26T02:43:22.000Z",
+    "available_at": "2025-07-26T02:20:27.000Z",
+    "duration": 1230,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
     }
   },
   {
