@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-06T01:06:21.349Z</updated>
+  <updated>2025-08-06T02:06:25.247Z</updated>
 
   <entry>
     <id>urn:uuid:05cd50ac-d19f-5d6f-8901-0bb0259702bf</id>
@@ -17,6 +17,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U6Cu_n3e8sA 【LIVE on &lt;t:1754433867:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U6Cu_n3e8sA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0ba14c41-5cb7-5a65-9064-d4f5a9c509cc</id>
+    <title><![CDATA[Genesis]]></title>
+    <link href="https://youtu.be/PfB4GtGtdlQ" rel="alternate" type="text/html"/>
+    <published>2025-08-05T15:03:36.000Z</published>
+    <updated>2025-08-05T15:03:36.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PfB4GtGtdlQ 【LIVE on &lt;t:1754406216:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PfB4GtGtdlQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d6ec43c-5a75-53ea-806f-cd79eae357e9</id>
+    <title><![CDATA[Genesis(Instrumental)]]></title>
+    <link href="https://youtu.be/bn_k-xB59kU" rel="alternate" type="text/html"/>
+    <published>2025-08-05T15:01:45.000Z</published>
+    <updated>2025-08-05T15:01:45.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bn_k-xB59kU 【LIVE on &lt;t:1754406105:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bn_k-xB59kU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1320,34 +1348,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Pc6YLWgS0sQ 【LIVE on &lt;t:1752159787:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Pc6YLWgS0sQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d6b82d3e-5c57-5d54-90b6-a2c97e971445</id>
-    <title><![CDATA[ミッドサマーシトラス (Instrumental)]]></title>
-    <link href="https://youtu.be/jFlFnOLnWjc" rel="alternate" type="text/html"/>
-    <published>2025-07-10T15:03:00.000Z</published>
-    <updated>2025-07-10T15:03:00.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jFlFnOLnWjc 【LIVE on &lt;t:1752159780:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jFlFnOLnWjc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:39922520-c4fd-53d1-b49f-fdd1049d3e17</id>
-    <title><![CDATA[ReGLOSS 'ミッドサマーシトラス' OFFICIAL MV]]></title>
-    <link href="https://youtu.be/MQr9XHYCm5A" rel="alternate" type="text/html"/>
-    <published>2025-07-10T09:00:06.000Z</published>
-    <updated>2025-07-10T09:00:06.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MQr9XHYCm5A 【LIVE on &lt;t:1752138006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MQr9XHYCm5A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
