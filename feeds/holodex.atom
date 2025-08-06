@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-06T13:06:32.640Z</updated>
+  <updated>2025-08-06T14:06:31.333Z</updated>
 
   <entry>
     <id>urn:uuid:9de1d23a-f0d8-5382-a6ea-682143d4b909</id>
@@ -18,6 +18,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=--6Gh3XBoIA 【LIVE on &lt;t:1754445581:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/--6Gh3XBoIA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6716193f-148c-561f-a3c5-4c6dfbd98dc0</id>
+    <title><![CDATA[ついにきた!100万人様耐久!!!!【轟はじめ/ReGLOSS】 #轟はじめ100万人]]></title>
+    <link href="https://youtu.be/VnkJUIgOyL4" rel="alternate" type="text/html"/>
+    <published>2025-08-06T01:34:33.000Z</published>
+    <updated>2025-08-06T13:00:17.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VnkJUIgOyL4 【LIVE on &lt;t:1754485217:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VnkJUIgOyL4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -60,6 +74,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h1A76PvsqD4 【LIVE on &lt;t:1754363286:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h1A76PvsqD4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f0877835-22b6-5fae-9462-541bade49d98</id>
+    <title><![CDATA[ADVENT 2ND ANNIVERSARY + BIG ANNOUNCEMENT | OFF-COLLAB KARAOKE #holoadvent]]></title>
+    <link href="https://youtu.be/dcis0Y2RjJA" rel="alternate" type="text/html"/>
+    <published>2025-08-05T03:04:39.000Z</published>
+    <updated>2025-08-05T01:55:12.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dcis0Y2RjJA 【LIVE on &lt;t:1754358912:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dcis0Y2RjJA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -383,20 +411,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KMJ6Ne6dNJ8 【LIVE on &lt;t:1753974029:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KMJ6Ne6dNJ8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f0877835-22b6-5fae-9462-541bade49d98</id>
-    <title><![CDATA[ADVENT 2ND ANNIVERSARY + BIG ANNOUNCEMENT | OFF-COLLAB KARAOKE #holoadvent]]></title>
-    <link href="https://youtu.be/dcis0Y2RjJA" rel="alternate" type="text/html"/>
-    <published>2025-07-31T11:33:24.000Z</published>
-    <updated>2025-08-05T01:55:12.000Z</updated>
-    <author>
-      <name>Nerissa Ravencroft Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dcis0Y2RjJA 【LIVE on &lt;t:1754358912:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dcis0Y2RjJA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -929,20 +943,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=12A9U3kl4xw 【LIVE on &lt;t:1753497619:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/12A9U3kl4xw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c94c7afd-fd6b-520a-8cac-6fbedc08cf2e</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】夏の恒例✨お昼にお歌を歌います!【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/rZurtV2PJ78" rel="alternate" type="text/html"/>
-    <published>2025-07-26T02:43:22.000Z</published>
-    <updated>2025-07-26T02:20:27.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=rZurtV2PJ78 【LIVE on &lt;t:1753496427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rZurtV2PJ78/maxresdefault.jpg"/>
   </entry>
 
   <entry>
