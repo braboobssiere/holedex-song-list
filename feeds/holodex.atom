@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-07T03:06:22.993Z</updated>
+  <updated>2025-08-07T04:06:22.392Z</updated>
+
+  <entry>
+    <id>urn:uuid:85b30188-f3fc-50a3-b072-36789f0a7515</id>
+    <title><![CDATA[【Unarchived Karaoke】Yay Treating Myself]]></title>
+    <link href="https://youtu.be/GmInOhnD2Lg" rel="alternate" type="text/html"/>
+    <published>2025-08-07T04:03:36.000Z</published>
+    <updated>2025-08-07T04:03:36.000Z</updated>
+    <author>
+      <name>Ouro Kronii Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GmInOhnD2Lg 【LIVE on &lt;t:1754542800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GmInOhnD2Lg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d53cf325-848a-5848-a1d2-093bfab5deeb</id>
@@ -999,20 +1013,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=81KjnEhRD60 【LIVE on &lt;t:1753498787:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/81KjnEhRD60/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2b5b16eb-1b7e-547c-9315-a62d471b499b</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】11時40分!お昼に夏ソングだあああああ🌞✨【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/12A9U3kl4xw" rel="alternate" type="text/html"/>
-    <published>2025-07-26T03:01:52.000Z</published>
-    <updated>2025-07-26T02:40:19.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=12A9U3kl4xw 【LIVE on &lt;t:1753497619:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/12A9U3kl4xw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
