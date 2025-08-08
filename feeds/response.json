@@ -1,13 +1,13 @@
 [
   {
     "id": "oMfW-zaxdYI",
-    "title": "【※No archive】BOY'S KARAOKE【】",
+    "title": "【※No archive】BOY’S KARAOKE【】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-07T21:04:04.000Z",
     "available_at": "2025-08-07T22:19:54.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6322,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -300,6 +300,26 @@
     }
   },
   {
+    "id": "VnkJUIgOyL4",
+    "title": "ついにきた!100万人様耐久!!!!【轟はじめ/ReGLOSS】 #轟はじめ100万人",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-06T14:09:57.000Z",
+    "available_at": "2025-08-06T13:00:17.000Z",
+    "duration": 3915,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B1jxecjdxwcqWVM7oRRjaE_TBkZ73p_UVn1Ouzx_6w5gJfowkiSwUoJtBIhsoRWQSERZ2gIb=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "XQ4vTvuaI6s",
     "title": "【６周年カウントダウン】ありがとう【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -336,26 +356,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "VnkJUIgOyL4",
-    "title": "ついにきた！100万人様耐久！！！！【轟はじめ/ReGLOSS】 #轟はじめ100万人",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-06T01:34:33.000Z",
-    "available_at": "2025-08-06T13:00:17.000Z",
-    "duration": 3917,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B1jxecjdxwcqWVM7oRRjaE_TBkZ73p_UVn1Ouzx_6w5gJfowkiSwUoJtBIhsoRWQSERZ2gIb=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -2367,7 +2367,7 @@
     "available_at": "2025-08-07T13:58:18.000Z",
     "duration": 7126,
     "status": "past",
-    "songcount": 5,
+    "songcount": 14,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
