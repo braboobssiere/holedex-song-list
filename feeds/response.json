@@ -21,7 +21,7 @@
   },
   {
     "id": "G_qAHWPsqws",
-    "title": "【50万人耐久】50万人いくまでうたうぞ~!リミットは3時間!【虎金妃笑虎】",
+    "title": "【50万人耐久】５０万人いくまでうたうぞ～！リミットは３時間！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-09T01:00:40.000Z",
@@ -324,8 +324,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-08-07T06:23:51.000Z",
     "available_at": "2025-08-09T02:05:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4841,
+    "status": "past",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -1852,6 +1852,7 @@
     "available_at": "2025-08-08T14:04:03.000Z",
     "duration": 10325,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -2367,26 +2368,6 @@
     }
   },
   {
-    "id": "plQt-seA_8w",
-    "title": "【 #ホロナツ歌枠リレー 】夏担当といえばまつりちゃんでしょ!!【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-26T05:33:43.000Z",
-    "available_at": "2025-07-26T05:00:18.000Z",
-    "duration": 1819,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "dV1CmBlhYGg",
     "title": "【🗣️ 3RD ANNIVERSARY CHATTING 🗣️】 Sharing Memories and a Meal w/ @AxelSyrios",
     "type": "stream",
@@ -2786,6 +2767,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
+    }
+  },
+  {
+    "id": "PVUvwAoyv00",
+    "title": "【歌枠】ぷちゲリラ!帰宅後やるっぺよー!【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-07-19T04:29:27.000Z",
+    "available_at": "2025-08-09T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
     }
   },
   {
