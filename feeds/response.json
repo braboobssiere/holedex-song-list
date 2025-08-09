@@ -128,6 +128,7 @@
     "available_at": "2025-08-09T01:00:59.000Z",
     "duration": 7074,
     "status": "past",
+    "songcount": 2,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -1096,6 +1097,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
+    }
+  },
+  {
+    "id": "vTsOdumJEOY",
+    "title": "【3DLIVE】夏のホラー満載‼️#赤井はあと爆誕祭2025 👻【ゲスト多数&告知あり◎】【ホロライブ/赤井はあと】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-08-03T08:07:09.000Z",
+    "available_at": "2025-08-10T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -4365,26 +4385,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "A1Cs9A8JhYs",
-    "title": "【3D LIVE】インターネット・ガール・バースデー 【#しぐれうい生誕2025】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-05-30T13:06:00.000Z",
-    "available_at": "2025-05-30T12:00:08.000Z",
-    "duration": 3478,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCt30jJgChL8qeT9VPadidSw",
-      "name": "しぐれうい",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_m6xQ9ez0I8lnwswHqAns9ZRPsaCCutfzu6eUbM7pwzqsA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shigure Ui"
     }
   },
   {
