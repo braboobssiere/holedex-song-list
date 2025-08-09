@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-09T13:06:30.804Z</updated>
+  <updated>2025-08-09T14:06:23.057Z</updated>
+
+  <entry>
+    <id>urn:uuid:736d30eb-bb77-5411-bd7f-60956c7024f2</id>
+    <title><![CDATA[≪UNARCHIVED KARAOKE OFF-COLLAB≫ Brace yourselves.]]></title>
+    <link href="https://youtu.be/chLnwX7TZV8" rel="alternate" type="text/html"/>
+    <published>2025-08-09T13:58:29.000Z</published>
+    <updated>2025-08-09T13:58:29.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=chLnwX7TZV8 【LIVE on &lt;t:1754794800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/chLnwX7TZV8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:98e1c1f2-e00b-50c0-97d7-a8208c087d1a</id>
@@ -1069,20 +1083,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7bZP4Xbf3ck 【LIVE on &lt;t:1753510820:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bZP4Xbf3ck/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c392a752-c05f-5d37-bf80-ff3e0345a66f</id>
-    <title><![CDATA[【 #ホロナツ歌枠リレー 】ホロメンと繋ぐ夏の歌リレー🎤🍍 / HOLONATSU SUMMER KARAOKE 【天音かなた/ホロライブ】]]></title>
-    <link href="https://youtu.be/scde6Qo3NK0" rel="alternate" type="text/html"/>
-    <published>2025-07-26T06:23:01.000Z</published>
-    <updated>2025-07-26T06:00:24.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=scde6Qo3NK0 【LIVE on &lt;t:1753509624:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/scde6Qo3NK0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
