@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-09T02:07:07.097Z</updated>
+  <updated>2025-08-09T03:06:45.995Z</updated>
 
   <entry>
     <id>urn:uuid:ad27ac53-9737-5d47-a0e9-884fbf635c6a</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oMfW-zaxdYI 【LIVE on &lt;t:1754605194:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oMfW-zaxdYI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bb36d178-1274-5f95-bc39-445f819835cc</id>
+    <title><![CDATA[【縦型雑談歌枠】深夜にしっとり歌います✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/SvY4_MMfBdw" rel="alternate" type="text/html"/>
+    <published>2025-08-07T16:14:08.000Z</published>
+    <updated>2025-08-07T13:58:18.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SvY4_MMfBdw 【LIVE on &lt;t:1754575098:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SvY4_MMfBdw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1139,20 +1153,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bb36d178-1274-5f95-bc39-445f819835cc</id>
-    <title><![CDATA[【縦型雑談歌枠】深夜にしっとり歌います✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/SvY4_MMfBdw" rel="alternate" type="text/html"/>
-    <published>2025-07-22T16:10:46.000Z</published>
-    <updated>2025-08-07T13:58:18.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SvY4_MMfBdw 【LIVE on &lt;t:1754575098:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SvY4_MMfBdw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
