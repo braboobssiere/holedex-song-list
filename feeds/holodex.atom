@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-09T18:06:21.013Z</updated>
+  <updated>2025-08-09T19:06:25.174Z</updated>
 
   <entry>
     <id>urn:uuid:5057bf39-4827-5c2d-84fc-e831b69f6a40</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:42116871-2b26-5d7d-8171-67a869b1293e</id>
+    <title><![CDATA[??? / 赤井はあと (official)]]></title>
+    <link href="https://youtu.be/sPVnvaBjQI0" rel="alternate" type="text/html"/>
+    <published>2025-08-09T09:48:45.000Z</published>
+    <updated>2025-08-09T09:48:45.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sPVnvaBjQI0 【LIVE on &lt;t:1754830800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sPVnvaBjQI0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:98e1c1f2-e00b-50c0-97d7-a8208c087d1a</id>
     <title><![CDATA[【 縦型歌枠 】ゆったりしゃべったり歌ったりします【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/z1bLSEcoo7E" rel="alternate" type="text/html"/>
@@ -59,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=z1bLSEcoo7E 【LIVE on &lt;t:1754733769:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z1bLSEcoo7E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c87f78e2-7fd2-5f92-83a7-b01c36ed496c</id>
+    <title><![CDATA[【ASMR/囁き】AZKi様の罵倒ASMR【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/DTRYpCDJKag" rel="alternate" type="text/html"/>
+    <published>2025-08-09T07:42:28.000Z</published>
+    <updated>2025-08-09T07:42:28.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DTRYpCDJKag 【LIVE on &lt;t:1754830800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DTRYpCDJKag/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1254,20 +1282,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b3e2bf98-2a91-5fba-9f09-349e43fc46ed</id>
-    <title><![CDATA[インキャララバイ]]></title>
-    <link href="https://youtu.be/DwGqHnBZh3E" rel="alternate" type="text/html"/>
-    <published>2025-07-22T15:00:32.000Z</published>
-    <updated>2025-07-22T15:00:32.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DwGqHnBZh3E 【LIVE on &lt;t:1753196432:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DwGqHnBZh3E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:cf1654c8-5e3d-5ce5-8394-e59f5c72bcab</id>
     <title><![CDATA[【歌枠】ぷちゲリラ!帰宅後やるっぺよー!【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/PVUvwAoyv00" rel="alternate" type="text/html"/>
@@ -2231,20 +2245,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1o9bqmTDSxY 【LIVE on &lt;t:1731331812:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1o9bqmTDSxY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f090e1a4-4c2e-51ed-b33e-a2a081a2d01c</id>
-    <title><![CDATA[【安眠】肌寒い秋の夜長に♡お耳と心がポカポカする癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/WTFWi7ymYEE" rel="alternate" type="text/html"/>
-    <published>2024-11-03T15:28:16.000Z</published>
-    <updated>2024-11-03T14:00:25.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WTFWi7ymYEE 【LIVE on &lt;t:1730642425:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WTFWi7ymYEE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
