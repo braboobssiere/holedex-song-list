@@ -1,24 +1,5 @@
 [
   {
-    "id": "bmnJ4a098S8",
-    "title": "MY FIRST 3D SHORT #hololive",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-09T11:01:00.000Z",
-    "available_at": "2025-08-09T11:01:00.000Z",
-    "duration": 18,
-    "status": "past",
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
     "id": "z1bLSEcoo7E",
     "title": "【 縦型歌枠 】ゆったりしゃべったり歌ったりします【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -165,7 +146,7 @@
     "published_at": "2025-08-07T21:04:04.000Z",
     "available_at": "2025-08-07T22:19:54.000Z",
     "duration": 6322,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -240,9 +221,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-07T15:56:55.000Z",
-    "available_at": "2025-08-09T12:00:00.000Z",
+    "available_at": "2025-08-09T12:01:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -556,13 +537,14 @@
   },
   {
     "id": "xThDC1ixysc",
-    "title": "【#FGカラオケ初コラボ】真夏の大熱唱!熱帯夜をぶっ飛ばせえぇぇぇえええ!!!",
+    "title": "【#FGカラオケ初コラボ】真夏の大熱唱！熱帯夜をぶっ飛ばせえぇぇぇえええ!!!",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-06T07:38:17.000Z",
     "available_at": "2025-08-09T10:58:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3621,
+    "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive DEV_IS FLOW GLOW",
@@ -5529,6 +5511,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EvEvVEt0NbiF9k5J-19IF5KqBGgcZYr0sbPQK2UmBafveemTrMJF9mr6_BXvzx7QTOO8VDqKcg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Roy Chiato"
+    }
+  },
+  {
+    "id": "n7VfBx2ZEv4",
+    "title": "MAESTRO'S COMMENTARY for my 3D Showcase!",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-04-03T06:16:57.000Z",
+    "available_at": "2025-04-03T03:01:12.000Z",
+    "duration": 10995,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
