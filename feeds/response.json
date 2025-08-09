@@ -1871,7 +1871,7 @@
     "available_at": "2025-08-08T14:04:03.000Z",
     "duration": 10325,
     "status": "past",
-    "songcount": 30,
+    "songcount": 31,
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -2796,7 +2796,7 @@
     "published_at": "2025-07-19T04:29:27.000Z",
     "available_at": "2025-08-09T08:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -6309,25 +6309,6 @@
     }
   },
   {
-    "id": "JDSt-f6SzUY",
-    "title": "【 ASMR 】真夜中の読み聞かせ⛩️Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-11-02T16:54:14.000Z",
-    "available_at": "2024-11-02T15:12:39.000Z",
-    "duration": 5848,
-    "status": "past",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ecW_DT7IKBcfKJ1qioYiyU_Iq6EB4_bCZpaG4srWPkEZRsIAiYguEvh7_nELEJqPnbjAktVj6Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "egINPf12ZOM",
     "title": "2ヶ月ぶりのエレクトーン練習で癒されるがいいのら!!!🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -6559,6 +6540,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
+    }
+  },
+  {
+    "id": "j7wO4JBnh4s",
+    "title": "【ASMR】ミ\"ーーーーーーーーーーーン\"ミ\"ン\"ミ\"ン\"ミ\"ン\"ミ\"ン\"【影山シエン】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2023-07-16T18:11:16.000Z",
+    "available_at": "2025-08-09T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
     }
   },
   {
