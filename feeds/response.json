@@ -1,13 +1,32 @@
 [
   {
+    "id": "sPVnvaBjQI0",
+    "title": "感触 / 赤井はあと (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-10T13:00:06.000Z",
+    "available_at": "2025-08-10T13:00:06.000Z",
+    "duration": 261,
+    "status": "past",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "TWtCxwuM0pc",
     "title": "【弾き語り歌枠 】歌う!!!【律可/ホロスターズ 】#りつすた",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-10T10:55:25.000Z",
-    "available_at": "2025-08-10T13:00:00.000Z",
+    "available_at": "2025-08-10T13:02:30.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -138,25 +157,6 @@
     }
   },
   {
-    "id": "sPVnvaBjQI0",
-    "title": "??? / 赤井はあと (official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-09T09:48:45.000Z",
-    "available_at": "2025-08-10T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "z1bLSEcoo7E",
     "title": "【 縦型歌枠 】ゆったりしゃべったり歌ったりします【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -204,9 +204,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-08-09T07:42:28.000Z",
-    "available_at": "2025-08-10T13:00:00.000Z",
+    "available_at": "2025-08-10T13:01:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 83
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -1264,8 +1267,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-08-03T08:07:09.000Z",
     "available_at": "2025-08-10T11:58:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4043,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
