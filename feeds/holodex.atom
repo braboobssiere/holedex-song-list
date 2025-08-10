@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-10T03:06:20.126Z</updated>
+  <updated>2025-08-10T03:30:24.932Z</updated>
 
   <entry>
     <id>urn:uuid:5057bf39-4827-5c2d-84fc-e831b69f6a40</id>
@@ -38,12 +38,12 @@
     <title><![CDATA[≪UNARCHIVED KARAOKE OFF-COLLAB≫ Brace yourselves.]]></title>
     <link href="https://youtu.be/chLnwX7TZV8" rel="alternate" type="text/html"/>
     <published>2025-08-09T13:58:29.000Z</published>
-    <updated>2025-08-09T13:58:29.000Z</updated>
+    <updated>2025-08-10T03:12:11.000Z</updated>
     <author>
       <name>Hakos Baelz Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=chLnwX7TZV8 【LIVE on &lt;t:1754795700:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=chLnwX7TZV8 【LIVE on &lt;t:1754795531:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/chLnwX7TZV8/maxresdefault.jpg"/>
   </entry>
 
@@ -1142,20 +1142,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:aab02e67-a66a-58b7-82e5-ebdb6373574f</id>
-    <title><![CDATA[【#ホロナツ歌枠リレー】夏!ひさびさの歌枠だ~!HOLONATSU SUMMER KARAOKE【獅白ぼたん/ホロライブ】]]></title>
-    <link href="https://youtu.be/7bZP4Xbf3ck" rel="alternate" type="text/html"/>
-    <published>2025-07-26T06:43:08.000Z</published>
-    <updated>2025-07-26T06:20:20.000Z</updated>
-    <author>
-      <name>Botan Ch.獅白ぼたん</name>
-      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7bZP4Xbf3ck 【LIVE on &lt;t:1753510820:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bZP4Xbf3ck/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:c0dc7a87-fca5-589b-a292-c7267957ccc0</id>
     <title><![CDATA[【歌枠】誕生日カウントダウン歌枠!告知あり!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/8b7ykVc_d6I" rel="alternate" type="text/html"/>
@@ -1293,6 +1279,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NOi8NSBatCQ 【LIVE on &lt;t:1753196442:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NOi8NSBatCQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3210d340-8942-5b42-83e0-ed8e6269f179</id>
+    <title><![CDATA[【 歌枠 / KARAOKE 】デビュー9ヶ月ありがとう!記念縦型歌枠!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/GgWwut_K7nY" rel="alternate" type="text/html"/>
+    <published>2025-07-21T06:56:24.000Z</published>
+    <updated>2025-08-10T02:57:08.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GgWwut_K7nY 【LIVE on &lt;t:1754794628:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GgWwut_K7nY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
