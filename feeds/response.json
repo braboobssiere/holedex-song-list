@@ -86,6 +86,7 @@
     "available_at": "2025-08-09T10:02:49.000Z",
     "duration": 3526,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -348,6 +349,7 @@
     "available_at": "2025-08-09T12:01:55.000Z",
     "duration": 5064,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -1607,9 +1609,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-07-31T07:59:32.000Z",
-    "available_at": "2025-08-10T00:00:00.000Z",
+    "available_at": "2025-08-09T23:54:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "es": 21
+    },
     "channel": {
       "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
       "name": "Raora Panthera Ch. hololive-EN",
