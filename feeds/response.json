@@ -28,8 +28,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-08-11T13:34:50.000Z",
     "available_at": "2025-08-11T14:34:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3373,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -185,6 +185,25 @@
     }
   },
   {
+    "id": "aI0aj8tY-z0",
+    "title": "2025 #奏手イヅル3D路上ライブ 【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-10T12:59:45.000Z",
+    "available_at": "2025-08-12T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "zwWf5WFqKlM",
     "title": "【晩酌】告知あり!5周年カウントダウン晩酌!【 雪花ラミィ /ホロライブ】",
     "type": "stream",
@@ -194,7 +213,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 78
+      "en": 260
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -1929,6 +1948,7 @@
     "available_at": "2025-08-10T08:55:39.000Z",
     "duration": 3666,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCeLzT-7b2PBcunJplmWtoDg",
       "name": "Patra Channel / 周防パトラ",
@@ -5543,25 +5563,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EvEvVEt0NbiF9k5J-19IF5KqBGgcZYr0sbPQK2UmBafveemTrMJF9mr6_BXvzx7QTOO8VDqKcg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Roy Chiato"
-    }
-  },
-  {
-    "id": "n7VfBx2ZEv4",
-    "title": "MAESTRO'S COMMENTARY for my 3D Showcase!",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-04-03T06:16:57.000Z",
-    "available_at": "2025-04-03T03:01:12.000Z",
-    "duration": 10995,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
