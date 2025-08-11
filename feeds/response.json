@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-11T11:15:45.000Z",
-    "available_at": "2025-08-11T11:30:00.000Z",
+    "available_at": "2025-08-11T11:30:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -242,6 +242,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "-0RzTyI5nOY",
+    "title": "【3D DEBUT】BIG CAT MEANS BIG TROUBLE... in 3D! 😼RAOOOO~ #Raora3D",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-10T01:05:58.000Z",
+    "available_at": "2025-08-09T23:54:43.000Z",
+    "duration": 3973,
+    "status": "past",
+    "songcount": 4,
+    "live_tl_count": {
+      "es": 167
+    },
+    "channel": {
+      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "name": "Raora Panthera Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Raora Panthera"
     }
   },
   {
@@ -1870,29 +1893,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "-0RzTyI5nOY",
-    "title": "【3D DEBUT】BIG CAT MEANS BIG TROUBLE... in 3D! 😼RAOOOO~ #Raora3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-07-31T07:59:32.000Z",
-    "available_at": "2025-08-09T23:54:43.000Z",
-    "duration": 3966,
-    "status": "past",
-    "songcount": 4,
-    "live_tl_count": {
-      "es": 167
-    },
-    "channel": {
-      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "name": "Raora Panthera Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Raora Panthera"
     }
   },
   {
