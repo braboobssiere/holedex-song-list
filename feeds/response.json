@@ -190,6 +190,7 @@
     "available_at": "2025-08-10T07:00:26.000Z",
     "duration": 6682,
     "status": "past",
+    "songcount": 5,
     "live_tl_count": {
       "en": 37
     },
@@ -212,6 +213,7 @@
     "available_at": "2025-08-10T08:30:14.000Z",
     "duration": 3745,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -279,6 +281,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
+    }
+  },
+  {
+    "id": "70coQBGGLF8",
+    "title": "#32【RiTunes Labo】生セッション歌枠：ゲスト『倉持めると』【律可/ホロスターズ 】#りちゅらぼ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-09T13:41:48.000Z",
+    "available_at": "2025-08-09T12:01:55.000Z",
+    "duration": 5060,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
     }
   },
   {
@@ -661,26 +683,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "70coQBGGLF8",
-    "title": "#32【RiTunes Labo】生セッション歌枠：ゲスト『倉持めると』【律可/ホロスターズ 】#りちゅらぼ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-07T15:56:55.000Z",
-    "available_at": "2025-08-09T12:01:55.000Z",
-    "duration": 5064,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -2918,6 +2920,7 @@
     "available_at": "2025-08-10T02:57:08.000Z",
     "duration": 10381,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
