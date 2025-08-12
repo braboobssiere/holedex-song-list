@@ -1,5 +1,24 @@
 [
   {
+    "id": "VAdfjyjLLuI",
+    "title": "奏手イヅル『 地下室を出たら 』Official Music Video",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-12T11:15:06.000Z",
+    "available_at": "2025-08-12T11:15:06.000Z",
+    "duration": 231,
+    "status": "past",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "BuwINzFcclM",
     "title": "ガラスの花びら",
     "type": "stream",
@@ -45,9 +64,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-12T06:27:32.000Z",
-    "available_at": "2025-08-12T11:00:00.000Z",
+    "available_at": "2025-08-12T11:00:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 71
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -263,25 +285,6 @@
     }
   },
   {
-    "id": "VAdfjyjLLuI",
-    "title": "奏手イヅル『』Official Music Video",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-10T13:30:41.000Z",
-    "available_at": "2025-08-12T11:15:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "vTsOdumJEOY",
     "title": "【3DLIVE】夏のホラー満載‼️#赤井はあと爆誕祭2025 👻【ゲスト多数&告知あり◎】【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -326,15 +329,15 @@
   },
   {
     "id": "aI0aj8tY-z0",
-    "title": "2025 #奏手イヅル3D路上ライブ 【 奏手イヅル / ホロスターズ 】",
+    "title": "２０２５ #奏手イヅル3D路上ライブ 【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-10T12:59:45.000Z",
     "available_at": "2025-08-12T10:00:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4178,
+    "status": "past",
     "live_tl_count": {
-      "en": 15
+      "en": 68
     },
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -650,6 +653,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "_pnmpivmU1c",
+    "title": "【original】よっぱらみゅ~じっく!【雪花ラミィ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-09T08:07:15.000Z",
+    "available_at": "2025-08-12T12:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -1213,7 +1235,7 @@
       "org": "Hololive",
       "suborg": "taDEV_IS ReGLOSS",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B1jxecjdxwcqWVM7oRRjaE_TBkZ73p_UVn1Ouzx_6w5gJfowkiSwUoJtBIhsoRWQSERZ2gIb=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
     }
   },
@@ -1281,7 +1303,7 @@
   },
   {
     "id": "h1A76PvsqD4",
-    "title": "【MV】Genesis【The Story of Advent - Chapter 1】",
+    "title": "【MV】Genesis【hololive English -Advent- Original Song】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-08-05T03:08:06.000Z",
@@ -2919,26 +2941,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "Ohf-kbf6cR4",
-    "title": "Last-resort / 天音かなた(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-23T11:00:07.000Z",
-    "available_at": "2025-07-23T11:00:07.000Z",
-    "duration": 207,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
     }
   },
   {
