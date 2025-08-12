@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-12T14:26:25.680Z</updated>
+  <updated>2025-08-12T15:26:33.024Z</updated>
+
+  <entry>
+    <id>urn:uuid:23eb139c-cbe1-5ad2-af7a-849dd682929c</id>
+    <title><![CDATA[よっぱらみゅ~じっく! (Instrumental)]]></title>
+    <link href="https://youtu.be/EugRGd8IHBI" rel="alternate" type="text/html"/>
+    <published>2025-08-12T15:02:26.000Z</published>
+    <updated>2025-08-12T15:02:26.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EugRGd8IHBI 【LIVE on &lt;t:1755010946:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EugRGd8IHBI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:64286920-18b0-522b-b3f7-292e6727f5d9</id>
+    <title><![CDATA[よっぱらみゅ~じっく!]]></title>
+    <link href="https://youtu.be/SiTGXdv5x2E" rel="alternate" type="text/html"/>
+    <published>2025-08-12T15:01:45.000Z</published>
+    <updated>2025-08-12T15:01:45.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SiTGXdv5x2E 【LIVE on &lt;t:1755010905:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SiTGXdv5x2E/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:448fae64-7828-5171-8473-e1c624c83040</id>
@@ -1198,20 +1226,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9d2e1b25-ea1e-5ea7-a1b0-80c968bc929d</id>
-    <title><![CDATA[【Mythmash】Glow in the Dark - Takanashi Kiara & La+ Darknesss (Official MV)]]></title>
-    <link href="https://youtu.be/v5RKZXNuVyw" rel="alternate" type="text/html"/>
-    <published>2025-07-27T13:00:06.000Z</published>
-    <updated>2025-07-27T13:00:06.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=v5RKZXNuVyw 【LIVE on &lt;t:1753621206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v5RKZXNuVyw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:78ddb9a0-1b7b-5842-841c-28c8f8622035</id>
     <title><![CDATA[【 エレクトーン 】2ヶ月ぶりの演奏なのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/ozvv4hK82D0" rel="alternate" type="text/html"/>
@@ -1226,20 +1240,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:15b33c83-4e31-5b99-84a2-5f9761632353</id>
-    <title><![CDATA[【#holonatsuparadise 】メインテーマ『藍染サマータイム!!』MV]]></title>
-    <link href="https://youtu.be/YddrL9mYKjA" rel="alternate" type="text/html"/>
-    <published>2025-07-26T13:30:06.000Z</published>
-    <updated>2025-07-26T13:30:06.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YddrL9mYKjA 【LIVE on &lt;t:1753536606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YddrL9mYKjA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:c0dc7a87-fca5-589b-a292-c7267957ccc0</id>
     <title><![CDATA[【歌枠】誕生日カウントダウン歌枠!告知あり!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/8b7ykVc_d6I" rel="alternate" type="text/html"/>
@@ -1251,20 +1251,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=8b7ykVc_d6I 【LIVE on &lt;t:1753365636:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8b7ykVc_d6I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:abacf30b-ac69-5778-9b6a-14c3c95f95b6</id>
-    <title><![CDATA[Last-resort / 天音かなた(official)]]></title>
-    <link href="https://youtu.be/Ohf-kbf6cR4" rel="alternate" type="text/html"/>
-    <published>2025-07-23T11:00:07.000Z</published>
-    <updated>2025-07-23T11:00:07.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ohf-kbf6cR4 【LIVE on &lt;t:1753268407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ohf-kbf6cR4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1769,20 +1755,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MBTe3cDomgs 【LIVE on &lt;t:1744523982:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MBTe3cDomgs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fe76f974-c4eb-5b07-b82d-553c795594b0</id>
-    <title><![CDATA[【#久我レオ3Dお披露目】 昼は英会話教師、夜は掃除屋🗡️ 【久我レオ / ネオポルテ】]]></title>
-    <link href="https://youtu.be/PmmhGoMlCfo" rel="alternate" type="text/html"/>
-    <published>2025-04-05T14:21:58.000Z</published>
-    <updated>2025-04-05T12:55:11.000Z</updated>
-    <author>
-      <name>久我レオ / Kuga Leo</name>
-      <uri>https://www.youtube.com/channel/UCmpEFsiD67ZOjn2CCJoo1mw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PmmhGoMlCfo 【LIVE on &lt;t:1743857711:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PmmhGoMlCfo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
