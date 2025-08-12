@@ -1,5 +1,26 @@
 [
   {
+    "id": "BuwINzFcclM",
+    "title": "ガラスの花びら",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-12T10:02:10.000Z",
+    "available_at": "2025-08-12T10:02:10.000Z",
+    "duration": 189,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCqozWN6dG6ciUtBWypwLkqA",
+    "channel": {
+      "id": "UCl_gCybOJRIgOXw6Qb4qJzQ",
+      "name": "Rushia Ch. 潤羽るしあ",
+      "org": "Hololive",
+      "suborg": "eb3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AMLnZu9cOjR_bgBuDzX45gUUMHCDo1HLLiecGY-Y1yPCDg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Uruha Rushia"
+    }
+  },
+  {
     "id": "3KxVSb-NMB4",
     "title": "【 5周年 】お酒飲みながらカウントダウン❣明日の告知も✨【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -309,9 +330,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-10T12:59:45.000Z",
-    "available_at": "2025-08-12T10:00:00.000Z",
+    "available_at": "2025-08-12T10:00:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 15
+    },
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -624,7 +648,7 @@
       "org": "Hololive",
       "suborg": "taDEV_IS ReGLOSS",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/56Qb6NPoDxExmTTPIqudI2Pa5xCjPEyQYA-aV52QBaBg4C9QtE7IvJaqmjHrTk1Q5Q2b0NCTkh8=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
     }
   },
@@ -2953,27 +2977,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "yN87ZV8Jxo4",
-    "title": "睡キャン界隈",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-22T15:01:47.000Z",
-    "available_at": "2025-07-22T15:01:47.000Z",
-    "duration": 252,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCPCiIrrrNJOKvi_5vr3G6PA",
-    "channel": {
-      "id": "UCZlDXzGoo7d44bwdNObFacg",
-      "name": "Kanata Ch. 天音かなた",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Amane Kanata"
     }
   },
   {
