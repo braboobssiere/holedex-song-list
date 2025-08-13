@@ -131,6 +131,7 @@
     "available_at": "2025-08-12T12:30:36.000Z",
     "duration": 11784,
     "status": "past",
+    "songcount": 31,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -231,6 +232,7 @@
     "available_at": "2025-08-12T03:02:02.000Z",
     "duration": 8800,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -239,6 +241,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "YSGxC7B86pU",
+    "title": "誕生日を迎えたりす【 奏手イヅル / ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-08-11T15:38:33.000Z",
+    "available_at": "2025-08-11T14:34:43.000Z",
+    "duration": 3371,
+    "status": "past",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -264,25 +285,6 @@
     }
   },
   {
-    "id": "YSGxC7B86pU",
-    "title": "誕生日を迎えたりす【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-08-11T13:34:50.000Z",
-    "available_at": "2025-08-11T14:34:43.000Z",
-    "duration": 3373,
-    "status": "past",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "zSQAUrxkTVg",
     "title": "【縦型雑談歌枠】山の日ですぜえ✨祝日ー!!【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -291,7 +293,7 @@
     "available_at": "2025-08-11T09:05:34.000Z",
     "duration": 7240,
     "status": "past",
-    "songcount": 2,
+    "songcount": 9,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
