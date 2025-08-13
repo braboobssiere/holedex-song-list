@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-08-12T22:00:18.000Z",
     "available_at": "2025-08-12T22:57:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11349,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -243,7 +243,7 @@
   },
   {
     "id": "jETtU9bnqSA",
-    "title": "【告知あり】5期生の5周年！#ねぽらぼ でプロフィール帳を書いてみよう【ホロライブ】",
+    "title": "【告知あり】5期生の5周年!#ねぽらぼ でプロフィール帳を書いてみよう【ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-11T14:07:20.000Z",
@@ -291,6 +291,7 @@
     "available_at": "2025-08-11T09:05:34.000Z",
     "duration": 7240,
     "status": "past",
+    "songcount": 2,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -309,7 +310,7 @@
     "published_at": "2025-08-11T11:15:45.000Z",
     "available_at": "2025-08-11T11:30:41.000Z",
     "duration": 12561,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -516,7 +517,7 @@
     "available_at": "2025-08-12T10:00:01.000Z",
     "duration": 4178,
     "status": "past",
-    "songcount": 7,
+    "songcount": 9,
     "live_tl_count": {
       "en": 68
     },
