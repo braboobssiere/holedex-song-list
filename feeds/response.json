@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-14T05:55:33.000Z",
-    "available_at": "2025-08-14T06:30:00.000Z",
+    "available_at": "2025-08-14T06:35:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 46,
+      "ko": 43
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -39,7 +43,7 @@
   },
   {
     "id": "7x7ezXFi0Ak",
-    "title": "【歌枠 KARAOKE】縦型雑談たまに歌〜❕【水宮枢/ホロライブDEV_IS】",
+    "title": "【歌枠 KARAOKE】縦型雑談たまに歌〜❕【水宮枢／ホロライブDEV_IS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-14T02:02:07.000Z",
