@@ -1,16 +1,35 @@
 [
   {
+    "id": "ato27clLL0U",
+    "title": "【#リグと乾杯 】来月で2周年ってまじ!?!?な飲み会配信【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-14T07:34:34.000Z",
+    "available_at": "2025-08-14T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
     "id": "BI7Ky1TDqSo",
     "title": "【歌枠】久々にオリ曲歌おうかな?【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-14T05:55:33.000Z",
     "available_at": "2025-08-14T06:35:02.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6225,
+    "status": "past",
     "live_tl_count": {
-      "en": 46,
-      "ko": 43
+      "en": 109,
+      "ko": 113
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -5437,29 +5456,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "ASwjM25ax58",
-    "title": "【3D Live】 戌神ころね6th記念★☆ 3D&パペットライブ!? 【#戌神ころね6周年】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-04-13T12:02:51.000Z",
-    "available_at": "2025-04-13T11:00:21.000Z",
-    "duration": 3364,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 244
-    },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
