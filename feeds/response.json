@@ -107,6 +107,7 @@
     "available_at": "2025-08-14T06:35:02.000Z",
     "duration": 6225,
     "status": "past",
+    "songcount": 3,
     "live_tl_count": {
       "en": 109,
       "ko": 113
@@ -149,6 +150,7 @@
     "available_at": "2025-08-14T02:02:25.000Z",
     "duration": 15513,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -240,6 +242,25 @@
     }
   },
   {
+    "id": "CpHhD3_m2FI",
+    "title": "【 #桃鈴ねね5周年 】はじめての逆凸に挑戦だぁああああ!!告知あり🍑【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-13T13:17:48.000Z",
+    "available_at": "2025-08-13T12:00:13.000Z",
+    "duration": 4234,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "dWhH50ADZTc",
     "title": "世界で一番のアイドル / 天音かなた(official)",
     "type": "stream",
@@ -277,25 +298,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
-    }
-  },
-  {
-    "id": "CpHhD3_m2FI",
-    "title": "【 #桃鈴ねね5周年 】はじめての逆凸に挑戦だぁああああ！！告知あり🍑【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-08-13T06:44:18.000Z",
-    "available_at": "2025-08-13T12:00:13.000Z",
-    "duration": 4238,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
