@@ -3,21 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-15T11:26:24.193Z</updated>
-
-  <entry>
-    <id>urn:uuid:478902b1-3bf7-59fc-9ec5-c4a71978c122</id>
-    <title><![CDATA[【完全オリジナルMV】>>>新曲<<<【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/p9NBMIUOGM0" rel="alternate" type="text/html"/>
-    <published>2025-08-14T19:12:49.000Z</published>
-    <updated>2025-08-14T19:12:49.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p9NBMIUOGM0 【LIVE on &lt;t:1755259500:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p9NBMIUOGM0/maxresdefault.jpg"/>
-  </entry>
+  <updated>2025-08-15T12:26:24.388Z</updated>
 
   <entry>
     <id>urn:uuid:c8d22f85-68e3-5f10-89f9-ac413d67109f</id>
@@ -1195,6 +1181,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1WbyakjUmsI 【LIVE on &lt;t:1753873106:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1WbyakjUmsI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f0b382b-86a7-5a83-b310-f49232a1b62c</id>
+    <title><![CDATA[【original anime MV】スキスキDieスキ超Ayeシテル【hololive/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/aI769CgHfLc" rel="alternate" type="text/html"/>
+    <published>2025-07-30T12:00:06.000Z</published>
+    <updated>2025-07-30T12:00:06.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aI769CgHfLc 【LIVE on &lt;t:1753876806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aI769CgHfLc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
