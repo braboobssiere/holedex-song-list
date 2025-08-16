@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-16T17:26:21.700Z</updated>
+  <updated>2025-08-16T18:26:23.144Z</updated>
 
   <entry>
     <id>urn:uuid:82781063-14f6-56f5-ac04-2fd1f40d631a</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p9NBMIUOGM0 【LIVE on &lt;t:1755259506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p9NBMIUOGM0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7fa0597a-a612-554e-b8aa-00b65586a9c0</id>
+    <title><![CDATA[【holoID_IGNiTE】Offcollab Karaoke dan...PENGUMUMAN DAHSYAT BANGET?!?! HARUS NONTON!]]></title>
+    <link href="https://youtu.be/H1peSEH_K0U" rel="alternate" type="text/html"/>
+    <published>2025-08-15T04:20:00.000Z</published>
+    <updated>2025-08-15T04:20:00.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=H1peSEH_K0U 【LIVE on &lt;t:1755432000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/H1peSEH_K0U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
