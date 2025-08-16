@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-16T15:26:30.226Z</updated>
+  <updated>2025-08-16T16:26:24.130Z</updated>
+
+  <entry>
+    <id>urn:uuid:82781063-14f6-56f5-ac04-2fd1f40d631a</id>
+    <title><![CDATA[Happiness phenomenon (一条莉々華 SOLO)]]></title>
+    <link href="https://youtu.be/yUBoZiJ_93o" rel="alternate" type="text/html"/>
+    <published>2025-08-16T15:01:37.000Z</published>
+    <updated>2025-08-16T15:01:37.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yUBoZiJ_93o 【LIVE on &lt;t:1755356497:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yUBoZiJ_93o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a3b073af-2703-5fb7-8225-f567fc7b84f6</id>
+    <title><![CDATA[Happiness phenomenon (一条莉々華 SOLO) (Instrumental)]]></title>
+    <link href="https://youtu.be/ZvIWg6D9ALg" rel="alternate" type="text/html"/>
+    <published>2025-08-16T15:00:53.000Z</published>
+    <updated>2025-08-16T15:00:53.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZvIWg6D9ALg 【LIVE on &lt;t:1755356453:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZvIWg6D9ALg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e1d61fe4-5f91-58a7-b06e-767d9dad8944</id>
@@ -1125,34 +1153,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bg6viEX9UlU 【LIVE on &lt;t:1754046006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bg6viEX9UlU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:929b3635-007b-5637-b7f3-ea437be6130a</id>
-    <title><![CDATA[Lifetime Showtime (Instrumental)]]></title>
-    <link href="https://youtu.be/fJR3DnfdAmc" rel="alternate" type="text/html"/>
-    <published>2025-07-31T15:01:10.000Z</published>
-    <updated>2025-07-31T15:01:10.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fJR3DnfdAmc 【LIVE on &lt;t:1753974070:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fJR3DnfdAmc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f84d2ca0-6d3b-53a3-ad43-68138638dcbc</id>
-    <title><![CDATA[Lifetime Showtime]]></title>
-    <link href="https://youtu.be/MEOzN03mbwE" rel="alternate" type="text/html"/>
-    <published>2025-07-31T15:00:39.000Z</published>
-    <updated>2025-07-31T15:00:39.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MEOzN03mbwE 【LIVE on &lt;t:1753974039:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MEOzN03mbwE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
