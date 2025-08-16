@@ -168,6 +168,7 @@
     "available_at": "2025-08-15T11:00:43.000Z",
     "duration": 9809,
     "status": "past",
+    "songcount": 14,
     "live_tl_count": {
       "en": 204
     },
@@ -198,6 +199,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
+    }
+  },
+  {
+    "id": "ok24HgzbeLs",
+    "title": "【MV】All for One【hololive English Original Song】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-14T11:14:10.000Z",
+    "available_at": "2025-08-17T01:17:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -2691,27 +2712,6 @@
     "published_at": "2025-07-31T15:00:39.000Z",
     "available_at": "2025-07-31T15:00:39.000Z",
     "duration": 227,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCagMC-SG_BEnFSQnQ5-5lwQ",
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "KMJ6Ne6dNJ8",
-    "title": "Lifetime Showtime (Japanese ver.)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-07-31T15:00:29.000Z",
-    "available_at": "2025-07-31T15:00:29.000Z",
-    "duration": 226,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCagMC-SG_BEnFSQnQ5-5lwQ",
