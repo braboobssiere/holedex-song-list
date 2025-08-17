@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-17T00:26:18.117Z</updated>
+  <updated>2025-08-17T01:26:20.772Z</updated>
+
+  <entry>
+    <id>urn:uuid:1b7636e7-ff8e-5cf1-acda-b0647b601546</id>
+    <title><![CDATA[【MV】All for One【hololive English Original Song】]]></title>
+    <link href="https://youtu.be/ok24HgzbeLs" rel="alternate" type="text/html"/>
+    <published>2025-08-17T01:17:06.000Z</published>
+    <updated>2025-08-17T01:17:06.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ok24HgzbeLs 【LIVE on &lt;t:1755393426:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ok24HgzbeLs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:82781063-14f6-56f5-ac04-2fd1f40d631a</id>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=F__bBQoFCZY 【LIVE on &lt;t:1755255643:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/F__bBQoFCZY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1b7636e7-ff8e-5cf1-acda-b0647b601546</id>
-    <title><![CDATA[【MV】All for One【hololive English Original Song】]]></title>
-    <link href="https://youtu.be/ok24HgzbeLs" rel="alternate" type="text/html"/>
-    <published>2025-08-14T11:14:10.000Z</published>
-    <updated>2025-08-14T11:14:10.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ok24HgzbeLs 【LIVE on &lt;t:1755393420:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ok24HgzbeLs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -731,6 +731,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=y8GrlTk3fUU 【LIVE on &lt;t:1754564406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/y8GrlTk3fUU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:04c53e3a-fd57-529d-9fc4-ebe6b192c4a4</id>
+    <title><![CDATA[【#Justice3D】 A Special 3D Collab! 【hololive English -Justice-】]]></title>
+    <link href="https://youtu.be/U0Rfu47fo64" rel="alternate" type="text/html"/>
+    <published>2025-08-07T08:09:04.000Z</published>
+    <updated>2025-08-16T23:58:05.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U0Rfu47fo64 【LIVE on &lt;t:1755388685:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U0Rfu47fo64/maxresdefault.jpg"/>
   </entry>
 
   <entry>
