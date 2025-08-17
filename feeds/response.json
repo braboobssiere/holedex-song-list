@@ -1,5 +1,24 @@
 [
   {
+    "id": "HU78EgFNjaM",
+    "title": "【歌枠 / karaoke】地獄に音楽は絶えない / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-17T14:10:42.000Z",
+    "available_at": "2025-08-17T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "BYUHaT_tnf8",
     "title": "【2周年旅行Vlog】#ReGLOSSのなつやすみ in 北海道【PART1】",
     "type": "stream",
@@ -24,8 +43,8 @@
     "topic_id": "asmr",
     "published_at": "2025-08-17T07:22:34.000Z",
     "available_at": "2025-08-17T13:00:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3640,
+    "status": "past",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -61,9 +80,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-08-17T06:00:12.000Z",
-    "available_at": "2025-08-17T14:00:00.000Z",
+    "available_at": "2025-08-17T14:01:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -223,7 +245,7 @@
     "available_at": "2025-08-15T11:00:43.000Z",
     "duration": 9764,
     "status": "past",
-    "songcount": 14,
+    "songcount": 15,
     "live_tl_count": {
       "en": 204
     },
@@ -3037,26 +3059,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "TL1dug7RUF4",
-    "title": "【歌枠】歌欲、それは、歌いたくなっちゃったということ【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-07-29T10:23:41.000Z",
-    "available_at": "2025-07-29T08:21:49.000Z",
-    "duration": 6464,
-    "status": "past",
-    "songcount": 21,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
