@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-18T21:26:32.982Z</updated>
+  <updated>2025-08-18T23:26:30.048Z</updated>
 
   <entry>
     <id>urn:uuid:83a3445f-154d-568f-882a-2a9c5d52fe7c</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=If9JKnL9JQU 【LIVE on &lt;t:1755442889:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/If9JKnL9JQU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:da6e78b6-a0ec-5819-a2da-1879e20bcd55</id>
+    <title><![CDATA[【3D LIVE】ねぽらぼ学園 ☆5周年記念!!輝く学寮祭☆【#ねぽらぼ5周年学祭3Dライブ】]]></title>
+    <link href="https://youtu.be/-7fWewjcygo" rel="alternate" type="text/html"/>
+    <published>2025-08-17T12:10:52.000Z</published>
+    <updated>2025-08-17T10:56:37.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-7fWewjcygo 【LIVE on &lt;t:1755428197:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-7fWewjcygo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -956,20 +970,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dcis0Y2RjJA 【LIVE on &lt;t:1754358912:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dcis0Y2RjJA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:da6e78b6-a0ec-5819-a2da-1879e20bcd55</id>
-    <title><![CDATA[【3D LIVE】ねぽらぼ学園 ☆5周年記念！！輝く学寮祭☆【#ねぽらぼ5周年学祭3Dライブ】]]></title>
-    <link href="https://youtu.be/-7fWewjcygo" rel="alternate" type="text/html"/>
-    <published>2025-08-05T02:00:16.000Z</published>
-    <updated>2025-08-17T10:56:37.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-7fWewjcygo 【LIVE on &lt;t:1755428197:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-7fWewjcygo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
