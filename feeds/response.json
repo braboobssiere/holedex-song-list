@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-19T01:24:07.000Z",
-    "available_at": "2025-08-19T02:00:00.000Z",
+    "available_at": "2025-08-19T02:02:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -56,6 +56,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "Wreee0go3s4",
+    "title": "【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-17T15:51:02.000Z",
+    "available_at": "2025-08-17T13:00:31.000Z",
+    "duration": 7302,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
     }
   },
   {
@@ -177,26 +197,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "Wreee0go3s4",
-    "title": "【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-17T06:39:29.000Z",
-    "available_at": "2025-08-17T13:00:31.000Z",
-    "duration": 7350,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
