@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-19T02:26:25.480Z</updated>
+  <updated>2025-08-19T03:26:28.352Z</updated>
 
   <entry>
     <id>urn:uuid:204c3c02-fbce-597d-b3f2-90710f90233d</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tI1a2y8sEIg 【LIVE on &lt;t:1755525621:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tI1a2y8sEIg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:939ee416-11ac-55a8-a842-b695ee48ada7</id>
+    <title><![CDATA[【ASMR】いらっしゃい。ねぇ、久々のボクの耳かきはきもちい?? ※ARCHIVEは限定【ホロライブ/ ロボ子さん】]]></title>
+    <link href="https://youtu.be/YH_3XU-w5no" rel="alternate" type="text/html"/>
+    <published>2025-08-17T16:02:34.000Z</published>
+    <updated>2025-08-17T14:01:25.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YH_3XU-w5no 【LIVE on &lt;t:1755439285:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YH_3XU-w5no/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-7fWewjcygo 【LIVE on &lt;t:1755428197:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-7fWewjcygo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:939ee416-11ac-55a8-a842-b695ee48ada7</id>
-    <title><![CDATA[【ASMR】いらっしゃい。ねぇ、久々のボクの耳かきはきもちい？？　※ARCHIVEは限定【ホロライブ/ ロボ子さん】]]></title>
-    <link href="https://youtu.be/YH_3XU-w5no" rel="alternate" type="text/html"/>
-    <published>2025-08-17T06:00:12.000Z</published>
-    <updated>2025-08-17T14:01:25.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YH_3XU-w5no 【LIVE on &lt;t:1755439285:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YH_3XU-w5no/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -203,7 +203,7 @@
 
   <entry>
     <id>urn:uuid:8aff1f57-db1f-50eb-9325-4921ba3c0618</id>
-    <title><![CDATA[トレビアンナイト (Instrumental)]]></title>
+    <title><![CDATA[トレビアンナイト （Instrumental）]]></title>
     <link href="https://youtu.be/eFp6LTA0nnE" rel="alternate" type="text/html"/>
     <published>2025-08-15T15:04:36.000Z</published>
     <updated>2025-08-15T15:04:36.000Z</updated>

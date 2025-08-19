@@ -59,6 +59,47 @@
     }
   },
   {
+    "id": "HU78EgFNjaM",
+    "title": "【歌枠 / karaoke】地獄に音楽は絶えない / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-17T16:28:54.000Z",
+    "available_at": "2025-08-17T14:35:03.000Z",
+    "duration": 6012,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "YH_3XU-w5no",
+    "title": "【ASMR】いらっしゃい。ねぇ、久々のボクの耳かきはきもちい?? ※ARCHIVEは限定【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-08-17T16:02:34.000Z",
+    "available_at": "2025-08-17T14:01:25.000Z",
+    "duration": 6921,
+    "status": "past",
+    "live_tl_count": {
+      "en": 37
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "Wreee0go3s4",
     "title": "【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -140,25 +181,6 @@
     }
   },
   {
-    "id": "HU78EgFNjaM",
-    "title": "【歌枠 / karaoke】地獄に音楽は絶えない / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-17T14:10:42.000Z",
-    "available_at": "2025-08-17T14:35:03.000Z",
-    "duration": 6063,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
     "id": "-7fWewjcygo",
     "title": "【3D LIVE】ねぽらぼ学園 ☆5周年記念!!輝く学寮祭☆【#ねぽらぼ5周年学祭3Dライブ】",
     "type": "stream",
@@ -197,28 +219,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "YH_3XU-w5no",
-    "title": "【ASMR】いらっしゃい。ねぇ、久々のボクの耳かきはきもちい？？　※ARCHIVEは限定【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-08-17T06:00:12.000Z",
-    "available_at": "2025-08-17T14:01:25.000Z",
-    "duration": 6928,
-    "status": "past",
-    "live_tl_count": {
-      "en": 37
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -418,7 +418,7 @@
   },
   {
     "id": "eFp6LTA0nnE",
-    "title": "トレビアンナイト (Instrumental)",
+    "title": "トレビアンナイト （Instrumental）",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-08-15T15:04:36.000Z",
