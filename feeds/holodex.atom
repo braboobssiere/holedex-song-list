@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-19T12:26:30.003Z</updated>
+  <updated>2025-08-19T13:26:26.420Z</updated>
 
   <entry>
     <id>urn:uuid:204c3c02-fbce-597d-b3f2-90710f90233d</id>
@@ -1254,20 +1254,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:9368a24e-0b16-50cf-ab6e-9f91585605b6</id>
-    <title><![CDATA[【 縦型歌枠 】ゆるゆる~と歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/pfgyOvyp600" rel="alternate" type="text/html"/>
-    <published>2025-07-30T16:29:55.000Z</published>
-    <updated>2025-07-30T10:00:31.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pfgyOvyp600 【LIVE on &lt;t:1753869631:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pfgyOvyp600/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5b59cf5a-85ae-52db-9b4c-c4d5f1b85701</id>
     <title><![CDATA[【 🟣メン限体験版 】ジム通いの猫ﾃﾞｽ💪 腹筋ASMR頑張っちゃうよ~~😸【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/tMPdR2-nhnw" rel="alternate" type="text/html"/>
@@ -1671,6 +1657,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6BNkVBVNbKY 【LIVE on &lt;t:1747396566:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6BNkVBVNbKY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3e04a96d-4258-519d-a0c4-3debb1461a90</id>
+    <title><![CDATA[【歌枠】おひるにうたうよ～！！【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/w6jpioEUNVA" rel="alternate" type="text/html"/>
+    <published>2025-05-11T17:10:20.000Z</published>
+    <updated>2025-08-19T06:34:22.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=w6jpioEUNVA 【LIVE on &lt;t:1755585262:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w6jpioEUNVA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
