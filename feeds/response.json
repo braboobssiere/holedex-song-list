@@ -1,7 +1,7 @@
 [
   {
     "id": "bMdihR2UvgE",
-    "title": "【 歌枠 l KARAOKE 】眠れないあなたへ、幸せな歌を歌おう【 水無世燐央 l UPROAR!! 】",
+    "title": "【 歌枠 l KARAOKE 】眠れないあなたへ、幸せな歌(ときどき切ない)を歌おう【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-19T16:04:21.000Z",
@@ -22,7 +22,7 @@
     "id": "JUwTVz5maMU",
     "title": "【UNARCHIVED KARAOKE】 Happy Birthday Queen Mum ~! 💄",
     "type": "stream",
-    "topic_id": "Birthday",
+    "topic_id": "singing",
     "published_at": "2025-08-19T15:11:37.000Z",
     "available_at": "2025-08-19T18:30:00.000Z",
     "duration": 0,
@@ -1871,6 +1871,25 @@
     }
   },
   {
+    "id": "v4bR8rbid80",
+    "title": "【縦型歌枠】前回の歌枠リベンジ!お昼にちょいと歌いたい気分🎶【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-09T03:49:27.000Z",
+    "available_at": "2025-08-20T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "V_Vk80pKLNw",
     "title": "【PERO'S BIRTHDAY PARTY】ranking the girlios I want a birthday smooch from 🐾✨ 【FUWAMOCO】",
     "type": "stream",
@@ -2813,26 +2832,6 @@
     }
   },
   {
-    "id": "qw9dUs4aYew",
-    "title": "【歌枠 KARAOKE】縦型歌枠💙 【水宮枢/FLOW GLOW】\n#hololiveDEV_IS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-02T07:07:37.000Z",
-    "available_at": "2025-08-02T03:34:03.000Z",
-    "duration": 12165,
-    "status": "past",
-    "songcount": 28,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
-    }
-  },
-  {
     "id": "0I1Q5wprffo",
     "title": "【UNARCHIVED KARAOKE】Super short mini summer karaoke!",
     "type": "stream",
@@ -2907,26 +2906,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "r7tEfeNX4jk",
-    "title": "【夏曲歌枠】ついにアレを解禁!!最後に告知もあるよ⭐️!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-01T11:17:55.000Z",
-    "available_at": "2025-08-01T10:00:19.000Z",
-    "duration": 3630,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
@@ -4607,6 +4586,25 @@
     "live_tl_count": {
       "en": 78
     },
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "lm-HmCi_4Rk",
+    "title": "お誕生日カウントダウン!推し部屋を見る~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-06T15:29:39.000Z",
+    "available_at": "2025-06-06T14:30:11.000Z",
+    "duration": 3143,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
