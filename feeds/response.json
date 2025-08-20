@@ -1933,13 +1933,13 @@
   },
   {
     "id": "v4bR8rbid80",
-    "title": "【縦型歌枠】前回の歌枠リベンジ!お昼にちょいと歌いたい気分🎶【白銀ノエル/ホロライブ】",
+    "title": "【縦型歌枠】前回の歌枠リベンジ！お昼にちょいと歌いたい気分🎶【白銀ノエル/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-09T03:49:27.000Z",
     "available_at": "2025-08-20T03:00:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 12686,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -2547,25 +2547,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "pteJ8Rnu3_M",
-    "title": "\" 1ヶ月遅れの \" お誕生日メッセージ",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-08-04T05:05:55.000Z",
-    "available_at": "2025-08-04T05:05:55.000Z",
-    "duration": 75,
-    "status": "past",
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
     }
   },
   {
@@ -4605,6 +4586,25 @@
     "live_tl_count": {
       "en": 78
     },
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "lm-HmCi_4Rk",
+    "title": "お誕生日カウントダウン!推し部屋を見る~!【轟はじめ/ReGLOSS】 #hololivedev_is",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-06T15:29:39.000Z",
+    "available_at": "2025-06-06T14:30:11.000Z",
+    "duration": 3143,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
