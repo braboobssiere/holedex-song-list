@@ -257,6 +257,7 @@
     "available_at": "2025-08-19T15:00:31.000Z",
     "duration": 258,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCmgWMQkenFc72QnYkdxdoKA",
       "name": "ピーナッツくん!オシャレになりたい!",
@@ -462,28 +463,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "YH_3XU-w5no",
-    "title": "【ASMR】いらっしゃい。ねぇ、久々のボクの耳かきはきもちい?? ※ARCHIVEは限定【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-08-17T16:02:34.000Z",
-    "available_at": "2025-08-17T14:01:25.000Z",
-    "duration": 6921,
-    "status": "past",
-    "live_tl_count": {
-      "en": 37
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -6332,6 +6311,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sG4A7jG-abLoeeoxsttRgg-ZpI3XrB--rQRty8G6pcqnFT894SEjE-fMjFN2829CjTFwHcTtCw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
+    }
+  },
+  {
+    "id": "WTFWi7ymYEE",
+    "title": "【安眠】肌寒い秋の夜長に♡お耳と心がポカポカする癒し囁き&耳かき+マッサージ♡【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2024-11-03T15:28:16.000Z",
+    "available_at": "2024-11-03T14:00:25.000Z",
+    "duration": 4969,
+    "status": "past",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
     }
   },
   {
