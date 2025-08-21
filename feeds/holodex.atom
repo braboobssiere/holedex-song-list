@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-21T13:26:22.837Z</updated>
+  <updated>2025-08-21T14:26:27.179Z</updated>
+
+  <entry>
+    <id>urn:uuid:9aeac320-4af8-5ac7-83bc-779a3b2fe70b</id>
+    <title><![CDATA[【 歌枠 】明日はワールドツアー参戦‼️✨うたいたい気分だ~~~~!【ホロライブ/赤井はあと】]]></title>
+    <link href="https://youtu.be/MnHz1ZE45Dc" rel="alternate" type="text/html"/>
+    <published>2025-08-21T14:13:27.000Z</published>
+    <updated>2025-08-21T14:13:27.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MnHz1ZE45Dc 【LIVE on &lt;t:1755788400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MnHz1ZE45Dc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5a08837a-c7bb-586d-b65c-61afbfde1301</id>
@@ -1194,20 +1208,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sYyeIVErpPo 【LIVE on &lt;t:1754136058:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sYyeIVErpPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f790f612-07e9-5bee-8501-0fecbe4f174e</id>
-    <title><![CDATA[【夏歌枠】20分じゃ足りなかった・・!夏らしい歌をうたう!!!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/QNTgtCXRaJU" rel="alternate" type="text/html"/>
-    <published>2025-08-02T10:08:16.000Z</published>
-    <updated>2025-08-02T08:00:21.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QNTgtCXRaJU 【LIVE on &lt;t:1754121621:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QNTgtCXRaJU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
