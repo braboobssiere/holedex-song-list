@@ -121,6 +121,26 @@
     }
   },
   {
+    "id": "g1c7zdkKPvA",
+    "title": "【 縦型歌枠/KARAOKE】 金曜日お疲れ様!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-22T10:55:18.000Z",
+    "available_at": "2025-08-22T09:00:36.000Z",
+    "duration": 5970,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "MnHz1ZE45Dc",
     "title": "【 歌枠 】ご機嫌るんるんにうたうっ!🌷【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -633,9 +653,10 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-08-18T06:09:34.000Z",
-    "available_at": "2025-08-23T21:30:00.000Z",
+    "available_at": "2025-08-23T21:30:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 3,
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
       "name": "hololive English",
@@ -4141,26 +4162,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
-    }
-  },
-  {
-    "id": "g1c7zdkKPvA",
-    "title": "【 縦型歌枠/KARAOKE】　金曜日お疲れ様！！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-06-25T12:04:43.000Z",
-    "available_at": "2025-08-22T09:00:36.000Z",
-    "duration": 5981,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {

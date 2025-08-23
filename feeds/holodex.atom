@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-23T21:26:14.293Z</updated>
+  <updated>2025-08-23T22:26:14.052Z</updated>
 
   <entry>
     <id>urn:uuid:cf6ae110-7cc8-5370-ad69-c0431c04455f</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ie0_Iybn5ic 【LIVE on &lt;t:1755910951:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ie0_Iybn5ic/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4438ac55-51af-5a7a-85fc-acf1c9c5e143</id>
+    <title><![CDATA[【 縦型歌枠/KARAOKE】 金曜日お疲れ様!!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/g1c7zdkKPvA" rel="alternate" type="text/html"/>
+    <published>2025-08-22T10:55:18.000Z</published>
+    <updated>2025-08-22T09:00:36.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g1c7zdkKPvA 【LIVE on &lt;t:1755853236:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g1c7zdkKPvA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -339,6 +353,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tI1a2y8sEIg 【LIVE on &lt;t:1755525621:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tI1a2y8sEIg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6714ed25-34b6-5503-9c7e-b5207075fef7</id>
+    <title><![CDATA[【Day 1】hololive English 3rd Concert -All for One-【Free Preview】]]></title>
+    <link href="https://youtu.be/HzTiec89h90" rel="alternate" type="text/html"/>
+    <published>2025-08-18T06:09:34.000Z</published>
+    <updated>2025-08-23T21:30:27.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HzTiec89h90 【LIVE on &lt;t:1755984627:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HzTiec89h90/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1502,20 +1530,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=RCduwnvOVf0 【LIVE on &lt;t:1751108109:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RCduwnvOVf0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4438ac55-51af-5a7a-85fc-acf1c9c5e143</id>
-    <title><![CDATA[【 縦型歌枠/KARAOKE】　金曜日お疲れ様！！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/g1c7zdkKPvA" rel="alternate" type="text/html"/>
-    <published>2025-06-25T12:04:43.000Z</published>
-    <updated>2025-08-22T09:00:36.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=g1c7zdkKPvA 【LIVE on &lt;t:1755853236:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g1c7zdkKPvA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
