@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-23T14:26:11.172Z</updated>
+  <updated>2025-08-23T15:26:17.577Z</updated>
+
+  <entry>
+    <id>urn:uuid:cf6ae110-7cc8-5370-ad69-c0431c04455f</id>
+    <title><![CDATA[ビリラビリラ (轟はじめ SOLO)]]></title>
+    <link href="https://youtu.be/Jz8QLag_unU" rel="alternate" type="text/html"/>
+    <published>2025-08-23T15:00:26.000Z</published>
+    <updated>2025-08-23T15:00:26.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Jz8QLag_unU 【LIVE on &lt;t:1755961226:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jz8QLag_unU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2029b813-c6d1-5c0a-a906-747353eb1569</id>
+    <title><![CDATA[ビリラビリラ (轟はじめ SOLO) (Instrumental)]]></title>
+    <link href="https://youtu.be/G4u5V2cujLg" rel="alternate" type="text/html"/>
+    <published>2025-08-23T15:00:25.000Z</published>
+    <updated>2025-08-23T15:00:25.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=G4u5V2cujLg 【LIVE on &lt;t:1755961225:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G4u5V2cujLg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:95f2c59a-f707-5513-961e-56b968890234</id>
@@ -1039,34 +1067,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2rSHipwsv_A 【LIVE on &lt;t:1754578917:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2rSHipwsv_A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:001e991a-290e-564f-9748-874961a1fec7</id>
-    <title><![CDATA[架空と本当]]></title>
-    <link href="https://youtu.be/tKtNKMUw1Ls" rel="alternate" type="text/html"/>
-    <published>2025-08-07T15:01:52.000Z</published>
-    <updated>2025-08-07T15:01:52.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tKtNKMUw1Ls 【LIVE on &lt;t:1754578912:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tKtNKMUw1Ls/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1f423886-2e75-5044-9dd6-3282c9d71d10</id>
-    <title><![CDATA[架空と本当/不知火フレア(official)]]></title>
-    <link href="https://youtu.be/1DBMg1dqfhM" rel="alternate" type="text/html"/>
-    <published>2025-08-07T13:00:06.000Z</published>
-    <updated>2025-08-07T13:00:06.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1DBMg1dqfhM 【LIVE on &lt;t:1754571606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1DBMg1dqfhM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2258,20 +2258,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=TnbY43G4q10 【LIVE on &lt;t:1732028770:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TnbY43G4q10/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fc724fcc-8d84-59c8-adbb-6f560ebe48f0</id>
-    <title><![CDATA[【安眠】KU100と耳かきマイクの2台仕様!全肯定あまあまノエママによる耳掃除&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/xv_B4BUvs8Q" rel="alternate" type="text/html"/>
-    <published>2024-11-17T15:23:44.000Z</published>
-    <updated>2024-11-17T14:00:57.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xv_B4BUvs8Q 【LIVE on &lt;t:1731852057:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xv_B4BUvs8Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
