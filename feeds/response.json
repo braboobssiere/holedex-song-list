@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-23T01:34:21.000Z",
-    "available_at": "2025-08-23T03:00:00.000Z",
+    "available_at": "2025-08-23T03:15:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -20,16 +20,16 @@
   },
   {
     "id": "Ie0_Iybn5ic",
-    "title": "【歌】そらセレクションオリ曲のエモ楽曲歌います!【ホロライブ/ときのそら】",
+    "title": "【歌】そらセレクションオリ曲のエモ楽曲歌います！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-23T00:35:02.000Z",
     "available_at": "2025-08-23T01:02:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5529,
+    "status": "past",
     "live_tl_count": {
-      "en": 82,
-      "ko": 79
+      "en": 97,
+      "ko": 94
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
