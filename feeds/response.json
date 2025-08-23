@@ -5,7 +5,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-23T01:34:21.000Z",
-    "available_at": "2025-08-23T03:15:00.000Z",
+    "available_at": "2025-08-23T03:25:50.000Z",
     "duration": 0,
     "status": "live",
     "channel": {
@@ -546,6 +546,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "HzTiec89h90",
+    "title": "【Day 1】hololive English 3rd Concert -All for One-【Free Preview】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-18T06:09:34.000Z",
+    "available_at": "2025-08-23T21:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -5517,25 +5536,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "NwwJtKqlVgw",
-    "title": "【3D】I AM AT MY FULL POWER.",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-04-15T11:50:28.000Z",
-    "available_at": "2025-04-15T05:06:20.000Z",
-    "duration": 22936,
-    "status": "past",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
