@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-24T08:13:57.000Z",
-    "available_at": "2025-08-24T12:00:00.000Z",
+    "available_at": "2025-08-24T12:02:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 29
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -83,9 +86,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-23T14:28:19.000Z",
-    "available_at": "2025-08-24T12:00:00.000Z",
+    "available_at": "2025-08-24T11:57:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
