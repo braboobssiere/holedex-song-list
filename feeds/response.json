@@ -1,5 +1,66 @@
 [
   {
+    "id": "1IUgT__sr5E",
+    "title": "【歌枠】バラード【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-24T15:17:16.000Z",
+    "available_at": "2025-08-24T16:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "_9r0xFCiU2Y",
+    "title": "La Roja Live Version",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-24T15:00:55.000Z",
+    "available_at": "2025-08-24T15:00:55.000Z",
+    "duration": 265,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCdxOqA9jmSBN9VidinCL54Q",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
+    "id": "KVfT9HhJeBo",
+    "title": "La Roja Live Version(Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-24T15:00:27.000Z",
+    "available_at": "2025-08-24T15:00:27.000Z",
+    "duration": 265,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCdxOqA9jmSBN9VidinCL54Q",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "5wOimVAtXoA",
     "title": "【 歌枠 】重大告知アリ!な歌枠 【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -9,7 +70,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 169
+      "en": 291
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -2438,27 +2499,6 @@
     }
   },
   {
-    "id": "2rSHipwsv_A",
-    "title": "架空と本当 (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-07T15:01:57.000Z",
-    "available_at": "2025-08-07T15:01:57.000Z",
-    "duration": 151,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC_YwuoS_yToW4CBYzBUMZ5w",
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
-    }
-  },
-  {
     "id": "K2osic0Civk",
     "title": "【RAP KARAOKE】gigi mori bars (no archive) with @holoen_gigimurin (RE-BROADCAST)",
     "type": "stream",
@@ -2513,25 +2553,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
-    }
-  },
-  {
-    "id": "7DV6xLfTehY",
-    "title": "???",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-07T00:09:18.000Z",
-    "available_at": "2025-08-08T11:50:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
     }
   },
   {
@@ -2786,26 +2807,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "HRWSY9ehssE",
-    "title": "【弾き語り歌枠 】ちょっと歌う【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-03T08:36:05.000Z",
-    "available_at": "2025-08-03T07:03:29.000Z",
-    "duration": 4739,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
