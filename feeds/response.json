@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 114
+      "en": 169
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -82,13 +82,13 @@
   },
   {
     "id": "NVjDIwbH12s",
-    "title": "【 歌枠 】定期歌枠「B'z」を歌うのらあああ!!!🎶 ~ KARAOKE #shorts【姫森ルーナ/ホロライブ】",
+    "title": "【 歌枠｜縦型 】定期歌枠「B'z」を歌うのらあああ！！！🎶 ～ KARAOKE #shorts【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-23T14:28:19.000Z",
     "available_at": "2025-08-24T11:57:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7922,
+    "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -97,6 +97,30 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "Ie0_Iybn5ic",
+    "title": "【歌】そらセレクションオリ曲のエモ楽曲歌います!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-23T02:49:59.000Z",
+    "available_at": "2025-08-23T01:02:31.000Z",
+    "duration": 5541,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 97,
+      "ko": 94
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
     }
   },
   {
@@ -116,30 +140,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "Ie0_Iybn5ic",
-    "title": "【歌】そらセレクションオリ曲のエモ楽曲歌います！【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-23T00:35:02.000Z",
-    "available_at": "2025-08-23T01:02:31.000Z",
-    "duration": 5529,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 97,
-      "ko": 94
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
