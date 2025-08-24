@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-24T07:26:11.354Z</updated>
+  <updated>2025-08-24T08:26:14.809Z</updated>
+
+  <entry>
+    <id>urn:uuid:a1bd1f1f-8121-5141-8e49-c081445a07cc</id>
+    <title><![CDATA[【 歌枠 】重大告知アリ!な歌枠 【百鬼あやめ/ホロライブ】]]></title>
+    <link href="https://youtu.be/5wOimVAtXoA" rel="alternate" type="text/html"/>
+    <published>2025-08-24T08:13:57.000Z</published>
+    <updated>2025-08-24T08:13:57.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5wOimVAtXoA 【LIVE on &lt;t:1756036800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5wOimVAtXoA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cf6ae110-7cc8-5370-ad69-c0431c04455f</id>
@@ -1236,20 +1250,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lVi3Wb7WShU 【LIVE on &lt;t:1754179323:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lVi3Wb7WShU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b07bc798-d067-5411-906f-5786e0deba34</id>
-    <title><![CDATA[【歌枠】第126回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/6H9TELsDSBM" rel="alternate" type="text/html"/>
-    <published>2025-08-02T18:44:07.000Z</published>
-    <updated>2025-08-02T13:03:46.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6H9TELsDSBM 【LIVE on &lt;t:1754139826:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6H9TELsDSBM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
