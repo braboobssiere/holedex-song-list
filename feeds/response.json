@@ -2876,9 +2876,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-02T07:00:10.000Z",
-    "available_at": "2025-08-24T10:00:00.000Z",
+    "available_at": "2025-08-24T10:00:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 57
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
