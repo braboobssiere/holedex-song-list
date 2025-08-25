@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-25T15:26:16.102Z</updated>
+  <updated>2025-08-25T16:26:18.890Z</updated>
+
+  <entry>
+    <id>urn:uuid:13e63d7c-e957-59f2-bc40-da003d18a2c1</id>
+    <title><![CDATA[【歌枠】重大告知あり!平成アニソン歌う!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/AXTIbGC8Zno" rel="alternate" type="text/html"/>
+    <published>2025-08-25T15:39:48.000Z</published>
+    <updated>2025-08-25T15:39:48.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AXTIbGC8Zno 【LIVE on &lt;t:1756202400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AXTIbGC8Zno/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:730047e9-38f6-5b7a-881f-5c7270de570d</id>
@@ -59,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5wOimVAtXoA 【LIVE on &lt;t:1756036947:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5wOimVAtXoA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1f6006a6-8ce4-5226-a71a-d7cfafc42f36</id>
+    <title><![CDATA[【MV】興味ないよ /  jon-YAKITORY ‐ラプラス・ダークネス (official)]]></title>
+    <link href="https://youtu.be/JaD7H9kavNE" rel="alternate" type="text/html"/>
+    <published>2025-08-24T07:28:47.000Z</published>
+    <updated>2025-08-24T07:28:47.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JaD7H9kavNE 【LIVE on &lt;t:1756202400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JaD7H9kavNE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1140,20 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:95f554bb-7ba5-525e-98e8-938f080a846e</id>
-    <title><![CDATA[ChewyChewy / 常闇トワ (official)]]></title>
-    <link href="https://youtu.be/din8MpMohyg" rel="alternate" type="text/html"/>
-    <published>2025-08-08T11:50:06.000Z</published>
-    <updated>2025-08-08T11:50:06.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=din8MpMohyg 【LIVE on &lt;t:1754653806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/din8MpMohyg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:bb36d178-1274-5f95-bc39-445f819835cc</id>
     <title><![CDATA[【縦型雑談歌枠】深夜にしっとり歌います✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/SvY4_MMfBdw" rel="alternate" type="text/html"/>
@@ -1250,20 +1264,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FuXiow-eVF8 【LIVE on &lt;t:1754305215:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FuXiow-eVF8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:04c546fe-1ca4-5d2e-964f-ffe8cd8f7e01</id>
-    <title><![CDATA[【歌】ずっと、おれ【枠】]]></title>
-    <link href="https://youtu.be/_GcNpYYTi2c" rel="alternate" type="text/html"/>
-    <published>2025-08-04T09:22:31.000Z</published>
-    <updated>2025-08-04T08:01:43.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_GcNpYYTi2c 【LIVE on &lt;t:1754294503:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_GcNpYYTi2c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
