@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-25T20:26:22.824Z</updated>
+  <updated>2025-08-25T21:02:22.941Z</updated>
+
+  <entry>
+    <id>urn:uuid:45f856cf-8934-51ea-8dd0-b72ecd845c09</id>
+    <title><![CDATA[【UNARCHIVED】洋楽歌枠!✨ENGLISH KARAOKE SUMMER!!!!🍔💖]]></title>
+    <link href="https://youtu.be/7ySQRWpkhiQ" rel="alternate" type="text/html"/>
+    <published>2025-08-25T20:46:13.000Z</published>
+    <updated>2025-08-25T21:00:00.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7ySQRWpkhiQ 【LIVE on &lt;t:1756155600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7ySQRWpkhiQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:13e63d7c-e957-59f2-bc40-da003d18a2c1</id>
@@ -1236,20 +1250,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6TQEyFUOX1Y 【LIVE on &lt;t:1754348407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6TQEyFUOX1Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4f2c1635-031d-571f-9acf-de5c9d3ef1f7</id>
-    <title><![CDATA[【歌枠】元気な曲多めで夏ぶっとばす!!!【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/_U7m48Qq2qU" rel="alternate" type="text/html"/>
-    <published>2025-08-04T12:20:51.000Z</published>
-    <updated>2025-08-04T09:02:14.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_U7m48Qq2qU 【LIVE on &lt;t:1754298134:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_U7m48Qq2qU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
