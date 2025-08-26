@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-26T02:26:12.087Z</updated>
+  <updated>2025-08-26T03:26:16.965Z</updated>
 
   <entry>
     <id>urn:uuid:45f856cf-8934-51ea-8dd0-b72ecd845c09</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AXTIbGC8Zno 【LIVE on &lt;t:1756202400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AXTIbGC8Zno/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a1bd1f1f-8121-5141-8e49-c081445a07cc</id>
+    <title><![CDATA[【 歌枠 】重大告知アリ!な歌枠 【百鬼あやめ/ホロライブ】]]></title>
+    <link href="https://youtu.be/5wOimVAtXoA" rel="alternate" type="text/html"/>
+    <published>2025-08-24T16:02:44.000Z</published>
+    <updated>2025-08-24T12:02:27.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5wOimVAtXoA 【LIVE on &lt;t:1756036947:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5wOimVAtXoA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wHsNb6213ig 【LIVE on &lt;t:1756029602:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wHsNb6213ig/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a1bd1f1f-8121-5141-8e49-c081445a07cc</id>
-    <title><![CDATA[【 歌枠 】重大告知アリ！な歌枠　【百鬼あやめ/ホロライブ】]]></title>
-    <link href="https://youtu.be/5wOimVAtXoA" rel="alternate" type="text/html"/>
-    <published>2025-08-24T08:13:57.000Z</published>
-    <updated>2025-08-24T12:02:27.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5wOimVAtXoA 【LIVE on &lt;t:1756036947:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5wOimVAtXoA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
