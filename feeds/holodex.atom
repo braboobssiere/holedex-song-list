@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-26T08:26:19.717Z</updated>
+  <updated>2025-08-26T10:26:17.535Z</updated>
+
+  <entry>
+    <id>urn:uuid:1f6006a6-8ce4-5226-a71a-d7cfafc42f36</id>
+    <title><![CDATA[【MV】興味ないよ /  jon-YAKITORY ‐ラプラス・ダークネス (official)]]></title>
+    <link href="https://youtu.be/JaD7H9kavNE" rel="alternate" type="text/html"/>
+    <published>2025-08-26T10:00:07.000Z</published>
+    <updated>2025-08-26T10:00:07.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JaD7H9kavNE 【LIVE on &lt;t:1756202407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JaD7H9kavNE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:45f856cf-8934-51ea-8dd0-b72ecd845c09</id>
@@ -24,13 +38,27 @@
     <title><![CDATA[【歌枠】重大告知あり!平成アニソン歌う!!!!!SINGING STREAM【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/AXTIbGC8Zno" rel="alternate" type="text/html"/>
     <published>2025-08-25T15:39:48.000Z</published>
-    <updated>2025-08-25T15:39:48.000Z</updated>
+    <updated>2025-08-26T10:01:33.000Z</updated>
     <author>
       <name>AZKi Channel</name>
       <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AXTIbGC8Zno 【LIVE on &lt;t:1756202400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AXTIbGC8Zno 【LIVE on &lt;t:1756202493:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AXTIbGC8Zno/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3e7adb3e-630a-50e3-a945-1ffabd92640f</id>
+    <title><![CDATA[【Day 2】hololive English 3rd Concert -All for One-【Free Preview】]]></title>
+    <link href="https://youtu.be/h4isKo0FDF8" rel="alternate" type="text/html"/>
+    <published>2025-08-24T22:37:05.000Z</published>
+    <updated>2025-08-24T21:30:22.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h4isKo0FDF8 【LIVE on &lt;t:1756071022:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h4isKo0FDF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -115,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wHsNb6213ig 【LIVE on &lt;t:1756029602:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wHsNb6213ig/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1f6006a6-8ce4-5226-a71a-d7cfafc42f36</id>
-    <title><![CDATA[【MV】興味ないよ /  jon-YAKITORY ‐ラプラス・ダークネス (official)]]></title>
-    <link href="https://youtu.be/JaD7H9kavNE" rel="alternate" type="text/html"/>
-    <published>2025-08-24T07:28:47.000Z</published>
-    <updated>2025-08-24T07:28:47.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JaD7H9kavNE 【LIVE on &lt;t:1756202400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JaD7H9kavNE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -507,20 +521,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tI1a2y8sEIg 【LIVE on &lt;t:1755525621:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tI1a2y8sEIg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3e7adb3e-630a-50e3-a945-1ffabd92640f</id>
-    <title><![CDATA[【Day 2】hololive English 3rd Concert -All for One-【Free Preview】]]></title>
-    <link href="https://youtu.be/h4isKo0FDF8" rel="alternate" type="text/html"/>
-    <published>2025-08-18T06:18:11.000Z</published>
-    <updated>2025-08-24T21:30:22.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=h4isKo0FDF8 【LIVE on &lt;t:1756071022:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h4isKo0FDF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
