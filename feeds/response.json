@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-26T10:34:09.000Z",
-    "available_at": "2025-08-26T11:30:00.000Z",
+    "available_at": "2025-08-26T11:33:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 52,
+      "ko": 48
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -58,13 +62,13 @@
   },
   {
     "id": "AXTIbGC8Zno",
-    "title": "【歌枠】重大告知あり!平成アニソン歌う!!!!!SINGING STREAM【ホロライブ / AZKi】",
+    "title": "【歌枠】重大告知あり！平成アニソン歌う！！！！！SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-25T15:39:48.000Z",
     "available_at": "2025-08-26T10:01:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5979,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
