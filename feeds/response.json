@@ -210,9 +210,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-24T12:20:57.000Z",
-    "available_at": "2025-08-26T14:00:00.000Z",
+    "available_at": "2025-08-26T13:59:57.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 28
+    },
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
