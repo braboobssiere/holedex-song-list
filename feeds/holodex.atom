@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-26T14:26:21.491Z</updated>
+  <updated>2025-08-26T15:26:15.374Z</updated>
+
+  <entry>
+    <id>urn:uuid:c8bff0f3-46d5-575b-94d4-2c21fec82ee1</id>
+    <title><![CDATA[興味ないよ]]></title>
+    <link href="https://youtu.be/UePsNY7XcLU" rel="alternate" type="text/html"/>
+    <published>2025-08-26T15:01:00.000Z</published>
+    <updated>2025-08-26T15:01:00.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UePsNY7XcLU 【LIVE on &lt;t:1756220460:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UePsNY7XcLU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:217bc6f1-179b-5d89-b78f-bf362391486f</id>
+    <title><![CDATA[興味ないよ(Instrumental)]]></title>
+    <link href="https://youtu.be/R3iRH32L4Tw" rel="alternate" type="text/html"/>
+    <published>2025-08-26T15:00:47.000Z</published>
+    <updated>2025-08-26T15:00:47.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R3iRH32L4Tw 【LIVE on &lt;t:1756220447:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R3iRH32L4Tw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:84393f1f-6c7a-5566-9901-8553dce4e60b</id>
@@ -1165,34 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4P40vPK8Z8E 【LIVE on &lt;t:1754661843:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4P40vPK8Z8E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:92590a82-9bf2-56db-89ff-ffaeb7e0cf5b</id>
-    <title><![CDATA[ChewyChewy]]></title>
-    <link href="https://youtu.be/TOuAHD39G1o" rel="alternate" type="text/html"/>
-    <published>2025-08-08T15:03:37.000Z</published>
-    <updated>2025-08-08T15:03:37.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TOuAHD39G1o 【LIVE on &lt;t:1754665417:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TOuAHD39G1o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fafbabaf-da24-5c61-b1db-699ae00d6de0</id>
-    <title><![CDATA[ChewyChewy (Instrumental)]]></title>
-    <link href="https://youtu.be/OaM-lUP9xJQ" rel="alternate" type="text/html"/>
-    <published>2025-08-08T15:02:58.000Z</published>
-    <updated>2025-08-08T15:02:58.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OaM-lUP9xJQ 【LIVE on &lt;t:1754665378:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OaM-lUP9xJQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
