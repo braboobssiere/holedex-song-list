@@ -92,7 +92,7 @@
     "published_at": "2025-08-25T20:46:13.000Z",
     "available_at": "2025-08-25T21:03:26.000Z",
     "duration": 7771,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -273,9 +273,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-24T13:36:03.000Z",
-    "available_at": "2025-08-27T10:00:00.000Z",
+    "available_at": "2025-08-27T10:00:33.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 15
+    },
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
