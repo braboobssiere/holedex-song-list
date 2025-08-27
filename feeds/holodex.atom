@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-27T14:26:27.760Z</updated>
+  <updated>2025-08-27T15:26:17.655Z</updated>
+
+  <entry>
+    <id>urn:uuid:5d753e19-f195-5125-9596-fa8396432e0b</id>
+    <title><![CDATA[【深夜歌枠】歌いたくなったら、歌う🎵【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/X8OpFJ16t4M" rel="alternate" type="text/html"/>
+    <published>2025-08-27T15:11:30.000Z</published>
+    <updated>2025-08-27T15:15:51.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=X8OpFJ16t4M 【LIVE on &lt;t:1756307751:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X8OpFJ16t4M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c8bff0f3-46d5-575b-94d4-2c21fec82ee1</id>
@@ -59,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JaD7H9kavNE 【LIVE on &lt;t:1756202407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JaD7H9kavNE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:407a38ce-bc1a-5f34-b6e4-e5d03031e13e</id>
+    <title><![CDATA[【アニソン歌枠】アニソン歌いタイガー!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/QYP3_zsXQeo" rel="alternate" type="text/html"/>
+    <published>2025-08-26T09:52:37.000Z</published>
+    <updated>2025-08-26T09:52:37.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QYP3_zsXQeo 【LIVE on &lt;t:1756371600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QYP3_zsXQeo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1250,20 +1278,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dcis0Y2RjJA 【LIVE on &lt;t:1754358912:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dcis0Y2RjJA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:42f4d2dc-a427-538d-92c5-a2144d85cfb3</id>
-    <title><![CDATA[【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/6TQEyFUOX1Y" rel="alternate" type="text/html"/>
-    <published>2025-08-05T00:18:06.000Z</published>
-    <updated>2025-08-04T23:00:07.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6TQEyFUOX1Y 【LIVE on &lt;t:1754348407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6TQEyFUOX1Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>

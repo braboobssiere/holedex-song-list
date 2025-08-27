@@ -1,5 +1,24 @@
 [
   {
+    "id": "X8OpFJ16t4M",
+    "title": "【深夜歌枠】歌いたくなったら、歌う🎵【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-27T15:11:30.000Z",
+    "available_at": "2025-08-27T15:15:51.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "UePsNY7XcLU",
     "title": "興味ないよ",
     "type": "stream",
@@ -82,6 +101,44 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
+    }
+  },
+  {
+    "id": "QYP3_zsXQeo",
+    "title": "【アニソン歌枠】アニソン歌いタイガー!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-26T09:52:37.000Z",
+    "available_at": "2025-08-28T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "c3uO-sYEfek",
+    "title": "【3D】水着美女 vs 水着拝み隊【#水着美女釣り】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-26T05:48:51.000Z",
+    "available_at": "2025-08-28T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -2787,26 +2844,6 @@
     }
   },
   {
-    "id": "6TQEyFUOX1Y",
-    "title": "【 縦型歌枠 】ゲリラをやりたがっている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-05T00:18:06.000Z",
-    "available_at": "2025-08-04T23:00:07.000Z",
-    "duration": 4033,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
     "id": "EvSnjzZe9X0",
     "title": "【KARAOKE】Do we archive or unarchive? Do we drink or no drink? We shall see and I will take Bribes🧡",
     "type": "stream",
@@ -2823,25 +2860,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "vTy0wYvIGxs",
-    "title": "【 洋楽歌枠｜縦型 】英語の歌をふなふな歌うのら～～！！！🎵 ～ KARAOKE #shorts【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-04T02:51:38.000Z",
-    "available_at": "2025-08-04T11:58:04.000Z",
-    "duration": 7937,
-    "status": "missing",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -5591,24 +5609,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "GE88tKC_BLs",
-    "title": "【天才】全部答えます!かなでおねえさんの質問コーナー【#かなでといっしょ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-04-19T09:00:06.000Z",
-    "available_at": "2025-04-19T09:00:06.000Z",
-    "duration": 168,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
