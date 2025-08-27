@@ -50,6 +50,7 @@
     "available_at": "2025-08-26T11:33:19.000Z",
     "duration": 5476,
     "status": "past",
+    "songcount": 13,
     "live_tl_count": {
       "en": 94,
       "ko": 85
@@ -111,6 +112,7 @@
     "available_at": "2025-08-26T10:01:33.000Z",
     "duration": 5979,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -119,6 +121,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "oXmpxF5tBAo",
+    "title": "#33【RiTunes Labo】生セッション歌枠：ゲスト『彩音れおん』【律可/ホロスターズ 】#りちゅらぼ",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-25T14:00:22.000Z",
+    "available_at": "2025-08-25T12:01:08.000Z",
+    "duration": 4970,
+    "status": "past",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
     }
   },
   {
@@ -387,25 +408,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "oXmpxF5tBAo",
-    "title": "#33【RiTunes Labo】生セッション歌枠：ゲスト『彩音れおん』【律可/ホロスターズ 】#りちゅらぼ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-23T11:57:42.000Z",
-    "available_at": "2025-08-25T12:01:08.000Z",
-    "duration": 4973,
-    "status": "past",
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
