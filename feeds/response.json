@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-28T11:05:02.000Z",
-    "available_at": "2025-08-28T13:00:00.000Z",
+    "available_at": "2025-08-28T13:01:29.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -35,6 +35,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "UI-11T9KmNQ",
+    "title": "【アドリブ】1コマ少女漫画家演じてみた【#轟はじめ演じてみた】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-28T10:00:06.000Z",
+    "available_at": "2025-08-28T10:00:06.000Z",
+    "duration": 588,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5591,25 +5609,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Goldbullet"
-    }
-  },
-  {
-    "id": "7c_0Ft2M1-M",
-    "title": "【3D SORAWRITEA】READING YOUR TEA ON STREAM",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-04-20T15:45:30.000Z",
-    "available_at": "2025-04-20T11:00:13.000Z",
-    "duration": 15968,
-    "status": "past",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
