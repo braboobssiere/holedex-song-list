@@ -1,13 +1,32 @@
 [
   {
+    "id": "BJCv-gDPdzQ",
+    "title": "【 縦型歌枠 】ノープランだぁ;;【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-28T11:05:02.000Z",
+    "available_at": "2025-08-28T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "xVVYfwhl3vg",
     "title": "【弾き語り歌枠 】8月下旬の歌【律可/ホロスターズ 】#りつすた",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-28T09:25:07.000Z",
-    "available_at": "2025-08-28T10:30:00.000Z",
+    "available_at": "2025-08-28T10:31:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -190,8 +209,8 @@
     "topic_id": "singing",
     "published_at": "2025-08-26T09:52:37.000Z",
     "available_at": "2025-08-28T09:02:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6541,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -2899,25 +2918,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "hFdnI5DrbPU",
-    "title": "【RAP KARAOKE】gigi mori bars (no archive) with @holoen_gigimurin",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-03T08:07:39.000Z",
-    "available_at": "2025-08-06T00:00:59.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
