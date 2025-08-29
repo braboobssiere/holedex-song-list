@@ -1,5 +1,43 @@
 [
   {
+    "id": "4v1LPpY82ro",
+    "title": "【歌枠】週末&月末、秋になる前に夏の曲を歌いたい。【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-29T08:09:17.000Z",
+    "available_at": "2025-08-29T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "LAiU9ZS-ZQE",
+    "title": "【歌枠】夏っぽい歌を歌うよー【花咲みやび/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-29T07:42:50.000Z",
+    "available_at": "2025-08-29T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
+      "name": "Miyabi Ch. 花咲みやび",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hanasaki Miyabi"
+    }
+  },
+  {
     "id": "QxWHVbJnV28",
     "title": "【歌枠/karaoke】縦型歌枠…💙🎧【水宮枢/ホロライブDEV_IS】",
     "type": "stream",
@@ -154,6 +192,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "dpcCFGRm5zM",
+    "title": "【3D】hololive English -Advent- 2nd Anniversary Live: On the Run!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-28T08:07:47.000Z",
+    "available_at": "2025-08-30T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -2808,26 +2865,6 @@
     }
   },
   {
-    "id": "SvY4_MMfBdw",
-    "title": "【縦型雑談歌枠】深夜にしっとり歌います✨【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-07T16:14:08.000Z",
-    "available_at": "2025-08-07T13:58:18.000Z",
-    "duration": 7138,
-    "status": "past",
-    "songcount": 14,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "sDuSWYecrp0",
     "title": "【6周年カウントダウン】団員さんと迎えたいッ!【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -2882,25 +2919,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWoZ_onsr56ZbnQQ21cnkYPfKTMJNHN3UOc1lmr44mTuc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshikawa Sara"
-    }
-  },
-  {
-    "id": "GmInOhnD2Lg",
-    "title": "【Unarchived Karaoke】Yay Treating Myself",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-07T04:03:36.000Z",
-    "available_at": "2025-08-07T05:02:04.000Z",
-    "duration": 8284,
-    "status": "missing",
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
@@ -5574,25 +5592,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "wUoY1Fx4kbI",
-    "title": "【UPROAR!!】その話題を口にしたらもう止まらない!? ※時間の都合で倍速でお届け【#アップロー3周年】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-04-21T10:01:27.000Z",
-    "available_at": "2025-04-21T10:01:27.000Z",
-    "duration": 88,
-    "status": "past",
-    "channel": {
-      "id": "UCWsfcksUUpoEvhia0_ut0bA",
-      "name": "holostars ホロスターズ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0bOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HOLOSTARS Official"
     }
   },
   {
