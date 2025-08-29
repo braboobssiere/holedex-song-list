@@ -1,5 +1,24 @@
 [
   {
+    "id": "jLNF3lSaQ6s",
+    "title": "【 歌枠 l KARAOKE 】くらえ、幽霊の高音を。【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-29T11:31:04.000Z",
+    "available_at": "2025-08-29T12:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "zA_V2jVqvnI",
     "title": "【アドリブ】伝説の新入生演じてみた【#轟はじめ演じてみた】",
     "type": "stream",
@@ -19,13 +38,13 @@
   },
   {
     "id": "4v1LPpY82ro",
-    "title": "【歌枠】週末&月末、秋になる前に夏の曲を歌いたい。【岸堂天真/ホロスターズ】",
+    "title": "【歌枠】週末＆月末、秋になる前に夏の曲を歌いたい。【岸堂天真/ホロスターズ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-29T08:09:17.000Z",
     "available_at": "2025-08-29T10:33:02.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3846,
+    "status": "past",
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -2842,25 +2861,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "oMfW-zaxdYI",
-    "title": "【※No archive】BOY’S KARAOKE【】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-07T21:04:04.000Z",
-    "available_at": "2025-08-07T22:19:54.000Z",
-    "duration": 6322,
-    "status": "missing",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
