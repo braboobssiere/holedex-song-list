@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-30T19:26:12.103Z</updated>
+  <updated>2025-08-30T20:26:12.328Z</updated>
 
   <entry>
     <id>urn:uuid:7d02b1e4-b776-5d8b-8b90-10fdfb7b05b5</id>
-    <title><![CDATA[【縦型歌枠】眠れないので深夜の歌やりゅ 【ホロライブ/ ロボ子さん】]]></title>
+    <title><![CDATA[【縦型歌枠】眠れないので深夜の歌やりゅ　【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/JCjGuZsmyIY" rel="alternate" type="text/html"/>
     <published>2025-08-30T17:22:01.000Z</published>
     <updated>2025-08-30T17:22:43.000Z</updated>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Sr0xKJ6ZK_0 【LIVE on &lt;t:1756562904:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Sr0xKJ6ZK_0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9f6c2047-7220-5625-8fc5-afaaeb924ded</id>
+    <title><![CDATA[【ASMR】9月も頑張れる♡まだまだ暑い日に気持ちイイ♡心安らぐ安眠ASMR💤【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/AlOdoA5eoTk" rel="alternate" type="text/html"/>
+    <published>2025-08-30T11:28:02.000Z</published>
+    <updated>2025-08-30T11:28:02.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AlOdoA5eoTk 【LIVE on &lt;t:1756648800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AlOdoA5eoTk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2313,20 +2327,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Z9O494QY-ao 【LIVE on &lt;t:1733022093:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9O494QY-ao/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8095797f-d9dd-51b8-a97b-70f14b312c20</id>
-    <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
-    <published>2024-11-26T16:37:44.000Z</published>
-    <updated>2024-11-26T15:03:35.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
