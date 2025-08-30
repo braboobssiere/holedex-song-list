@@ -86,7 +86,7 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-30T13:00:40.000Z",
-    "available_at": "2025-08-31T01:00:00.000Z",
+    "available_at": "2025-08-31T03:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -126,6 +126,7 @@
     "available_at": "2025-08-30T09:00:32.000Z",
     "duration": 7644,
     "status": "past",
+    "songcount": 24,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -245,6 +246,7 @@
     "available_at": "2025-08-29T13:10:21.000Z",
     "duration": 6784,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -264,6 +266,7 @@
     "available_at": "2025-08-29T12:31:18.000Z",
     "duration": 6640,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -301,6 +304,7 @@
     "available_at": "2025-08-30T09:59:51.000Z",
     "duration": 3594,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -320,6 +324,7 @@
     "available_at": "2025-08-29T10:33:02.000Z",
     "duration": 3846,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -339,6 +344,7 @@
     "available_at": "2025-08-29T09:06:42.000Z",
     "duration": 4491,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UC6t3-_N8A6ME1JShZHHqOMw",
       "name": "Miyabi Ch. 花咲みやび",
@@ -564,6 +570,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "g-5lMh2yOH8",
+    "title": "【2周年旅行Vlog】#ReGLOSSのなつやすみ in 北海道【PART3】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-27T06:23:31.000Z",
+    "available_at": "2025-08-31T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5575,26 +5599,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HOLOSTARS Official"
-    }
-  },
-  {
-    "id": "PVqmVjYuYNU",
-    "title": "【 #水無世燐央3周年記念歌凸企画 】2年ぶりに歌凸だ〜〜!!素敵な方々とたくさん歌わせていただく!【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-04-27T12:13:08.000Z",
-    "available_at": "2025-04-27T09:00:32.000Z",
-    "duration": 10994,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
