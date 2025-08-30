@@ -28,7 +28,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 25
+      "en": 26
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -652,21 +652,22 @@
     }
   },
   {
-    "id": "g-5lMh2yOH8",
-    "title": "【2周年旅行Vlog】#ReGLOSSのなつやすみ in 北海道【PART3】",
+    "id": "UfH2jJ2OjLo",
+    "title": "【ASMR】8月終了?寝かせてあげないメスガキASMR💜 睡眠導入/耳かき/炭酸マッサージ【ホロライブ/ ロボ子さん】",
     "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-08-27T06:23:31.000Z",
-    "available_at": "2025-08-31T10:00:00.000Z",
+    "topic_id": "asmr",
+    "published_at": "2025-08-27T01:19:57.000Z",
+    "available_at": "2025-08-31T13:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
       "org": "Hololive",
-      "suborg": "0fOfficial",
+      "suborg": "0w0th Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -5599,6 +5600,25 @@
     }
   },
   {
+    "id": "fd0QHadyU0g",
+    "title": "【UPROAR!!】これまでのダンスを振り返ってみた!【#アップロー3周年】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-04-28T10:01:08.000Z",
+    "available_at": "2025-04-28T10:01:08.000Z",
+    "duration": 101,
+    "status": "past",
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
+    }
+  },
+  {
     "id": "ddlKdN0kwjI",
     "title": "【 ASMR 】低音ボイスで君にご奉仕します😸 / 耳かき/吐息/囁き/マッサージ…KU-100 Ear Cleaning 【 猫又おかゆ/ホロライブ 】",
     "type": "stream",
@@ -6415,25 +6435,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "TnbY43G4q10",
-    "title": "【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2024-11-19T16:34:58.000Z",
-    "available_at": "2024-11-19T15:06:10.000Z",
-    "duration": 5103,
-    "status": "past",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
