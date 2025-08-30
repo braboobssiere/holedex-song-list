@@ -1,13 +1,35 @@
 [
   {
+    "id": "E2D_YFRHFG8",
+    "title": "【#兎田ぺこら6周年記念LIVE】周年3D LIVE!ぺこらRUSH!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-30T18:14:44.000Z",
+    "available_at": "2025-08-31T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "JCjGuZsmyIY",
     "title": "【縦型歌枠】眠れないので深夜の歌やりゅ 【ホロライブ/ ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-30T17:22:01.000Z",
-    "available_at": "2025-08-30T17:20:00.000Z",
+    "available_at": "2025-08-30T17:22:43.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 25
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -440,7 +462,7 @@
     "published_at": "2025-08-29T04:57:42.000Z",
     "available_at": "2025-08-29T05:06:13.000Z",
     "duration": 4004,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -5574,25 +5596,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "fd0QHadyU0g",
-    "title": "【UPROAR!!】これまでのダンスを振り返ってみた!【#アップロー3周年】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-04-28T10:01:08.000Z",
-    "available_at": "2025-04-28T10:01:08.000Z",
-    "duration": 101,
-    "status": "past",
-    "channel": {
-      "id": "UCWsfcksUUpoEvhia0_ut0bA",
-      "name": "holostars ホロスターズ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0bOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "HOLOSTARS Official"
     }
   },
   {
