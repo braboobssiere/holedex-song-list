@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-30T02:26:14.920Z</updated>
+  <updated>2025-08-30T03:26:15.181Z</updated>
+
+  <entry>
+    <id>urn:uuid:b3f54d51-da9c-5e04-b34d-ffbcff058974</id>
+    <title><![CDATA[【MV】Prisoner【hololive English -Advent- Original Song】]]></title>
+    <link href="https://youtu.be/YDyrIDHAdDY" rel="alternate" type="text/html"/>
+    <published>2025-08-30T03:06:06.000Z</published>
+    <updated>2025-08-30T03:06:06.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YDyrIDHAdDY 【LIVE on &lt;t:1756523166:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YDyrIDHAdDY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a4654533-9cb8-5f9f-a6d9-035db95af08b</id>
@@ -1193,20 +1207,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vTsOdumJEOY 【LIVE on &lt;t:1754827130:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vTsOdumJEOY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:42116871-2b26-5d7d-8171-67a869b1293e</id>
-    <title><![CDATA[感触 / 赤井はあと (official)]]></title>
-    <link href="https://youtu.be/sPVnvaBjQI0" rel="alternate" type="text/html"/>
-    <published>2025-08-10T13:00:06.000Z</published>
-    <updated>2025-08-10T13:00:06.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sPVnvaBjQI0 【LIVE on &lt;t:1754830806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sPVnvaBjQI0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
