@@ -1,13 +1,31 @@
 [
   {
+    "id": "wKHQyJm1Lu8",
+    "title": "ReGLOSS - SPECIAL LIVE!【YouTube Music Weekend 10.0】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-30T09:20:06.000Z",
+    "available_at": "2025-08-30T09:20:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "bLTVdFMS1Qg",
     "title": "【歌枠/KARAOKE】夏のおわりに騒ぐ~~~歌う~~~🎤✨️🎶【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-30T08:17:10.000Z",
-    "available_at": "2025-08-30T09:00:00.000Z",
+    "available_at": "2025-08-30T09:00:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -201,7 +219,7 @@
     "published_at": "2025-08-29T09:46:29.000Z",
     "available_at": "2025-08-30T09:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -306,25 +324,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "ZbG_mMJkX-Y",
-    "title": "【ダイジェスト映像】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」LIVE Blu-ray Digest Movie【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-28T13:45:00.000Z",
-    "available_at": "2025-08-30T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
     }
   },
   {
@@ -1059,24 +1058,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "wKHQyJm1Lu8",
-    "title": "ReGLOSS - SPECIAL LIVE!【YouTube Music Weekend 10.0】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-22T06:16:38.000Z",
-    "available_at": "2025-08-30T09:20:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2651,6 +2632,27 @@
     "published_at": "2025-08-10T15:02:01.000Z",
     "available_at": "2025-08-10T15:02:01.000Z",
     "duration": 216,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "LyynHs0Qz-4",
+    "title": "感触 (Piano Jazz ver.)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-10T15:01:55.000Z",
+    "available_at": "2025-08-10T15:01:55.000Z",
+    "duration": 321,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
