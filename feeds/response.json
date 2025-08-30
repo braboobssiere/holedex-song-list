@@ -659,9 +659,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-26T01:49:18.000Z",
-    "available_at": "2025-08-30T12:00:00.000Z",
+    "available_at": "2025-08-30T12:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
       "name": "Kaela Kovalskia Ch. hololive-ID",
@@ -713,15 +713,15 @@
   },
   {
     "id": "LHg1yJ9AJ7k",
-    "title": "【重大告知あり】魔法少女集結!力を合わせて試練をクリアせよ!【フブキ&ラミィ #ホロウィッチ 衣装3Dお披露目】",
+    "title": "【重大告知あり】魔法少女集結！力を合わせて試練をクリアせよ！【フブキ&ラミィ #ホロウィッチ 衣装3Dお披露目】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-08-25T11:34:45.000Z",
     "available_at": "2025-08-30T10:57:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3504,
+    "status": "past",
     "live_tl_count": {
-      "en": 57
+      "en": 130
     },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
