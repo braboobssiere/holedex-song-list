@@ -77,25 +77,6 @@
     }
   },
   {
-    "id": "0Ad8sZRwpdQ",
-    "title": "【 すぱちゃお礼雑談 l FREE TALK 】誕生日お祝いしてくれてありがとう【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-08-29T16:47:21.000Z",
-    "available_at": "2025-08-30T07:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
     "id": "uFD4TYQc6ro",
     "title": "from A to Z (Re:arrange ver.) (Instrumental)",
     "type": "stream",
@@ -306,6 +287,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "ZbG_mMJkX-Y",
+    "title": "【ダイジェスト映像】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」LIVE Blu-ray Digest Movie【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-28T13:45:00.000Z",
+    "available_at": "2025-08-30T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
     }
   },
   {
@@ -2646,27 +2646,6 @@
     }
   },
   {
-    "id": "LyynHs0Qz-4",
-    "title": "感触 (Piano Jazz ver.)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-10T15:01:55.000Z",
-    "available_at": "2025-08-10T15:01:55.000Z",
-    "duration": 321,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCVmMfHMkWlVPX3QQeFofybw",
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
-    }
-  },
-  {
     "id": "TWtCxwuM0pc",
     "title": "【弾き語り歌枠 】歌う!!!【律可/ホロスターズ 】#りつすた",
     "type": "stream",
@@ -4843,6 +4822,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "_MANvlxbPeM",
+    "title": "【BIRTHDAY STREAM】Birthday Customs!! #NayuCelebrate2025【Nayuta Umbrage | FIRST STAGE PRODUCTION EN】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-06-11T08:49:01.000Z",
+    "available_at": "2025-06-10T20:00:20.000Z",
+    "duration": 42900,
+    "status": "past",
+    "channel": {
+      "id": "UCkN17JBEg63-17srUnyfWaA",
+      "name": "Nayuta Umbrage【FIRST STAGE PRODUCTION EN】",
+      "org": "FIRST STAGE PRODUCTION",
+      "suborg": "3bEN Ravanis",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gSr61dRFWSAjYijPWELrQ_Tx40aStbhyZ2tHaDS8aZoLiHfqv66ZZv7oZ4DFRv0DSQ3LVUzwnA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nayuta Umbrage"
     }
   },
   {

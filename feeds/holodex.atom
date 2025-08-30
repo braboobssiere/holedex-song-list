@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-30T05:26:12.259Z</updated>
+  <updated>2025-08-30T06:26:15.735Z</updated>
 
   <entry>
     <id>urn:uuid:b3f54d51-da9c-5e04-b34d-ffbcff058974</id>
@@ -143,6 +143,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BJCv-gDPdzQ 【LIVE on &lt;t:1756386089:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BJCv-gDPdzQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4b028b6b-766c-5a15-ab73-48b63be62f66</id>
+    <title><![CDATA[【ダイジェスト映像】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」LIVE Blu-ray Digest Movie【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/ZbG_mMJkX-Y" rel="alternate" type="text/html"/>
+    <published>2025-08-28T13:45:00.000Z</published>
+    <updated>2025-08-28T13:45:00.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZbG_mMJkX-Y 【LIVE on &lt;t:1756544400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZbG_mMJkX-Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Onc7Kkle7yQ 【LIVE on &lt;t:1754838121:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Onc7Kkle7yQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6fdddb6a-50cc-54d2-8ba7-fcf4f4ab25e5</id>
-    <title><![CDATA[感触 (Piano Jazz ver.)]]></title>
-    <link href="https://youtu.be/LyynHs0Qz-4" rel="alternate" type="text/html"/>
-    <published>2025-08-10T15:01:55.000Z</published>
-    <updated>2025-08-10T15:01:55.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LyynHs0Qz-4 【LIVE on &lt;t:1754838115:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LyynHs0Qz-4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
