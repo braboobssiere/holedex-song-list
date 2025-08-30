@@ -1,13 +1,13 @@
 [
   {
     "id": "H92Wl2uKN-8",
-    "title": "【歌枠】いろいろ歌いたい曲を歌いタイガー!【虎金妃笑虎】",
+    "title": "【歌枠】いろいろ歌いたい曲を歌いタイガー！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-30T00:09:31.000Z",
     "available_at": "2025-08-30T00:09:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5545,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -269,6 +269,26 @@
     }
   },
   {
+    "id": "BJCv-gDPdzQ",
+    "title": "【 縦型歌枠 】ノープランだぁ;;【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-28T15:16:51.000Z",
+    "available_at": "2025-08-28T13:01:29.000Z",
+    "duration": 7423,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "XG0WLXP1qLA",
     "title": "dahlah. - Kaela Kovalskia",
     "type": "stream",
@@ -329,26 +349,6 @@
     }
   },
   {
-    "id": "BJCv-gDPdzQ",
-    "title": "【 縦型歌枠 】ノープランだぁ；；【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-28T11:05:02.000Z",
-    "available_at": "2025-08-28T13:01:29.000Z",
-    "duration": 7460,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
     "id": "UI-11T9KmNQ",
     "title": "【アドリブ】1コマ少女漫画家演じてみた【#轟はじめ演じてみた】",
     "type": "stream",
@@ -391,9 +391,10 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-28T08:07:47.000Z",
-    "available_at": "2025-08-30T02:00:00.000Z",
+    "available_at": "2025-08-30T01:57:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 2,
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
       "name": "hololive English",
