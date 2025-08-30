@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-29T23:26:14.546Z</updated>
+  <updated>2025-08-30T00:26:16.892Z</updated>
+
+  <entry>
+    <id>urn:uuid:a4654533-9cb8-5f9f-a6d9-035db95af08b</id>
+    <title><![CDATA[【歌枠】いろいろ歌いたい曲を歌いタイガー!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/H92Wl2uKN-8" rel="alternate" type="text/html"/>
+    <published>2025-08-30T00:09:31.000Z</published>
+    <updated>2025-08-30T00:09:50.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=H92Wl2uKN-8 【LIVE on &lt;t:1756512590:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/H92Wl2uKN-8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bcdd3703-fc07-5108-8efa-b5d69e49630a</id>
+    <title><![CDATA[【歌枠】いろいろ歌いたい曲を歌いタイガー！【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/7JKEL5-EeD8" rel="alternate" type="text/html"/>
+    <published>2025-08-30T00:00:19.000Z</published>
+    <updated>2025-08-30T00:00:37.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7JKEL5-EeD8 【LIVE on &lt;t:1756512037:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7JKEL5-EeD8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:14f0f322-e834-5d92-9607-5065bb7509aa</id>
@@ -1221,20 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-0RzTyI5nOY 【LIVE on &lt;t:1754783683:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-0RzTyI5nOY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6441e0fc-36d7-526e-b7eb-856a1dfa4ceb</id>
-    <title><![CDATA[【#FGカラオケ初コラボ】真夏の大熱唱!熱帯夜をぶっ飛ばせえぇぇぇえええ!!!]]></title>
-    <link href="https://youtu.be/xThDC1ixysc" rel="alternate" type="text/html"/>
-    <published>2025-08-09T12:04:25.000Z</published>
-    <updated>2025-08-09T10:58:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xThDC1ixysc 【LIVE on &lt;t:1754737087:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xThDC1ixysc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
