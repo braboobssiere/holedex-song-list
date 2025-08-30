@@ -19,13 +19,13 @@
   },
   {
     "id": "bLTVdFMS1Qg",
-    "title": "【歌枠/KARAOKE】夏のおわりに騒ぐ~~~歌う~~~🎤✨️🎶【尾丸ポルカ/ホロライブ】",
+    "title": "【歌枠/KARAOKE】夏のおわりに騒ぐ～～～歌う～～～🎤✨️🎶【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-30T08:17:10.000Z",
     "available_at": "2025-08-30T09:00:32.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7644,
+    "status": "past",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -213,13 +213,13 @@
   },
   {
     "id": "xup6KMhz-9M",
-    "title": "【歌枠 / 告知アリ!】告知します!歌います!!【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠 / 告知アリ！】告知します！歌います！！【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-29T09:46:29.000Z",
     "available_at": "2025-08-30T09:59:51.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3594,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -717,9 +717,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-08-25T11:34:45.000Z",
-    "available_at": "2025-08-30T11:00:00.000Z",
+    "available_at": "2025-08-30T10:57:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 57
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
