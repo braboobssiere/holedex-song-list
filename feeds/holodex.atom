@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-31T21:26:12.935Z</updated>
+  <updated>2025-08-31T22:26:10.955Z</updated>
 
   <entry>
     <id>urn:uuid:4e8b0aa5-28ba-56a8-b5a4-9521180fe921</id>
@@ -189,9 +189,9 @@
 
   <entry>
     <id>urn:uuid:d7a7cfa1-3165-5ae2-ac9b-392559c350a4</id>
-    <title><![CDATA[【歌枠/KARAOKE】夏のおわりに騒ぐ～～～歌う～～～🎤✨️🎶【尾丸ポルカ/ホロライブ】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】夏のおわりに騒ぐ~~~歌う~~~🎤✨️🎶【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/bLTVdFMS1Qg" rel="alternate" type="text/html"/>
-    <published>2025-08-30T08:17:10.000Z</published>
+    <published>2025-08-30T11:20:55.000Z</published>
     <updated>2025-08-30T09:00:32.000Z</updated>
     <author>
       <name>Polka Ch. 尾丸ポルカ</name>
@@ -199,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bLTVdFMS1Qg 【LIVE on &lt;t:1756544432:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bLTVdFMS1Qg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c7451e21-d389-58f9-b702-2d4d321de229</id>
+    <title><![CDATA[【歌枠 / 告知アリ!】告知します!歌います!!【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/xup6KMhz-9M" rel="alternate" type="text/html"/>
+    <published>2025-08-30T11:11:49.000Z</published>
+    <updated>2025-08-30T09:59:51.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xup6KMhz-9M 【LIVE on &lt;t:1756547991:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xup6KMhz-9M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -283,20 +297,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=omG4qLuyG60 【LIVE on &lt;t:1756458051:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/omG4qLuyG60/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c7451e21-d389-58f9-b702-2d4d321de229</id>
-    <title><![CDATA[【歌枠 / 告知アリ！】告知します！歌います！！【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/xup6KMhz-9M" rel="alternate" type="text/html"/>
-    <published>2025-08-29T09:46:29.000Z</published>
-    <updated>2025-08-30T09:59:51.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xup6KMhz-9M 【LIVE on &lt;t:1756547991:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xup6KMhz-9M/maxresdefault.jpg"/>
   </entry>
 
   <entry>
