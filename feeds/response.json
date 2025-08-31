@@ -1,5 +1,24 @@
 [
   {
+    "id": "6OGGfd0_Xk4",
+    "title": "【歌】あともう少しで131万!この枠でいくかな~?【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-31T05:03:46.000Z",
+    "available_at": "2025-08-31T05:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "E2D_YFRHFG8",
     "title": "【#兎田ぺこら6周年記念LIVE】周年3D LIVE!ぺこらRUSH!!!!!!!ぺこ!【ホロライブ/兎田ぺこら】",
     "type": "stream",
@@ -169,7 +188,7 @@
     "available_at": "2025-08-31T03:03:15.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 13,
+    "songcount": 20,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -274,6 +293,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "ffY22oNjMPA",
+    "title": "【#dahlahday COUNTDOWN】ok so what's to expect this year? (except embracing the dahlah...)",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-08-29T18:21:52.000Z",
+    "available_at": "2025-08-29T15:59:56.000Z",
+    "duration": 8012,
+    "status": "past",
+    "live_tl_count": {
+      "en": 7
+    },
+    "channel": {
+      "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "name": "Kaela Kovalskia Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kaela Kovalskia"
     }
   },
   {
@@ -836,28 +877,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "ffY22oNjMPA",
-    "title": "【#dahlahday COUNTDOWN】ok so what's to expect this year? (except embracing the dahlah...)",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-08-26T02:02:04.000Z",
-    "available_at": "2025-08-29T15:59:56.000Z",
-    "duration": 8010,
-    "status": "past",
-    "live_tl_count": {
-      "en": 7
-    },
-    "channel": {
-      "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-      "name": "Kaela Kovalskia Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kaela Kovalskia"
     }
   },
   {
@@ -2730,25 +2749,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "0E0xg7_mig0",
-    "title": "【UNARCHIVED KARAOKE】 Trying new mic sE V7 ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-11T11:15:45.000Z",
-    "available_at": "2025-08-11T11:30:41.000Z",
-    "duration": 12561,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
