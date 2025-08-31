@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-31T18:26:11.782Z</updated>
+  <updated>2025-08-31T19:26:11.874Z</updated>
 
   <entry>
     <id>urn:uuid:4e8b0aa5-28ba-56a8-b5a4-9521180fe921</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6OGGfd0_Xk4 【LIVE on &lt;t:1756618313:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6OGGfd0_Xk4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aac71358-7ccc-5239-8290-a70fef69c0ef</id>
+    <title><![CDATA[【#兎田ぺこら6周年記念LIVE】周年3D LIVE！ぺこらRUSH！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】]]></title>
+    <link href="https://youtu.be/E2D_YFRHFG8" rel="alternate" type="text/html"/>
+    <published>2025-08-30T18:14:44.000Z</published>
+    <updated>2025-08-31T12:00:44.000Z</updated>
+    <author>
+      <name>Pekora Ch. 兎田ぺこら</name>
+      <uri>https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E2D_YFRHFG8 【LIVE on &lt;t:1756641644:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E2D_YFRHFG8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
