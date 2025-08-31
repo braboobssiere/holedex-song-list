@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-08-31T01:26:13.045Z</updated>
+  <updated>2025-08-31T02:26:10.532Z</updated>
 
   <entry>
     <id>urn:uuid:7d02b1e4-b776-5d8b-8b90-10fdfb7b05b5</id>
@@ -160,6 +160,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:165cddad-d710-596c-be9a-eb162cabedd1</id>
+    <title><![CDATA[楽しく歌っちゃお!【轟はじめ】]]></title>
+    <link href="https://youtu.be/8EE95tMwWCw" rel="alternate" type="text/html"/>
+    <published>2025-08-29T15:24:35.000Z</published>
+    <updated>2025-08-29T13:10:21.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8EE95tMwWCw 【LIVE on &lt;t:1756473021:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8EE95tMwWCw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:14f0f322-e834-5d92-9607-5065bb7509aa</id>
     <title><![CDATA[from A to Z (Re:arrange ver.) (Instrumental)]]></title>
     <link href="https://youtu.be/uFD4TYQc6ro" rel="alternate" type="text/html"/>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=g9aiS_AiqWA 【LIVE on &lt;t:1756479676:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g9aiS_AiqWA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:165cddad-d710-596c-be9a-eb162cabedd1</id>
-    <title><![CDATA[楽しく歌っちゃお！【轟はじめ】]]></title>
-    <link href="https://youtu.be/8EE95tMwWCw" rel="alternate" type="text/html"/>
-    <published>2025-08-29T13:10:05.000Z</published>
-    <updated>2025-08-29T13:10:21.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8EE95tMwWCw 【LIVE on &lt;t:1756473021:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8EE95tMwWCw/maxresdefault.jpg"/>
   </entry>
 
   <entry>

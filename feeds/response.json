@@ -294,6 +294,26 @@
     }
   },
   {
+    "id": "8EE95tMwWCw",
+    "title": "楽しく歌っちゃお!【轟はじめ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-29T15:24:35.000Z",
+    "available_at": "2025-08-29T13:10:21.000Z",
+    "duration": 6789,
+    "status": "past",
+    "songcount": 15,
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "uFD4TYQc6ro",
     "title": "from A to Z (Re:arrange ver.) (Instrumental)",
     "type": "stream",
@@ -353,26 +373,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
-    }
-  },
-  {
-    "id": "8EE95tMwWCw",
-    "title": "楽しく歌っちゃお！【轟はじめ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-29T13:10:05.000Z",
-    "available_at": "2025-08-29T13:10:21.000Z",
-    "duration": 6784,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
@@ -825,6 +825,7 @@
     "available_at": "2025-08-26T10:00:07.000Z",
     "duration": 178,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
