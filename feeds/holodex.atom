@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-01T17:26:12.113Z</updated>
+  <updated>2025-09-01T18:26:10.901Z</updated>
 
   <entry>
     <id>urn:uuid:10ba2df1-6ace-5247-8609-9b8a961f32f6</id>
@@ -48,10 +48,24 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6afa3751-fd6d-5e70-830d-ab6d73afa0fd</id>
+    <title><![CDATA[≪4TH ANNIVERSARY KARAOKE!!≫ she old #4wardWithBae]]></title>
+    <link href="https://youtu.be/stbK9qvv-ZI" rel="alternate" type="text/html"/>
+    <published>2025-08-31T08:28:42.000Z</published>
+    <updated>2025-08-31T03:03:15.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=stbK9qvv-ZI 【LIVE on &lt;t:1756609395:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/stbK9qvv-ZI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:a2c6939a-c5c5-5cee-9a6a-29e4a4343571</id>
-    <title><![CDATA[【歌】あともう少しで１３１万！この枠でいくかな～？【ホロライブ/ときのそら】]]></title>
+    <title><![CDATA[【歌】あともう少しで131万!この枠でいくかな~?【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/6OGGfd0_Xk4" rel="alternate" type="text/html"/>
-    <published>2025-08-31T05:03:46.000Z</published>
+    <published>2025-08-31T07:12:54.000Z</published>
     <updated>2025-08-31T05:31:53.000Z</updated>
     <author>
       <name>SoraCh. ときのそらチャンネル</name>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XG0WLXP1qLA 【LIVE on &lt;t:1756566008:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XG0WLXP1qLA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6afa3751-fd6d-5e70-830d-ab6d73afa0fd</id>
-    <title><![CDATA[≪4TH ANNIVERSARY KARAOKE!!≫ she old #4wardWithBae]]></title>
-    <link href="https://youtu.be/stbK9qvv-ZI" rel="alternate" type="text/html"/>
-    <published>2025-08-30T13:00:40.000Z</published>
-    <updated>2025-08-31T03:03:15.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=stbK9qvv-ZI 【LIVE on &lt;t:1756609395:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/stbK9qvv-ZI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -395,20 +395,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X8OpFJ16t4M 【LIVE on &lt;t:1756307751:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X8OpFJ16t4M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8916ede1-2d4e-5015-9106-dad61d6a463f</id>
-    <title><![CDATA[【ASMR】８月終了？寝かせてあげないメスガキASMR💜 睡眠導入/耳かき/炭酸マッサージ【ホロライブ/ ロボ子さん】]]></title>
-    <link href="https://youtu.be/UfH2jJ2OjLo" rel="alternate" type="text/html"/>
-    <published>2025-08-27T01:19:57.000Z</published>
-    <updated>2025-08-31T13:05:43.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UfH2jJ2OjLo 【LIVE on &lt;t:1756645543:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UfH2jJ2OjLo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2355,6 +2341,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Z9O494QY-ao 【LIVE on &lt;t:1733022093:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9O494QY-ao/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8095797f-d9dd-51b8-a97b-70f14b312c20</id>
+    <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
+    <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
+    <published>2024-11-26T16:37:44.000Z</published>
+    <updated>2024-11-26T15:03:35.000Z</updated>
+    <author>
+      <name>HAACHAMA Ch 赤井はあと</name>
+      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
