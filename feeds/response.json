@@ -80,6 +80,28 @@
     }
   },
   {
+    "id": "JCjGuZsmyIY",
+    "title": "【縦型歌枠】眠れないので深夜の歌やりゅ 【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-30T20:15:33.000Z",
+    "available_at": "2025-08-30T17:22:43.000Z",
+    "duration": 9822,
+    "status": "past",
+    "live_tl_count": {
+      "en": 29
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "E2D_YFRHFG8",
     "title": "【#兎田ぺこら6周年記念LIVE】周年3D LIVE！ぺこらRUSH！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
     "type": "stream",
@@ -100,28 +122,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "JCjGuZsmyIY",
-    "title": "【縦型歌枠】眠れないので深夜の歌やりゅ　【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-30T17:22:01.000Z",
-    "available_at": "2025-08-30T17:22:43.000Z",
-    "duration": 9818,
-    "status": "past",
-    "live_tl_count": {
-      "en": 29
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "VAdfjyjLLuI",
-    "title": "奏手イヅル『 地下室を出たら 』Official Music Video",
+    "title": "『 地下室を出たら 』Official Music Video",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-08-12T11:15:06.000Z",
@@ -4334,7 +4334,7 @@
   },
   {
     "id": "L8L0AWGBKW0",
-    "title": "【無料オンラインライブ】KizunaAI 9th Birthday Live『 A.I.Party! 2025 〜It's all u〜 』【KizunaAI / キズナアイ】",
+    "title": "【無料オンラインライブ】KizunaAI 9th Birthday Live『 A.I.Party! 2025 〜It’s all u〜 』【KizunaAI / キズナアイ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-30T13:29:12.000Z",
@@ -4353,7 +4353,7 @@
   },
   {
     "id": "hBivrbBcnb0",
-    "title": "【 #キズナアイが生まれた日】誕生日カウントダウン配信!一緒に迎えたいっ!【KizunaAI / キズナアイ】",
+    "title": "【 #キズナアイが生まれた日】誕生日カウントダウン配信！一緒に迎えたいっ！【KizunaAI / キズナアイ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-06-29T16:02:56.000Z",
