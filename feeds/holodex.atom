@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-02T16:26:14.518Z</updated>
+  <updated>2025-09-02T17:26:20.933Z</updated>
+
+  <entry>
+    <id>urn:uuid:0af23610-c96c-5062-a1e3-8136e51aa800</id>
+    <title><![CDATA[【original anime MV】カラカラ!【 hololive/桃鈴ねね 】]]></title>
+    <link href="https://youtu.be/f4XaHD73ByU" rel="alternate" type="text/html"/>
+    <published>2025-09-02T12:57:01.000Z</published>
+    <updated>2025-09-02T12:57:01.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=f4XaHD73ByU 【LIVE on &lt;t:1756896900:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/f4XaHD73ByU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:256a342b-18da-5aad-8caa-960691c01a6d</id>
@@ -479,6 +493,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JaD7H9kavNE 【LIVE on &lt;t:1756202407:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JaD7H9kavNE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:25126b53-ec57-54ec-8d62-cc1955c3381c</id>
+    <title><![CDATA[【組曲2】花譜×Mori Calliope #153 「光」【オリジナルMV】]]></title>
+    <link href="https://youtu.be/L-ND7zsl0d4" rel="alternate" type="text/html"/>
+    <published>2025-08-26T07:10:36.000Z</published>
+    <updated>2025-08-26T07:10:36.000Z</updated>
+    <author>
+      <name>花譜 -KAF-</name>
+      <uri>https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=L-ND7zsl0d4 【LIVE on &lt;t:1756897200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L-ND7zsl0d4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1277,34 +1305,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DpYSUe6Ca9o 【LIVE on &lt;t:1755075629:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DpYSUe6Ca9o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:23eb139c-cbe1-5ad2-af7a-849dd682929c</id>
-    <title><![CDATA[よっぱらみゅ~じっく! (Instrumental)]]></title>
-    <link href="https://youtu.be/EugRGd8IHBI" rel="alternate" type="text/html"/>
-    <published>2025-08-12T15:02:26.000Z</published>
-    <updated>2025-08-12T15:02:26.000Z</updated>
-    <author>
-      <name>Lamy Ch. 雪花ラミィ</name>
-      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EugRGd8IHBI 【LIVE on &lt;t:1755010946:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EugRGd8IHBI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:64286920-18b0-522b-b3f7-292e6727f5d9</id>
-    <title><![CDATA[よっぱらみゅ~じっく!]]></title>
-    <link href="https://youtu.be/SiTGXdv5x2E" rel="alternate" type="text/html"/>
-    <published>2025-08-12T15:01:45.000Z</published>
-    <updated>2025-08-12T15:01:45.000Z</updated>
-    <author>
-      <name>Lamy Ch. 雪花ラミィ</name>
-      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SiTGXdv5x2E 【LIVE on &lt;t:1755010905:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SiTGXdv5x2E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
