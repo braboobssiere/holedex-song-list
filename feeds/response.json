@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 92
+      "en": 230
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -58,6 +58,27 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "guAao7__xKk",
+    "title": "光",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-02T10:03:25.000Z",
+    "available_at": "2025-09-02T10:03:25.000Z",
+    "duration": 183,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCEXco8mY5FNYsZA-uM2i3Zw",
+    "channel": {
+      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
+      "name": "花譜 -KAF-",
+      "org": "KAMITSUBAKI",
+      "suborg": "11PHENOMENON RECORD",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "KAF"
     }
   },
   {
@@ -110,7 +131,7 @@
     "published_at": "2025-08-31T23:53:03.000Z",
     "available_at": "2025-09-01T02:24:23.000Z",
     "duration": 10354,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -2716,27 +2737,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "5Bz2brLQBqE",
-    "title": "地下室を出たら",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-12T15:01:41.000Z",
-    "available_at": "2025-08-12T15:01:41.000Z",
-    "duration": 230,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCpSJ4QnmOro--aaKyeuJsXg",
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
