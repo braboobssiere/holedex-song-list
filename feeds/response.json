@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-02T11:28:18.000Z",
-    "available_at": "2025-09-02T14:30:00.000Z",
+    "available_at": "2025-09-02T14:31:33.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 92
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -292,7 +295,7 @@
     "topic_id": "singing",
     "published_at": "2025-08-30T16:54:55.000Z",
     "available_at": "2025-08-30T14:08:24.000Z",
-    "duration": 9311,
+    "duration": 8974,
     "status": "past",
     "songcount": 24,
     "channel": {
