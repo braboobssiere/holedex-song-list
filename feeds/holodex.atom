@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-03T11:26:20.785Z</updated>
+  <updated>2025-09-03T12:26:14.621Z</updated>
+
+  <entry>
+    <id>urn:uuid:22d75e32-f438-5f83-8e6f-493ed834e67d</id>
+    <title><![CDATA[花吹雪 / 百鬼あやめ original]]></title>
+    <link href="https://youtu.be/aOcYn6YAO5E" rel="alternate" type="text/html"/>
+    <published>2025-09-03T12:03:07.000Z</published>
+    <updated>2025-09-03T12:03:07.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aOcYn6YAO5E 【LIVE on &lt;t:1756900987:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aOcYn6YAO5E/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:25126b53-ec57-54ec-8d62-cc1955c3381c</id>
