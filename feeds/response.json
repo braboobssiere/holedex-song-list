@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-04T01:08:27.000Z",
-    "available_at": "2025-09-04T11:00:00.000Z",
+    "available_at": "2025-09-04T11:03:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 42
+    },
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -1613,8 +1616,8 @@
     "topic_id": "singing",
     "published_at": "2025-08-23T07:58:56.000Z",
     "available_at": "2025-09-04T10:00:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3680,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
