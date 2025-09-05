@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-05T06:26:15.833Z</updated>
+  <updated>2025-09-05T07:26:15.434Z</updated>
 
   <entry>
     <id>urn:uuid:5fce3cdc-840b-576f-a7f5-978fce885ec9</id>
@@ -409,6 +409,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xup6KMhz-9M 【LIVE on &lt;t:1756547991:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xup6KMhz-9M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:eb0a7855-efed-514c-991e-e017094c33a6</id>
+    <title><![CDATA[【3D KARAOKE】singing with WHIMSY!! ...with an ANNOUNCEMENT?! #calliolive]]></title>
+    <link href="https://youtu.be/wyuB5FhZLOA" rel="alternate" type="text/html"/>
+    <published>2025-08-30T07:11:47.000Z</published>
+    <updated>2025-08-30T07:11:47.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wyuB5FhZLOA 【LIVE on &lt;t:1757120400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wyuB5FhZLOA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1123,20 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tI1a2y8sEIg 【LIVE on &lt;t:1755525621:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tI1a2y8sEIg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:98d4d10d-3257-5c1b-94ec-dbaa8ef76bb1</id>
-    <title><![CDATA[【 縦型歌枠 】楽しく歌いたいなって思っています【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/Wreee0go3s4" rel="alternate" type="text/html"/>
-    <published>2025-08-17T15:51:02.000Z</published>
-    <updated>2025-08-17T13:00:31.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Wreee0go3s4 【LIVE on &lt;t:1755435631:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Wreee0go3s4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
