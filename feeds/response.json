@@ -24,9 +24,13 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-06T00:41:50.000Z",
-    "available_at": "2025-09-06T14:30:00.000Z",
+    "available_at": "2025-09-06T14:30:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 79,
+      "ko": 67
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
