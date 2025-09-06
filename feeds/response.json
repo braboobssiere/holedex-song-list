@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-09-06T18:04:37.000Z",
     "available_at": "2025-09-06T20:06:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11040,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -138,6 +138,26 @@
     }
   },
   {
+    "id": "kZlOt08rxKo",
+    "title": "【歌枠】チルい曲を歌っていくぞ!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-05T12:07:18.000Z",
+    "available_at": "2025-09-05T10:30:32.000Z",
+    "duration": 4568,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "pm4YznwZTqk",
     "title": "【縦型歌枠】もう9月だし大雨だけど…!夏歌うたいたい🎶【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -175,26 +195,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "kZlOt08rxKo",
-    "title": "【歌枠】チルい曲を歌っていくぞ！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-05T10:17:58.000Z",
-    "available_at": "2025-09-05T10:30:32.000Z",
-    "duration": 4564,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
