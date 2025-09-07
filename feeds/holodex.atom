@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-07T13:26:11.270Z</updated>
+  <updated>2025-09-07T14:26:20.185Z</updated>
 
   <entry>
     <id>urn:uuid:85664cbd-3524-5435-9dd6-73c4b9f54c0c</id>
@@ -49,9 +49,9 @@
 
   <entry>
     <id>urn:uuid:d09b5246-0d05-5262-9918-d1b7e43b2ec6</id>
-    <title><![CDATA[【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢／ホロライブDEV_IS】]]></title>
+    <title><![CDATA[【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/YZ3JW_hpUtk" rel="alternate" type="text/html"/>
-    <published>2025-09-06T00:59:26.000Z</published>
+    <published>2025-09-06T03:15:17.000Z</published>
     <updated>2025-09-06T00:59:45.000Z</updated>
     <author>
       <name>Su Ch. 水宮枢 - FLOW GLOW</name>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YZ3JW_hpUtk 【LIVE on &lt;t:1757120385:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YZ3JW_hpUtk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:eb0a7855-efed-514c-991e-e017094c33a6</id>
+    <title><![CDATA[【3D KARAOKE】singing with WHIMSY!! ...with an ANNOUNCEMENT?! #calliolive]]></title>
+    <link href="https://youtu.be/wyuB5FhZLOA" rel="alternate" type="text/html"/>
+    <published>2025-09-06T03:00:19.000Z</published>
+    <updated>2025-09-06T01:00:27.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wyuB5FhZLOA 【LIVE on &lt;t:1757120427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wyuB5FhZLOA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -549,20 +563,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xup6KMhz-9M 【LIVE on &lt;t:1756547991:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xup6KMhz-9M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eb0a7855-efed-514c-991e-e017094c33a6</id>
-    <title><![CDATA[【3D KARAOKE】singing with WHIMSY!! ...with an ANNOUNCEMENT?! #calliolive]]></title>
-    <link href="https://youtu.be/wyuB5FhZLOA" rel="alternate" type="text/html"/>
-    <published>2025-08-30T07:11:47.000Z</published>
-    <updated>2025-09-06T01:00:27.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wyuB5FhZLOA 【LIVE on &lt;t:1757120427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wyuB5FhZLOA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
