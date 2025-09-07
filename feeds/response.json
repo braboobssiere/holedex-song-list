@@ -1,5 +1,23 @@
 [
   {
+    "id": "fM9oq6QcXkQ",
+    "title": "ReGLOSS 'ミッドサマーシトラス'  Stage Cam",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-07T10:00:06.000Z",
+    "available_at": "2025-09-07T10:00:06.000Z",
+    "duration": 237,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "wODPUODl1Gw",
     "title": "【UNARCHIVED KARAOKE】 Little Bit Of Karaoke Eh? ~! 💄",
     "type": "stream",
@@ -198,24 +216,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "fM9oq6QcXkQ",
-    "title": "ReGLOSS 'ミッドサマーシトラス'  Stage Cam",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-09-05T02:57:51.000Z",
-    "available_at": "2025-09-07T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -550,13 +550,13 @@
   },
   {
     "id": "ojdnksHikH8",
-    "title": "【トロンボーン練習】 基礎練はたいせつです!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【トロンボーン練習】　基礎練はたいせつです！【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2025-09-02T10:15:27.000Z",
     "available_at": "2025-09-07T08:38:22.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -756,9 +756,13 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-08-31T07:14:26.000Z",
-    "available_at": "2025-09-07T10:00:00.000Z",
+    "available_at": "2025-09-07T09:56:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 19,
+      "ko": 17
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
