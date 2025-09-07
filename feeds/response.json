@@ -201,6 +201,24 @@
     }
   },
   {
+    "id": "fM9oq6QcXkQ",
+    "title": "ReGLOSS 'ミッドサマーシトラス'  Stage Cam",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-05T02:57:51.000Z",
+    "available_at": "2025-09-07T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "9UIfmfmu6Mw",
     "title": "【縦型歌枠】深夜って歌いたくなるよ～～～ん　【ホロライブ/ ロボ子さん】",
     "type": "stream",
@@ -532,13 +550,13 @@
   },
   {
     "id": "ojdnksHikH8",
-    "title": "【 縦型歌枠/KARAOKE】 すきま時間にうたっちゃお~~【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【トロンボーン練習】 基礎練はたいせつです!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Musical_Instrument",
     "published_at": "2025-09-02T10:15:27.000Z",
-    "available_at": "2025-09-02T10:15:27.000Z",
+    "available_at": "2025-09-07T08:38:22.000Z",
     "duration": 0,
-    "status": "missing",
+    "status": "live",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -2111,6 +2129,25 @@
     }
   },
   {
+    "id": "JUwTVz5maMU",
+    "title": "【UNARCHIVED KARAOKE】 Happy Birthday Queen Mum ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-19T15:11:37.000Z",
+    "available_at": "2025-08-19T18:51:14.000Z",
+    "duration": 8840,
+    "status": "missing",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "xzAmjKSeTIc",
     "title": "けものへんの女",
     "type": "stream",
@@ -2798,27 +2835,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Machina X Flayon"
-    }
-  },
-  {
-    "id": "tH5HbJ-VDWw",
-    "title": "カラカラ! (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-13T15:01:36.000Z",
-    "available_at": "2025-08-13T15:01:36.000Z",
-    "duration": 202,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC1ayhcwJh-N7BJC9MHH-vMQ",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -6957,25 +6973,6 @@
     "published_at": "2023-04-16T04:00:59.000Z",
     "available_at": "2023-04-15T23:00:41.000Z",
     "duration": 14894,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "5TzW6bnO7h8",
-    "title": "【 楽器演奏 】日曜朝のエレクトーン10回目を迎えたのら~~~!🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-04-09T03:49:13.000Z",
-    "available_at": "2023-04-08T23:41:08.000Z",
-    "duration": 13976,
     "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
