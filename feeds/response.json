@@ -1,13 +1,51 @@
 [
   {
+    "id": "NEVCP4a_PEY",
+    "title": "【深夜歌枠】ボイトレ帰りの深夜歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-08T14:16:30.000Z",
+    "available_at": "2025-09-08T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "GAHCzzY_iuU",
+    "title": "【 2周年カウントダウン 】もう2年たったらしい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-08T13:55:45.000Z",
+    "available_at": "2025-09-08T14:45:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "vu9ktDmP3sc",
     "title": "【歌枠/縦型】アニソン中心に!いろいろ歌うよん🎤  #shorts【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-08T12:29:15.000Z",
-    "available_at": "2025-09-08T13:30:00.000Z",
+    "available_at": "2025-09-08T13:33:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -65,6 +103,7 @@
     "available_at": "2025-09-08T08:09:43.000Z",
     "duration": 5437,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -81,9 +120,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-07T14:06:55.000Z",
-    "available_at": "2025-09-08T14:00:00.000Z",
+    "available_at": "2025-09-08T14:00:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -793,7 +832,7 @@
     "duration": 4213,
     "status": "past",
     "live_tl_count": {
-      "en": 136
+      "en": 151
     },
     "channel": {
       "id": "UCUKD-uaobj9jiqB-VXt71mA",
@@ -2169,26 +2208,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "MnHz1ZE45Dc",
-    "title": "【 歌枠 】ご機嫌るんるんにうたうっ!🌷【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-21T17:51:55.000Z",
-    "available_at": "2025-08-21T15:05:56.000Z",
-    "duration": 9501,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
@@ -5236,25 +5255,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "KKpnfp4rczg",
-    "title": "【#7周年フブちゃん】みんなで7周年記念ライブ振り返り!!本当にありがとThank you【ホロライブ/白上フブキ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-06-01T13:58:34.000Z",
-    "available_at": "2025-06-01T12:31:19.000Z",
-    "duration": 4815,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
