@@ -3,19 +3,47 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-08T14:26:37.875Z</updated>
+  <updated>2025-09-08T15:26:15.424Z</updated>
+
+  <entry>
+    <id>urn:uuid:ceafa92c-914a-554d-b6de-50f083020a6a</id>
+    <title><![CDATA[がおってこ! (Instrumental)]]></title>
+    <link href="https://youtu.be/A2OYgjF0yEQ" rel="alternate" type="text/html"/>
+    <published>2025-09-08T15:03:44.000Z</published>
+    <updated>2025-09-08T15:03:44.000Z</updated>
+    <author>
+      <name>Botan Ch.獅白ぼたん</name>
+      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=A2OYgjF0yEQ 【LIVE on &lt;t:1757343824:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A2OYgjF0yEQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d1ededa1-1b51-555c-9dd5-416183105693</id>
+    <title><![CDATA[がおってこ!]]></title>
+    <link href="https://youtu.be/_rmm28GrMSs" rel="alternate" type="text/html"/>
+    <published>2025-09-08T15:01:49.000Z</published>
+    <updated>2025-09-08T15:01:49.000Z</updated>
+    <author>
+      <name>Botan Ch.獅白ぼたん</name>
+      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_rmm28GrMSs 【LIVE on &lt;t:1757343709:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_rmm28GrMSs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2a9321f7-8722-5fb8-ae4e-78434c91ea53</id>
     <title><![CDATA[【深夜歌枠】ボイトレ帰りの深夜歌枠🎵【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/NEVCP4a_PEY" rel="alternate" type="text/html"/>
     <published>2025-09-08T14:16:30.000Z</published>
-    <updated>2025-09-08T14:16:30.000Z</updated>
+    <updated>2025-09-08T14:30:46.000Z</updated>
     <author>
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NEVCP4a_PEY 【LIVE on &lt;t:1757341800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NEVCP4a_PEY 【LIVE on &lt;t:1757341846:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NEVCP4a_PEY/maxresdefault.jpg"/>
   </entry>
 
@@ -1361,34 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=p9NBMIUOGM0 【LIVE on &lt;t:1755259506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p9NBMIUOGM0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c8d22f85-68e3-5f10-89f9-ac413d67109f</id>
-    <title><![CDATA[Wind-Up (Instrumental)]]></title>
-    <link href="https://youtu.be/5I31kdUG__4" rel="alternate" type="text/html"/>
-    <published>2025-08-14T15:04:07.000Z</published>
-    <updated>2025-08-14T15:04:07.000Z</updated>
-    <author>
-      <name>Cecilia Immergreen Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5I31kdUG__4 【LIVE on &lt;t:1755183847:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5I31kdUG__4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2d992f17-9a6e-53fc-b46b-e6a1f6c65823</id>
-    <title><![CDATA[Wind-Up]]></title>
-    <link href="https://youtu.be/BwbTf4UiFJw" rel="alternate" type="text/html"/>
-    <published>2025-08-14T15:03:44.000Z</published>
-    <updated>2025-08-14T15:03:44.000Z</updated>
-    <author>
-      <name>Cecilia Immergreen Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BwbTf4UiFJw 【LIVE on &lt;t:1755183824:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BwbTf4UiFJw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
