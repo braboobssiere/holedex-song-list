@@ -1,7 +1,7 @@
 [
   {
     "id": "OCwpym0nbgs",
-    "title": "【歌枠】レッスン終りに歌っていくぞ!【虎金妃笑虎】",
+    "title": "【歌枠】レッスン終りに歌っていくぞ！【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-08T08:09:27.000Z",
@@ -732,9 +732,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-08-31T18:51:19.000Z",
-    "available_at": "2025-09-08T11:00:00.000Z",
+    "available_at": "2025-09-08T10:58:08.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 35
+    },
     "channel": {
       "id": "UCUKD-uaobj9jiqB-VXt71mA",
       "name": "Botan Ch.獅白ぼたん",
