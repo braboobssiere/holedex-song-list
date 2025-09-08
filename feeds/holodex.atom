@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-08T12:26:17.856Z</updated>
+  <updated>2025-09-08T13:26:17.766Z</updated>
+
+  <entry>
+    <id>urn:uuid:100fc105-40bd-5cd4-8173-51f96c60092d</id>
+    <title><![CDATA[【歌枠/縦型】アニソン中心に!いろいろ歌うよん🎤  #shorts【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/vu9ktDmP3sc" rel="alternate" type="text/html"/>
+    <published>2025-09-08T12:29:15.000Z</published>
+    <updated>2025-09-08T12:29:15.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vu9ktDmP3sc 【LIVE on &lt;t:1757338200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vu9ktDmP3sc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0a8f86ad-f41b-5f71-97b1-f97bb2fda0b1</id>
@@ -1011,20 +1025,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R7C5Hb4Lp8I 【LIVE on &lt;t:1755691208:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R7C5Hb4Lp8I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8349b4bc-740f-5249-b53d-ba37edb8406f</id>
-    <title><![CDATA[【縦型歌枠】前回の歌枠リベンジ!お昼にちょいと歌いたい気分🎶【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/v4bR8rbid80" rel="alternate" type="text/html"/>
-    <published>2025-08-20T06:49:50.000Z</published>
-    <updated>2025-08-20T03:00:59.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=v4bR8rbid80 【LIVE on &lt;t:1755658859:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v4bR8rbid80/maxresdefault.jpg"/>
   </entry>
 
   <entry>
