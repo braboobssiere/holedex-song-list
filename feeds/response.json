@@ -1,21 +1,21 @@
 [
   {
-    "id": "GdOjkBz6E2U",
-    "title": "【2周年記念 歌ってみた】???【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "id": "OCwpym0nbgs",
+    "title": "【歌枠】レッスン終りに歌っていくぞ!【虎金妃笑虎】",
     "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-08T03:09:26.000Z",
-    "available_at": "2025-09-08T15:10:00.000Z",
+    "topic_id": "singing",
+    "published_at": "2025-09-08T08:09:27.000Z",
+    "available_at": "2025-09-08T08:09:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
       "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
+      "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
+      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -2187,25 +2187,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "JUwTVz5maMU",
-    "title": "【UNARCHIVED KARAOKE】 Happy Birthday Queen Mum ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-19T15:11:37.000Z",
-    "available_at": "2025-08-19T18:51:14.000Z",
-    "duration": 8840,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
@@ -5253,6 +5234,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "wrsUn4IQmZ0",
+    "title": "【3D LIVE】 1st generation 7th anniversary♪♪ 【 #電脳ぴゅあ推し大宣言 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-06-01T12:08:01.000Z",
+    "available_at": "2025-06-01T10:55:21.000Z",
+    "duration": 3775,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 140
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
