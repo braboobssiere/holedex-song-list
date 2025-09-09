@@ -1,5 +1,23 @@
 [
   {
+    "id": "P-mLH8QifK8",
+    "title": "ReGLOSS 22の質問",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-09T10:00:06.000Z",
+    "available_at": "2025-09-09T10:00:06.000Z",
+    "duration": 366,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "LZfmo7pJt_A",
     "title": "縦型歌枠!?",
     "type": "stream",
@@ -230,24 +248,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "P-mLH8QifK8",
-    "title": "ReGLOSS 22の質問",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-08T01:47:30.000Z",
-    "available_at": "2025-09-09T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
