@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-09T13:26:11.908Z</updated>
+  <updated>2025-09-09T14:26:11.701Z</updated>
+
+  <entry>
+    <id>urn:uuid:d19018cd-4d31-506d-a502-9626cdc2ca22</id>
+    <title><![CDATA[【Original Song】Figure It Out - Pavolia Reine【Music Video】]]></title>
+    <link href="https://youtu.be/NEtiag8nTUs" rel="alternate" type="text/html"/>
+    <published>2025-09-09T14:00:06.000Z</published>
+    <updated>2025-09-09T14:00:06.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NEtiag8nTUs 【LIVE on &lt;t:1757426406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NEtiag8nTUs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:647cfe18-4647-56da-9391-344baa2130d8</id>
@@ -105,7 +119,7 @@
 
   <entry>
     <id>urn:uuid:3863424d-9bd1-553c-a926-811da0c5d18d</id>
-    <title><![CDATA[歌って気合入れる!!!【魂の叫び歌枠】]]></title>
+    <title><![CDATA[歌って気合入れる！！！【魂の叫び歌枠】]]></title>
     <link href="https://youtu.be/EPLQ4GjjJb0" rel="alternate" type="text/html"/>
     <published>2025-09-07T15:42:27.000Z</published>
     <updated>2025-09-09T12:00:54.000Z</updated>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eFp6LTA0nnE 【LIVE on &lt;t:1755270276:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eFp6LTA0nnE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:478902b1-3bf7-59fc-9ec5-c4a71978c122</id>
-    <title><![CDATA[【original】トレビアンナイト【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/p9NBMIUOGM0" rel="alternate" type="text/html"/>
-    <published>2025-08-15T12:05:06.000Z</published>
-    <updated>2025-08-15T12:05:06.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p9NBMIUOGM0 【LIVE on &lt;t:1755259506:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p9NBMIUOGM0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
