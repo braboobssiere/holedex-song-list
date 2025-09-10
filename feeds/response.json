@@ -786,6 +786,7 @@
     "available_at": "2025-09-10T03:00:59.000Z",
     "duration": 11092,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -2410,23 +2411,25 @@
     }
   },
   {
-    "id": "94Kbrh0mABY",
-    "title": "【縦型雑談歌枠】土曜日♪うたうぞおおお♡【ホロライブ DEV_IS 響咲リオナ】",
+    "id": "64MB7Nmmqbg",
+    "title": "【歌枠】告知がありますね💡かわいい曲縛りです・・・【風真いろは/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-08-23T08:13:16.000Z",
-    "available_at": "2025-08-23T07:01:17.000Z",
-    "duration": 3444,
-    "status": "past",
-    "songcount": 8,
+    "published_at": "2025-08-23T14:21:02.000Z",
+    "available_at": "2025-09-10T13:01:37.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 30
+    },
     "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
       "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
+      "suborg": "gm6th Generation -holoX-",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qh8_dW2m6HrXHZowAKN7HrgvLjg3SS6cRKSbCuiKUYRW985S2WIzyp4VV9hktp97djTC7abgCQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
