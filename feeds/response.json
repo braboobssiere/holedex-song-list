@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-09-10T14:23:24.000Z",
-    "available_at": "2025-09-10T15:00:00.000Z",
+    "available_at": "2025-09-10T15:00:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive-ID",
@@ -25,8 +25,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-09-10T13:27:55.000Z",
     "available_at": "2025-09-10T14:01:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4478,
+    "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -307,6 +307,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "g8xXwUuQnPk",
+    "title": "【歌枠】ちょっぴりダークな切ない曲歌枠!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-08T16:49:50.000Z",
+    "available_at": "2025-09-11T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -791,6 +810,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "fIPpvJInkcQ",
+    "title": "【3Dで胸キュン】新企画始動!ラプラスPが大暴れ!?【 #夏きゅん DAY1】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-09-05T08:40:12.000Z",
+    "available_at": "2025-09-11T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -2344,29 +2382,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "wHsNb6213ig",
-    "title": "【告知あり】縦型歌枠🎤最後にプチ告知💡【風真いろは/ホロライブ】#shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-24T11:09:58.000Z",
-    "available_at": "2025-08-24T10:00:02.000Z",
-    "duration": 3930,
-    "status": "past",
-    "songcount": 7,
-    "live_tl_count": {
-      "en": 138
-    },
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -5514,25 +5529,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kaela Kovalskia"
-    }
-  },
-  {
-    "id": "3pEp8hxzWNM",
-    "title": "【 重大告知 】大神ミオのトリセツ?!を作りながら違和感を探せ!【3D 】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-04T10:15:23.000Z",
-    "available_at": "2025-05-04T08:52:13.000Z",
-    "duration": 4561,
-    "status": "past",
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {

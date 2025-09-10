@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-10T14:26:16.673Z</updated>
+  <updated>2025-09-10T15:26:10.855Z</updated>
 
   <entry>
     <id>urn:uuid:b134fea9-062d-53ae-b258-7e6b595c87f2</id>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vu9ktDmP3sc 【LIVE on &lt;t:1757338385:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vu9ktDmP3sc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:39cc7449-c641-59a7-892b-63b6b88efbb7</id>
+    <title><![CDATA[【歌枠】ちょっぴりダークな切ない曲歌枠!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/g8xXwUuQnPk" rel="alternate" type="text/html"/>
+    <published>2025-09-08T16:49:50.000Z</published>
+    <updated>2025-09-08T16:49:50.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g8xXwUuQnPk 【LIVE on &lt;t:1757581200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g8xXwUuQnPk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1053,20 +1067,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NVjDIwbH12s 【LIVE on &lt;t:1756036639:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NVjDIwbH12s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8b7c0474-f0b9-5aa5-990b-1837a429a2e4</id>
-    <title><![CDATA[【告知あり】縦型歌枠🎤最後にプチ告知💡【風真いろは/ホロライブ】#shorts]]></title>
-    <link href="https://youtu.be/wHsNb6213ig" rel="alternate" type="text/html"/>
-    <published>2025-08-24T11:09:58.000Z</published>
-    <updated>2025-08-24T10:00:02.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wHsNb6213ig 【LIVE on &lt;t:1756029602:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wHsNb6213ig/maxresdefault.jpg"/>
   </entry>
 
   <entry>
