@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-10T19:53:13.000Z",
-    "available_at": "2025-09-10T23:00:00.000Z",
+    "available_at": "2025-09-10T23:11:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -195,6 +195,25 @@
     }
   },
   {
+    "id": "qN9wf6s18yc",
+    "title": "【#ReGLOSS】2周年記念マリパ大乱闘!!!!!【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-09T11:09:19.000Z",
+    "available_at": "2025-09-09T09:02:45.000Z",
+    "duration": 7083,
+    "status": "past",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "P-mLH8QifK8",
     "title": "ReGLOSS 22の質問",
     "type": "stream",
@@ -210,25 +229,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "qN9wf6s18yc",
-    "title": "【#ReGLOSS】2周年記念マリパ大乱闘！！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-09T06:39:40.000Z",
-    "available_at": "2025-09-09T09:02:45.000Z",
-    "duration": 7088,
-    "status": "past",
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
