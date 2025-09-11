@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-09-10T19:53:13.000Z",
     "available_at": "2025-09-10T23:11:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5638,
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -175,6 +175,26 @@
     }
   },
   {
+    "id": "zKuxe-5Jxyc",
+    "title": "《Peafowl of The Blue Flame》 Pavolia Reine 3D Birthday Live 2025 #ReineMEPtember2025",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-09-09T14:12:49.000Z",
+    "available_at": "2025-09-09T12:59:16.000Z",
+    "duration": 3546,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Pavolia Reine"
+    }
+  },
+  {
     "id": "NEtiag8nTUs",
     "title": "【Original Song】Figure It Out - Pavolia Reine【Music Video】",
     "type": "stream",
@@ -192,6 +212,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
+    }
+  },
+  {
+    "id": "EPLQ4GjjJb0",
+    "title": "歌って気合入れる!!!【魂の叫び歌枠】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-09T13:32:58.000Z",
+    "available_at": "2025-09-09T12:00:54.000Z",
+    "duration": 4819,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
     }
   },
   {
@@ -487,46 +527,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NCzBSNhuxkIj-n4KagMUT4AhKR08-gxci0xGQjVbfI83yUnFMjwrd5g--jHuncmVpPjrPmyc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "zKuxe-5Jxyc",
-    "title": "《Peafowl of The Blue Flame》 Pavolia Reine 3D Birthday Live 2025 #ReineMEPtember2025",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-09-08T03:54:23.000Z",
-    "available_at": "2025-09-09T12:59:16.000Z",
-    "duration": 3529,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "EPLQ4GjjJb0",
-    "title": "歌って気合入れる！！！【魂の叫び歌枠】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-07T15:42:27.000Z",
-    "available_at": "2025-09-09T12:00:54.000Z",
-    "duration": 4819,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
