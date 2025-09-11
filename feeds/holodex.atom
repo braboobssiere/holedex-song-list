@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-11T01:26:13.953Z</updated>
+  <updated>2025-09-11T02:26:17.417Z</updated>
+
+  <entry>
+    <id>urn:uuid:b08f8e3e-8a29-5719-81ea-4e3c4fba9034</id>
+    <title><![CDATA[【3D Karaoke】Partayyy (With A Guest)]]></title>
+    <link href="https://youtu.be/lap1RP2TOd0" rel="alternate" type="text/html"/>
+    <published>2025-09-10T15:29:20.000Z</published>
+    <updated>2025-09-10T15:29:20.000Z</updated>
+    <author>
+      <name>Ouro Kronii Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lap1RP2TOd0 【LIVE on &lt;t:1757559600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lap1RP2TOd0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b134fea9-062d-53ae-b258-7e6b595c87f2</id>
@@ -1028,20 +1042,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a1bd1f1f-8121-5141-8e49-c081445a07cc</id>
-    <title><![CDATA[【 歌枠 】重大告知アリ!な歌枠 【百鬼あやめ/ホロライブ】]]></title>
-    <link href="https://youtu.be/5wOimVAtXoA" rel="alternate" type="text/html"/>
-    <published>2025-08-24T16:02:44.000Z</published>
-    <updated>2025-08-24T12:02:27.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5wOimVAtXoA 【LIVE on &lt;t:1756036947:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5wOimVAtXoA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a190cf90-4eaa-51fd-9556-3f9c9cbf3402</id>
     <title><![CDATA[La Roja Live Version]]></title>
     <link href="https://youtu.be/_9r0xFCiU2Y" rel="alternate" type="text/html"/>
@@ -1963,6 +1963,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q-FRQRsAR6Q 【LIVE on &lt;t:1747576765:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q-FRQRsAR6Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6dcd5bb7-f7b9-5a86-acce-edfe67504e23</id>
+    <title><![CDATA[【#飯田ぽち3D】ゲスト&重大告知あり! 奥行きを獲得した漫画家の3Dお披露目 【飯田ぽち。Iida Pochi.】]]></title>
+    <link href="https://youtu.be/6BNkVBVNbKY" rel="alternate" type="text/html"/>
+    <published>2025-05-16T12:57:38.000Z</published>
+    <updated>2025-05-16T11:56:06.000Z</updated>
+    <author>
+      <name>飯田ぽち。【Iida Pochi.】</name>
+      <uri>https://www.youtube.com/channel/UC22BVlBsZc6ta3Dqz75NU6Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6BNkVBVNbKY 【LIVE on &lt;t:1747396566:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6BNkVBVNbKY/maxresdefault.jpg"/>
   </entry>
 
   <entry>

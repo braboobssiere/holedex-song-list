@@ -41,7 +41,7 @@
     "id": "lap1RP2TOd0",
     "title": "【3D Karaoke】Partayyy (With A Guest)",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2025-09-10T15:29:20.000Z",
     "available_at": "2025-09-11T03:00:00.000Z",
     "duration": 0,
@@ -84,6 +84,7 @@
     "available_at": "2025-09-10T12:02:23.000Z",
     "duration": 5270,
     "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -2336,29 +2337,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "5wOimVAtXoA",
-    "title": "【 歌枠 】重大告知アリ!な歌枠 【百鬼あやめ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-24T16:02:44.000Z",
-    "available_at": "2025-08-24T12:02:27.000Z",
-    "duration": 13540,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 292
-    },
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
     }
   },
   {
@@ -5513,6 +5491,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "6BNkVBVNbKY",
+    "title": "【#飯田ぽち3D】ゲスト&重大告知あり! 奥行きを獲得した漫画家の3Dお披露目 【飯田ぽち。Iida Pochi.】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-16T12:57:38.000Z",
+    "available_at": "2025-05-16T11:56:06.000Z",
+    "duration": 3240,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UC22BVlBsZc6ta3Dqz75NU6Q",
+      "name": "飯田ぽち。【Iida Pochi.】",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/iWFFbPPyYnEqGJ3CkMsYgTkO4Nyu3ZxOLWalrVf5uIw78i-nv3X8nesL-eBmR5L_QJ7VuteN=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Iida Pochi"
     }
   },
   {
