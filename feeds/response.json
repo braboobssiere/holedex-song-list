@@ -100,25 +100,6 @@
     }
   },
   {
-    "id": "fsf_13pXfx8",
-    "title": "???",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-09-12T09:20:40.000Z",
-    "available_at": "2025-09-13T03:03:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "5LV1J6HUFj8",
     "title": "【水着3D】フワモコと夏の海でドキドキ胸キュン体験!?【#夏きゅん DAY2】",
     "type": "stream",
@@ -244,8 +225,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-09-11T00:25:57.000Z",
     "available_at": "2025-09-12T19:31:24.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7429,
+    "status": "past",
     "songcount": 14,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -775,7 +756,7 @@
   },
   {
     "id": "GmbIaroMuiU",
-    "title": "【3DLIVE】ゲスト＆告知あり✨獅白ぼたん生誕3D LIVE 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】",
+    "title": "【3DLIVE】ゲスト&告知あり✨獅白ぼたん生誕3D LIVE 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-09-08T12:17:35.000Z",
@@ -3029,6 +3010,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "DwZXSYrxMZ0",
+    "title": "ピーナッツくん - Clione feat. 轟はじめ (Official Visualiser)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-08-19T15:00:31.000Z",
+    "available_at": "2025-08-19T15:00:31.000Z",
+    "duration": 258,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCmgWMQkenFc72QnYkdxdoKA",
+      "name": "ピーナッツくん!オシャレになりたい!",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/QxRUZUGTwtVnKxbqBjAZPJHVT7rTTArOQcV_hvY7efaN_ms1Jt8mvhencEgNx44Jw09oXXXmyA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Peanuts-kun"
     }
   },
   {
