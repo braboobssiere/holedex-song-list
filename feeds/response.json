@@ -27,6 +27,7 @@
     "available_at": "2025-09-11T14:06:03.000Z",
     "duration": 8575,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -46,6 +47,7 @@
     "available_at": "2025-09-11T14:00:06.000Z",
     "duration": 148,
     "status": "past",
+    "songcount": 1,
     "live_tl_count": {
       "ko": 55
     },
@@ -76,6 +78,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "UZAgsiBS1uI",
+    "title": "【5 YEAR ANNIVERSARY】Kiara Classics Karaoke! 3D! Archived! With a surprise after✨ #Kiara5Years",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-11T00:25:57.000Z",
+    "available_at": "2025-09-12T19:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -156,6 +177,49 @@
     }
   },
   {
+    "id": "64MB7Nmmqbg",
+    "title": "【歌枠】告知がありますね💡かわいい曲縛りです・・・【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-10T14:07:09.000Z",
+    "available_at": "2025-09-10T13:01:37.000Z",
+    "duration": 3671,
+    "status": "past",
+    "songcount": 9,
+    "live_tl_count": {
+      "en": 120
+    },
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
+    }
+  },
+  {
+    "id": "GkzV8wJ9FxU",
+    "title": "【歌枠】今宵は、平成アニソン~バラード縛り~ 一曲、聞いていきませんか?SINGING STREAM【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-10T13:37:15.000Z",
+    "available_at": "2025-09-10T12:02:23.000Z",
+    "duration": 5271,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "y4DnVJlYKDM",
     "title": "【 #らでんちゃん2周年 】2年目を振り返る!!!【儒烏風亭らでん #ReGLOSS 】",
     "type": "stream",
@@ -215,26 +279,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "GkzV8wJ9FxU",
-    "title": "【歌枠】今宵は、平成アニソン～バラード縛り～ 一曲、聞いていきませんか？SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-10T06:17:39.000Z",
-    "available_at": "2025-09-10T12:02:23.000Z",
-    "duration": 5270,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -2519,29 +2563,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "64MB7Nmmqbg",
-    "title": "【歌枠】告知がありますね💡かわいい曲縛りです・・・【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-23T14:21:02.000Z",
-    "available_at": "2025-09-10T13:01:37.000Z",
-    "duration": 3674,
-    "status": "past",
-    "songcount": 9,
-    "live_tl_count": {
-      "en": 120
-    },
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -4838,25 +4859,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "nEA6M0aUdi8",
-    "title": "💛後編|ねねねトワワ3周年記念旅行inナガシマスパーランド【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-06-28T13:25:06.000Z",
-    "available_at": "2025-06-28T13:25:06.000Z",
-    "duration": 1221,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
