@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-13T14:26:14.348Z</updated>
+  <updated>2025-09-13T15:26:17.408Z</updated>
+
+  <entry>
+    <id>urn:uuid:c18bc31f-aa5b-59b0-84ce-8ebe38db1f33</id>
+    <title><![CDATA[アワータイムイエロー]]></title>
+    <link href="https://youtu.be/tLxZygPFzvE" rel="alternate" type="text/html"/>
+    <published>2025-09-13T15:01:38.000Z</published>
+    <updated>2025-09-13T15:01:38.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tLxZygPFzvE 【LIVE on &lt;t:1757775698:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tLxZygPFzvE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:54088844-dd62-508f-a673-cc168275af3b</id>
+    <title><![CDATA[アワータイムイエロー (Instrumental)]]></title>
+    <link href="https://youtu.be/biyyOyIiJjc" rel="alternate" type="text/html"/>
+    <published>2025-09-13T15:01:09.000Z</published>
+    <updated>2025-09-13T15:01:09.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=biyyOyIiJjc 【LIVE on &lt;t:1757775669:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/biyyOyIiJjc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e711949e-d34e-559e-8aef-a7db9938aaac</id>
+    <title><![CDATA[【 縦型/歌枠】NO1.今日からはじまる 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/_4Auvb80at0" rel="alternate" type="text/html"/>
+    <published>2025-09-13T14:56:42.000Z</published>
+    <updated>2025-09-13T14:58:52.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_4Auvb80at0 【LIVE on &lt;t:1757775532:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_4Auvb80at0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c71ffe82-d063-57b6-9e44-56214dffecb3</id>
@@ -1196,20 +1238,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:84393f1f-6c7a-5566-9901-8553dce4e60b</id>
-    <title><![CDATA[【歌】今日は思いっきり歌いたい気分♪【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/6nEQFBO5V2E" rel="alternate" type="text/html"/>
-    <published>2025-08-26T13:11:46.000Z</published>
-    <updated>2025-08-26T11:33:19.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6nEQFBO5V2E 【LIVE on &lt;t:1756207999:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6nEQFBO5V2E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:1f6006a6-8ce4-5226-a71a-d7cfafc42f36</id>
     <title><![CDATA[【MV】興味ないよ /  jon-YAKITORY ‐ラプラス・ダークネス (official)]]></title>
     <link href="https://youtu.be/JaD7H9kavNE" rel="alternate" type="text/html"/>
@@ -1403,34 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_Ns5y6qU20c 【LIVE on &lt;t:1755615664:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Ns5y6qU20c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d5e3a06e-9ae1-5dec-a707-d9dc4a24d561</id>
-    <title><![CDATA[ドッタバッタ珍道中!]]></title>
-    <link href="https://youtu.be/RAHZzmTTjWI" rel="alternate" type="text/html"/>
-    <published>2025-08-19T15:00:58.000Z</published>
-    <updated>2025-08-19T15:00:58.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=RAHZzmTTjWI 【LIVE on &lt;t:1755615658:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RAHZzmTTjWI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:309927be-9269-553d-ba5b-21ce12b2b162</id>
-    <title><![CDATA[Howling (Rearrange ver.)]]></title>
-    <link href="https://youtu.be/P7coyeiZOgg" rel="alternate" type="text/html"/>
-    <published>2025-08-19T15:00:47.000Z</published>
-    <updated>2025-08-19T15:00:47.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=P7coyeiZOgg 【LIVE on &lt;t:1755615647:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P7coyeiZOgg/maxresdefault.jpg"/>
   </entry>
 
   <entry>

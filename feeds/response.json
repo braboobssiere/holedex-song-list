@@ -1,5 +1,67 @@
 [
   {
+    "id": "tLxZygPFzvE",
+    "title": "アワータイムイエロー",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-13T15:01:38.000Z",
+    "available_at": "2025-09-13T15:01:38.000Z",
+    "duration": 186,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXhBruH4SzsyGe1pNHMYceQ",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "biyyOyIiJjc",
+    "title": "アワータイムイエロー (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-13T15:01:09.000Z",
+    "available_at": "2025-09-13T15:01:09.000Z",
+    "duration": 186,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCXhBruH4SzsyGe1pNHMYceQ",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "_4Auvb80at0",
+    "title": "【 縦型/歌枠】NO1.今日からはじまる 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-13T14:56:42.000Z",
+    "available_at": "2025-09-13T14:58:52.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "lTooksmeogk",
     "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠!",
     "type": "stream",
@@ -8,9 +70,9 @@
     "available_at": "2025-09-13T13:30:45.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 6,
+    "songcount": 15,
     "live_tl_count": {
-      "en": 4
+      "en": 7
     },
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -2662,30 +2724,6 @@
     }
   },
   {
-    "id": "6nEQFBO5V2E",
-    "title": "【歌】今日は思いっきり歌いたい気分♪【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-26T13:11:46.000Z",
-    "available_at": "2025-08-26T11:33:19.000Z",
-    "duration": 5485,
-    "status": "past",
-    "songcount": 13,
-    "live_tl_count": {
-      "en": 94,
-      "ko": 85
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "JaD7H9kavNE",
     "title": "【MV】興味ないよ /  jon-YAKITORY ‐ラプラス・ダークネス (official)",
     "type": "stream",
@@ -3016,48 +3054,6 @@
     "published_at": "2025-08-19T15:01:04.000Z",
     "available_at": "2025-08-19T15:01:04.000Z",
     "duration": 204,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCHYTTba2SyK82DuoFh1FLDg",
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "RAHZzmTTjWI",
-    "title": "ドッタバッタ珍道中!",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-19T15:00:58.000Z",
-    "available_at": "2025-08-19T15:00:58.000Z",
-    "duration": 223,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCHYTTba2SyK82DuoFh1FLDg",
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "P7coyeiZOgg",
-    "title": "Howling (Rearrange ver.)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-19T15:00:47.000Z",
-    "available_at": "2025-08-19T15:00:47.000Z",
-    "duration": 223,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCHYTTba2SyK82DuoFh1FLDg",
