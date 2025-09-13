@@ -87,8 +87,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-09-12T10:42:23.000Z",
     "available_at": "2025-09-12T23:00:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5976,
+    "status": "past",
     "channel": {
       "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -235,6 +235,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
+    }
+  },
+  {
+    "id": "63w9OBWCF84",
+    "title": "【5 YEAR ANNIVERSARY】5 Years, 5 Wawas! COSPLAYER SHOWDOWN! #Kiara5Years",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-11T00:48:00.000Z",
+    "available_at": "2025-09-13T19:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -1067,9 +1086,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-06T04:04:37.000Z",
-    "available_at": "2025-09-13T01:00:00.000Z",
+    "available_at": "2025-09-13T01:00:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -4193,25 +4212,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
-    }
-  },
-  {
-    "id": "-UKzFz5Ma6A",
-    "title": "【🗣️ 3D CHATTING 🗣️】 3rd Year Anniversary Celebration! 💙🎉🎉🎉",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-23T00:36:28.000Z",
-    "available_at": "2025-07-22T23:07:02.000Z",
-    "duration": 4604,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
