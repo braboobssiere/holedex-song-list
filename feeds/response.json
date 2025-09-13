@@ -1,5 +1,24 @@
 [
   {
+    "id": "o0aEg03bbOc",
+    "title": "【雑談】2周年ライブどうだったー!?!!最近レッスン尽くしでゲーム発掘できてなかったから、色々教えて🎵【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-13T16:09:40.000Z",
+    "available_at": "2025-09-14T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "tLxZygPFzvE",
     "title": "アワータイムイエロー",
     "type": "stream",
@@ -49,7 +68,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 11
+      "en": 20
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -63,16 +82,16 @@
   },
   {
     "id": "lTooksmeogk",
-    "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠!",
+    "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠！",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-13T13:23:17.000Z",
     "available_at": "2025-09-13T13:30:45.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 15,
+    "duration": 7860,
+    "status": "past",
+    "songcount": 16,
     "live_tl_count": {
-      "en": 7
+      "en": 9
     },
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
@@ -4151,25 +4170,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
-    }
-  },
-  {
-    "id": "dV1CmBlhYGg",
-    "title": "【🗣️ 3RD ANNIVERSARY CHATTING 🗣️】 Sharing Memories and a Meal w/ @AxelSyrios",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-26T03:34:02.000Z",
-    "available_at": "2025-07-26T01:14:46.000Z",
-    "duration": 7838,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
