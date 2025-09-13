@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-13T13:26:18.345Z</updated>
+  <updated>2025-09-13T14:26:14.348Z</updated>
+
+  <entry>
+    <id>urn:uuid:c71ffe82-d063-57b6-9e44-56214dffecb3</id>
+    <title><![CDATA[【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠!]]></title>
+    <link href="https://youtu.be/lTooksmeogk" rel="alternate" type="text/html"/>
+    <published>2025-09-13T13:23:17.000Z</published>
+    <updated>2025-09-13T13:30:45.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lTooksmeogk 【LIVE on &lt;t:1757770245:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lTooksmeogk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9ec6ae01-0fb6-50ce-9bce-f5223cce200e</id>
@@ -49,7 +63,7 @@
 
   <entry>
     <id>urn:uuid:52232f7c-8cad-5c3a-97b4-fe29710963f9</id>
-    <title><![CDATA[【 歌枠 】懐かしい曲うたう・・・!夏だけに!!!🍉✨【ホロライブ/赤井はあと】]]></title>
+    <title><![CDATA[【 歌枠 】懐かしい曲うたう・・・！夏だけに！！！🍉✨【ホロライブ/赤井はあと】]]></title>
     <link href="https://youtu.be/NplKSsbhqHc" rel="alternate" type="text/html"/>
     <published>2025-09-12T17:33:12.000Z</published>
     <updated>2025-09-13T11:02:23.000Z</updated>
@@ -1193,20 +1207,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6nEQFBO5V2E 【LIVE on &lt;t:1756207999:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6nEQFBO5V2E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:13e63d7c-e957-59f2-bc40-da003d18a2c1</id>
-    <title><![CDATA[【歌枠】重大告知あり!平成アニソン歌う!!!!!SINGING STREAM【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/AXTIbGC8Zno" rel="alternate" type="text/html"/>
-    <published>2025-08-26T11:56:30.000Z</published>
-    <updated>2025-08-26T10:01:33.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AXTIbGC8Zno 【LIVE on &lt;t:1756202493:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AXTIbGC8Zno/maxresdefault.jpg"/>
   </entry>
 
   <entry>

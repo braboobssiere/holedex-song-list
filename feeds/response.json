@@ -1,5 +1,28 @@
 [
   {
+    "id": "lTooksmeogk",
+    "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-13T13:23:17.000Z",
+    "available_at": "2025-09-13T13:30:45.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 6,
+    "live_tl_count": {
+      "en": 4
+    },
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "TO4W5iUe4Jw",
     "title": "ReGLOSS 'アワータイムイエロー' OFFICIAL MV",
     "type": "stream",
@@ -60,13 +83,13 @@
   },
   {
     "id": "NplKSsbhqHc",
-    "title": "【 歌枠 】懐かしい曲うたう・・・!夏だけに!!!🍉✨【ホロライブ/赤井はあと】",
+    "title": "【 歌枠 】懐かしい曲うたう・・・！夏だけに！！！🍉✨【ホロライブ/赤井はあと】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-12T17:33:12.000Z",
     "available_at": "2025-09-13T11:02:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8620,
+    "status": "past",
     "channel": {
       "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
       "name": "HAACHAMA Ch 赤井はあと",
@@ -75,6 +98,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "y4DnVJlYKDM",
+    "title": "【 #らでんちゃん2周年 】2年目を振り返る!!!【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-12T16:58:40.000Z",
+    "available_at": "2025-09-10T14:01:19.000Z",
+    "duration": 4474,
+    "status": "past",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
     }
   },
   {
@@ -452,25 +494,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "y4DnVJlYKDM",
-    "title": "【 #らでんちゃん2周年 】2年目を振り返る！！！【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-10T13:27:55.000Z",
-    "available_at": "2025-09-10T14:01:19.000Z",
-    "duration": 4478,
-    "status": "past",
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
@@ -2660,26 +2683,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "AXTIbGC8Zno",
-    "title": "【歌枠】重大告知あり!平成アニソン歌う!!!!!SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-26T11:56:30.000Z",
-    "available_at": "2025-08-26T10:01:33.000Z",
-    "duration": 5966,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
