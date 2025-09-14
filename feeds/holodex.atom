@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-14T17:26:09.210Z</updated>
+  <updated>2025-09-14T18:26:15.355Z</updated>
 
   <entry>
     <id>urn:uuid:4d556e54-032d-597c-bf46-49bf8d8432f1</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XZspNIbU6mo 【LIVE on &lt;t:1757930400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XZspNIbU6mo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5af16b3d-bf7b-5860-901f-fcfd5e846cb3</id>
+    <title><![CDATA[【 Original Song 】 Here I am Indonesian ver【 Airani Iofifteen | イオフィ 】]]></title>
+    <link href="https://youtu.be/POBs09IFbF8" rel="alternate" type="text/html"/>
+    <published>2025-09-14T03:36:52.000Z</published>
+    <updated>2025-09-14T03:36:52.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=POBs09IFbF8 【LIVE on &lt;t:1757937600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/POBs09IFbF8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=frE6qlJ0NnE 【LIVE on &lt;t:1755615675:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/frE6qlJ0NnE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8b2111d8-e958-588a-9a64-96f3109635ee</id>
-    <title><![CDATA[セツナライト・スパークル]]></title>
-    <link href="https://youtu.be/fVRefmPwBoo" rel="alternate" type="text/html"/>
-    <published>2025-08-19T15:01:12.000Z</published>
-    <updated>2025-08-19T15:01:12.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fVRefmPwBoo 【LIVE on &lt;t:1755615672:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fVRefmPwBoo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
