@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-14T14:26:14.227Z</updated>
+  <updated>2025-09-14T15:26:13.009Z</updated>
+
+  <entry>
+    <id>urn:uuid:4d556e54-032d-597c-bf46-49bf8d8432f1</id>
+    <title><![CDATA[Here I am - Indonesian ver.]]></title>
+    <link href="https://youtu.be/2TfS5AKNEUc" rel="alternate" type="text/html"/>
+    <published>2025-09-14T15:04:27.000Z</published>
+    <updated>2025-09-14T15:04:27.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2TfS5AKNEUc 【LIVE on &lt;t:1757862267:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2TfS5AKNEUc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c18bc31f-aa5b-59b0-84ce-8ebe38db1f33</id>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fVRefmPwBoo 【LIVE on &lt;t:1755615672:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fVRefmPwBoo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e5545b9f-8105-50b7-ad23-e03da95c17bd</id>
-    <title><![CDATA[旅のゆくえ]]></title>
-    <link href="https://youtu.be/_Ns5y6qU20c" rel="alternate" type="text/html"/>
-    <published>2025-08-19T15:01:04.000Z</published>
-    <updated>2025-08-19T15:01:04.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_Ns5y6qU20c 【LIVE on &lt;t:1755615664:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Ns5y6qU20c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
