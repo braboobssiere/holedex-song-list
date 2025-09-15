@@ -49,7 +49,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 15
+      "en": 65
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -67,9 +67,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-09-14T10:36:03.000Z",
-    "available_at": "2025-09-15T11:00:00.000Z",
+    "available_at": "2025-09-15T11:00:14.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 76
+    },
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
       "name": "Pekora Ch. 兎田ぺこら",
@@ -98,6 +101,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
+    }
+  },
+  {
+    "id": "W168fNPUygE",
+    "title": "【MYTH ANNIVERSARY COLLAB】Happy 5 Years!!!! Special Myth Collab with Announcements and Reveals...??!?",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-13T23:39:25.000Z",
+    "available_at": "2025-09-13T22:00:52.000Z",
+    "duration": 5513,
+    "status": "past",
+    "channel": {
+      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ninomae Ina'nis"
     }
   },
   {
@@ -464,22 +486,22 @@
     }
   },
   {
-    "id": "W168fNPUygE",
-    "title": "【MYTH ANNIVERSARY COLLAB】Happy 5 Years!!!! Special Myth Collab with Announcements and Reveals...??!?",
+    "id": "JnncOMMe2Ks",
+    "title": "【#生スバル】7周年前夜祭?!旧マネ新マネの大空スバル引継ぎ計画書!📗✏【ホロライブ/大空スバル】",
     "type": "stream",
     "topic_id": "Anniversary",
-    "published_at": "2025-09-12T09:26:13.000Z",
-    "available_at": "2025-09-13T22:00:52.000Z",
-    "duration": 5510,
-    "status": "past",
+    "published_at": "2025-09-12T09:09:09.000Z",
+    "available_at": "2025-09-15T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
     "channel": {
-      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+      "name": "Subaru Ch. 大空スバル",
       "org": "Hololive",
-      "suborg": "h English -Myth-",
+      "suborg": "d 2nd Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ninomae Ina'nis"
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Oozora Subaru"
     }
   },
   {
@@ -4193,25 +4215,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
-    }
-  },
-  {
-    "id": "dV1CmBlhYGg",
-    "title": "【🗣️ 3RD ANNIVERSARY CHATTING 🗣️】 Sharing Memories and a Meal w/ @AxelSyrios",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-26T03:34:02.000Z",
-    "available_at": "2025-07-26T01:14:46.000Z",
-    "duration": 7838,
-    "status": "past",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
     }
   },
   {
