@@ -1,5 +1,45 @@
 [
   {
+    "id": "POBs09IFbF8",
+    "title": "【 Original Song 】 Here I am Indonesian ver【 Airani Iofifteen | イオフィ 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-15T12:00:07.000Z",
+    "available_at": "2025-09-15T12:00:07.000Z",
+    "duration": 203,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
+    "id": "cR82irb0_8U",
+    "title": "【歌枠/KARAOKE】歌いたくなった時が歌うとき!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-15T11:29:06.000Z",
+    "available_at": "2025-09-15T11:35:51.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 5,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "Achuvd18rcg",
     "title": "弾き語りする 【奏手イヅル】",
     "type": "stream",
@@ -41,15 +81,15 @@
   },
   {
     "id": "XZspNIbU6mo",
-    "title": "【重大告知】ハッピーな告知がある歌枠ッピ!!!!!🎶【博衣こより/ホロライブ】",
+    "title": "【重大告知】ハッピーな告知がある歌枠ッピ！！！！！🎶【博衣こより/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-14T11:20:17.000Z",
     "available_at": "2025-09-15T09:59:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7146,
+    "status": "past",
     "live_tl_count": {
-      "en": 65
+      "en": 68
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -71,7 +111,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 76
+      "en": 261
     },
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
@@ -81,26 +121,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "POBs09IFbF8",
-    "title": "【 Original Song 】 Here I am Indonesian ver【 Airani Iofifteen | イオフィ 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-09-14T03:36:52.000Z",
-    "available_at": "2025-09-15T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -491,9 +511,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-12T09:09:09.000Z",
-    "available_at": "2025-09-15T12:00:00.000Z",
+    "available_at": "2025-09-15T12:00:54.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -2684,26 +2704,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "xVVYfwhl3vg",
-    "title": "【弾き語り歌枠 】8月下旬の歌【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-28T11:48:05.000Z",
-    "available_at": "2025-08-28T10:31:36.000Z",
-    "duration": 3840,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
