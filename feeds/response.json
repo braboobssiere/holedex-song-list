@@ -1,5 +1,24 @@
 [
   {
+    "id": "KkgAmb5n7bk",
+    "title": "【告知あり】ホロライブの曲縛り歌枠【水宮枢/FLOW GLOW】#hololiveDEV_IS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-16T18:15:44.000Z",
+    "available_at": "2025-09-17T09:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/UWB7QEU9HqeEPrnRo73vuzFwN7nIeWhWgOp6B-zgY4TsuNdnffLqBGYtRTP2OSYIOjNriOCubw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "NUg9S85L5ZQ",
     "title": "ラブミ!",
     "type": "stream",
@@ -2851,26 +2870,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "BJCv-gDPdzQ",
-    "title": "【 縦型歌枠 】ノープランだぁ;;【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-28T15:16:51.000Z",
-    "available_at": "2025-08-28T13:01:29.000Z",
-    "duration": 7423,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
