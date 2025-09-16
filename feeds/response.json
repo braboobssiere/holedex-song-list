@@ -92,6 +92,7 @@
     "available_at": "2025-09-15T01:21:01.000Z",
     "duration": 8534,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -132,6 +133,7 @@
     "available_at": "2025-09-15T09:59:53.000Z",
     "duration": 7146,
     "status": "past",
+    "songcount": 8,
     "live_tl_count": {
       "en": 68
     },
@@ -574,9 +576,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-09-12T09:11:15.000Z",
-    "available_at": "2025-09-16T12:00:00.000Z",
+    "available_at": "2025-09-16T11:57:30.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 77
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
