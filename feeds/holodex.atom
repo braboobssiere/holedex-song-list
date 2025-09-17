@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-17T02:26:11.150Z</updated>
+  <updated>2025-09-17T03:26:07.646Z</updated>
+
+  <entry>
+    <id>urn:uuid:b931812b-b396-5000-a64f-1adb711bfe33</id>
+    <title><![CDATA[기억예보 - Hebi X 시라카미 후부키 | 가디스오더 OST]]></title>
+    <link href="https://youtu.be/p2NISvg_0yA" rel="alternate" type="text/html"/>
+    <published>2025-09-17T03:00:06.000Z</published>
+    <updated>2025-09-17T03:00:06.000Z</updated>
+    <author>
+      <name>Hebi.</name>
+      <uri>https://www.youtube.com/channel/UCPUcv2Zv9WhH6y8H1A9uWfg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=p2NISvg_0yA 【LIVE on &lt;t:1758078006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p2NISvg_0yA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:709ede54-1ce4-57af-8cfc-a05efea8c575</id>
@@ -73,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-a9hq46v0Tk 【LIVE on &lt;t:1758027606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-a9hq46v0Tk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b931812b-b396-5000-a64f-1adb711bfe33</id>
-    <title><![CDATA[기억예보 - Hebi X 시라카미 후부키 | 가디스오더 OST]]></title>
-    <link href="https://youtu.be/p2NISvg_0yA" rel="alternate" type="text/html"/>
-    <published>2025-09-16T08:37:24.000Z</published>
-    <updated>2025-09-16T08:37:24.000Z</updated>
-    <author>
-      <name>Hebi.</name>
-      <uri>https://www.youtube.com/channel/UCPUcv2Zv9WhH6y8H1A9uWfg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p2NISvg_0yA 【LIVE on &lt;t:1758078000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p2NISvg_0yA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
