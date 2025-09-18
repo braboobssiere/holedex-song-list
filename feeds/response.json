@@ -7,7 +7,7 @@
     "published_at": "2025-09-18T07:21:28.000Z",
     "available_at": "2025-09-18T07:23:03.000Z",
     "duration": 0,
-    "status": "new",
+    "status": "live",
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -81,7 +81,7 @@
   },
   {
     "id": "Wkgh6W_Q7Kc",
-    "title": "【ARCHIVED KARAOKE + FUN NEWS】  HOW LONG HAS IT BEEN LAST KARAOKE?? LET'S JAM!!💃💃 【Kureiji Ollie】",
+    "title": "【ARCHIVED KARAOKE + FUN NEWS】 HOW LONG HAS IT BEEN LAST KARAOKE?? LET'S JAM!!💃💃 【Kureiji Ollie】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-17T14:35:47.000Z",
@@ -2854,26 +2854,6 @@
     }
   },
   {
-    "id": "8EE95tMwWCw",
-    "title": "楽しく歌っちゃお!【轟はじめ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-08-29T15:24:35.000Z",
-    "available_at": "2025-08-29T13:10:21.000Z",
-    "duration": 6789,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
-    }
-  },
-  {
     "id": "uFD4TYQc6ro",
     "title": "from A to Z (Re:arrange ver.) (Instrumental)",
     "type": "stream",
@@ -3173,6 +3153,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "_HbXuNBKAc0",
+    "title": "【 歌枠 / KARAOKE 】目指せ45万人!縦型歌枠!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-08-23T04:37:08.000Z",
+    "available_at": "2025-09-18T08:00:58.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
     }
   },
   {
