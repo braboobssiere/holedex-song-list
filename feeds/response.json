@@ -164,6 +164,7 @@
     "available_at": "2025-09-17T09:29:47.000Z",
     "duration": 3597,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -206,6 +207,28 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCnsJ32NFvE2IdUU20JlQBjg",
+    "channel": {
+      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
+      "name": "Subaru Ch. 大空スバル",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Oozora Subaru"
+    }
+  },
+  {
+    "id": "AAkHUuow3Wk",
+    "title": "【 #大空スバル7周年 】新衣装大発表会&重大告知大発表会しゅば~~!!!!!：NEW OUTFIT💛【ホロライブ/大空スバル】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-16T13:31:43.000Z",
+    "available_at": "2025-09-16T11:57:30.000Z",
+    "duration": 5343,
+    "status": "past",
+    "live_tl_count": {
+      "en": 190
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -530,7 +553,7 @@
     "available_at": "2025-09-13T14:58:52.000Z",
     "duration": 8303,
     "status": "past",
-    "songcount": 11,
+    "songcount": 10,
     "live_tl_count": {
       "en": 32
     },
@@ -863,28 +886,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kobo Kanaeru"
-    }
-  },
-  {
-    "id": "AAkHUuow3Wk",
-    "title": "【 #大空スバル７周年 】新衣装大発表会＆重大告知大発表会しゅば～～！！！！！：NEW OUTFIT💛【ホロライブ/大空スバル】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-12T09:11:15.000Z",
-    "available_at": "2025-09-16T11:57:30.000Z",
-    "duration": 5345,
-    "status": "past",
-    "live_tl_count": {
-      "en": 190
-    },
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
@@ -1606,25 +1607,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "ojdnksHikH8",
-    "title": "【トロンボーン練習】 基礎練はたいせつです!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-09-07T10:40:24.000Z",
-    "available_at": "2025-09-07T08:38:22.000Z",
-    "duration": 4915,
-    "status": "past",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
@@ -3803,25 +3785,6 @@
     }
   },
   {
-    "id": "-RRuOAENP3Y",
-    "title": "【 幽霊とギター | 後半オケあり 】流石にギターくん拗ねてるか? 【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-08-07T17:24:26.000Z",
-    "available_at": "2025-08-07T13:47:28.000Z",
-    "duration": 12474,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
     "id": "sDuSWYecrp0",
     "title": "【6周年カウントダウン】団員さんと迎えたいッ!【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -4176,25 +4139,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "ozvv4hK82D0",
-    "title": "【 エレクトーン 】2ヶ月ぶりの演奏なのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-07-27T11:47:44.000Z",
-    "available_at": "2025-07-27T07:07:51.000Z",
-    "duration": 15857,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -4570,26 +4514,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/7Q-lvhi8QREBJTX7L1G_gFBXPfTWQz6mL5A6WVTBoNBsxyoY-SzufetowA7FM3z3GN6zURoAxQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Doppio Dropscythe"
-    }
-  },
-  {
-    "id": "EPZgH-bEQf8",
-    "title": "ギター弾いて歌うやつ【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-07-10T13:34:28.000Z",
-    "available_at": "2025-07-10T11:35:26.000Z",
-    "duration": 6426,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -5119,28 +5043,6 @@
     }
   },
   {
-    "id": "UQXxEwf7T6Q",
-    "title": "unarchived - SIKE THERE IS STREAM TODAY (it's bass again)",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-06-18T11:22:02.000Z",
-    "available_at": "2025-06-18T11:31:54.000Z",
-    "duration": 6075,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 22
-    },
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
-    }
-  },
-  {
     "id": "sCir0NY9YQs",
     "title": "【ASMR】 First public ASMR!!",
     "type": "stream",
@@ -5176,28 +5078,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "KAF"
-    }
-  },
-  {
-    "id": "kV8kQnrsDyo",
-    "title": "unarchived - BASSED AF",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-06-15T06:42:20.000Z",
-    "available_at": "2025-06-15T06:46:27.000Z",
-    "duration": 10412,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 21
-    },
-    "channel": {
-      "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
-      "name": "Pavolia Reine Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Pavolia Reine"
     }
   },
   {
@@ -5560,25 +5440,6 @@
     }
   },
   {
-    "id": "EQhdClmT1cs",
-    "title": "【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-05-01T20:52:22.000Z",
-    "available_at": "2025-05-01T19:06:32.000Z",
-    "duration": 5979,
-    "status": "past",
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
     "id": "GwtUl6LqdZY",
     "title": "【ASMR】Let this Sleepy Cat guide you to dreamland 🐱✨🩷",
     "type": "stream",
@@ -5598,25 +5459,6 @@
     }
   },
   {
-    "id": "IEC6NX2UWjA",
-    "title": "【トロンボーン練習】何曲か吹けるように練習したい!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-05-01T14:17:34.000Z",
-    "available_at": "2025-05-01T12:18:28.000Z",
-    "duration": 5625,
-    "status": "past",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/X8_7VuMTyii7hNs6kpFf14BYGm3SA3m2Iox3EH1721IfbCkknlNEqzxCynMlxr8CyquWcmHq=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "13rfK2lBKIQ",
     "title": "【ASMR】月末定期ASMR2025.04 今月は全国民向け。【白上フブキ/ホロライブ】",
     "type": "stream",
@@ -5633,26 +5475,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "lwAHXuM9fDY",
-    "title": "ギター弾き語りをするぞ【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-04-29T16:47:57.000Z",
-    "available_at": "2025-04-29T13:03:01.000Z",
-    "duration": 8766,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -5691,25 +5513,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "MBTe3cDomgs",
-    "title": "【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-04-13T11:19:49.000Z",
-    "available_at": "2025-04-13T05:59:42.000Z",
-    "duration": 17919,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -5752,26 +5555,6 @@
     }
   },
   {
-    "id": "HXXHyE7LFbc",
-    "title": "おやすみ 歌枠 ~New Guitarを添えて~【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-04-01T15:28:56.000Z",
-    "available_at": "2025-04-01T13:35:27.000Z",
-    "duration": 6056,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "ySDD80xGpQo",
     "title": "【 #パトこよ3D 】2人でASMR!?ライブ!?パトちゃん監修ASMR発売記念3Dコラボいくよおおお!!!🦀🧪【周防パトラ・博衣こより/ホロライブ】",
     "type": "stream",
@@ -5794,25 +5577,6 @@
     }
   },
   {
-    "id": "pTpVbAduBm4",
-    "title": "【 エレクトーン 】華麗なる姫の特技を見せちゃうのら~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-03-23T11:47:23.000Z",
-    "available_at": "2025-03-23T06:00:02.000Z",
-    "duration": 19364,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
     "id": "5j8kn3BZlRw",
     "title": "【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -5832,25 +5596,6 @@
     }
   },
   {
-    "id": "6uzUnp5V3OQ",
-    "title": "ピアノ弾き語り、いろいろな曲をやってみる!",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-03-11T06:56:58.000Z",
-    "available_at": "2025-03-11T05:02:43.000Z",
-    "duration": 6345,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
-    }
-  },
-  {
     "id": "CYtj5KboylA",
     "title": "【 ASMR 】疲れた体に効き目ばっちりのASMR / KU-100【 猫又おかゆ/ホロライブ 】",
     "type": "stream",
@@ -5867,44 +5612,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "Zx_W5SB0PZI",
-    "title": "課題曲：ドライフラワー 練習がんばる!",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-03-06T11:53:24.000Z",
-    "available_at": "2025-03-06T10:31:33.000Z",
-    "duration": 4192,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
-    }
-  },
-  {
-    "id": "BL_9Evui1bc",
-    "title": "配信は久しぶり、ピアノ練習は超久しぶり",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-03-03T06:25:58.000Z",
-    "available_at": "2025-03-03T03:58:41.000Z",
-    "duration": 5913,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
@@ -6047,25 +5754,6 @@
     }
   },
   {
-    "id": "MIR5amvbvXk",
-    "title": "【 楽器演奏 】エレクトーンを2ヶ月ぶりに演奏するのら!!!🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-01-25T13:03:18.000Z",
-    "available_at": "2025-01-25T07:00:25.000Z",
-    "duration": 20236,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
     "id": "s_CzysIgrNE",
     "title": "【ASMR】 My first time with a 3dio ~! 💄",
     "type": "stream",
@@ -6123,26 +5811,6 @@
     }
   },
   {
-    "id": "_ToLWhaM24s",
-    "title": "睡眠導入歌枠 ピアノ弾き語り【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-01-18T17:26:47.000Z",
-    "available_at": "2025-01-18T14:10:09.000Z",
-    "duration": 11190,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "XTqiaM0Slhw",
     "title": "【 ASMR 】お風呂でこっそり永眠🛀💕Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】",
     "type": "stream",
@@ -6178,44 +5846,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "ODll2JO1qKs",
-    "title": "【Members Only】 Practicing my lyre harp!",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-01-04T01:43:16.000Z",
-    "available_at": "2024-07-22T22:00:11.000Z",
-    "duration": 6400,
-    "status": "past",
-    "channel": {
-      "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "name": "Ceres Fauna Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ceres Fauna"
-    }
-  },
-  {
-    "id": "UqOvKVc2PoU",
-    "title": "【Members Only】 Short kalimba practice!",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2025-01-04T01:43:00.000Z",
-    "available_at": "2024-04-14T22:00:18.000Z",
-    "duration": 3616,
-    "status": "past",
-    "channel": {
-      "id": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "name": "Ceres Fauna Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.googleusercontent.com/TxZ0xm54BKwYJGEoMPda7gK5iPu7Eh0CxLPM4EU9blg4m6ATy5d8NtwBVSOOZFbRdB67PtUf=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ceres Fauna"
     }
   },
   {
@@ -6320,26 +5950,6 @@
     }
   },
   {
-    "id": "HSUreJqylcs",
-    "title": "おそらく2024年最後の ギター弾き語り【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-12-20T15:18:57.000Z",
-    "available_at": "2024-12-20T12:34:10.000Z",
-    "duration": 9395,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "lkoVGO9VTIM",
     "title": "【風呂 ASMR】It's time for a relaxing bath Hakkito 🛁🫧【BATH ASMR】",
     "type": "stream",
@@ -6378,45 +5988,6 @@
     }
   },
   {
-    "id": "MZWCwOSzfQM",
-    "title": "#holoENadventcalendar Day 2",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-12-01T17:17:55.000Z",
-    "available_at": "2024-12-01T17:17:55.000Z",
-    "duration": 224,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "Z9O494QY-ao",
-    "title": "【 55万人耐久 】リコーダー枠。ソウルを込めて。リクエスト受け付けてます。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-12-01T05:43:36.000Z",
-    "available_at": "2024-12-01T03:01:33.000Z",
-    "duration": 9313,
-    "status": "past",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
-    }
-  },
-  {
     "id": "0Prl6VmCepM",
     "title": "【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】",
     "type": "stream",
@@ -6433,559 +6004,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
-    }
-  },
-  {
-    "id": "mIT6N3g_eDk",
-    "title": "越冬に向け ピアノ弾き語り【 奏手イヅル / ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-24T15:45:11.000Z",
-    "available_at": "2024-11-24T12:33:59.000Z",
-    "duration": 10879,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "B1RyNxgc9zk",
-    "title": "休日のエレクトーン練習でみんなのQOLを上げるのら~~!🎹 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-24T12:24:35.000Z",
-    "available_at": "2024-11-24T07:02:03.000Z",
-    "duration": 18372,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "_LgHRuxtN58",
-    "title": "【UNARCHIVED VIOLIN KARAOKE】with cute guests!! for CCWeek! yay",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-16T14:33:44.000Z",
-    "available_at": "2024-11-16T21:00:12.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "6k04q85TKs4",
-    "title": "First Piano Membership Memory【REBROADCAST: Dec 07, 2023】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-12T23:16:15.000Z",
-    "available_at": "2024-11-30T03:00:05.000Z",
-    "duration": 11106,
-    "status": "missing",
-    "channel": {
-      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-      "name": "Shiori Novella Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "XxIkYS9tVUs",
-    "title": "guitar practice + figuring this piano thing out",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-11-10T07:47:06.000Z",
-    "available_at": "2024-11-10T13:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCyxtGMdWlURZ30WSnEjDOQw",
-      "name": "Regis Altare Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sG4A7jG-abLoeeoxsttRgg-ZpI3XrB--rQRty8G6pcqnFT894SEjE-fMjFN2829CjTFwHcTtCw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Regis Altare"
-    }
-  },
-  {
-    "id": "egINPf12ZOM",
-    "title": "2ヶ月ぶりのエレクトーン練習で癒されるがいいのら!!!🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-10-27T12:59:52.000Z",
-    "available_at": "2024-10-27T08:01:32.000Z",
-    "duration": 17001,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "VewtEHnovS4",
-    "title": "【 エレクトーン|カメラ枠 】夏の終わりの楽器練習風景なのら~🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-08-25T12:07:37.000Z",
-    "available_at": "2024-08-25T07:00:38.000Z",
-    "duration": 17497,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "0iJfc7DZqHo",
-    "title": "【夜のまったり練習】ピアノの練習しようかな?【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-08-12T16:20:42.000Z",
-    "available_at": "2024-08-12T13:02:07.000Z",
-    "duration": 11360,
-    "status": "past",
-    "live_tl_count": {
-      "en": 262
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "k26xlhHvUXo",
-    "title": "【ご本人降臨www】星街すいせい☄️と生歌ピアノで奇跡のコラボ‼️「♪ビビデバ」を含むボカロ神メドレーを生歌唱【ホロライブ/suisei/hololive/Bibideba/千本桜/シャルル/天ノ弱】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-08-10T10:00:06.000Z",
-    "available_at": "2024-08-10T10:00:06.000Z",
-    "duration": 772,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCr4fZBNv69P-09f98l7CshA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "gl1o5gXNdTA",
-    "title": "【楽器】なんかしようか?~フルートの日~【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-08-03T09:10:02.000Z",
-    "available_at": "2024-08-03T07:00:49.000Z",
-    "duration": 7358,
-    "status": "past",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "6Mtv0wrtjcs",
-    "title": "【 楽器演奏 】いつもと違うアングルでエレクトーン演奏するのら!🎹Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-06-09T15:11:20.000Z",
-    "available_at": "2024-06-09T09:06:46.000Z",
-    "duration": 20640,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "zNU4eUtXzmU",
-    "title": "【 エレクトーン | カメラ枠 】んな姫は楽器も嗜みますなのら!🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-04-27T16:19:05.000Z",
-    "available_at": "2024-04-27T11:00:24.000Z",
-    "duration": 18148,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "dExGvpGLLxY",
-    "title": "【 エレクトーン|カメラ枠 】hololive Expo 展示記念の演奏するのら~!!🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-03-14T17:34:11.000Z",
-    "available_at": "2024-03-14T12:01:14.000Z",
-    "duration": 19123,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "-7e3SugNjl0",
-    "title": "【Valentine's Afterparty】If I Tangent, Bonk Me Challenge",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-02-16T05:13:21.000Z",
-    "available_at": "2024-02-16T03:00:05.000Z",
-    "duration": 7599,
-    "status": "past",
-    "channel": {
-      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-      "name": "Shiori Novella Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiori Novella"
-    }
-  },
-  {
-    "id": "1jnypLSemYE",
-    "title": "♥姫の演奏会♥￤深夜ひっそりエレクトーン🎹🎶~限定公開【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-01-28T13:30:54.000Z",
-    "available_at": "2024-01-28T14:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CTvZ3dUO8LocQMKbGkjUPysC524gC4asm5roilZmzhpBpWAWpLrhpRv0SpEaJeWm1oVP5v0g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "wL2Pn1QTtJ0",
-    "title": "♥姫の演奏会♥￤エレクトーンを弾くのらっ!🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-12-29T11:14:25.000Z",
-    "available_at": "2023-12-29T06:01:40.000Z",
-    "duration": 17940,
-    "status": "past",
-    "live_tl_count": {
-      "en": 68
-    },
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "k1oP9iMXoJo",
-    "title": "【アンダーテール】初のピアノ配信でUNDERTALEの曲を弾くぞ…!そしてホロサマビンゴじゃい!【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-08-23T16:59:57.000Z",
-    "available_at": "2023-08-23T14:00:40.000Z",
-    "duration": 10044,
-    "status": "past",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
-    }
-  },
-  {
-    "id": "akfZjZZPGUI",
-    "title": "≪HOLOSUMMER: BINGO≫ Learning how to play the Otamatone #hololivesummer2023",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-07-27T03:54:11.000Z",
-    "available_at": "2023-07-27T01:02:23.000Z",
-    "duration": 8562,
-    "status": "past",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "YsK07Ra1V-M",
-    "title": "【 エレクトーン 】明日7/8(土)からエレクトーン『LUNA』全国ツアー開催なのら!🎹🎶【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-07-07T11:11:31.000Z",
-    "available_at": "2023-07-07T07:00:27.000Z",
-    "duration": 14310,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "JYIom8xruCI",
-    "title": "【フルート】はじめてのYouTubeでの練習【ホロライブ/ときのそら/TokinoSora】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-07-06T11:52:59.000Z",
-    "available_at": "2023-07-06T10:03:50.000Z",
-    "duration": 6126,
-    "status": "past",
-    "live_tl_count": {
-      "en": 150
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "6C9WHww-qsM",
-    "title": "【 エレクトーン 】夕方の練習時間なのら~🎹🎶手袋で丁寧に弾きたい!【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-07-04T11:47:48.000Z",
-    "available_at": "2023-07-04T08:01:27.000Z",
-    "duration": 12847,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "0zisuu7ObQs",
-    "title": "【 エレクトーン 】ジブリとか色々演奏するのら!🎹🎶 ~新たなる挑戦なのら!【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-07-01T10:11:53.000Z",
-    "available_at": "2023-07-01T07:01:05.000Z",
-    "duration": 10929,
-    "status": "past",
-    "live_tl_count": {
-      "en": 465
-    },
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "vH5skofzdKU",
-    "title": "【 エレクトーン演奏 】深夜作業BGM…垂れ流し…(声小さめ) 🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-06-18T18:59:52.000Z",
-    "available_at": "2023-06-18T16:25:12.000Z",
-    "duration": 8829,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "6B7iyHgsKb8",
-    "title": "【 #なのらいぶ 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY16>【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-05-20T16:09:24.000Z",
-    "available_at": "2023-05-20T23:00:28.000Z",
-    "duration": 15405,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "Cda-6iTlr9U",
-    "title": "【 エレクトーン 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY15>【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-05-14T04:48:53.000Z",
-    "available_at": "2023-05-13T23:00:17.000Z",
-    "duration": 14347,
-    "status": "past",
-    "live_tl_count": {
-      "en": 417
-    },
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "QdViyW7gif0",
-    "title": "【 楽器演奏 】<DAY14>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-05-07T04:20:34.000Z",
-    "available_at": "2023-05-06T23:00:26.000Z",
-    "duration": 15292,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "MNg1QHiqJfY",
-    "title": "【 楽器演奏 】<DAY12>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-04-23T05:41:58.000Z",
-    "available_at": "2023-04-22T23:00:14.000Z",
-    "duration": 14944,
-    "status": "past",
-    "live_tl_count": {
-      "en": 345
-    },
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "4GwbAhLC09M",
-    "title": "【 楽器演奏 】<DAY11>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-04-16T04:00:59.000Z",
-    "available_at": "2023-04-15T23:00:41.000Z",
-    "duration": 14894,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   }
 ]
