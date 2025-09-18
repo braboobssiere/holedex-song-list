@@ -99,6 +99,25 @@
     }
   },
   {
+    "id": "usCvi6xr17A",
+    "title": "【輪ゴムでスイカ割り】3Dオフコラボでスイカが輪ゴム何本で爆発するか検証する!リベンジ!ぺこ!【ホロライブ/兎田ぺこら/白銀ノエル/ラプラスダークネス】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-09-17T14:13:55.000Z",
+    "available_at": "2025-09-18T10:00:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "LVj8e79WVk4",
     "title": "≪UNARCHIVED KARAOKE・歌枠≫ this new mixer has made me lose brain cells #shorts",
     "type": "stream",
@@ -125,7 +144,7 @@
     "published_at": "2025-09-17T09:28:41.000Z",
     "available_at": "2025-09-18T09:00:07.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -181,9 +200,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-16T22:10:10.000Z",
-    "available_at": "2025-09-18T10:00:00.000Z",
+    "available_at": "2025-09-18T10:06:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -5481,24 +5503,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "jBTMHPhEh4c",
-    "title": "供養",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-05-24T03:00:36.000Z",
-    "available_at": "2025-05-24T03:00:36.000Z",
-    "duration": 899,
-    "status": "past",
-    "channel": {
-      "id": "UCDG8K9g6qo8gX4jCjsqUVzA",
-      "name": "MonsterZ MATE",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8rmWnsO6pPw9KFNwOOsgp95DkRPV1Ojpc6_ywawt_Z2IzPXHNfKrd2halWmzKJJYoWx6BhwV-w=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
