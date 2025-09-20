@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-20T01:26:11.805Z</updated>
+  <updated>2025-09-20T02:26:17.380Z</updated>
 
   <entry>
     <id>urn:uuid:79afba95-5b62-5842-9cdf-f838baedcca3</id>
@@ -62,8 +62,22 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b7b61017-5d67-51ff-8228-bd96937fa8b9</id>
+    <title><![CDATA[【 歌枠|縦型 】L'Arc〜en〜Ciel (ラルク) をふなふな歌うのら~!!!🎵 ~ KARAOKE #shorts【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/k5kWbY06LfU" rel="alternate" type="text/html"/>
+    <published>2025-09-18T14:17:53.000Z</published>
+    <updated>2025-09-18T11:58:21.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k5kWbY06LfU 【LIVE on &lt;t:1758196701:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k5kWbY06LfU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1ac925ca-b2ce-50f2-9568-be22d68989cc</id>
-    <title><![CDATA[【復活歌枠】ニコたんが~!!復活ぅうう!!【告知あり/虎金妃笑虎】]]></title>
+    <title><![CDATA[【復活歌枠】ニコたんが～！！復活ぅうう！！【告知あり／虎金妃笑虎】]]></title>
     <link href="https://youtu.be/B3Zr3amrqUg" rel="alternate" type="text/html"/>
     <published>2025-09-18T13:00:35.000Z</published>
     <updated>2025-09-20T00:01:06.000Z</updated>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Wkgh6W_Q7Kc 【LIVE on &lt;t:1758175215:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Wkgh6W_Q7Kc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b7b61017-5d67-51ff-8228-bd96937fa8b9</id>
-    <title><![CDATA[【 歌枠｜縦型 】L'Arc〜en〜Ciel (ラルク) をふなふな歌うのら～！！！🎵 ～ KARAOKE #shorts【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/k5kWbY06LfU" rel="alternate" type="text/html"/>
-    <published>2025-09-18T02:00:43.000Z</published>
-    <updated>2025-09-18T11:58:21.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k5kWbY06LfU 【LIVE on &lt;t:1758196701:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k5kWbY06LfU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
