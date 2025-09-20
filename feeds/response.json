@@ -1,5 +1,23 @@
 [
   {
+    "id": "xbPWMmKFvpk",
+    "title": "ReGLOSS 'アワータイムイエロー'  Rehearsal Video【#ReGLOSS2周年】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-20T10:00:06.000Z",
+    "available_at": "2025-09-20T10:00:06.000Z",
+    "duration": 189,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "JCMLKgHCRWc",
     "title": "【 歌枠 】元気いっぱいソングでみんな元気になれ~~🌟【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -77,24 +95,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "xbPWMmKFvpk",
-    "title": "ReGLOSS 'アワータイムイエロー'  Rehearsal Video【#ReGLOSS2周年】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-19T07:06:18.000Z",
-    "available_at": "2025-09-20T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -1353,6 +1353,25 @@
     "topic_id": "Anniversary",
     "published_at": "2025-09-10T10:46:09.000Z",
     "available_at": "2025-09-21T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
+    }
+  },
+  {
+    "id": "TCRg30fGsXU",
+    "title": "【MV】Fortune Spinner【hololive English -Myth- Original Song】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-09-10T10:28:53.000Z",
+    "available_at": "2025-09-21T04:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -2907,27 +2926,6 @@
     }
   },
   {
-    "id": "fEAnEtTtclo",
-    "title": "dahlah. (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-08-30T15:03:53.000Z",
-    "available_at": "2025-08-30T15:03:53.000Z",
-    "duration": 192,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCP0Rl7QPSEQbWBWhtFkzIxA",
-    "channel": {
-      "id": "UCZLZ8Jjx_RN2CXloOmgTHVg",
-      "name": "Kaela Kovalskia Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kaela Kovalskia"
-    }
-  },
-  {
     "id": "LHg1yJ9AJ7k",
     "title": "【重大告知あり】魔法少女集結!力を合わせて試練をクリアせよ!【フブキ&ラミィ #ホロウィッチ 衣装3Dお披露目】",
     "type": "stream",
@@ -3800,7 +3798,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 11
+      "en": 36
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
