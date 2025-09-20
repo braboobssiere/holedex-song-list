@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-20T07:26:12.053Z</updated>
+  <updated>2025-09-20T08:26:14.678Z</updated>
 
   <entry>
     <id>urn:uuid:bb138c71-50c9-539c-b5f7-14df47bf5a0a</id>
@@ -1420,20 +1420,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c7451e21-d389-58f9-b702-2d4d321de229</id>
-    <title><![CDATA[【歌枠 / 告知アリ!】告知します!歌います!!【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/xup6KMhz-9M" rel="alternate" type="text/html"/>
-    <published>2025-08-30T11:11:49.000Z</published>
-    <updated>2025-08-30T09:59:51.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xup6KMhz-9M 【LIVE on &lt;t:1756547991:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xup6KMhz-9M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a1f6c904-4346-5ad0-bc0e-81d46742f317</id>
     <title><![CDATA[【3D】hololive English -Advent- 2nd Anniversary Live: On the Run!]]></title>
     <link href="https://youtu.be/dpcCFGRm5zM" rel="alternate" type="text/html"/>
@@ -1585,6 +1571,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LD6f_6w2q7g 【LIVE on &lt;t:1754697309:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LD6f_6w2q7g/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5133a986-70a3-59ce-b90d-477ade168583</id>
+    <title><![CDATA[【うたわれるもの歌枠】うたわれるものをうたうもの【博衣こより/ホロライブ】 #Shorts]]></title>
+    <link href="https://youtu.be/znT9mgEwBI8" rel="alternate" type="text/html"/>
+    <published>2025-08-08T13:54:07.000Z</published>
+    <updated>2025-08-08T13:54:07.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=znT9mgEwBI8 【LIVE on &lt;t:1758358800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/znT9mgEwBI8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
