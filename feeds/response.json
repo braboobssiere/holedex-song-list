@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-20T07:08:00.000Z",
-    "available_at": "2025-09-20T09:00:00.000Z",
+    "available_at": "2025-09-20T09:03:17.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -1344,6 +1344,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "HT_HUFi8DJ4",
+    "title": "【#Myth5years】hololive English -Myth- 5th Anniversary Concert: Fortune Spinner",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-10T10:46:09.000Z",
+    "available_at": "2025-09-21T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -3777,9 +3796,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-08-08T13:54:07.000Z",
-    "available_at": "2025-09-20T09:00:00.000Z",
+    "available_at": "2025-09-20T09:01:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -4107,25 +4129,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "JlTQcBG3Klk",
-    "title": "happy two year anniversary  💙",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-31T02:15:10.000Z",
-    "available_at": "2025-07-30T23:57:00.000Z",
-    "duration": 7831,
-    "status": "past",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
     }
   },
   {
