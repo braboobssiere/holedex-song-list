@@ -856,9 +856,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-09-14T14:34:29.000Z",
-    "available_at": "2025-09-21T11:00:00.000Z",
+    "available_at": "2025-09-21T10:57:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 30
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -3157,7 +3160,7 @@
       "org": "Hololive",
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oyKoQxb9TXlAkWrQJglRHFYH4jESym1bVUzrgBsF7sxUhFYsz26jBdjZbjUPJDpV-n7zu-BnaQ=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/Ox2YnYoLS10MqnHvB0zYE5Snho9zMsBw5zXy6fDVoP4hY7AtT7W22KaFTGYcD6Q5WZpyOQ5T=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
     }
   },
