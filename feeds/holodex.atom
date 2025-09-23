@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-23T02:26:09.008Z</updated>
+  <updated>2025-09-23T03:26:15.071Z</updated>
 
   <entry>
     <id>urn:uuid:9bfdf21c-7bef-5625-a47d-dcee99654d91</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BkeAQTf2KZE 【LIVE on &lt;t:1758524841:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BkeAQTf2KZE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b2fcda79-33aa-57d6-9f1e-3f30a9e02a0f</id>
+    <title><![CDATA[【ASMR】お試し版 深夜のお耳まっさーじ💝あまあまお姉さんに甘えたいお年頃なの?…仕方ないなぁ💜【ホロライブ/ ロボ子さん】]]></title>
+    <link href="https://youtu.be/AkcGtZ7Gd9s" rel="alternate" type="text/html"/>
+    <published>2025-09-21T15:38:35.000Z</published>
+    <updated>2025-09-21T15:03:26.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AkcGtZ7Gd9s 【LIVE on &lt;t:1758467006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AkcGtZ7Gd9s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2467,20 +2481,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Z9O494QY-ao 【LIVE on &lt;t:1733022093:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9O494QY-ao/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8095797f-d9dd-51b8-a97b-70f14b312c20</id>
-    <title><![CDATA[【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】]]></title>
-    <link href="https://youtu.be/0Prl6VmCepM" rel="alternate" type="text/html"/>
-    <published>2024-11-26T16:37:44.000Z</published>
-    <updated>2024-11-26T15:03:35.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Prl6VmCepM 【LIVE on &lt;t:1732633415:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Prl6VmCepM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
