@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-24T13:26:13.922Z</updated>
+  <updated>2025-09-24T14:26:16.610Z</updated>
 
   <entry>
     <id>urn:uuid:41797fbf-796b-51c0-ad2b-ebe760eec50c</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hBO4sZoE-W4 【LIVE on &lt;t:1758695945:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hBO4sZoE-W4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:31cba527-2463-5e7e-a958-d7de6dab075a</id>
+    <title><![CDATA[誕生日は雑談をする 誕生日は逆凸もする 誕生日はすこし歌う]]></title>
+    <link href="https://youtu.be/uYsObFvCKDk" rel="alternate" type="text/html"/>
+    <published>2025-09-23T21:03:52.000Z</published>
+    <updated>2025-09-24T12:08:01.000Z</updated>
+    <author>
+      <name>月ノ美兎</name>
+      <uri>https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uYsObFvCKDk 【LIVE on &lt;t:1758715681:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uYsObFvCKDk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
