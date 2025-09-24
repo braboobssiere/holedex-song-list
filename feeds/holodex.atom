@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-24T14:26:16.610Z</updated>
+  <updated>2025-09-24T15:26:19.362Z</updated>
+
+  <entry>
+    <id>urn:uuid:7dd49612-d2ce-50f7-9395-01ab5515de7d</id>
+    <title><![CDATA[【歌枠】滅びのバーストストリーム 【ホロライブ/癒月ちょこ】]]></title>
+    <link href="https://youtu.be/yTL8MwKjKsI" rel="alternate" type="text/html"/>
+    <published>2025-09-24T15:03:00.000Z</published>
+    <updated>2025-09-24T15:03:00.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yTL8MwKjKsI 【LIVE on &lt;t:1758727800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yTL8MwKjKsI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8d13e603-26fe-5b1f-b128-b4aa393b67f7</id>
+    <title><![CDATA[DARE!?]]></title>
+    <link href="https://youtu.be/fltRh91obGk" rel="alternate" type="text/html"/>
+    <published>2025-09-24T15:01:17.000Z</published>
+    <updated>2025-09-24T15:01:17.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fltRh91obGk 【LIVE on &lt;t:1758726077:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fltRh91obGk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e5f8694f-9d97-570a-9f25-7fd859b224c2</id>
+    <title><![CDATA[DARE!? (Instrumental)]]></title>
+    <link href="https://youtu.be/ax5V-XRsjP8" rel="alternate" type="text/html"/>
+    <published>2025-09-24T15:00:06.000Z</published>
+    <updated>2025-09-24T15:00:06.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ax5V-XRsjP8 【LIVE on &lt;t:1758726006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ax5V-XRsjP8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:41797fbf-796b-51c0-ad2b-ebe760eec50c</id>
@@ -49,7 +91,7 @@
 
   <entry>
     <id>urn:uuid:31cba527-2463-5e7e-a958-d7de6dab075a</id>
-    <title><![CDATA[誕生日は雑談をする 誕生日は逆凸もする 誕生日はすこし歌う]]></title>
+    <title><![CDATA[誕生日は雑談をする　誕生日は逆凸もする　誕生日はすこし歌う]]></title>
     <link href="https://youtu.be/uYsObFvCKDk" rel="alternate" type="text/html"/>
     <published>2025-09-23T21:03:52.000Z</published>
     <updated>2025-09-24T12:08:01.000Z</updated>
@@ -1182,20 +1224,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ceafa92c-914a-554d-b6de-50f083020a6a</id>
-    <title><![CDATA[がおってこ! (Instrumental)]]></title>
-    <link href="https://youtu.be/A2OYgjF0yEQ" rel="alternate" type="text/html"/>
-    <published>2025-09-08T15:03:44.000Z</published>
-    <updated>2025-09-08T15:03:44.000Z</updated>
-    <author>
-      <name>Botan Ch.獅白ぼたん</name>
-      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=A2OYgjF0yEQ 【LIVE on &lt;t:1757343824:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A2OYgjF0yEQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2b7fe262-63d9-50ae-b4f6-93558b791374</id>
     <title><![CDATA[【3DLIVE】ゲスト&告知あり✨獅白ぼたん生誕3D LIVE 『MUST RELIVE』【#獅白ぼたん生誕祭2025 /ホロライブ】]]></title>
     <link href="https://youtu.be/GmbIaroMuiU" rel="alternate" type="text/html"/>
@@ -1347,20 +1375,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=pm4YznwZTqk 【LIVE on &lt;t:1757062820:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pm4YznwZTqk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e3dfe489-bb3c-5e93-acd0-a92335736ff2</id>
-    <title><![CDATA[【縦型雑談歌枠】今日もうたっていくぞおおお🎵【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/pmn4__EMsWM" rel="alternate" type="text/html"/>
-    <published>2025-09-04T11:15:42.000Z</published>
-    <updated>2025-09-04T10:00:23.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pmn4__EMsWM 【LIVE on &lt;t:1756980023:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pmn4__EMsWM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
