@@ -6,8 +6,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-09-24T08:05:34.000Z",
     "available_at": "2025-09-24T10:03:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5972,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -310,6 +310,28 @@
     }
   },
   {
+    "id": "SkzF6Csb6sw",
+    "title": "🎵 CELESTIAL HARMONY: Taiga's Birthday 2D Concert 2025￤#TataDay25 🧧🥮",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-09-23T01:11:50.000Z",
+    "available_at": "2025-09-23T00:00:19.000Z",
+    "duration": 3657,
+    "status": "past",
+    "live_tl_count": {
+      "es": 7
+    },
+    "channel": {
+      "id": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "name": "Taiga Toragami Ch. ChromaSHIFT",
+      "org": "ChromaSHIFT",
+      "suborg": "3gRE:Belle",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/HoZNkhXnT1c_4b4UlZAjN6vd3hFbYLEyFqIJpiWjaMkxe-fKLnqLwl-88mXbK0-VNLnjTMgm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Taiga Toragami"
+    }
+  },
+  {
     "id": "_Gv6cQLJ_sg",
     "title": "【縦型歌枠】170万人目指して歌います！Singing Stream🎤【角巻わため/ホロライブ４期生】　#shorts #vtuber",
     "type": "stream",
@@ -514,9 +536,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-09-21T20:16:41.000Z",
-    "available_at": "2025-09-24T12:00:00.000Z",
+    "available_at": "2025-09-24T11:56:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 21
+    },
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -5125,25 +5150,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nPHRhyl-fq_XwruRR5btA8_lafZKoc86TZBBDx6XjiclwI1qU51ejBG_wwj69CdWKyDyDmLM=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "HIMEHINA"
-    }
-  },
-  {
-    "id": "5JG7PjD8LZU",
-    "title": "【Birthday!】#birthdaykoi25 Superchat reading and fan projects!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-06-27T00:47:12.000Z",
-    "available_at": "2025-06-26T22:00:40.000Z",
-    "duration": 9516,
-    "status": "past",
-    "channel": {
-      "id": "UCMqGG8BRAiI1lJfKOpETM_w",
-      "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Josuiji Shinri"
     }
   },
   {
