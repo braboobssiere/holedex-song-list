@@ -1,5 +1,24 @@
 [
   {
+    "id": "985jc-IcjZs",
+    "title": "【KARAOKE】CHANGE OF PLANS! LET'S SING SOME VOCALOID SONGS MY HAKKITO ヾ(´〇`)ﾉ🎙️ ♪🎶♪ ♪【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-26T22:57:08.000Z",
+    "available_at": "2025-09-27T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "FfTsfW4O9NE",
     "title": "Feel Our Passion | ASMR RP | [MM4A] [Flirty] [Possessive] ft. @BanzoinHakka",
     "type": "stream",
@@ -98,6 +117,46 @@
     }
   },
   {
+    "id": "dHj1VWeDJaM",
+    "title": "【#あずのど】トーク&歌枠!のどかちゃんと最後の3Dコラボ!【ホロライブ / AZKi / 春先のどか】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-25T11:23:51.000Z",
+    "available_at": "2025-09-25T10:06:09.000Z",
+    "duration": 4310,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "MpjQ24i9yAY",
+    "title": "【アニソン歌枠】最後に告知あり!新しい曲たくさん覚えた🎵【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-25T11:15:19.000Z",
+    "available_at": "2025-09-25T10:00:35.000Z",
+    "duration": 3636,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Vg1s9mtyP5dKg3Oc2LvPZaiUV5YgZlTSft7cfg00RNtAvQnV1eUZxlHMKO3iv7tugukzNyhbeA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "T6v4mZVrsB0",
     "title": "ReGLOSS×BEMANI「Shooting Star」",
     "type": "stream",
@@ -114,26 +173,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "MpjQ24i9yAY",
-    "title": "【アニソン歌枠】最後に告知あり！新しい曲たくさん覚えた🎵【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-24T17:28:13.000Z",
-    "available_at": "2025-09-25T10:00:35.000Z",
-    "duration": 3627,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Vg1s9mtyP5dKg3Oc2LvPZaiUV5YgZlTSft7cfg00RNtAvQnV1eUZxlHMKO3iv7tugukzNyhbeA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
@@ -278,26 +317,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "dHj1VWeDJaM",
-    "title": "【#あずのど】トーク＆歌枠！のどかちゃんと最後の3Dコラボ！【ホロライブ / AZKi / 春先のどか】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-24T09:36:12.000Z",
-    "available_at": "2025-09-25T10:06:09.000Z",
-    "duration": 4318,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -2930,26 +2949,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "18uR_jzSk6M",
-    "title": "【歌枠】第127回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-05T19:44:17.000Z",
-    "available_at": "2025-09-05T13:04:43.000Z",
-    "duration": 22874,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
