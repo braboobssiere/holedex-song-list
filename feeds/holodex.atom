@@ -3,11 +3,11 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-26T13:26:43.151Z</updated>
+  <updated>2025-09-26T14:26:13.394Z</updated>
 
   <entry>
     <id>urn:uuid:d1b3d52e-e7eb-5a32-9b30-681d5fbd5a09</id>
-    <title><![CDATA[【歌枠】プチ重大告知あり!!昭和のアニソン歌うでな~🐶🎆【戌神ころね】]]></title>
+    <title><![CDATA[【歌枠】プチ重大告知あり！！昭和のアニソン歌うでな～🐶🎆【戌神ころね】]]></title>
     <link href="https://youtu.be/SjEQETlWDak" rel="alternate" type="text/html"/>
     <published>2025-09-26T09:08:17.000Z</published>
     <updated>2025-09-26T11:59:47.000Z</updated>
@@ -1168,20 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:56cc4f39-979e-54fa-a894-00e2a46c1b94</id>
-    <title><![CDATA[#感触 1ヶ月記念🎉ひとひらの記憶【赤井はあと】オリジナル曲!]]></title>
-    <link href="https://youtu.be/LbtwLfDNyFs" rel="alternate" type="text/html"/>
-    <published>2025-09-10T09:00:26.000Z</published>
-    <updated>2025-09-10T09:00:26.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LbtwLfDNyFs 【LIVE on &lt;t:1757494826:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LbtwLfDNyFs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:c6689f0c-041a-5f0c-8a44-74d5b1e6d480</id>
     <title><![CDATA[【縦型歌枠】牛の歩みも千里🐄🎶楽しく歌いたい✨【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/9XrqmccVUEk" rel="alternate" type="text/html"/>
@@ -1221,6 +1207,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_wTczh0TtZc 【LIVE on &lt;t:1757430071:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_wTczh0TtZc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:caf4126d-878e-5296-b567-f44a309898bf</id>
+    <title><![CDATA[Figure It Out]]></title>
+    <link href="https://youtu.be/HDPWOI7YH94" rel="alternate" type="text/html"/>
+    <published>2025-09-09T15:00:25.000Z</published>
+    <updated>2025-09-09T15:00:25.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HDPWOI7YH94 【LIVE on &lt;t:1757430025:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HDPWOI7YH94/maxresdefault.jpg"/>
   </entry>
 
   <entry>
