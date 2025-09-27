@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 8
+      "en": 9
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -2076,6 +2076,25 @@
     }
   },
   {
+    "id": "Zfeu_gFjwSA",
+    "title": "【縦型雑談歌枠】歌ったり、お話したり🎵【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-13T09:10:29.000Z",
+    "available_at": "2025-09-27T14:00:25.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Vg1s9mtyP5dKg3Oc2LvPZaiUV5YgZlTSft7cfg00RNtAvQnV1eUZxlHMKO3iv7tugukzNyhbeA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "MryxToVvJO0",
     "title": "【5 YEAR ANNIVERSARY】The Story Thus Far - featuring HoloEN! #5YearsOfMori",
     "type": "stream",
@@ -2991,26 +3010,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "2yv2_nL3GAI",
-    "title": "【縦型雑談歌枠】3時のお歌🎤♔【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-06T08:40:47.000Z",
-    "available_at": "2025-09-06T06:30:53.000Z",
-    "duration": 7220,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Vg1s9mtyP5dKg3Oc2LvPZaiUV5YgZlTSft7cfg00RNtAvQnV1eUZxlHMKO3iv7tugukzNyhbeA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
