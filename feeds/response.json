@@ -8,6 +8,9 @@
     "available_at": "2025-09-27T10:15:48.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -47,6 +50,7 @@
     "available_at": "2025-09-27T01:59:54.000Z",
     "duration": 9101,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -105,7 +109,7 @@
     "available_at": "2025-09-26T11:59:47.000Z",
     "duration": 7373,
     "status": "past",
-    "songcount": 7,
+    "songcount": 21,
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
@@ -2537,8 +2541,8 @@
     "topic_id": "singing",
     "published_at": "2025-09-09T17:30:51.000Z",
     "available_at": "2025-09-27T09:00:32.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6238,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
