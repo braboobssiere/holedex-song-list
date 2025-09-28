@@ -6,8 +6,11 @@
     "topic_id": "singing",
     "published_at": "2025-09-28T15:14:52.000Z",
     "available_at": "2025-09-28T15:29:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8810,
+    "status": "past",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -140,6 +143,25 @@
     }
   },
   {
+    "id": "985jc-IcjZs",
+    "title": "【KARAOKE】CHANGE OF PLANS! LET'S SING SOME VOCALOID SONGS MY HAKKITO ヾ(´〇`)ﾉ🎙️ ♪🎶♪ ♪【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-27T06:37:00.000Z",
+    "available_at": "2025-09-27T02:01:52.000Z",
+    "duration": 15661,
+    "status": "past",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "Z65Q5n-P5Bs",
     "title": "【縦型】雑談&ゆる歌 お昼だね〜❕💙【水宮枢/ホロライブDEV_IS】",
     "type": "stream",
@@ -157,25 +179,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "985jc-IcjZs",
-    "title": "【KARAOKE】CHANGE OF PLANS! LET'S SING SOME VOCALOID SONGS MY HAKKITO ヾ(´〇`)ﾉ🎙️ ♪🎶♪ ♪【ARCHIVED】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-26T22:57:08.000Z",
-    "available_at": "2025-09-27T02:01:52.000Z",
-    "duration": 15666,
-    "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
