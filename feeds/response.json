@@ -1,5 +1,43 @@
 [
   {
+    "id": "G-tTZKWM7Eg",
+    "title": "【テスト歌枠】真夜中の滅びのバーストストリーム📣 【ホロライブ/癒月ちょこ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-28T15:14:52.000Z",
+    "available_at": "2025-09-28T15:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "eUIPWUj2Nyg",
+    "title": "【歌枠】切なくて、ちょっぴり暗い曲だけ歌う日もいいよね、、【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-28T14:04:37.000Z",
+    "available_at": "2025-09-29T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/CLQZMWUD0T1I9c30pev4COYCBP1oMyhCT80UKnwqCDtLnfHDgRamkdhY75y0nhm_1TERm0Us=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "_54XupGytPc",
     "title": "ひとつまみのカラオケ歌枠 【 奏手イヅル 】",
     "type": "stream",
@@ -2163,7 +2201,6 @@
     "available_at": "2025-09-13T03:03:06.000Z",
     "duration": 184,
     "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -2733,26 +2770,6 @@
     }
   },
   {
-    "id": "NEVCP4a_PEY",
-    "title": "【深夜歌枠】ボイトレ帰りの深夜歌枠🎵【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-08T19:20:36.000Z",
-    "available_at": "2025-09-08T14:30:46.000Z",
-    "duration": 7616,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Vg1s9mtyP5dKg3Oc2LvPZaiUV5YgZlTSft7cfg00RNtAvQnV1eUZxlHMKO3iv7tugukzNyhbeA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "euNJVr16vtA",
     "title": "【2周年カウントダウン】歌ったり話したり!!いつもありがとう!!月曜定期雑談✨#6【一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
@@ -2807,26 +2824,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "vu9ktDmP3sc",
-    "title": "【歌枠/縦型】アニソン中心に!いろいろ歌うよん🎤  #shorts【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-08T16:50:07.000Z",
-    "available_at": "2025-09-08T13:33:05.000Z",
-    "duration": 11074,
-    "status": "past",
-    "songcount": 26,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
