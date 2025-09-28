@@ -263,11 +263,12 @@
     "id": "WWOmxhmp_Ck",
     "title": "【3D Concert】Everglow - Light of Elysium - #HSEverglow",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "Anniversary",
     "published_at": "2025-09-25T02:51:09.000Z",
-    "available_at": "2025-09-28T03:00:00.000Z",
+    "available_at": "2025-09-28T03:00:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 3,
     "channel": {
       "id": "UCJxZpzx4wHzEYD-eCiZPikg",
       "name": "HOLOSTARS English",
@@ -4362,26 +4363,6 @@
     }
   },
   {
-    "id": "-7xDdu7T8Z4",
-    "title": "【FUWAMOCO 2nd ANNIVERSARY】3D full body BAU BAU CELEBRATION + BIG ANNOUNCEMENTS 🐾✨️ #FWMC2nd 【重大発表】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-07-31T03:34:28.000Z",
-    "available_at": "2025-07-31T01:55:23.000Z",
-    "duration": 5531,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
     "id": "tMPdR2-nhnw",
     "title": "【 🟣メン限体験版 】ジム通いの猫ﾃﾞｽ💪 腹筋ASMR頑張っちゃうよ~~😸【 猫又おかゆ/ホロライブ 】",
     "type": "stream",
@@ -5565,6 +5546,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
+    }
+  },
+  {
+    "id": "NM7_uUOAOlI",
+    "title": "【チラ見せ】猫又おかゆ 2nd Live \"ぺるそにゃ~りすぺくと\" 【 #おかゆセカンド 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-05-28T09:54:59.000Z",
+    "available_at": "2025-05-28T09:00:13.000Z",
+    "duration": 3063,
+    "status": "past",
+    "live_tl_count": {
+      "en": 19
+    },
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
     }
   },
   {
