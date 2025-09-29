@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-29T12:26:23.702Z</updated>
+  <updated>2025-09-29T13:26:17.072Z</updated>
 
   <entry>
     <id>urn:uuid:957309a5-314c-539e-b32f-f307471d9daa</id>
@@ -650,6 +650,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5a5620f2-f1ce-523f-bfc8-6cd73b946773</id>
+    <title><![CDATA[good enough]]></title>
+    <link href="https://youtu.be/W1Tff8itcNY" rel="alternate" type="text/html"/>
+    <published>2025-09-20T15:04:43.000Z</published>
+    <updated>2025-09-20T15:04:43.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=W1Tff8itcNY 【LIVE on &lt;t:1758380683:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/W1Tff8itcNY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ab3f3f0b-7ef0-5328-8696-a4f21e66344f</id>
+    <title><![CDATA[good enough (Instrumental)]]></title>
+    <link href="https://youtu.be/yL5VICm6ewo" rel="alternate" type="text/html"/>
+    <published>2025-09-20T15:01:44.000Z</published>
+    <updated>2025-09-20T15:01:44.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yL5VICm6ewo 【LIVE on &lt;t:1758380504:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yL5VICm6ewo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:50f8665e-746d-5df7-8ded-75544334759b</id>
     <title><![CDATA[FLOW GLOW / good enough【Official Music Video】]]></title>
     <link href="https://youtu.be/KD_YYGZA0A0" rel="alternate" type="text/html"/>
@@ -1224,20 +1252,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bd93f575-4ffe-5ca8-988a-67797a8e2577</id>
-    <title><![CDATA[【Original】ちゃちゃもにゃ/轟はじめ]]></title>
-    <link href="https://youtu.be/erTbmrY9nUs" rel="alternate" type="text/html"/>
-    <published>2025-09-11T14:00:06.000Z</published>
-    <updated>2025-09-11T14:00:06.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=erTbmrY9nUs 【LIVE on &lt;t:1757599206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/erTbmrY9nUs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:b08f8e3e-8a29-5719-81ea-4e3c4fba9034</id>
     <title><![CDATA[【3D Karaoke】Partayyy (With A Guest)]]></title>
     <link href="https://youtu.be/lap1RP2TOd0" rel="alternate" type="text/html"/>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LZfmo7pJt_A 【LIVE on &lt;t:1757402495:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LZfmo7pJt_A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1d636bbf-9fab-50da-b4a2-8331c46e9733</id>
-    <title><![CDATA[Figure It Out (Instrumental)]]></title>
-    <link href="https://youtu.be/_wTczh0TtZc" rel="alternate" type="text/html"/>
-    <published>2025-09-09T15:01:11.000Z</published>
-    <updated>2025-09-09T15:01:11.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_wTczh0TtZc 【LIVE on &lt;t:1757430071:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_wTczh0TtZc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
