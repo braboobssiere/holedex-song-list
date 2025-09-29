@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-09-29T17:26:14.864Z</updated>
+  <updated>2025-09-29T18:26:15.541Z</updated>
+
+  <entry>
+    <id>urn:uuid:5bb776f2-ab7b-5625-895e-d4c8a963487d</id>
+    <title><![CDATA[【オフコラボ】#KoZMy で囁き♡ASMR【 博衣こより・AZKi・雪花ラミィ /ホロライブ】]]></title>
+    <link href="https://youtu.be/UXpT46amTvc" rel="alternate" type="text/html"/>
+    <published>2025-09-29T15:38:15.000Z</published>
+    <updated>2025-09-29T15:38:15.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UXpT46amTvc 【LIVE on &lt;t:1759233600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UXpT46amTvc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:957309a5-314c-539e-b32f-f307471d9daa</id>
@@ -2453,20 +2467,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q62fOkvRzpQ 【LIVE on &lt;t:1735135297:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q62fOkvRzpQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bcb526a2-47f3-5560-a6f3-3dde9c7edaac</id>
-    <title><![CDATA[【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?#ろぼサンタのASMR【ホロライブ / ロボ子さん】]]></title>
-    <link href="https://youtu.be/DEbGq2ItFOU" rel="alternate" type="text/html"/>
-    <published>2024-12-23T23:02:56.000Z</published>
-    <updated>2024-12-23T22:03:03.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DEbGq2ItFOU 【LIVE on &lt;t:1734991383:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DEbGq2ItFOU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
