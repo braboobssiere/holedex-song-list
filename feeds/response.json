@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-09-29T21:07:35.000Z",
-    "available_at": "2025-09-30T00:00:00.000Z",
+    "available_at": "2025-09-30T00:14:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -80,11 +80,31 @@
     }
   },
   {
+    "id": "IgCzJLp2VqQ",
+    "title": "【ホロライブ縛り歌枠】ソロライブゲスト発表あり! / SINGING HOLOLIVE SONG!!!【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-09-28T12:50:28.000Z",
+    "available_at": "2025-09-28T11:01:10.000Z",
+    "duration": 6118,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "_54XupGytPc",
     "title": "ひとつまみのカラオケ歌枠 【 奏手イヅル 】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-09-28T10:41:49.000Z",
+    "published_at": "2025-09-28T12:18:58.000Z",
     "available_at": "2025-09-28T11:02:14.000Z",
     "duration": 4081,
     "status": "past",
@@ -116,26 +136,6 @@
       "suborg": "0eOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/z6zwrMvc-x5HBXMyx1UUFt_AbHiBC2SNiauTcN2e16YLqiTMuanb-XVxZktMD-twlahddrBWhw=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "IgCzJLp2VqQ",
-    "title": "【ホロライブ縛り歌枠】ソロライブゲスト発表あり！ / SINGING HOLOLIVE SONG!!!【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-28T04:28:25.000Z",
-    "available_at": "2025-09-28T11:01:10.000Z",
-    "duration": 6131,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
