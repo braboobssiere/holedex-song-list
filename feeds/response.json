@@ -1,14 +1,14 @@
 [
   {
     "id": "_thBI9tuywk",
-    "title": "【歌枠/KARAOKE】ちょびっと歌っちゃお~~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】ちょびっと歌っちゃお~~~~！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-30T10:56:18.000Z",
     "available_at": "2025-09-30T11:09:40.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 2,
+    "duration": 3113,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -20,33 +20,17 @@
     }
   },
   {
-    "id": "bVyJXWTTOyM",
-    "title": "【#戌神ころね生誕祭2025】新衣装お披露目&誕生日カウントダウン!【戌神ころね】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-09-30T05:40:02.000Z",
-    "available_at": "2025-09-30T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
-    }
-  },
-  {
     "id": "UXpT46amTvc",
     "title": "【オフコラボ】#KoZMy で囁き♡ASMR【 博衣こより・AZKi・雪花ラミィ /ホロライブ】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-09-29T15:38:15.000Z",
-    "available_at": "2025-09-30T12:00:00.000Z",
+    "available_at": "2025-09-30T12:01:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 67
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -5148,6 +5132,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
+    }
+  },
+  {
+    "id": "gdQ4eN9wzZg",
+    "title": "【3D LIVE】AZKi 7th Birthday Live \"Sweet Pop Story\" 新衣装お披露目&重大発表【#AZKi生誕ライブ2025】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-07-01T12:10:07.000Z",
+    "available_at": "2025-07-01T10:57:11.000Z",
+    "duration": 3985,
+    "status": "past",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 173
+    },
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
