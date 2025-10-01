@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-01T14:26:17.167Z</updated>
+  <updated>2025-10-01T15:26:11.635Z</updated>
+
+  <entry>
+    <id>urn:uuid:b2b6fe62-4e0a-5195-bdde-eb58ac3d89b9</id>
+    <title><![CDATA[マフィオーザ(Instrumental)]]></title>
+    <link href="https://youtu.be/fTvqXalAwAE" rel="alternate" type="text/html"/>
+    <published>2025-10-01T15:01:17.000Z</published>
+    <updated>2025-10-01T15:01:17.000Z</updated>
+    <author>
+      <name>Korone Ch. 戌神ころね</name>
+      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fTvqXalAwAE 【LIVE on &lt;t:1759330877:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fTvqXalAwAE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cb63e0e0-19e7-50dc-8f0d-6f4009779ad3</id>
+    <title><![CDATA[マフィオーザ]]></title>
+    <link href="https://youtu.be/JNpXgr9Tl0Y" rel="alternate" type="text/html"/>
+    <published>2025-10-01T15:00:29.000Z</published>
+    <updated>2025-10-01T15:00:29.000Z</updated>
+    <author>
+      <name>Korone Ch. 戌神ころね</name>
+      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JNpXgr9Tl0Y 【LIVE on &lt;t:1759330829:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JNpXgr9Tl0Y/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0dc68909-d7da-504d-9d95-d3b4b11231d4</id>
@@ -1221,34 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UZAgsiBS1uI 【LIVE on &lt;t:1757705484:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UZAgsiBS1uI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:71bdc909-ba91-51e0-a164-fda6898fd71b</id>
-    <title><![CDATA[Fond Memories]]></title>
-    <link href="https://youtu.be/LCvrgllsuKQ" rel="alternate" type="text/html"/>
-    <published>2025-09-12T15:00:48.000Z</published>
-    <updated>2025-09-12T15:00:48.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LCvrgllsuKQ 【LIVE on &lt;t:1757689248:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LCvrgllsuKQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aa65720f-bae4-5999-a493-037143661cbf</id>
-    <title><![CDATA[Fond Memories (Instrumental)]]></title>
-    <link href="https://youtu.be/Bj_K0zwaIrI" rel="alternate" type="text/html"/>
-    <published>2025-09-12T15:00:21.000Z</published>
-    <updated>2025-09-12T15:00:21.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Bj_K0zwaIrI 【LIVE on &lt;t:1757689221:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Bj_K0zwaIrI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
