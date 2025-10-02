@@ -1,5 +1,24 @@
 [
   {
+    "id": "wFef7Asess4",
+    "title": "【UNARCHIVED KARAOKE】 The Closest Thing To Crazy  ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-02T00:43:57.000Z",
+    "available_at": "2025-10-02T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
     "id": "fTvqXalAwAE",
     "title": "マフィオーザ(Instrumental)",
     "type": "stream",
@@ -70,6 +89,7 @@
     "available_at": "2025-10-01T10:59:35.000Z",
     "duration": 3646,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -119,6 +139,28 @@
     }
   },
   {
+    "id": "UXpT46amTvc",
+    "title": "【オフコラボ】#KoZMy で囁き♡ASMR【 博衣こより・AZKi・雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-09-30T13:06:28.000Z",
+    "available_at": "2025-09-30T12:01:16.000Z",
+    "duration": 3607,
+    "status": "past",
+    "live_tl_count": {
+      "en": 213
+    },
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "cB-gslGpCO0",
     "title": "【チラ見せ枠・DAY1】ときのそら 8th Anniversary Party「Starry Bl∞min'」",
     "type": "stream",
@@ -155,28 +197,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/m24oVKR3e3IJEQEZW473e-vokIKr2cW5-O7YcUNDbPKaUV6CMrZdWIARtbkoNbfTRS1eYGyPFg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "UXpT46amTvc",
-    "title": "【オフコラボ】#KoZMy で囁き♡ASMR【 博衣こより・AZKi・雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-09-29T15:38:15.000Z",
-    "available_at": "2025-09-30T12:01:16.000Z",
-    "duration": 3610,
-    "status": "past",
-    "live_tl_count": {
-      "en": 213
-    },
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -1817,7 +1837,7 @@
     "available_at": "2025-10-02T00:00:30.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 4,
+    "songcount": 10,
     "channel": {
       "id": "UCcHHkJ98eSfa5aj0mdTwwLQ",
       "name": "Maid Mint Ch. ミント・ファントーム",
@@ -2790,26 +2810,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "GkzV8wJ9FxU",
-    "title": "【歌枠】今宵は、平成アニソン~バラード縛り~ 一曲、聞いていきませんか?SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-10T13:37:15.000Z",
-    "available_at": "2025-09-10T12:02:23.000Z",
-    "duration": 5271,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
