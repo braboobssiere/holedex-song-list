@@ -1,5 +1,25 @@
 [
   {
+    "id": "Jz2SeJDfml8",
+    "title": "【MV】Lollipop / miComet",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-10-02T13:00:07.000Z",
+    "available_at": "2025-10-02T13:00:07.000Z",
+    "duration": 208,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
     "id": "DHsN2rHxcLA",
     "title": "きょうは ころねの おたんじょうび(異変)",
     "type": "stream",
@@ -9,7 +29,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 91
+      "en": 196
     },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -27,9 +47,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-02T04:53:44.000Z",
-    "available_at": "2025-10-02T08:00:00.000Z",
+    "available_at": "2025-10-02T15:00:00.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "upcoming",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -42,13 +62,13 @@
   },
   {
     "id": "wFef7Asess4",
-    "title": "【UNARCHIVED KARAOKE】 The Closest Thing To Crazy  ~! 💄",
+    "title": "【UNARCHIVED KARAOKE】 The Closest Thing To Crazy ~! 💄",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-02T00:43:57.000Z",
     "available_at": "2025-10-02T11:00:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6488,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -2588,27 +2608,6 @@
     "available_at": "2025-09-13T03:03:06.000Z",
     "duration": 184,
     "status": "past",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "GxNNr234PNg",
-    "title": "Orpheus",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-09-13T03:00:17.000Z",
-    "available_at": "2025-09-13T03:00:17.000Z",
-    "duration": 184,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
