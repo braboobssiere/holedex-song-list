@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-01T23:26:13.679Z</updated>
+  <updated>2025-10-02T00:26:12.125Z</updated>
 
   <entry>
     <id>urn:uuid:b2b6fe62-4e0a-5195-bdde-eb58ac3d89b9</id>
@@ -49,9 +49,9 @@
 
   <entry>
     <id>urn:uuid:fe6c43ee-389b-5929-a884-95e532c27eda</id>
-    <title><![CDATA[【歌枠/KARAOKE】ちょびっと歌っちゃお~~~~！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
+    <title><![CDATA[【歌枠/KARAOKE】ちょびっと歌っちゃお~~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/_thBI9tuywk" rel="alternate" type="text/html"/>
-    <published>2025-09-30T10:56:18.000Z</published>
+    <published>2025-09-30T12:11:42.000Z</published>
     <updated>2025-09-30T11:09:40.000Z</updated>
     <author>
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
@@ -899,6 +899,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Wkgh6W_Q7Kc 【LIVE on &lt;t:1758175215:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Wkgh6W_Q7Kc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3bef487a-5d60-54d1-8904-a88e3bbdb8ae</id>
+    <title><![CDATA[#MINTOHAUNTING3D 3D DEBUT (birthday) CONCERT!!!]]></title>
+    <link href="https://youtu.be/DWMvCY10hZ4" rel="alternate" type="text/html"/>
+    <published>2025-09-17T22:00:33.000Z</published>
+    <updated>2025-10-02T00:00:30.000Z</updated>
+    <author>
+      <name>Maid Mint Ch. ミント・ファントーム</name>
+      <uri>https://www.youtube.com/channel/UCcHHkJ98eSfa5aj0mdTwwLQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DWMvCY10hZ4 【LIVE on &lt;t:1759363230:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DWMvCY10hZ4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
