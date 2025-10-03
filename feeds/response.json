@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-10-03T09:02:07.000Z",
-    "available_at": "2025-10-03T10:00:00.000Z",
+    "available_at": "2025-10-03T10:00:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -39,13 +42,13 @@
   },
   {
     "id": "1yfF2u7osas",
-    "title": "【歌枠】お久しぶりに歌います!告知もあります!【 ホロライブ / 大神ミオ 】",
+    "title": "【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-02T17:08:22.000Z",
     "available_at": "2025-10-03T09:01:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3568,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
