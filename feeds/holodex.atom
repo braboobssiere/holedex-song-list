@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-04T05:26:21.585Z</updated>
+  <updated>2025-10-04T06:26:20.405Z</updated>
+
+  <entry>
+    <id>urn:uuid:adeb6778-798b-59e1-8fb9-96e0f4ac4684</id>
+    <title><![CDATA[It's been awhile...! | UNARCHIVED KARAOKE]]></title>
+    <link href="https://youtu.be/6tg7Rs0UDq0" rel="alternate" type="text/html"/>
+    <published>2025-10-04T02:40:07.000Z</published>
+    <updated>2025-10-04T02:40:07.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6tg7Rs0UDq0 【LIVE on &lt;t:1759622400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6tg7Rs0UDq0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4af86b90-44eb-5b2d-9820-9c0134639bba</id>
@@ -1291,20 +1305,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UZAgsiBS1uI 【LIVE on &lt;t:1757705484:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UZAgsiBS1uI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a7ea58cb-be9d-5783-9463-967ebce82490</id>
-    <title><![CDATA[【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】]]></title>
-    <link href="https://youtu.be/MmtuOgLjvW8" rel="alternate" type="text/html"/>
-    <published>2025-09-11T16:37:10.000Z</published>
-    <updated>2025-09-11T14:06:03.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MmtuOgLjvW8 【LIVE on &lt;t:1757599563:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MmtuOgLjvW8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
