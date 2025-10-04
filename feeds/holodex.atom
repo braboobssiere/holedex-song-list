@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-04T21:26:16.016Z</updated>
+  <updated>2025-10-04T22:26:12.407Z</updated>
 
   <entry>
     <id>urn:uuid:c4b800a1-9e40-5c56-907d-1d64ecdcb551</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:664779e0-3026-5f6a-84d2-c2406e488443</id>
+    <title><![CDATA[【歌枠】お久しぶりに歌います!告知もあります!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/1yfF2u7osas" rel="alternate" type="text/html"/>
+    <published>2025-10-03T10:05:01.000Z</published>
+    <updated>2025-10-03T09:01:27.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1yfF2u7osas 【LIVE on &lt;t:1759482087:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1yfF2u7osas/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:bf470c98-711e-53d3-91f0-4ca4e993d50d</id>
     <title><![CDATA[【MV】イニミニまいご  / 大神ミオ]]></title>
     <link href="https://youtu.be/vG60szMQ1cE" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vG60szMQ1cE 【LIVE on &lt;t:1759485606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vG60szMQ1cE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:664779e0-3026-5f6a-84d2-c2406e488443</id>
-    <title><![CDATA[【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/1yfF2u7osas" rel="alternate" type="text/html"/>
-    <published>2025-10-02T17:08:22.000Z</published>
-    <updated>2025-10-03T09:01:27.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1yfF2u7osas 【LIVE on &lt;t:1759482087:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1yfF2u7osas/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1277,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_4Auvb80at0 【LIVE on &lt;t:1757775532:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_4Auvb80at0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c71ffe82-d063-57b6-9e44-56214dffecb3</id>
-    <title><![CDATA[【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠! #shorts ]]></title>
-    <link href="https://youtu.be/lTooksmeogk" rel="alternate" type="text/html"/>
-    <published>2025-09-13T15:53:22.000Z</published>
-    <updated>2025-09-13T13:30:45.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lTooksmeogk 【LIVE on &lt;t:1757770245:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lTooksmeogk/maxresdefault.jpg"/>
   </entry>
 
   <entry>

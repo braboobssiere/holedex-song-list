@@ -1,5 +1,24 @@
 [
   {
+    "id": "AXksHksW8gs",
+    "title": "[Unarchived Karaoke] ITS BEEN 1,000 YEARS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-04T22:22:55.000Z",
+    "available_at": "2025-10-05T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
+    }
+  },
+  {
     "id": "8dcekJBktfA",
     "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
@@ -157,6 +176,26 @@
     }
   },
   {
+    "id": "1yfF2u7osas",
+    "title": "【歌枠】お久しぶりに歌います!告知もあります!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-03T10:05:01.000Z",
+    "available_at": "2025-10-03T09:01:27.000Z",
+    "duration": 3565,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "vG60szMQ1cE",
     "title": "【MV】イニミニまいご  / 大神ミオ",
     "type": "stream",
@@ -215,26 +254,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "1yfF2u7osas",
-    "title": "【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-02T17:08:22.000Z",
-    "available_at": "2025-10-03T09:01:27.000Z",
-    "duration": 3568,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
@@ -2733,29 +2752,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "lTooksmeogk",
-    "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠! #shorts ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-13T15:53:22.000Z",
-    "available_at": "2025-09-13T13:30:45.000Z",
-    "duration": 7865,
-    "status": "past",
-    "songcount": 16,
-    "live_tl_count": {
-      "en": 9
-    },
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
