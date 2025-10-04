@@ -176,6 +176,28 @@
     }
   },
   {
+    "id": "yE07UgK5Aqg",
+    "title": "【次回ライブも決定!】ときのそら 8th Anniversary Party「Starry Bl∞min'」感想会!【ときのそら/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-10-03T11:43:27.000Z",
+    "available_at": "2025-10-03T10:00:31.000Z",
+    "duration": 5433,
+    "status": "past",
+    "live_tl_count": {
+      "en": 84
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "1yfF2u7osas",
     "title": "【歌枠】お久しぶりに歌います!告知もあります!【 ホロライブ / 大神ミオ 】",
     "type": "stream",
@@ -213,28 +235,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "yE07UgK5Aqg",
-    "title": "【次回ライブも決定！】ときのそら 8th Anniversary Party「Starry Bl∞min'」感想会！【ときのそら/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-10-03T09:02:07.000Z",
-    "available_at": "2025-10-03T10:00:31.000Z",
-    "duration": 5421,
-    "status": "past",
-    "live_tl_count": {
-      "en": 84
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -604,9 +604,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-09-29T20:01:35.000Z",
-    "available_at": "2025-10-04T23:00:00.000Z",
+    "available_at": "2025-10-04T23:00:22.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC060r4zABV18vcahAWR1n7w",
       "name": "Machina X Flayon Ch. HOLOSTARS-EN",
