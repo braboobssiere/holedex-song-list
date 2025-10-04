@@ -1,5 +1,24 @@
 [
   {
+    "id": "8dcekJBktfA",
+    "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-04T11:32:00.000Z",
+    "available_at": "2025-10-04T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "Dl55OFxinhA",
     "title": "[24時間限定配信] EXPO 2025 Virtual Osaka Healthcare Pavilion \"Eudaimonia\" - VIRTUAL LIVE「ARK - 此ノ未来 -」",
     "type": "stream",
@@ -20,13 +39,13 @@
   },
   {
     "id": "KDxInSh5ep0",
-    "title": "【50万人耐久】雑談/歌枠KARAOKE 💙❕【水宮枢/ホロライブDEV_IS】",
+    "title": "【50万人耐久】雑談／歌枠KARAOKE 💙❕【水宮枢／ホロライブDEV_IS】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-04T06:59:03.000Z",
     "available_at": "2025-10-04T06:59:18.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 17074,
+    "status": "past",
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -81,9 +100,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-10-03T19:00:14.000Z",
-    "available_at": "2025-10-04T12:00:00.000Z",
+    "available_at": "2025-10-04T12:00:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -2737,26 +2756,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRyS"
-    }
-  },
-  {
-    "id": "NplKSsbhqHc",
-    "title": "【 歌枠 】懐かしい曲うたう・・・!夏だけに!!!🍉✨【ホロライブ/赤井はあと】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-13T13:36:15.000Z",
-    "available_at": "2025-09-13T11:02:23.000Z",
-    "duration": 8645,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
-      "name": "HAACHAMA Ch 赤井はあと",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Kj4MhQHduMcVAzisWpkNkRwdfFQ3Md_SI-dKWO0UDRMYQA9Oztt8ZwT6__FSrmn3sPhbw0fVWRM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Akai Haato"
     }
   },
   {
