@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-05T09:26:10.906Z</updated>
+  <updated>2025-10-05T10:26:20.135Z</updated>
 
   <entry>
     <id>urn:uuid:f0206476-e520-5fdb-9c39-957b90c0c8f3</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bOTsAIzwwpI 【LIVE on &lt;t:1759698000:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bOTsAIzwwpI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4fa3bbd9-1926-5024-b2e5-8a890a383c0e</id>
+    <title><![CDATA[【 重大告知 】V系のお歌うたって生誕祭ライブの告知をするのら！！！【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/cW_GPyaYdD0" rel="alternate" type="text/html"/>
+    <published>2025-10-04T14:00:58.000Z</published>
+    <updated>2025-10-05T07:57:25.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cW_GPyaYdD0 【LIVE on &lt;t:1759651045:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cW_GPyaYdD0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
