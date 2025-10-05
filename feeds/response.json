@@ -51,7 +51,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 15
+      "en": 24
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -72,6 +72,9 @@
     "available_at": "2025-10-05T13:55:07.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -215,6 +218,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "7tetcpqE8Dw",
+    "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-10-04T04:33:36.000Z",
+    "available_at": "2025-10-04T03:04:00.000Z",
+    "duration": 4939,
+    "status": "past",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
     }
   },
   {
@@ -377,25 +399,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "7tetcpqE8Dw",
-    "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-10-02T17:37:08.000Z",
-    "available_at": "2025-10-04T03:04:00.000Z",
-    "duration": 4954,
-    "status": "past",
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
