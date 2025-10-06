@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-06T07:26:15.986Z</updated>
+  <updated>2025-10-06T08:26:08.874Z</updated>
 
   <entry>
     <id>urn:uuid:bc6041a5-76ed-578e-a4a5-53d5b9f62deb</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jfLYhQ0J8UA 【LIVE on &lt;t:1759589308:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jfLYhQ0J8UA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a2c60830-5f66-5daa-a289-880f7c64f5d3</id>
+    <title><![CDATA[【KARAOKE + FUN ANNOUNCEMENT】 I GOT COMPLIMENTED ON MY HEADVOICE SO LETS DO BALLAD 【Kureiji Ollie】]]></title>
+    <link href="https://youtu.be/69UpzCr8T0I" rel="alternate" type="text/html"/>
+    <published>2025-10-04T15:48:39.000Z</published>
+    <updated>2025-10-04T15:48:39.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=69UpzCr8T0I 【LIVE on &lt;t:1759752000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/69UpzCr8T0I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yd-FRie4M2Y 【LIVE on &lt;t:1758189999:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yd-FRie4M2Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:42432c66-0265-5c79-a652-c2dd0098c43d</id>
-    <title><![CDATA[【ARCHIVED KARAOKE PLS WORK】 PART 2??? 【Kureiji Ollie】]]></title>
-    <link href="https://youtu.be/u9PsYhi3QH8" rel="alternate" type="text/html"/>
-    <published>2025-09-18T08:47:09.000Z</published>
-    <updated>2025-09-18T07:23:03.000Z</updated>
-    <author>
-      <name>Kureiji Ollie Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=u9PsYhi3QH8 【LIVE on &lt;t:1758180183:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u9PsYhi3QH8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
