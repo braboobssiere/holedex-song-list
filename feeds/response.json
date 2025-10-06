@@ -1,13 +1,32 @@
 [
   {
+    "id": "Ovxp8DgLIG4",
+    "title": "【歌枠】ゆっくりまったり~秋にしっとり歌枠【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-06T09:49:39.000Z",
+    "available_at": "2025-10-06T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "Eia9toluYII",
-    "title": "【歌枠】前半全体公開!後半メン限!!【儒烏風亭らでん #ReGLOSS 】",
+    "title": "【歌枠】前半全体公開！後半メン限！！【儒烏風亭らでん #ReGLOSS 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-06T08:25:31.000Z",
     "available_at": "2025-10-06T09:01:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3053,
+    "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -2428,29 +2447,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mWueVn-u1oljZJNe-uO2ePQl0aO_OWU0B0zyYbSOExsCY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "yd-FRie4M2Y",
-    "title": "【 カラオケ オフコラボ🏠】告知つき❣ みこち&ろぼちの#えりこう でおりこう💜【ホロライブ  #えりこう】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-18T11:14:34.000Z",
-    "available_at": "2025-09-18T10:06:39.000Z",
-    "duration": 3799,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 11
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
