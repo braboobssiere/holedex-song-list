@@ -164,6 +164,26 @@
     }
   },
   {
+    "id": "8dcekJBktfA",
+    "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-04T14:49:02.000Z",
+    "available_at": "2025-10-04T13:01:30.000Z",
+    "duration": 6110,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "cW_GPyaYdD0",
     "title": "【 重大告知 】V系のお歌うたって生誕祭ライブの告知をするのら！！！【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -220,26 +240,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "8dcekJBktfA",
-    "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-04T11:32:00.000Z",
-    "available_at": "2025-10-04T13:01:30.000Z",
-    "duration": 6110,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -552,9 +552,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-02T08:41:37.000Z",
-    "available_at": "2025-10-06T02:00:00.000Z",
+    "available_at": "2025-10-06T02:00:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
