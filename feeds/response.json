@@ -8,6 +8,7 @@
     "available_at": "2025-10-06T12:00:58.000Z",
     "duration": 3933,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -27,6 +28,7 @@
     "available_at": "2025-10-06T14:00:12.000Z",
     "duration": 6851,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -46,6 +48,7 @@
     "available_at": "2025-10-06T09:01:01.000Z",
     "duration": 3053,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -144,6 +147,26 @@
     }
   },
   {
+    "id": "28Va_Sjp0gs",
+    "title": "【豊潤サジー】サジスタWEEK!雑談と歌!【 奏手イヅル】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-05T12:08:45.000Z",
+    "available_at": "2025-10-05T11:00:56.000Z",
+    "duration": 3523,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "cW_GPyaYdD0",
     "title": "【 重大告知 】V系のお歌うたって生誕祭ライブの告知をするのら!!!【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -211,6 +234,7 @@
     "available_at": "2025-10-06T11:06:02.000Z",
     "duration": 3491,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -238,26 +262,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gavis Bettel"
-    }
-  },
-  {
-    "id": "28Va_Sjp0gs",
-    "title": "【豊潤サジー】サジスタWEEK！雑談と歌！【 奏手イヅル】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-04T20:34:28.000Z",
-    "available_at": "2025-10-05T11:00:56.000Z",
-    "duration": 3549,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
@@ -289,6 +293,7 @@
     "available_at": "2025-10-06T12:00:24.000Z",
     "duration": 4314,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
