@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-07T15:26:13.888Z</updated>
+  <updated>2025-10-07T16:26:21.128Z</updated>
 
   <entry>
     <id>urn:uuid:0c4fb06c-2cc5-51b1-86c1-926f56675989</id>
@@ -147,7 +147,7 @@
 
   <entry>
     <id>urn:uuid:b8d0128d-722c-59ed-bacc-6373f2054e5f</id>
-    <title><![CDATA[【歌枠】ピアノのオケでしっとり歌枠でちゅよ~【虎金妃笑虎】]]></title>
+    <title><![CDATA[【歌枠】ピアノのオケでしっとり歌枠でちゅよ～【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/oJsXf9IzStg" rel="alternate" type="text/html"/>
     <published>2025-10-07T05:58:47.000Z</published>
     <updated>2025-10-07T14:03:20.000Z</updated>
@@ -199,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Eia9toluYII 【LIVE on &lt;t:1759741261:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Eia9toluYII/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0dd2c046-0de0-546a-bcf3-9b8274fdac88</id>
+    <title><![CDATA[【KARAOKE】anime songs!! oh boy!!! #calliolive]]></title>
+    <link href="https://youtu.be/hhJR6-YozZM" rel="alternate" type="text/html"/>
+    <published>2025-10-06T04:39:59.000Z</published>
+    <updated>2025-10-06T02:00:21.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hhJR6-YozZM 【LIVE on &lt;t:1759716021:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hhJR6-YozZM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -451,20 +465,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Jz2SeJDfml8 【LIVE on &lt;t:1759410007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jz2SeJDfml8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0dd2c046-0de0-546a-bcf3-9b8274fdac88</id>
-    <title><![CDATA[【KARAOKE】anime songs!! oh boy!!! #calliolive]]></title>
-    <link href="https://youtu.be/hhJR6-YozZM" rel="alternate" type="text/html"/>
-    <published>2025-10-02T08:41:37.000Z</published>
-    <updated>2025-10-06T02:00:21.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hhJR6-YozZM 【LIVE on &lt;t:1759716021:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hhJR6-YozZM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1431,6 +1431,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dpcCFGRm5zM 【LIVE on &lt;t:1756519059:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dpcCFGRm5zM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:22aa6c41-3b87-50a2-b735-c30572909761</id>
+    <title><![CDATA[DECO*27 - マシュマロ feat. 初音ミク]]></title>
+    <link href="https://youtu.be/ZIzEnTdR368" rel="alternate" type="text/html"/>
+    <published>2025-08-27T10:25:45.000Z</published>
+    <updated>2025-08-27T10:25:45.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZIzEnTdR368 【LIVE on &lt;t:1759917600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZIzEnTdR368/maxresdefault.jpg"/>
   </entry>
 
   <entry>
