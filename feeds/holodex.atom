@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-09T16:26:20.118Z</updated>
+  <updated>2025-10-09T17:26:16.513Z</updated>
 
   <entry>
     <id>urn:uuid:757f12d1-ad4a-5bad-967f-55ef8ba140d9</id>
@@ -35,7 +35,7 @@
 
   <entry>
     <id>urn:uuid:097b30be-013c-5c1c-a115-267b0bdeafb3</id>
-    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/i65Gl-3qIFA" rel="alternate" type="text/html"/>
     <published>2025-10-09T14:03:54.000Z</published>
     <updated>2025-10-09T14:08:19.000Z</updated>
@@ -49,7 +49,7 @@
 
   <entry>
     <id>urn:uuid:435f7a08-9347-50de-81a2-ee2b9b008aea</id>
-    <title><![CDATA[【歌枠】デビュー11ヶ月歌っていくぞ〜!【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【歌枠】デビュー11ヶ月歌っていくぞ〜！【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/zUqGoeVDrBQ" rel="alternate" type="text/html"/>
     <published>2025-10-09T06:31:48.000Z</published>
     <updated>2025-10-09T13:01:32.000Z</updated>
@@ -591,6 +591,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Jz2SeJDfml8 【LIVE on &lt;t:1759410007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jz2SeJDfml8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:72431b9c-1b8d-5601-8ee7-e9c2d035d680</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「バチャリアラブ feat. 涼海すう&籾山ひめり from 高嶺のなでしこ」【Official Music Video】]]></title>
+    <link href="https://youtu.be/TsFMmZcPH70" rel="alternate" type="text/html"/>
+    <published>2025-10-02T06:17:41.000Z</published>
+    <updated>2025-10-02T06:17:41.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TsFMmZcPH70 【LIVE on &lt;t:1760094000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TsFMmZcPH70/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1221,20 +1235,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sgddBwtrCvg 【LIVE on &lt;t:1758466969:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sgddBwtrCvg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:dacdf9ef-166a-5886-81ad-3f915eb76cf6</id>
-    <title><![CDATA[Fortune Spinner(Instrumental)]]></title>
-    <link href="https://youtu.be/5am5M-QqL2M" rel="alternate" type="text/html"/>
-    <published>2025-09-21T15:02:42.000Z</published>
-    <updated>2025-09-21T15:02:42.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5am5M-QqL2M 【LIVE on &lt;t:1758466962:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5am5M-QqL2M/maxresdefault.jpg"/>
   </entry>
 
   <entry>

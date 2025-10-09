@@ -43,7 +43,7 @@
   },
   {
     "id": "i65Gl-3qIFA",
-    "title": "【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2025-10-09T14:03:54.000Z",
@@ -62,7 +62,7 @@
   },
   {
     "id": "zUqGoeVDrBQ",
-    "title": "【歌枠】デビュー11ヶ月歌っていくぞ〜!【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【歌枠】デビュー11ヶ月歌っていくぞ〜！【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-09T06:31:48.000Z",
@@ -1144,6 +1144,27 @@
     "available_at": "2025-10-02T09:56:05.000Z",
     "duration": 1235,
     "status": "past",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "TsFMmZcPH70",
+    "title": "【オリジナル楽曲】ときのそら「バチャリアラブ feat. 涼海すう&籾山ひめり from 高嶺のなでしこ」【Official Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-10-02T06:17:41.000Z",
+    "available_at": "2025-10-10T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "original_channel_id": "UC3G2QylAJ8NN3_ZzrPV6vzg",
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -2499,27 +2520,6 @@
     "topic_id": "Original_Song",
     "published_at": "2025-09-21T15:02:49.000Z",
     "available_at": "2025-09-21T15:02:49.000Z",
-    "duration": 125,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCT6fzkIIQuAQIiJK3tt-keg",
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
-    }
-  },
-  {
-    "id": "5am5M-QqL2M",
-    "title": "Fortune Spinner(Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-09-21T15:02:42.000Z",
-    "available_at": "2025-09-21T15:02:42.000Z",
     "duration": 125,
     "status": "past",
     "songcount": 1,
