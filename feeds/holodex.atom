@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-10T12:26:19.297Z</updated>
+  <updated>2025-10-10T13:26:16.410Z</updated>
+
+  <entry>
+    <id>urn:uuid:cb22df24-4177-5236-8431-1313cfcaa9c5</id>
+    <title><![CDATA[【original】んなっしょいぱっしょん【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/owSX1vys9FI" rel="alternate" type="text/html"/>
+    <published>2025-10-10T13:05:06.000Z</published>
+    <updated>2025-10-10T13:05:06.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=owSX1vys9FI 【LIVE on &lt;t:1760101506:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/owSX1vys9FI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:72431b9c-1b8d-5601-8ee7-e9c2d035d680</id>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zUqGoeVDrBQ 【LIVE on &lt;t:1760014892:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zUqGoeVDrBQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cb22df24-4177-5236-8431-1313cfcaa9c5</id>
-    <title><![CDATA[【】【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/owSX1vys9FI" rel="alternate" type="text/html"/>
-    <published>2025-10-08T15:55:25.000Z</published>
-    <updated>2025-10-08T15:55:25.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=owSX1vys9FI 【LIVE on &lt;t:1760101500:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/owSX1vys9FI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
