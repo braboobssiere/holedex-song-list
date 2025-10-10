@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-10T10:26:12.309Z</updated>
+  <updated>2025-10-10T11:26:12.508Z</updated>
+
+  <entry>
+    <id>urn:uuid:72431b9c-1b8d-5601-8ee7-e9c2d035d680</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「バチャリアラブ feat. 涼海すう&籾山ひめり from 高嶺のなでしこ」【Official Music Video】]]></title>
+    <link href="https://youtu.be/TsFMmZcPH70" rel="alternate" type="text/html"/>
+    <published>2025-10-10T11:00:06.000Z</published>
+    <updated>2025-10-10T11:00:06.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TsFMmZcPH70 【LIVE on &lt;t:1760094006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TsFMmZcPH70/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e48555c6-12a9-5c9e-a436-7bb18bd75a16</id>
-    <title><![CDATA[【歌枠】 ぷちお披露目ありのKARAOKE!]]></title>
+    <title><![CDATA[【歌枠】 ぷちお披露目ありのKARAOKE！]]></title>
     <link href="https://youtu.be/bXlbDEXycNs" rel="alternate" type="text/html"/>
     <published>2025-10-10T09:03:35.000Z</published>
     <updated>2025-10-10T09:03:52.000Z</updated>
@@ -605,20 +619,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Jz2SeJDfml8 【LIVE on &lt;t:1759410007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jz2SeJDfml8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:72431b9c-1b8d-5601-8ee7-e9c2d035d680</id>
-    <title><![CDATA[【オリジナル楽曲】ときのそら「バチャリアラブ feat. 涼海すう&籾山ひめり from 高嶺のなでしこ」【Official Music Video】]]></title>
-    <link href="https://youtu.be/TsFMmZcPH70" rel="alternate" type="text/html"/>
-    <published>2025-10-02T06:17:41.000Z</published>
-    <updated>2025-10-02T06:17:41.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TsFMmZcPH70 【LIVE on &lt;t:1760094000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TsFMmZcPH70/maxresdefault.jpg"/>
   </entry>
 
   <entry>
