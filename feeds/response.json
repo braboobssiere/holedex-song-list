@@ -165,9 +165,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-10-08T16:03:45.000Z",
-    "available_at": "2025-10-10T12:00:00.000Z",
+    "available_at": "2025-10-10T11:58:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 56
+    },
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
