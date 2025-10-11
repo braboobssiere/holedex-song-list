@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-11T22:26:14.942Z</updated>
+  <updated>2025-10-11T23:26:12.069Z</updated>
 
   <entry>
     <id>urn:uuid:667555fe-ad83-55fc-822d-928cd1d43608</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h7Bz6tvDk3A 【LIVE on &lt;t:1760187658:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h7Bz6tvDk3A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f4900467-6ea3-5863-a271-49f489b13f84</id>
+    <title><![CDATA[化けの皮 (feat. こぼ・かなえる, 重音テト, Giga & TeddyLoid)]]></title>
+    <link href="https://youtu.be/bO1Wat7o9oY" rel="alternate" type="text/html"/>
+    <published>2025-10-11T10:01:51.000Z</published>
+    <updated>2025-10-11T10:01:51.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bO1Wat7o9oY 【LIVE on &lt;t:1760176911:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bO1Wat7o9oY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -77,9 +91,9 @@
 
   <entry>
     <id>urn:uuid:e48555c6-12a9-5c9e-a436-7bb18bd75a16</id>
-    <title><![CDATA[【歌枠】 ぷちお披露目ありのKARAOKE！]]></title>
+    <title><![CDATA[【歌枠】 ぷちお披露目ありのKARAOKE!]]></title>
     <link href="https://youtu.be/bXlbDEXycNs" rel="alternate" type="text/html"/>
-    <published>2025-10-10T09:03:35.000Z</published>
+    <published>2025-10-10T10:54:31.000Z</published>
     <updated>2025-10-10T09:03:52.000Z</updated>
     <author>
       <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
@@ -1249,20 +1263,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dti1S6SLF_4 【LIVE on &lt;t:1758553419:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dti1S6SLF_4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bd57482c-d199-5d0b-9d42-b2fdc0346ae1</id>
-    <title><![CDATA[Hikari (Remix ver.)]]></title>
-    <link href="https://youtu.be/p5brx1nos60" rel="alternate" type="text/html"/>
-    <published>2025-09-22T15:02:34.000Z</published>
-    <updated>2025-09-22T15:02:34.000Z</updated>
-    <author>
-      <name>Botan Ch.獅白ぼたん</name>
-      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p5brx1nos60 【LIVE on &lt;t:1758553354:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p5brx1nos60/maxresdefault.jpg"/>
   </entry>
 
   <entry>
