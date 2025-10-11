@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-11T11:26:12.768Z</updated>
+  <updated>2025-10-11T12:26:18.288Z</updated>
+
+  <entry>
+    <id>urn:uuid:667555fe-ad83-55fc-822d-928cd1d43608</id>
+    <title><![CDATA[【 歌枠 】リベンジ!しっとりバラード多めでチルい夜にしてね【 桃鈴ねね / hololive 】]]></title>
+    <link href="https://youtu.be/h7Bz6tvDk3A" rel="alternate" type="text/html"/>
+    <published>2025-10-11T11:37:07.000Z</published>
+    <updated>2025-10-11T11:37:07.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h7Bz6tvDk3A 【LIVE on &lt;t:1760187600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h7Bz6tvDk3A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:de5b31bc-0207-532d-ba9c-362080888467</id>
@@ -353,20 +367,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PDzrAkFzwEA 【LIVE on &lt;t:1759848901:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PDzrAkFzwEA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c49339c3-68e8-54a0-8d3f-d3eb857c5cdf</id>
-    <title><![CDATA[◇#UTANOFES◇最高のライブを届けます!!💎⚡️  #ウタノライブ 【KARAOKE/Vsinger】]]></title>
-    <link href="https://youtu.be/ypgz35LVQiM" rel="alternate" type="text/html"/>
-    <published>2025-10-07T06:19:54.000Z</published>
-    <updated>2025-10-07T06:19:54.000Z</updated>
-    <author>
-      <name>UTANO ch. 白玖ウタノ</name>
-      <uri>https://www.youtube.com/channel/UCNskpCCH661BeRJkN8n8d-A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ypgz35LVQiM 【LIVE on &lt;t:1760189400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ypgz35LVQiM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
