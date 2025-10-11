@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-11T03:26:17.238Z</updated>
+  <updated>2025-10-11T04:26:13.506Z</updated>
 
   <entry>
     <id>urn:uuid:de5b31bc-0207-532d-ba9c-362080888467</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:097b30be-013c-5c1c-a115-267b0bdeafb3</id>
+    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/i65Gl-3qIFA" rel="alternate" type="text/html"/>
+    <published>2025-10-09T16:26:26.000Z</published>
+    <updated>2025-10-09T14:08:19.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=i65Gl-3qIFA 【LIVE on &lt;t:1760018899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i65Gl-3qIFA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:757f12d1-ad4a-5bad-967f-55ef8ba140d9</id>
     <title><![CDATA[Run Back 'Round]]></title>
     <link href="https://youtu.be/xVSt0wY5NSM" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KsilxxyipPo 【LIVE on &lt;t:1760022186:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KsilxxyipPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:097b30be-013c-5c1c-a115-267b0bdeafb3</id>
-    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/i65Gl-3qIFA" rel="alternate" type="text/html"/>
-    <published>2025-10-09T14:03:54.000Z</published>
-    <updated>2025-10-09T14:08:19.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=i65Gl-3qIFA 【LIVE on &lt;t:1760018899:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i65Gl-3qIFA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
