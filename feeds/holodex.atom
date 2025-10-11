@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-10T23:26:15.702Z</updated>
+  <updated>2025-10-11T00:26:16.701Z</updated>
 
   <entry>
     <id>urn:uuid:de5b31bc-0207-532d-ba9c-362080888467</id>
@@ -1490,6 +1490,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d2dce92f-c162-5021-a0e8-562d6b64f0e1</id>
+    <title><![CDATA[[ASMR Teaser] Voicemail 001]]></title>
+    <link href="https://youtu.be/2iFAm4TkXDs" rel="alternate" type="text/html"/>
+    <published>2025-08-21T15:00:05.000Z</published>
+    <updated>2025-08-21T15:00:05.000Z</updated>
+    <author>
+      <name>Vain Ch.</name>
+      <uri>https://www.youtube.com/channel/UCiDSFTxFuXIzZkpzobjen4Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2iFAm4TkXDs 【LIVE on &lt;t:1755788405:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2iFAm4TkXDs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:21b0a7a7-ba1e-5b9a-903e-76fd9ffaa06a</id>
     <title><![CDATA[【 ASMR 】お疲れの君が癒されながら涼しくなれる場所✦ 【 猫又おかゆ/ホロライブ 】]]></title>
     <link href="https://youtu.be/4nqri8spoo8" rel="alternate" type="text/html"/>
@@ -2369,20 +2383,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OvCnlu-NmZQ 【LIVE on &lt;t:1735192869:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OvCnlu-NmZQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ab07bcc9-4b0a-5642-8af7-cd75a4ca4d60</id>
-    <title><![CDATA[【ASMR】ヤンデレのあずきちに愛されて眠れないASMR 2024【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/q62fOkvRzpQ" rel="alternate" type="text/html"/>
-    <published>2024-12-25T15:07:25.000Z</published>
-    <updated>2024-12-25T14:01:37.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=q62fOkvRzpQ 【LIVE on &lt;t:1735135297:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q62fOkvRzpQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
