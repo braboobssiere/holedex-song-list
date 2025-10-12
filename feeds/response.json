@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 10
+      "en": 18
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -126,9 +126,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-10-10T16:53:57.000Z",
-    "available_at": "2025-10-12T15:00:00.000Z",
+    "available_at": "2025-10-12T15:00:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 23
+    },
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -2616,11 +2619,11 @@
     }
   },
   {
-    "id": "1O9bOOPyeK0",
+    "id": "0ccIxoZ40UA",
     "title": "【縦型歌枠】170万人目指して歌います!Singing Stream🎤【角巻わため/ホロライブ4期生】 #shorts #vtuber",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-09-22T19:08:57.000Z",
+    "published_at": "2025-09-22T19:08:50.000Z",
     "available_at": "2025-09-23T13:00:07.000Z",
     "duration": 0,
     "status": "missing",
