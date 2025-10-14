@@ -57,6 +57,28 @@
     }
   },
   {
+    "id": "OH_IId-Mdzs",
+    "title": "【 縦型/歌枠】NO5.今日はChillll🌃💜 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-12T15:39:42.000Z",
+    "available_at": "2025-10-12T14:01:14.000Z",
+    "duration": 5453,
+    "status": "past",
+    "live_tl_count": {
+      "en": 18
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "AqWR546Xy8A",
     "title": "Anime Series Gachiakuta 2nd Cour Non-credit Opening Video/Mori Calliope「LET'S JUST CRASH」",
     "type": "stream",
@@ -75,28 +97,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "OH_IId-Mdzs",
-    "title": "【 縦型/歌枠】NO５.今日はChillll🌃💜 定期歌枠 ➡ Midnight RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-12T13:57:43.000Z",
-    "available_at": "2025-10-12T14:01:14.000Z",
-    "duration": 5444,
-    "status": "past",
-    "live_tl_count": {
-      "en": 18
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -1206,6 +1206,7 @@
     "available_at": "2025-10-13T11:59:12.000Z",
     "duration": 3336,
     "status": "past",
+    "songcount": 10,
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
