@@ -1,5 +1,24 @@
 [
   {
+    "id": "KNVem02qyy0",
+    "title": "【歌枠 / karaoke】昼休みに聞く枠  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-15T01:58:30.000Z",
+    "available_at": "2025-10-15T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "7ggUV610_kc",
     "title": "【ボカロ歌枠】告知ありボカロ歌枠っ！！やってくよ！【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -2349,26 +2368,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "GH2ct-KrFWU",
-    "title": "【歌枠 KARAOKE】縦型歌雑談のまき❕【水宮枢/ホロライブDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-24T11:07:48.000Z",
-    "available_at": "2025-09-24T08:00:50.000Z",
-    "duration": 9487,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
