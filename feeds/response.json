@@ -1,5 +1,24 @@
 [
   {
+    "id": "PlyvdsuMz98",
+    "title": "【 歌枠 l KARAOKE 】幽霊は歌いたい【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-17T15:25:02.000Z",
+    "available_at": "2025-10-18T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "UMUB0g3u-4Y",
     "title": "微かな夕陽 (Instrumental)",
     "type": "stream",
@@ -81,13 +100,13 @@
   },
   {
     "id": "VSnfUNZ97no",
-    "title": "【歌枠/縦型】アニソン中心に!いろいろ歌おう🎤  #shorts【不知火フレア/ホロライブ】",
+    "title": "【歌枠/縦型】アニソン中心に！いろいろ歌おう🎤 #shorts【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-17T09:20:03.000Z",
     "available_at": "2025-10-17T13:04:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9335,
+    "status": "past",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -179,15 +198,15 @@
     }
   },
   {
-    "id": "i2sw2i6_XDk",
-    "title": "Escalate - IRyS【Original Song 3D MV】",
+    "id": "kuHu_QbqPME",
+    "title": "【3D KARAOKE / 3D歌枠】New Song Pre-Release Karaoke in 3D BOOTH!!",
     "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-10-16T04:00:07.000Z",
-    "available_at": "2025-10-16T04:00:07.000Z",
-    "duration": 246,
+    "topic_id": "singing",
+    "published_at": "2025-10-16T04:10:46.000Z",
+    "available_at": "2025-10-16T02:31:26.000Z",
+    "duration": 5331,
     "status": "past",
-    "songcount": 1,
+    "songcount": 12,
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -199,15 +218,15 @@
     }
   },
   {
-    "id": "kuHu_QbqPME",
-    "title": "【3D KARAOKE / 3D歌枠】New Song Pre-Release Karaoke in 3D BOOTH!!",
+    "id": "i2sw2i6_XDk",
+    "title": "Escalate - IRyS【Original Song 3D MV】",
     "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-15T13:57:53.000Z",
-    "available_at": "2025-10-16T02:31:26.000Z",
-    "duration": 5352,
+    "topic_id": "Original_Song",
+    "published_at": "2025-10-16T04:00:07.000Z",
+    "available_at": "2025-10-16T04:00:07.000Z",
+    "duration": 246,
     "status": "past",
-    "songcount": 12,
+    "songcount": 1,
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -2348,26 +2367,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "985jc-IcjZs",
-    "title": "【KARAOKE】CHANGE OF PLANS! LET'S SING SOME VOCALOID SONGS MY HAKKITO ヾ(´〇`)ﾉ🎙️ ♪🎶♪ ♪【ARCHIVED】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-09-27T06:37:00.000Z",
-    "available_at": "2025-09-27T02:01:52.000Z",
-    "duration": 15661,
-    "status": "past",
-    "songcount": 36,
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
