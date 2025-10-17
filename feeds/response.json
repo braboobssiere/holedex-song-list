@@ -145,9 +145,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-10-15T08:51:51.000Z",
-    "available_at": "2025-10-17T10:00:00.000Z",
+    "available_at": "2025-10-17T09:59:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 64
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
