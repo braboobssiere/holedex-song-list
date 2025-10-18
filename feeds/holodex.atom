@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-18T17:26:13.420Z</updated>
+  <updated>2025-10-18T18:26:23.060Z</updated>
 
   <entry>
     <id>urn:uuid:a4c1b572-bc16-504b-914f-c9ed06bea77f</id>
@@ -146,6 +146,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:e97f2c84-8edd-51d5-8a50-c1175cc283f5</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】celebrating our ultimate idol momoi haruko ♪ #FWMCbeats 【桃井はるこ曲縛り】]]></title>
+    <link href="https://youtu.be/ceK1aNW56Lc" rel="alternate" type="text/html"/>
+    <published>2025-10-17T06:11:43.000Z</published>
+    <updated>2025-10-17T02:55:09.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ceK1aNW56Lc 【LIVE on &lt;t:1760669709:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ceK1aNW56Lc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:68b3f83e-96ab-576d-81c2-1ec1c7e3a7ed</id>
     <title><![CDATA[Escalate]]></title>
     <link href="https://youtu.be/nTMlImkpkX4" rel="alternate" type="text/html"/>
@@ -255,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eYLNO0v7ylg 【LIVE on &lt;t:1760356752:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eYLNO0v7ylg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e97f2c84-8edd-51d5-8a50-c1175cc283f5</id>
-    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】celebrating our ultimate idol momoi haruko ♪ #FWMCbeats 【桃井はるこ曲縛り】]]></title>
-    <link href="https://youtu.be/ceK1aNW56Lc" rel="alternate" type="text/html"/>
-    <published>2025-10-12T21:02:19.000Z</published>
-    <updated>2025-10-17T02:55:09.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ceK1aNW56Lc 【LIVE on &lt;t:1760669709:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ceK1aNW56Lc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
