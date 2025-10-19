@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-19T03:26:11.567Z</updated>
+  <updated>2025-10-19T04:26:11.042Z</updated>
+
+  <entry>
+    <id>urn:uuid:d8bc0b23-05d4-5c1b-8acc-2df38cf4e141</id>
+    <title><![CDATA[【ORIGINAL MV】I'll still be here - Gigi Murin]]></title>
+    <link href="https://youtu.be/EvdDIJ2ojDM" rel="alternate" type="text/html"/>
+    <published>2025-10-19T03:30:06.000Z</published>
+    <updated>2025-10-19T03:30:06.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EvdDIJ2ojDM 【LIVE on &lt;t:1760844606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EvdDIJ2ojDM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a4c1b572-bc16-504b-914f-c9ed06bea77f</id>
@@ -34,20 +48,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d8bc0b23-05d4-5c1b-8acc-2df38cf4e141</id>
-    <title><![CDATA[【ORIGINAL MV】??????? - Gigi Murin]]></title>
-    <link href="https://youtu.be/EvdDIJ2ojDM" rel="alternate" type="text/html"/>
-    <published>2025-10-18T09:53:03.000Z</published>
-    <updated>2025-10-18T09:53:03.000Z</updated>
-    <author>
-      <name>Gigi Murin Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EvdDIJ2ojDM 【LIVE on &lt;t:1760844600:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EvdDIJ2ojDM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:ae8bb251-4072-57f2-ac76-ba497d4ae11a</id>
     <title><![CDATA[【ゲリ歌枠】新しい曲も少しだけ【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/Aye39k60YFs" rel="alternate" type="text/html"/>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bzb7DzLRJ9Y 【LIVE on &lt;t:1760748597:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bzb7DzLRJ9Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b5a80e42-163b-51dc-a450-3d940e29b261</id>
+    <title><![CDATA[【歌枠/縦型】アニソン中心に!いろいろ歌おう🎤  #shorts【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/VSnfUNZ97no" rel="alternate" type="text/html"/>
+    <published>2025-10-17T15:50:28.000Z</published>
+    <updated>2025-10-17T13:04:23.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VSnfUNZ97no 【LIVE on &lt;t:1760706263:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VSnfUNZ97no/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=RVc0RcUm0VY 【LIVE on &lt;t:1760698861:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RVc0RcUm0VY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b5a80e42-163b-51dc-a450-3d940e29b261</id>
-    <title><![CDATA[【歌枠/縦型】アニソン中心に！いろいろ歌おう🎤 #shorts【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/VSnfUNZ97no" rel="alternate" type="text/html"/>
-    <published>2025-10-17T09:20:03.000Z</published>
-    <updated>2025-10-17T13:04:23.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VSnfUNZ97no 【LIVE on &lt;t:1760706263:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VSnfUNZ97no/maxresdefault.jpg"/>
   </entry>
 
   <entry>
