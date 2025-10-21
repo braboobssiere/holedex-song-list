@@ -1,13 +1,16 @@
 [
   {
     "id": "3GW6HHRazAU",
-    "title": "【 縦型/歌枠】麻雀が嬉しいのでうたっちゃうううう!! 【ホロライブ/ ロボ子さん 】",
+    "title": "【 縦型/歌枠】麻雀が嬉しいのでうたっちゃうううう！！ 【ホロライブ/ ロボ子さん 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-21T12:54:38.000Z",
     "available_at": "2025-10-21T12:58:30.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7164,
+    "status": "past",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -25,8 +28,8 @@
     "topic_id": "asmr",
     "published_at": "2025-10-21T04:42:37.000Z",
     "available_at": "2025-10-21T14:00:48.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4241,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -35,6 +38,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "-FHA4NEWGqM",
+    "title": "IT'S MY 2ND BIRTHDAY!🎉",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-10-20T03:11:17.000Z",
+    "available_at": "2025-10-19T23:00:49.000Z",
+    "duration": 14338,
+    "status": "past",
+    "channel": {
+      "id": "UCFwcEIsjvi9XEvpGx6iwHpw",
+      "name": "Lucien Lunaris【FIRST STAGE PRODUCTION EN】",
+      "org": "FIRST STAGE PRODUCTION",
+      "suborg": "3aEN Avallum",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Vhi7ImcGCM1K-8dNQQLA7R-UOLqbuwywiOswoIWCOXB4haDN0j61HBysag94qtNKlwgMCBQmEg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Lucien Lunaris"
     }
   },
   {
@@ -115,25 +137,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/qkEX7g0ZjGQ2Wa_eUf-tOXGziHXyo6B-MBI92KubzMHvVnbOFrUZSfQNWPS0j6tpti7-kD-b=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nana Asteria"
-    }
-  },
-  {
-    "id": "-FHA4NEWGqM",
-    "title": "IT'S MY 2ND BIRTHDAY!🎉",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-10-19T14:04:15.000Z",
-    "available_at": "2025-10-19T23:00:49.000Z",
-    "duration": 14336,
-    "status": "past",
-    "channel": {
-      "id": "UCFwcEIsjvi9XEvpGx6iwHpw",
-      "name": "Lucien Lunaris【FIRST STAGE PRODUCTION EN】",
-      "org": "FIRST STAGE PRODUCTION",
-      "suborg": "3aEN Avallum",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Vhi7ImcGCM1K-8dNQQLA7R-UOLqbuwywiOswoIWCOXB4haDN0j61HBysag94qtNKlwgMCBQmEg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Lucien Lunaris"
     }
   },
   {
@@ -464,7 +467,6 @@
     "available_at": "2025-10-17T11:40:06.000Z",
     "duration": 221,
     "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
