@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-24T14:26:21.311Z</updated>
+  <updated>2025-10-24T15:26:20.462Z</updated>
+
+  <entry>
+    <id>urn:uuid:2e0d0a9e-ba9b-51e3-b466-efa4c01a4a1c</id>
+    <title><![CDATA[ねっちゅーシンドローム]]></title>
+    <link href="https://youtu.be/XKb23UR3AZE" rel="alternate" type="text/html"/>
+    <published>2025-10-24T15:03:55.000Z</published>
+    <updated>2025-10-24T15:03:55.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XKb23UR3AZE 【LIVE on &lt;t:1761318235:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XKb23UR3AZE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:34b3b881-9208-5cfc-a37f-3f8c2675e686</id>
+    <title><![CDATA[ねっちゅーシンドローム (Instrumental)]]></title>
+    <link href="https://youtu.be/hhvhdkXytNM" rel="alternate" type="text/html"/>
+    <published>2025-10-24T15:02:09.000Z</published>
+    <updated>2025-10-24T15:02:09.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hhvhdkXytNM 【LIVE on &lt;t:1761318129:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hhvhdkXytNM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:30f75a84-90d2-5ea6-b9f3-2e50d4ec4a18</id>
@@ -80,12 +108,12 @@
     <title><![CDATA[【ASMR】🎃ARCHIVEはメン限￤いたずら好きの女の子のASMR  マッサージ/炭酸/ウィスパー【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/xlUHU013Ybs" rel="alternate" type="text/html"/>
     <published>2025-10-22T09:26:41.000Z</published>
-    <updated>2025-10-22T09:26:41.000Z</updated>
+    <updated>2025-10-24T15:01:11.000Z</updated>
     <author>
       <name>Roboco Ch. - ロボ子</name>
       <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xlUHU013Ybs 【LIVE on &lt;t:1761318000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xlUHU013Ybs 【LIVE on &lt;t:1761318071:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xlUHU013Ybs/maxresdefault.jpg"/>
   </entry>
 
@@ -1333,34 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=T6v4mZVrsB0 【LIVE on &lt;t:1758794406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T6v4mZVrsB0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8d13e603-26fe-5b1f-b128-b4aa393b67f7</id>
-    <title><![CDATA[DARE!?]]></title>
-    <link href="https://youtu.be/fltRh91obGk" rel="alternate" type="text/html"/>
-    <published>2025-09-24T15:01:17.000Z</published>
-    <updated>2025-09-24T15:01:17.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fltRh91obGk 【LIVE on &lt;t:1758726077:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fltRh91obGk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e5f8694f-9d97-570a-9f25-7fd859b224c2</id>
-    <title><![CDATA[DARE!? (Instrumental)]]></title>
-    <link href="https://youtu.be/ax5V-XRsjP8" rel="alternate" type="text/html"/>
-    <published>2025-09-24T15:00:06.000Z</published>
-    <updated>2025-09-24T15:00:06.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ax5V-XRsjP8 【LIVE on &lt;t:1758726006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ax5V-XRsjP8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
