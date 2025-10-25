@@ -1,13 +1,32 @@
 [
   {
+    "id": "-JIXPYaEYTg",
+    "title": "ENGLISH KARAOKE TIME~♪【※No archive】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-25T02:37:06.000Z",
+    "available_at": "2025-10-25T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Akai Haato"
+    }
+  },
+  {
     "id": "BIUAkN5FHc4",
     "title": "【KH3D】3に続く最後の冒険!!今回は夢の中だ!!【花咲みやび/ホロスターズ】【ネタバレあり】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-10-24T16:10:57.000Z",
     "available_at": "2025-10-25T00:07:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8261,
+    "status": "past",
     "channel": {
       "id": "UC6t3-_N8A6ME1JShZHHqOMw",
       "name": "Miyabi Ch. 花咲みやび",
@@ -2522,26 +2541,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "L94tz55iHmw",
-    "title": "【豊潤サジー】サジスタWEEK!歌って歌って元気を届ける!【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-01T12:19:50.000Z",
-    "available_at": "2025-10-01T10:59:35.000Z",
-    "duration": 3611,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
