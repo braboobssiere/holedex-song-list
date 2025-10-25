@@ -207,7 +207,7 @@
     "id": "L_N74KgbeA8",
     "title": "≪SELFBOOTH 3D - KARAOKE≫ Today, The Rat will SHILL.",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2025-10-23T14:24:22.000Z",
     "available_at": "2025-10-26T03:00:00.000Z",
     "duration": 0,
@@ -751,6 +751,7 @@
     "available_at": "2025-10-17T11:40:06.000Z",
     "duration": 221,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -1136,6 +1137,7 @@
     "available_at": "2025-10-11T15:29:00.000Z",
     "duration": 91,
     "status": "past",
+    "songcount": 1,
     "original_channel_id": "UC14QT5j2nQI8lKBCGtrrBQA",
     "channel": {
       "id": "UCjLEmnpCNeisMxy134KPwWw",
@@ -2401,26 +2403,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "fIhrp5CN0WQ",
-    "title": "【歌枠 / karaoke】うおw / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-02T16:33:41.000Z",
-    "available_at": "2025-10-02T15:02:10.000Z",
-    "duration": 4889,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -5654,6 +5636,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
+    }
+  },
+  {
+    "id": "uXTdXl2V8NI",
+    "title": "【Maestro】3Dで優雅なオーケストラ指揮者きーつね!!!【ホロライブ/白上フブキ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-06-14T12:45:11.000Z",
+    "available_at": "2025-06-14T11:04:49.000Z",
+    "duration": 5065,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
     }
   },
   {
