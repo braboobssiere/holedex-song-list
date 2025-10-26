@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-26T12:26:20.356Z</updated>
+  <updated>2025-10-26T13:26:16.141Z</updated>
+
+  <entry>
+    <id>urn:uuid:3d597177-bd31-5575-9318-dd5e091c029a</id>
+    <title><![CDATA[【雑談/ギター練習】弾き語り練習したり喋ったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/m02P03R9j1k" rel="alternate" type="text/html"/>
+    <published>2025-10-26T12:41:31.000Z</published>
+    <updated>2025-10-26T12:48:17.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=m02P03R9j1k 【LIVE on &lt;t:1761482897:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m02P03R9j1k/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:543ed0b9-f1d4-5fd1-a9f4-619eaf18e1f9</id>
@@ -52,12 +66,12 @@
     <title><![CDATA[【歌枠】第128回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/nCjwbQ81Csc" rel="alternate" type="text/html"/>
     <published>2025-10-25T20:28:30.000Z</published>
-    <updated>2025-10-25T20:28:30.000Z</updated>
+    <updated>2025-10-26T13:02:28.000Z</updated>
     <author>
       <name>Watame Ch. 角巻わため</name>
       <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nCjwbQ81Csc 【LIVE on &lt;t:1761483600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nCjwbQ81Csc 【LIVE on &lt;t:1761483748:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nCjwbQ81Csc/maxresdefault.jpg"/>
   </entry>
 
@@ -2775,19 +2789,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Cda-6iTlr9U 【LIVE on &lt;t:1684018817:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Cda-6iTlr9U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:02097647-3b8b-5bdd-8ef6-641fac3c436b</id>
-    <title><![CDATA[【 楽器演奏 】<DAY14>日曜朝のエレクトーン練習するのらっ!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/QdViyW7gif0" rel="alternate" type="text/html"/>
-    <published>2023-05-07T04:20:34.000Z</published>
-    <updated>2023-05-06T23:00:26.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QdViyW7gif0 【LIVE on &lt;t:1683414026:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QdViyW7gif0/maxresdefault.jpg"/>
   </entry>
 </feed>
