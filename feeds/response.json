@@ -1,5 +1,43 @@
 [
   {
+    "id": "OXgH7UjlOFI",
+    "title": "【歌枠】ちょっとだけ歌うぞ~ん🍂【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-26T05:13:43.000Z",
+    "available_at": "2025-10-26T05:13:58.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/CLQZMWUD0T1I9c30pev4COYCBP1oMyhCT80UKnwqCDtLnfHDgRamkdhY75y0nhm_1TERm0Us=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "voBy_g0fsOQ",
+    "title": "【歌枠】久々にノリノリで歌っていこう!!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-26T05:04:56.000Z",
+    "available_at": "2025-10-26T05:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "nCjwbQ81Csc",
     "title": "【歌枠】第128回!わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -250,7 +288,7 @@
     "available_at": "2025-10-26T03:00:29.000Z",
     "duration": 4801,
     "status": "past",
-    "songcount": 2,
+    "songcount": 3,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -2226,26 +2264,6 @@
     }
   },
   {
-    "id": "8dcekJBktfA",
-    "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-04T14:49:02.000Z",
-    "available_at": "2025-10-04T13:01:30.000Z",
-    "duration": 6110,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "JYT8XNR6tq8",
     "title": "【 #サウナASMR 】マリこよによる温度差バリバリ整いASMR~ラプラス同時視聴を添えて~【宝鐘マリン・博衣こより/ホロライブ】",
     "type": "stream",
@@ -2262,26 +2280,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "KDxInSh5ep0",
-    "title": "【50万人耐久】雑談/歌枠KARAOKE 💙❕【水宮枢/ホロライブDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-04T11:58:49.000Z",
-    "available_at": "2025-10-04T06:59:18.000Z",
-    "duration": 17086,
-    "status": "past",
-    "songcount": 38,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dmgOiw81noBwcUY9WSZJV-jfgylly2dhMI-7czc3f3pTDeynagYWSR2TxQdKdT-Kspo_GRUgFQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
