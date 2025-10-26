@@ -20,15 +20,15 @@
   },
   {
     "id": "MAOt_gjhE4E",
-    "title": "【 縦型/歌枠】NO7.💜 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "title": "【 縦型/歌枠】NO7.💜 定期歌枠 ➡ Midnight RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-26T12:00:16.000Z",
     "available_at": "2025-10-26T12:03:50.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6233,
+    "status": "past",
     "live_tl_count": {
-      "en": 8
+      "en": 10
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -38,6 +38,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "Npm-Pjv3vMo",
+    "title": "【 3D歌枠 l KARAOKE 】17万人行きたい!【 水無世燐央 l UPROAR!! 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-10-26T09:49:58.000Z",
+    "available_at": "2025-10-27T08:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
     }
   },
   {
@@ -689,7 +708,6 @@
     "available_at": "2025-10-19T03:30:06.000Z",
     "duration": 148,
     "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -5638,25 +5656,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Josuiji Shinri"
-    }
-  },
-  {
-    "id": "K6zDW0NVmKw",
-    "title": "EXPO 2025 Virtual Osaka Helthcare Pavilion\"Eudaimonia\" presentsVIRTUAL LIVE「ARK-或ル世界-」",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-16T06:46:28.000Z",
-    "available_at": "2025-06-19T08:57:16.000Z",
-    "duration": 5067,
-    "status": "missing",
-    "channel": {
-      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
-      "name": "花譜 -KAF-",
-      "org": "KAMITSUBAKI",
-      "suborg": "11PHENOMENON RECORD",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "KAF"
     }
   },
   {
