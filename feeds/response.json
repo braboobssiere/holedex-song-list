@@ -27,6 +27,7 @@
     "available_at": "2025-10-26T12:03:50.000Z",
     "duration": 6233,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "en": 10
     },
@@ -42,13 +43,13 @@
   },
   {
     "id": "Npm-Pjv3vMo",
-    "title": "【 3D歌枠 l KARAOKE 】17万人行きたい!【 水無世燐央 l UPROAR!! 】",
+    "title": "【 3D歌枠 l KARAOKE 】17万人行きたい！【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-26T09:49:58.000Z",
     "available_at": "2025-10-27T08:00:55.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8771,
+    "status": "past",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -68,6 +69,7 @@
     "available_at": "2025-10-26T05:13:58.000Z",
     "duration": 4475,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -87,6 +89,7 @@
     "available_at": "2025-10-26T05:31:57.000Z",
     "duration": 5307,
     "status": "past",
+    "songcount": 12,
     "live_tl_count": {
       "en": 104,
       "ko": 103
@@ -110,6 +113,7 @@
     "available_at": "2025-10-26T13:02:28.000Z",
     "duration": 16101,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -128,7 +132,7 @@
     "published_at": "2025-10-25T19:34:06.000Z",
     "available_at": "2025-10-25T22:22:42.000Z",
     "duration": 2940,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
