@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-28T11:26:17.074Z</updated>
+  <updated>2025-10-28T12:26:16.055Z</updated>
+
+  <entry>
+    <id>urn:uuid:84582b22-7fb0-547b-b79a-395efcac89b3</id>
+    <title><![CDATA[えんじょい the わーるど!LIVE ver/白上フブキ(original)]]></title>
+    <link href="https://youtu.be/l4dzbGsMeBU" rel="alternate" type="text/html"/>
+    <published>2025-10-28T12:00:17.000Z</published>
+    <updated>2025-10-28T12:00:17.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=l4dzbGsMeBU 【LIVE on &lt;t:1761652817:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/l4dzbGsMeBU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9433d808-10ba-5c68-980d-ce73debbbf69</id>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JNpXgr9Tl0Y 【LIVE on &lt;t:1759330829:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JNpXgr9Tl0Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0dc68909-d7da-504d-9d95-d3b4b11231d4</id>
-    <title><![CDATA[【Original anime MV】マフィオーザ / 戌神ころね (official)]]></title>
-    <link href="https://youtu.be/_bEFfPc1feA" rel="alternate" type="text/html"/>
-    <published>2025-10-01T12:15:06.000Z</published>
-    <updated>2025-10-01T12:15:06.000Z</updated>
-    <author>
-      <name>Korone Ch. 戌神ころね</name>
-      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_bEFfPc1feA 【LIVE on &lt;t:1759320906:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_bEFfPc1feA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
