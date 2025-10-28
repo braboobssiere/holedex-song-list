@@ -105,8 +105,8 @@
     "topic_id": "singing",
     "published_at": "2025-10-28T06:20:45.000Z",
     "available_at": "2025-10-28T14:00:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8446,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -525,6 +525,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CLQZMWUD0T1I9c30pev4COYCBP1oMyhCT80UKnwqCDtLnfHDgRamkdhY75y0nhm_1TERm0Us=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "ZjuDUe4jnqE",
+    "title": "【チラ見せ】Tokoyami Towa 2nd Live \"SHINier\"【有明アリーナ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-10-23T07:24:15.000Z",
+    "available_at": "2025-10-29T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
     }
   },
   {
@@ -5649,25 +5668,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Josuiji Shinri"
-    }
-  },
-  {
-    "id": "K6zDW0NVmKw",
-    "title": "EXPO 2025 Virtual Osaka Helthcare Pavilion\"Eudaimonia\" presentsVIRTUAL LIVE「ARK-或ル世界-」",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-06-16T06:46:28.000Z",
-    "available_at": "2025-06-19T08:57:16.000Z",
-    "duration": 5067,
-    "status": "missing",
-    "channel": {
-      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
-      "name": "花譜 -KAF-",
-      "org": "KAMITSUBAKI",
-      "suborg": "11PHENOMENON RECORD",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "KAF"
     }
   },
   {
