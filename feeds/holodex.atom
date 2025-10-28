@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-28T13:26:22.854Z</updated>
+  <updated>2025-10-28T14:26:18.765Z</updated>
+
+  <entry>
+    <id>urn:uuid:b68cec80-c6ff-511b-8056-ceb1ab1dbab7</id>
+    <title><![CDATA[【歌枠】プチ告知ありのアニソン歌枠していくぞん!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/XLPnlKihMDs" rel="alternate" type="text/html"/>
+    <published>2025-10-28T13:26:37.000Z</published>
+    <updated>2025-10-28T13:26:37.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XLPnlKihMDs 【LIVE on &lt;t:1761724800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XLPnlKihMDs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:84582b22-7fb0-547b-b79a-395efcac89b3</id>
@@ -38,12 +52,12 @@
     <title><![CDATA[【深夜歌枠】しっとり歌っていきます🎤【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/VYeLgnmVaL4" rel="alternate" type="text/html"/>
     <published>2025-10-28T06:20:45.000Z</published>
-    <updated>2025-10-28T06:20:45.000Z</updated>
+    <updated>2025-10-28T14:00:43.000Z</updated>
     <author>
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VYeLgnmVaL4 【LIVE on &lt;t:1761660000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VYeLgnmVaL4 【LIVE on &lt;t:1761660043:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VYeLgnmVaL4/maxresdefault.jpg"/>
   </entry>
 
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7Tm7dVsTPBk 【LIVE on &lt;t:1759665685:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7Tm7dVsTPBk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4fa3bbd9-1926-5024-b2e5-8a890a383c0e</id>
-    <title><![CDATA[【 重大告知 】V系のお歌うたって生誕祭ライブの告知をするのら!!!【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/cW_GPyaYdD0" rel="alternate" type="text/html"/>
-    <published>2025-10-05T09:58:57.000Z</published>
-    <updated>2025-10-05T07:57:25.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cW_GPyaYdD0 【LIVE on &lt;t:1759651045:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cW_GPyaYdD0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
