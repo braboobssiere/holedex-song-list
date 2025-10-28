@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-28T09:26:20.588Z</updated>
+  <updated>2025-10-28T10:26:11.826Z</updated>
+
+  <entry>
+    <id>urn:uuid:9433d808-10ba-5c68-980d-ce73debbbf69</id>
+    <title><![CDATA[get lucky / 鷹嶺ルイ(official)]]></title>
+    <link href="https://youtu.be/U7jrogmL3Ko" rel="alternate" type="text/html"/>
+    <published>2025-10-28T10:15:07.000Z</published>
+    <updated>2025-10-28T10:15:07.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U7jrogmL3Ko 【LIVE on &lt;t:1761646507:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U7jrogmL3Ko/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ad6d98a4-0cf9-5d04-8bef-e8d5e89e06a1</id>
@@ -1389,20 +1403,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h5PxX-CGNZA 【LIVE on &lt;t:1759068127:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h5PxX-CGNZA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:01425df7-8d67-5ac8-8293-d06c67d597bb</id>
-    <title><![CDATA[あずいろ BESTIE DAYS / AZKi&風真いろは(official)]]></title>
-    <link href="https://youtu.be/4tOo5oRsEnc" rel="alternate" type="text/html"/>
-    <published>2025-09-27T09:00:07.000Z</published>
-    <updated>2025-09-27T09:00:07.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4tOo5oRsEnc 【LIVE on &lt;t:1758963607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4tOo5oRsEnc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
