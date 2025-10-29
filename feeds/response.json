@@ -1,5 +1,24 @@
 [
   {
+    "id": "fbdXYzElkuU",
+    "title": "【UNARCHIVE KARAOKE】 SINGING A BIT :3c 【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-29T11:45:33.000Z",
+    "available_at": "2025-10-29T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
+    }
+  },
+  {
     "id": "OYQBAWQ6dng",
     "title": "get lucky (Instrumental)",
     "type": "stream",
@@ -39,25 +58,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "XLPnlKihMDs",
-    "title": "【歌枠】プチ告知ありのアニソン歌枠していくぞん！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-28T13:26:37.000Z",
-    "available_at": "2025-10-29T08:01:34.000Z",
-    "duration": 3812,
-    "status": "past",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CLQZMWUD0T1I9c30pev4COYCBP1oMyhCT80UKnwqCDtLnfHDgRamkdhY75y0nhm_1TERm0Us=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -168,9 +168,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-10-27T06:09:24.000Z",
-    "available_at": "2025-10-29T12:00:00.000Z",
+    "available_at": "2025-10-29T11:57:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 70
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
