@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-30T22:26:18.743Z</updated>
+  <updated>2025-10-30T23:26:14.840Z</updated>
 
   <entry>
     <id>urn:uuid:d275f0db-ead1-574d-b4c3-54bb46091fd6</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PleXMf7V7M0 【LIVE on &lt;t:1761789606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PleXMf7V7M0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c3756348-bc72-5a71-8382-08099d134fa6</id>
+    <title><![CDATA[【チラ見せ】Tokoyami Towa 2nd Live "SHINier"【有明アリーナ】]]></title>
+    <link href="https://youtu.be/ZjuDUe4jnqE" rel="alternate" type="text/html"/>
+    <published>2025-10-29T10:00:21.000Z</published>
+    <updated>2025-10-29T09:00:17.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZjuDUe4jnqE 【LIVE on &lt;t:1761728417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZjuDUe4jnqE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -395,20 +409,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ds5XL8MXQXE 【LIVE on &lt;t:1761214056:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ds5XL8MXQXE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c3756348-bc72-5a71-8382-08099d134fa6</id>
-    <title><![CDATA[【チラ見せ】Tokoyami Towa 2nd Live "SHINier"【有明アリーナ】]]></title>
-    <link href="https://youtu.be/ZjuDUe4jnqE" rel="alternate" type="text/html"/>
-    <published>2025-10-23T07:24:15.000Z</published>
-    <updated>2025-10-29T09:00:17.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ZjuDUe4jnqE 【LIVE on &lt;t:1761728417:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZjuDUe4jnqE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
