@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-30T16:26:11.259Z</updated>
+  <updated>2025-10-30T17:26:17.061Z</updated>
 
   <entry>
     <id>urn:uuid:d275f0db-ead1-574d-b4c3-54bb46091fd6</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GJReIH3er8Y 【LIVE on &lt;t:1761814945:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GJReIH3er8Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8f643490-9c05-56ab-817a-5aabaa4e903b</id>
+    <title><![CDATA[冥界Halloween Night!/白上フブキ(original)]]></title>
+    <link href="https://youtu.be/kWAdT8qt8_8" rel="alternate" type="text/html"/>
+    <published>2025-10-30T05:57:44.000Z</published>
+    <updated>2025-10-30T05:57:44.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kWAdT8qt8_8 【LIVE on &lt;t:1761907500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kWAdT8qt8_8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zNM50964ZZk 【LIVE on &lt;t:1759417471:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zNM50964ZZk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c9fcbd2a-42d1-5939-9c00-155d24f44f87</id>
-    <title><![CDATA[Lollipop]]></title>
-    <link href="https://youtu.be/lZggN7fUES8" rel="alternate" type="text/html"/>
-    <published>2025-10-02T15:03:32.000Z</published>
-    <updated>2025-10-02T15:03:32.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lZggN7fUES8 【LIVE on &lt;t:1759417412:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lZggN7fUES8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
