@@ -3,11 +3,25 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-30T11:26:15.594Z</updated>
+  <updated>2025-10-30T12:26:21.156Z</updated>
+
+  <entry>
+    <id>urn:uuid:d275f0db-ead1-574d-b4c3-54bb46091fd6</id>
+    <title><![CDATA[【歌枠】夜の歌枠【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/NI97-uPK96c" rel="alternate" type="text/html"/>
+    <published>2025-10-30T12:14:40.000Z</published>
+    <updated>2025-10-30T12:14:40.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NI97-uPK96c 【LIVE on &lt;t:1761829200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NI97-uPK96c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:491eb51e-3313-5c63-9935-dbf165b9ef0f</id>
-    <title><![CDATA[【 縦型歌枠】47万人を目指して!!!!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <title><![CDATA[【 縦型歌枠】４７万人を目指して！！！！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/ry3qT6Il7x8" rel="alternate" type="text/html"/>
     <published>2025-10-30T10:35:46.000Z</published>
     <updated>2025-10-30T10:41:02.000Z</updated>
@@ -1207,20 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CCjz0q-Rbwk 【LIVE on &lt;t:1759752058:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CCjz0q-Rbwk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:34486b73-b9cc-5d21-8390-53e3e6a1a363</id>
-    <title><![CDATA[【歌枠】前半全体公開!後半メン限!!【儒烏風亭らでん #ReGLOSS 】]]></title>
-    <link href="https://youtu.be/Eia9toluYII" rel="alternate" type="text/html"/>
-    <published>2025-10-06T10:00:31.000Z</published>
-    <updated>2025-10-06T09:01:01.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Eia9toluYII 【LIVE on &lt;t:1759741261:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Eia9toluYII/maxresdefault.jpg"/>
   </entry>
 
   <entry>
