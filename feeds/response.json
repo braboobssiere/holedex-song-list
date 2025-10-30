@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-30T12:14:40.000Z",
-    "available_at": "2025-10-30T13:00:00.000Z",
+    "available_at": "2025-10-30T13:03:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 18,
+      "ko": 30
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -25,8 +29,8 @@
     "topic_id": "singing",
     "published_at": "2025-10-30T10:35:46.000Z",
     "available_at": "2025-10-30T10:41:02.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6157,
+    "status": "past",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
