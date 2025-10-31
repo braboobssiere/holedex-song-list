@@ -1,5 +1,25 @@
 [
   {
+    "id": "Y_DSgJYxKf8",
+    "title": "【歌枠/KARAOKE】ハロウィンなので・・・・【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-31T09:58:55.000Z",
+    "available_at": "2025-10-31T10:02:51.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 3,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/m24oVKR3e3IJEQEZW473e-vokIKr2cW5-O7YcUNDbPKaUV6CMrZdWIARtbkoNbfTRS1eYGyPFg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "NFtjeVAUuC8",
     "title": "【歌枠】第129回!Halloween Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -20,13 +40,16 @@
   },
   {
     "id": "3tfmtj-zpEM",
-    "title": "【 歌枠】重大告知を持ってきました【ホロライブ/ ロボ子さん】",
+    "title": "【 歌枠】本日はCOOLに🎃重大告知を持ってきました【ホロライブ/ ロボ子さん】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-30T15:03:12.000Z",
-    "available_at": "2025-10-31T10:00:00.000Z",
+    "available_at": "2025-10-31T10:00:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -46,6 +69,7 @@
     "available_at": "2025-10-30T13:03:53.000Z",
     "duration": 4040,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 71,
       "ko": 93
@@ -69,6 +93,7 @@
     "available_at": "2025-10-30T10:41:02.000Z",
     "duration": 6157,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -128,6 +153,7 @@
     "available_at": "2025-10-30T14:09:16.000Z",
     "duration": 7857,
     "status": "past",
+    "songcount": 18,
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -1520,6 +1546,7 @@
     "available_at": "2025-10-30T08:33:40.000Z",
     "duration": 5492,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -2466,26 +2493,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "CCjz0q-Rbwk",
-    "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-06T13:18:05.000Z",
-    "available_at": "2025-10-06T12:00:58.000Z",
-    "duration": 3930,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
