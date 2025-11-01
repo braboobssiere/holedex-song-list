@@ -38,6 +38,25 @@
     }
   },
   {
+    "id": "mZPcE3JJGds",
+    "title": "???",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-10-31T14:15:34.000Z",
+    "available_at": "2025-11-01T13:05:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "SbilUly9bSI",
     "title": "SO87 - Love Me Back! (feat. Kureiji Ollie) [MV]",
     "type": "stream",
@@ -123,9 +142,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-10-31T09:48:50.000Z",
-    "available_at": "2025-11-01T12:00:00.000Z",
+    "available_at": "2025-11-01T11:57:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 13
+    },
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -2778,26 +2800,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "vG60szMQ1cE",
-    "title": "【MV】イニミニまいご  / 大神ミオ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-10-03T10:00:06.000Z",
-    "available_at": "2025-10-03T10:00:06.000Z",
-    "duration": 193,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
