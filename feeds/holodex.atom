@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-10-31T23:26:16.117Z</updated>
+  <updated>2025-11-01T00:26:11.194Z</updated>
 
   <entry>
     <id>urn:uuid:55576c25-5ac8-5cd8-93d3-fb7f51724085</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4240e06c-8e55-56d2-a57a-f7b4736478d6</id>
+    <title><![CDATA[【歌枠/KARAOKE】ひさびさにうた~~~~うよ!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/GJReIH3er8Y" rel="alternate" type="text/html"/>
+    <published>2025-10-30T10:47:00.000Z</published>
+    <updated>2025-10-30T09:02:25.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GJReIH3er8Y 【LIVE on &lt;t:1761814945:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GJReIH3er8Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:491eb51e-3313-5c63-9935-dbf165b9ef0f</id>
     <title><![CDATA[【 縦型歌枠】４７万人を目指して！！！！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/ry3qT6Il7x8" rel="alternate" type="text/html"/>
@@ -104,17 +118,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:4240e06c-8e55-56d2-a57a-f7b4736478d6</id>
-    <title><![CDATA[【歌枠/KARAOKE】ひさびさにうた～～～～うよ！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/GJReIH3er8Y" rel="alternate" type="text/html"/>
-    <published>2025-10-30T08:56:59.000Z</published>
-    <updated>2025-10-30T09:02:25.000Z</updated>
+    <id>urn:uuid:312dd07e-3924-5af0-b74d-59eb7dc1936f</id>
+    <title><![CDATA[【 縦型歌枠】47万人を目指して!!!!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/6-rZ7ZJSZSU" rel="alternate" type="text/html"/>
+    <published>2025-10-30T10:22:42.000Z</published>
+    <updated>2025-10-30T08:33:40.000Z</updated>
     <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GJReIH3er8Y 【LIVE on &lt;t:1761814945:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GJReIH3er8Y/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6-rZ7ZJSZSU 【LIVE on &lt;t:1761813220:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6-rZ7ZJSZSU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=i2sw2i6_XDk 【LIVE on &lt;t:1760587207:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i2sw2i6_XDk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:312dd07e-3924-5af0-b74d-59eb7dc1936f</id>
-    <title><![CDATA[【 縦型歌枠】４７万人を目指して！！！！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
-    <link href="https://youtu.be/6-rZ7ZJSZSU" rel="alternate" type="text/html"/>
-    <published>2025-10-15T10:51:04.000Z</published>
-    <updated>2025-10-30T08:33:40.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6-rZ7ZJSZSU 【LIVE on &lt;t:1761813220:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6-rZ7ZJSZSU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
