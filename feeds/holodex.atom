@@ -3,11 +3,53 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-02T14:26:18.164Z</updated>
+  <updated>2025-11-02T15:26:20.745Z</updated>
+
+  <entry>
+    <id>urn:uuid:909e2b7c-88e4-58c2-86dd-77e38781fce5</id>
+    <title><![CDATA[ROCK IN!(Instrumental)]]></title>
+    <link href="https://youtu.be/sDJEf412f8I" rel="alternate" type="text/html"/>
+    <published>2025-11-02T15:01:38.000Z</published>
+    <updated>2025-11-02T15:01:38.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sDJEf412f8I 【LIVE on &lt;t:1762095698:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sDJEf412f8I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bb96ace2-eb43-52c7-ab83-ed73080996d3</id>
+    <title><![CDATA[LET'S JUST CRASH]]></title>
+    <link href="https://youtu.be/lrO1TomWQTw" rel="alternate" type="text/html"/>
+    <published>2025-11-02T15:01:28.000Z</published>
+    <updated>2025-11-02T15:01:28.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lrO1TomWQTw 【LIVE on &lt;t:1762095688:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lrO1TomWQTw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:69716bb8-f07e-5f13-bd92-0fb2ae06b02e</id>
+    <title><![CDATA[ROCK IN!]]></title>
+    <link href="https://youtu.be/mc26p5xcnw8" rel="alternate" type="text/html"/>
+    <published>2025-11-02T15:01:27.000Z</published>
+    <updated>2025-11-02T15:01:27.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mc26p5xcnw8 【LIVE on &lt;t:1762095687:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mc26p5xcnw8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9c389feb-4c6f-5a99-9221-4816552bad2b</id>
-    <title><![CDATA[【 縦型/歌枠】NO8.💜 ごりごりに 低音強化 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <title><![CDATA[【 縦型/歌枠】NO８.💜 ごりごりに 低音強化 定期歌枠 ➡ Midnight RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
     <link href="https://youtu.be/Q4CnanSxtLY" rel="alternate" type="text/html"/>
     <published>2025-11-02T12:58:16.000Z</published>
     <updated>2025-11-02T13:00:54.000Z</updated>
@@ -21,7 +63,7 @@
 
   <entry>
     <id>urn:uuid:75861ac8-04c2-53eb-902d-6dc9dc9a0044</id>
-    <title><![CDATA[【夜のしっとり歌枠】しっとりした夜にしたい!!【ホロライブ/ときのそら】]]></title>
+    <title><![CDATA[【夜のしっとり歌枠】しっとりした夜にしたい！！【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/c4OhEZBgm54" rel="alternate" type="text/html"/>
     <published>2025-11-02T12:02:57.000Z</published>
     <updated>2025-11-02T12:57:39.000Z</updated>
@@ -1305,48 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KqG3KQFbPHk 【LIVE on &lt;t:1759849238:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KqG3KQFbPHk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a08b71a4-5ea3-5da8-aeb5-288cd13f61fa</id>
-    <title><![CDATA[バズビバザヴ]]></title>
-    <link href="https://youtu.be/Afj_iZ_04ME" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:00:29.000Z</published>
-    <updated>2025-10-07T15:00:29.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Afj_iZ_04ME 【LIVE on &lt;t:1759849229:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Afj_iZ_04ME/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6c804a97-2c18-5e15-90fd-2d0d3641d8b8</id>
-    <title><![CDATA[不可視]]></title>
-    <link href="https://youtu.be/KcJKbMtIFfg" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:00:29.000Z</published>
-    <updated>2025-10-07T15:00:29.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KcJKbMtIFfg 【LIVE on &lt;t:1759849229:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KcJKbMtIFfg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d12eead0-aaf2-501b-988c-8e167e92e0fe</id>
-    <title><![CDATA[心の在処はすぐ傍に]]></title>
-    <link href="https://youtu.be/2zTR_E0MMXg" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:00:11.000Z</published>
-    <updated>2025-10-07T15:00:11.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2zTR_E0MMXg 【LIVE on &lt;t:1759849211:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2zTR_E0MMXg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
