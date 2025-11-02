@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-02T09:26:10.619Z</updated>
+  <updated>2025-11-02T10:26:08.627Z</updated>
+
+  <entry>
+    <id>urn:uuid:ff4173c1-5118-51d0-83fa-81bafec6e0d8</id>
+    <title><![CDATA[不可視 / 常闇トワ (official)]]></title>
+    <link href="https://youtu.be/3pUNgLPyjPM" rel="alternate" type="text/html"/>
+    <published>2025-11-02T10:00:06.000Z</published>
+    <updated>2025-11-02T10:00:06.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3pUNgLPyjPM 【LIVE on &lt;t:1762077606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3pUNgLPyjPM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b7704f46-0529-566c-8893-d4569825f238</id>
+    <title><![CDATA[【歌枠】楽しく歌う~!!【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/-wp0M9D6e4M" rel="alternate" type="text/html"/>
+    <published>2025-11-02T09:51:04.000Z</published>
+    <updated>2025-11-02T09:51:04.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-wp0M9D6e4M 【LIVE on &lt;t:1762088400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-wp0M9D6e4M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6e2a5015-015f-5a6d-8116-dfae9af1b1aa</id>
@@ -1305,34 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2zTR_E0MMXg 【LIVE on &lt;t:1759849211:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2zTR_E0MMXg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:71a7caef-954f-5cba-ab13-56e4953febf8</id>
-    <title><![CDATA[My Abyss]]></title>
-    <link href="https://youtu.be/4MLgqMkdF8k" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:00:08.000Z</published>
-    <updated>2025-10-07T15:00:08.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4MLgqMkdF8k 【LIVE on &lt;t:1759849208:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4MLgqMkdF8k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1b226e98-e280-5e2a-8e31-641fd43904cc</id>
-    <title><![CDATA[【歌枠】ゆっくりまったり~秋にしっとり歌枠【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/Ovxp8DgLIG4" rel="alternate" type="text/html"/>
-    <published>2025-10-06T16:01:26.000Z</published>
-    <updated>2025-10-06T14:00:12.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ovxp8DgLIG4 【LIVE on &lt;t:1759759212:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ovxp8DgLIG4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
