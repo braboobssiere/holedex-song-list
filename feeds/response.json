@@ -1,13 +1,36 @@
 [
   {
+    "id": "Q4CnanSxtLY",
+    "title": "【 縦型/歌枠】NO8.💜 ごりごりに 低音強化 定期歌枠 ➡ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-02T12:58:16.000Z",
+    "available_at": "2025-11-02T13:00:54.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "c4OhEZBgm54",
     "title": "【夜のしっとり歌枠】しっとりした夜にしたい!!【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-02T12:02:57.000Z",
-    "available_at": "2025-11-02T13:00:00.000Z",
+    "available_at": "2025-11-02T12:57:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 21,
+      "ko": 21
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -44,9 +67,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-02T09:51:04.000Z",
-    "available_at": "2025-11-02T13:00:00.000Z",
+    "available_at": "2025-11-02T13:00:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -2484,25 +2507,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "Xdoyt1SsULs",
-    "title": "【歌枠】ジブリ縛り歌枠🍁【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-07T16:27:02.000Z",
-    "available_at": "2025-10-08T09:00:54.000Z",
-    "duration": 4180,
-    "status": "missing",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/CLQZMWUD0T1I9c30pev4COYCBP1oMyhCT80UKnwqCDtLnfHDgRamkdhY75y0nhm_1TERm0Us=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
