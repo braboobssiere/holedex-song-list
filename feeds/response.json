@@ -108,6 +108,7 @@
     "available_at": "2025-11-01T10:00:06.000Z",
     "duration": 138,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -338,6 +339,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "3bFvhnGhsns",
+    "title": "【UNARCHIVED KARAOKE】singing and leaving no record of it!! #calliolive",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-10-30T16:59:15.000Z",
+    "available_at": "2025-11-03T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -2675,26 +2695,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "CCjz0q-Rbwk",
-    "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-06T13:18:05.000Z",
-    "available_at": "2025-10-06T12:00:58.000Z",
-    "duration": 3930,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
