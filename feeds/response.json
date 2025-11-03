@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-11-03T05:32:59.000Z",
     "available_at": "2025-11-03T12:58:49.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5265,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -223,6 +223,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "5_8B45UcDI8",
+    "title": "【BIRTHDAY STREAM】How old am I now guys?",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-11-02T03:09:15.000Z",
+    "available_at": "2025-11-02T02:03:19.000Z",
+    "duration": 3081,
+    "status": "past",
+    "channel": {
+      "id": "UC2hx0xVkMoHGWijwr_lA01w",
+      "name": "Axel Syrios Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Axel Syrios"
     }
   },
   {
@@ -507,25 +526,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "5_8B45UcDI8",
-    "title": "【BIRTHDAY STREAM】How old am I now guys?",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-10-31T07:19:47.000Z",
-    "available_at": "2025-11-02T02:03:19.000Z",
-    "duration": 3084,
-    "status": "past",
-    "channel": {
-      "id": "UC2hx0xVkMoHGWijwr_lA01w",
-      "name": "Axel Syrios Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Axel Syrios"
     }
   },
   {
