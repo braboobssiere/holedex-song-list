@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-02T23:26:16.455Z</updated>
+  <updated>2025-11-03T00:26:10.256Z</updated>
+
+  <entry>
+    <id>urn:uuid:d87b0eef-4e10-5171-989c-4467895b1ceb</id>
+    <title><![CDATA[【歌枠】お休み前歌枠!ちょっと告知もあります!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/seJADkxjD7E" rel="alternate" type="text/html"/>
+    <published>2025-11-03T00:21:57.000Z</published>
+    <updated>2025-11-03T00:21:57.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=seJADkxjD7E 【LIVE on &lt;t:1762164000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/seJADkxjD7E/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:909e2b7c-88e4-58c2-86dd-77e38781fce5</id>
