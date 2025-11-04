@@ -3,11 +3,109 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-04T14:26:14.450Z</updated>
+  <updated>2025-11-04T15:26:14.874Z</updated>
+
+  <entry>
+    <id>urn:uuid:bc9a8e2a-a82c-5c0f-94de-cd0c05ac09f2</id>
+    <title><![CDATA[未来カンパネラ]]></title>
+    <link href="https://youtu.be/xJYiuVaIBkQ" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:01:48.000Z</published>
+    <updated>2025-11-04T15:01:48.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xJYiuVaIBkQ 【LIVE on &lt;t:1762268508:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xJYiuVaIBkQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2ef68b1b-55f7-5d02-9d10-814ed685280c</id>
+    <title><![CDATA[フロンティアローカス (Re:arrange ver.)]]></title>
+    <link href="https://youtu.be/rdola1yG9GE" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:01:42.000Z</published>
+    <updated>2025-11-04T15:01:42.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rdola1yG9GE 【LIVE on &lt;t:1762268502:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rdola1yG9GE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:74d5624d-bda9-5c1a-8067-3185124a33fa</id>
+    <title><![CDATA[オキドキ]]></title>
+    <link href="https://youtu.be/iFmE8mk0MFw" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:01:30.000Z</published>
+    <updated>2025-11-04T15:01:30.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iFmE8mk0MFw 【LIVE on &lt;t:1762268490:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iFmE8mk0MFw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d19cb130-9d29-5061-abea-6033aa656e36</id>
+    <title><![CDATA[from A to Z (Re:arrange ver.)]]></title>
+    <link href="https://youtu.be/fbjGCl5WaVY" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:01:16.000Z</published>
+    <updated>2025-11-04T15:01:16.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fbjGCl5WaVY 【LIVE on &lt;t:1762268476:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fbjGCl5WaVY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4245fb43-e769-5e03-ae43-bc4d691067e4</id>
+    <title><![CDATA[白明]]></title>
+    <link href="https://youtu.be/SsQs7axUdDM" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:01:03.000Z</published>
+    <updated>2025-11-04T15:01:03.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SsQs7axUdDM 【LIVE on &lt;t:1762268463:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SsQs7axUdDM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:02954435-574e-5a13-94a1-d852deca4b5b</id>
+    <title><![CDATA[青い夢 (Re:arrange ver.)]]></title>
+    <link href="https://youtu.be/FDK6hGcXxyA" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:00:36.000Z</published>
+    <updated>2025-11-04T15:00:36.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FDK6hGcXxyA 【LIVE on &lt;t:1762268436:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FDK6hGcXxyA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:df188ef7-44f0-5e70-a3b0-6c4917377b1d</id>
+    <title><![CDATA[雨のち晴れ晴れ]]></title>
+    <link href="https://youtu.be/8XhzYRuwqt8" rel="alternate" type="text/html"/>
+    <published>2025-11-04T15:00:24.000Z</published>
+    <updated>2025-11-04T15:00:24.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8XhzYRuwqt8 【LIVE on &lt;t:1762268424:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8XhzYRuwqt8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4db5ecf3-9b69-5db8-baa5-9e9a180c79a3</id>
-    <title><![CDATA[【歌雑】雑談したり歌ったりをするなど!【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <title><![CDATA[【歌雑】雑談したり歌ったりをするなど！【ホロライブ DEV_IS 響咲リオナ】]]></title>
     <link href="https://youtu.be/MNvC-YDUtzM" rel="alternate" type="text/html"/>
     <published>2025-11-04T06:22:51.000Z</published>
     <updated>2025-11-04T13:00:11.000Z</updated>
@@ -216,6 +314,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:39ef107b-26a1-5339-82d2-60bec14132a9</id>
+    <title><![CDATA[【 #夏色まつり誕生祭2025 】重大告知あり!アイドル革命進行中!~今日の主役は夢の途中~ 【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/L-XVS13TRTI" rel="alternate" type="text/html"/>
+    <published>2025-11-01T13:07:14.000Z</published>
+    <updated>2025-11-01T11:57:16.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=L-XVS13TRTI 【LIVE on &lt;t:1761998236:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L-XVS13TRTI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:21967259-fe2d-51f4-90e6-41bbcc607ef8</id>
     <title><![CDATA[【オリジナル曲】ウーニャカ【ホロライブ/夏色まつり/かいりきベア】]]></title>
     <link href="https://youtu.be/mZPcE3JJGds" rel="alternate" type="text/html"/>
@@ -297,20 +409,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kWAdT8qt8_8 【LIVE on &lt;t:1761907506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kWAdT8qt8_8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8ee1237d-863a-59dd-a4d9-a68ee7dc632e</id>
-    <title><![CDATA[【UNARCHIVED KARAOKE】singing and leaving no record of it!! #calliolive]]></title>
-    <link href="https://youtu.be/3bFvhnGhsns" rel="alternate" type="text/html"/>
-    <published>2025-10-30T16:59:15.000Z</published>
-    <updated>2025-11-03T01:06:00.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3bFvhnGhsns 【LIVE on &lt;t:1762131960:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3bFvhnGhsns/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1235,104 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9hMVpcDYS-0 【LIVE on &lt;t:1759975061:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9hMVpcDYS-0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2e073e03-f45e-54bd-b545-75a394dcae10</id>
-    <title><![CDATA[New Order / 常闇トワ (official)]]></title>
-    <link href="https://youtu.be/5kSJOT5hOVo" rel="alternate" type="text/html"/>
-    <published>2025-10-08T11:00:06.000Z</published>
-    <updated>2025-10-08T11:00:06.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5kSJOT5hOVo 【LIVE on &lt;t:1759921206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5kSJOT5hOVo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:22aa6c41-3b87-50a2-b735-c30572909761</id>
-    <title><![CDATA[DECO*27 - マシュマロ feat. 初音ミク]]></title>
-    <link href="https://youtu.be/ZIzEnTdR368" rel="alternate" type="text/html"/>
-    <published>2025-10-08T10:00:07.000Z</published>
-    <updated>2025-10-08T10:00:07.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ZIzEnTdR368 【LIVE on &lt;t:1759917607:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZIzEnTdR368/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0c4fb06c-2cc5-51b1-86c1-926f56675989</id>
-    <title><![CDATA[処方箋]]></title>
-    <link href="https://youtu.be/q9cnZ9Uz_fw" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:01:36.000Z</published>
-    <updated>2025-10-07T15:01:36.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=q9cnZ9Uz_fw 【LIVE on &lt;t:1759849296:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q9cnZ9Uz_fw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:938851c3-1653-569b-a4eb-a3596a1ab024</id>
-    <title><![CDATA[命の洗濯]]></title>
-    <link href="https://youtu.be/l5I-Gg9AkSE" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:01:29.000Z</published>
-    <updated>2025-10-07T15:01:29.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=l5I-Gg9AkSE 【LIVE on &lt;t:1759849289:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/l5I-Gg9AkSE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fe180b35-05b0-52d7-8248-8bc75f7d12ac</id>
-    <title><![CDATA[New Order]]></title>
-    <link href="https://youtu.be/hzb_nXbWhoE" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:01:15.000Z</published>
-    <updated>2025-10-07T15:01:15.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hzb_nXbWhoE 【LIVE on &lt;t:1759849275:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hzb_nXbWhoE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7fa08303-60bb-55c2-aff1-cd2184f612c9</id>
-    <title><![CDATA[凛]]></title>
-    <link href="https://youtu.be/c2hP0qWGgaA" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:01:07.000Z</published>
-    <updated>2025-10-07T15:01:07.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=c2hP0qWGgaA 【LIVE on &lt;t:1759849267:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c2hP0qWGgaA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e01f3c41-0e98-5e11-b710-0c8032394eba</id>
-    <title><![CDATA[TRUTH]]></title>
-    <link href="https://youtu.be/darS1jexgTw" rel="alternate" type="text/html"/>
-    <published>2025-10-07T15:01:07.000Z</published>
-    <updated>2025-10-07T15:01:07.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=darS1jexgTw 【LIVE on &lt;t:1759849267:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/darS1jexgTw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
