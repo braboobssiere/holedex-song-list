@@ -1,13 +1,32 @@
 [
   {
+    "id": "eivEMTEdw2A",
+    "title": "【雑談/chat】ギターの練習しつつ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2025-11-06T13:16:38.000Z",
+    "available_at": "2025-11-06T13:21:15.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/m24oVKR3e3IJEQEZW473e-vokIKr2cW5-O7YcUNDbPKaUV6CMrZdWIARtbkoNbfTRS1eYGyPFg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "nHu9HRo-wXM",
     "title": "【 縦型歌枠 】深夜のノリノリゲリラ歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-06T13:14:26.000Z",
-    "available_at": "2025-11-06T13:30:00.000Z",
+    "available_at": "2025-11-06T13:31:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -24,9 +43,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-11-06T03:03:15.000Z",
-    "available_at": "2025-11-06T14:00:00.000Z",
+    "available_at": "2025-11-06T13:59:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
@@ -39,13 +61,13 @@
   },
   {
     "id": "eevBeTt3BQg",
-    "title": "【 歌枠|縦型 】レトロな曲をふなふな歌うのら~~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】",
+    "title": "【 歌枠｜縦型 】レトロなアニソンをふなふな歌うのら～～！！！🎵 ～ KARAOKE #shorts【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-06T00:14:47.000Z",
     "available_at": "2025-11-06T11:58:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6758,
+    "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -6977,28 +6999,6 @@
     "available_at": "2023-05-20T23:00:28.000Z",
     "duration": 15405,
     "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "Cda-6iTlr9U",
-    "title": "【 エレクトーン 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY15>【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-05-14T04:48:53.000Z",
-    "available_at": "2023-05-13T23:00:17.000Z",
-    "duration": 14347,
-    "status": "past",
-    "live_tl_count": {
-      "en": 417
-    },
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
