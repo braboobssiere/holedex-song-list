@@ -1,5 +1,24 @@
 [
   {
+    "id": "eevBeTt3BQg",
+    "title": "【 歌枠|縦型 】レトロな曲をふなふな歌うのら~~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-06T00:14:47.000Z",
+    "available_at": "2025-11-06T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
     "id": "sJBFzz1EaD0",
     "title": "【 歌枠 l KARAOKE 】眠りたい夜にバラードを【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
@@ -86,6 +105,7 @@
     "available_at": "2025-11-05T10:01:32.000Z",
     "duration": 3540,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -288,7 +308,7 @@
     "title": "じゃ、歌枠するね… 【 奏手イヅル 】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-11-04T09:13:15.000Z",
+    "published_at": "2025-11-04T13:05:25.000Z",
     "available_at": "2025-11-04T11:32:13.000Z",
     "duration": 4692,
     "status": "past",
@@ -2353,26 +2373,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ox2YnYoLS10MqnHvB0zYE5Snho9zMsBw5zXy6fDVoP4hY7AtT7W22KaFTGYcD6Q5WZpyOQ5T=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "KNVem02qyy0",
-    "title": "【歌枠 / karaoke】昼休みに聞く枠  / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-15T04:38:00.000Z",
-    "available_at": "2025-10-15T03:02:45.000Z",
-    "duration": 5200,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
