@@ -1,5 +1,24 @@
 [
   {
+    "id": "dDYQbf0khXQ",
+    "title": "【OCTAVIO'S OVERTURE REBROADCAST】88K MILESTONE TAYLOR SWIFT CONCERT!!!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-07T09:13:36.000Z",
+    "available_at": "2025-11-08T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "eivEMTEdw2A",
     "title": "【雑談/chat】ギターの練習しつつ【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -168,7 +187,7 @@
     "published_at": "2025-11-05T10:36:48.000Z",
     "available_at": "2025-11-05T21:00:34.000Z",
     "duration": 7711,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -861,7 +880,7 @@
   },
   {
     "id": "UEVjnf5-Ryk",
-    "title": "【期間限定公開】AZKi 4th LiVE～7th LiVE ライブ映像【ホロライブ / AZKi】",
+    "title": "【期間限定公開】AZKi 4th LiVE~7th LiVE ライブ映像【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-11-01T10:00:06.000Z",
@@ -2212,26 +2231,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koseki Bijou"
-    }
-  },
-  {
-    "id": "VSnfUNZ97no",
-    "title": "【歌枠/縦型】アニソン中心に!いろいろ歌おう🎤  #shorts【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-17T15:50:28.000Z",
-    "available_at": "2025-10-17T13:04:23.000Z",
-    "duration": 9320,
-    "status": "past",
-    "songcount": 23,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -3941,8 +3940,8 @@
     "topic_id": "singing",
     "published_at": "2025-09-07T09:02:49.000Z",
     "available_at": "2025-11-07T10:11:30.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7669,
+    "status": "past",
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
