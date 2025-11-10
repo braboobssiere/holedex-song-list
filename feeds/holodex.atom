@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-10T19:26:07.783Z</updated>
+  <updated>2025-11-10T20:26:08.834Z</updated>
+
+  <entry>
+    <id>urn:uuid:58de88ca-06f5-5944-86bc-5e933063529f</id>
+    <title><![CDATA[【KARAOKE / 歌枠】UNARCHIVED LA LA LA songs♪]]></title>
+    <link href="https://youtu.be/GF-_uCwj-Jg" rel="alternate" type="text/html"/>
+    <published>2025-11-10T19:24:43.000Z</published>
+    <updated>2025-11-10T19:24:43.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GF-_uCwj-Jg 【LIVE on &lt;t:1762833600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GF-_uCwj-Jg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e825e9b6-819a-5fef-a1f3-de1916f53abc</id>
@@ -1235,20 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qMtHRp3agzk 【LIVE on &lt;t:1760796088:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qMtHRp3agzk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ae8bb251-4072-57f2-ac76-ba497d4ae11a</id>
-    <title><![CDATA[【ゲリ歌枠】新しい曲も少しだけ【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/Aye39k60YFs" rel="alternate" type="text/html"/>
-    <published>2025-10-18T08:37:06.000Z</published>
-    <updated>2025-10-18T06:11:30.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Aye39k60YFs 【LIVE on &lt;t:1760767890:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Aye39k60YFs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
