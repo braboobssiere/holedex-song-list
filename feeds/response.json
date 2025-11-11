@@ -43,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-10T19:24:43.000Z",
-    "available_at": "2025-11-11T04:00:00.000Z",
+    "available_at": "2025-11-11T04:02:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -350,6 +350,25 @@
     }
   },
   {
+    "id": "61Fu-Hvz_lQ",
+    "title": "【1周年歌枠】1周年の日もやっぱり私は歌いたい✨皆さんへの感謝を込めて【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-11-09T16:21:48.000Z",
+    "available_at": "2025-11-09T14:00:23.000Z",
+    "duration": 6852,
+    "status": "past",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "nFO1jILeoJ4",
     "title": "stay by my side",
     "type": "stream",
@@ -501,25 +520,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Arurandeisu"
-    }
-  },
-  {
-    "id": "61Fu-Hvz_lQ",
-    "title": "【１周年歌枠】１周年の日もやっぱり私は歌いたい✨皆さんへの感謝を込めて【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-09T06:55:48.000Z",
-    "available_at": "2025-11-09T14:00:23.000Z",
-    "duration": 6845,
-    "status": "past",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
@@ -819,7 +819,7 @@
     "available_at": "2025-11-06T13:31:03.000Z",
     "duration": 10373,
     "status": "past",
-    "songcount": 24,
+    "songcount": 25,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
