@@ -813,6 +813,7 @@
     "available_at": "2025-11-09T12:22:56.000Z",
     "duration": 209,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive DEV_IS FLOW GLOW",
@@ -1167,6 +1168,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "ql4R-pxbZv0",
+    "title": "ReGLOSS 'Flashpoint' OFFICIAL MV",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-11-06T12:29:00.000Z",
+    "available_at": "2025-11-12T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -1678,27 +1698,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "mc26p5xcnw8",
-    "title": "ROCK IN!",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-11-02T15:01:27.000Z",
-    "available_at": "2025-11-02T15:01:27.000Z",
-    "duration": 217,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXzDEmiZMKev9-vx3qOAPVA",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {

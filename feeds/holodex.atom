@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-11T16:26:12.643Z</updated>
+  <updated>2025-11-11T17:26:11.701Z</updated>
 
   <entry>
     <id>urn:uuid:06743fb6-4ab0-590f-bba1-5177d95e404d</id>
@@ -636,6 +636,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f09dd81e-2558-53b2-ba62-6497393997bc</id>
+    <title><![CDATA[ReGLOSS 'Flashpoint' OFFICIAL MV]]></title>
+    <link href="https://youtu.be/ql4R-pxbZv0" rel="alternate" type="text/html"/>
+    <published>2025-11-06T12:29:00.000Z</published>
+    <updated>2025-11-06T12:29:00.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ql4R-pxbZv0 【LIVE on &lt;t:1762945200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ql4R-pxbZv0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:5666b0d2-8fa4-59b6-ba7f-d28e3a011de0</id>
     <title><![CDATA[【歌枠】EP発売記念『Re:Start』&『Re:Birth』リリース!告知あり!!! Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/sk3OfW5pOig" rel="alternate" type="text/html"/>
@@ -899,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lrO1TomWQTw 【LIVE on &lt;t:1762095688:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lrO1TomWQTw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:69716bb8-f07e-5f13-bd92-0fb2ae06b02e</id>
-    <title><![CDATA[ROCK IN!]]></title>
-    <link href="https://youtu.be/mc26p5xcnw8" rel="alternate" type="text/html"/>
-    <published>2025-11-02T15:01:27.000Z</published>
-    <updated>2025-11-02T15:01:27.000Z</updated>
-    <author>
-      <name>Koseki Bijou Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mc26p5xcnw8 【LIVE on &lt;t:1762095687:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mc26p5xcnw8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
