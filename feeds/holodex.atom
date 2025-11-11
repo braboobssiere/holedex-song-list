@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-11T01:26:12.521Z</updated>
+  <updated>2025-11-11T02:26:11.304Z</updated>
+
+  <entry>
+    <id>urn:uuid:ab2b809e-36aa-591a-94e9-ae9df5902cbe</id>
+    <title><![CDATA[IT'S MY BIRTHDAY【UNARCHIVED SPECIAL KARAOKE】]]></title>
+    <link href="https://youtu.be/CAsJp20wZIE" rel="alternate" type="text/html"/>
+    <published>2025-11-10T23:18:52.000Z</published>
+    <updated>2025-11-10T23:18:52.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CAsJp20wZIE 【LIVE on &lt;t:1762891200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CAsJp20wZIE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:58de88ca-06f5-5944-86bc-5e933063529f</id>
@@ -1949,20 +1963,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tMPdR2-nhnw 【LIVE on &lt;t:1753880473:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tMPdR2-nhnw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:73c62199-8c93-51a4-87a7-25f54a650af6</id>
-    <title><![CDATA[【3D新衣装お披露目】宝鐘マリン生誕3D LIVE !!重大告知あり!ゲスト多数&サクラ大戦から豪華ゲストも!!【ホロライブ/宝鐘マリン】#宝鐘マリン生誕祭2025]]></title>
-    <link href="https://youtu.be/1WbyakjUmsI" rel="alternate" type="text/html"/>
-    <published>2025-07-30T12:10:42.000Z</published>
-    <updated>2025-07-30T10:58:26.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1WbyakjUmsI 【LIVE on &lt;t:1753873106:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1WbyakjUmsI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
