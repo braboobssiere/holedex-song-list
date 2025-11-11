@@ -43,9 +43,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-11-11T06:07:15.000Z",
-    "available_at": "2025-11-11T13:30:00.000Z",
+    "available_at": "2025-11-11T13:31:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 206
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -1945,7 +1948,7 @@
       "org": "Hololive",
       "suborg": "tcDEV_IS FLOW GLOW",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/m24oVKR3e3IJEQEZW473e-vokIKr2cW5-O7YcUNDbPKaUV6CMrZdWIARtbkoNbfTRS1eYGyPFg=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
     }
   },
