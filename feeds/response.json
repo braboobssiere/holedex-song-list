@@ -304,7 +304,7 @@
     "published_at": "2025-11-11T11:40:20.000Z",
     "available_at": "2025-11-12T01:01:23.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
       "name": "Ninomae Ina'nis Ch. hololive-EN",
@@ -365,6 +365,7 @@
     "available_at": "2025-11-10T22:11:37.000Z",
     "duration": 3516,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -1603,6 +1604,7 @@
     "available_at": "2025-11-11T10:58:13.000Z",
     "duration": 3869,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCKeAhJvy8zgXWbh9duVjIaQ",
       "name": "Aruran Ch. アルランディス",
