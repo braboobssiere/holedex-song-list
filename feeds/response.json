@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2025-11-14T08:46:39.000Z",
-    "available_at": "2025-11-14T14:30:00.000Z",
+    "available_at": "2025-11-14T14:30:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 187
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -43,9 +46,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-11-14T07:15:28.000Z",
-    "available_at": "2025-11-14T14:30:00.000Z",
+    "available_at": "2025-11-14T14:31:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -103,6 +106,7 @@
     "available_at": "2025-11-14T11:00:56.000Z",
     "duration": 7085,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
