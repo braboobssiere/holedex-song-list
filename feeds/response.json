@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-15T08:21:42.000Z",
-    "available_at": "2025-11-15T10:00:00.000Z",
+    "available_at": "2025-11-15T10:01:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -20,15 +20,15 @@
   },
   {
     "id": "UWVOi46bGuo",
-    "title": "【オリ曲歌枠】ぬんちゃん歌うよ!!【ホロライブ/ときのそら】",
+    "title": "【オリ曲歌枠】ぬんちゃん歌うよ！！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-15T07:30:05.000Z",
     "available_at": "2025-11-15T07:57:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5948,
+    "status": "past",
     "live_tl_count": {
-      "ko": 112
+      "ko": 149
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
