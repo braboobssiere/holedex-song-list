@@ -1,5 +1,24 @@
 [
   {
+    "id": "YIcKRLYo1uk",
+    "title": "【 3DLive ver 】カムパネルラ / 水無世燐央【 Original Song 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-11-16T03:21:18.000Z",
+    "available_at": "2025-11-16T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
+      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Minase Rio"
+    }
+  },
+  {
     "id": "ZFlHEUi-5fs",
     "title": "【ASMR】肌寒い日はお姉さんと一緒に心とお耳をぽかぽかにしよ♡極上安眠ASMR💤【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -108,6 +127,7 @@
     "available_at": "2025-11-15T13:00:32.000Z",
     "duration": 11618,
     "status": "past",
+    "songcount": 28,
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -127,7 +147,7 @@
     "available_at": "2025-11-15T10:01:45.000Z",
     "duration": 3605,
     "status": "past",
-    "songcount": 3,
+    "songcount": 12,
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -147,6 +167,7 @@
     "available_at": "2025-11-15T07:57:27.000Z",
     "duration": 5948,
     "status": "past",
+    "songcount": 12,
     "live_tl_count": {
       "ko": 149
     },
@@ -169,6 +190,7 @@
     "available_at": "2025-11-15T13:00:28.000Z",
     "duration": 8082,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -188,6 +210,7 @@
     "available_at": "2025-11-14T14:01:58.000Z",
     "duration": 8258,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "en": 52
     },
@@ -249,6 +272,7 @@
     "available_at": "2025-11-14T11:00:05.000Z",
     "duration": 2356,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -408,6 +432,7 @@
     "available_at": "2025-11-13T14:03:26.000Z",
     "duration": 5040,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -1533,6 +1558,7 @@
     "available_at": "2025-11-15T07:01:00.000Z",
     "duration": 6047,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -1999,27 +2025,6 @@
     "published_at": "2025-11-04T15:00:36.000Z",
     "available_at": "2025-11-04T15:00:36.000Z",
     "duration": 270,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "8XhzYRuwqt8",
-    "title": "雨のち晴れ晴れ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-11-04T15:00:24.000Z",
-    "available_at": "2025-11-04T15:00:24.000Z",
-    "duration": 228,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
