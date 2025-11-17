@@ -1,24 +1,5 @@
 [
   {
-    "id": "-9_C8IumT6A",
-    "title": "【 朝活/FreeTalk 】もうすぐ3Dお披露目!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-17T16:15:47.000Z",
-    "available_at": "2025-11-17T23:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
     "id": "q4Zouc3f1KM",
     "title": "【歌枠】おうた！！うたうた！！！【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -63,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-11-17T07:19:07.000Z",
     "available_at": "2025-11-17T15:00:46.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5786,
+    "status": "past",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -5648,6 +5629,26 @@
     "available_at": "2025-07-06T06:30:06.000Z",
     "duration": 4230,
     "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "DsZz2bIg-Ho",
+    "title": "【#超ゲマズ2_day1】hololive GAMERS fes. 超超超超ゲーマーズ2【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-05T08:44:46.000Z",
+    "available_at": "2025-07-05T07:30:11.000Z",
+    "duration": 4211,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
