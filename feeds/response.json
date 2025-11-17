@@ -1,24 +1,5 @@
 [
   {
-    "id": "-lH_RP8fkrA",
-    "title": "【雑談】もうすぐ3DLIVEですなあ【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-17T14:23:16.000Z",
-    "available_at": "2025-11-17T14:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "q4Zouc3f1KM",
     "title": "【歌枠】おうた！！うたうた！！！【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -62,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-17T07:19:07.000Z",
-    "available_at": "2025-11-17T15:00:00.000Z",
+    "available_at": "2025-11-17T15:00:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -73,25 +54,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "6PdBpRHjF_Q",
-    "title": "【 #朝こよ 】4周年記念コラボWeek直前!火曜日の朝も朝こよ~~~!☀ #259 【博衣こより/hololive】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-17T06:55:46.000Z",
-    "available_at": "2025-11-17T22:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -5056,6 +5018,25 @@
     }
   },
   {
+    "id": "hjuVXZbK_s0",
+    "title": "【#尾丸ポルカ5周年 記念企画配信】6年目で初めて聞く!ポルカってホロメン達にどう思われてる!?【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-16T12:29:18.000Z",
+    "available_at": "2025-08-16T11:03:23.000Z",
+    "duration": 4301,
+    "status": "past",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "IPZ2CatJsTM",
     "title": "【 オフコラボ l 新スタジオ3D #放課後アップロー 】9月に運動会あるし同期で筋トレ対決しとく?【 水無世燐央 l 夜十神封魔 l 羽継烏有 l UPROAR!! 】",
     "type": "stream",
@@ -5648,6 +5629,26 @@
     "available_at": "2025-07-06T06:30:06.000Z",
     "duration": 4230,
     "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "DsZz2bIg-Ho",
+    "title": "【#超ゲマズ2_day1】hololive GAMERS fes. 超超超超ゲーマーズ2【チラ見せ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-05T08:44:46.000Z",
+    "available_at": "2025-07-05T07:30:11.000Z",
+    "duration": 4211,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
