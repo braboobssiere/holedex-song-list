@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-11-16T06:24:39.000Z",
-    "available_at": "2025-11-17T01:00:00.000Z",
+    "available_at": "2025-11-17T00:55:10.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -107,6 +107,29 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCzzyngAdwqFSnIlA1-h6IIg",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
+    "id": "mjXO5WWADww",
+    "title": "【#ラミィ生誕3Dヒーローショー】雪花ラミィ生誕3DLIVE『 ホロレンジャー』ゲスト&告知あり!【 雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-11-15T12:05:12.000Z",
+    "available_at": "2025-11-15T11:01:13.000Z",
+    "duration": 3411,
+    "status": "past",
+    "songcount": 8,
+    "live_tl_count": {
+      "en": 96
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -380,29 +403,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "mjXO5WWADww",
-    "title": "【#ラミィ生誕3Dヒーローショー】雪花ラミィ生誕３DLIVE『 ホロレンジャー』ゲスト＆告知あり！【 雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-11-14T09:01:34.000Z",
-    "available_at": "2025-11-15T11:01:13.000Z",
-    "duration": 3409,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 96
-    },
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
     }
   },
   {
