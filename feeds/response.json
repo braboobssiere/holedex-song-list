@@ -1,13 +1,13 @@
 [
   {
     "id": "q4Zouc3f1KM",
-    "title": "【歌枠】おうた!!うたうた!!!【ホロライブ/夏色まつり】",
+    "title": "【歌枠】おうた！！うたうた！！！【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-17T10:09:09.000Z",
     "available_at": "2025-11-17T12:00:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4142,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -150,6 +150,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "FoIYwP08UZw",
+    "title": "【BIRTHDAY STREAM】let's go on an adventure...... !!!! #C2DAY",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-11-16T00:11:10.000Z",
+    "available_at": "2025-11-15T22:04:57.000Z",
+    "duration": 7233,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
     }
   },
   {
@@ -576,26 +596,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "FoIYwP08UZw",
-    "title": "【BIRTHDAY STREAM】let's go on an adventure...... !!!! #C2DAY",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-11-13T06:35:54.000Z",
-    "available_at": "2025-11-15T22:04:57.000Z",
-    "duration": 7226,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
     }
   },
   {
