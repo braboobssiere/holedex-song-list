@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-19T20:26:13.663Z</updated>
+  <updated>2025-11-19T21:26:10.631Z</updated>
 
   <entry>
     <id>urn:uuid:2c74f69a-f2b8-5d23-8002-adcd92b1625d</id>
@@ -31,6 +31,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7pEEz6aVzZA 【LIVE on &lt;t:1763564415:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7pEEz6aVzZA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a78d4d0b-b51a-555d-a986-c4ac565ca26e</id>
+    <title><![CDATA[きゅる☆ちあ (Instrumental)]]></title>
+    <link href="https://youtu.be/hvQUliCpNgA" rel="alternate" type="text/html"/>
+    <published>2025-11-18T15:02:54.000Z</published>
+    <updated>2025-11-18T15:02:54.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hvQUliCpNgA 【LIVE on &lt;t:1763478174:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hvQUliCpNgA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5760ed21-441d-58ab-86ce-8bc6f6a090b3</id>
+    <title><![CDATA[きゅる☆ちあ]]></title>
+    <link href="https://youtu.be/Yffso2iTwIk" rel="alternate" type="text/html"/>
+    <published>2025-11-18T15:02:51.000Z</published>
+    <updated>2025-11-18T15:02:51.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Yffso2iTwIk 【LIVE on &lt;t:1763478171:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yffso2iTwIk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1000,34 +1028,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:74d5624d-bda9-5c1a-8067-3185124a33fa</id>
-    <title><![CDATA[オキドキ]]></title>
-    <link href="https://youtu.be/iFmE8mk0MFw" rel="alternate" type="text/html"/>
-    <published>2025-11-04T15:01:30.000Z</published>
-    <updated>2025-11-04T15:01:30.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=iFmE8mk0MFw 【LIVE on &lt;t:1762268490:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iFmE8mk0MFw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d19cb130-9d29-5061-abea-6033aa656e36</id>
-    <title><![CDATA[from A to Z (Re:arrange ver.)]]></title>
-    <link href="https://youtu.be/fbjGCl5WaVY" rel="alternate" type="text/html"/>
-    <published>2025-11-04T15:01:16.000Z</published>
-    <updated>2025-11-04T15:01:16.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fbjGCl5WaVY 【LIVE on &lt;t:1762268476:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fbjGCl5WaVY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:d87b0eef-4e10-5171-989c-4467895b1ceb</id>
     <title><![CDATA[【歌枠】お休み前歌枠!ちょっと告知もあります!【 ホロライブ / 大神ミオ 】]]></title>
     <link href="https://youtu.be/seJADkxjD7E" rel="alternate" type="text/html"/>
@@ -1193,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ry3qT6Il7x8 【LIVE on &lt;t:1761820862:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ry3qT6Il7x8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4240e06c-8e55-56d2-a57a-f7b4736478d6</id>
-    <title><![CDATA[【歌枠/KARAOKE】ひさびさにうた~~~~うよ!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/GJReIH3er8Y" rel="alternate" type="text/html"/>
-    <published>2025-10-30T10:47:00.000Z</published>
-    <updated>2025-10-30T09:02:25.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GJReIH3er8Y 【LIVE on &lt;t:1761814945:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GJReIH3er8Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
