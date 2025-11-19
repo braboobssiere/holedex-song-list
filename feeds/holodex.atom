@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-19T01:26:15.101Z</updated>
+  <updated>2025-11-19T02:26:08.534Z</updated>
 
   <entry>
     <id>urn:uuid:6eb186fa-94b2-5293-b299-250ac53273ef</id>
@@ -35,9 +35,9 @@
 
   <entry>
     <id>urn:uuid:d0a8df0c-d257-570b-b763-828b38949b6e</id>
-    <title><![CDATA[【歌枠】おうた！！うたうた！！！【ホロライブ/夏色まつり】]]></title>
+    <title><![CDATA[【歌枠】おうた!!うたうた!!!【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/q4Zouc3f1KM" rel="alternate" type="text/html"/>
-    <published>2025-11-17T10:09:09.000Z</published>
+    <published>2025-11-17T13:18:02.000Z</published>
     <updated>2025-11-17T12:00:21.000Z</updated>
     <author>
       <name>Matsuri Channel 夏色まつり</name>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q4Zouc3f1KM 【LIVE on &lt;t:1763380821:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q4Zouc3f1KM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:60e3e28d-4dca-57ef-8b91-ca15924ab9d7</id>
+    <title><![CDATA[【PIANO】THIS IS NOW A TWITTER SPACE]]></title>
+    <link href="https://youtu.be/HGEQfQgd2bk" rel="alternate" type="text/html"/>
+    <published>2025-11-17T08:36:01.000Z</published>
+    <updated>2025-11-17T08:36:01.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2691,19 +2705,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vH5skofzdKU 【LIVE on &lt;t:1687105512:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vH5skofzdKU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4a62c059-d24f-564b-b9b1-f0925319739a</id>
-    <title><![CDATA[【 #なのらいぶ 】日曜朝の楽器演奏!ニチアサエレクトーンの練習するのらっ!🎹🎶 <DAY16>【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/6B7iyHgsKb8" rel="alternate" type="text/html"/>
-    <published>2023-05-20T16:09:24.000Z</published>
-    <updated>2023-05-20T23:00:28.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6B7iyHgsKb8 【LIVE on &lt;t:1684623628:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6B7iyHgsKb8/maxresdefault.jpg"/>
   </entry>
 </feed>
