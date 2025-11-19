@@ -90,8 +90,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 15,
-      "ja": 5
+      "en": 38,
+      "ja": 6
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -1068,8 +1068,11 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-11-11T11:50:47.000Z",
     "available_at": "2025-11-19T09:00:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3587,
+    "status": "past",
+    "live_tl_count": {
+      "en": 30
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
