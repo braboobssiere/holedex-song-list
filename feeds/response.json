@@ -111,6 +111,7 @@
     "available_at": "2025-11-18T13:05:55.000Z",
     "duration": 3930,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -142,6 +143,29 @@
     }
   },
   {
+    "id": "8BzoAMBThB4",
+    "title": "【縦型歌枠】新衣装で歌う~~~!!!🎤✨目指せ!134万人!!💗【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-18T12:08:13.000Z",
+    "available_at": "2025-11-18T10:00:48.000Z",
+    "duration": 5943,
+    "status": "past",
+    "songcount": 15,
+    "live_tl_count": {
+      "en": 55
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
+    }
+  },
+  {
     "id": "4gd4u2zzmHI",
     "title": "38 HOURS OF KARAOKE 【GRAND KARAOKE REBROADCAST PART 2】",
     "type": "stream",
@@ -162,29 +186,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "8BzoAMBThB4",
-    "title": "【縦型歌枠】新衣装で歌う～～～！！！🎤✨目指せ！134万人！！💗【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-18T08:26:44.000Z",
-    "available_at": "2025-11-18T10:00:48.000Z",
-    "duration": 5948,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 55
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
