@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-20T10:26:16.563Z</updated>
+  <updated>2025-11-20T11:26:11.068Z</updated>
 
   <entry>
     <id>urn:uuid:57e2b625-8db9-59eb-9e19-1783be34bf94</id>
@@ -902,6 +902,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6c3b9730-23a3-5c98-8b23-06adf63dd928</id>
+    <title><![CDATA[【縦型歌枠】鼻どす後の歌枠やでえい🎤【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/5lwO2cF5AUU" rel="alternate" type="text/html"/>
+    <published>2025-11-07T08:59:39.000Z</published>
+    <updated>2025-11-20T11:00:25.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5lwO2cF5AUU 【LIVE on &lt;t:1763636425:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5lwO2cF5AUU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:0154265a-d986-5bc7-b861-cf668e12475a</id>
     <title><![CDATA[【 縦型歌枠 】リクエスト募集中!深夜のノリノリゲリラ歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/nHu9HRo-wXM" rel="alternate" type="text/html"/>
@@ -1165,20 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AhNXdduB8-k 【LIVE on &lt;t:1761833356:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AhNXdduB8-k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d275f0db-ead1-574d-b4c3-54bb46091fd6</id>
-    <title><![CDATA[【歌枠】夜の歌枠【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/NI97-uPK96c" rel="alternate" type="text/html"/>
-    <published>2025-10-30T14:16:14.000Z</published>
-    <updated>2025-10-30T13:03:53.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NI97-uPK96c 【LIVE on &lt;t:1761829433:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NI97-uPK96c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
