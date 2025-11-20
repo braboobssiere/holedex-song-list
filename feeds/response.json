@@ -1,5 +1,24 @@
 [
   {
+    "id": "rMM73Af2Rss",
+    "title": "OCTAVIO SINGING WOAH【GRAND KARAOKE REBROADCAST】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-20T05:07:01.000Z",
+    "available_at": "2025-11-20T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "oLulSOQZh_o",
     "title": "OCTAVIO SINGING WOW【GRAND KARAOKE REBROADCAST PART 3】",
     "type": "stream",
@@ -9,8 +28,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 8,
-      "ja": 8
+      "en": 10,
+      "ja": 10
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -1183,7 +1202,7 @@
     "duration": 3587,
     "status": "past",
     "live_tl_count": {
-      "en": 34
+      "en": 37
     },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -2677,26 +2696,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "ry3qT6Il7x8",
-    "title": "【 縦型歌枠】47万人を目指して!!!!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-30T12:42:18.000Z",
-    "available_at": "2025-10-30T10:41:02.000Z",
-    "duration": 6168,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
