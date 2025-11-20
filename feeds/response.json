@@ -1,24 +1,5 @@
 [
   {
-    "id": "qmzRE7zQyPM",
-    "title": "【 定期雑談 】もうすぐ4周年!?!?!?!?  #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-20T20:37:53.000Z",
-    "available_at": "2025-11-21T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
-    }
-  },
-  {
     "id": "wpJMse-TlIk",
     "title": "スキデカ!~スキはデカく回顧録?~",
     "type": "stream",
@@ -257,6 +238,28 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "7UlZnyO79Xg",
+    "title": "【チラ見せ】AZKi SOLO LiVE 2025 \"Departure\"【ぴあアリーナMM】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-11-19T10:04:48.000Z",
+    "available_at": "2025-11-19T09:00:16.000Z",
+    "duration": 3593,
+    "status": "past",
+    "live_tl_count": {
+      "en": 37
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -1394,28 +1397,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/e5qGJGwKTYsSJ8l_jVWV1UUpTtJSxU5H-2qQO95dMSJqHAip7YmFs4pXxZo0rzUW8ZD_H40tQL8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Arurandeisu"
-    }
-  },
-  {
-    "id": "7UlZnyO79Xg",
-    "title": "【チラ見せ】AZKi SOLO LiVE 2025 \"Departure\"【ぴあアリーナMM】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-11T11:50:47.000Z",
-    "available_at": "2025-11-19T09:00:16.000Z",
-    "duration": 3587,
-    "status": "past",
-    "live_tl_count": {
-      "en": 37
-    },
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
@@ -5057,6 +5038,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "-7fWewjcygo",
+    "title": "【3D LIVE】ねぽらぼ学園 ☆5周年記念!!輝く学寮祭☆【#ねぽらぼ5周年学祭3Dライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-08-17T12:10:52.000Z",
+    "available_at": "2025-08-17T10:56:37.000Z",
+    "duration": 3841,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 64
+    },
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
