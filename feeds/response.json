@@ -1,5 +1,25 @@
 [
   {
+    "id": "bquFmm718Lc",
+    "title": "【歌枠/KARAOKE】おしゃべり多めで3Dライブ前にゆるゆると歌おう~!※途中からメン限【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-21T12:27:22.000Z",
+    "available_at": "2025-11-21T13:01:15.000Z",
+    "duration": 3370,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "y2toEi-we2c",
     "title": "【弾き語り歌枠】低気圧の頭痛にも効く歌枠【律可/ホロスターズ 】#りつすた",
     "type": "stream",
@@ -27,6 +47,9 @@
     "available_at": "2025-11-21T12:59:01.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -2692,29 +2715,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "3tfmtj-zpEM",
-    "title": "【 歌枠】本日はCOOLに🎃重大告知を持ってきました【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-31T11:43:55.000Z",
-    "available_at": "2025-10-31T10:00:06.000Z",
-    "duration": 5726,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "en": 43
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
