@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-21T10:26:16.494Z</updated>
+  <updated>2025-11-21T11:26:15.563Z</updated>
 
   <entry>
     <id>urn:uuid:bf99b7ac-5d16-5bff-8727-500747f84232</id>
@@ -132,6 +132,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:60e3e28d-4dca-57ef-8b91-ca15924ab9d7</id>
+    <title><![CDATA[【PIANO】LET'S PRESS THE KEYS!!!!!!]]></title>
+    <link href="https://youtu.be/HGEQfQgd2bk" rel="alternate" type="text/html"/>
+    <published>2025-11-19T22:07:04.000Z</published>
+    <updated>2025-11-19T20:03:07.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582587:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:2c74f69a-f2b8-5d23-8002-adcd92b1625d</id>
     <title><![CDATA[Farewell]]></title>
     <link href="https://youtu.be/DySvk3iftQE" rel="alternate" type="text/html"/>
@@ -255,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q4Zouc3f1KM 【LIVE on &lt;t:1763380821:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q4Zouc3f1KM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:60e3e28d-4dca-57ef-8b91-ca15924ab9d7</id>
-    <title><![CDATA[【PIANO】LET'S PRESS THE KEYS!!!!!!]]></title>
-    <link href="https://youtu.be/HGEQfQgd2bk" rel="alternate" type="text/html"/>
-    <published>2025-11-17T08:36:01.000Z</published>
-    <updated>2025-11-19T20:03:07.000Z</updated>
-    <author>
-      <name>Cecilia Immergreen Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582587:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
