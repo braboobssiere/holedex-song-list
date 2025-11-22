@@ -1,21 +1,24 @@
 [
   {
-    "id": "UwKShkwn5vE",
-    "title": "【朝活雑談】明日は3D LIVE!生誕祭!今日は初めての事前ラジオ形式まっする?!🌞【白銀ノエル/ホロライブ】",
+    "id": "i2tSHVcDitQ",
+    "title": "【 縦型/歌枠】NO10💜 114万人耐久♪ 今日はアニソン多めに歌っちゃお! Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
     "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-22T13:13:08.000Z",
-    "available_at": "2025-11-23T01:00:00.000Z",
+    "topic_id": "singing",
+    "published_at": "2025-11-22T13:59:43.000Z",
+    "available_at": "2025-11-22T14:02:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
       "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
+      "suborg": "0w0th Generation",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
@@ -2757,26 +2760,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/MZ-G4UCBhmwBgdgoq6h3OLFXfnd3Io4xV8TUOyfCu7TMvHTIL5-VMgGRlA0FfCqqCq2oR6RrXos=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "NFtjeVAUuC8",
-    "title": "【歌枠】第129回!Halloween Night Fever!! Singing Stream🎤【角巻わため/ホロライブ4期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-31T19:53:01.000Z",
-    "available_at": "2025-10-31T13:07:18.000Z",
-    "duration": 23177,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -5664,6 +5647,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "NNK7IP7E0vU",
+    "title": "【#Doppio3D】DOPPIO'S DDDIZZARRE ADVENTURE //ドッピオの奇妙な3D冒険【NIJISANJI EN | Doppio Dropscythe】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-11T14:09:51.000Z",
+    "available_at": "2025-07-11T12:59:07.000Z",
+    "duration": 3867,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCy91xBlY_Brh3bnHxKtjrrg",
+      "name": "Doppio Dropscythe【NIJISANJI EN】",
+      "org": "Nijisanji",
+      "suborg": "5cEN XSOLEIL",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7Q-lvhi8QREBJTX7L1G_gFBXPfTWQz6mL5A6WVTBoNBsxyoY-SzufetowA7FM3z3GN6zURoAxQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Doppio Dropscythe"
     }
   },
   {
