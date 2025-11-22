@@ -129,6 +129,7 @@
     "available_at": "2025-11-21T12:59:01.000Z",
     "duration": 7200,
     "status": "past",
+    "songcount": 14,
     "live_tl_count": {
       "en": 36
     },
@@ -373,7 +374,7 @@
     "published_at": "2025-11-20T05:07:01.000Z",
     "available_at": "2025-11-20T09:15:49.000Z",
     "duration": 17229,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 4,
       "ja": 4
@@ -649,8 +650,8 @@
     "topic_id": "Birthday",
     "published_at": "2025-11-18T02:56:16.000Z",
     "available_at": "2025-11-22T01:00:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5390,
+    "status": "past",
     "songcount": 7,
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
