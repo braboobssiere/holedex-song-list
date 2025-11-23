@@ -2913,25 +2913,6 @@
     }
   },
   {
-    "id": "BIUAkN5FHc4",
-    "title": "【KH3D】3に続く最後の冒険!!今回は夢の中だ!!【花咲みやび/ホロスターズ】【ネタバレあり】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-25T02:33:43.000Z",
-    "available_at": "2025-10-25T00:07:53.000Z",
-    "duration": 8259,
-    "status": "past",
-    "channel": {
-      "id": "UC6t3-_N8A6ME1JShZHHqOMw",
-      "name": "Miyabi Ch. 花咲みやび",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hanasaki Miyabi"
-    }
-  },
-  {
     "id": "DXy_rrdHjZw",
     "title": "【ホロカ】祝!ホロカ1周年&｢エンチャントレガリア｣発売記念!スペシャルムービー",
     "type": "stream",
@@ -2975,9 +2956,13 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-10-21T11:47:54.000Z",
-    "available_at": "2025-11-23T11:00:00.000Z",
+    "available_at": "2025-11-23T10:55:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 7,
+    "live_tl_count": {
+      "en": 55
+    },
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive DEV_IS FLOW GLOW",
@@ -5657,6 +5642,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "NNK7IP7E0vU",
+    "title": "【#Doppio3D】DOPPIO'S DDDIZZARRE ADVENTURE //ドッピオの奇妙な3D冒険【NIJISANJI EN | Doppio Dropscythe】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-11T14:09:51.000Z",
+    "available_at": "2025-07-11T12:59:07.000Z",
+    "duration": 3867,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCy91xBlY_Brh3bnHxKtjrrg",
+      "name": "Doppio Dropscythe【NIJISANJI EN】",
+      "org": "Nijisanji",
+      "suborg": "5cEN XSOLEIL",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/7Q-lvhi8QREBJTX7L1G_gFBXPfTWQz6mL5A6WVTBoNBsxyoY-SzufetowA7FM3z3GN6zURoAxQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Doppio Dropscythe"
     }
   },
   {
