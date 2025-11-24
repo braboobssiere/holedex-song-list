@@ -3,19 +3,19 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-24T09:26:10.072Z</updated>
+  <updated>2025-11-24T10:26:15.617Z</updated>
 
   <entry>
     <id>urn:uuid:8c0f3d89-bfb1-5eda-bc90-65f1ecd7fc12</id>
     <title><![CDATA[【告知あり】LIVE打ち上げ!3Dカラオケ♡]]></title>
     <link href="https://youtu.be/EsJ98-AdtD4" rel="alternate" type="text/html"/>
     <published>2025-11-24T04:04:03.000Z</published>
-    <updated>2025-11-24T04:04:03.000Z</updated>
+    <updated>2025-11-24T10:00:17.000Z</updated>
     <author>
       <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EsJ98-AdtD4 【LIVE on &lt;t:1763978400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EsJ98-AdtD4 【LIVE on &lt;t:1763978417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EsJ98-AdtD4/maxresdefault.jpg"/>
   </entry>
 
@@ -1196,6 +1196,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d87b0eef-4e10-5171-989c-4467895b1ceb</id>
+    <title><![CDATA[【歌枠】お休み前歌枠!ちょっと告知もあります!【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/seJADkxjD7E" rel="alternate" type="text/html"/>
+    <published>2025-11-03T11:36:16.000Z</published>
+    <updated>2025-11-03T10:02:50.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=seJADkxjD7E 【LIVE on &lt;t:1762164170:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/seJADkxjD7E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d50e0256-d4d3-5875-8ba0-2c6058e691f7</id>
     <title><![CDATA[【3D LIVE】LOG IN: GAME START #ROCKINBiboo]]></title>
     <link href="https://youtu.be/WfGS8QW-b40" rel="alternate" type="text/html"/>
@@ -1963,34 +1977,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ffe27fa8-d660-55ad-88d4-a16a82a61650</id>
-    <title><![CDATA[【 #ダスピ3Dカラオケ 】トワワ先輩とすいちゃんと歌って楽しむ!【 桃鈴ねね / 常闇トワ / 星街すいせい 】]]></title>
-    <link href="https://youtu.be/a0UFPrFbuwQ" rel="alternate" type="text/html"/>
-    <published>2025-07-14T12:07:25.000Z</published>
-    <updated>2025-07-14T10:57:11.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=a0UFPrFbuwQ 【LIVE on &lt;t:1752490631:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a0UFPrFbuwQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0a2bf5ff-8259-5059-9aad-9cb69e22aed7</id>
-    <title><![CDATA[【#Doppio3D】DOPPIO'S DDDIZZARRE ADVENTURE //ドッピオの奇妙な3D冒険【NIJISANJI EN | Doppio Dropscythe】]]></title>
-    <link href="https://youtu.be/NNK7IP7E0vU" rel="alternate" type="text/html"/>
-    <published>2025-07-11T14:09:51.000Z</published>
-    <updated>2025-07-11T12:59:07.000Z</updated>
-    <author>
-      <name>Doppio Dropscythe【NIJISANJI EN】</name>
-      <uri>https://www.youtube.com/channel/UCy91xBlY_Brh3bnHxKtjrrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NNK7IP7E0vU 【LIVE on &lt;t:1752238747:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NNK7IP7E0vU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
