@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-24T12:26:18.413Z</updated>
+  <updated>2025-11-24T13:26:19.500Z</updated>
+
+  <entry>
+    <id>urn:uuid:1ef7d1f5-3049-5e5a-8a6f-9b4a8507f7c8</id>
+    <title><![CDATA[【スゴイやつ】???【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/k6V5yGjakC8" rel="alternate" type="text/html"/>
+    <published>2025-11-24T13:10:07.000Z</published>
+    <updated>2025-11-24T13:10:07.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k6V5yGjakC8 【LIVE on &lt;t:1763989807:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k6V5yGjakC8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:33ea3a6f-a179-59f1-86aa-6f6df01a901c</id>
@@ -34,30 +48,16 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1ef7d1f5-3049-5e5a-8a6f-9b4a8507f7c8</id>
-    <title><![CDATA[【スゴイやつ】???【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/k6V5yGjakC8" rel="alternate" type="text/html"/>
-    <published>2025-11-24T03:00:18.000Z</published>
-    <updated>2025-11-24T03:00:18.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k6V5yGjakC8 【LIVE on &lt;t:1763989800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k6V5yGjakC8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:61e7e815-7ad2-5796-a06a-c23d5b09edc5</id>
     <title><![CDATA[【 歌枠 】20年前のアニメ・ボカロをふなふなぁ~っと歌うのら~~!!!🎵 ~ KARAOKE #shorts【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/1e5U_zqsNJ8" rel="alternate" type="text/html"/>
     <published>2025-11-23T18:27:33.000Z</published>
-    <updated>2025-11-23T18:27:33.000Z</updated>
+    <updated>2025-11-24T12:59:55.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1e5U_zqsNJ8 【LIVE on &lt;t:1763989200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1e5U_zqsNJ8 【LIVE on &lt;t:1763989195:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1e5U_zqsNJ8/maxresdefault.jpg"/>
   </entry>
 
