@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-25T00:26:13.402Z</updated>
+  <updated>2025-11-25T01:26:06.280Z</updated>
 
   <entry>
     <id>urn:uuid:864377e1-a83b-5a4a-be53-e82a7bfa4081</id>
@@ -115,6 +115,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tmVYOETfA10 【LIVE on &lt;t:1763910135:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tmVYOETfA10/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:93eeac46-7ff0-5b79-9ffe-77711623f052</id>
+    <title><![CDATA[【#白銀ノエル生誕祭2025】生誕 3D LIVE 睡夢 - suimu -【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/eV59GTk0J3s" rel="alternate" type="text/html"/>
+    <published>2025-11-23T12:55:21.000Z</published>
+    <updated>2025-11-24T11:58:12.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eV59GTk0J3s 【LIVE on &lt;t:1763985492:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eV59GTk0J3s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85647b9d-096c-5917-8b57-018086340aba</id>
+    <title><![CDATA[【#FG3Dライブ】MAKE IT, BREAK IT]]></title>
+    <link href="https://youtu.be/zUI_V1Fea2U" rel="alternate" type="text/html"/>
+    <published>2025-11-23T12:19:07.000Z</published>
+    <updated>2025-11-23T10:55:16.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zUI_V1Fea2U 【LIVE on &lt;t:1763895316:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zUI_V1Fea2U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1280,20 +1308,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:85647b9d-096c-5917-8b57-018086340aba</id>
-    <title><![CDATA[【#FG3Dライブ】MAKE IT, BREAK IT]]></title>
-    <link href="https://youtu.be/zUI_V1Fea2U" rel="alternate" type="text/html"/>
-    <published>2025-10-21T11:47:54.000Z</published>
-    <updated>2025-11-23T10:55:16.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zUI_V1Fea2U 【LIVE on &lt;t:1763895316:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zUI_V1Fea2U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:10478954-559b-523c-be2f-e3a5f3963fb2</id>
     <title><![CDATA[【#あずぱと3D】告知あり!パトラちゃんと3DでASMRコラボ🎧️【ホロライブ / AZKi / 周防パトラ】]]></title>
     <link href="https://youtu.be/Z-CEGrlxS7A" rel="alternate" type="text/html"/>
@@ -1963,6 +1977,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k0Z3uPdj3Bk 【LIVE on &lt;t:1753196417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k0Z3uPdj3Bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ffe27fa8-d660-55ad-88d4-a16a82a61650</id>
+    <title><![CDATA[【 #ダスピ3Dカラオケ 】トワワ先輩とすいちゃんと歌って楽しむ!【 桃鈴ねね / 常闇トワ / 星街すいせい 】]]></title>
+    <link href="https://youtu.be/a0UFPrFbuwQ" rel="alternate" type="text/html"/>
+    <published>2025-07-14T12:07:25.000Z</published>
+    <updated>2025-07-14T10:57:11.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=a0UFPrFbuwQ 【LIVE on &lt;t:1752490631:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a0UFPrFbuwQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>

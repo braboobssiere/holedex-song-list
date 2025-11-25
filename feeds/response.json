@@ -104,11 +104,15 @@
     "id": "pvbazObiwak",
     "title": "【3D ROULETTE KARAOKE SINGSUBATHON DAY 2】SINGING UNTIL THAT TIMER RUNS OUT | VERTICAL",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2025-11-24T09:37:08.000Z",
     "available_at": "2025-11-24T23:56:04.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 4,
+      "ja": 4
+    },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -207,6 +211,7 @@
     "available_at": "2025-11-24T11:58:12.000Z",
     "duration": 4088,
     "status": "past",
+    "songcount": 11,
     "live_tl_count": {
       "en": 123
     },
@@ -218,6 +223,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "zUI_V1Fea2U",
+    "title": "【#FG3Dライブ】MAKE IT, BREAK IT",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-11-23T12:19:07.000Z",
+    "available_at": "2025-11-23T10:55:16.000Z",
+    "duration": 4505,
+    "status": "past",
+    "songcount": 15,
+    "live_tl_count": {
+      "en": 168
+    },
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -2750,26 +2777,6 @@
     }
   },
   {
-    "id": "gu-_lOtZn0g",
-    "title": "【弾き語り歌枠】さすがに久々な歌枠【律可/ホロスターズ 】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-03T14:43:32.000Z",
-    "available_at": "2025-11-03T12:58:49.000Z",
-    "duration": 5239,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
-    }
-  },
-  {
     "id": "WfGS8QW-b40",
     "title": "【3D LIVE】LOG IN: GAME START #ROCKINBiboo",
     "type": "stream",
@@ -3005,28 +3012,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "zUI_V1Fea2U",
-    "title": "【#FG3Dライブ】MAKE IT, BREAK IT",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-21T11:47:54.000Z",
-    "available_at": "2025-11-23T10:55:16.000Z",
-    "duration": 4490,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 168
-    },
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5656,6 +5641,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kageyama Shien"
+    }
+  },
+  {
+    "id": "a0UFPrFbuwQ",
+    "title": "【 #ダスピ3Dカラオケ 】トワワ先輩とすいちゃんと歌って楽しむ!【 桃鈴ねね / 常闇トワ / 星街すいせい 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-07-14T12:07:25.000Z",
+    "available_at": "2025-07-14T10:57:11.000Z",
+    "duration": 3875,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
     }
   },
   {
