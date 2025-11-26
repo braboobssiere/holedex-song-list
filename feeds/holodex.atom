@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-26T01:26:18.118Z</updated>
+  <updated>2025-11-26T02:26:16.777Z</updated>
 
   <entry>
     <id>urn:uuid:f0410220-d43c-55f8-8615-73b1d3c68b81</id>
@@ -62,8 +62,22 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:93eeac46-7ff0-5b79-9ffe-77711623f052</id>
+    <title><![CDATA[【#白銀ノエル生誕祭2025】生誕 3D LIVE 睡夢 - suimu -【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/eV59GTk0J3s" rel="alternate" type="text/html"/>
+    <published>2025-11-24T13:17:03.000Z</published>
+    <updated>2025-11-24T11:58:12.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eV59GTk0J3s 【LIVE on &lt;t:1763985492:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eV59GTk0J3s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1ef7d1f5-3049-5e5a-8a6f-9b4a8507f7c8</id>
-    <title><![CDATA[【original anime MV】VAVAVA！バーチャル大分【白銀ノエル/ホロライブ】]]></title>
+    <title><![CDATA[【original anime MV】VAVAVA!バーチャル大分【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/k6V5yGjakC8" rel="alternate" type="text/html"/>
     <published>2025-11-24T13:10:07.000Z</published>
     <updated>2025-11-24T13:10:07.000Z</updated>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tmVYOETfA10 【LIVE on &lt;t:1763910135:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tmVYOETfA10/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:93eeac46-7ff0-5b79-9ffe-77711623f052</id>
-    <title><![CDATA[【#白銀ノエル生誕祭2025】生誕 3D LIVE 睡夢 - suimu -【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/eV59GTk0J3s" rel="alternate" type="text/html"/>
-    <published>2025-11-23T12:55:21.000Z</published>
-    <updated>2025-11-24T11:58:12.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eV59GTk0J3s 【LIVE on &lt;t:1763985492:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eV59GTk0J3s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
