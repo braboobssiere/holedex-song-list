@@ -42,9 +42,13 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-11-25T09:42:27.000Z",
-    "available_at": "2025-11-26T14:00:00.000Z",
+    "available_at": "2025-11-26T14:02:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 39,
+      "ko": 50
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
