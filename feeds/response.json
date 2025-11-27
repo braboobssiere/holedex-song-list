@@ -1,24 +1,5 @@
 [
   {
-    "id": "IbLkHIP5PwI",
-    "title": "【Unarchived Karaoke】Test streaming with learning some new songs !!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-27T07:27:18.000Z",
-    "available_at": "2025-11-27T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCjLEmnpCNeisMxy134KPwWw",
-      "name": "Kobo Kanaeru Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kobo Kanaeru"
-    }
-  },
-  {
     "id": "b3MqpNZFX_k",
     "title": "【 Membership 】周年なのでルイ友さんとまったりおしゃべりしたい☺【鷹嶺ルイ/ホロライブ】",
     "type": "stream",
@@ -2892,6 +2873,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "MNvC-YDUtzM",
+    "title": "【歌雑】雑談したり歌ったりをするなど!【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-04T15:23:14.000Z",
+    "available_at": "2025-11-04T13:00:11.000Z",
+    "duration": 6737,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
