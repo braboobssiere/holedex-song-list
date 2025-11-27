@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-27T07:26:16.879Z</updated>
+  <updated>2025-11-27T08:26:10.365Z</updated>
+
+  <entry>
+    <id>urn:uuid:c2da7c99-91c5-5a60-8c5d-e5ef7b7ad867</id>
+    <title><![CDATA[【Unarchived Karaoke】Test streaming with learning some new songs !!]]></title>
+    <link href="https://youtu.be/IbLkHIP5PwI" rel="alternate" type="text/html"/>
+    <published>2025-11-27T07:27:18.000Z</published>
+    <updated>2025-11-27T07:27:18.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IbLkHIP5PwI 【LIVE on &lt;t:1764252000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IbLkHIP5PwI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:94ede086-65c3-5aec-b29f-c50fe30689fa</id>
@@ -1235,20 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sk3OfW5pOig 【LIVE on &lt;t:1762336892:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sk3OfW5pOig/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4db5ecf3-9b69-5db8-baa5-9e9a180c79a3</id>
-    <title><![CDATA[【歌雑】雑談したり歌ったりをするなど!【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/MNvC-YDUtzM" rel="alternate" type="text/html"/>
-    <published>2025-11-04T15:23:14.000Z</published>
-    <updated>2025-11-04T13:00:11.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MNvC-YDUtzM 【LIVE on &lt;t:1762261211:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MNvC-YDUtzM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
