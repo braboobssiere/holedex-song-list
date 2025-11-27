@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-27T06:26:10.542Z</updated>
+  <updated>2025-11-27T07:26:16.879Z</updated>
+
+  <entry>
+    <id>urn:uuid:94ede086-65c3-5aec-b29f-c50fe30689fa</id>
+    <title><![CDATA[アナスタシスガール feat. ラプラス・ダークネス / 鷹嶺ルイ(official)]]></title>
+    <link href="https://youtu.be/4dgcHJW1p30" rel="alternate" type="text/html"/>
+    <published>2025-11-27T05:24:31.000Z</published>
+    <updated>2025-11-27T05:24:31.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4dgcHJW1p30 【LIVE on &lt;t:1764244800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4dgcHJW1p30/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:08c4901f-cbb3-5005-ad67-c80b8af6cfb9</id>
@@ -1123,20 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FB7_5IZC2Vk 【LIVE on &lt;t:1762786828:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FB7_5IZC2Vk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cd134543-309e-5ba3-9791-fccdd9b5c774</id>
-    <title><![CDATA[コトノハ]]></title>
-    <link href="https://youtu.be/3LTTiipQUn0" rel="alternate" type="text/html"/>
-    <published>2025-11-10T15:00:13.000Z</published>
-    <updated>2025-11-10T15:00:13.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3LTTiipQUn0 【LIVE on &lt;t:1762786813:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3LTTiipQUn0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
