@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-28T09:35:29.000Z",
-    "available_at": "2025-11-28T14:00:00.000Z",
+    "available_at": "2025-11-28T14:01:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -182,11 +182,11 @@
     "id": "nssWg7EYLwk",
     "title": "【3D歌枠】3Dで激しく暴れてやるから見ててね、、💛【振り返り&告知あり/虎金妃笑虎】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "3D_Stream",
     "published_at": "2025-11-27T12:28:57.000Z",
     "available_at": "2025-11-28T12:58:00.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5119,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -2978,6 +2978,25 @@
     }
   },
   {
+    "id": "891lX6DHEoA",
+    "title": "【UNARCHIVED KARAOKE】NO SETLIST WE VIBE!!!!!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-05T10:36:48.000Z",
+    "available_at": "2025-11-05T21:00:34.000Z",
+    "duration": 7711,
+    "status": "missing",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "jIXRkXSi9lk",
     "title": "【歌枠】おひ～る休憩ですか❔30分ぶれいくた～いむ☕#shorts 【風真いろは/ホロライブ】",
     "type": "stream",
@@ -5656,25 +5675,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "1xWFxL6ZdGA",
-    "title": "【3D & New Info!】All for One as We Head Toward the Concert! It's a Snack-Fest Party!【#holoAllforOne】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-07-19T03:10:45.000Z",
-    "available_at": "2025-07-19T02:03:53.000Z",
-    "duration": 3676,
-    "status": "past",
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
     }
   },
   {
