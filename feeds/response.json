@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-27T17:33:33.000Z",
-    "available_at": "2025-11-28T00:00:00.000Z",
+    "available_at": "2025-11-27T23:57:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -66,9 +66,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2025-11-27T14:17:34.000Z",
-    "available_at": "2025-11-28T00:15:00.000Z",
+    "available_at": "2025-11-28T00:09:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -135,6 +135,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "KC0-vIj7piY",
+    "title": "【念願】遂に決まる!ホロメンASMR品評会!#ラプ様4周年記念 【ラプラス・ダークネス/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-11-26T11:21:03.000Z",
+    "available_at": "2025-11-26T09:58:33.000Z",
+    "duration": 4458,
+    "status": "past",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
     }
   },
   {
@@ -642,25 +661,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nqRoQYVOioAVLFHDrRP_y8Ri4zAUoq3kxEdHrQQLyrp44=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "KC0-vIj7piY",
-    "title": "【念願】遂に決まる！ホロメンASMR品評会！#ラプ様4周年記念 【ラプラス・ダークネス/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-22T21:57:50.000Z",
-    "available_at": "2025-11-26T09:58:33.000Z",
-    "duration": 4461,
-    "status": "past",
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
     }
   },
   {
