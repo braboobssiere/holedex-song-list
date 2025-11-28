@@ -47,7 +47,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-28T13:23:09.000Z",
-    "available_at": "2025-11-28T23:00:00.000Z",
+    "available_at": "2025-11-29T00:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -58,6 +58,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
+    }
+  },
+  {
+    "id": "PXg9pHwGHZQ",
+    "title": "【オフコラボ歌枠】こんなにかわいいのに怪物って、、んなばかな、、、【虎金妃笑虎/町田ちま】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-28T12:19:19.000Z",
+    "available_at": "2025-11-29T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -106,8 +125,8 @@
     "topic_id": "singing",
     "published_at": "2025-11-28T09:35:29.000Z",
     "available_at": "2025-11-28T14:01:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6939,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -2975,25 +2994,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "891lX6DHEoA",
-    "title": "【UNARCHIVED KARAOKE】NO SETLIST WE VIBE!!!!!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-05T10:36:48.000Z",
-    "available_at": "2025-11-05T21:00:34.000Z",
-    "duration": 7711,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
