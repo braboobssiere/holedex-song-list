@@ -1,5 +1,24 @@
 [
   {
+    "id": "iEwDyiRf6mI",
+    "title": "【UNARCHIVED】singing after thanksgiving. thanksinging.",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-28T11:04:08.000Z",
+    "available_at": "2025-11-28T22:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "-QhJAegPwqU",
     "title": "【歌枠】深夜にしっとり歌います🌙アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
     "type": "stream",
@@ -466,9 +485,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-11-24T12:58:22.000Z",
-    "available_at": "2025-11-28T10:30:00.000Z",
+    "available_at": "2025-11-28T10:26:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 61
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
@@ -2935,26 +2957,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "sJBFzz1EaD0",
-    "title": "【 歌枠 l KARAOKE 】眠りたい夜にバラードを【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-05T19:51:53.000Z",
-    "available_at": "2025-11-05T17:11:11.000Z",
-    "duration": 9011,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
