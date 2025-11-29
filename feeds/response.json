@@ -68,7 +68,7 @@
     "published_at": "2025-11-28T13:23:09.000Z",
     "available_at": "2025-11-28T23:59:56.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -86,8 +86,8 @@
     "topic_id": "singing",
     "published_at": "2025-11-28T12:19:19.000Z",
     "available_at": "2025-11-29T09:58:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4363,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -3570,6 +3570,25 @@
     }
   },
   {
+    "id": "MXuNPjOc0Dc",
+    "title": "dtto. 3Dお披露目配信 #dtto1st3D",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-10-10T08:59:36.000Z",
+    "available_at": "2025-11-29T09:55:26.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCWNVjAzZmYUni8YBXYiy01w",
+      "name": "dtto.",
+      "org": "Twitch Independents",
+      "suborg": "reREJECT",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3SotsPaIwILzp3_cA5E-NJGd8a2Qkw0wGfKZx74Uu3XpoKEalgXQEXhgQCwbwt4aC7EaAsPSyQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "dtto."
+    }
+  },
+  {
     "id": "i65Gl-3qIFA",
     "title": "【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -5615,28 +5634,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "rlD10wF01qw",
-    "title": "【最強】夏だ!水着だ!!一番強いケツは誰だ!?ホロライブ尻相撲大会!!【#holonatsuParadise】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-07-26T10:41:37.000Z",
-    "available_at": "2025-07-26T09:00:19.000Z",
-    "duration": 5452,
-    "status": "past",
-    "live_tl_count": {
-      "en": 236
-    },
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
