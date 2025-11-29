@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-11-29T18:41:15.000Z",
     "available_at": "2025-11-29T20:02:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6222,
+    "status": "past",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -254,6 +254,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "2b_3GxhBSiA",
+    "title": "【ANNIVERSARY STREAM】A GIANT 'YOU'RE WELCOME' PARTY",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-11-28T08:36:49.000Z",
+    "available_at": "2025-11-28T05:00:07.000Z",
+    "duration": 12122,
+    "status": "past",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -555,25 +574,6 @@
       "suborg": "0gOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "2b_3GxhBSiA",
-    "title": "【ANNIVERSARY STREAM】A GIANT 'YOU'RE WELCOME' PARTY",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-26T06:24:07.000Z",
-    "available_at": "2025-11-28T05:00:07.000Z",
-    "duration": 12118,
-    "status": "past",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
