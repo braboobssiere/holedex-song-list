@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-11-30T07:26:14.782Z</updated>
+  <updated>2025-11-30T08:26:15.228Z</updated>
+
+  <entry>
+    <id>urn:uuid:5b1a1c96-bafc-544b-ac11-3cc2e3b1b8b2</id>
+    <title><![CDATA[【 縦型歌枠 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/SJ2LG_4uZgQ" rel="alternate" type="text/html"/>
+    <published>2025-11-30T06:43:47.000Z</published>
+    <updated>2025-11-30T08:00:55.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=SJ2LG_4uZgQ 【LIVE on &lt;t:1764489655:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SJ2LG_4uZgQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:00d3ad1e-e9b7-5137-966a-c7aac5c4d1e3</id>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=brnU1ghiIfU 【LIVE on &lt;t:1762786876:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/brnU1ghiIfU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2b91f11a-6567-5074-8eb3-1dfa3c4836a6</id>
-    <title><![CDATA[【祝MV100万再生】ありがとうPulse歌枠【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/IL5J_ExYeMw" rel="alternate" type="text/html"/>
-    <published>2025-11-08T14:48:45.000Z</published>
-    <updated>2025-11-08T13:02:47.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IL5J_ExYeMw 【LIVE on &lt;t:1762606967:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IL5J_ExYeMw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
