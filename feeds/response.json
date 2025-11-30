@@ -65,9 +65,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-11-29T12:43:49.000Z",
-    "available_at": "2025-11-30T01:30:00.000Z",
+    "available_at": "2025-11-30T01:32:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -178,6 +178,28 @@
     }
   },
   {
+    "id": "EwN5lSNMh5c",
+    "title": "【 #博衣こより4周年逆凸 】重大告知アリ‼44人逆凸!!ホロメン、外部様、某絵師様、某歌手様、念願&驚きの初絡みも⁉すべての方に感謝の4周年です🎉【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-11-28T12:33:21.000Z",
+    "available_at": "2025-11-28T10:26:41.000Z",
+    "duration": 6971,
+    "status": "past",
+    "live_tl_count": {
+      "en": 118
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
+    }
+  },
+  {
     "id": "PXg9pHwGHZQ",
     "title": "【オフコラボ歌枠】こんなにかわいいのに怪物って、、んなばかな、、、【虎金妃笑虎／町田ちま】",
     "type": "stream",
@@ -199,7 +221,7 @@
   },
   {
     "id": "65R4ZpEuzvM",
-    "title": "爆ラブ＋ケミストリー / ナユタン星人×博衣こより (Official)",
+    "title": "爆ラブ+ケミストリー / ナユタン星人×博衣こより (Official)",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-11-28T12:05:06.000Z",
@@ -737,28 +759,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "EwN5lSNMh5c",
-    "title": "【 #博衣こより4周年逆凸 】重大告知アリ‼44人逆凸！！ホロメン、外部様、某絵師様、某歌手様、念願＆驚きの初絡みも⁉すべての方に感謝の4周年です🎉【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-11-24T12:58:22.000Z",
-    "available_at": "2025-11-28T10:26:41.000Z",
-    "duration": 7061,
-    "status": "past",
-    "live_tl_count": {
-      "en": 118
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
