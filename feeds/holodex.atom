@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-01T13:26:23.988Z</updated>
+  <updated>2025-12-01T14:26:12.793Z</updated>
+
+  <entry>
+    <id>urn:uuid:449fd82a-1947-54d4-aca0-aaa2f121091e</id>
+    <title><![CDATA[【これぞ王道】ASMRの真骨頂を教えてさしげます。【昼ホロ/花園さやか】]]></title>
+    <link href="https://youtu.be/OdvYp0TDwFE" rel="alternate" type="text/html"/>
+    <published>2025-12-01T13:31:59.000Z</published>
+    <updated>2025-12-01T13:31:59.000Z</updated>
+    <author>
+      <name>holoAN room (ホロアナ)</name>
+      <uri>https://www.youtube.com/channel/UCozx5csNhCx1wsVq3SZVkBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OdvYp0TDwFE 【LIVE on &lt;t:1764644400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OdvYp0TDwFE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dd08c21f-8cac-52f5-b358-d79093a94428</id>
+    <title><![CDATA[【雑談/CHAT】ギターの練習しながらまったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/FNiBJUO0GjY" rel="alternate" type="text/html"/>
+    <published>2025-12-01T13:15:40.000Z</published>
+    <updated>2025-12-01T13:21:59.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FNiBJUO0GjY 【LIVE on &lt;t:1764595319:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FNiBJUO0GjY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:626be879-04b5-54bd-96be-43154ce99c07</id>
@@ -2316,20 +2344,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:1d140d57-911d-55d4-85f2-96b78eddcda8</id>
-    <title><![CDATA[【VALENTINE'S DAY】🩷First-ever ASMR + a special surprise! 😸🩷]]></title>
-    <link href="https://youtu.be/9nSeGsKOwfc" rel="alternate" type="text/html"/>
-    <published>2025-02-14T13:32:26.000Z</published>
-    <updated>2025-02-14T12:01:30.000Z</updated>
-    <author>
-      <name>Raora Panthera Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9nSeGsKOwfc 【LIVE on &lt;t:1739534490:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9nSeGsKOwfc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:7ac5d667-e8ea-5256-addd-03a5aaed9e06</id>
     <title><![CDATA[【 楽器演奏 】エレクトーンを2ヶ月ぶりに演奏するのら!!!🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/MIR5amvbvXk" rel="alternate" type="text/html"/>
@@ -2635,19 +2649,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0zisuu7ObQs 【LIVE on &lt;t:1688194865:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0zisuu7ObQs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0d1ee424-00ab-5aa5-bcd4-b3503a6097f5</id>
-    <title><![CDATA[【 エレクトーン演奏 】深夜作業BGM…垂れ流し…(声小さめ) 🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/vH5skofzdKU" rel="alternate" type="text/html"/>
-    <published>2023-06-18T18:59:52.000Z</published>
-    <updated>2023-06-18T16:25:12.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vH5skofzdKU 【LIVE on &lt;t:1687105512:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vH5skofzdKU/maxresdefault.jpg"/>
   </entry>
 </feed>
