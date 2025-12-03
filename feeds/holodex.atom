@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-03T09:26:16.829Z</updated>
+  <updated>2025-12-03T10:26:08.706Z</updated>
+
+  <entry>
+    <id>urn:uuid:53d06a57-bd5f-5022-a0fb-eb0a63fc2821</id>
+    <title><![CDATA[Kureiji for you]]></title>
+    <link href="https://youtu.be/KJIaAqxRM68" rel="alternate" type="text/html"/>
+    <published>2025-12-03T10:04:51.000Z</published>
+    <updated>2025-12-03T10:04:51.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KJIaAqxRM68 【LIVE on &lt;t:1764756291:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KJIaAqxRM68/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:089e000a-4a3c-5f2d-9f8f-6fff8e25a096</id>
+    <title><![CDATA[Kureiji for you (Instrumental)]]></title>
+    <link href="https://youtu.be/C2mN8s62SLE" rel="alternate" type="text/html"/>
+    <published>2025-12-03T10:01:50.000Z</published>
+    <updated>2025-12-03T10:01:50.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=C2mN8s62SLE 【LIVE on &lt;t:1764756110:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C2mN8s62SLE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:592e2077-d52b-571c-9535-2eb9930aae6c</id>
@@ -1333,34 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vHNgQbfb43k 【LIVE on &lt;t:1762873311:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vHNgQbfb43k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:39374566-97d6-527e-844c-8222822fcc21</id>
-    <title><![CDATA[Flashpoint]]></title>
-    <link href="https://youtu.be/T_G8MKDW5Cg" rel="alternate" type="text/html"/>
-    <published>2025-11-11T15:01:05.000Z</published>
-    <updated>2025-11-11T15:01:05.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=T_G8MKDW5Cg 【LIVE on &lt;t:1762873265:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T_G8MKDW5Cg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e4fbe997-3fa3-5516-a3ce-1d51d3ea05c4</id>
-    <title><![CDATA[ミッドサマーシトラス Snapshot ver.]]></title>
-    <link href="https://youtu.be/VzKbU9j5WnY" rel="alternate" type="text/html"/>
-    <published>2025-11-11T15:00:58.000Z</published>
-    <updated>2025-11-11T15:00:58.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VzKbU9j5WnY 【LIVE on &lt;t:1762873258:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VzKbU9j5WnY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
