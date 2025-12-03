@@ -104,9 +104,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-12-03T03:41:41.000Z",
-    "available_at": "2025-12-03T11:00:00.000Z",
+    "available_at": "2025-12-03T11:00:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -344,25 +344,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "bcPoml89MLI",
-    "title": "【雑談】4周年もろもろお疲れさまでした雑談DAY【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-02T14:39:43.000Z",
-    "available_at": "2025-12-03T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
@@ -3675,7 +3656,7 @@
   },
   {
     "id": "47ZIVluZBtA",
-    "title": "【縦型歌枠/KARAOKE】音楽って元気になれるパワーあるよね【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【縦型歌枠/KARAOKE】音楽って元気になれるパワーあるよね【 #輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-10-14T23:41:47.000Z",
@@ -4886,6 +4867,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
+    }
+  },
+  {
+    "id": "P-mLH8QifK8",
+    "title": "ReGLOSS 22の質問",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-09-09T10:00:06.000Z",
+    "available_at": "2025-09-09T10:00:06.000Z",
+    "duration": 366,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
