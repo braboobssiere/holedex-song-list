@@ -105,8 +105,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-03T05:07:47.000Z",
     "available_at": "2025-12-04T02:01:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3627,
+    "status": "past",
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive-ID",
@@ -2868,26 +2868,6 @@
     }
   },
   {
-    "id": "iSeQgBLg4f8",
-    "title": "【KARAOKE】Tako & Tori Karaoke Time!!! #kfp #takotori #キアライブ #takotime",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-14T13:06:07.000Z",
-    "available_at": "2025-11-14T11:00:56.000Z",
-    "duration": 7091,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
     "id": "s9dl-aiXSck",
     "title": "Ragebaiting You 【Anime Edition】 (it's my birthday week so you can't be mad)",
     "type": "stream",
@@ -2942,6 +2922,25 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "AoX3jC6LcEQ",
+    "title": "【縦型歌枠】お昼だよ~🎤お仕事前にうたうじょ!#shorts #歌枠 【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-12T06:09:50.000Z",
+    "available_at": "2025-12-04T03:14:56.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tLcCy2CKNEUbfQ9NblN_wlYY-TzYeWcMyGkVeMSvJvIoDtPVcCpezh87MjdwaB8TcBMcKkNG=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
