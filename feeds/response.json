@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-04T09:27:21.000Z",
     "available_at": "2025-12-04T10:00:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7425,
+    "status": "past",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-03T23:38:23.000Z",
-    "available_at": "2025-12-04T12:00:00.000Z",
+    "available_at": "2025-12-04T12:14:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 14
+    },
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -35,6 +38,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "Nm5aC27QlMc",
+    "title": "🔴【PowerWash Simulator】pew pew pew!! water gun!!! Happy Anniversary Ollie!【#LovellieUnion】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-12-03T14:10:27.000Z",
+    "available_at": "2025-12-04T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UChEe0jSUdb2ox9wQFYkByEQ",
+      "name": "Kanna Tamachi Ch.",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9zAN7qV5EazJB1ZsK7EFubYSe0xwLSODd5KfJEd6A6u-UXxpybf4aAw1gi0ih54LlwgpwsuIpQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanna Tamachi"
     }
   },
   {
@@ -4801,25 +4823,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "qfUQPdJ2N9c",
-    "title": "デビューから2周年!!一緒にむかえてくれますか?【轟はじめ/ReGLOSS】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-09-10T21:48:27.000Z",
-    "available_at": "2025-09-09T14:30:15.000Z",
-    "duration": 6709,
-    "status": "past",
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
