@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-04T14:26:15.266Z</updated>
+  <updated>2025-12-04T15:26:06.343Z</updated>
+
+  <entry>
+    <id>urn:uuid:7326ae7e-ff9e-523b-9bcb-0a78b48c1a15</id>
+    <title><![CDATA[彗星 (Instrumental)]]></title>
+    <link href="https://youtu.be/BzTNgHHXTRg" rel="alternate" type="text/html"/>
+    <published>2025-12-04T15:00:32.000Z</published>
+    <updated>2025-12-04T15:00:32.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BzTNgHHXTRg 【LIVE on &lt;t:1764860432:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BzTNgHHXTRg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:79f2bc05-b4aa-5096-92c4-de769ed78395</id>
+    <title><![CDATA[彗星]]></title>
+    <link href="https://youtu.be/E5hVng18OvA" rel="alternate" type="text/html"/>
+    <published>2025-12-04T15:00:32.000Z</published>
+    <updated>2025-12-04T15:00:32.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E5hVng18OvA 【LIVE on &lt;t:1764860432:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E5hVng18OvA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1158ca5c-4ed0-51dc-ad70-b141a81bebb7</id>
@@ -1305,34 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=RDLkK02vw7U 【LIVE on &lt;t:1762867903:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RDLkK02vw7U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:06743fb6-4ab0-590f-bba1-5177d95e404d</id>
-    <title><![CDATA[Happiness phenomenon (一条莉々華 SOLO)]]></title>
-    <link href="https://youtu.be/zGU8CSsb4Vs" rel="alternate" type="text/html"/>
-    <published>2025-11-11T15:02:01.000Z</published>
-    <updated>2025-11-11T15:02:01.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zGU8CSsb4Vs 【LIVE on &lt;t:1762873321:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zGU8CSsb4Vs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:12f0793f-256f-5598-b4e9-8f36b6c7b904</id>
-    <title><![CDATA[アワータイムイエロー]]></title>
-    <link href="https://youtu.be/vHNgQbfb43k" rel="alternate" type="text/html"/>
-    <published>2025-11-11T15:01:51.000Z</published>
-    <updated>2025-11-11T15:01:51.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vHNgQbfb43k 【LIVE on &lt;t:1762873311:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vHNgQbfb43k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
