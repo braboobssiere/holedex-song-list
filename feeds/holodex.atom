@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-05T03:26:14.674Z</updated>
+  <updated>2025-12-05T04:26:10.590Z</updated>
 
   <entry>
     <id>urn:uuid:7326ae7e-ff9e-523b-9bcb-0a78b48c1a15</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Zegz5tC3-2o 【LIVE on &lt;t:1764850461:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Zegz5tC3-2o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac485519-2f54-58f9-9ece-acc1a7008d63</id>
+    <title><![CDATA[【 LIVE-GYM直前 】定期歌枠「B'z」を歌うのら~!!!🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/wi-qdBcEsYk" rel="alternate" type="text/html"/>
+    <published>2025-12-03T14:36:27.000Z</published>
+    <updated>2025-12-03T11:59:50.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wi-qdBcEsYk 【LIVE on &lt;t:1764763190:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wi-qdBcEsYk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=D4ZXE3EktJ4 【LIVE on &lt;t:1764813665:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D4ZXE3EktJ4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ac485519-2f54-58f9-9ece-acc1a7008d63</id>
-    <title><![CDATA[【 LIVE-GYM直前 】定期歌枠「B'z」を歌うのら～！！！🎶 KARAOKE【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/wi-qdBcEsYk" rel="alternate" type="text/html"/>
-    <published>2025-12-02T16:43:48.000Z</published>
-    <updated>2025-12-03T11:59:50.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wi-qdBcEsYk 【LIVE on &lt;t:1764763190:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wi-qdBcEsYk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1011,6 +1011,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5lwO2cF5AUU 【LIVE on &lt;t:1763636425:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5lwO2cF5AUU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2c456281-92aa-55b2-8b71-348c29f10a6c</id>
+    <title><![CDATA[【縦型歌枠】ランチ歌枠だよ♡【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/_HT0XJBW3EI" rel="alternate" type="text/html"/>
+    <published>2025-11-20T12:11:15.000Z</published>
+    <updated>2025-12-05T03:05:53.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_HT0XJBW3EI 【LIVE on &lt;t:1764903953:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_HT0XJBW3EI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
