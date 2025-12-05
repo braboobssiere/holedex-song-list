@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-05T00:07:53.000Z",
-    "available_at": "2025-12-05T03:00:00.000Z",
+    "available_at": "2025-12-05T02:51:52.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -25,8 +25,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-12-04T19:50:41.000Z",
     "available_at": "2025-12-05T01:05:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5816,
+    "status": "past",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -2244,6 +2244,25 @@
     }
   },
   {
+    "id": "_HT0XJBW3EI",
+    "title": "【縦型歌枠】ランチ歌枠だよ♡【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-20T12:11:15.000Z",
+    "available_at": "2025-11-20T12:11:15.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "V817B6lO--s",
     "title": "『ホロライブごろごろマウンテン』Switch版発売決定!秘密結社holoX4周年を記念したDLC最新情報公開!【holo Indie】#ホロインディー #hololive #ホロライブ",
     "type": "stream",
@@ -2715,26 +2734,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
-    }
-  },
-  {
-    "id": "bwVGWm3kiIU",
-    "title": "#34【RiTunes Labo】生セッション歌枠：ゲスト『氷乃渚』【律可/ホロスターズ 】#りちゅらぼ",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-16T01:19:28.000Z",
-    "available_at": "2025-11-15T12:01:27.000Z",
-    "duration": 4295,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
