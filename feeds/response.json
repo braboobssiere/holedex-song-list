@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2025-12-04T19:50:41.000Z",
-    "available_at": "2025-12-05T01:00:00.000Z",
+    "available_at": "2025-12-05T01:05:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -157,6 +157,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oPU9ckNcyeHD0FFsYSxkoD1mtbslSwdmMSfoCYQWphOu5e7UeCnIF-Nt0hvvF41L5Nykga07nQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Amane Kanata"
+    }
+  },
+  {
+    "id": "m45zkmBHxLI",
+    "title": "【#holoIndie 応援大使🎮】お知らせ盛りだくさん!2周年を皆と一緒にお祝いしよ~~!【#一条莉々華 / ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-12-03T12:40:40.000Z",
+    "available_at": "2025-12-03T11:00:45.000Z",
+    "duration": 3835,
+    "status": "past",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -314,25 +333,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "m45zkmBHxLI",
-    "title": "【#holoIndie 応援大使🎮】お知らせ盛りだくさん！2周年を皆と一緒にお祝いしよ～～！【#一条莉々華 / ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-03T03:41:41.000Z",
-    "available_at": "2025-12-03T11:00:45.000Z",
-    "duration": 3851,
-    "status": "past",
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
