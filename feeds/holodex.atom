@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-07T03:26:06.817Z</updated>
+  <updated>2025-12-07T04:26:04.116Z</updated>
+
+  <entry>
+    <id>urn:uuid:c4b914b5-7a90-5df7-9626-7b27453650a9</id>
+    <title><![CDATA[【耐久歌枠】130万人目指して歌います!!!!!!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/fITg6cHYsoc" rel="alternate" type="text/html"/>
+    <published>2025-12-07T03:51:10.000Z</published>
+    <updated>2025-12-07T03:51:10.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fITg6cHYsoc 【LIVE on &lt;t:1765105200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fITg6cHYsoc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4a2e9527-e019-5c67-99dd-81cacfbeb1b3</id>
@@ -1277,20 +1291,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ZFlHEUi-5fs 【LIVE on &lt;t:1763301646:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZFlHEUi-5fs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:213512d2-70d4-598c-9ce9-5dc2295a76f7</id>
-    <title><![CDATA[【歌枠/縦型】アニソン中心に!いろいろ歌う🎤  #shorts【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/sNlJnQmJ64U" rel="alternate" type="text/html"/>
-    <published>2025-11-15T16:25:45.000Z</published>
-    <updated>2025-11-15T13:00:32.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sNlJnQmJ64U 【LIVE on &lt;t:1763211632:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sNlJnQmJ64U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
