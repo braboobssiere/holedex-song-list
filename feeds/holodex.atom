@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-11T16:26:15.576Z</updated>
+  <updated>2025-12-11T17:26:11.120Z</updated>
 
   <entry>
     <id>urn:uuid:43d53518-cb71-5a9d-857d-f16a5a2de2f8</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WjmQcRFMzVM 【LIVE on &lt;t:1765519200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WjmQcRFMzVM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f8f292b3-b090-53cf-a2a5-8234db91ec39</id>
+    <title><![CDATA[WurtS - デジタルラブ feat. 星街すいせい (Music Video)]]></title>
+    <link href="https://youtu.be/mVN8udI0rjM" rel="alternate" type="text/html"/>
+    <published>2025-12-10T08:04:25.000Z</published>
+    <updated>2025-12-10T08:04:25.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mVN8udI0rjM 【LIVE on &lt;t:1765537200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mVN8udI0rjM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1305,20 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7UlZnyO79Xg 【LIVE on &lt;t:1763542816:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7UlZnyO79Xg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a78d4d0b-b51a-555d-a986-c4ac565ca26e</id>
-    <title><![CDATA[きゅる☆ちあ (Instrumental)]]></title>
-    <link href="https://youtu.be/hvQUliCpNgA" rel="alternate" type="text/html"/>
-    <published>2025-11-18T15:02:54.000Z</published>
-    <updated>2025-11-18T15:02:54.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hvQUliCpNgA 【LIVE on &lt;t:1763478174:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hvQUliCpNgA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
