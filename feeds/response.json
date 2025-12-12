@@ -1,5 +1,24 @@
 [
   {
+    "id": "AlHBif8tFh4",
+    "title": "【歌枠】ゆるっと好きな歌をうたって過ごす枠【大神ミオ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-12T07:52:38.000Z",
+    "available_at": "2025-12-12T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "VenmdtTP3Ro",
     "title": "【推しカメ】Full LOAD #FG3Dライブ",
     "type": "stream",
@@ -82,8 +101,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-10T13:24:04.000Z",
     "available_at": "2025-12-12T06:21:47.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3861,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -2969,29 +2988,6 @@
     "live_tl_count": {
       "en": 102,
       "ja": 13
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "u5sC1bHSOBY",
-    "title": "38 HOURS OF KARAOKE START 【GRAND KARAOKE REBROADCAST PART 1】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-17T22:07:02.000Z",
-    "available_at": "2025-11-19T01:01:44.000Z",
-    "duration": 38191,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 74,
-      "ja": 7
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
