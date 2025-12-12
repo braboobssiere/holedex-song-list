@@ -20,6 +20,25 @@
     }
   },
   {
+    "id": "F-S7Ljothe8",
+    "title": "【 歌枠】世にも珍しい奇妙な歌枠~途中からメンバー限定かもしらないししないかもしれない~【ホロライブ/さくらみこ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-12T11:45:14.000Z",
+    "available_at": "2025-12-12T13:03:08.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
     "id": "mVN8udI0rjM",
     "title": "WurtS - デジタルラブ feat. 星街すいせい (Music Video)",
     "type": "stream",
@@ -85,9 +104,12 @@
     "topic_id": "Birthday",
     "published_at": "2025-12-11T05:34:36.000Z",
     "available_at": "2025-12-12T11:58:55.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 4,
+    "duration": 4268,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 43
+    },
     "channel": {
       "id": "UCjLEmnpCNeisMxy134KPwWw",
       "name": "Kobo Kanaeru Ch. hololive-ID",
@@ -2974,29 +2996,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "4gd4u2zzmHI",
-    "title": "38 HOURS OF KARAOKE 【GRAND KARAOKE REBROADCAST PART 2】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-18T10:46:49.000Z",
-    "available_at": "2025-11-19T11:39:05.000Z",
-    "duration": 39704,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 102,
-      "ja": 13
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
