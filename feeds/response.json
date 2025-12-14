@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-14T15:52:18.000Z",
-    "available_at": "2025-12-14T16:30:00.000Z",
+    "available_at": "2025-12-14T16:38:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -77,6 +77,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "ptQWL1U2y0Q",
+    "title": "【オフコラボ歌枠|OFF-COLLAB KARAOKE with KANATA】かなた先輩だいすき!!気持ちをこめて一緒に歌おう 💫🐾singing together 💓【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-13T06:04:49.000Z",
+    "available_at": "2025-12-15T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -2813,26 +2832,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ayunda Risu"
-    }
-  },
-  {
-    "id": "bquFmm718Lc",
-    "title": "【歌枠/KARAOKE】おしゃべり多めで3Dライブ前にゆるゆると歌おう~!※途中からメン限【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-21T14:28:55.000Z",
-    "available_at": "2025-11-21T13:01:15.000Z",
-    "duration": 3387,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
