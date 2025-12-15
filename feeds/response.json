@@ -9,7 +9,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "ko": 39
+      "ko": 98
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -85,8 +85,8 @@
     "topic_id": "asmr",
     "published_at": "2025-12-15T04:31:49.000Z",
     "available_at": "2025-12-15T14:00:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4640,
+    "status": "past",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -532,6 +532,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aMXcrlHw-v17QYLPwCpz7dlFYWEQTOrHEgF3yn8LRYYtiJdY7uaXcEFWlQ3MfDeMlMCD6Tkh8G0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Machita Chima"
+    }
+  },
+  {
+    "id": "wlPLYUOmtHE",
+    "title": "【チラ見せ】ReGLOSS 1st Live \"Flashpoint\"【有明アリーナ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-10T13:01:57.000Z",
+    "available_at": "2025-12-16T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5702,30 +5720,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "La+ Darknesss"
-    }
-  },
-  {
-    "id": "lVi3Wb7WShU",
-    "title": "【3D DEBUT】GIIII~MURIN! × 3D Gigi Murin desu #GIGI3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-03T01:15:50.000Z",
-    "available_at": "2025-08-03T00:02:03.000Z",
-    "duration": 4195,
-    "status": "past",
-    "songcount": 5,
-    "live_tl_count": {
-      "es": 243,
-      "ko": 2345
-    },
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
