@@ -40,13 +40,13 @@
   },
   {
     "id": "kprRKPNfP3o",
-    "title": "【3D】reveal  #calliolive",
+    "title": "【3D】reveal #calliolive",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-12-16T09:34:09.000Z",
     "available_at": "2025-12-17T01:01:29.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5647,
+    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -74,6 +74,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Minase Rio"
+    }
+  },
+  {
+    "id": "jW3DLnQvpgc",
+    "title": "【歌枠】告知あり!アニソン縛りで歌うよおおおおおおお!!!Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-15T14:13:27.000Z",
+    "available_at": "2025-12-15T12:00:59.000Z",
+    "duration": 7403,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
@@ -196,25 +216,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "jW3DLnQvpgc",
-    "title": "【歌枠】告知あり！アニソン縛りで歌うよおおおおおおお！！！Singing Stream【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T08:12:17.000Z",
-    "available_at": "2025-12-15T12:00:59.000Z",
-    "duration": 7408,
-    "status": "past",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
