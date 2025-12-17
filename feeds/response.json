@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-17T00:25:49.000Z",
-    "available_at": "2025-12-17T02:00:00.000Z",
+    "available_at": "2025-12-17T01:56:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -116,6 +116,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "ptQWL1U2y0Q",
+    "title": "【オフコラボ歌枠|OFF-COLLAB KARAOKE with KANATA】かなた先輩だいすき!!気持ちをこめて一緒に歌おう 💫🐾singing together 💓【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-15T12:34:57.000Z",
+    "available_at": "2025-12-15T10:54:58.000Z",
+    "duration": 5357,
+    "status": "past",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 403
+    },
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
@@ -372,29 +395,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "ptQWL1U2y0Q",
-    "title": "【オフコラボ歌枠｜OFF-COLLAB KARAOKE with KANATA】かなた先輩だいすき！！気持ちをこめて一緒に歌おう 💫🐾singing together 💓【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-13T06:04:49.000Z",
-    "available_at": "2025-12-15T10:54:58.000Z",
-    "duration": 5406,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 403
-    },
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
