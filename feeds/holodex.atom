@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-17T04:26:12.556Z</updated>
+  <updated>2025-12-17T05:26:10.145Z</updated>
 
   <entry>
     <id>urn:uuid:0e7a0537-a90b-5f54-a7b1-11627b9a182c</id>
@@ -34,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4dd49403-7c18-5923-908a-aebb3e34afd7</id>
+    <title><![CDATA[【そらぱ予習に】ときのそらコールおすすめ楽曲紹介【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/NQRDm7BIgf0" rel="alternate" type="text/html"/>
+    <published>2025-12-15T15:59:23.000Z</published>
+    <updated>2025-12-15T13:45:09.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NQRDm7BIgf0 【LIVE on &lt;t:1765806309:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NQRDm7BIgf0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:330a46a0-4f3c-523f-8e3f-a2345dd08f99</id>
     <title><![CDATA[【歌枠】告知あり!アニソン縛りで歌うよおおおおおおお!!!Singing Stream【ホロライブ / AZKi】]]></title>
     <link href="https://youtu.be/jW3DLnQvpgc" rel="alternate" type="text/html"/>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jW3DLnQvpgc 【LIVE on &lt;t:1765800059:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jW3DLnQvpgc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4dd49403-7c18-5923-908a-aebb3e34afd7</id>
-    <title><![CDATA[【そらぱ予習に】ときのそらコールおすすめ楽曲紹介【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/NQRDm7BIgf0" rel="alternate" type="text/html"/>
-    <published>2025-12-15T12:46:13.000Z</published>
-    <updated>2025-12-15T13:45:09.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NQRDm7BIgf0 【LIVE on &lt;t:1765806309:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NQRDm7BIgf0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
