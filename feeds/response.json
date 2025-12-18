@@ -1,24 +1,5 @@
 [
   {
-    "id": "JvKWEaWkJqk",
-    "title": "【 #RMBafter歌枠リレー 】あのライブをもう一度！？【日裏クロ / ネオポルテ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-18T18:24:28.000Z",
-    "available_at": "2025-12-19T11:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCElYE3bfzjjmJ9xwjvro9Yw",
-      "name": "日裏クロ / Hiura Kuro",
-      "org": "Neo-Porte",
-      "suborg": "0m6th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3G_lGFo9Cxr6W9ZISjl6MlWqSFk3K-HfbQ8FdXS-3X2jGB0BDvNouRI7b5M75jphw4S4SIa1VJ4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hiura Kuro"
-    }
-  },
-  {
     "id": "kprRKPNfP3o",
     "title": "【3D】reveal  #calliolive",
     "type": "stream",
@@ -2725,6 +2706,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "pvbazObiwak",
+    "title": "【3D ROULETTE KARAOKE SINGSUBATHON DAY 2】SINGING UNTIL THAT TIMER RUNS OUT | VERTICAL",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-24T09:37:08.000Z",
+    "available_at": "2025-11-24T23:56:04.000Z",
+    "duration": 9811,
+    "status": "missing",
+    "live_tl_count": {
+      "en": 5,
+      "ja": 5
+    },
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
