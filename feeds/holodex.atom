@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-18T08:56:09.083Z</updated>
+  <updated>2025-12-18T09:26:11.095Z</updated>
+
+  <entry>
+    <id>urn:uuid:fdab4186-bea1-5d90-a94e-7387e042d285</id>
+    <title><![CDATA[縦型歌枠!?]]></title>
+    <link href="https://youtu.be/rQJ3AlQSCJ4" rel="alternate" type="text/html"/>
+    <published>2025-12-18T09:03:27.000Z</published>
+    <updated>2025-12-18T09:03:44.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rQJ3AlQSCJ4 【LIVE on &lt;t:1766048624:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rQJ3AlQSCJ4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:707e8f88-e00e-5186-9956-cdc4f513f9df</id>
