@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-20T16:26:10.267Z</updated>
+  <updated>2025-12-20T16:56:15.812Z</updated>
+
+  <entry>
+    <id>urn:uuid:0c46c018-7481-5706-a055-341a0d02ed1a</id>
+    <title><![CDATA[【歌枠】失恋ソング縛り💔【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/j3kRAzYZfgc" rel="alternate" type="text/html"/>
+    <published>2025-12-20T16:19:10.000Z</published>
+    <updated>2025-12-20T16:25:30.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=j3kRAzYZfgc 【LIVE on &lt;t:1766247930:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j3kRAzYZfgc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:237ad4e1-fb68-5b19-ab90-f48e4f3c322f</id>
