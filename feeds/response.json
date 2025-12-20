@@ -9,8 +9,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 10,
-      "ko": 30
+      "en": 24,
+      "ko": 82
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -20,25 +20,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "zhG0EjnDR5Q",
-    "title": "【KARAOKE】🎶First ever Karaoke at my new place!!! Will I get noise complaints...?🎶",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-19T17:19:01.000Z",
-    "available_at": "2025-12-20T03:00:52.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UC2hx0xVkMoHGWijwr_lA01w",
-      "name": "Axel Syrios Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Axel Syrios"
     }
   },
   {
@@ -367,7 +348,7 @@
     "available_at": "2025-12-15T12:34:33.000Z",
     "duration": 24995,
     "status": "past",
-    "songcount": 30,
+    "songcount": 35,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -2205,6 +2186,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "1xM8DkOdZpM",
+    "title": "【 縦型/歌枠】NO11💜今日はjpop探索にいってみるる~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-11-29T16:22:17.000Z",
+    "available_at": "2025-11-29T14:02:08.000Z",
+    "duration": 7898,
+    "status": "past",
+    "songcount": 6,
+    "live_tl_count": {
+      "en": 46
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
     }
   },
   {
