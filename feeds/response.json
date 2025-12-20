@@ -3,14 +3,14 @@
     "id": "6ozExN51pik",
     "title": "【オリジナル曲】そらぱに向かって歌う枠!【ホロライブ/ときのそら】",
     "type": "stream",
-    "topic_id": "Original_Song",
+    "topic_id": "singing",
     "published_at": "2025-12-20T04:49:04.000Z",
     "available_at": "2025-12-20T05:27:33.000Z",
     "duration": 0,
     "status": "live",
     "live_tl_count": {
       "en": 25,
-      "ko": 117
+      "ko": 160
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -2408,25 +2408,6 @@
     }
   },
   {
-    "id": "kvDr26xpxHk",
-    "title": "【UNARCHIVED THANKSGIVING】HAPPY KARAOKE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-11-27T17:33:33.000Z",
-    "available_at": "2025-11-27T23:57:34.000Z",
-    "duration": 10305,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
-    }
-  },
-  {
     "id": "UL72IGNb7rI",
     "title": "【4周年カウントダウン】告知アリ‼初めての手描き切り抜き鑑賞会しながら4周年を一緒に迎えよう❣【博衣こより/ホロライブ】",
     "type": "stream",
@@ -3127,6 +3108,26 @@
     "published_at": "2025-11-20T11:55:06.000Z",
     "available_at": "2025-11-20T11:55:06.000Z",
     "duration": 189,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "HiUctpL9TEw",
+    "title": "【MV】スキデカ!~スキはデカく回顧録?~ / 秘密結社holoX ラプラス・ダークネス×博衣こより【#SSholoX】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-11-20T11:50:06.000Z",
+    "available_at": "2025-11-20T11:50:06.000Z",
+    "duration": 201,
     "status": "past",
     "songcount": 1,
     "channel": {
