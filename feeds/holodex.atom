@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-21T20:56:08.805Z</updated>
+  <updated>2025-12-21T21:26:06.797Z</updated>
 
   <entry>
     <id>urn:uuid:d63dd798-cc1f-54e1-90e7-6710096dd6f4</id>
@@ -132,6 +132,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d86a74c7-7601-5df2-b61c-864dbf728098</id>
+    <title><![CDATA[【オリジナル曲】そらぱに向かって歌う枠!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/6ozExN51pik" rel="alternate" type="text/html"/>
+    <published>2025-12-20T07:56:23.000Z</published>
+    <updated>2025-12-20T05:27:33.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6ozExN51pik 【LIVE on &lt;t:1766208453:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ozExN51pik/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:b2c0fdbc-473c-5ad8-a2a5-0d56d7894abe</id>
     <title><![CDATA[【名探偵カナタン】3Dかなあずラストコラボ！謎を解くと？スペシャルゲスト：やなぎなぎ【ホロライブ / AZKi / 天音かなた】#かなあず]]></title>
     <link href="https://youtu.be/3ClR51LxbaM" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3ClR51LxbaM 【LIVE on &lt;t:1766311227:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3ClR51LxbaM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d86a74c7-7601-5df2-b61c-864dbf728098</id>
-    <title><![CDATA[【オリジナル曲】そらぱに向かって歌う枠！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/6ozExN51pik" rel="alternate" type="text/html"/>
-    <published>2025-12-20T04:49:04.000Z</published>
-    <updated>2025-12-20T05:27:33.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6ozExN51pik 【LIVE on &lt;t:1766208453:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ozExN51pik/maxresdefault.jpg"/>
   </entry>
 
   <entry>
