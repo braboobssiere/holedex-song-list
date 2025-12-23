@@ -1,5 +1,24 @@
 [
   {
+    "id": "9bjei2JJqh8",
+    "title": "【#ホロクリスマス歌枠リレー】メリークリスマス🎄❕久々のお歌【水宮枢/ホロライブDEV_IS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-23T19:51:15.000Z",
+    "available_at": "2025-12-24T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "cOG_l4H76wg",
     "title": "【#ホロクリスマス歌枠リレー|OFF-COLLAB #holoAdvent KARAOKE】仲良しクリスマスソング🎅✨️ christmas songs for you 🐾 【FUWAMOCO】",
     "type": "stream",
@@ -16,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "4m5bGOoG85Y",
+    "title": "【#ホロクリスマス歌枠リレー 】メリークリスマス🎄✊【天音かなた/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-23T17:52:23.000Z",
+    "available_at": "2025-12-24T13:40:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KjtzUgvj7v4socyPBkwZVlRJC9YU7Seka_a2lYf-LuBgc_YXXknzaR--5rbtYR46Q-JAWcR-=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
     }
   },
   {
@@ -436,6 +474,7 @@
     "available_at": "2025-12-22T09:00:52.000Z",
     "duration": 8153,
     "status": "past",
+    "songcount": 22,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -1751,26 +1790,6 @@
     }
   },
   {
-    "id": "T6YQ-kQGhKc",
-    "title": "MILLENNIUM: Project Mili Fan Concert 2025【#MillenniumVirtualConcert】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-06T14:46:13.000Z",
-    "available_at": "2025-12-06T13:00:12.000Z",
-    "duration": 4809,
-    "status": "past",
-    "songcount": 20,
-    "channel": {
-      "id": "UCJ4O6PWA47f6XbCgrLQNqEQ",
-      "name": "Rie Ch. 姫宮りえ【Phase Connect】",
-      "org": "Phase Connect",
-      "suborg": "20Phase 02 - ALiAS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/a1nFvkZdpMl3rO7Zs2F2wG7_Mlhhv0CuM8QKZJODJoyOXjn4X0CW6dmpSvKuFEHPrCJmr_cr_Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemiya Rie"
-    }
-  },
-  {
     "id": "2-1XK8j3rMQ",
     "title": "【OFF COLLAB Q&A】INVITING MY PILATES TEACHER TO STREAM #REINEver5ary 【Pavolia Reine】",
     "type": "stream",
@@ -1906,26 +1925,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "_HT0XJBW3EI",
-    "title": "【縦型歌枠】ランチ歌枠だよ♡【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-05T05:12:14.000Z",
-    "available_at": "2025-12-05T03:05:53.000Z",
-    "duration": 5700,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
