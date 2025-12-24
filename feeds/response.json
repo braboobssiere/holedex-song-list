@@ -1,5 +1,24 @@
 [
   {
+    "id": "55urmLOIktc",
+    "title": "【歌枠】クリスマスは配信ないと言ったな。あれは嘘だ。【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T10:23:56.000Z",
+    "available_at": "2025-12-24T10:31:51.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
     "id": "F9rtc6sop2A",
     "title": "【歌枠】クリスマス歌枠🎄🎁【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -178,9 +197,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:43:55.000Z",
-    "available_at": "2025-12-24T10:40:00.000Z",
+    "available_at": "2025-12-24T10:39:45.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
       "name": "Marine Ch. 宝鐘マリン",
@@ -390,8 +409,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-23T15:59:28.000Z",
     "available_at": "2025-12-24T10:20:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1160,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -404,7 +423,7 @@
   },
   {
     "id": "cfX_AMl3R5I",
-    "title": "【#ホロクリスマス歌枠リレー】クリスマスイブもホロライブと過ごそ🎶Happy Christmas Eve!🎄💖【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+    "title": "【＃ホロクリスマス歌枠リレー】クリスマスイブもホロライブと過ごそ🎶Happy Christmas Eve!🎄💖【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T15:43:13.000Z",
@@ -1434,29 +1453,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "ptQWL1U2y0Q",
-    "title": "【オフコラボ歌枠|OFF-COLLAB KARAOKE with KANATA】かなた先輩だいすき!!気持ちをこめて一緒に歌おう 💫🐾singing together 💓【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T12:34:57.000Z",
-    "available_at": "2025-12-15T10:54:58.000Z",
-    "duration": 5357,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 403
-    },
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
