@@ -63,8 +63,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-24T11:18:06.000Z",
     "available_at": "2025-12-24T13:03:30.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4729,
+    "status": "past",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -194,33 +194,14 @@
     }
   },
   {
-    "id": "jx7CmINKOH8",
-    "title": "【mocopi】3D蟹鍋クリスマスパーティー【荒咬オウガ /ホロスターズ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-24T06:11:22.000Z",
-    "available_at": "2025-12-24T12:05:57.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UCwL7dgTxKo8Y4RFIKWaf8gA",
-      "name": "Oga Ch.荒咬オウガ",
-      "org": "Hololive",
-      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aragami Oga"
-    }
-  },
-  {
     "id": "5IcmqVUyba8",
-    "title": "【3D】リア凸来るまで帰れないクリスマスパーティ【ホロライブ/兎田ぺこら】#メリクリぺこパーティ",
+    "title": "【3D】リア凸来るまで帰れないクリスマスパーティ【ホロライブ/兎田ぺこら】＃メリクリぺこパーティ",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-12-24T05:23:52.000Z",
     "available_at": "2025-12-24T11:06:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10443,
+    "status": "past",
     "channel": {
       "id": "UC1DCedRgGHBdm81E1llLhOQ",
       "name": "Pekora Ch. 兎田ぺこら",
@@ -237,9 +218,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T05:01:24.000Z",
-    "available_at": "2025-12-24T14:00:00.000Z",
+    "available_at": "2025-12-24T14:01:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -296,7 +277,7 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:45:08.000Z",
-    "available_at": "2025-12-24T14:30:00.000Z",
+    "available_at": "2025-12-24T14:40:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -429,9 +410,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T18:31:47.000Z",
-    "available_at": "2025-12-24T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-12-24T14:00:08.000Z",
+    "duration": 1200,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -448,9 +430,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T18:03:26.000Z",
-    "available_at": "2025-12-24T14:20:00.000Z",
+    "available_at": "2025-12-24T14:20:42.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -468,9 +450,9 @@
     "topic_id": "singing",
     "published_at": "2025-12-23T17:52:23.000Z",
     "available_at": "2025-12-24T13:39:20.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 2,
+    "duration": 1236,
+    "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCZlDXzGoo7d44bwdNObFacg",
       "name": "Kanata Ch. 天音かなた",
@@ -5597,6 +5579,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/-irEEOX-acDk9pCgjSfg96Miwg12VpT_rn4QItMuJy44SeJBUroaIIkWUfKzZVuRpITnO3950Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vain"
+    }
+  },
+  {
+    "id": "XjUHLky--oM",
+    "title": "EXPO 2025 Virtual Osaka Helthcare Pavilion\"Eudaimonia\" presentsVIRTUAL LIVE「ARK-或ル世界-」【再放送】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-19T09:00:06.000Z",
+    "available_at": "2025-08-19T09:00:06.000Z",
+    "duration": 5283,
+    "status": "missing",
+    "channel": {
+      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
+      "name": "花譜 -KAF-",
+      "org": "KAMITSUBAKI",
+      "suborg": "11PHENOMENON RECORD",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "KAF"
     }
   },
   {
