@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-24T11:56:09.824Z</updated>
+  <updated>2025-12-24T12:26:15.157Z</updated>
+
+  <entry>
+    <id>urn:uuid:f2e2a091-7a7a-5bde-b8e7-b14c1d765166</id>
+    <title><![CDATA[【Original MV】ぺこぺこ!! チキンフィーバー☆【ホロライブ/兎田ぺこら】]]></title>
+    <link href="https://youtu.be/qY3i8L-YmPU" rel="alternate" type="text/html"/>
+    <published>2025-12-24T08:56:57.000Z</published>
+    <updated>2025-12-24T12:30:00.000Z</updated>
+    <author>
+      <name>Pekora Ch. 兎田ぺこら</name>
+      <uri>https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qY3i8L-YmPU 【LIVE on &lt;t:1766579400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qY3i8L-YmPU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:30f38b82-8887-5795-9dc0-836368fd70dc</id>
@@ -332,12 +346,12 @@
     <title><![CDATA[【 #ホロクリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら!!!🤟(・o・🍬)【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/8aq6j5CApD4" rel="alternate" type="text/html"/>
     <published>2025-12-23T13:16:09.000Z</published>
-    <updated>2025-12-24T12:20:00.000Z</updated>
+    <updated>2025-12-24T12:20:10.000Z</updated>
     <author>
       <name>Luna Ch. 姫森ルーナ</name>
       <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8aq6j5CApD4 【LIVE on &lt;t:1766578800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8aq6j5CApD4 【LIVE on &lt;t:1766578810:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8aq6j5CApD4/maxresdefault.jpg"/>
   </entry>
 
@@ -371,15 +385,15 @@
 
   <entry>
     <id>urn:uuid:450c1827-f7ef-5841-a7cf-b50fab3ade2f</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】21:00~ピンク髪3連星のトップバッター!いきます!メリクリ~~~!🎄【博衣こより/ホロライブ】]]></title>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】21:00～ピンク髪3連星のトップバッター！いきます！メリクリ～～～！🎄【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/ocOXEqMOzAc" rel="alternate" type="text/html"/>
     <published>2025-12-23T09:20:35.000Z</published>
-    <updated>2025-12-24T12:00:00.000Z</updated>
+    <updated>2025-12-24T11:59:21.000Z</updated>
     <author>
       <name>Koyori ch. 博衣こより - holoX -</name>
       <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ocOXEqMOzAc 【LIVE on &lt;t:1766577600:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ocOXEqMOzAc 【LIVE on &lt;t:1766577561:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ocOXEqMOzAc/maxresdefault.jpg"/>
   </entry>
 
@@ -1445,20 +1459,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_mThZIRqIBs 【LIVE on &lt;t:1763773211:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_mThZIRqIBs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:52808491-9ab3-5a7c-b10b-32c2671b507c</id>
-    <title><![CDATA[MIR//or]]></title>
-    <link href="https://youtu.be/wz-_VOo9D6o" rel="alternate" type="text/html"/>
-    <published>2025-11-21T15:02:04.000Z</published>
-    <updated>2025-11-21T15:02:04.000Z</updated>
-    <author>
-      <name>Ayunda Risu Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wz-_VOo9D6o 【LIVE on &lt;t:1763737324:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wz-_VOo9D6o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
