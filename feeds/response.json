@@ -66,6 +66,9 @@
     "available_at": "2025-12-24T10:01:35.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
       "name": "Nakiri Ayame Ch. 百鬼あやめ",
@@ -102,8 +105,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-24T06:20:57.000Z",
     "available_at": "2025-12-24T11:19:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1210,
+    "status": "past",
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -622,9 +625,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T13:11:27.000Z",
-    "available_at": "2025-12-24T11:40:00.000Z",
+    "available_at": "2025-12-24T11:40:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -676,7 +679,7 @@
   },
   {
     "id": "5ss8GG5azNs",
-    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスにイチャイチャするか~(# ﾟДﾟ)NEXT⇒@TakaneLui【虎金妃笑虎】",
+    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスにイチャイチャするか～(# ﾟДﾟ)NEXT⇒＠TakaneLui【虎金妃笑虎】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T09:01:48.000Z",
