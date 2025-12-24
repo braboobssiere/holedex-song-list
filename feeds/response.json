@@ -1,5 +1,43 @@
 [
   {
+    "id": "V5K53F0qRQ4",
+    "title": "【歌枠 / karaoke】アイドルとして、 ※アーカイブメン限  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T12:39:30.000Z",
+    "available_at": "2025-12-24T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "qY3i8L-YmPU",
+    "title": "【Original MV】ぺこぺこ!! チキンフィーバー☆【ホロライブ/兎田ぺこら】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2025-12-24T12:30:07.000Z",
+    "available_at": "2025-12-24T12:30:07.000Z",
+    "duration": 261,
+    "status": "past",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "99nRoAFWOBs",
     "title": "【歌枠】メ歌リークリス枠マス【影山シエン/ホロスターズ】",
     "type": "stream",
@@ -25,8 +63,8 @@
     "topic_id": "Anniversary",
     "published_at": "2025-12-24T11:00:06.000Z",
     "available_at": "2025-12-24T11:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5372,
+    "status": "past",
     "original_channel_id": "UC3G2QylAJ8NN3_ZzrPV6vzg",
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -58,35 +96,16 @@
     }
   },
   {
-    "id": "qY3i8L-YmPU",
-    "title": "【Original MV】ぺこぺこ!! チキンフィーバー☆【ホロライブ/兎田ぺこら】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-12-24T08:56:57.000Z",
-    "available_at": "2025-12-24T12:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
-    }
-  },
-  {
     "id": "F9rtc6sop2A",
     "title": "【歌枠】クリスマス歌枠🎄🎁【百鬼あやめ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T08:24:27.000Z",
     "available_at": "2025-12-24T10:01:35.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9216,
+    "status": "past",
     "live_tl_count": {
-      "en": 16
+      "en": 19
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -277,9 +296,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:36:11.000Z",
-    "available_at": "2025-12-24T12:40:00.000Z",
+    "available_at": "2025-12-24T12:41:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -621,13 +640,16 @@
   },
   {
     "id": "8aq6j5CApD4",
-    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら!!!🤟(・o・🍬)【姫森ルーナ/ホロライブ】",
+    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら！！！🤟(・o・🍬)【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T13:16:09.000Z",
     "available_at": "2025-12-24T12:20:10.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1248,
+    "status": "past",
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -1392,26 +1414,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "-V2hS5-oNCw",
-    "title": "【歌枠 / karaoke】毎日大事にしよう。  / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T19:47:23.000Z",
-    "available_at": "2025-12-15T12:34:33.000Z",
-    "duration": 24995,
-    "status": "past",
-    "songcount": 57,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
