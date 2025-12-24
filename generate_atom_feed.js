@@ -57,7 +57,7 @@ function createAtomFeed(videos, feedUrl) {
       updated = availableAt.toISOString();
     } else {
       published = publishedAt.toISOString();
-      updated = publishedAt.toISOString();
+      updated = availableAt.toISOString();
     }
 
     const timeZoneOptions = {
