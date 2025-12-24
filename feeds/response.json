@@ -1,5 +1,24 @@
 [
   {
+    "id": "dhjTuybQbu0",
+    "title": "「IRIS OUT」のMV撮影したら、お姉ちゃんが歌ってくれた⌒₊˚ ❤︎ / 天音こなた feat.天音かなた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T07:48:01.000Z",
+    "available_at": "2025-12-24T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. 天音かなた",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KjtzUgvj7v4socyPBkwZVlRJC9YU7Seka_a2lYf-LuBgc_YXXknzaR--5rbtYR46Q-JAWcR-=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Amane Kanata"
+    }
+  },
+  {
     "id": "AgkZSeXBg9Y",
     "title": "歌枠🎄 【 奏手イヅル 】",
     "type": "stream",
@@ -96,13 +115,14 @@
   },
   {
     "id": "WXjdzKMvuok",
-    "title": "【#ホロクリスマス歌枠リレー】クリスマスを感じなさい!!!!!!!!!!!!!!!!!!!!!【尾丸ポルカ/ホロライブ】",
+    "title": "【#ホロクリスマス歌枠リレー】クリスマスを感じなさい！！！！！！！！！！！！！！！！！！！！！【尾丸ポルカ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:59:16.000Z",
-    "available_at": "2025-12-24T08:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-12-24T07:59:35.000Z",
+    "duration": 1234,
+    "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -119,9 +139,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:56:46.000Z",
-    "available_at": "2025-12-24T08:20:00.000Z",
+    "available_at": "2025-12-24T08:19:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
@@ -519,7 +539,7 @@
   },
   {
     "id": "8aq6j5CApD4",
-    "title": "【 #クリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら!!!🤟(・o・🍬)【姫森ルーナ/ホロライブ】",
+    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら!!!🤟(・o・🍬)【姫森ルーナ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T13:16:09.000Z",
@@ -620,9 +640,9 @@
     "topic_id": "singing",
     "published_at": "2025-12-23T08:49:26.000Z",
     "available_at": "2025-12-24T07:40:20.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 2,
+    "duration": 1188,
+    "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -1436,25 +1456,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "8HHFY6EsUvY",
-    "title": "【歌枠】歌いたい日は歌うのが一番だとおもうのです。【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T09:22:32.000Z",
-    "available_at": "2025-12-15T10:00:51.000Z",
-    "duration": 6364,
-    "status": "missing",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
