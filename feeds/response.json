@@ -1,5 +1,24 @@
 [
   {
+    "id": "P2yPNDBwrVw",
+    "title": "【歌枠】深夜に少し歌ってく!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T14:51:32.000Z",
+    "available_at": "2025-12-24T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "WWPZ8utlwug",
     "title": "Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.",
     "type": "stream",
@@ -162,8 +181,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-24T07:01:27.000Z",
     "available_at": "2025-12-24T13:05:05.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5965,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -273,13 +292,13 @@
   },
   {
     "id": "HvSp11djYFQ",
-    "title": "≪UNARCHIVED KARAOKE・歌枠≫ IT'S THE MOST WONDERFUL TIME OF THE YEAR #shorts",
+    "title": "≪UNARCHIVED KARAOKE・歌枠≫ GIMME 1,111,111 FOR XMAS #shorts",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T04:45:08.000Z",
-    "available_at": "2025-12-24T14:40:00.000Z",
+    "available_at": "2025-12-24T14:40:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -372,9 +391,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T19:32:31.000Z",
-    "available_at": "2025-12-24T14:40:00.000Z",
+    "available_at": "2025-12-24T14:35:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -426,13 +445,13 @@
   },
   {
     "id": "19H-RtnV-MU",
-    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス!みんなで楽しもう!!!【角巻わため/ホロライブ4期生】",
+    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス！みんなで楽しもう！！！【角巻わため/ホロライブ４期生】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T18:03:26.000Z",
     "available_at": "2025-12-24T14:20:42.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1279,
+    "status": "past",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -1377,25 +1396,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "LIBuLHisGQc",
-    "title": "【UNARCHIVED SINGING PRACTICE】LEARNING NEW SONGS!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-17T00:25:49.000Z",
-    "available_at": "2025-12-17T01:56:58.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
