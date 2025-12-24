@@ -1,5 +1,24 @@
 [
   {
+    "id": "WWPZ8utlwug",
+    "title": "Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T13:18:21.000Z",
+    "available_at": "2025-12-25T07:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "name": "Vestia Zeta Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Vestia Zeta"
+    }
+  },
+  {
     "id": "V5K53F0qRQ4",
     "title": "【歌枠 / karaoke】アイドルとして、 ※アーカイブメン限  / アステル",
     "type": "stream",
@@ -43,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T11:18:06.000Z",
-    "available_at": "2025-12-24T13:00:00.000Z",
+    "available_at": "2025-12-24T13:03:30.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -96,6 +115,25 @@
     }
   },
   {
+    "id": "JPImd-muSsY",
+    "title": "Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T09:41:59.000Z",
+    "available_at": "2025-12-25T07:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
+      "name": "Vestia Zeta Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Vestia Zeta"
+    }
+  },
+  {
     "id": "F9rtc6sop2A",
     "title": "【歌枠】クリスマス歌枠🎄🎁【百鬼あやめ/ホロライブ】",
     "type": "stream",
@@ -123,9 +161,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-24T07:01:27.000Z",
-    "available_at": "2025-12-24T13:00:00.000Z",
+    "available_at": "2025-12-24T13:05:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -297,8 +335,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-24T04:36:11.000Z",
     "available_at": "2025-12-24T12:41:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1159,
+    "status": "past",
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -372,9 +410,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T19:09:13.000Z",
-    "available_at": "2025-12-24T13:20:00.000Z",
+    "available_at": "2025-12-24T13:15:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -564,13 +602,13 @@
   },
   {
     "id": "vFV-Hk4K-d8",
-    "title": "【 #ホロクリスマス歌枠リレー 】 22時~あわてんぼうのろぼたくろーすも参戦~~🎅【ホロライブ/ ロボ子さん 】",
+    "title": "【 #ホロクリスマス歌枠リレー 】 22時～あわてんぼうのろぼたくろーすも参戦～～🎅【ホロライブ/ ロボ子さん 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-23T13:51:56.000Z",
-    "available_at": "2025-12-24T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2025-12-24T13:00:39.000Z",
+    "duration": 1162,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -1414,49 +1452,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "-eAgQGfui5o",
-    "title": "【 歌枠 l KARAOKE 】リハビリという名の歌いたいだけ幽霊【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T16:36:51.000Z",
-    "available_at": "2025-12-15T16:59:33.000Z",
-    "duration": 6924,
-    "status": "past",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
-    }
-  },
-  {
-    "id": "NQRDm7BIgf0",
-    "title": "【そらぱ予習に】ときのそらコールおすすめ楽曲紹介【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-15T15:59:23.000Z",
-    "available_at": "2025-12-15T13:45:09.000Z",
-    "duration": 7613,
-    "status": "past",
-    "songcount": 4,
-    "live_tl_count": {
-      "en": 5,
-      "ko": 123
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
