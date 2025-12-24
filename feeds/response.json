@@ -459,6 +459,7 @@
     "available_at": "2025-12-24T13:15:36.000Z",
     "duration": 1436,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -786,6 +787,25 @@
     }
   },
   {
+    "id": "NsueHCfU1Ak",
+    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-23T11:04:18.000Z",
+    "available_at": "2025-12-25T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
     "id": "ocOXEqMOzAc",
     "title": "【 #ホロクリスマス歌枠リレー 】21:00～ピンク髪3連星のトップバッター！いきます！メリクリ～～～！🎄【博衣こより/ホロライブ】",
     "type": "stream",
@@ -960,6 +980,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "YDlJA_eGX7k",
+    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-22T12:05:02.000Z",
+    "available_at": "2025-12-25T12:00:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -5530,26 +5569,6 @@
     }
   },
   {
-    "id": "HzTiec89h90",
-    "title": "【Day 1】hololive English 3rd Concert -All for One-【Free Preview】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-23T22:34:33.000Z",
-    "available_at": "2025-08-23T21:30:27.000Z",
-    "duration": 3595,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
-    }
-  },
-  {
     "id": "lZ8nj8r_ZCo",
     "title": "[ASMR Teaser] Viewfinder 003",
     "type": "stream",
@@ -5585,25 +5604,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/-irEEOX-acDk9pCgjSfg96Miwg12VpT_rn4QItMuJy44SeJBUroaIIkWUfKzZVuRpITnO3950Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vain"
-    }
-  },
-  {
-    "id": "XjUHLky--oM",
-    "title": "EXPO 2025 Virtual Osaka Helthcare Pavilion\"Eudaimonia\" presentsVIRTUAL LIVE「ARK-或ル世界-」【再放送】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-19T09:00:06.000Z",
-    "available_at": "2025-08-19T09:00:06.000Z",
-    "duration": 5283,
-    "status": "missing",
-    "channel": {
-      "id": "UCQ1U65-CQdIoZ2_NA4Z4F7A",
-      "name": "花譜 -KAF-",
-      "org": "KAMITSUBAKI",
-      "suborg": "11PHENOMENON RECORD",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/78Fnb6YkudgD4OPMHJ5oYFv8zFPP81omr-xwJu3ri6XRTaTASDelk04a48Sb3vwwSOqVW2bUMb8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "KAF"
     }
   },
   {
