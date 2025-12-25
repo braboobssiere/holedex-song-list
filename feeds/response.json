@@ -1,5 +1,24 @@
 [
   {
+    "id": "Kt9Qtp5GfDU",
+    "title": "【JSP2】3Dリオニコ見守りホラゲ【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-25T19:43:54.000Z",
+    "available_at": "2025-12-26T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "RFuk-X26VyI",
     "title": "【MoonUtau】Chill for karaoke【Archive】",
     "type": "stream",
@@ -421,6 +440,7 @@
     "available_at": "2025-12-24T13:03:30.000Z",
     "duration": 4729,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UChSvpZYRPh0FvG4SJGSga3g",
       "name": "Shien Ch.影山シエン",
@@ -460,6 +480,7 @@
     "available_at": "2025-12-24T10:31:51.000Z",
     "duration": 1404,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCGNI4MENvnsymYjKiZwv9eg",
       "name": "Temma Ch. 岸堂天真",
@@ -498,6 +519,7 @@
     "available_at": "2025-12-24T10:01:35.000Z",
     "duration": 9216,
     "status": "past",
+    "songcount": 13,
     "live_tl_count": {
       "en": 19
     },
@@ -5527,25 +5549,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "c3uO-sYEfek",
-    "title": "【3D】水着美女 vs 水着拝み隊【#水着美女釣り】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-28T09:00:06.000Z",
-    "available_at": "2025-08-28T09:00:06.000Z",
-    "duration": 1328,
-    "status": "past",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
