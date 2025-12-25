@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-25T22:56:16.458Z</updated>
+  <updated>2025-12-25T23:26:07.600Z</updated>
 
   <entry>
     <id>urn:uuid:457bf238-e80d-5160-bacc-83fb839522f9</id>
@@ -272,6 +272,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0e9e9e6f-145b-50fc-bc1c-877cc4efcfc6</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】2枠目🎄めりーくりすまーーーす🎁【常闇トワ/ホロライブ】]]></title>
+    <link href="https://youtu.be/B7Jyh7XuOMw" rel="alternate" type="text/html"/>
+    <published>2025-12-24T08:03:41.000Z</published>
+    <updated>2025-12-24T07:40:20.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B7Jyh7XuOMw 【LIVE on &lt;t:1766562020:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7Jyh7XuOMw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0dc109ad-a7a7-5bd8-af3e-c76199be2ca2</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】今年もみんなと一緒に歌枠で過ごすクリスマス🎄【大神ミオ】]]></title>
+    <link href="https://youtu.be/PHv4s2N__TI" rel="alternate" type="text/html"/>
+    <published>2025-12-24T07:45:11.000Z</published>
+    <updated>2025-12-24T07:15:23.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PHv4s2N__TI 【LIVE on &lt;t:1766560523:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PHv4s2N__TI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:44e2d666-65aa-5dcb-a97f-7455e94d6820</id>
     <title><![CDATA[【 #ホロクリスマス歌枠リレー 】久々歌枠‼なに歌おうかな☺【鷹嶺ルイ/ホロライブ】]]></title>
     <link href="https://youtu.be/VzTLV6Pd0TY" rel="alternate" type="text/html"/>
@@ -454,20 +482,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0dc109ad-a7a7-5bd8-af3e-c76199be2ca2</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】今年もみんなと一緒に歌枠で過ごすクリスマス🎄【大神ミオ】]]></title>
-    <link href="https://youtu.be/PHv4s2N__TI" rel="alternate" type="text/html"/>
-    <published>2025-12-23T17:35:43.000Z</published>
-    <updated>2025-12-24T07:15:23.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PHv4s2N__TI 【LIVE on &lt;t:1766560523:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PHv4s2N__TI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:61ba2882-5bf1-5ca3-a563-a1803c6983f1</id>
     <title><![CDATA[【#ホロクリスマス歌枠リレー】ｸｰﾘｽﾏｽが今年もやってきた！！！🎄【輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/FLHyuVKGjzs" rel="alternate" type="text/html"/>
@@ -647,20 +661,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5ss8GG5azNs 【LIVE on &lt;t:1766573970:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5ss8GG5azNs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0e9e9e6f-145b-50fc-bc1c-877cc4efcfc6</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】2枠目🎄めりーくりすまーーーす🎁【常闇トワ/ホロライブ】]]></title>
-    <link href="https://youtu.be/B7Jyh7XuOMw" rel="alternate" type="text/html"/>
-    <published>2025-12-23T08:49:26.000Z</published>
-    <updated>2025-12-24T07:40:20.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B7Jyh7XuOMw 【LIVE on &lt;t:1766562020:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7Jyh7XuOMw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
