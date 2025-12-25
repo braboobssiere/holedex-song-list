@@ -1,13 +1,32 @@
 [
   {
+    "id": "ETr6nMjfDpE",
+    "title": "【CHRISTMAS KARAOKE】🎶SANTAXEL WISHES YOU A MERRY CHRISTMAS🎶",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-25T15:48:01.000Z",
+    "available_at": "2025-12-26T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC2hx0xVkMoHGWijwr_lA01w",
+      "name": "Axel Syrios Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Axel Syrios"
+    }
+  },
+  {
     "id": "7DQHyGiCdpk",
     "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-25T15:14:09.000Z",
-    "available_at": "2025-12-25T16:00:00.000Z",
+    "available_at": "2025-12-25T15:23:23.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -219,8 +238,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-25T02:40:05.000Z",
     "available_at": "2025-12-25T14:01:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6264,
+    "status": "past",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -1447,26 +1466,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "53IQmRULKDE",
-    "title": "【歌枠/縦型】アニソン歌いながらビジュアルアプデも見せちゃう  #shorts【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-21T14:40:18.000Z",
-    "available_at": "2025-12-21T12:11:55.000Z",
-    "duration": 8382,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
