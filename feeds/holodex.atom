@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-25T11:26:10.409Z</updated>
+  <updated>2025-12-25T11:56:17.752Z</updated>
+
+  <entry>
+    <id>urn:uuid:1b0bffd5-79fc-50b7-874d-f0a61c59f974</id>
+    <title><![CDATA[【KARAOKE】unarchived christmas tunes🎵アーカイブ無しカラオケ!]]></title>
+    <link href="https://youtu.be/BxmGgo2jKro" rel="alternate" type="text/html"/>
+    <published>2025-12-25T11:43:12.000Z</published>
+    <updated>2025-12-25T19:00:00.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BxmGgo2jKro 【LIVE on &lt;t:1766689200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BxmGgo2jKro/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8c9c5b00-1dd0-5047-981e-e6afd6715e65</id>
@@ -45,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ro4LVH_sUeE 【LIVE on &lt;t:1766639013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ro4LVH_sUeE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85ee888e-1596-5435-ab35-0560724aec8b</id>
+    <title><![CDATA[【MV】咲き誇れアイドル / さくらみこ]]></title>
+    <link href="https://youtu.be/glHyHvBk9Ug" rel="alternate" type="text/html"/>
+    <published>2025-12-25T04:22:53.000Z</published>
+    <updated>2025-12-25T11:58:00.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=glHyHvBk9Ug 【LIVE on &lt;t:1766663880:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/glHyHvBk9Ug/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -703,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MJcPEW8dRlQ 【LIVE on &lt;t:1766221557:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MJcPEW8dRlQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d86a74c7-7601-5df2-b61c-864dbf728098</id>
-    <title><![CDATA[【オリジナル曲】そらぱに向かって歌う枠!【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/6ozExN51pik" rel="alternate" type="text/html"/>
-    <published>2025-12-20T07:56:23.000Z</published>
-    <updated>2025-12-20T05:27:33.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6ozExN51pik 【LIVE on &lt;t:1766208453:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6ozExN51pik/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=EsJ98-AdtD4 【LIVE on &lt;t:1763978417:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EsJ98-AdtD4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:33ea3a6f-a179-59f1-86aa-6f6df01a901c</id>
-    <title><![CDATA[【original rap】Life Is Work / 響咲リオナ]]></title>
-    <link href="https://youtu.be/Afa6cAOyJ0A" rel="alternate" type="text/html"/>
-    <published>2025-11-24T11:30:21.000Z</published>
-    <updated>2025-11-24T11:30:21.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Afa6cAOyJ0A 【LIVE on &lt;t:1763983821:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Afa6cAOyJ0A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
