@@ -1,5 +1,43 @@
 [
   {
+    "id": "Bkdyia6UKV0",
+    "title": "【CHRISTMAS KARAOKE】MERRY CHRISTMAS AND HAPPY HOLIDAYS!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-25T21:36:42.000Z",
+    "available_at": "2025-12-26T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "HQdVSB9gUX4",
+    "title": "【UNARCHIVED CHRISTMAS KARAOKE】DEFROST HER",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-25T21:33:36.000Z",
+    "available_at": "2025-12-26T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "name": "Koseki Bijou Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koseki Bijou"
+    }
+  },
+  {
     "id": "RZvfMYz4AuE",
     "title": "【耐久歌枠】遂に50万人目前!一緒に迎えたいです!!!!!【輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -201,8 +239,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-25T11:43:12.000Z",
     "available_at": "2025-12-25T19:04:01.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9863,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -589,6 +627,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "_dj1S1EAHpc",
+    "title": "【第1部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-24T06:20:35.000Z",
+    "available_at": "2025-12-24T04:58:06.000Z",
+    "duration": 4656,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -1050,25 +1106,6 @@
     }
   },
   {
-    "id": "nYsTDynl5bE",
-    "title": "【UNARCHIVED】christmas!!! only a week away!!!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-23T13:36:46.000Z",
-    "available_at": "2025-12-23T22:02:15.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
-    }
-  },
-  {
     "id": "8aq6j5CApD4",
     "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス🎄ふなふなっと歌うのら！！！🤟(・o・🍬)【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -1273,25 +1310,6 @@
     }
   },
   {
-    "id": "nyY_ZLzMVgE",
-    "title": "【UNARCHIVED KARAOKE】 Oh I wish It Could Be Christmas Everyday  ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-22T15:17:45.000Z",
-    "available_at": "2025-12-22T21:31:23.000Z",
-    "duration": 15577,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
     "id": "stud_B9VHW0",
     "title": "Cosmic Wonderful Tour! -Christmas Remix-",
     "type": "stream",
@@ -1380,24 +1398,6 @@
     "published_at": "2025-12-22T10:22:38.000Z",
     "available_at": "2025-12-24T08:28:07.000Z",
     "duration": 4925,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "_dj1S1EAHpc",
-    "title": "【第1部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T10:17:41.000Z",
-    "available_at": "2025-12-24T04:58:06.000Z",
-    "duration": 4648,
     "status": "past",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
