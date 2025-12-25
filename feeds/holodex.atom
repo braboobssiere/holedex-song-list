@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-25T14:56:11.932Z</updated>
+  <updated>2025-12-25T15:26:09.855Z</updated>
+
+  <entry>
+    <id>urn:uuid:7f7e295e-ac80-531c-bbb8-1ed1e5ed4933</id>
+    <title><![CDATA[REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE]]></title>
+    <link href="https://youtu.be/7DQHyGiCdpk" rel="alternate" type="text/html"/>
+    <published>2025-12-25T15:14:09.000Z</published>
+    <updated>2025-12-25T16:00:00.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7DQHyGiCdpk 【LIVE on &lt;t:1766678400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7DQHyGiCdpk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7292a1a7-b09c-59a2-94e3-eebf958ead36</id>
+    <title><![CDATA[咲き誇れアイドル]]></title>
+    <link href="https://youtu.be/uSnTLgdue_4" rel="alternate" type="text/html"/>
+    <published>2025-12-25T15:01:48.000Z</published>
+    <updated>2025-12-25T15:01:48.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uSnTLgdue_4 【LIVE on &lt;t:1766674908:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uSnTLgdue_4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b669ee49-b318-5bb2-ac91-a7b9a3a006a5</id>
+    <title><![CDATA[咲き誇れアイドル (Instrumental)]]></title>
+    <link href="https://youtu.be/2eHbwqKRJRU" rel="alternate" type="text/html"/>
+    <published>2025-12-25T15:00:05.000Z</published>
+    <updated>2025-12-25T15:00:05.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2eHbwqKRJRU 【LIVE on &lt;t:1766674805:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2eHbwqKRJRU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a8be1c01-9fca-5364-b28c-39c7e37cadde</id>
@@ -1364,20 +1406,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6fdaf3ad-1655-5078-85a7-a9f772963ad0</id>
-    <title><![CDATA[VAVAVA!バーチャル大分]]></title>
-    <link href="https://youtu.be/FtL0AiEvceg" rel="alternate" type="text/html"/>
-    <published>2025-11-24T15:02:18.000Z</published>
-    <updated>2025-11-24T15:02:18.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FtL0AiEvceg 【LIVE on &lt;t:1763996538:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FtL0AiEvceg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:93eeac46-7ff0-5b79-9ffe-77711623f052</id>
     <title><![CDATA[【#白銀ノエル生誕祭2025】生誕 3D LIVE 睡夢 - suimu -【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/eV59GTk0J3s" rel="alternate" type="text/html"/>
@@ -1389,20 +1417,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eV59GTk0J3s 【LIVE on &lt;t:1763985492:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eV59GTk0J3s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1ef7d1f5-3049-5e5a-8a6f-9b4a8507f7c8</id>
-    <title><![CDATA[【original anime MV】VAVAVA!バーチャル大分【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/k6V5yGjakC8" rel="alternate" type="text/html"/>
-    <published>2025-11-24T13:10:07.000Z</published>
-    <updated>2025-11-24T13:10:07.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=k6V5yGjakC8 【LIVE on &lt;t:1763989807:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k6V5yGjakC8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
