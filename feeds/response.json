@@ -162,9 +162,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-25T11:43:12.000Z",
-    "available_at": "2025-12-25T19:00:00.000Z",
+    "available_at": "2025-12-25T19:04:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -1118,6 +1118,7 @@
     "available_at": "2025-12-25T11:03:52.000Z",
     "duration": 2970,
     "status": "past",
+    "songcount": 10,
     "live_tl_count": {
       "en": 62
     },
