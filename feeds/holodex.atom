@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-25T03:26:07.682Z</updated>
+  <updated>2025-12-25T03:56:06.838Z</updated>
+
+  <entry>
+    <id>urn:uuid:3eb91905-afc5-5c66-8f21-7d9a78343b8b</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE 歌枠】It's the Festive Season Again 🎅🎄]]></title>
+    <link href="https://youtu.be/yaMyihqS5xo" rel="alternate" type="text/html"/>
+    <published>2025-12-25T03:38:36.000Z</published>
+    <updated>2025-12-25T04:45:00.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yaMyihqS5xo 【LIVE on &lt;t:1766637900:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yaMyihqS5xo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c8197761-baa0-5e77-b688-63f15495cc77</id>
@@ -675,20 +689,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WjKKXjjp5wg 【LIVE on &lt;t:1766152798:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WjKKXjjp5wg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b0195c15-2e10-5a3d-a959-f0bea66fc01a</id>
-    <title><![CDATA[【縦型歌枠/KARAOKE】声出していきたい【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/T5688Y_7J4Y" rel="alternate" type="text/html"/>
-    <published>2025-12-18T08:20:23.000Z</published>
-    <updated>2025-12-18T06:04:33.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=T5688Y_7J4Y 【LIVE on &lt;t:1766037873:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T5688Y_7J4Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
