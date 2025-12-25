@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-25T11:56:17.752Z</updated>
+  <updated>2025-12-25T12:26:12.937Z</updated>
+
+  <entry>
+    <id>urn:uuid:1d4ffe37-d3e8-52ad-b400-85b804142849</id>
+    <title><![CDATA[(Rebroadcast) Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.]]></title>
+    <link href="https://youtu.be/AbP9EBibhsU" rel="alternate" type="text/html"/>
+    <published>2025-12-25T12:12:25.000Z</published>
+    <updated>2025-12-25T15:00:00.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AbP9EBibhsU 【LIVE on &lt;t:1766674800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AbP9EBibhsU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85ee888e-1596-5435-ab35-0560724aec8b</id>
+    <title><![CDATA[【MV】咲き誇れアイドル / さくらみこ]]></title>
+    <link href="https://youtu.be/glHyHvBk9Ug" rel="alternate" type="text/html"/>
+    <published>2025-12-25T11:55:24.000Z</published>
+    <updated>2025-12-25T11:55:24.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=glHyHvBk9Ug 【LIVE on &lt;t:1766663724:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/glHyHvBk9Ug/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:1b0bffd5-79fc-50b7-874d-f0a61c59f974</id>
@@ -59,20 +87,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ro4LVH_sUeE 【LIVE on &lt;t:1766639013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ro4LVH_sUeE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:85ee888e-1596-5435-ab35-0560724aec8b</id>
-    <title><![CDATA[【MV】咲き誇れアイドル / さくらみこ]]></title>
-    <link href="https://youtu.be/glHyHvBk9Ug" rel="alternate" type="text/html"/>
-    <published>2025-12-25T04:22:53.000Z</published>
-    <updated>2025-12-25T11:58:00.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=glHyHvBk9Ug 【LIVE on &lt;t:1766663880:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/glHyHvBk9Ug/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=j3kRAzYZfgc 【LIVE on &lt;t:1766247930:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j3kRAzYZfgc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:237ad4e1-fb68-5b19-ab90-f48e4f3c322f</id>
-    <title><![CDATA[110万人様耐久!歌枠!【轟はじめ】]]></title>
-    <link href="https://youtu.be/MJcPEW8dRlQ" rel="alternate" type="text/html"/>
-    <published>2025-12-20T10:14:28.000Z</published>
-    <updated>2025-12-20T09:05:57.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MJcPEW8dRlQ 【LIVE on &lt;t:1766221557:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MJcPEW8dRlQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
