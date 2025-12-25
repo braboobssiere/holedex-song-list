@@ -939,9 +939,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2025-12-23T09:47:16.000Z",
-    "available_at": "2025-12-25T11:00:00.000Z",
+    "available_at": "2025-12-25T11:03:52.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 28
+    },
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
