@@ -490,6 +490,46 @@
     }
   },
   {
+    "id": "AgkZSeXBg9Y",
+    "title": "歌枠🎄 【 奏手イヅル 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T15:39:30.000Z",
+    "available_at": "2025-12-24T13:05:05.000Z",
+    "duration": 5963,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
+    "id": "RhQ1Is0YmIo",
+    "title": "【#ホロクリスマス歌枠リレー|XMAS KARAOKE】寒い聖なる夜はFUWAMOCOで暖めましょう🎁 j-pop christmas favorites 🐾 【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T15:04:53.000Z",
+    "available_at": "2025-12-24T14:35:09.000Z",
+    "duration": 1494,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
     "id": "LvzMCKyOcdM",
     "title": "ぺこぺこ!! チキンフィーバー☆",
     "type": "stream",
@@ -552,6 +592,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "19H-RtnV-MU",
+    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス!みんなで楽しもう!!!【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T14:45:14.000Z",
+    "available_at": "2025-12-24T14:20:42.000Z",
+    "duration": 1311,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -1175,26 +1235,6 @@
     }
   },
   {
-    "id": "AgkZSeXBg9Y",
-    "title": "歌枠🎄 【 奏手イヅル 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T07:01:27.000Z",
-    "available_at": "2025-12-24T13:05:05.000Z",
-    "duration": 5965,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
-    }
-  },
-  {
     "id": "_dj1S1EAHpc",
     "title": "【第1部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
     "type": "stream",
@@ -1248,46 +1288,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "RhQ1Is0YmIo",
-    "title": "【#ホロクリスマス歌枠リレー｜XMAS KARAOKE】寒い聖なる夜はFUWAMOCOで暖めましょう🎁 j-pop christmas favorites 🐾 【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-23T19:32:31.000Z",
-    "available_at": "2025-12-24T14:35:09.000Z",
-    "duration": 1490,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "19H-RtnV-MU",
-    "title": "【 #ホロクリスマス歌枠リレー 】メリークリスマス！みんなで楽しもう！！！【角巻わため/ホロライブ４期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-23T18:03:26.000Z",
-    "available_at": "2025-12-24T14:20:42.000Z",
-    "duration": 1279,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
