@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-26T06:56:10.137Z</updated>
+  <updated>2025-12-26T07:26:14.019Z</updated>
 
   <entry>
     <id>urn:uuid:983561f1-251b-59da-b3a2-43549e6d29c6</id>
@@ -286,6 +286,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f2e1e7b2-af9a-5e56-9bd2-594ae862ac39</id>
+    <title><![CDATA[【歌枠】深夜に少し歌ってく!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/P2yPNDBwrVw" rel="alternate" type="text/html"/>
+    <published>2025-12-24T17:14:04.000Z</published>
+    <updated>2025-12-24T15:04:09.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=P2yPNDBwrVw 【LIVE on &lt;t:1766588649:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P2yPNDBwrVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:67396c15-0a85-5e5e-a486-759a40f1f7bd</id>
     <title><![CDATA[2025 LAST KARAOKE!]]></title>
     <link href="https://youtu.be/G66qvp4hOQA" rel="alternate" type="text/html"/>
@@ -353,20 +367,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WvcofnspSO8 【LIVE on &lt;t:1766588632:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WvcofnspSO8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f2e1e7b2-af9a-5e56-9bd2-594ae862ac39</id>
-    <title><![CDATA[【歌枠】深夜に少し歌ってく！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/P2yPNDBwrVw" rel="alternate" type="text/html"/>
-    <published>2025-12-24T14:51:32.000Z</published>
-    <updated>2025-12-24T15:04:09.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=P2yPNDBwrVw 【LIVE on &lt;t:1766588649:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P2yPNDBwrVw/maxresdefault.jpg"/>
   </entry>
 
   <entry>

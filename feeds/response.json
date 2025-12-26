@@ -181,25 +181,6 @@
     }
   },
   {
-    "id": "Kt9Qtp5GfDU",
-    "title": "【JSP2】3Dリオニコ見守りホラゲ【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-25T19:43:54.000Z",
-    "available_at": "2025-12-26T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "RFuk-X26VyI",
     "title": "【MoonUtau】Chill for karaoke【Archive】",
     "type": "stream",
@@ -490,6 +471,29 @@
     }
   },
   {
+    "id": "P2yPNDBwrVw",
+    "title": "【歌枠】深夜に少し歌ってく!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T17:14:04.000Z",
+    "available_at": "2025-12-24T15:04:09.000Z",
+    "duration": 7260,
+    "status": "past",
+    "live_tl_count": {
+      "en": 18,
+      "ko": 97
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "G66qvp4hOQA",
     "title": "2025 LAST KARAOKE!",
     "type": "stream",
@@ -627,29 +631,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "P2yPNDBwrVw",
-    "title": "【歌枠】深夜に少し歌ってく！【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T14:51:32.000Z",
-    "available_at": "2025-12-24T15:04:09.000Z",
-    "duration": 7253,
-    "status": "past",
-    "live_tl_count": {
-      "en": 18,
-      "ko": 97
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -5549,6 +5530,25 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "c3uO-sYEfek",
+    "title": "【3D】水着美女 vs 水着拝み隊【#水着美女釣り】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-08-28T09:00:06.000Z",
+    "available_at": "2025-08-28T09:00:06.000Z",
+    "duration": 1328,
+    "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
