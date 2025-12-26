@@ -180,9 +180,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-25T14:08:54.000Z",
-    "available_at": "2025-12-26T01:00:00.000Z",
+    "available_at": "2025-12-26T01:03:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -529,6 +529,24 @@
     }
   },
   {
+    "id": "XNj5MXXpB4o",
+    "title": "【第2部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-24T10:57:18.000Z",
+    "available_at": "2025-12-24T08:28:07.000Z",
+    "duration": 4932,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "55urmLOIktc",
     "title": "【歌枠】クリスマスは配信ないと言ったな。あれは嘘だ。【岸堂天真/ホロスターズ】",
     "type": "stream",
@@ -546,6 +564,46 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "_vCzHm4ZQcE",
+    "title": "【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T10:02:47.000Z",
+    "available_at": "2025-12-24T09:39:54.000Z",
+    "duration": 1218,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
+    "id": "O6WlW9ftxLM",
+    "title": "【#ホロクリスマス歌枠リレー 】クリスマスの…歌…?🎄【不知火フレア/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T09:45:09.000Z",
+    "available_at": "2025-12-24T09:19:21.000Z",
+    "duration": 1254,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -862,26 +920,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "O6WlW9ftxLM",
-    "title": "【#ホロクリスマス歌枠リレー 】クリスマスの…歌…？🎄【不知火フレア/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T03:39:40.000Z",
-    "available_at": "2025-12-24T09:19:21.000Z",
-    "duration": 1254,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCvInZx9h3jC2JzsIzoOebWg",
-      "name": "Flare Ch. 不知火フレア",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiranui Flare"
     }
   },
   {
@@ -1271,26 +1309,6 @@
     }
   },
   {
-    "id": "_vCzHm4ZQcE",
-    "title": "【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-23T06:18:18.000Z",
-    "available_at": "2025-12-24T09:39:54.000Z",
-    "duration": 1221,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "IkOYYbxRmY4",
     "title": "【#夕刻ロベル6周年】6th Anniversary 3DLIVE　「あの日の僕へ」【夕刻ロベル/ホロスターズ】",
     "type": "stream",
@@ -1388,24 +1406,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "XNj5MXXpB4o",
-    "title": "【第2部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T10:22:38.000Z",
-    "available_at": "2025-12-24T08:28:07.000Z",
-    "duration": 4925,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
