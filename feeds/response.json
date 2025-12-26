@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-25T21:33:36.000Z",
-    "available_at": "2025-12-26T02:00:00.000Z",
+    "available_at": "2025-12-26T01:55:43.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -100,9 +100,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-25T15:48:01.000Z",
-    "available_at": "2025-12-26T02:00:00.000Z",
+    "available_at": "2025-12-26T02:00:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -509,6 +509,46 @@
     }
   },
   {
+    "id": "55urmLOIktc",
+    "title": "【歌枠】クリスマスは配信ないと言ったな。あれは嘘だ。【岸堂天真/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T11:03:46.000Z",
+    "available_at": "2025-12-24T10:31:51.000Z",
+    "duration": 1401,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCGNI4MENvnsymYjKiZwv9eg",
+      "name": "Temma Ch. 岸堂天真",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kishido Temma"
+    }
+  },
+  {
+    "id": "9zXAWHFoXZQ",
+    "title": "【 #ホロクリスマス歌枠リレー】船長、夏以来の歌枠ってマジでか?【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T11:01:42.000Z",
+    "available_at": "2025-12-24T10:39:45.000Z",
+    "duration": 1194,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "Km_jZfAv1EI",
     "title": "【期間限定公開】ときのそら 6th Anniversary Party「Keep Shinin'」",
     "type": "stream",
@@ -584,26 +624,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "55urmLOIktc",
-    "title": "【歌枠】クリスマスは配信ないと言ったな。あれは嘘だ。【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T10:23:56.000Z",
-    "available_at": "2025-12-24T10:31:51.000Z",
-    "duration": 1404,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
@@ -920,26 +940,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "9zXAWHFoXZQ",
-    "title": "【 #ホロクリスマス歌枠リレー】船長、夏以来の歌枠ってマジでか？【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T04:43:55.000Z",
-    "available_at": "2025-12-24T10:39:45.000Z",
-    "duration": 1190,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
     }
   },
   {
