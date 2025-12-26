@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-26T04:26:08.994Z</updated>
+  <updated>2025-12-26T04:56:06.631Z</updated>
 
   <entry>
     <id>urn:uuid:07b7c2ab-e4dc-59cb-8763-2e585c4e5c4f</id>
@@ -311,6 +311,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=P2yPNDBwrVw 【LIVE on &lt;t:1766588649:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P2yPNDBwrVw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f2eac3f6-2cbd-5018-ad9c-1709dd29b761</id>
+    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/GoNEvx4LU7U" rel="alternate" type="text/html"/>
+    <published>2025-12-24T14:22:53.000Z</published>
+    <updated>2025-12-24T14:00:08.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GoNEvx4LU7U 【LIVE on &lt;t:1766584808:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GoNEvx4LU7U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e882d990-f0c9-5a66-a9aa-bd11ab3a2c9e</id>
+    <title><![CDATA[【#ホロクリスマス歌枠リレー 】メリークリスマス🎄✊【天音かなた/ホロライブ】]]></title>
+    <link href="https://youtu.be/4m5bGOoG85Y" rel="alternate" type="text/html"/>
+    <published>2025-12-24T14:02:52.000Z</published>
+    <updated>2025-12-24T13:39:20.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4m5bGOoG85Y 【LIVE on &lt;t:1766583560:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4m5bGOoG85Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -636,20 +664,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f2eac3f6-2cbd-5018-ad9c-1709dd29b761</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/GoNEvx4LU7U" rel="alternate" type="text/html"/>
-    <published>2025-12-23T18:31:47.000Z</published>
-    <updated>2025-12-24T14:00:08.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GoNEvx4LU7U 【LIVE on &lt;t:1766584808:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GoNEvx4LU7U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:dba50668-b60f-533b-80ea-7c344b14c27e</id>
     <title><![CDATA[【 #ホロクリスマス歌枠リレー 】メリークリスマス！みんなで楽しもう！！！【角巻わため/ホロライブ４期生】]]></title>
     <link href="https://youtu.be/19H-RtnV-MU" rel="alternate" type="text/html"/>
@@ -661,20 +675,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=19H-RtnV-MU 【LIVE on &lt;t:1766586042:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/19H-RtnV-MU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e882d990-f0c9-5a66-a9aa-bd11ab3a2c9e</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー 】メリークリスマス🎄✊【天音かなた/ホロライブ】]]></title>
-    <link href="https://youtu.be/4m5bGOoG85Y" rel="alternate" type="text/html"/>
-    <published>2025-12-23T17:52:23.000Z</published>
-    <updated>2025-12-24T13:39:20.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4m5bGOoG85Y 【LIVE on &lt;t:1766583560:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4m5bGOoG85Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
