@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-26T05:26:07.649Z</updated>
+  <updated>2025-12-26T05:56:12.763Z</updated>
+
+  <entry>
+    <id>urn:uuid:983561f1-251b-59da-b3a2-43549e6d29c6</id>
+    <title><![CDATA[【MV】気まぐれ日和 /猫又おかゆ ノベルゲーム『おかゆにゅ~~む!R』OPテーマ]]></title>
+    <link href="https://youtu.be/kHQ79DoeKh8" rel="alternate" type="text/html"/>
+    <published>2025-12-26T04:41:42.000Z</published>
+    <updated>2025-12-26T13:00:00.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kHQ79DoeKh8 【LIVE on &lt;t:1766754000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kHQ79DoeKh8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:07b7c2ab-e4dc-59cb-8763-2e585c4e5c4f</id>
@@ -269,6 +283,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uShfD5V_TaU 【LIVE on &lt;t:1766671302:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uShfD5V_TaU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:67396c15-0a85-5e5e-a486-759a40f1f7bd</id>
+    <title><![CDATA[2025 LAST KARAOKE!]]></title>
+    <link href="https://youtu.be/G66qvp4hOQA" rel="alternate" type="text/html"/>
+    <published>2025-12-24T16:50:57.000Z</published>
+    <updated>2025-12-24T14:01:32.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=G66qvp4hOQA 【LIVE on &lt;t:1766584892:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G66qvp4hOQA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:427c7892-d017-556f-a45d-535e38bc9af0</id>
+    <title><![CDATA[【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【一条莉々華 / ホロライブ】]]></title>
+    <link href="https://youtu.be/tImd0L5QVHg" rel="alternate" type="text/html"/>
+    <published>2025-12-24T15:31:04.000Z</published>
+    <updated>2025-12-24T14:59:55.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tImd0L5QVHg 【LIVE on &lt;t:1766588395:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tImd0L5QVHg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -664,20 +706,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:67396c15-0a85-5e5e-a486-759a40f1f7bd</id>
-    <title><![CDATA[2025 LAST KARAOKE!]]></title>
-    <link href="https://youtu.be/G66qvp4hOQA" rel="alternate" type="text/html"/>
-    <published>2025-12-24T05:01:24.000Z</published>
-    <updated>2025-12-24T14:01:32.000Z</updated>
-    <author>
-      <name>Airani Iofifteen Channel hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G66qvp4hOQA 【LIVE on &lt;t:1766584892:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G66qvp4hOQA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54a726d8-adc9-5c7c-8698-b66957379192</id>
     <title><![CDATA[boundary (Instrumental)]]></title>
     <link href="https://youtu.be/iHnniMjxkec" rel="alternate" type="text/html"/>
@@ -703,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=mU5fP2W8s9A 【LIVE on &lt;t:1766502130:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mU5fP2W8s9A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:427c7892-d017-556f-a45d-535e38bc9af0</id>
-    <title><![CDATA[【歌枠】#ホロクリスマス歌枠リレー / Xmas Singing Stream【一条莉々華 / ホロライブ】]]></title>
-    <link href="https://youtu.be/tImd0L5QVHg" rel="alternate" type="text/html"/>
-    <published>2025-12-23T13:40:45.000Z</published>
-    <updated>2025-12-24T14:59:55.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tImd0L5QVHg 【LIVE on &lt;t:1766588395:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tImd0L5QVHg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VtRa78tCvic 【LIVE on &lt;t:1764342067:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VtRa78tCvic/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:08e93373-e651-5267-b1cf-71d4fb74f485</id>
-    <title><![CDATA[爆ラブ+ケミストリー (Instrumental)]]></title>
-    <link href="https://youtu.be/0-Egm35F0-g" rel="alternate" type="text/html"/>
-    <published>2025-11-28T15:00:02.000Z</published>
-    <updated>2025-11-28T15:00:02.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0-Egm35F0-g 【LIVE on &lt;t:1764342002:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0-Egm35F0-g/maxresdefault.jpg"/>
   </entry>
 
   <entry>
