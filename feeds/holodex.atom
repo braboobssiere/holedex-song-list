@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-27T14:56:10.885Z</updated>
+  <updated>2025-12-27T15:26:10.696Z</updated>
+
+  <entry>
+    <id>urn:uuid:fe13ede6-a4de-5505-b398-1022c8d3908d</id>
+    <title><![CDATA[【 縦型/歌枠】NO15💜今日はド深夜に沢山歌っちゃおう🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/HoB2DzuPEmI" rel="alternate" type="text/html"/>
+    <published>2025-12-27T15:07:41.000Z</published>
+    <updated>2025-12-27T16:00:00.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HoB2DzuPEmI 【LIVE on &lt;t:1766851200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HoB2DzuPEmI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c0f38e5c-53f3-50a2-8646-61968632ff1a</id>
+    <title><![CDATA[誰も見てない夢を見ろ (Instrumental)]]></title>
+    <link href="https://youtu.be/g-jrW0ZGzDU" rel="alternate" type="text/html"/>
+    <published>2025-12-27T15:01:19.000Z</published>
+    <updated>2025-12-27T15:01:19.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=g-jrW0ZGzDU 【LIVE on &lt;t:1766847679:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g-jrW0ZGzDU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e4e4b2dc-9fd5-5093-b656-d282950e1cce</id>
+    <title><![CDATA[誰も見てない夢を見ろ]]></title>
+    <link href="https://youtu.be/Laose_rm-84" rel="alternate" type="text/html"/>
+    <published>2025-12-27T15:00:40.000Z</published>
+    <updated>2025-12-27T15:00:40.000Z</updated>
+    <author>
+      <name>Kanata Ch. 天音かなた</name>
+      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Laose_rm-84 【LIVE on &lt;t:1766847640:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Laose_rm-84/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:983561f1-251b-59da-b3a2-43549e6d29c6</id>
@@ -563,20 +605,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=B7Jyh7XuOMw 【LIVE on &lt;t:1766562020:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B7Jyh7XuOMw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0dc109ad-a7a7-5bd8-af3e-c76199be2ca2</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】今年もみんなと一緒に歌枠で過ごすクリスマス🎄【大神ミオ】]]></title>
-    <link href="https://youtu.be/PHv4s2N__TI" rel="alternate" type="text/html"/>
-    <published>2025-12-24T07:45:11.000Z</published>
-    <updated>2025-12-24T07:15:23.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PHv4s2N__TI 【LIVE on &lt;t:1766560523:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PHv4s2N__TI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1308,20 +1336,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:3eb1c14b-81bd-5461-aa1c-c4c9fdaa485e</id>
-    <title><![CDATA[アナスタシスガール]]></title>
-    <link href="https://youtu.be/HtjuT-WdhLc" rel="alternate" type="text/html"/>
-    <published>2025-11-27T15:00:35.000Z</published>
-    <updated>2025-11-27T15:00:35.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HtjuT-WdhLc 【LIVE on &lt;t:1764255635:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HtjuT-WdhLc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:26d68eac-3cff-50ea-a956-c84be9cd03f4</id>
     <title><![CDATA[【 #猫汰つな誕生日記念ライブ】 猫汰つな誕生祭2025 ~君と紡ぐメロディ~ 【ぶいすぽ / 猫汰つな】]]></title>
     <link href="https://youtu.be/siIJD8jvr34" rel="alternate" type="text/html"/>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=siIJD8jvr34 【LIVE on &lt;t:1764241091:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/siIJD8jvr34/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:94ede086-65c3-5aec-b29f-c50fe30689fa</id>
-    <title><![CDATA[アナスタシスガール feat. ラプラス・ダークネス / 鷹嶺ルイ(official)]]></title>
-    <link href="https://youtu.be/4dgcHJW1p30" rel="alternate" type="text/html"/>
-    <published>2025-11-27T12:15:07.000Z</published>
-    <updated>2025-11-27T12:15:07.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4dgcHJW1p30 【LIVE on &lt;t:1764245707:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4dgcHJW1p30/maxresdefault.jpg"/>
   </entry>
 
   <entry>
