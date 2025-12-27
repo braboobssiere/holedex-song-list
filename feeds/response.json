@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-27T15:07:41.000Z",
-    "available_at": "2025-12-27T16:00:00.000Z",
+    "available_at": "2025-12-27T16:01:52.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -77,6 +80,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "2j_UEalq-Hc",
+    "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【1枠目】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-27T05:01:33.000Z",
+    "available_at": "2025-12-28T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
     }
   },
   {
@@ -302,7 +324,7 @@
     "published_at": "2025-12-25T14:08:54.000Z",
     "available_at": "2025-12-26T01:03:55.000Z",
     "duration": 5234,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -5526,24 +5548,6 @@
     "published_at": "2025-08-29T10:00:06.000Z",
     "available_at": "2025-08-29T10:00:06.000Z",
     "duration": 573,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "UI-11T9KmNQ",
-    "title": "【アドリブ】1コマ少女漫画家演じてみた【#轟はじめ演じてみた】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-08-28T10:00:06.000Z",
-    "available_at": "2025-08-28T10:00:06.000Z",
-    "duration": 588,
     "status": "past",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
