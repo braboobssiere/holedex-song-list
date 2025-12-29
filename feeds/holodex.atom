@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-29T14:56:10.012Z</updated>
+  <updated>2025-12-29T15:26:08.908Z</updated>
+
+  <entry>
+    <id>urn:uuid:3ecce593-b5f1-5cd0-b4e8-f72e456639cf</id>
+    <title><![CDATA[ぼくらのなぞなぞ]]></title>
+    <link href="https://youtu.be/hQVVF8_BX5o" rel="alternate" type="text/html"/>
+    <published>2025-12-29T15:01:30.000Z</published>
+    <updated>2025-12-29T15:01:30.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hQVVF8_BX5o 【LIVE on &lt;t:1767020490:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hQVVF8_BX5o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:29b76266-318d-5d01-a48e-cfa83192eb5d</id>
+    <title><![CDATA[ぼくらのなぞなぞ (Instrumental)]]></title>
+    <link href="https://youtu.be/bnig_E0sDYc" rel="alternate" type="text/html"/>
+    <published>2025-12-29T15:01:14.000Z</published>
+    <updated>2025-12-29T15:01:14.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bnig_E0sDYc 【LIVE on &lt;t:1767020474:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bnig_E0sDYc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f9c90211-9cd8-5baf-b1b0-65e4277018b7</id>
@@ -45,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bTNx6xRYLrQ 【LIVE on &lt;t:1766998821:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bTNx6xRYLrQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2758086a-8898-5f5a-9032-10e1069e05fe</id>
+    <title><![CDATA[【 餌付けASMR】今年最後の #お子様バッテリー に…餌付けしてみる?💜【ホロライブ/ ロボ子さん&水宮枢 】]]></title>
+    <link href="https://youtu.be/rDV3Y1Ujmi4" rel="alternate" type="text/html"/>
+    <published>2025-12-29T06:19:23.000Z</published>
+    <updated>2025-12-30T09:00:00.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rDV3Y1Ujmi4 【LIVE on &lt;t:1767085200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rDV3Y1Ujmi4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -171,6 +213,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Laose_rm-84 【LIVE on &lt;t:1766847640:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Laose_rm-84/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:832a025a-9dea-5182-bf7d-cf21cb7d2e39</id>
+    <title><![CDATA[【 #独り紅白歌合戦 】毎年恒例独り紅白!2025年、勝利するのは紅組か白組か!??【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/u9Stof4VxTA" rel="alternate" type="text/html"/>
+    <published>2025-12-26T14:13:42.000Z</published>
+    <updated>2025-12-30T09:00:00.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=u9Stof4VxTA 【LIVE on &lt;t:1767085200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u9Stof4VxTA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -678,20 +734,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:74007e57-0470-521f-8e4d-b510b89a42d4</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー 】クリスマスの…歌…?🎄【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/O6WlW9ftxLM" rel="alternate" type="text/html"/>
-    <published>2025-12-24T09:45:09.000Z</published>
-    <updated>2025-12-24T09:19:21.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=O6WlW9ftxLM 【LIVE on &lt;t:1766567961:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/O6WlW9ftxLM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:54a726d8-adc9-5c7c-8698-b66957379192</id>
     <title><![CDATA[boundary (Instrumental)]]></title>
     <link href="https://youtu.be/iHnniMjxkec" rel="alternate" type="text/html"/>
@@ -1179,34 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eyhzPVL7ibE 【LIVE on &lt;t:1764687679:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eyhzPVL7ibE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:054bfe24-5ddc-562a-80c8-0592edeabd7f</id>
-    <title><![CDATA[Sweet Temptation]]></title>
-    <link href="https://youtu.be/eRdSPs0dhhY" rel="alternate" type="text/html"/>
-    <published>2025-12-02T15:01:16.000Z</published>
-    <updated>2025-12-02T15:01:16.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eRdSPs0dhhY 【LIVE on &lt;t:1764687676:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eRdSPs0dhhY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8fd37c03-d4c3-5e29-b243-d000dbf4eaa5</id>
-    <title><![CDATA[Smart]]></title>
-    <link href="https://youtu.be/UWqt9xnufjk" rel="alternate" type="text/html"/>
-    <published>2025-12-02T15:01:03.000Z</published>
-    <updated>2025-12-02T15:01:03.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UWqt9xnufjk 【LIVE on &lt;t:1764687663:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UWqt9xnufjk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2257,20 +2271,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uW2Yyq3ENVg 【LIVE on &lt;t:1743796834:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uW2Yyq3ENVg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6f354560-f7aa-5fbe-8027-623cd6112bb5</id>
-    <title><![CDATA[【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream]]></title>
-    <link href="https://youtu.be/NtzRhLagoJ0" rel="alternate" type="text/html"/>
-    <published>2025-04-03T03:04:08.000Z</published>
-    <updated>2025-04-03T01:12:20.000Z</updated>
-    <author>
-      <name>Koseki Bijou Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NtzRhLagoJ0 【LIVE on &lt;t:1743642740:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NtzRhLagoJ0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
