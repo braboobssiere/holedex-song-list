@@ -1,13 +1,32 @@
 [
   {
+    "id": "WIGShsmCynI",
+    "title": "【 歌枠 】今年もありがとう!!!告知あり!!!!!!【常闇トワ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-29T09:14:08.000Z",
+    "available_at": "2025-12-29T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
     "id": "bTNx6xRYLrQ",
     "title": "【 縦型歌枠 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-29T07:40:55.000Z",
-    "available_at": "2025-12-29T09:00:00.000Z",
+    "available_at": "2025-12-29T09:00:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -1516,26 +1535,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vestia Zeta"
-    }
-  },
-  {
-    "id": "9bjei2JJqh8",
-    "title": "【#ホロクリスマス歌枠リレー】メリークリスマス🎄❕久々のお歌【水宮枢/ホロライブDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T09:21:57.000Z",
-    "available_at": "2025-12-24T09:00:10.000Z",
-    "duration": 1181,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
