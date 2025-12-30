@@ -285,6 +285,7 @@
     "available_at": "2025-12-30T10:01:06.000Z",
     "duration": 5653,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -1599,6 +1600,26 @@
     }
   },
   {
+    "id": "5ss8GG5azNs",
+    "title": "【 #ホロクリスマス歌枠リレー 】クリスマスにイチャイチャするか~(# ﾟДﾟ)NEXT⇒@TakaneLui【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-24T11:24:12.000Z",
+    "available_at": "2025-12-24T10:59:30.000Z",
+    "duration": 1192,
+    "status": "past",
+    "songcount": 4,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "Km_jZfAv1EI",
     "title": "【期間限定公開】ときのそら 6th Anniversary Party「Keep Shinin'」",
     "type": "stream",
@@ -2877,28 +2898,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "KtGtDXyU2oE",
-    "title": "【歌枠】2025年ありがとう。年末何もかもうまくいかなかったけど歌うたえばすっきりじゃないか説💭#shorts  #歌枠 【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-02T14:34:12.000Z",
-    "available_at": "2025-12-30T15:33:59.000Z",
-    "duration": 0,
-    "status": "live",
-    "live_tl_count": {
-      "en": 487
-    },
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
     }
   },
   {
