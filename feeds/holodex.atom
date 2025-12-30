@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-30T19:26:21.208Z</updated>
+  <updated>2025-12-30T19:56:08.779Z</updated>
+
+  <entry>
+    <id>urn:uuid:7fad57de-968e-5cbb-b761-c1d2ef9d7009</id>
+    <title><![CDATA[【耐久歌枠】2025年に40万人いけるかなっ・・!【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/OmEew8shlws" rel="alternate" type="text/html"/>
+    <published>2025-12-30T19:35:47.000Z</published>
+    <updated>2025-12-31T05:00:00.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OmEew8shlws 【LIVE on &lt;t:1767157200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OmEew8shlws/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b5445246-1f84-56fa-bc40-f5fde8d732db</id>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VzTLV6Pd0TY 【LIVE on &lt;t:1766575177:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VzTLV6Pd0TY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a69b23d0-2efa-5ec9-84f5-42bc05fc34c9</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】クリスマスにイチャイチャするか~(# ﾟДﾟ)NEXT⇒@TakaneLui【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/5ss8GG5azNs" rel="alternate" type="text/html"/>
-    <published>2025-12-24T11:24:12.000Z</published>
-    <updated>2025-12-24T10:59:30.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5ss8GG5azNs 【LIVE on &lt;t:1766573970:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5ss8GG5azNs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
