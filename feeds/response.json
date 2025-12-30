@@ -163,9 +163,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-29T07:00:55.000Z",
-    "available_at": "2025-12-30T10:00:00.000Z",
+    "available_at": "2025-12-30T10:01:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -174,28 +174,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "rDV3Y1Ujmi4",
-    "title": "【 餌付けASMR】オフコラボ✴今年最後の #お子様バッテリー に…餌付けしてみる?💜【ホロライブ/ ロボ子さん&水宮枢 】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-12-29T06:19:23.000Z",
-    "available_at": "2025-12-30T09:02:31.000Z",
-    "duration": 0,
-    "status": "live",
-    "live_tl_count": {
-      "en": 31
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -489,7 +467,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 41
+      "en": 60
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -6293,6 +6271,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/EvEvVEt0NbiF9k5J-19IF5KqBGgcZYr0sbPQK2UmBafveemTrMJF9mr6_BXvzx7QTOO8VDqKcg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Roy Chiato"
+    }
+  },
+  {
+    "id": "NtzRhLagoJ0",
+    "title": "【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-04-03T03:04:08.000Z",
+    "available_at": "2025-04-03T01:12:20.000Z",
+    "duration": 6363,
+    "status": "past",
+    "channel": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "name": "Koseki Bijou Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koseki Bijou"
     }
   },
   {
