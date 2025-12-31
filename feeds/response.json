@@ -1,13 +1,32 @@
 [
   {
+    "id": "ZGMRYd-d6z8",
+    "title": "≪UNARCHIVED KARAOKE・歌枠≫ HELLO 2026!!!!!!!!!!!!! W/ IRYS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T05:00:30.000Z",
+    "available_at": "2025-12-31T16:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "OmEew8shlws",
     "title": "【耐久歌枠】2025年に40万人いけるかなっ・・!【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-30T19:35:47.000Z",
-    "available_at": "2025-12-31T05:00:00.000Z",
+    "available_at": "2025-12-31T05:00:53.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -425,6 +444,7 @@
     "available_at": "2025-12-28T11:30:39.000Z",
     "duration": 5421,
     "status": "past",
+    "songcount": 20,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -484,7 +504,7 @@
     "available_at": "2025-12-28T01:29:39.000Z",
     "duration": 9247,
     "status": "past",
-    "songcount": 8,
+    "songcount": 14,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
@@ -1579,26 +1599,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "VzTLV6Pd0TY",
-    "title": "【 #ホロクリスマス歌枠リレー 】久々歌枠‼なに歌おうかな☺【鷹嶺ルイ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T11:42:11.000Z",
-    "available_at": "2025-12-24T11:19:37.000Z",
-    "duration": 1210,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
-      "name": "Lui ch. 鷹嶺ルイ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takane Lui"
     }
   },
   {
