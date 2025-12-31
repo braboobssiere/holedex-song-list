@@ -1,5 +1,24 @@
 [
   {
+    "id": "OjkLlysRfd0",
+    "title": "【KARAOKE】HNY!!!!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T23:46:01.000Z",
+    "available_at": "2026-01-01T00:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "name": "Ninomae Ina'nis Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ninomae Ina'nis"
+    }
+  },
+  {
     "id": "BEvWqPRvwEg",
     "title": "【Unarchived Karaoke Relay】New Year... 🧍",
     "type": "stream",
@@ -25,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-31T18:36:49.000Z",
     "available_at": "2025-12-31T22:45:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2360,
+    "status": "past",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -378,6 +397,7 @@
     "available_at": "2025-12-31T06:30:42.000Z",
     "duration": 4158,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -725,7 +745,7 @@
   },
   {
     "id": "r69ez3ZB71Y",
-    "title": "【KARAOKE】HOLOSTARS Constellation Karaoke!!",
+    "title": "【KARAOKE】HOLOSTARS Constellation Karaoke!! #HSEConstellationKaraoke2025",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-29T05:56:14.000Z",
@@ -1661,25 +1681,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "JPImd-muSsY",
-    "title": "Unarchived December Karaoke~ ♫⋆｡♪ ₊˚♬ ﾟ.",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T09:41:59.000Z",
-    "available_at": "2025-12-25T07:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCTvHWSfBZgtxE4sILOaurIQ",
-      "name": "Vestia Zeta Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Vestia Zeta"
     }
   },
   {
