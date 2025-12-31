@@ -69,6 +69,7 @@
     "available_at": "2025-12-30T14:55:06.000Z",
     "duration": 277,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -218,33 +219,13 @@
     }
   },
   {
-    "id": "WIGShsmCynI",
-    "title": "【 歌枠 】今年もありがとう！！！告知あり！！！！！！【常闇トワ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-29T09:14:08.000Z",
-    "available_at": "2025-12-29T10:00:17.000Z",
-    "duration": 3791,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
-    }
-  },
-  {
     "id": "bTNx6xRYLrQ",
     "title": "【 縦型歌枠 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2025-12-29T07:40:55.000Z",
+    "published_at": "2025-12-29T11:11:19.000Z",
     "available_at": "2025-12-29T09:00:21.000Z",
-    "duration": 7441,
+    "duration": 7440,
     "status": "past",
     "songcount": 22,
     "channel": {
@@ -255,6 +236,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "WIGShsmCynI",
+    "title": "【 歌枠 】今年もありがとう!!!告知あり!!!!!!【常闇トワ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-29T11:07:43.000Z",
+    "available_at": "2025-12-29T10:00:17.000Z",
+    "duration": 3792,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
     }
   },
   {
