@@ -214,9 +214,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-31T07:27:08.000Z",
-    "available_at": "2025-12-31T20:30:00.000Z",
+    "available_at": "2025-12-31T20:30:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -276,8 +276,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-30T19:19:09.000Z",
     "available_at": "2025-12-31T19:30:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3543,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -408,6 +408,25 @@
     }
   },
   {
+    "id": "1zOANHiwoBs",
+    "title": "【歌枠/KARAOKE】最後と言ったがあれは嘘だ今度こそ2025最後【尾丸ポルカ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-30T06:19:47.000Z",
+    "available_at": "2025-12-30T03:31:38.000Z",
+    "duration": 9437,
+    "status": "past",
+    "channel": {
+      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Omaru Polka"
+    }
+  },
+  {
     "id": "zIBuTiw_czo",
     "title": "⭐This is Our Year!⭐ | Probably Archived Karaoke【#HSEConstellationKaraoke2025 】",
     "type": "stream",
@@ -424,25 +443,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "1zOANHiwoBs",
-    "title": "【歌枠/KARAOKE】最後と言ったがあれは嘘だ今度こそ2025最後【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-30T02:57:28.000Z",
-    "available_at": "2025-12-30T03:31:38.000Z",
-    "duration": 9439,
-    "status": "past",
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
