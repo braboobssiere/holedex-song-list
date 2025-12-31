@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-31T07:26:15.880Z</updated>
+  <updated>2025-12-31T07:56:10.440Z</updated>
+
+  <entry>
+    <id>urn:uuid:6680cab2-9e98-5762-a90d-3a0a84895322</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE RELAY】DJ COOL MURIN NEW YEARS MEGAMIX #holoENKaraokeRelay]]></title>
+    <link href="https://youtu.be/hkKcdBNKp7A" rel="alternate" type="text/html"/>
+    <published>2025-12-31T07:27:08.000Z</published>
+    <updated>2025-12-31T20:30:00.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hkKcdBNKp7A 【LIVE on &lt;t:1767213000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hkKcdBNKp7A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:be400d49-daea-5566-a83a-661cc2bd4135</id>
@@ -91,7 +105,7 @@
 
   <entry>
     <id>urn:uuid:4e330cee-c201-5a39-a58b-275004590d96</id>
-    <title><![CDATA[【歌枠】これがニコたんの本気セトリだ!【虎金妃笑虎】]]></title>
+    <title><![CDATA[【歌枠】これがニコたんの本気セトリだ！【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/aR_M1SLgXls" rel="alternate" type="text/html"/>
     <published>2025-12-30T12:22:22.000Z</published>
     <updated>2025-12-31T06:30:42.000Z</updated>
@@ -689,34 +703,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cOG_l4H76wg 【LIVE on &lt;t:1766582136:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cOG_l4H76wg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b6c21c0e-cfc4-5c26-9b19-a6293fdb5b68</id>
-    <title><![CDATA[【 #ホロクリスマス歌枠リレー 】 22時~あわてんぼうのろぼたくろーすも参戦~~🎅【ホロライブ/ ロボ子さん 】]]></title>
-    <link href="https://youtu.be/vFV-Hk4K-d8" rel="alternate" type="text/html"/>
-    <published>2025-12-24T13:22:24.000Z</published>
-    <updated>2025-12-24T13:00:39.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vFV-Hk4K-d8 【LIVE on &lt;t:1766581239:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vFV-Hk4K-d8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f54bdb2a-0a92-5770-ad3e-8e3f4fb363bc</id>
-    <title><![CDATA[【#ホロクリスマス歌枠リレー】メリークリスマスイヴ❣🎄アイドルみこちゃんをきけ―――。【ホロライブ/さくらみこ】]]></title>
-    <link href="https://youtu.be/LeIfZ2wGP7s" rel="alternate" type="text/html"/>
-    <published>2025-12-24T13:02:26.000Z</published>
-    <updated>2025-12-24T12:41:09.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LeIfZ2wGP7s 【LIVE on &lt;t:1766580069:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LeIfZ2wGP7s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
