@@ -1,5 +1,43 @@
 [
   {
+    "id": "0bB_KhL03Wg",
+    "title": "【UNARCHIVED KARAOKE】HAPPY NEW YEAR SHINEN AKEMASHITE OMEDETOU GOZAIMASU #holoENKaraokeRelay",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T15:47:39.000Z",
+    "available_at": "2026-01-01T04:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "name": "Koseki Bijou Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koseki Bijou"
+    }
+  },
+  {
+    "id": "gkfzzJ9s-pc",
+    "title": "KARAOKE RELAY | HAPPY NEW YEAR! #holoENKaraokeRelay",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T15:47:29.000Z",
+    "available_at": "2026-01-01T06:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "ljTUyvw1VRY",
     "title": "【UNARCHIVED KARAOKE】#3 hololive English New Years Karaoke Relay ~! 💄#holoENKaraokeRelay",
     "type": "stream",
@@ -1489,26 +1527,6 @@
     }
   },
   {
-    "id": "RhQ1Is0YmIo",
-    "title": "【#ホロクリスマス歌枠リレー|XMAS KARAOKE】寒い聖なる夜はFUWAMOCOで暖めましょう🎁 j-pop christmas favorites 🐾 【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T15:04:53.000Z",
-    "available_at": "2025-12-24T14:35:09.000Z",
-    "duration": 1494,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
     "id": "LvzMCKyOcdM",
     "title": "ぺこぺこ!! チキンフィーバー☆",
     "type": "stream",
@@ -1684,25 +1702,6 @@
     }
   },
   {
-    "id": "HvSp11djYFQ",
-    "title": "≪UNARCHIVED KARAOKE・歌枠≫ GIMME 1,111,111 FOR XMAS #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-24T04:45:08.000Z",
-    "available_at": "2025-12-24T14:40:05.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
-    }
-  },
-  {
     "id": "iHnniMjxkec",
     "title": "boundary (Instrumental)",
     "type": "stream",
@@ -1771,8 +1770,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2025-12-23T07:41:39.000Z",
     "available_at": "2025-12-31T13:38:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6531,
+    "status": "past",
     "songcount": 24,
     "live_tl_count": {
       "id": 4
