@@ -1,11 +1,30 @@
 [
   {
+    "id": "BEvWqPRvwEg",
+    "title": "【Unarchived Karaoke Relay】New Year... 🧍",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T19:45:42.000Z",
+    "available_at": "2025-12-31T23:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ouro Kronii"
+    }
+  },
+  {
     "id": "GBB8cRSrkEU",
     "title": "【UNARCHIVED KARAOKE RELAY】but i'll play a bunch of silly instruments instead cause throat ouchie",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-31T18:36:49.000Z",
-    "available_at": "2025-12-31T22:30:00.000Z",
+    "available_at": "2025-12-31T22:40:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -239,6 +258,7 @@
     "available_at": "2025-12-31T05:00:53.000Z",
     "duration": 3666,
     "status": "past",
+    "songcount": 2,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -255,9 +275,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-30T19:19:09.000Z",
-    "available_at": "2025-12-31T19:30:00.000Z",
+    "available_at": "2025-12-31T19:30:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -994,6 +1014,7 @@
     "available_at": "2025-12-30T09:00:13.000Z",
     "duration": 5803,
     "status": "past",
+    "songcount": 9,
     "live_tl_count": {
       "en": 60
     },
@@ -1483,25 +1504,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
-    }
-  },
-  {
-    "id": "Ro4LVH_sUeE",
-    "title": "【MUSIC】LOOPED CHRISTMAS RADIO SINGING BOPS ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-25T05:01:46.000Z",
-    "available_at": "2025-12-25T05:03:33.000Z",
-    "duration": 115627,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {

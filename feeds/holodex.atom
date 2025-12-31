@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2025-12-31T19:26:15.692Z</updated>
+  <updated>2025-12-31T19:56:05.885Z</updated>
+
+  <entry>
+    <id>urn:uuid:5a17a238-f0ce-5582-96f3-7375ed454665</id>
+    <title><![CDATA[【Unarchived Karaoke Relay】New Year... 🧍]]></title>
+    <link href="https://youtu.be/BEvWqPRvwEg" rel="alternate" type="text/html"/>
+    <published>2025-12-31T19:45:42.000Z</published>
+    <updated>2025-12-31T23:30:00.000Z</updated>
+    <author>
+      <name>Ouro Kronii Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BEvWqPRvwEg 【LIVE on &lt;t:1767223800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BEvWqPRvwEg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:60755e10-1cdb-5992-843b-d736d63994cc</id>
     <title><![CDATA[【UNARCHIVED KARAOKE RELAY】but i'll play a bunch of silly instruments instead cause throat ouchie]]></title>
     <link href="https://youtu.be/GBB8cRSrkEU" rel="alternate" type="text/html"/>
     <published>2025-12-31T18:36:49.000Z</published>
-    <updated>2025-12-31T22:30:00.000Z</updated>
+    <updated>2025-12-31T22:40:00.000Z</updated>
     <author>
       <name>Cecilia Immergreen Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GBB8cRSrkEU 【LIVE on &lt;t:1767220200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GBB8cRSrkEU 【LIVE on &lt;t:1767220800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GBB8cRSrkEU/maxresdefault.jpg"/>
   </entry>
 
@@ -164,12 +178,12 @@
     <title><![CDATA[【KARAOKE RELAY】#1, Takanashi Kiara !! HAPPY NEW YEAR #holoENKaraokeRelay]]></title>
     <link href="https://youtu.be/xjcdAjJ2x9g" rel="alternate" type="text/html"/>
     <published>2025-12-30T19:19:09.000Z</published>
-    <updated>2025-12-31T19:30:00.000Z</updated>
+    <updated>2025-12-31T19:30:39.000Z</updated>
     <author>
       <name>Takanashi Kiara Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xjcdAjJ2x9g 【LIVE on &lt;t:1767209400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xjcdAjJ2x9g 【LIVE on &lt;t:1767209439:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xjcdAjJ2x9g/maxresdefault.jpg"/>
   </entry>
 
