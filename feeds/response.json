@@ -159,8 +159,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-31T15:47:39.000Z",
     "available_at": "2026-01-01T04:25:40.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3887,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -234,9 +234,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-31T10:27:03.000Z",
-    "available_at": "2026-01-01T05:30:00.000Z",
+    "available_at": "2026-01-01T05:29:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 5,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -390,7 +391,7 @@
   },
   {
     "id": "d8O9gFFfQz0",
-    "title": "【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW！【儒烏風亭らでん #ReGLOSS 】",
+    "title": "【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW!【儒烏風亭らでん #ReGLOSS 】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2025-12-30T14:55:06.000Z",
