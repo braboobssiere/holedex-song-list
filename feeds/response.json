@@ -1,5 +1,24 @@
 [
   {
+    "id": "L345EWjoBPY",
+    "title": "【歌枠 / karaoke】2026年明けましておめでとう!! 開運するぞ~~!!スパチャで運勢ルーレット90点以上で再ルーレット!!   / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-01T01:00:13.000Z",
+    "available_at": "2026-01-01T02:02:20.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "OjkLlysRfd0",
     "title": "【KARAOKE】HNY!!!!",
     "type": "stream",
@@ -63,9 +82,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-31T17:23:18.000Z",
-    "available_at": "2026-01-01T03:30:00.000Z",
+    "available_at": "2026-01-01T03:38:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 1,
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -135,7 +155,7 @@
   },
   {
     "id": "gkfzzJ9s-pc",
-    "title": "KARAOKE RELAY | HAPPY NEW YEAR! #holoENKaraokeRelay",
+    "title": "KARAOKE RELAY | HAPPY NEW YEAR! #holoENKaraokeRelay [UNARCHIVED|",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2025-12-31T15:47:29.000Z",
@@ -178,8 +198,8 @@
     "topic_id": "singing",
     "published_at": "2025-12-31T10:31:35.000Z",
     "available_at": "2026-01-01T02:30:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3611,
+    "status": "past",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -1506,25 +1526,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "-LCOhGIPn80",
-    "title": "【Unarchived Karaoke】Crimin Time",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-25T06:29:32.000Z",
-    "available_at": "2025-12-25T07:01:52.000Z",
-    "duration": 7663,
-    "status": "missing",
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
