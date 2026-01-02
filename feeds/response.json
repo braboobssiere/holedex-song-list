@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-01-02T15:27:41.000Z",
     "available_at": "2026-01-02T15:31:41.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4221,
+    "status": "past",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -114,6 +114,25 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "QzYWeDDcfHk",
+    "title": "【Holostars Constellation Karaoke 2025 】HELLO 2026!!!【ARCHIVED】#HSEConstellationKaraoke2025",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-01T03:23:35.000Z",
+    "available_at": "2026-01-01T02:40:12.000Z",
+    "duration": 1151,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
     }
   },
   {
@@ -791,25 +810,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "QzYWeDDcfHk",
-    "title": "【Holostars Constellation Karaoke 2025 】HELLO 2026!!!【ARCHIVED】#HSEConstellationKaraoke2025",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-12-30T01:32:56.000Z",
-    "available_at": "2026-01-01T02:40:12.000Z",
-    "duration": 1145,
-    "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
