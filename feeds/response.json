@@ -1,5 +1,24 @@
 [
   {
+    "id": "-FoERJLPhtw",
+    "title": "Clione feat. 轟はじめ (Live at PQ)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-03T10:00:00.000Z",
+    "available_at": "2026-01-03T10:00:00.000Z",
+    "duration": 262,
+    "status": "past",
+    "channel": {
+      "id": "UCmgWMQkenFc72QnYkdxdoKA",
+      "name": "ピーナッツくん!オシャレになりたい!",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/QxRUZUGTwtVnKxbqBjAZPJHVT7rTTArOQcV_hvY7efaN_ms1Jt8mvhencEgNx44Jw09oXXXmyA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Peanuts-kun"
+    }
+  },
+  {
     "id": "POPCfmLMHcU",
     "title": "あけおめ!🎍ギター弾き語り歌枠【 奏手イヅル 】",
     "type": "stream",
@@ -929,6 +948,9 @@
     "available_at": "2026-01-03T10:50:44.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -2968,27 +2990,6 @@
     "topic_id": "Original_Song",
     "published_at": "2025-12-03T10:04:51.000Z",
     "available_at": "2025-12-03T10:04:51.000Z",
-    "duration": 179,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCw6x6MUxg2gLbLe8O1p7RTA",
-    "channel": {
-      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
-      "name": "Kureiji Ollie Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kureiji Ollie"
-    }
-  },
-  {
-    "id": "C2mN8s62SLE",
-    "title": "Kureiji for you (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-12-03T10:01:50.000Z",
-    "available_at": "2025-12-03T10:01:50.000Z",
     "duration": 179,
     "status": "past",
     "songcount": 1,
