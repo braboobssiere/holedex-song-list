@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-01-02T15:32:51.000Z",
-    "available_at": "2026-01-03T14:00:00.000Z",
+    "available_at": "2026-01-03T13:57:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -948,8 +948,9 @@
     "available_at": "2026-01-03T10:50:44.000Z",
     "duration": 4075,
     "status": "past",
+    "songcount": 10,
     "live_tl_count": {
-      "en": 87
+      "en": 88
     },
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
