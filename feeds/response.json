@@ -81,6 +81,29 @@
     }
   },
   {
+    "id": "pmWH-wAJYRE",
+    "title": "【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-01-03T12:06:40.000Z",
+    "available_at": "2026-01-03T10:50:44.000Z",
+    "duration": 4081,
+    "status": "past",
+    "songcount": 11,
+    "live_tl_count": {
+      "en": 88
+    },
+    "channel": {
+      "id": "UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokoyami Towa"
+    }
+  },
+  {
     "id": "eUmwR0x55JU",
     "title": "シルベ / 常闇トワ (official)",
     "type": "stream",
@@ -1060,29 +1083,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "pmWH-wAJYRE",
-    "title": "【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-29T13:02:14.000Z",
-    "available_at": "2026-01-03T10:50:44.000Z",
-    "duration": 4075,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 88
-    },
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
     }
   },
   {
@@ -4353,7 +4353,7 @@
     "status": "past",
     "channel": {
       "id": "UCqw3pdPEKKVOI7SFXomyKLA",
-      "name": "Bonnie Barkswell ch.【globie】",
+      "name": "Bonnie Barkswell",
       "org": "globie",
       "suborg": "0e2nd Generation -Solstia-",
       "type": "vtuber",
