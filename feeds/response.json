@@ -1,5 +1,24 @@
 [
   {
+    "id": "VTzlMR5YYEg",
+    "title": "【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW!【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-07T09:58:31.000Z",
+    "available_at": "2026-01-07T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
     "id": "vhM9YJDhkuQ",
     "title": "【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive",
     "type": "stream",
@@ -124,6 +143,7 @@
     "available_at": "2026-01-06T03:00:51.000Z",
     "duration": 3628,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -2934,26 +2954,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Anya Melfissa"
-    }
-  },
-  {
-    "id": "1YrG2WGeIJo",
-    "title": "彗星 / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-12-05T09:00:08.000Z",
-    "available_at": "2025-12-05T09:00:08.000Z",
-    "duration": 230,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
