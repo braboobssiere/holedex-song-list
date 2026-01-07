@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-07T12:56:07.287Z</updated>
+  <updated>2026-01-07T13:26:16.956Z</updated>
+
+  <entry>
+    <id>urn:uuid:d77fd9dc-4704-57b6-8bd4-c019c778fbd9</id>
+    <title><![CDATA[≪ASMR TYPING STREAM≫ I am become TTS]]></title>
+    <link href="https://youtu.be/flfKicFEA0U" rel="alternate" type="text/html"/>
+    <published>2026-01-07T13:02:08.000Z</published>
+    <updated>2026-01-08T01:00:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=flfKicFEA0U 【LIVE on &lt;t:1767834000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/flfKicFEA0U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:56c6b6d5-07e7-5ae2-8a7b-cffc192c1601</id>
+    <title><![CDATA[【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW!【儒烏風亭らでん #ReGLOSS 】]]></title>
+    <link href="https://youtu.be/VTzlMR5YYEg" rel="alternate" type="text/html"/>
+    <published>2026-01-07T13:00:06.000Z</published>
+    <updated>2026-01-07T13:00:06.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VTzlMR5YYEg 【LIVE on &lt;t:1767790806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTzlMR5YYEg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3e2e2446-2772-5629-a724-7b98a6933f61</id>
@@ -20,30 +48,16 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:56c6b6d5-07e7-5ae2-8a7b-cffc192c1601</id>
-    <title><![CDATA[【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW!【儒烏風亭らでん #ReGLOSS 】]]></title>
-    <link href="https://youtu.be/VTzlMR5YYEg" rel="alternate" type="text/html"/>
-    <published>2026-01-07T09:58:31.000Z</published>
-    <updated>2026-01-07T13:00:00.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VTzlMR5YYEg 【LIVE on &lt;t:1767790800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VTzlMR5YYEg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:bc559930-fe40-5fa5-946f-ecd7bff19d0a</id>
     <title><![CDATA[【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive]]></title>
     <link href="https://youtu.be/vhM9YJDhkuQ" rel="alternate" type="text/html"/>
     <published>2026-01-07T04:34:17.000Z</published>
-    <updated>2026-01-07T13:00:00.000Z</updated>
+    <updated>2026-01-07T13:01:31.000Z</updated>
     <author>
       <name>Mori Calliope Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vhM9YJDhkuQ 【LIVE on &lt;t:1767790800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vhM9YJDhkuQ 【LIVE on &lt;t:1767790891:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vhM9YJDhkuQ/maxresdefault.jpg"/>
   </entry>
 
@@ -2201,20 +2215,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uW2Yyq3ENVg 【LIVE on &lt;t:1743796834:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uW2Yyq3ENVg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6f354560-f7aa-5fbe-8027-623cd6112bb5</id>
-    <title><![CDATA[【CRAB ASMR/HANDCAM】Local rock breaks limbs live on stream]]></title>
-    <link href="https://youtu.be/NtzRhLagoJ0" rel="alternate" type="text/html"/>
-    <published>2025-04-03T03:04:08.000Z</published>
-    <updated>2025-04-03T01:12:20.000Z</updated>
-    <author>
-      <name>Koseki Bijou Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NtzRhLagoJ0 【LIVE on &lt;t:1743642740:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NtzRhLagoJ0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
