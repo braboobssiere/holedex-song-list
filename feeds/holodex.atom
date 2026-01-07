@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-07T14:56:09.215Z</updated>
+  <updated>2026-01-07T15:26:12.845Z</updated>
+
+  <entry>
+    <id>urn:uuid:02bc4b59-0ba8-512e-a941-062e6fe96294</id>
+    <title><![CDATA[TAKO∞TAKOVER]]></title>
+    <link href="https://youtu.be/HLjZhGC1sAs" rel="alternate" type="text/html"/>
+    <published>2026-01-07T15:00:36.000Z</published>
+    <updated>2026-01-07T15:00:36.000Z</updated>
+    <author>
+      <name>Ninomae Ina'nis Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HLjZhGC1sAs 【LIVE on &lt;t:1767798036:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HLjZhGC1sAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8dc6da5f-4404-50c0-ae9b-f06ccbf12b72</id>
+    <title><![CDATA[TAKO∞TAKOVER(Instrumental)]]></title>
+    <link href="https://youtu.be/-wDJIZva0t0" rel="alternate" type="text/html"/>
+    <published>2026-01-07T15:00:01.000Z</published>
+    <updated>2026-01-07T15:00:01.000Z</updated>
+    <author>
+      <name>Ninomae Ina'nis Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-wDJIZva0t0 【LIVE on &lt;t:1767798001:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-wDJIZva0t0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d77fd9dc-4704-57b6-8bd4-c019c778fbd9</id>
@@ -1151,34 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=nKn9GLjoWlg 【LIVE on &lt;t:1765101675:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nKn9GLjoWlg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4a2e9527-e019-5c67-99dd-81cacfbeb1b3</id>
-    <title><![CDATA[オーガンジー (Instrumental)]]></title>
-    <link href="https://youtu.be/G2_3YoopRAU" rel="alternate" type="text/html"/>
-    <published>2025-12-05T15:04:44.000Z</published>
-    <updated>2025-12-05T15:04:44.000Z</updated>
-    <author>
-      <name>Anya Melfissa Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G2_3YoopRAU 【LIVE on &lt;t:1764947084:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G2_3YoopRAU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:01e76926-ae5f-50e0-908a-d3fa6c7b26d7</id>
-    <title><![CDATA[オーガンジー]]></title>
-    <link href="https://youtu.be/8sH9HQXbpf0" rel="alternate" type="text/html"/>
-    <published>2025-12-05T15:03:00.000Z</published>
-    <updated>2025-12-05T15:03:00.000Z</updated>
-    <author>
-      <name>Anya Melfissa Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8sH9HQXbpf0 【LIVE on &lt;t:1764946980:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8sH9HQXbpf0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
