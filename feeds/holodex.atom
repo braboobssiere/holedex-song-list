@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-08T15:56:08.359Z</updated>
+  <updated>2026-01-08T16:26:11.910Z</updated>
 
   <entry>
     <id>urn:uuid:f0c1713a-7c02-5eff-94eb-82c2ef23a746</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fLwXkiEDzp8 【LIVE on &lt;t:1767884514:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fLwXkiEDzp8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bc8c9532-8ba9-547e-af32-9c7b60878d44</id>
+    <title><![CDATA[【歌枠】新衣装で歌謡曲歌うぞ!新しく覚えた曲もアリ!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/0aTdfT79YOI" rel="alternate" type="text/html"/>
+    <published>2026-01-08T12:01:39.000Z</published>
+    <updated>2026-01-09T10:00:00.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0aTdfT79YOI 【LIVE on &lt;t:1767952800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0aTdfT79YOI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IdXhY6zGC4s 【LIVE on &lt;t:1766919606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IdXhY6zGC4s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d481087f-681f-5c3a-a6f3-e7b47086ddea</id>
-    <title><![CDATA[【歌枠 KARAOKE】縦型歌雑談❕【水宮枢/ホロライブDEV_IS】]]></title>
-    <link href="https://youtu.be/V0Sde9_VKkQ" rel="alternate" type="text/html"/>
-    <published>2025-12-28T04:14:34.000Z</published>
-    <updated>2025-12-28T01:29:39.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=V0Sde9_VKkQ 【LIVE on &lt;t:1766885379:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V0Sde9_VKkQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
