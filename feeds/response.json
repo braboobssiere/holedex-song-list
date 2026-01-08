@@ -47,9 +47,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2026-01-07T13:02:08.000Z",
-    "available_at": "2026-01-08T01:00:00.000Z",
+    "available_at": "2026-01-08T01:01:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -198,6 +198,26 @@
     }
   },
   {
+    "id": "pKalDAIMYV8",
+    "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-06T11:36:00.000Z",
+    "available_at": "2026-01-06T09:37:03.000Z",
+    "duration": 5948,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "QBPcbMddBco",
     "title": "【歌枠 / karaoke】お仕事学校お疲れ様の会 / アステル",
     "type": "stream",
@@ -214,26 +234,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "pKalDAIMYV8",
-    "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢／ホロライブDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-06T09:36:47.000Z",
-    "available_at": "2026-01-06T09:37:03.000Z",
-    "duration": 5979,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
