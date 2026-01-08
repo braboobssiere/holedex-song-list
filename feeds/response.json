@@ -130,8 +130,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-01-08T04:56:23.000Z",
     "available_at": "2026-01-08T15:01:04.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7113,
+    "status": "past",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -205,7 +205,7 @@
   },
   {
     "id": "VTzlMR5YYEg",
-    "title": "【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW!【儒烏風亭らでん #ReGLOSS 】",
+    "title": "【オリジナル曲】JAPANの美術史♪お·ぼ·え·ま·SHOW！【儒烏風亭らでん #ReGLOSS 】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-01-07T13:00:06.000Z",
@@ -241,6 +241,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
+    "id": "_wmk8y6zGNs",
+    "title": "【3RD ANNIVERSARY + NEW OUTFIT】An Alternative Option Of Sorts!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-01-07T06:44:14.000Z",
+    "available_at": "2026-01-07T01:32:30.000Z",
+    "duration": 5379,
+    "status": "past",
+    "channel": {
+      "id": "UC060r4zABV18vcahAWR1n7w",
+      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Machina X Flayon"
     }
   },
   {
@@ -415,25 +434,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "_wmk8y6zGNs",
-    "title": "【3RD ANNIVERSARY + NEW OUTFIT】An Alternative Option Of Sorts!",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-01-05T14:08:35.000Z",
-    "available_at": "2026-01-07T01:32:30.000Z",
-    "duration": 5372,
-    "status": "past",
-    "channel": {
-      "id": "UC060r4zABV18vcahAWR1n7w",
-      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Machina X Flayon"
     }
   },
   {
