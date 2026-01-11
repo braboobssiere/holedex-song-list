@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-11T19:26:11.811Z</updated>
+  <updated>2026-01-11T19:56:14.565Z</updated>
 
   <entry>
     <id>urn:uuid:cbe3c402-5229-5d17-a701-6869cabc0baf</id>
@@ -118,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:364ac231-fc82-509f-b9cf-6c04b0bd49ae</id>
+    <title><![CDATA[【チラ見せ枠_DAY】ときのそら New Year's Party 2026『Dreams in Motion』]]></title>
+    <link href="https://youtu.be/5NbNvtpj2-c" rel="alternate" type="text/html"/>
+    <published>2026-01-10T05:23:07.000Z</published>
+    <updated>2026-01-10T04:56:37.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5NbNvtpj2-c 【LIVE on &lt;t:1768020997:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5NbNvtpj2-c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e034992e-9cba-556c-a170-eb593cc2083c</id>
     <title><![CDATA[【60万人耐久】縦型歌枠&雑談🧊!【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/uUnYGh6hK_k" rel="alternate" type="text/html"/>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ko7ypXM_-yQ 【LIVE on &lt;t:1768038210:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ko7ypXM_-yQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:364ac231-fc82-509f-b9cf-6c04b0bd49ae</id>
-    <title><![CDATA[【チラ見せ枠_DAY】ときのそら New Year’s Party 2026『Dreams in Motion』]]></title>
-    <link href="https://youtu.be/5NbNvtpj2-c" rel="alternate" type="text/html"/>
-    <published>2026-01-09T06:21:56.000Z</published>
-    <updated>2026-01-10T04:56:37.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5NbNvtpj2-c 【LIVE on &lt;t:1768020997:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5NbNvtpj2-c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
