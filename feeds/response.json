@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-01-10T21:35:12.000Z",
-    "available_at": "2026-01-11T13:00:00.000Z",
+    "available_at": "2026-01-11T13:04:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -266,6 +266,7 @@
     "available_at": "2026-01-11T10:00:13.000Z",
     "duration": 3043,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
