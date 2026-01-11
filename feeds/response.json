@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2026-01-10T15:08:54.000Z",
     "available_at": "2026-01-11T02:03:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 15723,
+    "status": "past",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -65,6 +65,7 @@
     "available_at": "2026-01-10T14:01:02.000Z",
     "duration": 4613,
     "status": "past",
+    "songcount": 6,
     "live_tl_count": {
       "en": 12
     },
