@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-11T01:26:08.689Z</updated>
+  <updated>2026-01-11T01:56:12.257Z</updated>
 
   <entry>
     <id>urn:uuid:05b8639e-68ec-5f33-b621-9599d18e7643</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uUnYGh6hK_k 【LIVE on &lt;t:1768010458:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uUnYGh6hK_k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bc8c9532-8ba9-547e-af32-9c7b60878d44</id>
+    <title><![CDATA[【歌枠】新衣装で歌謡曲歌うぞ!新しく覚えた曲もアリ!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/0aTdfT79YOI" rel="alternate" type="text/html"/>
+    <published>2026-01-09T23:22:05.000Z</published>
+    <updated>2026-01-09T09:59:39.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0aTdfT79YOI 【LIVE on &lt;t:1767952779:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0aTdfT79YOI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fLwXkiEDzp8 【LIVE on &lt;t:1767884514:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fLwXkiEDzp8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bc8c9532-8ba9-547e-af32-9c7b60878d44</id>
-    <title><![CDATA[【歌枠】新衣装で歌謡曲歌うぞ！新しく覚えた曲もアリ！【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/0aTdfT79YOI" rel="alternate" type="text/html"/>
-    <published>2026-01-08T12:01:39.000Z</published>
-    <updated>2026-01-09T09:59:39.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0aTdfT79YOI 【LIVE on &lt;t:1767952779:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0aTdfT79YOI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
