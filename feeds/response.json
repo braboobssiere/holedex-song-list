@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-01-11T06:00:06.000Z",
     "available_at": "2026-01-11T06:00:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3328,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -65,7 +65,7 @@
     "available_at": "2026-01-10T14:01:02.000Z",
     "duration": 4613,
     "status": "past",
-    "songcount": 6,
+    "songcount": 9,
     "live_tl_count": {
       "en": 12
     },
@@ -146,6 +146,7 @@
     "available_at": "2026-01-10T02:00:58.000Z",
     "duration": 10226,
     "status": "past",
+    "songcount": 15,
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
