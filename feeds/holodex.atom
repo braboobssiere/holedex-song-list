@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-11T10:26:09.406Z</updated>
+  <updated>2026-01-11T10:56:09.518Z</updated>
+
+  <entry>
+    <id>urn:uuid:02525358-9f48-57dc-bde4-2a73b4c7e6bc</id>
+    <title><![CDATA[【Original】Dunk/轟はじめ【Official MV】]]></title>
+    <link href="https://youtu.be/Gs9wZorLo40" rel="alternate" type="text/html"/>
+    <published>2026-01-11T10:50:07.000Z</published>
+    <updated>2026-01-11T10:50:07.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Gs9wZorLo40 【LIVE on &lt;t:1768128607:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Gs9wZorLo40/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:05b8639e-68ec-5f33-b621-9599d18e7643</id>
@@ -1137,20 +1151,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jNCGOv8Zz1A 【LIVE on &lt;t:1765540735:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jNCGOv8Zz1A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3a8eb20e-fc56-54a4-ad6d-52b08a627ed6</id>
-    <title><![CDATA[繭と心 / Hoshimachi Suisei 日本武道館 Live "SuperNova" ver]]></title>
-    <link href="https://youtu.be/297ru_VlI6w" rel="alternate" type="text/html"/>
-    <published>2025-12-12T12:00:06.000Z</published>
-    <updated>2025-12-12T12:00:06.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=297ru_VlI6w 【LIVE on &lt;t:1765540806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/297ru_VlI6w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
