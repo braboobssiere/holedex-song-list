@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-12T06:26:08.711Z</updated>
+  <updated>2026-01-12T06:56:11.899Z</updated>
 
   <entry>
     <id>urn:uuid:cbe3c402-5229-5d17-a701-6869cabc0baf</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:be33b56d-0c38-536a-8c4c-0fdab7915a8d</id>
+    <title><![CDATA[【歌枠】深夜テンションでまったり過ごす時間【雑談】]]></title>
+    <link href="https://youtu.be/K1C4lNfRl7s" rel="alternate" type="text/html"/>
+    <published>2026-01-10T16:28:56.000Z</published>
+    <updated>2026-01-10T14:02:02.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=K1C4lNfRl7s 【LIVE on &lt;t:1768053722:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/K1C4lNfRl7s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:45ffa6ab-445a-5792-b91c-849c36f6023d</id>
     <title><![CDATA[【 縦型/歌枠】NO17💜懐かしい歌からたのしんじゃお っ🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
     <link href="https://youtu.be/KoZqswHth5M" rel="alternate" type="text/html"/>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KoZqswHth5M 【LIVE on &lt;t:1768053662:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KoZqswHth5M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:be33b56d-0c38-536a-8c4c-0fdab7915a8d</id>
-    <title><![CDATA[【歌枠】深夜テンションでまったり過ごす時間【雑談】]]></title>
-    <link href="https://youtu.be/K1C4lNfRl7s" rel="alternate" type="text/html"/>
-    <published>2026-01-10T12:47:43.000Z</published>
-    <updated>2026-01-10T14:02:02.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=K1C4lNfRl7s 【LIVE on &lt;t:1768053722:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/K1C4lNfRl7s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
