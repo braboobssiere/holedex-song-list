@@ -60,6 +60,25 @@
     }
   },
   {
+    "id": "7HfzPoQkotk",
+    "title": "【 エレクトーン 】3ヶ月ぶりに演奏するのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2026-01-12T10:54:06.000Z",
+    "available_at": "2026-01-12T06:57:37.000Z",
+    "duration": 13490,
+    "status": "past",
+    "channel": {
+      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Himemori Luna"
+    }
+  },
+  {
     "id": "tJVh8PFuENU",
     "title": "【歌枠】第130回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -138,25 +157,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "7HfzPoQkotk",
-    "title": "【 エレクトーン 】３ヶ月ぶりに演奏するのら～～～！！！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2026-01-11T14:20:40.000Z",
-    "available_at": "2026-01-12T06:57:37.000Z",
-    "duration": 13489,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
@@ -591,6 +591,7 @@
     "available_at": "2026-01-13T09:01:29.000Z",
     "duration": 575,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
