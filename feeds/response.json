@@ -1,5 +1,24 @@
 [
   {
+    "id": "XoT04W6LBtQ",
+    "title": "【歌枠】ハイトーンのそらは今日も歌ってる。【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-17T14:38:37.000Z",
+    "available_at": "2026-01-17T15:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "Z0AT2Robu8s",
     "title": "【FUWAMOCO ROCK N' RAWR PARTY】silly secret karaoke party time ♪ #FWMCbeats 【ANNOUNCEMENT|重大発表あり】",
     "type": "stream",
@@ -47,7 +66,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 109
+      "en": 142
     },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
@@ -1723,26 +1742,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "pCgRyevUtb0",
-    "title": "【NEW YEAR KARAOKE RELAY】Let's Sing Into Another Year! | #HSEConstellationKaraoke2025",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-01T11:59:44.000Z",
-    "available_at": "2026-01-01T01:00:03.000Z",
-    "duration": 1012,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC060r4zABV18vcahAWR1n7w",
-      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Machina X Flayon"
     }
   },
   {

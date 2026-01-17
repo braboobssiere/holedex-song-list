@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-17T14:26:20.366Z</updated>
+  <updated>2026-01-17T14:56:08.437Z</updated>
+
+  <entry>
+    <id>urn:uuid:5b946f42-a872-5906-aad6-c605a79de8d8</id>
+    <title><![CDATA[【歌枠】ハイトーンのそらは今日も歌ってる。【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/XoT04W6LBtQ" rel="alternate" type="text/html"/>
+    <published>2026-01-17T14:38:37.000Z</published>
+    <updated>2026-01-17T15:00:00.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XoT04W6LBtQ 【LIVE on &lt;t:1768662000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XoT04W6LBtQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9c864144-8fdb-52e4-8547-a5712533452f</id>
