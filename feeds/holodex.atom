@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-18T13:26:09.901Z</updated>
+  <updated>2026-01-18T13:56:07.209Z</updated>
+
+  <entry>
+    <id>urn:uuid:0465a04f-81ce-59a9-80ae-d75f517b1b82</id>
+    <title><![CDATA[【雑談/ギター】ギターはじめ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/GQ2IFNnP-Ds" rel="alternate" type="text/html"/>
+    <published>2026-01-18T13:07:58.000Z</published>
+    <updated>2026-01-18T13:30:39.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GQ2IFNnP-Ds 【LIVE on &lt;t:1768743039:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GQ2IFNnP-Ds/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5b946f42-a872-5906-aad6-c605a79de8d8</id>
@@ -2495,19 +2509,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JYIom8xruCI 【LIVE on &lt;t:1688637830:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JYIom8xruCI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:58e97fbc-ca18-5e25-a2d8-2d7ad7c30539</id>
-    <title><![CDATA[【 エレクトーン 】夕方の練習時間なのら~🎹🎶手袋で丁寧に弾きたい!【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/6C9WHww-qsM" rel="alternate" type="text/html"/>
-    <published>2023-07-04T11:47:48.000Z</published>
-    <updated>2023-07-04T08:01:27.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6C9WHww-qsM 【LIVE on &lt;t:1688457687:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6C9WHww-qsM/maxresdefault.jpg"/>
   </entry>
 </feed>
