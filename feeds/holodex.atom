@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-21T11:56:12.359Z</updated>
+  <updated>2026-01-21T12:26:13.127Z</updated>
+
+  <entry>
+    <id>urn:uuid:f9e29ccc-04b9-59cb-bd7c-c29e905c0e9a</id>
+    <title><![CDATA[FLOW GLOW / MAKE IT, BREAK IT【Official Music Video】]]></title>
+    <link href="https://youtu.be/nNlvLhn1GHY" rel="alternate" type="text/html"/>
+    <published>2026-01-21T12:01:36.000Z</published>
+    <updated>2026-01-21T12:01:36.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nNlvLhn1GHY 【LIVE on &lt;t:1768996896:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nNlvLhn1GHY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:348ce9e8-3143-5ccf-bee8-1f103d17356d</id>
@@ -1165,20 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uShfD5V_TaU 【LIVE on &lt;t:1766671302:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uShfD5V_TaU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7292a1a7-b09c-59a2-94e3-eebf958ead36</id>
-    <title><![CDATA[咲き誇れアイドル]]></title>
-    <link href="https://youtu.be/uSnTLgdue_4" rel="alternate" type="text/html"/>
-    <published>2025-12-25T15:01:48.000Z</published>
-    <updated>2025-12-25T15:01:48.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uSnTLgdue_4 【LIVE on &lt;t:1766674908:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uSnTLgdue_4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
