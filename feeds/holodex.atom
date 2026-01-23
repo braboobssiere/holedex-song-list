@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-23T08:56:17.473Z</updated>
+  <updated>2026-01-23T09:26:13.018Z</updated>
 
   <entry>
     <id>urn:uuid:36111509-2e1d-5fb4-bdfb-a9e8c401cd61</id>
@@ -255,6 +255,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6Fk8KhounFo 【LIVE on &lt;t:1768651259:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6Fk8KhounFo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5ebab46c-1a8b-5156-82d6-530f8d4ab04a</id>
+    <title><![CDATA[【original MV】お嫁♡HOLIC【hololive/ネリッサ】]]></title>
+    <link href="https://youtu.be/yFzN8ydNeH8" rel="alternate" type="text/html"/>
+    <published>2026-01-17T10:47:46.000Z</published>
+    <updated>2026-01-24T03:00:00.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yFzN8ydNeH8 【LIVE on &lt;t:1769223600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yFzN8ydNeH8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1249,20 +1263,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kHQ79DoeKh8 【LIVE on &lt;t:1766754006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kHQ79DoeKh8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:07b7c2ab-e4dc-59cb-8763-2e585c4e5c4f</id>
-    <title><![CDATA[月に向かって撃て (Instrumental)]]></title>
-    <link href="https://youtu.be/-MU1gg9dB6s" rel="alternate" type="text/html"/>
-    <published>2025-12-26T03:04:39.000Z</published>
-    <updated>2025-12-26T03:04:39.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-MU1gg9dB6s 【LIVE on &lt;t:1766718279:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-MU1gg9dB6s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
