@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-23T14:56:13.148Z</updated>
+  <updated>2026-01-23T15:26:18.463Z</updated>
+
+  <entry>
+    <id>urn:uuid:e22076ad-e4e6-53dd-840f-9cc2ac974783</id>
+    <title><![CDATA[OYOME♡HOLIC]]></title>
+    <link href="https://youtu.be/ZjnYcRSLGxE" rel="alternate" type="text/html"/>
+    <published>2026-01-23T15:01:06.000Z</published>
+    <updated>2026-01-23T15:01:06.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZjnYcRSLGxE 【LIVE on &lt;t:1769180466:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZjnYcRSLGxE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:215b40c4-9a6d-5605-92ed-105c3f1898ad</id>
+    <title><![CDATA[お嫁♡HOLIC]]></title>
+    <link href="https://youtu.be/G2TYciGPx7A" rel="alternate" type="text/html"/>
+    <published>2026-01-23T15:00:29.000Z</published>
+    <updated>2026-01-23T15:00:29.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=G2TYciGPx7A 【LIVE on &lt;t:1769180429:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G2TYciGPx7A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aea7679c-9ab3-56e3-864b-4f38db2f2def</id>
+    <title><![CDATA[お嫁♡HOLIC(Instrumental)]]></title>
+    <link href="https://youtu.be/8nYonbIZ5TY" rel="alternate" type="text/html"/>
+    <published>2026-01-23T15:00:24.000Z</published>
+    <updated>2026-01-23T15:00:24.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8nYonbIZ5TY 【LIVE on &lt;t:1769180424:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8nYonbIZ5TY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:36111509-2e1d-5fb4-bdfb-a9e8c401cd61</id>
@@ -1235,48 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=g-jrW0ZGzDU 【LIVE on &lt;t:1766847679:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g-jrW0ZGzDU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e4e4b2dc-9fd5-5093-b656-d282950e1cce</id>
-    <title><![CDATA[誰も見てない夢を見ろ]]></title>
-    <link href="https://youtu.be/Laose_rm-84" rel="alternate" type="text/html"/>
-    <published>2025-12-27T15:00:40.000Z</published>
-    <updated>2025-12-27T15:00:40.000Z</updated>
-    <author>
-      <name>Kanata Ch. 天音かなた</name>
-      <uri>https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Laose_rm-84 【LIVE on &lt;t:1766847640:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Laose_rm-84/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:983561f1-251b-59da-b3a2-43549e6d29c6</id>
-    <title><![CDATA[【MV】気まぐれ日和 /猫又おかゆ ノベルゲーム『おかゆにゅ~~む!R』OPテーマ]]></title>
-    <link href="https://youtu.be/kHQ79DoeKh8" rel="alternate" type="text/html"/>
-    <published>2025-12-26T13:00:06.000Z</published>
-    <updated>2025-12-26T13:00:06.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kHQ79DoeKh8 【LIVE on &lt;t:1766754006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kHQ79DoeKh8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:75da0f32-be66-53ac-b103-1707bc471aa8</id>
-    <title><![CDATA[彗星 (Nor ver.)]]></title>
-    <link href="https://youtu.be/y8Md0KNRMZQ" rel="alternate" type="text/html"/>
-    <published>2025-12-26T03:04:39.000Z</published>
-    <updated>2025-12-26T03:04:39.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=y8Md0KNRMZQ 【LIVE on &lt;t:1766718279:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/y8Md0KNRMZQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
