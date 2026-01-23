@@ -41,7 +41,7 @@
     "id": "bXfbaeeKqaY",
     "title": "【MV】Rivals and Equals - Mori Calliope (TVアニメ『ガチアクタ』18話挿入歌)",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Original_Song",
     "published_at": "2026-01-22T13:33:18.000Z",
     "available_at": "2026-01-23T04:00:00.000Z",
     "duration": 0,
@@ -2189,6 +2189,25 @@
     }
   },
   {
+    "id": "3MccCpwiUpg",
+    "title": "【UNARCHIVED KARAOKE RELAY 歌枠】WE SINGING FOR 2026!!! #holoENKaraokeRelay",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2025-12-31T10:31:35.000Z",
+    "available_at": "2026-01-01T02:30:11.000Z",
+    "duration": 3611,
+    "status": "missing",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "fAcX6NZpIFc",
     "title": "【#除夜のケツ】ケツは、叩くためにある【夕刻ロベル/ホロスターズ】",
     "type": "stream",
@@ -2583,27 +2602,6 @@
     "published_at": "2025-12-26T03:04:39.000Z",
     "available_at": "2025-12-26T03:04:39.000Z",
     "duration": 241,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
-    "id": "GBf_dIZUVIc",
-    "title": "月に向かって撃て",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2025-12-26T03:04:39.000Z",
-    "available_at": "2025-12-26T03:04:39.000Z",
-    "duration": 196,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCrzT1p8gn0hQTBeMA6e2YiA",
