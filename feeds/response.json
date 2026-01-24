@@ -132,7 +132,7 @@
     "available_at": "2026-01-23T04:04:30.000Z",
     "duration": 6987,
     "status": "past",
-    "songcount": 1,
+    "songcount": 6,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -244,6 +244,26 @@
     }
   },
   {
+    "id": "KURAzY1Z7eM",
+    "title": "【 縦型歌枠 】うたうよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-22T15:13:00.000Z",
+    "available_at": "2026-01-22T13:01:01.000Z",
+    "duration": 7343,
+    "status": "past",
+    "songcount": 17,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "c0cT6ZkH2lE",
     "title": "【 歌枠 】僕と一緒にカラオケしよ~~~😸✊【 猫又おかゆ/ホロライブ 】",
     "type": "stream",
@@ -279,26 +299,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "KURAzY1Z7eM",
-    "title": "【 縦型歌枠 】うたうよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-22T09:38:58.000Z",
-    "available_at": "2026-01-22T13:01:01.000Z",
-    "duration": 7343,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
