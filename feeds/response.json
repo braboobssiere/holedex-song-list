@@ -1,5 +1,25 @@
 [
   {
+    "id": "qq-ezT0ibIg",
+    "title": "【Original Song MV】『星が降る』 / Hoshi ga Furu 【Ayunda Risu】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-25T15:00:06.000Z",
+    "available_at": "2026-01-25T15:00:06.000Z",
+    "duration": 231,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
     "id": "HBfrEdVqSW4",
     "title": "【 縦型/歌枠】ボカロうたうぞおおおお🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
     "type": "stream",
@@ -8,6 +28,9 @@
     "available_at": "2026-01-25T14:01:46.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -183,26 +206,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "qq-ezT0ibIg",
-    "title": "【Original Song MV】『星が降る』 / Hoshi ga Furu 【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-23T07:02:52.000Z",
-    "available_at": "2026-01-25T15:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
