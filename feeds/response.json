@@ -7,7 +7,7 @@
     "published_at": "2026-01-30T01:20:43.000Z",
     "available_at": "2026-01-30T03:00:00.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -24,7 +24,7 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-01-30T00:12:03.000Z",
-    "available_at": "2026-01-30T03:00:00.000Z",
+    "available_at": "2026-01-30T03:30:00.000Z",
     "duration": 0,
     "status": "upcoming",
     "channel": {
@@ -158,44 +158,6 @@
     }
   },
   {
-    "id": "6vKhN2MVpE8",
-    "title": "【3D歌枠🎤】告知あり!の1月3D歌枠ですぜ❤【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-28T11:07:37.000Z",
-    "available_at": "2026-01-28T09:00:49.000Z",
-    "duration": 6774,
-    "status": "past",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "KCDnFUTR36U",
-    "title": "【3D KARAOKE】singing party...featuring Niko and Riona!! #calliolive",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-28T03:43:14.000Z",
-    "available_at": "2026-01-28T02:00:49.000Z",
-    "duration": 5792,
-    "status": "past",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "9NQ71fyNU0g",
     "title": "【歌枠/KARAOKE】アニソンボカロ🎶元気出して月末いくぞ👊【尾丸ポルカ/ホロライブ】",
     "type": "stream",
@@ -273,33 +235,14 @@
     }
   },
   {
-    "id": "7Yu1A-M5SIc",
-    "title": "【3D】満足させないと出られない⁉ #お姉さん大集合ASMR牢 【ラプラス・ダークネス/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-26T13:19:06.000Z",
-    "available_at": "2026-01-26T11:57:17.000Z",
-    "duration": 4577,
-    "status": "past",
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
-    }
-  },
-  {
     "id": "i08YubyCY0Y",
     "title": "【🎂 BIRTHDAY CALL-INS 🎂】 IT'S MY BIRTHDAY AND I ASKED MY FRIENDS TO COME SAY HI! ୧(•ᴗ•)(•ᴗ•)୨",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-01-26T03:33:25.000Z",
     "available_at": "2026-01-30T00:00:49.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11883,
+    "status": "past",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -818,28 +761,6 @@
     }
   },
   {
-    "id": "y2bocIgXbgs",
-    "title": "【3Dオフコラボ】泥酔注意⚠️利き日本酒!正解するまで終われません⁉【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-20T13:09:36.000Z",
-    "available_at": "2026-01-20T11:59:50.000Z",
-    "duration": 3888,
-    "status": "past",
-    "live_tl_count": {
-      "en": 31
-    },
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
-    }
-  },
-  {
     "id": "GQ2IFNnP-Ds",
     "title": "【雑談/ギター】ギターはじめ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -856,26 +777,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "XJJXk28ivwY",
-    "title": "【チラ見せ】hololive 3rd Generation Live#きゅるるん大作戦〜最強アイドル、推すしかないでしょ〜【DAY2】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-18T08:31:25.000Z",
-    "available_at": "2026-01-18T07:30:16.000Z",
-    "duration": 3426,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -943,26 +844,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "cgvMVU2sO_U",
-    "title": "【チラ見せ】hololive 3rd Generation Live#きゅるるん大作戦〜最強アイドル、推すしかないでしょ〜【DAY1】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-17T09:32:47.000Z",
-    "available_at": "2026-01-17T08:30:21.000Z",
-    "duration": 3481,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -1185,24 +1066,6 @@
       "suborg": "0gOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "Y8zhAkgf1nM",
-    "title": "【3D】DEV_IS集合!ユニット対抗ゲームバトル!【#DEV_ISゲームコラボ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-16T11:09:07.000Z",
-    "available_at": "2026-01-16T10:00:17.000Z",
-    "duration": 3774,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -1768,26 +1631,6 @@
     }
   },
   {
-    "id": "ko7ypXM_-yQ",
-    "title": "【チラ見せ枠_NIGHT】ときのそら New Year's Party 2026『Dreams in Motion』",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-10T10:27:32.000Z",
-    "available_at": "2026-01-10T09:43:30.000Z",
-    "duration": 2471,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "pEL-WisTeBE",
     "title": "【KARAOKE REBROADCAST】unarchived christmas tunes🎵アーカイブ無しカラオケ!",
     "type": "stream",
@@ -1804,26 +1647,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "5NbNvtpj2-c",
-    "title": "【チラ見せ枠_DAY】ときのそら New Year's Party 2026『Dreams in Motion』",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-10T05:23:07.000Z",
-    "available_at": "2026-01-10T04:56:37.000Z",
-    "duration": 1456,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -2531,26 +2354,6 @@
     }
   },
   {
-    "id": "c-rBty6nz58",
-    "title": "【#RENZOTTO1STCONTACT】 First 3D LIVE Concert! 【レンゾット3Dライブ / NIJISANJI EN】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-02T11:55:49.000Z",
-    "available_at": "2026-01-02T11:00:16.000Z",
-    "duration": 3076,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCKu59gTZ_rdEmerdx5rV4Yg",
-      "name": "Ren Zotto 【NIJISANJI EN】",
-      "org": "Nijisanji",
-      "suborg": "5aEN ILUNA",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZvpWDidOvm_9UnejMCODc3culF4kl6S5habu5ZcO6beczmcYE2kkcB6JEjOQOCOp_0_fV1_5HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ren Zotto"
-    }
-  },
-  {
     "id": "x2kV31uEr8c",
     "title": "あいあいあいあい♡あいらぶゆー",
     "type": "stream",
@@ -2590,69 +2393,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "kzDzLKb-lEA",
-    "title": "【2026】ReGLOSSと新年を楽しもう!!【#ことよろReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-01T04:00:06.000Z",
-    "available_at": "2026-01-01T04:00:06.000Z",
-    "duration": 1238,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "oKiKqycF-lk",
-    "title": "hololive production COUNTDOWN LIVE 2025▷2026",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-31T15:48:04.000Z",
-    "available_at": "2025-12-31T13:38:11.000Z",
-    "duration": 6546,
-    "status": "past",
-    "songcount": 24,
-    "live_tl_count": {
-      "id": 4
-    },
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "fAcX6NZpIFc",
-    "title": "【#除夜のケツ】ケツは、叩くためにある【夕刻ロベル/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-31T09:31:19.000Z",
-    "available_at": "2025-12-31T08:00:25.000Z",
-    "duration": 5184,
-    "status": "past",
-    "live_tl_count": {
-      "en": 47
-    },
-    "channel": {
-      "id": "UCANDOlYTJT7N5jlRC3zfzVA",
-      "name": "Roberu Ch. 夕刻ロベル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/087yj2idU-aFOILEg1aycYQopvTOEQw4oILbI4p0u5jjSwauZRzfQkNvIhcKeUdLK-4owPQa4w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukoku Roberu"
     }
   },
   {
@@ -2738,44 +2478,6 @@
     }
   },
   {
-    "id": "DtvMI2ONoxY",
-    "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【2枠目】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-29T02:50:50.000Z",
-    "available_at": "2025-12-28T18:05:32.000Z",
-    "duration": 28851,
-    "status": "past",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "2j_UEalq-Hc",
-    "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【1枠目】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-28T18:26:37.000Z",
-    "available_at": "2025-12-28T10:02:32.000Z",
-    "duration": 28943,
-    "status": "past",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
     "id": "fuPaHO_aTDY",
     "title": "【 6周年カウントダウン 】12月29日で6周年!いつも支えてくれてありがとう🍀【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -2795,25 +2497,6 @@
     }
   },
   {
-    "id": "Jk5Wh-MkM60",
-    "title": "【企画告知】企画告知&お家3Dお披露目だにぇ~~!!きのうはあいがと!!!!!!!!!!!【ホロライブ/さくらみこ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-26T13:37:37.000Z",
-    "available_at": "2025-12-26T12:32:07.000Z",
-    "duration": 3701,
-    "status": "past",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
     "id": "uShfD5V_TaU",
     "title": "【ASMR】バイノーラル深夜雑談/freetalk #ろろめろ 【司賀りこ / 水宮枢】",
     "type": "stream",
@@ -2830,67 +2513,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "NsueHCfU1Ak",
-    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-25T14:00:19.000Z",
-    "available_at": "2025-12-25T11:57:55.000Z",
-    "duration": 6883,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "0ih-OP2tiuE",
-    "title": "【 3D LIVE 】ゲスト&重大告知あり!さくらみこ200万人&新衣装お披露目LIVE \"Twinkle Idol Christmas\" 🎄🌸【 #さくらみこ新衣装XmasLIVE】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-25T11:58:33.000Z",
-    "available_at": "2025-12-25T11:03:52.000Z",
-    "duration": 2986,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 62
-    },
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "5IcmqVUyba8",
-    "title": "【3D】リア凸来るまで帰れないクリスマスパーティ【ホロライブ/兎田ぺこら】#メリクリぺこパーティ",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-24T14:08:28.000Z",
-    "available_at": "2025-12-24T11:06:05.000Z",
-    "duration": 10429,
-    "status": "past",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
     }
   },
   {
@@ -2933,104 +2555,6 @@
     }
   },
   {
-    "id": "XNj5MXXpB4o",
-    "title": "【第2部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-24T10:57:18.000Z",
-    "available_at": "2025-12-24T08:28:07.000Z",
-    "duration": 4932,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "_dj1S1EAHpc",
-    "title": "【第1部】Ring Ring! ReGLOSS Xmas! supported by Coca-Cola【#RingRingReGLOSS】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-24T06:20:35.000Z",
-    "available_at": "2025-12-24T04:58:06.000Z",
-    "duration": 4656,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "YDlJA_eGX7k",
-    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T12:05:02.000Z",
-    "available_at": "2025-12-25T12:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "Wxs4X1tPktM",
-    "title": "【3D歌枠 / karaoke】3Dでカラオケコラボ!!! / アステル 水無世燐央",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T11:30:10.000Z",
-    "available_at": "2025-12-22T09:00:52.000Z",
-    "duration": 8144,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "3ClR51LxbaM",
-    "title": "【名探偵カナタン】3Dかなあずラストコラボ!謎を解くと?スペシャルゲスト：やなぎなぎ【ホロライブ / AZKi / 天音かなた】#かなあず",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-21T11:46:33.000Z",
-    "available_at": "2025-12-21T10:00:27.000Z",
-    "duration": 6061,
-    "status": "past",
-    "songcount": 4,
-    "live_tl_count": {
-      "en": 112
-    },
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "YXJCe-CODKs",
     "title": "【雑談】6周年を振り返ったり、最近の話をする!【岸堂天真/ホロスターズ】",
     "type": "stream",
@@ -3050,63 +2574,6 @@
     }
   },
   {
-    "id": "35Zwesa0oVc",
-    "title": "【3D】ぺこヴィヴィが初めて会う【ホロライブ/兎田ぺこら】#ぺこヴィヴィ初対面",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-17T12:52:26.000Z",
-    "available_at": "2025-12-17T11:01:45.000Z",
-    "duration": 6190,
-    "status": "past",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "kprRKPNfP3o",
-    "title": "【3D】reveal  #calliolive",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-17T02:42:38.000Z",
-    "available_at": "2025-12-17T01:01:29.000Z",
-    "duration": 5589,
-    "status": "past",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "wlPLYUOmtHE",
-    "title": "【チラ見せ】ReGLOSS 1st Live \"Flashpoint\"【有明アリーナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-16T10:01:51.000Z",
-    "available_at": "2025-12-16T09:00:17.000Z",
-    "duration": 3316,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "HlnXRFAlCMs",
     "title": "【ASMR】月曜夜の朗読ASMR【影山シエン/ホロスターズ】",
     "type": "stream",
@@ -3123,25 +2590,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kageyama Shien"
-    }
-  },
-  {
-    "id": "7C1Cj-PvnKo",
-    "title": "【3Dコラボ】ぺこマリノエルーナで「ドラゴンボールゲーム 年末特番!」に出演!ぺこ!【ホロライブ/兎田ぺこら】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-15T12:14:35.000Z",
-    "available_at": "2025-12-15T09:59:45.000Z",
-    "duration": 7170,
-    "status": "past",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
     }
   },
   {
@@ -3578,24 +3026,6 @@
     }
   },
   {
-    "id": "qrXGgzZyUCw",
-    "title": "【#FG1stアルバム 】リオ笑虎ヴィヴィでサイン書く‼️はず⁉️",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-02T10:05:43.000Z",
-    "available_at": "2025-12-02T09:18:43.000Z",
-    "duration": 2529,
-    "status": "past",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "OdvYp0TDwFE",
     "title": "【これぞ王道】ASMRの真骨頂を教えて差し上げます。【昼ホロ/花園さやか】",
     "type": "stream",
@@ -3714,26 +3144,6 @@
     }
   },
   {
-    "id": "MXuNPjOc0Dc",
-    "title": "dtto. 3Dお披露目配信 #dtto1st3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-29T12:08:12.000Z",
-    "available_at": "2025-11-29T09:55:26.000Z",
-    "duration": 5920,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCWNVjAzZmYUni8YBXYiy01w",
-      "name": "dtto.",
-      "org": "Twitch Independents",
-      "suborg": "reREJECT",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3SotsPaIwILzp3_cA5E-NJGd8a2Qkw0wGfKZx74Uu3XpoKEalgXQEXhgQCwbwt4aC7EaAsPSyQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "dtto."
-    }
-  },
-  {
     "id": "9D0uGQcvytg",
     "title": "【BRUNCH STREAM】HOLORO ANNIVERSARY NEXT WEEK!!!!!!!",
     "type": "stream",
@@ -3750,26 +3160,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "nssWg7EYLwk",
-    "title": "【3D歌枠】3Dで激しく暴れてやるから見ててね、、💛【振り返り&告知あり/虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-28T14:34:42.000Z",
-    "available_at": "2025-11-28T12:58:00.000Z",
-    "duration": 5122,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -3956,24 +3346,6 @@
     }
   },
   {
-    "id": "CBEOrFfc7eg",
-    "title": "【#FG1stアルバム 】枢ちはでサイン書くんだもん✍️💖",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-26T10:11:38.000Z",
-    "available_at": "2025-11-26T09:00:21.000Z",
-    "duration": 3513,
-    "status": "past",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "xYznMp_G2ME",
     "title": "【#佃煮のりお14周年】人妻、遂に〇〇解禁――豪華メンバーに逆凸します♥【新情報アリ〼】",
     "type": "stream",
@@ -4016,26 +3388,6 @@
     }
   },
   {
-    "id": "EsJ98-AdtD4",
-    "title": "【告知あり】LIVE打ち上げ!3Dカラオケ♡",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-24T11:38:50.000Z",
-    "available_at": "2025-11-24T10:00:17.000Z",
-    "duration": 5440,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "UArz2l2zl70",
     "title": "【#白銀ノエル生誕2025カウントダウン】晩酌しながら誕生日を迎えたいの巻ッ!【白銀ノエル/ホロライブ】",
     "type": "stream",
@@ -4052,28 +3404,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "zUI_V1Fea2U",
-    "title": "【#FG3Dライブ】MAKE IT, BREAK IT",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-23T12:19:07.000Z",
-    "available_at": "2025-11-23T10:55:16.000Z",
-    "duration": 4505,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 168
-    },
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -4136,26 +3466,6 @@
     }
   },
   {
-    "id": "k-CdD2oXddU",
-    "title": "【3D歌枠 / karaoke】3Dで歌います 金〇キラキラ金曜日ってこと...!?!?!?  / アステル",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-21T11:52:50.000Z",
-    "available_at": "2025-11-21T09:01:36.000Z",
-    "duration": 8956,
-    "status": "past",
-    "songcount": 26,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
     "id": "HGEQfQgd2bk",
     "title": "【PIANO】LET'S PRESS THE KEYS!!!!!!",
     "type": "stream",
@@ -4172,48 +3482,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Cecilia Immergreen"
-    }
-  },
-  {
-    "id": "7UlZnyO79Xg",
-    "title": "【チラ見せ】AZKi SOLO LiVE 2025 \"Departure\"【ぴあアリーナMM】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-19T10:04:48.000Z",
-    "available_at": "2025-11-19T09:00:16.000Z",
-    "duration": 3593,
-    "status": "past",
-    "songcount": 7,
-    "live_tl_count": {
-      "en": 37
-    },
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "Y-Kwrj8KpH0",
-    "title": "【3D】3期生カラオケ配信!!ライブに向けてコール予習も...?!こりゃ必見太郎ッッ!【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-18T13:19:10.000Z",
-    "available_at": "2025-11-18T12:01:25.000Z",
-    "duration": 3767,
-    "status": "past",
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -4374,25 +3642,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "2xeoAHEoKwM",
-    "title": "【再演続報アリ‼】星街すいせいのお仕事に密着⁉ライブの裏側を公開👀【ホロライブ / 星街すいせい】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-14T13:18:34.000Z",
-    "available_at": "2025-11-14T11:57:21.000Z",
-    "duration": 4561,
-    "status": "past",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -4710,26 +3959,6 @@
     }
   },
   {
-    "id": "WfGS8QW-b40",
-    "title": "【3D LIVE】LOG IN: GAME START #ROCKINBiboo",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-02T04:18:08.000Z",
-    "available_at": "2025-11-02T03:00:16.000Z",
-    "duration": 4226,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
-    }
-  },
-  {
     "id": "5_8B45UcDI8",
     "title": "【BIRTHDAY STREAM】How old am I now guys?",
     "type": "stream",
@@ -4769,106 +3998,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "UEVjnf5-Ryk",
-    "title": "【期間限定公開】AZKi 4th LiVE~7th LiVE ライブ映像【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-01T10:00:06.000Z",
-    "available_at": "2025-11-01T10:00:06.000Z",
-    "duration": 3711,
-    "status": "missing",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "_qpO8vi9fpA",
-    "title": "【公式】3Dアニメ『魔法少女ホロウィッチ!THE STAGE 〜TRICK or MAGIC!〜』本編",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-31T11:00:06.000Z",
-    "available_at": "2025-10-31T11:00:06.000Z",
-    "duration": 2970,
-    "status": "past",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "fAr2rO5KEF0",
-    "title": "【企画】#第3回ホロライブ体力王決定戦【 雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-29T13:07:22.000Z",
-    "available_at": "2025-10-29T11:57:09.000Z",
-    "duration": 3924,
-    "status": "past",
-    "live_tl_count": {
-      "en": 192
-    },
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "ZjuDUe4jnqE",
-    "title": "【チラ見せ】Tokoyami Towa 2nd Live \"SHINier\"【有明アリーナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-29T10:00:21.000Z",
-    "available_at": "2025-10-29T09:00:17.000Z",
-    "duration": 3361,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "j9vW9loaN4w",
-    "title": "#NanaAsteria3D Hear... The Song of the Galaxy!! [VTuber 3D Debut]",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-27T05:01:42.000Z",
-    "available_at": "2025-10-27T03:13:03.000Z",
-    "duration": 5280,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCJwnGUjoniJA3It-P2snc-A",
-      "name": "Nana Asteria Ch. アステリアなな",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/qkEX7g0ZjGQ2Wa_eUf-tOXGziHXyo6B-MBI92KubzMHvVnbOFrUZSfQNWPS0j6tpti7-kD-b=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nana Asteria"
     }
   },
   {
@@ -4967,25 +4096,6 @@
     }
   },
   {
-    "id": "QmpfwGfZEi4",
-    "title": "【CHATTINI DAY: 3D SPECIAL】IT'S CHATTINI APPRECIATION DAY!!! 🩵 YAAAY! + ANNOUNCEMENT",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-20T10:59:52.000Z",
-    "available_at": "2025-10-20T01:01:23.000Z",
-    "duration": 33687,
-    "status": "past",
-    "channel": {
-      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "name": "Raora Panthera Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Raora Panthera"
-    }
-  },
-  {
     "id": "-FHA4NEWGqM",
     "title": "IT'S MY 2ND BIRTHDAY!🎉",
     "type": "stream",
@@ -5005,25 +4115,6 @@
     }
   },
   {
-    "id": "v2QhoirYIzE",
-    "title": "【3D】ホロ3期生の超!重大告知!!!!VTuber人生をかけてホロライブゲームで勝負!?【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-19T12:09:45.000Z",
-    "available_at": "2025-10-19T10:57:07.000Z",
-    "duration": 3921,
-    "status": "past",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
     "id": "PZbOVhD-Eoc",
     "title": "【GIGI MURIN BDAY 2025】The Game of WHIMSY #WHIMGI",
     "type": "stream",
@@ -5040,25 +4131,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "z3-VMyirBM0",
-    "title": "【3D REVEAL AND BIG ANNOUNCEMENT】81800 #CODE81800",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-18T00:50:32.000Z",
-    "available_at": "2025-10-17T22:58:33.000Z",
-    "duration": 6326,
-    "status": "past",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
     }
   },
   {
@@ -5145,25 +4217,6 @@
     }
   },
   {
-    "id": "idpHByTWwSY",
-    "title": "【 新3D&新髪型お披露目 】生誕祭の苦悩話なのらね(・o・🍬)【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-11T14:32:09.000Z",
-    "available_at": "2025-10-11T09:57:45.000Z",
-    "duration": 15327,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
     "id": "i_gtJq2JXzI",
     "title": "BIRTHDAY REBROADCAST!【UNARCHIVED BIRTHDAY KARAOKE】",
     "type": "stream",
@@ -5203,24 +4256,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "vTYAuDmVVnc",
-    "title": "【3D実機プレイ】ビートにノリまくれ!BEMANI×ReGLOSSコラボで遊ぼう!【#ReGLOSS_BEMANI】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-10T11:11:38.000Z",
-    "available_at": "2025-10-10T10:00:12.000Z",
-    "duration": 3967,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5321,25 +4356,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "Dl55OFxinhA",
-    "title": "[24時間限定配信] EXPO 2025 Virtual Osaka Healthcare Pavilion \"Eudaimonia\" - VIRTUAL LIVE「ARK - 此ノ未来 -」",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-10-04T09:00:06.000Z",
-    "available_at": "2025-10-04T09:00:06.000Z",
-    "duration": 4736,
-    "status": "missing",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
