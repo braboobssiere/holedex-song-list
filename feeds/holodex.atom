@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-01-30T03:26:01.304Z</updated>
+  <updated>2026-01-30T03:56:10.483Z</updated>
 
   <entry>
     <id>urn:uuid:bcc30ed9-f85f-514b-933e-234cf590bec9</id>
@@ -384,6 +384,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:bf8d3030-949b-5899-9407-29537ac3cd26</id>
+    <title><![CDATA[【チラ見せ】hololive 3rd Generation Live#きゅるるん大作戦〜最強アイドル、推すしかないでしょ〜【DAY2】]]></title>
+    <link href="https://youtu.be/XJJXk28ivwY" rel="alternate" type="text/html"/>
+    <published>2026-01-18T08:31:25.000Z</published>
+    <updated>2026-01-18T07:30:16.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XJJXk28ivwY 【LIVE on &lt;t:1768721416:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XJJXk28ivwY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9c864144-8fdb-52e4-8547-a5712533452f</id>
     <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】silly secret karaoke party time ♪ #FWMCbeats 【ANNOUNCEMENT|重大発表あり】]]></title>
     <link href="https://youtu.be/Z0AT2Robu8s" rel="alternate" type="text/html"/>
@@ -423,6 +437,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6Fk8KhounFo 【LIVE on &lt;t:1768651259:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6Fk8KhounFo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d954f483-9dd0-526a-895f-a1f47fad0e3a</id>
+    <title><![CDATA[【チラ見せ】hololive 3rd Generation Live#きゅるるん大作戦〜最強アイドル、推すしかないでしょ〜【DAY1】]]></title>
+    <link href="https://youtu.be/cgvMVU2sO_U" rel="alternate" type="text/html"/>
+    <published>2026-01-17T09:32:47.000Z</published>
+    <updated>2026-01-17T08:30:21.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cgvMVU2sO_U 【LIVE on &lt;t:1768638621:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cgvMVU2sO_U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -790,6 +818,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a65f2081-5344-5421-8ea2-dff6b0417f33</id>
+    <title><![CDATA[【チラ見せ枠_NIGHT】ときのそら New Year's Party 2026『Dreams in Motion』]]></title>
+    <link href="https://youtu.be/ko7ypXM_-yQ" rel="alternate" type="text/html"/>
+    <published>2026-01-10T10:27:32.000Z</published>
+    <updated>2026-01-10T09:43:30.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ko7ypXM_-yQ 【LIVE on &lt;t:1768038210:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ko7ypXM_-yQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:364ac231-fc82-509f-b9cf-6c04b0bd49ae</id>
+    <title><![CDATA[【チラ見せ枠_DAY】ときのそら New Year's Party 2026『Dreams in Motion』]]></title>
+    <link href="https://youtu.be/5NbNvtpj2-c" rel="alternate" type="text/html"/>
+    <published>2026-01-10T05:23:07.000Z</published>
+    <updated>2026-01-10T04:56:37.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5NbNvtpj2-c 【LIVE on &lt;t:1768020997:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5NbNvtpj2-c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e034992e-9cba-556c-a170-eb593cc2083c</id>
     <title><![CDATA[【60万人耐久】縦型歌枠&雑談🧊!【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/uUnYGh6hK_k" rel="alternate" type="text/html"/>
@@ -1112,6 +1168,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:cf11907b-8e2e-59cc-8d04-a0125ec6420e</id>
+    <title><![CDATA[【#RENZOTTO1STCONTACT】 First 3D LIVE Concert! 【レンゾット3Dライブ / NIJISANJI EN】]]></title>
+    <link href="https://youtu.be/c-rBty6nz58" rel="alternate" type="text/html"/>
+    <published>2026-01-02T11:55:49.000Z</published>
+    <updated>2026-01-02T11:00:16.000Z</updated>
+    <author>
+      <name>Ren Zotto 【NIJISANJI EN】</name>
+      <uri>https://www.youtube.com/channel/UCKu59gTZ_rdEmerdx5rV4Yg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=c-rBty6nz58 【LIVE on &lt;t:1767351616:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c-rBty6nz58/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:f71aa8c9-b66e-5519-a45c-3ae6ebe5996e</id>
     <title><![CDATA[あいあいあいあい♡あいらぶゆー]]></title>
     <link href="https://youtu.be/x2kV31uEr8c" rel="alternate" type="text/html"/>
@@ -1137,6 +1207,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jSg3RQln92Q 【LIVE on &lt;t:1767279726:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jSg3RQln92Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0eff0401-de00-5e70-89f9-192482002986</id>
+    <title><![CDATA[hololive production COUNTDOWN LIVE 2025▷2026]]></title>
+    <link href="https://youtu.be/oKiKqycF-lk" rel="alternate" type="text/html"/>
+    <published>2025-12-31T15:48:04.000Z</published>
+    <updated>2025-12-31T13:38:11.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oKiKqycF-lk 【LIVE on &lt;t:1767188291:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oKiKqycF-lk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1193,6 +1277,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uShfD5V_TaU 【LIVE on &lt;t:1766671302:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uShfD5V_TaU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d51b0297-e03b-5185-9f3a-7f75dd634d20</id>
+    <title><![CDATA[【 3D LIVE 】ゲスト&重大告知あり!さくらみこ200万人&新衣装お披露目LIVE "Twinkle Idol Christmas" 🎄🌸【 #さくらみこ新衣装XmasLIVE】]]></title>
+    <link href="https://youtu.be/0ih-OP2tiuE" rel="alternate" type="text/html"/>
+    <published>2025-12-25T11:58:33.000Z</published>
+    <updated>2025-12-25T11:03:52.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0ih-OP2tiuE 【LIVE on &lt;t:1766660632:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0ih-OP2tiuE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b2c0fdbc-473c-5ad8-a2a5-0d56d7894abe</id>
+    <title><![CDATA[【名探偵カナタン】3Dかなあずラストコラボ!謎を解くと?スペシャルゲスト：やなぎなぎ【ホロライブ / AZKi / 天音かなた】#かなあず]]></title>
+    <link href="https://youtu.be/3ClR51LxbaM" rel="alternate" type="text/html"/>
+    <published>2025-12-21T11:46:33.000Z</published>
+    <updated>2025-12-21T10:00:27.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3ClR51LxbaM 【LIVE on &lt;t:1766311227:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3ClR51LxbaM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:707e8f88-e00e-5186-9956-cdc4f513f9df</id>
+    <title><![CDATA[【チラ見せ】ReGLOSS 1st Live "Flashpoint"【有明アリーナ】]]></title>
+    <link href="https://youtu.be/wlPLYUOmtHE" rel="alternate" type="text/html"/>
+    <published>2025-12-16T10:01:51.000Z</published>
+    <updated>2025-12-16T09:00:17.000Z</updated>
+    <author>
+      <name>hololive DEV_IS ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wlPLYUOmtHE 【LIVE on &lt;t:1765875617:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wlPLYUOmtHE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1280,6 +1406,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b6600980-2b1f-5c76-83ad-469f81005519</id>
+    <title><![CDATA[dtto. 3Dお披露目配信 #dtto1st3D]]></title>
+    <link href="https://youtu.be/MXuNPjOc0Dc" rel="alternate" type="text/html"/>
+    <published>2025-11-29T12:08:12.000Z</published>
+    <updated>2025-11-29T09:55:26.000Z</updated>
+    <author>
+      <name>dtto.</name>
+      <uri>https://www.youtube.com/channel/UCWNVjAzZmYUni8YBXYiy01w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MXuNPjOc0Dc 【LIVE on &lt;t:1764410126:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MXuNPjOc0Dc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0e23f82e-f7aa-5c06-95e0-bf600fd35e62</id>
+    <title><![CDATA[【3D歌枠】3Dで激しく暴れてやるから見ててね、、💛【振り返り&告知あり/虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/nssWg7EYLwk" rel="alternate" type="text/html"/>
+    <published>2025-11-28T14:34:42.000Z</published>
+    <updated>2025-11-28T12:58:00.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nssWg7EYLwk 【LIVE on &lt;t:1764334680:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nssWg7EYLwk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:26d68eac-3cff-50ea-a956-c84be9cd03f4</id>
     <title><![CDATA[【 #猫汰つな誕生日記念ライブ】 猫汰つな誕生祭2025 ~君と紡ぐメロディ~ 【ぶいすぽ / 猫汰つな】]]></title>
     <link href="https://youtu.be/siIJD8jvr34" rel="alternate" type="text/html"/>
@@ -1319,6 +1473,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eV59GTk0J3s 【LIVE on &lt;t:1763985492:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eV59GTk0J3s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8c0f3d89-bfb1-5eda-bc90-65f1ecd7fc12</id>
+    <title><![CDATA[【告知あり】LIVE打ち上げ!3Dカラオケ♡]]></title>
+    <link href="https://youtu.be/EsJ98-AdtD4" rel="alternate" type="text/html"/>
+    <published>2025-11-24T11:38:50.000Z</published>
+    <updated>2025-11-24T10:00:17.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EsJ98-AdtD4 【LIVE on &lt;t:1763978417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EsJ98-AdtD4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85647b9d-096c-5917-8b57-018086340aba</id>
+    <title><![CDATA[【#FG3Dライブ】MAKE IT, BREAK IT]]></title>
+    <link href="https://youtu.be/zUI_V1Fea2U" rel="alternate" type="text/html"/>
+    <published>2025-11-23T12:19:07.000Z</published>
+    <updated>2025-11-23T10:55:16.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zUI_V1Fea2U 【LIVE on &lt;t:1763895316:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zUI_V1Fea2U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1375,6 +1557,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582587:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:456ee43e-6ad0-57d4-a2fc-c5baa7514b11</id>
+    <title><![CDATA[【チラ見せ】AZKi SOLO LiVE 2025 "Departure"【ぴあアリーナMM】]]></title>
+    <link href="https://youtu.be/7UlZnyO79Xg" rel="alternate" type="text/html"/>
+    <published>2025-11-19T10:04:48.000Z</published>
+    <updated>2025-11-19T09:00:16.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7UlZnyO79Xg 【LIVE on &lt;t:1763542816:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7UlZnyO79Xg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1462,6 +1658,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d50e0256-d4d3-5875-8ba0-2c6058e691f7</id>
+    <title><![CDATA[【3D LIVE】LOG IN: GAME START #ROCKINBiboo]]></title>
+    <link href="https://youtu.be/WfGS8QW-b40" rel="alternate" type="text/html"/>
+    <published>2025-11-02T04:18:08.000Z</published>
+    <updated>2025-11-02T03:00:16.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WfGS8QW-b40 【LIVE on &lt;t:1762052416:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WfGS8QW-b40/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:39ef107b-26a1-5339-82d2-60bec14132a9</id>
     <title><![CDATA[【 #夏色まつり誕生祭2025 】重大告知あり!アイドル革命進行中!~今日の主役は夢の途中~ 【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/L-XVS13TRTI" rel="alternate" type="text/html"/>
@@ -1473,6 +1683,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=L-XVS13TRTI 【LIVE on &lt;t:1761998236:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L-XVS13TRTI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c3756348-bc72-5a71-8382-08099d134fa6</id>
+    <title><![CDATA[【チラ見せ】Tokoyami Towa 2nd Live "SHINier"【有明アリーナ】]]></title>
+    <link href="https://youtu.be/ZjuDUe4jnqE" rel="alternate" type="text/html"/>
+    <published>2025-10-29T10:00:21.000Z</published>
+    <updated>2025-10-29T09:00:17.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZjuDUe4jnqE 【LIVE on &lt;t:1761728417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZjuDUe4jnqE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2403907b-9a2b-5a20-94dd-1cb1b8aeb044</id>
+    <title><![CDATA[#NanaAsteria3D Hear... The Song of the Galaxy!! [VTuber 3D Debut]]]></title>
+    <link href="https://youtu.be/j9vW9loaN4w" rel="alternate" type="text/html"/>
+    <published>2025-10-27T05:01:42.000Z</published>
+    <updated>2025-10-27T03:13:03.000Z</updated>
+    <author>
+      <name>Nana Asteria Ch. アステリアなな</name>
+      <uri>https://www.youtube.com/channel/UCJwnGUjoniJA3It-P2snc-A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=j9vW9loaN4w 【LIVE on &lt;t:1761534783:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/j9vW9loaN4w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
