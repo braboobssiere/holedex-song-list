@@ -1,5 +1,24 @@
 [
   {
+    "id": "FaaVX7pwRbY",
+    "title": "【MV】3tay on, 3tay together (兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン) 【 #HOLOLIVEFANTASY 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-31T11:00:06.000Z",
+    "available_at": "2026-01-31T11:00:06.000Z",
+    "duration": 260,
+    "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "zi60qBQOoxQ",
     "title": "【 縦型歌枠 】777,777人目指して歌おうかなって【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -89,6 +108,7 @@
     "available_at": "2026-01-30T15:31:21.000Z",
     "duration": 7470,
     "status": "past",
+    "songcount": 13,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -968,9 +988,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-01-18T05:44:38.000Z",
-    "available_at": "2026-01-31T11:00:00.000Z",
+    "available_at": "2026-01-31T10:57:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 192
+    },
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -2637,27 +2660,6 @@
     "topic_id": "Original_Song",
     "published_at": "2026-01-01T15:04:39.000Z",
     "available_at": "2026-01-01T15:04:39.000Z",
-    "duration": 230,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCAOI5pKw3mIHlLhd2V3ThpA",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "jSg3RQln92Q",
-    "title": "あいあいあいあい♡あいらぶゆー (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-01T15:02:06.000Z",
-    "available_at": "2026-01-01T15:02:06.000Z",
     "duration": 230,
     "status": "past",
     "songcount": 1,
