@@ -1,13 +1,51 @@
 [
   {
+    "id": "4__3dh2J0eg",
+    "title": "【ゲリラ歌枠 / KARAOKE】なんか歌いたくなった♪ Casual Guerilla Karaoke!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-01T13:49:38.000Z",
+    "available_at": "2026-02-01T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
+    "id": "VOWseCQp_sg",
+    "title": "【 縦型/歌枠】NO19.今日はかわいい曲をうたうたい!!🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-01T13:37:54.000Z",
+    "available_at": "2026-02-01T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "dQZSCfAlaug",
     "title": "Rebroadcast =【UNARCHIVED KARAOKE】Thank you for 600k - Lets have a sing song ~! 💄",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-02-01T13:04:27.000Z",
-    "available_at": "2026-02-01T13:30:00.000Z",
+    "available_at": "2026-02-01T13:29:17.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
@@ -35,26 +73,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "3ZeotToFFGo",
-    "title": "【A GENTLEMEN'S DISPUTE】It's Altare's Birthday!【OCTAVIO HOLOSTARS EN】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-02-01T09:24:37.000Z",
-    "available_at": "2026-02-01T09:24:37.000Z",
-    "duration": 8647,
-    "status": "past",
-    "original_channel_id": "UCKOMmos9c3VRPJBuZa4dP0w",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -2203,29 +2221,6 @@
     }
   },
   {
-    "id": "gd4M_LZnY4o",
-    "title": "【縦型歌枠】収録までちょっとだけ歌う#shorts #歌枠 【風真いろは/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-09T19:16:46.000Z",
-    "available_at": "2026-01-08T09:15:58.000Z",
-    "duration": 3425,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 110
-    },
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
-    }
-  },
-  {
     "id": "f2FcC35Enyo",
     "title": "REALITY FANTASY",
     "type": "stream",
@@ -2467,25 +2462,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Machina X Flayon"
-    }
-  },
-  {
-    "id": "vhM9YJDhkuQ",
-    "title": "【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-07T04:34:17.000Z",
-    "available_at": "2026-01-07T13:01:31.000Z",
-    "duration": 11313,
-    "status": "missing",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
     }
   },
   {
@@ -5641,6 +5617,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "V_ZdMteXV_0",
+    "title": "【 #栞葉の誕生日 2025 】誕生日なので誰彼構わず電話をかけまくってみる配信【栞葉るり/にじさんじ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2025-09-20T13:31:43.000Z",
+    "available_at": "2025-09-20T10:03:14.000Z",
+    "duration": 11761,
+    "status": "past",
+    "channel": {
+      "id": "UC7_MFM9b8hp5kuTSpa8WyOQ",
+      "name": "栞葉るり / Shioriha Ruri【にじさんじ】",
+      "org": "Nijisanji",
+      "suborg": "1uMitarashi-dan",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/A5VkQ-3F9Ibun0t22tE6Gd9WjGWN3g5cyup2h9I7b4BxE_i9Kk0ZMf-7QRmoCIiUnHk-D_qCqg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shioriha Ruri"
     }
   },
   {
