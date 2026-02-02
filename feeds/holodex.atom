@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-02T04:56:08.804Z</updated>
+  <updated>2026-02-02T05:26:10.143Z</updated>
 
   <entry>
     <id>urn:uuid:546b5472-2319-5364-8039-c8d9e1f9a7cf</id>
@@ -188,6 +188,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4c1eddfd-7b36-5a0d-9ec2-c61c8f3ec05c</id>
+    <title><![CDATA[【歌枠/縦型】声出し兼ねて~アニソン中心に!いろいろ歌う🎤  #shorts【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/9JnjKTN1S2w" rel="alternate" type="text/html"/>
+    <published>2026-01-31T14:17:38.000Z</published>
+    <updated>2026-01-31T14:07:26.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9JnjKTN1S2w 【LIVE on &lt;t:1769868446:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9JnjKTN1S2w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:892e8ac3-849a-578d-a980-837fd242927a</id>
     <title><![CDATA[【歌枠/縦型】声出し兼ねて～アニソン中心に！いろいろ歌う🎤 #shorts【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/GlzpugmzlY8" rel="alternate" type="text/html"/>
@@ -199,20 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=GlzpugmzlY8 【LIVE on &lt;t:1769868925:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GlzpugmzlY8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4c1eddfd-7b36-5a0d-9ec2-c61c8f3ec05c</id>
-    <title><![CDATA[【歌枠/縦型】声出し兼ねて～アニソン中心に！いろいろ歌う🎤 #shorts【不知火フレア/ホロライブ】]]></title>
-    <link href="https://youtu.be/9JnjKTN1S2w" rel="alternate" type="text/html"/>
-    <published>2026-01-31T12:55:41.000Z</published>
-    <updated>2026-01-31T14:07:26.000Z</updated>
-    <author>
-      <name>Flare Ch. 不知火フレア</name>
-      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9JnjKTN1S2w 【LIVE on &lt;t:1769868446:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9JnjKTN1S2w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
