@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-03T00:56:06.924Z</updated>
+  <updated>2026-02-03T01:26:14.366Z</updated>
 
   <entry>
     <id>urn:uuid:4e0e5d9c-89f2-5ca9-87c9-aadd7b8ad551</id>
@@ -311,6 +311,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LyY_LcuTr3c 【LIVE on &lt;t:1769778906:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LyY_LcuTr3c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bacfde41-b991-5728-8711-22fe35281b04</id>
+    <title><![CDATA[【#FG1stアルバム】FLOW GLOW / MAKE IT,BREAK IT【Live Performance】]]></title>
+    <link href="https://youtu.be/KR7tldYtm24" rel="alternate" type="text/html"/>
+    <published>2026-01-30T10:05:22.000Z</published>
+    <updated>2026-01-30T10:05:22.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KR7tldYtm24 【LIVE on &lt;t:1769767522:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KR7tldYtm24/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b1a9d910-d861-578d-86fc-014648a94f64</id>
+    <title><![CDATA[【#FG1stアルバム】FLOW GLOW / FG ROADSTER【Live Performance】]]></title>
+    <link href="https://youtu.be/yETode5MNms" rel="alternate" type="text/html"/>
+    <published>2026-01-30T10:05:13.000Z</published>
+    <updated>2026-01-30T10:05:13.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yETode5MNms 【LIVE on &lt;t:1769767513:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yETode5MNms/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1238,20 +1266,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c80a2611-9419-58bb-aa0c-6ad60eea5048</id>
-    <title><![CDATA[よくばり電脳ガール]]></title>
-    <link href="https://youtu.be/fLwXkiEDzp8" rel="alternate" type="text/html"/>
-    <published>2026-01-08T15:01:54.000Z</published>
-    <updated>2026-01-08T15:01:54.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fLwXkiEDzp8 【LIVE on &lt;t:1767884514:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fLwXkiEDzp8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:d77fd9dc-4704-57b6-8bd4-c019c778fbd9</id>
     <title><![CDATA[≪ASMR TYPING STREAM≫ I am become TTS]]></title>
     <link href="https://youtu.be/flfKicFEA0U" rel="alternate" type="text/html"/>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=flfKicFEA0U 【LIVE on &lt;t:1767834118:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/flfKicFEA0U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:02bc4b59-0ba8-512e-a941-062e6fe96294</id>
-    <title><![CDATA[TAKO∞TAKOVER]]></title>
-    <link href="https://youtu.be/HLjZhGC1sAs" rel="alternate" type="text/html"/>
-    <published>2026-01-07T15:00:36.000Z</published>
-    <updated>2026-01-07T15:00:36.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HLjZhGC1sAs 【LIVE on &lt;t:1767798036:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HLjZhGC1sAs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
