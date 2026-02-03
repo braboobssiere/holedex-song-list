@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-03T17:56:09.972Z</updated>
+  <updated>2026-02-03T18:26:07.065Z</updated>
 
   <entry>
     <id>urn:uuid:4e0e5d9c-89f2-5ca9-87c9-aadd7b8ad551</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=F-iI4-BkwXg 【LIVE on &lt;t:1770099306:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/F-iI4-BkwXg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4aa27a6b-7c9f-53e6-a139-827ad49b9a8a</id>
+    <title><![CDATA[【 オフコラボ歌枠 】あやめちゃんと歌うよん😈🍙✦【 #おにねっこ /ホロライブ】]]></title>
+    <link href="https://youtu.be/ZV8ahikRaKk" rel="alternate" type="text/html"/>
+    <published>2026-02-02T16:41:56.000Z</published>
+    <updated>2026-02-04T12:00:00.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZV8ahikRaKk 【LIVE on &lt;t:1770206400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZV8ahikRaKk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
