@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-07T03:26:11.504Z</updated>
+  <updated>2026-02-07T03:56:06.270Z</updated>
 
   <entry>
     <id>urn:uuid:3c634850-c262-5000-a84f-8579b27c4933</id>
@@ -174,6 +174,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:78a01e5e-73a4-54c1-9518-fae6771d7caf</id>
+    <title><![CDATA[【ニコの日記念3D配信】ついにきた!ニコの日を楽しもう!【虎金妃笑虎/ゲストあり/告知あり】]]></title>
+    <link href="https://youtu.be/ixSOcbeAEh0" rel="alternate" type="text/html"/>
+    <published>2026-02-05T12:05:43.000Z</published>
+    <updated>2026-02-05T11:00:40.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ixSOcbeAEh0 【LIVE on &lt;t:1770289240:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ixSOcbeAEh0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:2fa63a7d-2da4-5320-81ba-aa97c98ed892</id>
     <title><![CDATA[【ASMR】おまたせしました🐑💖今年初の耳掃除＆耳マッサージで平日から多幸感ASMR🍀【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/9CnboEmyyO4" rel="alternate" type="text/html"/>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9CnboEmyyO4 【LIVE on &lt;t:1770301850:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9CnboEmyyO4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:78a01e5e-73a4-54c1-9518-fae6771d7caf</id>
-    <title><![CDATA[【ニコの日記念3D配信】ついにきた！ニコの日を楽しもう！【虎金妃笑虎／ゲストあり／告知あり】]]></title>
-    <link href="https://youtu.be/ixSOcbeAEh0" rel="alternate" type="text/html"/>
-    <published>2026-02-04T17:17:38.000Z</published>
-    <updated>2026-02-05T11:00:40.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ixSOcbeAEh0 【LIVE on &lt;t:1770289240:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ixSOcbeAEh0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1182,17 +1182,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:912d62fe-5d17-5d3b-a830-e41050e9652c</id>
-    <title><![CDATA[FG ROADSTER]]></title>
-    <link href="https://youtu.be/yWsALHVPRB8" rel="alternate" type="text/html"/>
+    <id>urn:uuid:8a572628-591f-5050-a1e2-89cc73df35aa</id>
+    <title><![CDATA[good enough]]></title>
+    <link href="https://youtu.be/uCmpXMXeExU" rel="alternate" type="text/html"/>
     <published>2026-01-16T11:22:13.000Z</published>
     <updated>2026-01-16T11:22:13.000Z</updated>
     <author>
       <name>hololive DEV_IS FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yWsALHVPRB8 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yWsALHVPRB8/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uCmpXMXeExU 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uCmpXMXeExU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
