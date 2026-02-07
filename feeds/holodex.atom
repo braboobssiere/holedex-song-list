@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-07T00:26:12.017Z</updated>
+  <updated>2026-02-07T00:56:08.646Z</updated>
 
   <entry>
     <id>urn:uuid:3c634850-c262-5000-a84f-8579b27c4933</id>
@@ -1112,6 +1112,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:2cc5a5d4-cd02-5eb5-ae6e-ec5f7d7a825f</id>
+    <title><![CDATA[MAKE IT, BREAK IT]]></title>
+    <link href="https://youtu.be/BY_Cqzmoiuc" rel="alternate" type="text/html"/>
+    <published>2026-01-16T11:22:13.000Z</published>
+    <updated>2026-01-16T11:22:13.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BY_Cqzmoiuc 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BY_Cqzmoiuc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d260af37-65e3-5f48-b2a2-1d6cd11f753c</id>
     <title><![CDATA[LOAD]]></title>
     <link href="https://youtu.be/Cj7tCv4FNlc" rel="alternate" type="text/html"/>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yWsALHVPRB8 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yWsALHVPRB8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:add5cd59-780f-5ed9-a19f-a844a5845215</id>
-    <title><![CDATA[FG ROADSTER (Double Clapperz Remix)]]></title>
-    <link href="https://youtu.be/Z8f7RKzN8wo" rel="alternate" type="text/html"/>
-    <published>2026-01-16T11:22:13.000Z</published>
-    <updated>2026-01-16T11:22:13.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Z8f7RKzN8wo 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z8f7RKzN8wo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
