@@ -275,9 +275,10 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-02-05T08:13:53.000Z",
-    "available_at": "2026-02-07T04:00:00.000Z",
+    "available_at": "2026-02-07T04:05:29.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 3,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -2083,26 +2084,6 @@
     }
   },
   {
-    "id": "1ztTQ1-bz_8",
-    "title": "PUNISHER",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-16T11:22:13.000Z",
-    "available_at": "2026-01-16T11:22:13.000Z",
-    "duration": 196,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "9QPVczq7qEE",
     "title": "24K GOLD",
     "type": "stream",
@@ -2163,26 +2144,6 @@
     }
   },
   {
-    "id": "n1GWmUKg1dg",
-    "title": "the light",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-16T11:22:13.000Z",
-    "available_at": "2026-01-16T11:22:13.000Z",
-    "duration": 196,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
     "id": "u0h6XjNJW_o",
     "title": "stay by my side",
     "type": "stream",
@@ -2210,6 +2171,46 @@
     "published_at": "2026-01-16T11:22:13.000Z",
     "available_at": "2026-01-16T11:22:13.000Z",
     "duration": 180,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "yWsALHVPRB8",
+    "title": "FG ROADSTER",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-16T11:22:13.000Z",
+    "available_at": "2026-01-16T11:22:13.000Z",
+    "duration": 182,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "Z8f7RKzN8wo",
+    "title": "FG ROADSTER (Double Clapperz Remix)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-01-16T11:22:13.000Z",
+    "available_at": "2026-01-16T11:22:13.000Z",
+    "duration": 192,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
