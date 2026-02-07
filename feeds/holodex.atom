@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-07T20:56:12.287Z</updated>
+  <updated>2026-02-07T21:26:16.124Z</updated>
+
+  <entry>
+    <id>urn:uuid:17d6b1eb-7f52-537c-be30-5f9ed0ebeaa0</id>
+    <title><![CDATA[EGO - Takanashi Kiara (Official Music Video)]]></title>
+    <link href="https://youtu.be/wct-qvGX1ow" rel="alternate" type="text/html"/>
+    <published>2026-02-07T21:00:07.000Z</published>
+    <updated>2026-02-07T21:00:07.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wct-qvGX1ow 【LIVE on &lt;t:1770498007:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wct-qvGX1ow/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:2dcafa52-c684-51fb-8ea9-def25e5655ea</id>
@@ -185,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bZMfW7ZQSEM 【LIVE on &lt;t:1770476506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bZMfW7ZQSEM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:17d6b1eb-7f52-537c-be30-5f9ed0ebeaa0</id>
-    <title><![CDATA[EGO - Takanashi Kiara (Official Music Video)]]></title>
-    <link href="https://youtu.be/wct-qvGX1ow" rel="alternate" type="text/html"/>
-    <published>2026-02-07T13:06:46.000Z</published>
-    <updated>2026-02-07T21:00:00.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wct-qvGX1ow 【LIVE on &lt;t:1770498000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wct-qvGX1ow/maxresdefault.jpg"/>
   </entry>
 
   <entry>
