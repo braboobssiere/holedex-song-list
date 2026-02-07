@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-07T12:56:13.273Z</updated>
+  <updated>2026-02-07T13:26:09.424Z</updated>
+
+  <entry>
+    <id>urn:uuid:17d6b1eb-7f52-537c-be30-5f9ed0ebeaa0</id>
+    <title><![CDATA[EGO - Takanashi Kiara (Official Music Video)]]></title>
+    <link href="https://youtu.be/wct-qvGX1ow" rel="alternate" type="text/html"/>
+    <published>2026-02-07T13:06:46.000Z</published>
+    <updated>2026-02-07T21:00:00.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wct-qvGX1ow 【LIVE on &lt;t:1770498000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wct-qvGX1ow/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3c634850-c262-5000-a84f-8579b27c4933</id>
@@ -1154,34 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:d260af37-65e3-5f48-b2a2-1d6cd11f753c</id>
-    <title><![CDATA[LOAD]]></title>
-    <link href="https://youtu.be/Cj7tCv4FNlc" rel="alternate" type="text/html"/>
-    <published>2026-01-16T11:22:13.000Z</published>
-    <updated>2026-01-16T11:22:13.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Cj7tCv4FNlc 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Cj7tCv4FNlc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:355605eb-25d9-5455-ad38-ad529cde93f7</id>
-    <title><![CDATA[stay by my side]]></title>
-    <link href="https://youtu.be/u0h6XjNJW_o" rel="alternate" type="text/html"/>
-    <published>2026-01-16T11:22:13.000Z</published>
-    <updated>2026-01-16T11:22:13.000Z</updated>
-    <author>
-      <name>hololive DEV_IS FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=u0h6XjNJW_o 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u0h6XjNJW_o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:8a572628-591f-5050-a1e2-89cc73df35aa</id>
     <title><![CDATA[good enough]]></title>
     <link href="https://youtu.be/uCmpXMXeExU" rel="alternate" type="text/html"/>
@@ -1207,6 +1193,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yWsALHVPRB8 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yWsALHVPRB8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:add5cd59-780f-5ed9-a19f-a844a5845215</id>
+    <title><![CDATA[FG ROADSTER (Double Clapperz Remix)]]></title>
+    <link href="https://youtu.be/Z8f7RKzN8wo" rel="alternate" type="text/html"/>
+    <published>2026-01-16T11:22:13.000Z</published>
+    <updated>2026-01-16T11:22:13.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z8f7RKzN8wo 【LIVE on &lt;t:1768562533:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z8f7RKzN8wo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
