@@ -1,13 +1,32 @@
 [
   {
+    "id": "zEZNsYyqWc0",
+    "title": "【深夜歌枠🎤】ゆったりまったりの夜をリオナと過ごしましょう✨【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-08T11:40:28.000Z",
+    "available_at": "2026-02-08T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "dk6PzRkJvmw",
     "title": "【歌枠 / karaoke】  1時間だけの歌枠 アーカイブはメン  / アステル",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-02-08T10:16:34.000Z",
     "available_at": "2026-02-08T10:35:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4423,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -2605,26 +2624,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "tJVh8PFuENU",
-    "title": "【歌枠】第130回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-11T22:00:09.000Z",
-    "available_at": "2026-01-11T13:04:58.000Z",
-    "duration": 30354,
-    "status": "past",
-    "songcount": 18,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
