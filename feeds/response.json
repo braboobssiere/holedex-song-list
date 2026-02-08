@@ -1,5 +1,24 @@
 [
   {
+    "id": "dk6PzRkJvmw",
+    "title": "【歌枠 / karaoke】  1時間だけの歌枠 アーカイブはメン  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-08T10:16:34.000Z",
+    "available_at": "2026-02-08T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "33xjrouKs0E",
     "title": "≪OFF COLLAB - KARAOKE 3D≫ Featuring Rat and Hawk",
     "type": "stream",
@@ -2625,26 +2644,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
-    }
-  },
-  {
-    "id": "kVt9M0xHnNA",
-    "title": "新曲と告知があるホロライブ歌枠です!!【轟はじめ/ReGLOSS】#はじめの日2026",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-11T10:55:29.000Z",
-    "available_at": "2026-01-11T10:00:13.000Z",
-    "duration": 3043,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {
