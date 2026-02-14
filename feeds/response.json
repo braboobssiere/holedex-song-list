@@ -1,5 +1,44 @@
 [
   {
+    "id": "0FFmK1l421o",
+    "title": "【original】初恋大戦争/ by癒月ちょこ＆白銀ノエル＆雪花ラミィ【ホロライブ/癒月ちょこ/白銀ノエル/雪花ラミィ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T12:09:06.000Z",
+    "available_at": "2026-02-14T12:09:06.000Z",
+    "duration": 205,
+    "status": "past",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "ktu84esKNcY",
+    "title": "【MV】ラブノカサブタ / DECO*27‐兎田ぺこら (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T12:00:06.000Z",
+    "available_at": "2026-02-14T12:00:06.000Z",
+    "duration": 163,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "e18UT7mQrQ4",
     "title": "Let's spend this special Valentine's day together...! | ASMR 3DIO",
     "type": "stream",
@@ -19,25 +58,6 @@
     }
   },
   {
-    "id": "0FFmK1l421o",
-    "title": "【original】初恋大戦争/ by癒月ちょこ&白銀ノエル&雪花ラミィ【ホロライブ/癒月ちょこ/白銀ノエル/雪花ラミィ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-02-14T10:31:07.000Z",
-    "available_at": "2026-02-14T12:09:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1suqwovbL1kzsoaZgFZLKg",
-      "name": "Choco Ch. 癒月ちょこ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yuzuki Choco"
-    }
-  },
-  {
     "id": "MmxIj__y1Uw",
     "title": "【ASMR】前半シチュボ全体公開🎧️後半メン限で💓💓💓睡眠導入【尾丸ポルカ/ホロライブ】",
     "type": "stream",
@@ -54,26 +74,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Omaru Polka"
-    }
-  },
-  {
-    "id": "ktu84esKNcY",
-    "title": "【MV】ラブノカサブタ / DECO*27‐兎田ぺこら (official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-02-14T08:46:47.000Z",
-    "available_at": "2026-02-14T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
     }
   },
   {
@@ -459,10 +459,10 @@
     "topic_id": "asmr",
     "published_at": "2026-02-11T03:45:40.000Z",
     "available_at": "2026-02-14T11:00:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3462,
+    "status": "past",
     "live_tl_count": {
-      "en": 168
+      "en": 177
     },
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
@@ -492,6 +492,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "OfV_L2IwTWk",
+    "title": "【#AnotherMoonDay】MoonUtau Radio!【Moona Hoshinova】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-02-09T17:09:14.000Z",
+    "available_at": "2026-02-15T06:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ArbwGFqxm01MKe6qhEnAqIQCro0MUSyI8BVIu-7Ijr3OBw5z86Y1348DTTDFDstWD-uwpIO3=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Moona Hoshinova"
     }
   },
   {
@@ -1785,15 +1804,15 @@
   },
   {
     "id": "_1PGuuEP7ps",
-    "title": "【重大告知あり】新3Dお披露目?!癒月ちょこ生誕祭2026🎂 【ホロライブ/癒月ちょこ】",
+    "title": "【重大告知あり】新３Dお披露目?！癒月ちょこ生誕祭2026🎂 【ホロライブ/癒月ちょこ】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-02-01T11:05:51.000Z",
     "available_at": "2026-02-14T10:58:33.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4161,
+    "status": "past",
     "live_tl_count": {
-      "en": 71
+      "en": 80
     },
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
@@ -5690,28 +5709,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "DHsN2rHxcLA",
-    "title": "きょうは ころねの おたんじょうび(異変)",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2025-10-02T14:00:57.000Z",
-    "available_at": "2025-10-02T11:06:53.000Z",
-    "duration": 9863,
-    "status": "past",
-    "live_tl_count": {
-      "en": 242
-    },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
