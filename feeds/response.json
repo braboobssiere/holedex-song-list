@@ -1,5 +1,24 @@
 [
   {
+    "id": "hKXxOlDpa5E",
+    "title": "【ASMR】ハッピーバレンタイン!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2026-02-14T14:46:47.000Z",
+    "available_at": "2026-02-14T15:15:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "0FFmK1l421o",
     "title": "【original】初恋大戦争/ by癒月ちょこ＆白銀ノエル＆雪花ラミィ【ホロライブ/癒月ちょこ/白銀ノエル/雪花ラミィ】",
     "type": "stream",
@@ -245,6 +264,9 @@
     "available_at": "2026-02-14T13:30:42.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 10
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -6242,25 +6264,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gV1Zr_UQCBsmfyqaJhgj46qud_7HkvdqDNobqz-GSY7cQ4GNSltNxAyc1Y1-9HXXvSoORbzc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Pavolia Reine"
-    }
-  },
-  {
-    "id": "6zZN71YXUIY",
-    "title": "3DIO BOG ASMR: I WILL PURGE THESE MOSQUITOS【GROUNDED】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2025-06-09T17:32:49.000Z",
-    "available_at": "2025-06-09T09:20:04.000Z",
-    "duration": 27866,
-    "status": "past",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
     }
   },
   {
