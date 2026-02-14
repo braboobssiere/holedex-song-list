@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-14T03:56:09.690Z</updated>
+  <updated>2026-02-14T04:26:10.854Z</updated>
+
+  <entry>
+    <id>urn:uuid:ecd4ee7b-6161-50cd-b86a-0c793222dac6</id>
+    <title><![CDATA[【歌枠】第132回!Valentine's わためぇ Night Fever!! Singing Stream🍫🎤【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/7wQKhCC4fHo" rel="alternate" type="text/html"/>
+    <published>2026-02-14T04:19:04.000Z</published>
+    <updated>2026-02-14T13:00:00.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7wQKhCC4fHo 【LIVE on &lt;t:1771074000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7wQKhCC4fHo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6f175c0a-899d-5a08-8f52-058747aebb1c</id>
@@ -1361,20 +1375,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XoT04W6LBtQ 【LIVE on &lt;t:1768661953:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XoT04W6LBtQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7f16b470-e320-5033-8c3e-971092742efd</id>
-    <title><![CDATA[【オフコラボ🏠】マフィア歌ってみた記念👀✨はじめとカラオケオフコラボ✨【ホロライブ/ #ろぼばんちょ】]]></title>
-    <link href="https://youtu.be/6Fk8KhounFo" rel="alternate" type="text/html"/>
-    <published>2026-01-17T13:16:23.000Z</published>
-    <updated>2026-01-17T12:00:59.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=6Fk8KhounFo 【LIVE on &lt;t:1768651259:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6Fk8KhounFo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
