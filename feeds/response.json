@@ -1,13 +1,101 @@
 [
   {
+    "id": "XTBETpWMooI",
+    "title": "初恋大戦争 (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T15:03:27.000Z",
+    "available_at": "2026-02-14T15:03:27.000Z",
+    "duration": 204,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCyaSe7LNl6j0lcfRqa4UD8Q",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "kCZfx-Y_2xE",
+    "title": "ラブノカサブタ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T15:02:40.000Z",
+    "available_at": "2026-02-14T15:02:40.000Z",
+    "duration": 163,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCOqODaLthpxW0rtOgLzLmAw",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
+    "id": "5SNlBmJgfcc",
+    "title": "初恋大戦争",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T15:02:02.000Z",
+    "available_at": "2026-02-14T15:02:02.000Z",
+    "duration": 204,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCyaSe7LNl6j0lcfRqa4UD8Q",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "qlq414bBYGU",
+    "title": "ラブノカサブタ (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T15:01:56.000Z",
+    "available_at": "2026-02-14T15:01:56.000Z",
+    "duration": 163,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCOqODaLthpxW0rtOgLzLmAw",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "hKXxOlDpa5E",
     "title": "【ASMR】ハッピーバレンタイン!【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2026-02-14T14:46:47.000Z",
-    "available_at": "2026-02-14T15:15:00.000Z",
+    "available_at": "2026-02-14T15:16:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 8,
+      "ko": 5
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -265,7 +353,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 10
+      "en": 20
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -2202,26 +2290,6 @@
     }
   },
   {
-    "id": "Zhwyw_aZ78g",
-    "title": "【オリジナル曲】等身大ラブレター【ホロライブ/夏色まつり/HoneyWorks】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-29T09:30:06.000Z",
-    "available_at": "2026-01-29T09:30:06.000Z",
-    "duration": 234,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "9ogLB3lcVtI",
     "title": "ギターで弾き語り【奏手イヅル】",
     "type": "stream",
@@ -2239,48 +2307,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "T83JehGXw-c",
-    "title": "等身大ラブレター (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-28T15:03:34.000Z",
-    "available_at": "2026-01-28T15:03:34.000Z",
-    "duration": 229,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC941zySjR_pFTSQO3TvHO-A",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "H-qyGTWTS6I",
-    "title": "等身大ラブレター",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-28T15:03:24.000Z",
-    "available_at": "2026-01-28T15:03:24.000Z",
-    "duration": 229,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC941zySjR_pFTSQO3TvHO-A",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -2458,26 +2484,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "qq-ezT0ibIg",
-    "title": "【Original Song MV】『星が降る』 / Hoshi ga Furu 【Ayunda Risu】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-25T15:00:06.000Z",
-    "available_at": "2026-01-25T15:00:06.000Z",
-    "duration": 231,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
