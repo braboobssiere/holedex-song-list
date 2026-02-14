@@ -93,8 +93,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 8,
-      "ko": 5
+      "en": 57,
+      "ko": 60
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -344,16 +344,35 @@
     }
   },
   {
+    "id": "f53dOTLUwOw",
+    "title": "【KARAOKE】IT'S TIME TO SING FOR MY LOVELY BIRDS, LET'S SING SOME SONGS ABOUT LOVE BABY~♡【ARCHIVED】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-13T10:04:09.000Z",
+    "available_at": "2026-02-15T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
+    }
+  },
+  {
     "id": "demb4Fot87U",
     "title": "(UNARCHIVED KARAOKE) VALENTINE SPECIAL : LOVE SONGS",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-02-13T09:28:48.000Z",
     "available_at": "2026-02-14T13:30:42.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7998,
+    "status": "past",
     "live_tl_count": {
-      "en": 20
+      "en": 23
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -2604,26 +2623,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "Lkjv4BnUTlY",
-    "title": "【#ホロ3Dカラオケ】突発!ろぼあずすうリオ!4人でカラオケコラボ🎤Singing Stream【ホロライブ / AZKi / ロボ子さん / 水宮枢 / 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-22T11:12:09.000Z",
-    "available_at": "2026-01-22T09:59:55.000Z",
-    "duration": 4010,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
