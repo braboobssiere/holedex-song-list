@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-14T09:56:08.222Z</updated>
+  <updated>2026-02-14T10:26:22.484Z</updated>
+
+  <entry>
+    <id>urn:uuid:6107a204-b29c-520c-9b57-fd592346c550</id>
+    <title><![CDATA[【MV】ラブノカサブタ / DECO*27‐兎田ぺこら (official)]]></title>
+    <link href="https://youtu.be/ktu84esKNcY" rel="alternate" type="text/html"/>
+    <published>2026-02-14T08:46:47.000Z</published>
+    <updated>2026-02-14T12:00:00.000Z</updated>
+    <author>
+      <name>Pekora Ch. 兎田ぺこら</name>
+      <uri>https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ktu84esKNcY 【LIVE on &lt;t:1771070400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ktu84esKNcY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3a66583b-68fd-5e01-abf6-22020319c3c0</id>
@@ -94,12 +108,12 @@
     <title><![CDATA[【 初ASMR/KU100  】ハッピーバレンタイン…💝【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/fjIztSAh_Wk" rel="alternate" type="text/html"/>
     <published>2026-02-13T14:14:11.000Z</published>
-    <updated>2026-02-14T10:00:00.000Z</updated>
+    <updated>2026-02-14T09:59:25.000Z</updated>
     <author>
       <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fjIztSAh_Wk 【LIVE on &lt;t:1771063200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fjIztSAh_Wk 【LIVE on &lt;t:1771063165:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fjIztSAh_Wk/maxresdefault.jpg"/>
   </entry>
 
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=x_EpzbxYKhs 【LIVE on &lt;t:1769335340:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/x_EpzbxYKhs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e0d2db07-0e2a-548c-9648-7fae91c521f1</id>
-    <title><![CDATA[Breakout (Instrumental)]]></title>
-    <link href="https://youtu.be/z8-zhdxFqRQ" rel="alternate" type="text/html"/>
-    <published>2026-01-25T10:01:35.000Z</published>
-    <updated>2026-01-25T10:01:35.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=z8-zhdxFqRQ 【LIVE on &lt;t:1769335295:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z8-zhdxFqRQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>

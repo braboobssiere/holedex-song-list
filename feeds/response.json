@@ -1,5 +1,24 @@
 [
   {
+    "id": "ktu84esKNcY",
+    "title": "【MV】ラブノカサブタ / DECO*27‐兎田ぺこら (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-14T08:46:47.000Z",
+    "available_at": "2026-02-14T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
+    }
+  },
+  {
     "id": "FJKvL0mDfTg",
     "title": "【ASMR】オタク君、ねぇ聞いてる?耳元で甘やかしてあげる♡ #ギャルきちASMR【ホロライブ / AZKi】",
     "type": "stream",
@@ -143,9 +162,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2026-02-13T14:14:11.000Z",
-    "available_at": "2026-02-14T10:00:00.000Z",
+    "available_at": "2026-02-14T09:59:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
@@ -2360,27 +2382,6 @@
     "topic_id": "Original_Song",
     "published_at": "2026-01-25T10:02:20.000Z",
     "available_at": "2026-01-25T10:02:20.000Z",
-    "duration": 200,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCwgAfs2uwUbv-ywLN9ajDwA",
-    "channel": {
-      "id": "UCotXwY6s8pWmuWd_snKYjhg",
-      "name": "hololive English",
-      "org": "Hololive",
-      "suborg": "0dOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": ""
-    }
-  },
-  {
-    "id": "z8-zhdxFqRQ",
-    "title": "Breakout (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-01-25T10:01:35.000Z",
-    "available_at": "2026-01-25T10:01:35.000Z",
     "duration": 200,
     "status": "past",
     "songcount": 1,
