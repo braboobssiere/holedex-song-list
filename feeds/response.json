@@ -1,5 +1,43 @@
 [
   {
+    "id": "UavLZ_iRSw8",
+    "title": "【弾き語り歌枠】ラブソング限定【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-14T05:30:54.000Z",
+    "available_at": "2026-02-14T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
+    "id": "mlG4t_hHTec",
+    "title": "【UNARCHIVED KARAOKE・歌枠】Love Song Karaoke for Valentines",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-14T05:27:58.000Z",
+    "available_at": "2026-02-14T06:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
+    }
+  },
+  {
     "id": "g56qInpOaM8",
     "title": "【Animatic MV】 Kureiji for you - Kureiji Ollie 【Original Song】",
     "type": "stream",
@@ -48,7 +86,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "ja": 20
+      "ja": 44
     },
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -2579,30 +2617,6 @@
     }
   },
   {
-    "id": "XoT04W6LBtQ",
-    "title": "【歌枠】ハイトーンのそらは今日も歌ってる。【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-17T17:17:11.000Z",
-    "available_at": "2026-01-17T14:59:13.000Z",
-    "duration": 7820,
-    "status": "past",
-    "songcount": 18,
-    "live_tl_count": {
-      "en": 168,
-      "ko": 136
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "cgvMVU2sO_U",
     "title": "【チラ見せ】hololive 3rd Generation Live#きゅるるん大作戦〜最強アイドル、推すしかないでしょ〜【DAY1】",
     "type": "stream",
@@ -2620,28 +2634,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "nFoKdkjP2GI",
-    "title": "【TAGALOG KARAOKE】HARANA TIME【UNARCHIVED】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-16T11:49:26.000Z",
-    "available_at": "2026-01-17T12:03:27.000Z",
-    "duration": 11524,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 160
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
