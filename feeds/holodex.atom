@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-14T03:26:11.403Z</updated>
+  <updated>2026-02-14T03:56:09.690Z</updated>
+
+  <entry>
+    <id>urn:uuid:6f175c0a-899d-5a08-8f52-058747aebb1c</id>
+    <title><![CDATA[(KEYBOARD ASMR) Silent Stream. I will be writing Valentines random holoID fanfic (WORK STREAM)]]></title>
+    <link href="https://youtu.be/BFIicKJeS6o" rel="alternate" type="text/html"/>
+    <published>2026-02-14T03:41:58.000Z</published>
+    <updated>2026-02-14T04:30:00.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BFIicKJeS6o 【LIVE on &lt;t:1771043400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BFIicKJeS6o/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0564110c-6b3d-5ec3-ac3c-69337b29771f</id>
@@ -2369,20 +2383,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q-FRQRsAR6Q 【LIVE on &lt;t:1747576765:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q-FRQRsAR6Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:83cd1cc1-de27-5d23-8e69-9f8226cf7afc</id>
-    <title><![CDATA[【THREAT -SCREAM AND ESCAPE-】screaming asmr【Kaela Kovalskia / hololiveID】]]></title>
-    <link href="https://youtu.be/SvoXKyVrdLo" rel="alternate" type="text/html"/>
-    <published>2025-05-10T18:13:34.000Z</published>
-    <updated>2025-05-10T15:59:57.000Z</updated>
-    <author>
-      <name>Kaela Kovalskia Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SvoXKyVrdLo 【LIVE on &lt;t:1746892797:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SvoXKyVrdLo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
