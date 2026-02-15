@@ -747,9 +747,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-02-09T17:11:25.000Z",
-    "available_at": "2026-02-15T12:00:00.000Z",
+    "available_at": "2026-02-15T12:13:02.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 10
+    },
     "channel": {
       "id": "UCP0BspO_AMEe3aQqqpo89Dg",
       "name": "Moona Hoshinova hololive-ID",
