@@ -1,13 +1,32 @@
 [
   {
+    "id": "pTVormaWYcA",
+    "title": "≪SELF 3D KARAOKE≫ Her name is Hakos Baelz",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-02-15T11:27:31.000Z",
+    "available_at": "2026-02-16T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "1TW4vBuzBDw",
     "title": "【 歌枠 l KARAOKE 】うたいます【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-02-15T08:37:15.000Z",
     "available_at": "2026-02-15T10:01:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5189,
+    "status": "past",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -5006,25 +5025,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "2xeoAHEoKwM",
-    "title": "【再演続報アリ‼】星街すいせいのお仕事に密着⁉ライブの裏側を公開👀【ホロライブ / 星街すいせい】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-14T13:18:34.000Z",
-    "available_at": "2025-11-14T11:57:21.000Z",
-    "duration": 4561,
-    "status": "past",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
