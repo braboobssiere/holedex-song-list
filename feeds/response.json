@@ -65,7 +65,7 @@
     "id": "pTVormaWYcA",
     "title": "≪SELF 3D KARAOKE≫ Her name is Hakos Baelz",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2026-02-15T11:27:31.000Z",
     "available_at": "2026-02-16T03:00:00.000Z",
     "duration": 0,
@@ -2674,25 +2674,6 @@
     }
   },
   {
-    "id": "YOv-V36q6Uo",
-    "title": "【UNARCHIVED KARAOKE】just singing. #calliolive",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-01-22T04:54:34.000Z",
-    "available_at": "2026-01-23T02:16:14.000Z",
-    "duration": 6241,
-    "status": "missing",
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
     "id": "y2bocIgXbgs",
     "title": "【3Dオフコラボ】泥酔注意⚠️利き日本酒!正解するまで終われません⁉【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
     "type": "stream",
@@ -5031,6 +5012,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
+    }
+  },
+  {
+    "id": "2xeoAHEoKwM",
+    "title": "【再演続報アリ‼】星街すいせいのお仕事に密着⁉ライブの裏側を公開👀【ホロライブ / 星街すいせい】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-11-14T13:18:34.000Z",
+    "available_at": "2025-11-14T11:57:21.000Z",
+    "duration": 4561,
+    "status": "past",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
     }
   },
   {
