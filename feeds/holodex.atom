@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-16T00:26:10.992Z</updated>
+  <updated>2026-02-16T00:56:10.515Z</updated>
 
   <entry>
     <id>urn:uuid:22b83294-3f65-55a6-b6cb-353882c89d59</id>
@@ -188,6 +188,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6f175c0a-899d-5a08-8f52-058747aebb1c</id>
+    <title><![CDATA[(KEYBOARD ASMR) LIVE ZETA x RISU VALENTINES FANFIC WRITING (Silent Stream) (WORK STREAM)]]></title>
+    <link href="https://youtu.be/BFIicKJeS6o" rel="alternate" type="text/html"/>
+    <published>2026-02-14T08:13:45.000Z</published>
+    <updated>2026-02-14T04:31:20.000Z</updated>
+    <author>
+      <name>Pavolia Reine Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BFIicKJeS6o 【LIVE on &lt;t:1771043480:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BFIicKJeS6o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:158c942e-504f-5b59-8a25-c9f453a75cea</id>
     <title><![CDATA[ちゅちゅちゅ⸜(｡˃ ᵕ ˂ )⸝♡ちゅちゅちゅ]]></title>
     <link href="https://youtu.be/3nWMCorwpG8" rel="alternate" type="text/html"/>
@@ -255,20 +269,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7wQKhCC4fHo 【LIVE on &lt;t:1771074236:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7wQKhCC4fHo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6f175c0a-899d-5a08-8f52-058747aebb1c</id>
-    <title><![CDATA[(KEYBOARD ASMR) LIVE ZETA x RISU VALENTINES FANFIC WRITING (Silent Stream) (WORK STREAM)]]></title>
-    <link href="https://youtu.be/BFIicKJeS6o" rel="alternate" type="text/html"/>
-    <published>2026-02-14T03:41:58.000Z</published>
-    <updated>2026-02-14T04:31:20.000Z</updated>
-    <author>
-      <name>Pavolia Reine Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BFIicKJeS6o 【LIVE on &lt;t:1771043480:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BFIicKJeS6o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
