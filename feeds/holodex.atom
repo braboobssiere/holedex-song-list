@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-16T02:56:09.823Z</updated>
+  <updated>2026-02-16T03:26:14.913Z</updated>
+
+  <entry>
+    <id>urn:uuid:897a8549-80b7-51c2-b75b-79b99959440e</id>
+    <title><![CDATA[Shiori Novella - Monsters and Men  [ORIGINAL SONG]]]></title>
+    <link href="https://youtu.be/NX1ZCKJ67dc" rel="alternate" type="text/html"/>
+    <published>2026-02-16T03:00:06.000Z</published>
+    <updated>2026-02-16T03:00:06.000Z</updated>
+    <author>
+      <name>Shiori Novella Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NX1ZCKJ67dc 【LIVE on &lt;t:1771210806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NX1ZCKJ67dc/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:22b83294-3f65-55a6-b6cb-353882c89d59</id>
@@ -52,12 +66,12 @@
     <title><![CDATA[≪SELF 3D KARAOKE≫ Her name is Hakos Baelz]]></title>
     <link href="https://youtu.be/pTVormaWYcA" rel="alternate" type="text/html"/>
     <published>2026-02-15T11:27:31.000Z</published>
-    <updated>2026-02-16T03:00:00.000Z</updated>
+    <updated>2026-02-16T02:59:39.000Z</updated>
     <author>
       <name>Hakos Baelz Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pTVormaWYcA 【LIVE on &lt;t:1771210800:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pTVormaWYcA 【LIVE on &lt;t:1771210779:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pTVormaWYcA/maxresdefault.jpg"/>
   </entry>
 
@@ -132,20 +146,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:897a8549-80b7-51c2-b75b-79b99959440e</id>
-    <title><![CDATA[Shiori Novella - Monsters and Men  [ORIGINAL SONG]]]></title>
-    <link href="https://youtu.be/NX1ZCKJ67dc" rel="alternate" type="text/html"/>
-    <published>2026-02-14T13:21:56.000Z</published>
-    <updated>2026-02-16T03:00:00.000Z</updated>
-    <author>
-      <name>Shiori Novella Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NX1ZCKJ67dc 【LIVE on &lt;t:1771210800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NX1ZCKJ67dc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:914f7d03-de01-5012-861c-9832717d4742</id>
     <title><![CDATA[【original】初恋大戦争/ by癒月ちょこ＆白銀ノエル＆雪花ラミィ【ホロライブ/癒月ちょこ/白銀ノエル/雪花ラミィ】]]></title>
     <link href="https://youtu.be/0FFmK1l421o" rel="alternate" type="text/html"/>
@@ -171,6 +171,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ktu84esKNcY 【LIVE on &lt;t:1771070406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ktu84esKNcY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0564110c-6b3d-5ec3-ac3c-69337b29771f</id>
+    <title><![CDATA[【歌枠】Happy Valentine💖久々の歌枠するよ~✨【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/wUWM81nUh9o" rel="alternate" type="text/html"/>
+    <published>2026-02-14T11:06:40.000Z</published>
+    <updated>2026-02-14T09:00:51.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wUWM81nUh9o 【LIVE on &lt;t:1771059651:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wUWM81nUh9o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -283,20 +297,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7wQKhCC4fHo 【LIVE on &lt;t:1771074236:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7wQKhCC4fHo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0564110c-6b3d-5ec3-ac3c-69337b29771f</id>
-    <title><![CDATA[【歌枠】Happy Valentine💖久々の歌枠するよ～✨【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/wUWM81nUh9o" rel="alternate" type="text/html"/>
-    <published>2026-02-13T23:40:06.000Z</published>
-    <updated>2026-02-14T09:00:51.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wUWM81nUh9o 【LIVE on &lt;t:1771059651:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wUWM81nUh9o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
