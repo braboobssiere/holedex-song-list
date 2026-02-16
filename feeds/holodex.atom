@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-16T22:56:12.365Z</updated>
+  <updated>2026-02-16T23:26:08.381Z</updated>
 
   <entry>
     <id>urn:uuid:09ef3714-ec49-55c7-ba28-9bff7239db1c</id>
@@ -143,6 +143,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=pTVormaWYcA 【LIVE on &lt;t:1771210779:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pTVormaWYcA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0fcc7257-3dec-5753-a5fa-eba1e110a7df</id>
+    <title><![CDATA[【#AnotherMoonDay】MoonUtau Radio!【Moona Hoshinova】]]></title>
+    <link href="https://youtu.be/OfV_L2IwTWk" rel="alternate" type="text/html"/>
+    <published>2026-02-15T08:06:33.000Z</published>
+    <updated>2026-02-15T07:00:30.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OfV_L2IwTWk 【LIVE on &lt;t:1771138830:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OfV_L2IwTWk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -465,20 +479,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jnoPCv8Hc1A 【LIVE on &lt;t:1770733889:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jnoPCv8Hc1A/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0fcc7257-3dec-5753-a5fa-eba1e110a7df</id>
-    <title><![CDATA[【#AnotherMoonDay】MoonUtau Radio!【Moona Hoshinova】]]></title>
-    <link href="https://youtu.be/OfV_L2IwTWk" rel="alternate" type="text/html"/>
-    <published>2026-02-09T17:09:14.000Z</published>
-    <updated>2026-02-15T07:00:30.000Z</updated>
-    <author>
-      <name>Moona Hoshinova hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OfV_L2IwTWk 【LIVE on &lt;t:1771138830:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OfV_L2IwTWk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
