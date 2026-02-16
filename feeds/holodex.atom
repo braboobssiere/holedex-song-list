@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-16T07:56:16.611Z</updated>
+  <updated>2026-02-16T08:26:09.229Z</updated>
 
   <entry>
     <id>urn:uuid:897a8549-80b7-51c2-b75b-79b99959440e</id>
@@ -76,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:00ff9e04-b5fd-56b6-b3ff-8576cc677ded</id>
+    <title><![CDATA[【ASMR】ハッピーバレンタイン!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/hKXxOlDpa5E" rel="alternate" type="text/html"/>
+    <published>2026-02-14T17:07:58.000Z</published>
+    <updated>2026-02-14T15:16:39.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hKXxOlDpa5E 【LIVE on &lt;t:1771082199:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hKXxOlDpa5E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:da215a65-aea8-53d0-a613-e17c8810116b</id>
     <title><![CDATA[初恋大戦争 (Instrumental)]]></title>
     <link href="https://youtu.be/XTBETpWMooI" rel="alternate" type="text/html"/>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qlq414bBYGU 【LIVE on &lt;t:1771081316:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qlq414bBYGU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:00ff9e04-b5fd-56b6-b3ff-8576cc677ded</id>
-    <title><![CDATA[【ASMR】ハッピーバレンタイン！【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/hKXxOlDpa5E" rel="alternate" type="text/html"/>
-    <published>2026-02-14T14:46:47.000Z</published>
-    <updated>2026-02-14T15:16:39.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hKXxOlDpa5E 【LIVE on &lt;t:1771082199:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hKXxOlDpa5E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
