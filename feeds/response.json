@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-02-16T14:47:04.000Z",
     "available_at": "2026-02-17T10:00:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3538,
+    "status": "past",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -85,9 +85,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-02-16T05:56:09.000Z",
-    "available_at": "2026-02-17T11:00:00.000Z",
+    "available_at": "2026-02-17T11:01:06.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 3,
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -305,9 +306,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-02-15T10:32:52.000Z",
-    "available_at": "2026-02-17T11:00:00.000Z",
+    "available_at": "2026-02-17T10:57:18.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 25
+    },
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
