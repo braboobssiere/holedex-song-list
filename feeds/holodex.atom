@@ -3,19 +3,19 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-17T09:56:08.978Z</updated>
+  <updated>2026-02-17T10:26:14.368Z</updated>
 
   <entry>
     <id>urn:uuid:09ef3714-ec49-55c7-ba28-9bff7239db1c</id>
     <title><![CDATA[≪UNARCHIVED KARAOKE≫ oh sh*t ... a rat #GOLIVEforLOVE]]></title>
     <link href="https://youtu.be/oPOBYMu2zk8" rel="alternate" type="text/html"/>
     <published>2026-02-16T14:47:04.000Z</published>
-    <updated>2026-02-17T10:00:00.000Z</updated>
+    <updated>2026-02-17T10:00:21.000Z</updated>
     <author>
       <name>Hakos Baelz Ch. hololive-EN</name>
       <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oPOBYMu2zk8 【LIVE on &lt;t:1771322400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oPOBYMu2zk8 【LIVE on &lt;t:1771322421:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oPOBYMu2zk8/maxresdefault.jpg"/>
   </entry>
 
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=iFgiMrUilPQ 【LIVE on &lt;t:1771340400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iFgiMrUilPQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:89ade73c-dc06-5c8e-891a-780f57806845</id>
+    <title><![CDATA[【3D Karaoke UNARCHIVED】STILL Singing For a Cause, and LEAVING NO RECORD. #calliolive #GOLIVEforLOVE]]></title>
+    <link href="https://youtu.be/nmvl0uZpR_4" rel="alternate" type="text/html"/>
+    <published>2026-02-16T04:59:56.000Z</published>
+    <updated>2026-02-18T04:00:00.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nmvl0uZpR_4 【LIVE on &lt;t:1771387200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nmvl0uZpR_4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
