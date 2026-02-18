@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-17T23:56:09.763Z</updated>
+  <updated>2026-02-18T00:26:18.680Z</updated>
+
+  <entry>
+    <id>urn:uuid:e805cbed-182c-557b-8d01-13b811d84d58</id>
+    <title><![CDATA[【昇天】ダニィ!?ヴィヴィさんがASMR解禁だと!?【昼ホロ/井月みちる】]]></title>
+    <link href="https://youtu.be/ie4geGB5sBY" rel="alternate" type="text/html"/>
+    <published>2026-02-17T16:52:52.000Z</published>
+    <updated>2026-02-18T03:00:00.000Z</updated>
+    <author>
+      <name>holoAN room (ホロアナ)</name>
+      <uri>https://www.youtube.com/channel/UCozx5csNhCx1wsVq3SZVkBQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ie4geGB5sBY 【LIVE on &lt;t:1771383600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ie4geGB5sBY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5675f93b-79b8-5c6a-85d1-e28dbb5834d0</id>
@@ -2341,20 +2355,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Quoirx8lsFM 【LIVE on &lt;t:1751205632:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Quoirx8lsFM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8759f994-c4f5-5c9a-8e48-74a27ae37f0e</id>
-    <title><![CDATA[【 添い寝ASMR 】囁き声メインで君を寝かしつけちゃいます…♥ KU-100 / ASMR Super close up whispers【 猫又おかゆ/ホロライブ 】]]></title>
-    <link href="https://youtu.be/jcS-IhOcoXs" rel="alternate" type="text/html"/>
-    <published>2025-06-22T15:05:37.000Z</published>
-    <updated>2025-06-22T14:01:33.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jcS-IhOcoXs 【LIVE on &lt;t:1750600893:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jcS-IhOcoXs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
