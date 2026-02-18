@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-18T05:56:08.396Z</updated>
+  <updated>2026-02-18T06:26:11.215Z</updated>
 
   <entry>
     <id>urn:uuid:e805cbed-182c-557b-8d01-13b811d84d58</id>
@@ -49,7 +49,7 @@
 
   <entry>
     <id>urn:uuid:c7efe9df-eba4-5d48-af05-2fc21ab05cc7</id>
-    <title><![CDATA[【CHARITY】 Unarchived ANIMAL Karaoke  ~! 💄]]></title>
+    <title><![CDATA[【CHARITY】 Unarchived VOICE CHALLENGES Karaoke ~! 💄]]></title>
     <link href="https://youtu.be/q31ETPoCRGw" rel="alternate" type="text/html"/>
     <published>2026-02-17T03:33:51.000Z</published>
     <updated>2026-02-18T07:00:00.000Z</updated>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=q31ETPoCRGw 【LIVE on &lt;t:1771398000:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q31ETPoCRGw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9e0a87b8-4129-50cf-9d64-b1dfa3aca465</id>
+    <title><![CDATA[【歌枠】だいたい2000年代アニソン縛りで歌う~~~!!!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/wRhcTWoMnzE" rel="alternate" type="text/html"/>
+    <published>2026-02-16T15:12:13.000Z</published>
+    <updated>2026-02-16T13:00:39.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wRhcTWoMnzE 【LIVE on &lt;t:1771246839:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wRhcTWoMnzE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=C95nRnWsBo0 【LIVE on &lt;t:1771297228:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/C95nRnWsBo0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9e0a87b8-4129-50cf-9d64-b1dfa3aca465</id>
-    <title><![CDATA[【歌枠】だいたい2000年代アニソン縛りで歌う～～～！！！Singing Stream【ホロライブ / AZKi】]]></title>
-    <link href="https://youtu.be/wRhcTWoMnzE" rel="alternate" type="text/html"/>
-    <published>2026-02-16T11:01:52.000Z</published>
-    <updated>2026-02-16T13:00:39.000Z</updated>
-    <author>
-      <name>AZKi Channel</name>
-      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wRhcTWoMnzE 【LIVE on &lt;t:1771246839:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wRhcTWoMnzE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
