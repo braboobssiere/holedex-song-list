@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-18T14:56:12.886Z</updated>
+  <updated>2026-02-18T15:26:14.274Z</updated>
+
+  <entry>
+    <id>urn:uuid:974c2b8b-fb4c-5077-853c-1e91c746d24d</id>
+    <title><![CDATA[Ridin' on Dreams (Instrumental)]]></title>
+    <link href="https://youtu.be/X2GbvRONxsY" rel="alternate" type="text/html"/>
+    <published>2026-02-18T15:00:58.000Z</published>
+    <updated>2026-02-18T15:00:58.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=X2GbvRONxsY 【LIVE on &lt;t:1771426858:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X2GbvRONxsY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3cca919d-a8f5-5fb0-bc28-43cbb947d16b</id>
+    <title><![CDATA[Ridin' on Dreams]]></title>
+    <link href="https://youtu.be/Tec7EsQKlKk" rel="alternate" type="text/html"/>
+    <published>2026-02-18T15:00:55.000Z</published>
+    <updated>2026-02-18T15:00:55.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Tec7EsQKlKk 【LIVE on &lt;t:1771426855:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Tec7EsQKlKk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e805cbed-182c-557b-8d01-13b811d84d58</id>
@@ -1249,34 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=J3XlXbuHc84 【LIVE on &lt;t:1769958028:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J3XlXbuHc84/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3810ddd8-93de-51a1-8a63-5314f3613d8b</id>
-    <title><![CDATA[TAKO∞TAKOVER]]></title>
-    <link href="https://youtu.be/GrVgv_PN2PM" rel="alternate" type="text/html"/>
-    <published>2026-02-01T15:00:24.000Z</published>
-    <updated>2026-02-01T15:00:24.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GrVgv_PN2PM 【LIVE on &lt;t:1769958024:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GrVgv_PN2PM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f382c604-0a59-5382-bec3-9e4b47fa7dc6</id>
-    <title><![CDATA[TEMARI]]></title>
-    <link href="https://youtu.be/Bj3eXdcvsiY" rel="alternate" type="text/html"/>
-    <published>2026-02-01T15:00:16.000Z</published>
-    <updated>2026-02-01T15:00:16.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Bj3eXdcvsiY 【LIVE on &lt;t:1769958016:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Bj3eXdcvsiY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
