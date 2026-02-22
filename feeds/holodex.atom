@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-22T03:26:09.548Z</updated>
+  <updated>2026-02-22T03:56:12.233Z</updated>
 
   <entry>
     <id>urn:uuid:cf6d5d33-f406-5f7c-9066-af36f07dd30f</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f0ed74ec-2708-5467-a6ad-a42a037b2b6e</id>
+    <title><![CDATA[【BUMP縛り歌枠】だいだいだーいすきなBUMPの曲をいっぱい歌う!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/9htD5cWreaw" rel="alternate" type="text/html"/>
+    <published>2026-02-20T11:48:13.000Z</published>
+    <updated>2026-02-20T10:02:04.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9htD5cWreaw 【LIVE on &lt;t:1771581724:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9htD5cWreaw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ef122f19-9f33-5889-b13c-96ca1c6d0c02</id>
     <title><![CDATA[【デジモン歌枠】デジモンって神曲だらけじゃない！？？？？？【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/YE8no4DTWxw" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jRX_EeOZc-I 【LIVE on &lt;t:1771495354:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jRX_EeOZc-I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f0ed74ec-2708-5467-a6ad-a42a037b2b6e</id>
-    <title><![CDATA[【BUMP縛り歌枠】だいだいだーいすきなBUMPの曲をいっぱい歌う！【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/9htD5cWreaw" rel="alternate" type="text/html"/>
-    <published>2026-02-19T11:05:21.000Z</published>
-    <updated>2026-02-20T10:02:04.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9htD5cWreaw 【LIVE on &lt;t:1771581724:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9htD5cWreaw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
