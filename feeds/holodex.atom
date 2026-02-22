@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-22T12:56:19.760Z</updated>
+  <updated>2026-02-22T13:26:15.268Z</updated>
+
+  <entry>
+    <id>urn:uuid:10a6cabb-aa34-531d-9d0c-2d02245e60ea</id>
+    <title><![CDATA[ノンデリシャス / 猫又おかゆ ( official )]]></title>
+    <link href="https://youtu.be/wkuv-Vy-_EY" rel="alternate" type="text/html"/>
+    <published>2026-02-22T12:55:06.000Z</published>
+    <updated>2026-02-22T12:55:06.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wkuv-Vy-_EY 【LIVE on &lt;t:1771764906:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wkuv-Vy-_EY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:cf6d5d33-f406-5f7c-9066-af36f07dd30f</id>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=g4b28_6lwKY 【LIVE on &lt;t:1769958074:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/g4b28_6lwKY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c20f111b-3f41-51fd-907a-fdfb35323b3e</id>
-    <title><![CDATA[VIOLET]]></title>
-    <link href="https://youtu.be/_jnt5m14fvw" rel="alternate" type="text/html"/>
-    <published>2026-02-01T15:01:06.000Z</published>
-    <updated>2026-02-01T15:01:06.000Z</updated>
-    <author>
-      <name>Ninomae Ina'nis Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_jnt5m14fvw 【LIVE on &lt;t:1769958066:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_jnt5m14fvw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
