@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-22T11:56:21.259Z</updated>
+  <updated>2026-02-22T12:26:11.998Z</updated>
+
+  <entry>
+    <id>urn:uuid:cf6d5d33-f406-5f7c-9066-af36f07dd30f</id>
+    <title><![CDATA[【original MV】イタズラーニャ！【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/QjkiIMRW07w" rel="alternate" type="text/html"/>
+    <published>2026-02-22T11:55:06.000Z</published>
+    <updated>2026-02-22T11:55:06.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QjkiIMRW07w 【LIVE on &lt;t:1771761306:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QjkiIMRW07w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:8ec50103-fac9-5205-aa37-5ab43915b6b8</id>
@@ -17,20 +31,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=vOD-s0XBg4c 【LIVE on &lt;t:1771732919:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vOD-s0XBg4c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cf6d5d33-f406-5f7c-9066-af36f07dd30f</id>
-    <title><![CDATA[【イタズラーニャ】MV公開🐈💓【白銀ノエル/ホロライブ】]]></title>
-    <link href="https://youtu.be/QjkiIMRW07w" rel="alternate" type="text/html"/>
-    <published>2026-02-21T23:19:02.000Z</published>
-    <updated>2026-02-22T11:55:00.000Z</updated>
-    <author>
-      <name>Noel Ch. 白銀ノエル</name>
-      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QjkiIMRW07w 【LIVE on &lt;t:1771761300:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QjkiIMRW07w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
