@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-22T18:26:10.804Z</updated>
+  <updated>2026-02-22T18:56:11.961Z</updated>
+
+  <entry>
+    <id>urn:uuid:3dcbbd5a-a73f-5d9c-8eac-614e336a4f22</id>
+    <title><![CDATA[『モノポリー』なるみや【アキ・ローゼンタール/ホロライブ】]]></title>
+    <link href="https://youtu.be/detYQLWpljE" rel="alternate" type="text/html"/>
+    <published>2026-02-22T15:33:15.000Z</published>
+    <updated>2026-02-22T15:33:15.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=detYQLWpljE 【LIVE on &lt;t:1771774395:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/detYQLWpljE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:081ca5ba-1795-5d8e-a05a-96780a1bd5fd</id>
@@ -87,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FIWfIVFsZhE 【LIVE on &lt;t:1771750885:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FIWfIVFsZhE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a3bef3e3-bc51-574b-8582-aa4c9c3ea023</id>
+    <title><![CDATA[【 3D LIVE 】ゲストもたくさん❕重大告知アリ❕みんなで楽しも🍙💜💜【 #猫又おかゆ生誕祭2026 】]]></title>
+    <link href="https://youtu.be/rYpbqdD1oiQ" rel="alternate" type="text/html"/>
+    <published>2026-02-20T17:00:37.000Z</published>
+    <updated>2026-02-22T11:58:11.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rYpbqdD1oiQ 【LIVE on &lt;t:1771761491:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rYpbqdD1oiQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1210,20 +1238,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:012b60f5-1785-5703-887a-68e4f7fa5522</id>
-    <title><![CDATA[出囃子ジャポニズム]]></title>
-    <link href="https://youtu.be/aSmPF7QwVUI" rel="alternate" type="text/html"/>
-    <published>2026-02-04T15:00:00.000Z</published>
-    <updated>2026-02-04T15:00:00.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aSmPF7QwVUI 【LIVE on &lt;t:1770217200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aSmPF7QwVUI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:687862ef-4b40-5414-9a3c-d2d0fe15d9d9</id>
     <title><![CDATA[出囃子ジャポニズム (Instrumental)]]></title>
     <link href="https://youtu.be/zGxgs3Nw5EY" rel="alternate" type="text/html"/>
@@ -1291,20 +1305,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1HQL3WJPBHA 【LIVE on &lt;t:1770120019:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1HQL3WJPBHA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:80732e97-2807-5e12-a11a-95fd8ce2ef45</id>
-    <title><![CDATA[【歌枠】第131回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/Eo3T6br38is" rel="alternate" type="text/html"/>
-    <published>2026-02-01T18:01:39.000Z</published>
-    <updated>2026-02-01T13:07:15.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Eo3T6br38is 【LIVE on &lt;t:1769951235:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Eo3T6br38is/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1515,6 +1515,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5NbNvtpj2-c 【LIVE on &lt;t:1768020997:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5NbNvtpj2-c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9dc3a4e0-aba2-5903-b481-125b975c3391</id>
+    <title><![CDATA[【朝活】久しぶりの縦型歌枠でキミを起こしちゃう💡【白銀ノエル/ホロライブ】]]></title>
+    <link href="https://youtu.be/aIi1h6-GhuI" rel="alternate" type="text/html"/>
+    <published>2026-01-09T00:12:10.000Z</published>
+    <updated>2026-02-23T00:00:00.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aIi1h6-GhuI 【LIVE on &lt;t:1771804800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aIi1h6-GhuI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
