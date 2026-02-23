@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-23T01:26:14.018Z</updated>
+  <updated>2026-02-23T01:56:12.367Z</updated>
 
   <entry>
     <id>urn:uuid:3dcbbd5a-a73f-5d9c-8eac-614e336a4f22</id>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FIWfIVFsZhE 【LIVE on &lt;t:1771750885:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FIWfIVFsZhE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4b3b608e-c791-53d0-934c-b8e4a0db38ba</id>
+    <title><![CDATA[【チラ見せ】Hoshimachi Suisei Live "SuperNova: REBOOT"]]></title>
+    <link href="https://youtu.be/MX4G_JcdZPo" rel="alternate" type="text/html"/>
+    <published>2026-02-21T09:29:42.000Z</published>
+    <updated>2026-02-21T08:30:31.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MX4G_JcdZPo 【LIVE on &lt;t:1771662631:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4G_JcdZPo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -437,20 +451,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=m-EWIsKurhg 【LIVE on &lt;t:1771160408:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m-EWIsKurhg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4b3b608e-c791-53d0-934c-b8e4a0db38ba</id>
-    <title><![CDATA[【チラ見せ】Hoshimachi Suisei Live "SuperNova: REBOOT"]]></title>
-    <link href="https://youtu.be/MX4G_JcdZPo" rel="alternate" type="text/html"/>
-    <published>2026-02-15T09:09:07.000Z</published>
-    <updated>2026-02-21T08:30:31.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=MX4G_JcdZPo 【LIVE on &lt;t:1771662631:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4G_JcdZPo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1266,17 +1266,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:687862ef-4b40-5414-9a3c-d2d0fe15d9d9</id>
-    <title><![CDATA[出囃子ジャポニズム (Instrumental)]]></title>
-    <link href="https://youtu.be/zGxgs3Nw5EY" rel="alternate" type="text/html"/>
+    <id>urn:uuid:012b60f5-1785-5703-887a-68e4f7fa5522</id>
+    <title><![CDATA[出囃子ジャポニズム]]></title>
+    <link href="https://youtu.be/aSmPF7QwVUI" rel="alternate" type="text/html"/>
     <published>2026-02-04T15:00:00.000Z</published>
     <updated>2026-02-04T15:00:00.000Z</updated>
     <author>
       <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
       <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zGxgs3Nw5EY 【LIVE on &lt;t:1770217200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zGxgs3Nw5EY/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aSmPF7QwVUI 【LIVE on &lt;t:1770217200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aSmPF7QwVUI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
