@@ -161,6 +161,25 @@
     }
   },
   {
+    "id": "jQ9zzvVpEuc",
+    "title": "【 🟣カウントダウン 】もうすぐ誕生日だあああい❕🎂✦【 猫又おかゆ/ホロライブ 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-02-21T15:43:47.000Z",
+    "available_at": "2026-02-21T14:02:02.000Z",
+    "duration": 5409,
+    "status": "past",
+    "channel": {
+      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nekomata Okayu"
+    }
+  },
+  {
     "id": "FIWfIVFsZhE",
     "title": "【 歌枠 】L'Arc〜en〜Ciel (ラルク) をうなうな歌うのら～！！！🎵 ～ KARAOKE #shorts【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -212,25 +231,6 @@
     "live_tl_count": {
       "en": 51
     },
-    "channel": {
-      "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
-      "name": "Okayu Ch. 猫又おかゆ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nekomata Okayu"
-    }
-  },
-  {
-    "id": "jQ9zzvVpEuc",
-    "title": "【 🟣カウントダウン 】もうすぐ誕生日だあああい❕🎂✦【 猫又おかゆ/ホロライブ 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-02-20T16:22:26.000Z",
-    "available_at": "2026-02-21T14:02:02.000Z",
-    "duration": 5414,
-    "status": "past",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -389,7 +389,7 @@
     "published_at": "2026-02-19T18:58:02.000Z",
     "available_at": "2026-02-21T12:59:39.000Z",
     "duration": 9804,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 23
     },
