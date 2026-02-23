@@ -1,5 +1,24 @@
 [
   {
+    "id": "hAdJ4u5mbmg",
+    "title": "【歌枠 / karaoke】 この季節の風邪は長引く  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-23T04:10:48.000Z",
+    "available_at": "2026-02-23T04:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "detYQLWpljE",
     "title": "『モノポリー』なるみや【アキ・ローゼンタール/ホロライブ】",
     "type": "stream",
@@ -2463,8 +2482,8 @@
     }
   },
   {
-    "id": "zGxgs3Nw5EY",
-    "title": "出囃子ジャポニズム (Instrumental)",
+    "id": "aSmPF7QwVUI",
+    "title": "出囃子ジャポニズム",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-02-04T15:00:00.000Z",
@@ -2653,25 +2672,6 @@
     "live_tl_count": {
       "en": 10
     },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "VOWseCQp_sg",
-    "title": "【 縦型/歌枠】NO19.今日はかわいい曲をうたうたい!!🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-01T14:15:55.000Z",
-    "available_at": "2026-02-01T14:01:58.000Z",
-    "duration": 704,
-    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
