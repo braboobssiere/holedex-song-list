@@ -1,5 +1,24 @@
 [
   {
+    "id": "wBzu8A5KTqw",
+    "title": "【歌枠 / karaoke】 うたがへた  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-24T05:54:39.000Z",
+    "available_at": "2026-02-24T06:02:05.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "3ZH90yi8O00",
     "title": "【歌枠】karaoke！朝です！おはよ！【ラプラス・ダークネス/ホロライブ】",
     "type": "stream",
@@ -2659,26 +2678,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/CrRdj1eqKxWtN9kbkRejxPlNhIoikEhKubDWEPK4BtcJLbvumADzuBxwI_7Oar5PT22x1XQ2Jw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Uruwashi Ririri"
-    }
-  },
-  {
-    "id": "4__3dh2J0eg",
-    "title": "【ゲリラ歌枠 / KARAOKE】なんか歌いたくなった♪ Casual Guerilla Karaoke!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-01T16:55:22.000Z",
-    "available_at": "2026-02-01T14:31:24.000Z",
-    "duration": 8130,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UC8rcEBzJSleTkf_-agPM20g",
-      "name": "IRyS Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "iaEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRyS"
     }
   },
   {
