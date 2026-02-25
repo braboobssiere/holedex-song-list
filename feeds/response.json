@@ -62,9 +62,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-02-24T06:38:37.000Z",
-    "available_at": "2026-02-25T03:00:00.000Z",
+    "available_at": "2026-02-25T03:02:24.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 18
+    },
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -329,6 +332,7 @@
     "available_at": "2026-02-24T11:55:12.000Z",
     "duration": 5933,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -2722,26 +2726,6 @@
     }
   },
   {
-    "id": "1HQL3WJPBHA",
-    "title": "【 #せくちー3Dカラオケ 】せくちーで鬼をぶっ飛ばせ!セルフ3DでせくちーONLYカラオケ🎤【AZKi・響咲リオナ・虎金妃笑虎・博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-03T13:15:27.000Z",
-    "available_at": "2026-02-03T12:00:19.000Z",
-    "duration": 3930,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
     "id": "zpFDZlzJZD8",
     "title": "【#気まぐれ薄明ラジオ 】誕生日直前!らでんの応援広告が掲載されている美術館を紹介します✨【儒烏風亭らでん #ReGLOSS 】",
     "type": "stream",
@@ -3014,6 +2998,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1gNTfXSUE6ua7RJw0F-zV9kzFiSfQG4F2Nuj4_zUFfbDEXfbZUxki8kmOfZagS9n4EdxAZ9_-A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
+    }
+  },
+  {
+    "id": "0QJeNIdoIyk",
+    "title": "【縦型歌枠】チャンネル登録してください‼️新しくなったマイクで歌うじょ🎤【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-01-20T02:18:27.000Z",
+    "available_at": "2026-02-25T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
     }
   },
   {
