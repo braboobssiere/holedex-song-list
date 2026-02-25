@@ -83,10 +83,10 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-02-24T06:38:37.000Z",
     "available_at": "2026-02-25T03:02:24.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 12445,
+    "status": "past",
     "live_tl_count": {
-      "en": 270
+      "en": 278
     },
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -651,7 +651,7 @@
     "published_at": "2026-02-19T07:56:54.000Z",
     "available_at": "2026-02-23T13:15:32.000Z",
     "duration": 6318,
-    "status": "past",
+    "status": "missing",
     "live_tl_count": {
       "en": 12
     },
