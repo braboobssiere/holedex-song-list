@@ -69,6 +69,7 @@
     "available_at": "2026-02-25T09:00:06.000Z",
     "duration": 223,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -160,6 +161,26 @@
     }
   },
   {
+    "id": "wBzu8A5KTqw",
+    "title": "【歌枠 / karaoke】 うたがへた  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-24T08:19:31.000Z",
+    "available_at": "2026-02-24T06:02:05.000Z",
+    "duration": 6191,
+    "status": "past",
+    "songcount": 19,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "Yrt03f3T8Vg",
     "title": "≪HOLO THEATRE - OFF COLLAB≫ Dramatic 3D Reading of Shakespeare's Romeo and Juliet w/ Gigi, CC & IRyS",
     "type": "stream",
@@ -179,26 +200,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "wBzu8A5KTqw",
-    "title": "【歌枠 / karaoke】 うたがへた / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-24T05:54:39.000Z",
-    "available_at": "2026-02-24T06:02:05.000Z",
-    "duration": 6195,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
