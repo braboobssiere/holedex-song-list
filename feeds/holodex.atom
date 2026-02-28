@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-02-28T14:56:13.236Z</updated>
+  <updated>2026-02-28T15:26:12.923Z</updated>
+
+  <entry>
+    <id>urn:uuid:18f7db7e-59c0-599e-9b48-5322db609984</id>
+    <title><![CDATA[Chatter Chatter (Instrumental)]]></title>
+    <link href="https://youtu.be/xyBuK96AsR8" rel="alternate" type="text/html"/>
+    <published>2026-02-28T15:01:39.000Z</published>
+    <updated>2026-02-28T15:01:39.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xyBuK96AsR8 【LIVE on &lt;t:1772290899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xyBuK96AsR8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:98516b36-4e93-54b0-aa77-876c19bf7243</id>
+    <title><![CDATA[SNAKE EYES (Instrumental)]]></title>
+    <link href="https://youtu.be/d3zR6ptkaCA" rel="alternate" type="text/html"/>
+    <published>2026-02-28T15:01:09.000Z</published>
+    <updated>2026-02-28T15:01:09.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=d3zR6ptkaCA 【LIVE on &lt;t:1772290869:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d3zR6ptkaCA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cf2d2556-9671-58a6-9007-51fe4b6b3a28</id>
+    <title><![CDATA[Chatter Chatter]]></title>
+    <link href="https://youtu.be/bxD-suAGv9s" rel="alternate" type="text/html"/>
+    <published>2026-02-28T15:01:07.000Z</published>
+    <updated>2026-02-28T15:01:07.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bxD-suAGv9s 【LIVE on &lt;t:1772290867:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bxD-suAGv9s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:61a799aa-dde3-590e-a2b1-fad6d216e93c</id>
+    <title><![CDATA[SNAKE EYES]]></title>
+    <link href="https://youtu.be/Vm6S-rvvmDI" rel="alternate" type="text/html"/>
+    <published>2026-02-28T15:00:48.000Z</published>
+    <updated>2026-02-28T15:00:48.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vm6S-rvvmDI 【LIVE on &lt;t:1772290848:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vm6S-rvvmDI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:afe6e061-8190-555a-ae9b-cd9e8c11970c</id>
@@ -1221,62 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LkEDW5_YAtQ 【LIVE on &lt;t:1770476698:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LkEDW5_YAtQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7afb5bec-0b2c-5fe2-9d67-fa130ae64786</id>
-    <title><![CDATA[TASTY]]></title>
-    <link href="https://youtu.be/EjBRjDUcDVA" rel="alternate" type="text/html"/>
-    <published>2026-02-07T15:04:46.000Z</published>
-    <updated>2026-02-07T15:04:46.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EjBRjDUcDVA 【LIVE on &lt;t:1770476686:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EjBRjDUcDVA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b06cc9a1-c5ab-531a-b9a9-3600c86b4d76</id>
-    <title><![CDATA[Manifest]]></title>
-    <link href="https://youtu.be/_D1hVxMYbhw" rel="alternate" type="text/html"/>
-    <published>2026-02-07T15:04:30.000Z</published>
-    <updated>2026-02-07T15:04:30.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_D1hVxMYbhw 【LIVE on &lt;t:1770476670:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_D1hVxMYbhw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:05b0e23d-74ff-5aa0-99dd-44d5d811c6db</id>
-    <title><![CDATA[Interlude: 02]]></title>
-    <link href="https://youtu.be/F4I4WYwXPZ8" rel="alternate" type="text/html"/>
-    <published>2026-02-07T15:04:28.000Z</published>
-    <updated>2026-02-07T15:04:28.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=F4I4WYwXPZ8 【LIVE on &lt;t:1770476668:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/F4I4WYwXPZ8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ea81e3f6-e527-5b6e-a565-a3fc705532e1</id>
-    <title><![CDATA[Martyr]]></title>
-    <link href="https://youtu.be/paS9lrFqNcs" rel="alternate" type="text/html"/>
-    <published>2026-02-07T15:03:50.000Z</published>
-    <updated>2026-02-07T15:03:50.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=paS9lrFqNcs 【LIVE on &lt;t:1770476630:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/paS9lrFqNcs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
