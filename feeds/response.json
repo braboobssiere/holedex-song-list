@@ -1,5 +1,43 @@
 [
   {
+    "id": "lRI-qbgowM8",
+    "title": "【歌枠 / karaoke】 もちべあげあげなうた 俺は立つ  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-28T06:20:17.000Z",
+    "available_at": "2026-02-28T06:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "1T9vkIqGcO8",
+    "title": "【UNARCHIVE KARAOKE】 RESINGING SONGS FROM LAST UNARCHIVED KARAOKE 【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-28T06:01:28.000Z",
+    "available_at": "2026-02-28T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
+    }
+  },
+  {
     "id": "X0-JkBCAc5E",
     "title": "【ORIGINAL 3D MV】 SNAKE EYES || HAKOS BAELZ",
     "type": "stream",
@@ -2498,29 +2536,6 @@
     }
   },
   {
-    "id": "G2aV6S4cPrQ",
-    "title": "【歌枠】新しいエコーでふぁああああな歌枠【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-08T06:33:46.000Z",
-    "available_at": "2026-02-08T05:32:51.000Z",
-    "duration": 3436,
-    "status": "past",
-    "songcount": 6,
-    "live_tl_count": {
-      "ko": 61
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "wct-qvGX1ow",
     "title": "EGO - Takanashi Kiara (Official Music Video)",
     "type": "stream",
@@ -2701,25 +2716,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
-    }
-  },
-  {
-    "id": "2uhFOQtCq7c",
-    "title": "【 洋楽歌枠 】英語の歌をんなんな歌うのら～～！！！🎵 ENGLISH KARAOKE #shorts【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-05T15:02:19.000Z",
-    "available_at": "2026-02-08T08:59:35.000Z",
-    "duration": 8144,
-    "status": "missing",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
     }
   },
   {
