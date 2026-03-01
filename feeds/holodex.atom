@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-01T19:56:09.668Z</updated>
+  <updated>2026-03-01T20:26:17.551Z</updated>
 
   <entry>
     <id>urn:uuid:c556e018-b92a-586d-b3be-36a241438e8d</id>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=X0-JkBCAc5E 【LIVE on &lt;t:1772252107:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X0-JkBCAc5E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0d507af9-d3bb-556b-b493-6e71de1c0c72</id>
+    <title><![CDATA[≪ReCOLOR 3D LIVE≫ Hakos Baelz Birthday Live 2026 + NEW 3D OUTFIT! #ReCOLOR3D]]></title>
+    <link href="https://youtu.be/khQRCrrtVjA" rel="alternate" type="text/html"/>
+    <published>2026-02-28T04:11:47.000Z</published>
+    <updated>2026-02-28T02:59:31.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=khQRCrrtVjA 【LIVE on &lt;t:1772247571:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khQRCrrtVjA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -423,20 +437,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3ZH90yi8O00 【LIVE on &lt;t:1771882054:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3ZH90yi8O00/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0d507af9-d3bb-556b-b493-6e71de1c0c72</id>
-    <title><![CDATA[≪ReCOLOR 3D LIVE≫ Hakos Baelz Birthday Live 2026 + NEW 3D OUTFIT! #ReCOLOR3D]]></title>
-    <link href="https://youtu.be/khQRCrrtVjA" rel="alternate" type="text/html"/>
-    <published>2026-02-23T11:53:56.000Z</published>
-    <updated>2026-02-28T02:59:31.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=khQRCrrtVjA 【LIVE on &lt;t:1772247571:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khQRCrrtVjA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
