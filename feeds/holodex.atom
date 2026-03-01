@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-01T17:56:12.739Z</updated>
+  <updated>2026-03-01T18:26:16.120Z</updated>
 
   <entry>
     <id>urn:uuid:18f7db7e-59c0-599e-9b48-5322db609984</id>
@@ -1224,6 +1224,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d5a98c68-a1cc-5027-832b-fa7c32573452</id>
+    <title><![CDATA[【歌枠】続きで夜も歌います!!【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/jqGcYdtgzZ8" rel="alternate" type="text/html"/>
+    <published>2026-02-08T15:53:48.000Z</published>
+    <updated>2026-02-08T14:14:52.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jqGcYdtgzZ8 【LIVE on &lt;t:1770560092:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jqGcYdtgzZ8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:694b8259-a8e6-5749-946e-8156362dd9ad</id>
+    <title><![CDATA[【深夜歌枠🎤】ゆったりまったりの夜をリオナと過ごしましょう✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/zEZNsYyqWc0" rel="alternate" type="text/html"/>
+    <published>2026-02-08T15:32:07.000Z</published>
+    <updated>2026-02-08T13:03:47.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zEZNsYyqWc0 【LIVE on &lt;t:1770555827:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zEZNsYyqWc0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:17d6b1eb-7f52-537c-be30-5f9ed0ebeaa0</id>
     <title><![CDATA[EGO - Takanashi Kiara (Official Music Video)]]></title>
     <link href="https://youtu.be/wct-qvGX1ow" rel="alternate" type="text/html"/>
@@ -1235,20 +1263,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wct-qvGX1ow 【LIVE on &lt;t:1770498007:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wct-qvGX1ow/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2dcafa52-c684-51fb-8ea9-def25e5655ea</id>
-    <title><![CDATA[Signs]]></title>
-    <link href="https://youtu.be/LkEDW5_YAtQ" rel="alternate" type="text/html"/>
-    <published>2026-02-07T15:04:58.000Z</published>
-    <updated>2026-02-07T15:04:58.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LkEDW5_YAtQ 【LIVE on &lt;t:1770476698:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LkEDW5_YAtQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>

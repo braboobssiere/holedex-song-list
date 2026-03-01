@@ -199,25 +199,6 @@
     }
   },
   {
-    "id": "lRI-qbgowM8",
-    "title": "【歌枠 / karaoke】 もちべあげあげなうた 俺は立つ / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-28T06:20:17.000Z",
-    "available_at": "2026-02-28T06:38:24.000Z",
-    "duration": 8444,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
     "id": "1T9vkIqGcO8",
     "title": "【UNARCHIVE KARAOKE】 RESINGING SONGS FROM LAST UNARCHIVED KARAOKE 【Kureiji Ollie】",
     "type": "stream",
@@ -375,6 +356,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kageyama Shien"
+    }
+  },
+  {
+    "id": "BDxyRUO3SFg",
+    "title": "【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-02-25T13:17:34.000Z",
+    "available_at": "2026-03-02T12:10:00.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -867,26 +867,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "wBzu8A5KTqw",
-    "title": "【歌枠 / karaoke】 うたがへた  / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-24T08:19:31.000Z",
-    "available_at": "2026-02-24T06:02:05.000Z",
-    "duration": 6191,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -2691,6 +2671,50 @@
     }
   },
   {
+    "id": "jqGcYdtgzZ8",
+    "title": "【歌枠】続きで夜も歌います!!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-08T15:53:48.000Z",
+    "available_at": "2026-02-08T14:14:52.000Z",
+    "duration": 5587,
+    "status": "past",
+    "songcount": 12,
+    "live_tl_count": {
+      "en": 103,
+      "ko": 120
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "zEZNsYyqWc0",
+    "title": "【深夜歌枠🎤】ゆったりまったりの夜をリオナと過ごしましょう✨【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-08T15:32:07.000Z",
+    "available_at": "2026-02-08T13:03:47.000Z",
+    "duration": 8261,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "wct-qvGX1ow",
     "title": "EGO - Takanashi Kiara (Official Music Video)",
     "type": "stream",
@@ -2700,27 +2724,6 @@
     "duration": 166,
     "status": "past",
     "songcount": 1,
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "LkEDW5_YAtQ",
-    "title": "Signs",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-02-07T15:04:58.000Z",
-    "available_at": "2026-02-07T15:04:58.000Z",
-    "duration": 187,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC2bwyj9ZETKZQh5e8T3vvtA",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
