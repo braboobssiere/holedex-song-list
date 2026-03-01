@@ -1,5 +1,24 @@
 [
   {
+    "id": "MKxPh3YLGuM",
+    "title": "【歌枠 / karaoke】きょうもうたうひと  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-01T07:42:06.000Z",
+    "available_at": "2026-03-01T08:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "xyBuK96AsR8",
     "title": "Chatter Chatter (Instrumental)",
     "type": "stream",
@@ -2612,30 +2631,6 @@
       "suborg": "0gOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "jqGcYdtgzZ8",
-    "title": "【歌枠】続きで夜も歌います!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-08T15:53:48.000Z",
-    "available_at": "2026-02-08T14:14:52.000Z",
-    "duration": 5587,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 103,
-      "ko": 120
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
