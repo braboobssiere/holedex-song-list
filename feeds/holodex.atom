@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-02T07:26:11.522Z</updated>
+  <updated>2026-03-02T07:56:20.520Z</updated>
 
   <entry>
     <id>urn:uuid:c556e018-b92a-586d-b3be-36a241438e8d</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0P653bFzVVg 【LIVE on &lt;t:1772362802:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0P653bFzVVg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:afe6e061-8190-555a-ae9b-cd9e8c11970c</id>
+    <title><![CDATA[【 縦型/歌枠】NO20.眠れない土曜日のピアノカラオケた~いむ🎤ろぼめろでぃ~ Midnight RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/gE_w9bxvcSo" rel="alternate" type="text/html"/>
+    <published>2026-02-28T16:10:40.000Z</published>
+    <updated>2026-02-28T14:01:17.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gE_w9bxvcSo 【LIVE on &lt;t:1772287277:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gE_w9bxvcSo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Vm6S-rvvmDI 【LIVE on &lt;t:1772290848:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vm6S-rvvmDI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:afe6e061-8190-555a-ae9b-cd9e8c11970c</id>
-    <title><![CDATA[【 縦型/歌枠】NO20.眠れない土曜日のピアノカラオケた～いむ🎤ろぼめろでぃ～ Midnight RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
-    <link href="https://youtu.be/gE_w9bxvcSo" rel="alternate" type="text/html"/>
-    <published>2026-02-28T13:55:44.000Z</published>
-    <updated>2026-02-28T14:01:17.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gE_w9bxvcSo 【LIVE on &lt;t:1772287277:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gE_w9bxvcSo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1238,17 +1238,17 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:534c81ab-b97a-5d04-873a-40940d248795</id>
-    <title><![CDATA[【#FG3Dライブ】FLOW GLOW / MAKE IT, BREAK IT]]></title>
-    <link href="https://youtu.be/4SVMkcrPtT8" rel="alternate" type="text/html"/>
+    <id>urn:uuid:bded5521-3593-5326-8672-60eea82867a2</id>
+    <title><![CDATA[【#FG3Dライブ】FLOW GLOW / stay by my side]]></title>
+    <link href="https://youtu.be/JQgTOnJ17fk" rel="alternate" type="text/html"/>
     <published>2026-02-09T03:00:00.000Z</published>
     <updated>2026-02-09T03:00:00.000Z</updated>
     <author>
       <name>hololive DEV_IS FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4SVMkcrPtT8 【LIVE on &lt;t:1770606000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4SVMkcrPtT8/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JQgTOnJ17fk 【LIVE on &lt;t:1770606000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JQgTOnJ17fk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
