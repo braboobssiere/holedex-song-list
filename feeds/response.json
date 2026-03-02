@@ -1,5 +1,24 @@
 [
   {
+    "id": "vcbw8idFtJo",
+    "title": "【original anime MV】Liminal【 hololive/桃鈴ねね 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-02T12:10:07.000Z",
+    "available_at": "2026-03-02T12:10:07.000Z",
+    "duration": 328,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "gGdNQEpsHtY",
     "title": "【誕生日カウントダウン】今年も歳取れるかチャレンジ!!【花咲みやび/ホロスターズ】",
     "type": "stream",
@@ -24,9 +43,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-03-01T19:22:51.000Z",
-    "available_at": "2026-03-02T12:00:00.000Z",
+    "available_at": "2026-03-02T12:01:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
       "name": "Okayu Ch. 猫又おかゆ",
@@ -372,25 +391,6 @@
     }
   },
   {
-    "id": "vcbw8idFtJo",
-    "title": "【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-02-26T10:31:26.000Z",
-    "available_at": "2026-03-02T12:10:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
-    }
-  },
-  {
     "id": "Fa9QaSP1jvg",
     "title": "What Goes Around",
     "type": "stream",
@@ -476,15 +476,15 @@
   },
   {
     "id": "YgZNZM81OcA",
-    "title": "【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ~Liminal~【 桃鈴ねね / 3DLive 】",
+    "title": "【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ～Liminal～【 桃鈴ねね / 3DLive 】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-02-25T12:50:05.000Z",
     "available_at": "2026-03-02T10:56:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4322,
+    "status": "past",
     "live_tl_count": {
-      "en": 31
+      "en": 49
     },
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
