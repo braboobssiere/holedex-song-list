@@ -1,5 +1,24 @@
 [
   {
+    "id": "BKo-nVvLnKQ",
+    "title": "【歌枠 / karaoke】きえるまきゅう  / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-03T06:32:49.000Z",
+    "available_at": "2026-03-03T07:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "4FlN5KR7a9o",
     "title": "Liminal",
     "type": "stream",
@@ -120,6 +139,25 @@
     }
   },
   {
+    "id": "54MJhdogNII",
+    "title": "【 #桃鈴ねね誕生日ライブ2026 】今年もみんなと迎えたい!お誕生日!!!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-03-01T15:34:09.000Z",
+    "available_at": "2026-03-01T14:30:37.000Z",
+    "duration": 3504,
+    "status": "past",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "6V6pBFCq0h0",
     "title": "【3D STREAM】 VOGELFREI CHEERING GUIDE STREAM ✨アルバムの曲の応援ガイド！",
     "type": "stream",
@@ -176,25 +214,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "54MJhdogNII",
-    "title": "【 #桃鈴ねね誕生日ライブ2026 】今年もみんなと迎えたい！お誕生日！！！【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-03-01T09:13:48.000Z",
-    "available_at": "2026-03-01T14:30:37.000Z",
-    "duration": 3507,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
@@ -2774,30 +2793,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "jqGcYdtgzZ8",
-    "title": "【歌枠】続きで夜も歌います!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-08T15:53:48.000Z",
-    "available_at": "2026-02-08T14:14:52.000Z",
-    "duration": 5587,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 103,
-      "ko": 120
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
