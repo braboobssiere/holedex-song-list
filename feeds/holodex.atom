@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-03T00:56:09.762Z</updated>
+  <updated>2026-03-03T01:26:10.550Z</updated>
 
   <entry>
     <id>urn:uuid:07532a48-cefa-59e5-993c-56f95a0d8cc4</id>
@@ -227,6 +227,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XP_faVXcTiQ 【LIVE on &lt;t:1772031713:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XP_faVXcTiQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dd05d77b-6701-570c-bd9e-ec54c084e5a8</id>
+    <title><![CDATA[【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ～Liminal～【 桃鈴ねね / 3DLive 】]]></title>
+    <link href="https://youtu.be/YgZNZM81OcA" rel="alternate" type="text/html"/>
+    <published>2026-02-25T12:50:05.000Z</published>
+    <updated>2026-03-02T10:56:16.000Z</updated>
+    <author>
+      <name>Nene Ch.桃鈴ねね</name>
+      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YgZNZM81OcA 【LIVE on &lt;t:1772448976:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YgZNZM81OcA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
