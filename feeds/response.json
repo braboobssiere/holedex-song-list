@@ -1,13 +1,51 @@
 [
   {
+    "id": "fO2ejfMaS4Q",
+    "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-04T12:06:29.000Z",
+    "available_at": "2026-03-04T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
+    "id": "3FaVukSkqas",
+    "title": "Vivid Stampede!!!! /白上フブキ.不知火フレア.角巻わため.尾丸ポルカ【バカタレサーカス】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-04T12:00:06.000Z",
+    "available_at": "2026-03-04T12:00:06.000Z",
+    "duration": 211,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
     "id": "N1RDB0KRvIM",
     "title": "【逆凸】生誕前夜‼ Live2Dみこで⁉逆凸&生誕カウントダウンやるにぇえええええ‼🎉🌸【#さくらみこ生誕祭2026 前夜祭】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-03-04T06:48:49.000Z",
-    "available_at": "2026-03-04T12:00:00.000Z",
+    "available_at": "2026-03-04T12:02:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -2371,27 +2409,6 @@
     }
   },
   {
-    "id": "qlq414bBYGU",
-    "title": "ラブノカサブタ (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-02-14T15:01:56.000Z",
-    "available_at": "2026-02-14T15:01:56.000Z",
-    "duration": 163,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCOqODaLthpxW0rtOgLzLmAw",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
-    }
-  },
-  {
     "id": "UavLZ_iRSw8",
     "title": "【弾き語り歌枠】ラブソング限定【律可/ホロスターズ】#りつすた",
     "type": "stream",
@@ -2811,29 +2828,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Omaru Polka"
-    }
-  },
-  {
-    "id": "XFx_tC6mMVY",
-    "title": "【歌枠】お知らせアリ!?な歌枠【百鬼あやめ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-11T14:42:23.000Z",
-    "available_at": "2026-02-11T12:02:27.000Z",
-    "duration": 8578,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 119
-    },
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
     }
   },
   {
