@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-05T14:56:26.599Z</updated>
+  <updated>2026-03-05T15:26:27.689Z</updated>
+
+  <entry>
+    <id>urn:uuid:0b34e2eb-ee9e-5e52-b3d3-d7d08fe596f5</id>
+    <title><![CDATA[ファッションビート]]></title>
+    <link href="https://youtu.be/l1wCLh5UM1s" rel="alternate" type="text/html"/>
+    <published>2026-03-05T15:03:53.000Z</published>
+    <updated>2026-03-05T15:03:53.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=l1wCLh5UM1s 【LIVE on &lt;t:1772723033:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/l1wCLh5UM1s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d79f84a5-df03-5bea-b88a-0fd8dd6214d6</id>
+    <title><![CDATA[ファッションビート (Instrumental)]]></title>
+    <link href="https://youtu.be/410pjjdv76c" rel="alternate" type="text/html"/>
+    <published>2026-03-05T15:02:24.000Z</published>
+    <updated>2026-03-05T15:02:24.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=410pjjdv76c 【LIVE on &lt;t:1772722944:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/410pjjdv76c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c94fcca7-d8ce-5c9e-9813-9ccf15344baa</id>
@@ -1067,34 +1095,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hKXxOlDpa5E 【LIVE on &lt;t:1771082199:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hKXxOlDpa5E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:da215a65-aea8-53d0-a613-e17c8810116b</id>
-    <title><![CDATA[初恋大戦争 (Instrumental)]]></title>
-    <link href="https://youtu.be/XTBETpWMooI" rel="alternate" type="text/html"/>
-    <published>2026-02-14T15:03:27.000Z</published>
-    <updated>2026-02-14T15:03:27.000Z</updated>
-    <author>
-      <name>Choco Ch. 癒月ちょこ</name>
-      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XTBETpWMooI 【LIVE on &lt;t:1771081407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XTBETpWMooI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cdb83c0d-3f5d-588b-bb9f-a6d467c40ee4</id>
-    <title><![CDATA[ラブノカサブタ]]></title>
-    <link href="https://youtu.be/kCZfx-Y_2xE" rel="alternate" type="text/html"/>
-    <published>2026-02-14T15:02:40.000Z</published>
-    <updated>2026-02-14T15:02:40.000Z</updated>
-    <author>
-      <name>Pekora Ch. 兎田ぺこら</name>
-      <uri>https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kCZfx-Y_2xE 【LIVE on &lt;t:1771081360:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kCZfx-Y_2xE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
