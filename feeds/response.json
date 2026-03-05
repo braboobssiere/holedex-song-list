@@ -320,6 +320,25 @@
     }
   },
   {
+    "id": "Mb2-zFdi7A8",
+    "title": "【#hololivefesEXPO26_DAY1】漢だらけの!?アニソンカラオケ大会2026",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-02T11:39:43.000Z",
+    "available_at": "2026-03-06T06:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWsfcksUUpoEvhia0_ut0bA",
+      "name": "holostars ホロスターズ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0bOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/_XDJ6UWosywfyInhYgP5qk3NUBaVfGEWXIYLun-UfRPELVa8fnmWG50_awBQchn1c3G7ywDk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "HOLOSTARS Official"
+    }
+  },
+  {
     "id": "c4G6jOttd6g",
     "title": "【#hololivefesEXPO26_DAY1】楽器持って集合な!?バンド縛りカラオケ大会2026",
     "type": "stream",
@@ -344,9 +363,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-03-02T11:14:57.000Z",
-    "available_at": "2026-03-05T12:00:00.000Z",
+    "available_at": "2026-03-05T11:58:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
       "name": "Miko Ch. さくらみこ",
@@ -2790,25 +2812,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ayunda Risu"
-    }
-  },
-  {
-    "id": "swmkfm_lEIc",
-    "title": "【UNARCHIVED】we are singing we are dancing we are throwin it back",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-12T16:29:04.000Z",
-    "available_at": "2026-02-13T01:59:58.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
