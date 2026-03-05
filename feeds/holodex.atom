@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-05T12:56:13.622Z</updated>
+  <updated>2026-03-05T13:26:26.678Z</updated>
+
+  <entry>
+    <id>urn:uuid:c94fcca7-d8ce-5c9e-9813-9ccf15344baa</id>
+    <title><![CDATA[【Animation MV】ファッションビート / さくらみこ (official)]]></title>
+    <link href="https://youtu.be/cm0R2rqDJJ4" rel="alternate" type="text/html"/>
+    <published>2026-03-05T13:05:06.000Z</published>
+    <updated>2026-03-05T13:05:06.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cm0R2rqDJJ4 【LIVE on &lt;t:1772715906:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cm0R2rqDJJ4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:57dea8e1-ab26-5e1d-b5b0-aa0e9a1282fd</id>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3FaVukSkqas 【LIVE on &lt;t:1772625606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3FaVukSkqas/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c94fcca7-d8ce-5c9e-9813-9ccf15344baa</id>
-    <title><![CDATA[【Animation MV】ファッションビート / さくらみこ (official)]]></title>
-    <link href="https://youtu.be/cm0R2rqDJJ4" rel="alternate" type="text/html"/>
-    <published>2026-03-03T07:39:51.000Z</published>
-    <updated>2026-03-05T13:05:00.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cm0R2rqDJJ4 【LIVE on &lt;t:1772715900:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cm0R2rqDJJ4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
