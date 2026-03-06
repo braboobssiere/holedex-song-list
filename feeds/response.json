@@ -8,6 +8,7 @@
     "available_at": "2026-03-06T12:30:39.000Z",
     "duration": 204,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCFTLzh12_nrtzqBPsTCqenA",
       "name": "アキロゼCh。Vtuber/ホロライブ所属",
@@ -1406,6 +1407,25 @@
     "available_at": "2026-02-24T09:00:31.000Z",
     "duration": 1872,
     "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "L3-VtHNm9oA",
+    "title": "【チラ見せ】hololive 7th fes. Ridin' on Dreams STAGE3【#hololivefesEXPO26_DAY2】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-02-24T00:39:18.000Z",
+    "available_at": "2026-03-07T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -4827,26 +4847,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "MXuNPjOc0Dc",
-    "title": "dtto. 3Dお披露目配信 #dtto1st3D",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-11-29T12:08:12.000Z",
-    "available_at": "2025-11-29T09:55:26.000Z",
-    "duration": 5920,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCWNVjAzZmYUni8YBXYiy01w",
-      "name": "dtto.",
-      "org": "Twitch Independents",
-      "suborg": "reREJECT",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3SotsPaIwILzp3_cA5E-NJGd8a2Qkw0wGfKZx74Uu3XpoKEalgXQEXhgQCwbwt4aC7EaAsPSyQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "dtto."
     }
   },
   {
