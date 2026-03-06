@@ -1423,8 +1423,11 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-02-24T00:24:25.000Z",
     "available_at": "2026-03-06T09:00:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4366,
+    "status": "past",
+    "live_tl_count": {
+      "en": 35
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
