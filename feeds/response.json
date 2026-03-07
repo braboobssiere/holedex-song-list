@@ -101,6 +101,26 @@
     }
   },
   {
+    "id": "zMZv9ztIuDQ",
+    "title": "【平成歌枠】Fes&EXPO前夜祭?!パパのウォークマンに入ってた曲を歌う!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-05T11:49:59.000Z",
+    "available_at": "2026-03-05T10:32:46.000Z",
+    "duration": 4154,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "yF4TLHVH_tU",
     "title": "【#ホロアース】アキ・ローゼンタール生誕祭2026 アンコール in ホロアース開催決定!【#アキロゼ生誕祭2026】",
     "type": "stream",
@@ -117,26 +137,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/9oSEoTc7tIyJQFUS3tIJg_Vt1osObTggabiwYENMm_jHAhphKsO7R9kNpACnS4CF6VIu2KVjOb0=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Holoearth"
-    }
-  },
-  {
-    "id": "zMZv9ztIuDQ",
-    "title": "【平成歌枠】Fes＆EXPO前夜祭？！パパのウォークマンに入ってた曲を歌う！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-05T08:11:07.000Z",
-    "available_at": "2026-03-05T10:32:46.000Z",
-    "duration": 4148,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
@@ -1448,6 +1448,10 @@
     "available_at": "2026-03-07T03:30:17.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 4,
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
