@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-08T03:56:12.008Z</updated>
+  <updated>2026-03-08T04:26:13.601Z</updated>
 
   <entry>
     <id>urn:uuid:871bb452-205b-5cfa-8976-3bfe4aeb3103</id>
@@ -661,6 +661,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yNAYmjmC9ZY 【LIVE on &lt;t:1771934112:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yNAYmjmC9ZY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fa4a187b-2e90-59c1-96e4-bf6b576a0a10</id>
+    <title><![CDATA[【チラ見せ】hololive 7th fes. Ridin' on Dreams STAGE4【#hololivefesEXPO26_DAY3】]]></title>
+    <link href="https://youtu.be/mCgAcTJyvts" rel="alternate" type="text/html"/>
+    <published>2026-02-24T00:44:23.000Z</published>
+    <updated>2026-03-08T03:30:52.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mCgAcTJyvts 【LIVE on &lt;t:1772940652:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mCgAcTJyvts/maxresdefault.jpg"/>
   </entry>
 
   <entry>
