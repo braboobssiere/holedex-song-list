@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/" # Location of the workflow files
+    schedule:
+      interval: "weekly" # How often to check for updates (e.g., daily, weekly, monthly)
+    commit-message:
+      prefix: "upgrade" # Prefix for the commit messages; can also use "feat" or customize
