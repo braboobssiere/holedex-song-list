@@ -5,4 +5,4 @@ updates:
     schedule:
       interval: "monthly" # How often to check for updates (e.g., daily, weekly, monthly)
     commit-message:
-      prefix: "upgrade" # Prefix for the commit messages; can also use "feat" or customize
+      prefix: "Upgrade" # Prefix for the commit messages; can also use "feat" or customize
