@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-03-12T09:50:51.000Z",
-    "available_at": "2026-03-12T13:00:00.000Z",
+    "available_at": "2026-03-12T13:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -558,8 +558,8 @@
     "topic_id": "Birthday",
     "published_at": "2026-03-05T04:30:59.000Z",
     "available_at": "2026-03-12T11:59:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3547,
+    "status": "past",
     "songcount": 9,
     "channel": {
       "id": "UC727SQYUvx5pDDGQpTICNWg",
