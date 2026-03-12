@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-12T08:56:09.139Z</updated>
+  <updated>2026-03-12T09:26:21.905Z</updated>
+
+  <entry>
+    <id>urn:uuid:ef11eb3e-7b29-5ace-b92b-9983007aa981</id>
+    <title><![CDATA[【Unarchived Karaoke】singing practiceeeeeeeeee]]></title>
+    <link href="https://youtu.be/hRzY29il2_w" rel="alternate" type="text/html"/>
+    <published>2026-03-12T09:13:51.000Z</published>
+    <updated>2026-03-12T15:00:00.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hRzY29il2_w 【LIVE on &lt;t:1773327600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hRzY29il2_w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bc338385-91f2-5ee8-a49c-ad1dda80853a</id>
@@ -1193,20 +1207,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OfV_L2IwTWk 【LIVE on &lt;t:1771138830:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OfV_L2IwTWk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ecd4ee7b-6161-50cd-b86a-0c793222dac6</id>
-    <title><![CDATA[【歌枠】第132回!Valentine's わためぇ Night Fever!! Singing Stream🍫🎤【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/7wQKhCC4fHo" rel="alternate" type="text/html"/>
-    <published>2026-02-14T21:40:37.000Z</published>
-    <updated>2026-02-14T13:03:56.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7wQKhCC4fHo 【LIVE on &lt;t:1771074236:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7wQKhCC4fHo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
