@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-12T16:56:07.981Z</updated>
+  <updated>2026-03-12T17:26:12.774Z</updated>
 
   <entry>
     <id>urn:uuid:e1cd5cbb-0e7c-5df3-9ba7-97d0cbd42911</id>
@@ -283,6 +283,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uzF43bRo5XU 【LIVE on &lt;t:1773316756:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uzF43bRo5XU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:36d86e57-8285-5b23-b9cf-934f229bfac9</id>
+    <title><![CDATA[【オリジナル楽曲】ときのそら「Diva」【Official Music Video】]]></title>
+    <link href="https://youtu.be/sBm4KJD6P7Q" rel="alternate" type="text/html"/>
+    <published>2026-03-05T01:46:54.000Z</published>
+    <updated>2026-03-13T11:00:00.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sBm4KJD6P7Q 【LIVE on &lt;t:1773399600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sBm4KJD6P7Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1123,20 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=38ce5A5f9Fo 【LIVE on &lt;t:1771383680:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/38ce5A5f9Fo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5675f93b-79b8-5c6a-85d1-e28dbb5834d0</id>
-    <title><![CDATA[モノポリー (Instrumental)]]></title>
-    <link href="https://youtu.be/PaTg9kJSJqE" rel="alternate" type="text/html"/>
-    <published>2026-02-17T15:03:38.000Z</published>
-    <updated>2026-02-17T15:03:38.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PaTg9kJSJqE 【LIVE on &lt;t:1771340618:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PaTg9kJSJqE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
