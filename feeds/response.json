@@ -57,25 +57,6 @@
     }
   },
   {
-    "id": "PtFabBUG1bw",
-    "title": "【配信予定】雨にうたれ 君を探して 叫んでいた【ホロライブ/兎田ぺこら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-12T19:42:01.000Z",
-    "available_at": "2026-03-13T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1DCedRgGHBdm81E1llLhOQ",
-      "name": "Pekora Ch. 兎田ぺこら",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Usada Pekora"
-    }
-  },
-  {
     "id": "VQDvivMID-Y",
     "title": "【ホロアース】ホロアースに集合!#アキロゼ生誕祭2026 アンコールライブinホロアース開演!!【ホロライブ/アキロゼ】",
     "type": "stream",
@@ -2818,6 +2799,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
+    }
+  },
+  {
+    "id": "C8K_MTq4Tp8",
+    "title": "Rebroadcast =【SHOW】A TRIBUTE TO LOVE SONGS ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-02-14T22:30:42.000Z",
+    "available_at": "2026-02-14T22:32:57.000Z",
+    "duration": 0,
+    "status": "missing",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
