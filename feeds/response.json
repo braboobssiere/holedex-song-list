@@ -48,8 +48,8 @@
     "topic_id": "asmr",
     "published_at": "2026-03-15T14:59:36.000Z",
     "available_at": "2026-03-16T00:00:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 15353,
+    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -219,6 +219,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
+    }
+  },
+  {
+    "id": "uzQP6qzpL_o",
+    "title": "【#FG3Dカラオケ】とりま20時集合で!FGとカラオケ行こっ💖",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-14T12:21:13.000Z",
+    "available_at": "2026-03-14T10:56:59.000Z",
+    "duration": 4086,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -577,25 +596,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "uzQP6qzpL_o",
-    "title": "【#FG3Dカラオケ】とりま20時集合で！FGとカラオケ行こっ💖",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-12T04:22:47.000Z",
-    "available_at": "2026-03-14T10:56:59.000Z",
-    "duration": 4079,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
