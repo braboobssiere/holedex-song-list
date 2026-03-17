@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-03-17T04:37:09.000Z",
-    "available_at": "2026-03-17T08:20:00.000Z",
+    "available_at": "2026-03-17T08:20:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -16,25 +16,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "cBLoIc_SQiE",
-    "title": "【KU100】重たい方が強いでしょ。",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2026-03-16T15:46:47.000Z",
-    "available_at": "2026-03-16T15:46:47.000Z",
-    "duration": 65,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -6213,6 +6194,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "15T-1kBApDM",
+    "title": "【ASMR】水曜の涼しい夜に朗読ASMRはいかが?【影山シエン/ホロスターズ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-07-16T19:21:36.000Z",
+    "available_at": "2025-07-16T14:01:31.000Z",
+    "duration": 5352,
+    "status": "past",
+    "channel": {
+      "id": "UChSvpZYRPh0FvG4SJGSga3g",
+      "name": "Shien Ch.影山シエン",
+      "org": "Hololive",
+      "suborg": "meHOLOSTARS 3rd Gen (TriNero)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kageyama Shien"
     }
   },
   {
