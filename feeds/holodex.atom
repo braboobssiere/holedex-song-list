@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-20T14:56:11.797Z</updated>
+  <updated>2026-03-20T15:26:17.523Z</updated>
+
+  <entry>
+    <id>urn:uuid:40fede7e-b5d5-5d7c-98f3-838e8c9f5bc9</id>
+    <title><![CDATA[色は匂えども]]></title>
+    <link href="https://youtu.be/ElvTBT4nfDQ" rel="alternate" type="text/html"/>
+    <published>2026-03-20T15:03:32.000Z</published>
+    <updated>2026-03-20T15:03:32.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ElvTBT4nfDQ 【LIVE on &lt;t:1774019012:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ElvTBT4nfDQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:be0c72fc-ada6-59d8-9483-7837e1ac2dae</id>
+    <title><![CDATA[色は匂えども (Instrumental)]]></title>
+    <link href="https://youtu.be/uWu3wTme5R0" rel="alternate" type="text/html"/>
+    <published>2026-03-20T15:02:37.000Z</published>
+    <updated>2026-03-20T15:02:37.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uWu3wTme5R0 【LIVE on &lt;t:1774018957:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uWu3wTme5R0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ca3fdc2e-b6fa-547c-b90f-37dc9b67c3ee</id>
@@ -1011,34 +1039,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hw_E7z2n0CE 【LIVE on &lt;t:1771945334:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hw_E7z2n0CE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:be4064bc-3f1b-5ed3-8da6-4dba1e38a4a5</id>
-    <title><![CDATA[ENDLESS FES]]></title>
-    <link href="https://youtu.be/-4CKzApZ17o" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:02:09.000Z</published>
-    <updated>2026-02-24T15:02:09.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-4CKzApZ17o 【LIVE on &lt;t:1771945329:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-4CKzApZ17o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:85a2297c-f654-5375-8819-b2961879d2e2</id>
-    <title><![CDATA[君と眺める夏の花]]></title>
-    <link href="https://youtu.be/PmJXIr2bgAw" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:02:04.000Z</published>
-    <updated>2026-02-24T15:02:04.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PmJXIr2bgAw 【LIVE on &lt;t:1771945324:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PmJXIr2bgAw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
