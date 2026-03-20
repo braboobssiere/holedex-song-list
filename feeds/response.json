@@ -1,13 +1,36 @@
 [
   {
+    "id": "0uPLtOQIlEk",
+    "title": "【MV】色は匂えども / いろはにほへっと あやふぶみ【 #いろはにほへっとあやふぶみ 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-20T11:10:07.000Z",
+    "available_at": "2026-03-20T11:10:07.000Z",
+    "duration": 170,
+    "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "0LqgL1xgxVU",
     "title": "【インターネットサイン会】Live Blu-rayときのそら8th Anniversary Party「Starry Bl∞min'」リリース記念!【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-03-20T03:21:22.000Z",
-    "available_at": "2026-03-20T11:00:00.000Z",
+    "available_at": "2026-03-20T11:01:01.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 29,
+      "ko": 23
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -916,33 +939,14 @@
     }
   },
   {
-    "id": "0uPLtOQIlEk",
-    "title": "【MV】色は匂えども / いろはにほへっと あやふぶみ【 #いろはにほへっとあやふぶみ 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-11T12:15:12.000Z",
-    "available_at": "2026-03-20T11:10:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
     "id": "FLi42PqGi7s",
     "title": "【3D】大ヒット祈願の大阪旅行【#あやふぶみゆるっと旅】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-03-11T08:46:26.000Z",
     "available_at": "2026-03-20T09:57:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4285,
+    "status": "past",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -998,9 +1002,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-03-10T10:34:33.000Z",
-    "available_at": "2026-03-20T11:00:00.000Z",
+    "available_at": "2026-03-20T10:59:57.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCI-aDQ7k0Ghd9JlFv_qzB7w",
       "name": "明堂しろね Shirone Ch.",
