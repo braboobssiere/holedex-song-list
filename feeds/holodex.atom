@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-21T13:26:13.346Z</updated>
+  <updated>2026-03-21T13:56:11.367Z</updated>
+
+  <entry>
+    <id>urn:uuid:e40e228a-eb06-5a7f-8a8f-00569b973fc9</id>
+    <title><![CDATA[【雑談/弾き語り】のんびり練習つきあってよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/VfDpe5ashdY" rel="alternate" type="text/html"/>
+    <published>2026-03-21T11:53:26.000Z</published>
+    <updated>2026-03-21T13:39:00.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VfDpe5ashdY 【LIVE on &lt;t:1774100340:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VfDpe5ashdY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:40fede7e-b5d5-5d7c-98f3-838e8c9f5bc9</id>
@@ -2509,19 +2523,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=k1oP9iMXoJo 【LIVE on &lt;t:1692799240:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k1oP9iMXoJo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b63593f0-e2ee-5f68-955e-7252b04fb8f6</id>
-    <title><![CDATA[≪HOLOSUMMER: BINGO≫ Learning how to play the Otamatone #hololivesummer2023]]></title>
-    <link href="https://youtu.be/akfZjZZPGUI" rel="alternate" type="text/html"/>
-    <published>2023-07-27T03:54:11.000Z</published>
-    <updated>2023-07-27T01:02:23.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=akfZjZZPGUI 【LIVE on &lt;t:1690419743:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/akfZjZZPGUI/maxresdefault.jpg"/>
   </entry>
 </feed>
