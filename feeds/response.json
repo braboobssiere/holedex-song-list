@@ -1,5 +1,44 @@
 [
   {
+    "id": "BiuNFlXzO_4",
+    "title": "【UNARCHIVED KARAOKE】Singing in the void for a little ~! 💄",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-03-22T12:34:44.000Z",
+    "available_at": "2026-03-22T12:42:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Elizabeth Rose Bloodflame"
+    }
+  },
+  {
+    "id": "M1GYqy0tHV0",
+    "title": "プリマドンナ / 星街すいせい(official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-22T12:30:06.000Z",
+    "available_at": "2026-03-22T12:30:06.000Z",
+    "duration": 172,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
     "id": "bS6u56cqumg",
     "title": "【歌枠】ホロライブ曲を歌うぞ！！【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -16,26 +55,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "M1GYqy0tHV0",
-    "title": "プリマドンナ / 星街すいせい(official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-22T07:06:50.000Z",
-    "available_at": "2026-03-22T12:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
@@ -3105,26 +3124,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "jRX_EeOZc-I",
-    "title": "【歌枠】オフコラボでカラオケだ~~~!!!!【 アキロゼ / AZKi / 大神ミオ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-19T11:19:45.000Z",
-    "available_at": "2026-02-19T10:02:34.000Z",
-    "duration": 4001,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
