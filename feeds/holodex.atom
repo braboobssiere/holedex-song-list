@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-22T09:26:14.896Z</updated>
+  <updated>2026-03-22T09:56:17.408Z</updated>
 
   <entry>
     <id>urn:uuid:b69fa1cf-4413-57c9-b270-a1c9802953a5</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bS6u56cqumg 【LIVE on &lt;t:1774173600:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bS6u56cqumg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:62d31ca0-37c2-55e9-8369-7145c52b31f7</id>
+    <title><![CDATA[??? / 星街すいせい(official)]]></title>
+    <link href="https://youtu.be/M1GYqy0tHV0" rel="alternate" type="text/html"/>
+    <published>2026-03-22T07:06:50.000Z</published>
+    <updated>2026-03-22T12:30:00.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=M1GYqy0tHV0 【LIVE on &lt;t:1774182600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M1GYqy0tHV0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hIMDugjNnYo 【LIVE on &lt;t:1771945422:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hIMDugjNnYo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:820f4be6-ef01-5b78-abb7-283be92093ea</id>
-    <title><![CDATA[等身大ラブレター]]></title>
-    <link href="https://youtu.be/YHqPL15sy_0" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:03:17.000Z</published>
-    <updated>2026-02-24T15:03:17.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YHqPL15sy_0 【LIVE on &lt;t:1771945397:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YHqPL15sy_0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
