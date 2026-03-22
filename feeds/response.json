@@ -88,6 +88,7 @@
     "available_at": "2026-03-21T14:00:06.000Z",
     "duration": 4461,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -126,6 +127,7 @@
     "available_at": "2026-03-21T10:41:54.000Z",
     "duration": 4787,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -145,6 +147,7 @@
     "available_at": "2026-03-21T11:01:10.000Z",
     "duration": 4426,
     "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -214,6 +217,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "qvP8sGFMc3I",
+    "title": "【#明堂しろね3D】ご主人様!お嬢様!ついに3Dお披露目の夢が叶う瞬間です!【明堂しろね/ハコネクト】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-03-20T12:10:08.000Z",
+    "available_at": "2026-03-20T10:59:57.000Z",
+    "duration": 3147,
+    "status": "past",
+    "channel": {
+      "id": "UCI-aDQ7k0Ghd9JlFv_qzB7w",
+      "name": "明堂しろね Shirone Ch.",
+      "org": "HACONECT",
+      "suborg": "1g4th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/1AE054WJYoeKKloskXZPowzuTgS1xLjIa47l0nukErUeiUDhm_zZg9r5rcwUurEa7L99yevw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Meido Shirone"
     }
   },
   {
@@ -1291,25 +1313,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "qvP8sGFMc3I",
-    "title": "【#明堂しろね3D】ご主人様！お嬢様！ついに3Dお披露目の夢が叶う瞬間です！【明堂しろね/ハコネクト】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-03-10T10:34:33.000Z",
-    "available_at": "2026-03-20T10:59:57.000Z",
-    "duration": 3154,
-    "status": "past",
-    "channel": {
-      "id": "UCI-aDQ7k0Ghd9JlFv_qzB7w",
-      "name": "明堂しろね Shirone Ch.",
-      "org": "HACONECT",
-      "suborg": "1g4th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1AE054WJYoeKKloskXZPowzuTgS1xLjIa47l0nukErUeiUDhm_zZg9r5rcwUurEa7L99yevw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Meido Shirone"
     }
   },
   {
