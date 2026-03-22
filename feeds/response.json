@@ -1,13 +1,13 @@
 [
   {
     "id": "bS6u56cqumg",
-    "title": "【歌枠】ホロライブ曲を歌うぞ!!【ホロライブ/夏色まつり】",
+    "title": "【歌枠】ホロライブ曲を歌うぞ！！【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-03-22T08:35:30.000Z",
     "available_at": "2026-03-22T10:00:26.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3363,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -520,9 +520,10 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-03-17T13:19:45.000Z",
-    "available_at": "2026-03-22T11:00:00.000Z",
+    "available_at": "2026-03-22T11:00:12.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 5,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
