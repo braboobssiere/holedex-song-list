@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-23T04:56:12.763Z</updated>
+  <updated>2026-03-23T05:26:15.432Z</updated>
 
   <entry>
     <id>urn:uuid:de85cb60-c365-5b9f-b8e5-1e862f43aa23</id>
@@ -132,6 +132,20 @@ A new original song, composed and arra]]></title>
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tKGjrJy6Ic8 【LIVE on &lt;t:1774101606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tKGjrJy6Ic8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d5e0b44a-603d-5129-b68c-383e05697495</id>
+    <title><![CDATA[【#ホロカラ覗き見】ホロメンのカラオケ覗き見!? / 3Dstream【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/R-yE9Mut4Yc" rel="alternate" type="text/html"/>
+    <published>2026-03-21T13:20:25.000Z</published>
+    <updated>2026-03-21T11:58:26.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R-yE9Mut4Yc 【LIVE on &lt;t:1774094306:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R-yE9Mut4Yc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -342,20 +356,6 @@ A new original song, composed and arra]]></title>
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WV5A13Bh41U 【LIVE on &lt;t:1773561772:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WV5A13Bh41U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d5e0b44a-603d-5129-b68c-383e05697495</id>
-    <title><![CDATA[【#ホロカラ覗き見】ホロメンのカラオケ覗き見！？ / 3Dstream【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/R-yE9Mut4Yc" rel="alternate" type="text/html"/>
-    <published>2026-03-15T10:06:45.000Z</published>
-    <updated>2026-03-21T11:58:26.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R-yE9Mut4Yc 【LIVE on &lt;t:1774094306:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R-yE9Mut4Yc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
