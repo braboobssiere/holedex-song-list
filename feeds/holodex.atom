@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-24T14:56:09.625Z</updated>
+  <updated>2026-03-24T15:26:16.114Z</updated>
+
+  <entry>
+    <id>urn:uuid:1c165104-dedc-5cbe-9ceb-b9c69290200b</id>
+    <title><![CDATA[シルべ]]></title>
+    <link href="https://youtu.be/wp75Ae32rYM" rel="alternate" type="text/html"/>
+    <published>2026-03-24T15:01:43.000Z</published>
+    <updated>2026-03-24T15:01:43.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wp75Ae32rYM 【LIVE on &lt;t:1774364503:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wp75Ae32rYM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6bd23d8c-cc46-5742-bf7f-2718845944eb</id>
+    <title><![CDATA[シルべ(Instrumental)]]></title>
+    <link href="https://youtu.be/mCxRvUfQMf0" rel="alternate" type="text/html"/>
+    <published>2026-03-24T15:01:31.000Z</published>
+    <updated>2026-03-24T15:01:31.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mCxRvUfQMf0 【LIVE on &lt;t:1774364491:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mCxRvUfQMf0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d560b4fc-2507-5aac-a5c9-d20021bebdc3</id>
+    <title><![CDATA[Present Day (Live ver. Tokoyami Towa 2nd Live “SHINier"@有明アリーナ)]]></title>
+    <link href="https://youtu.be/Ig7_D9uPH10" rel="alternate" type="text/html"/>
+    <published>2026-03-24T15:00:27.000Z</published>
+    <updated>2026-03-24T15:00:27.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ig7_D9uPH10 【LIVE on &lt;t:1774364427:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ig7_D9uPH10/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ade1a51c-e932-55d1-8589-56660bdd9d0d</id>
@@ -1123,48 +1165,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kFLKwEFutm4 【LIVE on &lt;t:1771945499:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kFLKwEFutm4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e90a25a8-6851-54a5-8257-f62224cdd7cf</id>
-    <title><![CDATA[ホロメン体操]]></title>
-    <link href="https://youtu.be/lNXF26gdCKM" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:04:18.000Z</published>
-    <updated>2026-02-24T15:04:18.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lNXF26gdCKM 【LIVE on &lt;t:1771945458:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lNXF26gdCKM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ee8e27fb-7d9f-50e0-86d3-671ec60d6eb9</id>
-    <title><![CDATA[美少女戦士まつりみっとZero]]></title>
-    <link href="https://youtu.be/q7kxjGDSZjQ" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:04:12.000Z</published>
-    <updated>2026-02-24T15:04:12.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=q7kxjGDSZjQ 【LIVE on &lt;t:1771945452:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q7kxjGDSZjQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6922d973-4bab-5327-822d-4752414b9e31</id>
-    <title><![CDATA[Sparkling!!]]></title>
-    <link href="https://youtu.be/guQEk2EFN80" rel="alternate" type="text/html"/>
-    <published>2026-02-24T15:03:59.000Z</published>
-    <updated>2026-02-24T15:03:59.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=guQEk2EFN80 【LIVE on &lt;t:1771945439:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/guQEk2EFN80/maxresdefault.jpg"/>
   </entry>
 
   <entry>
