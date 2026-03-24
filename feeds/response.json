@@ -69,11 +69,11 @@
     "topic_id": "singing",
     "published_at": "2026-03-24T12:39:04.000Z",
     "available_at": "2026-03-24T13:31:56.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7893,
+    "status": "past",
     "live_tl_count": {
-      "en": 118,
-      "ko": 100
+      "en": 146,
+      "ko": 114
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -3168,25 +3168,6 @@
     }
   },
   {
-    "id": "biDT17RtAeI",
-    "title": "【ケツバトラー】3Dセルフブースで尻闘✨真の尻王は誰だッッ!!!【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-02-19T14:00:58.000Z",
-    "available_at": "2026-02-19T13:00:09.000Z",
-    "duration": 3357,
-    "status": "past",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "gMhb6gK04R4",
     "title": "[Sumatra Charity Stream] UNARCHIVED KARAOKE : Closing event",
     "type": "stream",
@@ -4864,6 +4845,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2rchLUnoJ81nEK8W2hW6rQtpvoV_1DQ21QaViu_mYcb2MbD1eZFasEfFx4J8IbgZ4lltleWutQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kageyama Shien"
+    }
+  },
+  {
+    "id": "7C1Cj-PvnKo",
+    "title": "【3Dコラボ】ぺこマリノエルーナで「ドラゴンボールゲーム 年末特番!」に出演!ぺこ!【ホロライブ/兎田ぺこら】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-15T12:14:35.000Z",
+    "available_at": "2025-12-15T09:59:45.000Z",
+    "duration": 7170,
+    "status": "past",
+    "channel": {
+      "id": "UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Usada Pekora"
     }
   },
   {
