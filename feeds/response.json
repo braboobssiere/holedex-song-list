@@ -92,6 +92,7 @@
     "available_at": "2026-03-25T14:15:07.000Z",
     "duration": 168,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
@@ -111,6 +112,9 @@
     "available_at": "2026-03-25T15:33:05.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 7
+    },
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
