@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-25T08:26:10.932Z</updated>
+  <updated>2026-03-25T08:56:09.502Z</updated>
+
+  <entry>
+    <id>urn:uuid:7c09bce1-cc30-58fd-a8cb-fe11ba6b066b</id>
+    <title><![CDATA[≪LATE NIGHT KARAOKE≫ casual singing while i sign some cards #shorts]]></title>
+    <link href="https://youtu.be/Ja324uGDFKU" rel="alternate" type="text/html"/>
+    <published>2026-03-25T08:17:21.000Z</published>
+    <updated>2026-03-25T14:00:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ja324uGDFKU 【LIVE on &lt;t:1774447200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ja324uGDFKU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a92150e7-c090-5686-a4b6-78ac1c38ad56</id>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MX4G_JcdZPo 【LIVE on &lt;t:1771662631:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4G_JcdZPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ef122f19-9f33-5889-b13c-96ca1c6d0c02</id>
-    <title><![CDATA[【デジモン歌枠】デジモンって神曲だらけじゃない!?????【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/YE8no4DTWxw" rel="alternate" type="text/html"/>
-    <published>2026-02-20T13:41:13.000Z</published>
-    <updated>2026-02-20T10:51:05.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YE8no4DTWxw 【LIVE on &lt;t:1771584665:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YE8no4DTWxw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
