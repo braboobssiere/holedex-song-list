@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-25T14:56:15.586Z</updated>
+  <updated>2026-03-25T15:26:18.911Z</updated>
+
+  <entry>
+    <id>urn:uuid:eb181238-daae-5ac0-92b8-f1bc60915239</id>
+    <title><![CDATA[Unchained (Instrumental)]]></title>
+    <link href="https://youtu.be/tj5o5yPnsIg" rel="alternate" type="text/html"/>
+    <published>2026-03-25T15:04:48.000Z</published>
+    <updated>2026-03-25T15:04:48.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tj5o5yPnsIg 【LIVE on &lt;t:1774451088:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj5o5yPnsIg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7de93448-34aa-5275-98bc-afb95fb3eb26</id>
+    <title><![CDATA[Unchained]]></title>
+    <link href="https://youtu.be/S9uHWI_T8-w" rel="alternate" type="text/html"/>
+    <published>2026-03-25T15:02:11.000Z</published>
+    <updated>2026-03-25T15:02:11.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=S9uHWI_T8-w 【LIVE on &lt;t:1774450931:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S9uHWI_T8-w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:60493fcc-58aa-5696-990d-a061ed16802a</id>
+    <title><![CDATA[CLOSE(R) (Instrumental)]]></title>
+    <link href="https://youtu.be/0Hfx9uMsxDo" rel="alternate" type="text/html"/>
+    <published>2026-03-25T15:01:46.000Z</published>
+    <updated>2026-03-25T15:01:46.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0Hfx9uMsxDo 【LIVE on &lt;t:1774450906:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Hfx9uMsxDo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4fa8e654-bffe-515c-bd3c-89f4da79a260</id>
+    <title><![CDATA[CLOSE(R)]]></title>
+    <link href="https://youtu.be/md2D6LP3_Sk" rel="alternate" type="text/html"/>
+    <published>2026-03-25T15:01:39.000Z</published>
+    <updated>2026-03-25T15:01:39.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=md2D6LP3_Sk 【LIVE on &lt;t:1774450899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/md2D6LP3_Sk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f7b26ed7-e2c7-5881-bd57-38b2b8ade752</id>
@@ -1112,34 +1168,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e55d4a93-981b-5f8a-8e94-c302dcb6d6d4</id>
-    <title><![CDATA[What Goes Around]]></title>
-    <link href="https://youtu.be/Fa9QaSP1jvg" rel="alternate" type="text/html"/>
-    <published>2026-02-25T15:02:43.000Z</published>
-    <updated>2026-02-25T15:02:43.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Fa9QaSP1jvg 【LIVE on &lt;t:1772031763:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fa9QaSP1jvg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4deafa7c-3b45-5d28-9f8a-37c9fdf5da49</id>
-    <title><![CDATA[What Goes Around(Instrumental)]]></title>
-    <link href="https://youtu.be/XP_faVXcTiQ" rel="alternate" type="text/html"/>
-    <published>2026-02-25T15:01:53.000Z</published>
-    <updated>2026-02-25T15:01:53.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XP_faVXcTiQ 【LIVE on &lt;t:1772031713:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XP_faVXcTiQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:acd7ecd5-3576-5b8b-90e6-1e727650f918</id>
     <title><![CDATA[【縦型歌枠】チャンネル登録してください‼️新しくなったマイクで歌うじょ🎤【風真いろは/ホロライブ】#shorts]]></title>
     <link href="https://youtu.be/0QJeNIdoIyk" rel="alternate" type="text/html"/>
@@ -1151,34 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0QJeNIdoIyk 【LIVE on &lt;t:1772013708:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0QJeNIdoIyk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3e5f17ca-40fb-506a-95c1-61e12c16faaf</id>
-    <title><![CDATA[【オリジナル曲】Sparkling!!【ホロライブ/夏色まつり/じん】]]></title>
-    <link href="https://youtu.be/v49m-QRcMHo" rel="alternate" type="text/html"/>
-    <published>2026-02-25T09:00:06.000Z</published>
-    <updated>2026-02-25T09:00:06.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=v49m-QRcMHo 【LIVE on &lt;t:1772010006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/v49m-QRcMHo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c115a1df-a16b-52eb-bc67-18acf0566ca5</id>
-    <title><![CDATA[【MV】What Goes Around【hololive English -Advent- Original Song】]]></title>
-    <link href="https://youtu.be/nAkdw_McUD0" rel="alternate" type="text/html"/>
-    <published>2026-02-25T04:03:06.000Z</published>
-    <updated>2026-02-25T04:03:06.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nAkdw_McUD0 【LIVE on &lt;t:1771992186:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nAkdw_McUD0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
