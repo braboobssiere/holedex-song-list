@@ -168,9 +168,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-03-24T00:00:07.000Z",
-    "available_at": "2026-03-25T13:00:00.000Z",
+    "available_at": "2026-03-25T13:01:13.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCTvHWSfBZgtxE4sILOaurIQ",
       "name": "Vestia Zeta Ch. hololive-ID",
