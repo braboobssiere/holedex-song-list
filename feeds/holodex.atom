@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-26T07:56:09.647Z</updated>
+  <updated>2026-03-26T08:26:11.274Z</updated>
 
   <entry>
     <id>urn:uuid:c58117b5-3478-52f5-9aed-ff75f66aa9a6</id>
@@ -118,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ade1a51c-e932-55d1-8589-56660bdd9d0d</id>
+    <title><![CDATA[【歌枠】オリ曲中心にのんびり歌います。【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/BuoSfJTKYIc" rel="alternate" type="text/html"/>
+    <published>2026-03-24T15:52:40.000Z</published>
+    <updated>2026-03-24T13:31:56.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BuoSfJTKYIc 【LIVE on &lt;t:1774359116:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BuoSfJTKYIc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:1c165104-dedc-5cbe-9ceb-b9c69290200b</id>
     <title><![CDATA[シルべ]]></title>
     <link href="https://youtu.be/wp75Ae32rYM" rel="alternate" type="text/html"/>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ig7_D9uPH10 【LIVE on &lt;t:1774364427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ig7_D9uPH10/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ade1a51c-e932-55d1-8589-56660bdd9d0d</id>
-    <title><![CDATA[【歌枠】オリ曲中心にのんびり歌います。【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/BuoSfJTKYIc" rel="alternate" type="text/html"/>
-    <published>2026-03-24T12:39:04.000Z</published>
-    <updated>2026-03-24T13:31:56.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BuoSfJTKYIc 【LIVE on &lt;t:1774359116:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BuoSfJTKYIc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
