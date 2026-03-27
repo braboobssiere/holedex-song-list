@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-27T11:26:13.921Z</updated>
+  <updated>2026-03-27T11:56:16.015Z</updated>
+
+  <entry>
+    <id>urn:uuid:337a7f78-bafb-56c9-9a45-5c901fb7b646</id>
+    <title><![CDATA[【MV】初恋  - Kobo Kanaeru]]></title>
+    <link href="https://youtu.be/dGhY9i98hKI" rel="alternate" type="text/html"/>
+    <published>2026-03-26T12:30:27.000Z</published>
+    <updated>2026-03-27T13:00:00.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dGhY9i98hKI 【LIVE on &lt;t:1774616400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dGhY9i98hKI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c58117b5-3478-52f5-9aed-ff75f66aa9a6</id>
@@ -1151,20 +1165,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=di9NZ6ja_mE 【LIVE on &lt;t:1772284506:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/di9NZ6ja_mE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:506aa63c-af92-53dc-875d-53e09b259f68</id>
-    <title><![CDATA[【ORIGINAL 3D MV】 SNAKE EYES || HAKOS BAELZ]]></title>
-    <link href="https://youtu.be/X0-JkBCAc5E" rel="alternate" type="text/html"/>
-    <published>2026-02-28T04:15:07.000Z</published>
-    <updated>2026-02-28T04:15:07.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=X0-JkBCAc5E 【LIVE on &lt;t:1772252107:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X0-JkBCAc5E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
