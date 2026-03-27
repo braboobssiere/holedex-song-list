@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-03-27T13:59:39.000Z",
-    "available_at": "2026-03-27T14:30:00.000Z",
+    "available_at": "2026-03-27T14:31:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 19,
+      "ko": 24
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
