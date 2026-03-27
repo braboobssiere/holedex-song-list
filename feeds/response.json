@@ -51,8 +51,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 54,
-      "ko": 50
+      "en": 91,
+      "ko": 76
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -62,25 +62,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "p1IbAGgxn_4",
-    "title": "【朝活雑談】本日20:00新3Dお披露目✨生誕ゲームソングライブ開催だよ~~~!!!【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-03-27T13:18:08.000Z",
-    "available_at": "2026-03-28T00:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -4908,6 +4889,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/B-5Iau5CJVDiUOeCvCzHiwdkUijqoi2n0tNwfgIv_yDAvMbLHS4vq1IvK2RxL8y69BxTwmPhow=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Usada Pekora"
+    }
+  },
+  {
+    "id": "kprRKPNfP3o",
+    "title": "【3D】reveal  #calliolive",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-17T02:42:38.000Z",
+    "available_at": "2025-12-17T01:01:29.000Z",
+    "duration": 5589,
+    "status": "past",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
