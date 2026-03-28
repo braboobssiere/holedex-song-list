@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-28T11:56:19.614Z</updated>
+  <updated>2026-03-28T12:26:16.183Z</updated>
+
+  <entry>
+    <id>urn:uuid:37c67035-e4d3-529f-919b-0cf9bb91fc7e</id>
+    <title><![CDATA[【original anime MV】管制塔より / 博衣こより(Official)]]></title>
+    <link href="https://youtu.be/-4ZiokRXZ6g" rel="alternate" type="text/html"/>
+    <published>2026-03-28T12:00:06.000Z</published>
+    <updated>2026-03-28T12:00:06.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-4ZiokRXZ6g 【LIVE on &lt;t:1774699206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-4ZiokRXZ6g/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4961ae59-148f-5b9e-bfb4-03196c41dacd</id>
@@ -1207,20 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xyBuK96AsR8 【LIVE on &lt;t:1772290899:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xyBuK96AsR8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:98516b36-4e93-54b0-aa77-876c19bf7243</id>
-    <title><![CDATA[SNAKE EYES (Instrumental)]]></title>
-    <link href="https://youtu.be/d3zR6ptkaCA" rel="alternate" type="text/html"/>
-    <published>2026-02-28T15:01:09.000Z</published>
-    <updated>2026-02-28T15:01:09.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=d3zR6ptkaCA 【LIVE on &lt;t:1772290869:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d3zR6ptkaCA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
