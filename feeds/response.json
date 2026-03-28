@@ -1,5 +1,24 @@
 [
   {
+    "id": "REijJizYO7I",
+    "title": "【Kobolonimbus】Playing the guitar again!",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2026-03-28T11:36:46.000Z",
+    "available_at": "2026-03-28T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCjLEmnpCNeisMxy134KPwWw",
+      "name": "Kobo Kanaeru Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kobo Kanaeru"
+    }
+  },
+  {
     "id": "AEI8J0WHLME",
     "title": "【Membirbship】Let's welcome spring together my Hakkito, Let's take more 3DIO ASMR requests ~♡【T3】",
     "type": "stream",
@@ -1438,7 +1457,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 14
+      "en": 27
     },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -6951,25 +6970,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "k1oP9iMXoJo",
-    "title": "【アンダーテール】初のピアノ配信でUNDERTALEの曲を弾くぞ…!そしてホロサマビンゴじゃい!【ホロライブ/沙花叉クロヱ】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2023-08-23T16:59:57.000Z",
-    "available_at": "2023-08-23T14:00:40.000Z",
-    "duration": 10044,
-    "status": "past",
-    "channel": {
-      "id": "UCIBY1ollUsauvVi4hW4cumw",
-      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakamata Chloe"
     }
   }
 ]
