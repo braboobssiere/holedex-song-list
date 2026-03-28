@@ -1434,9 +1434,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-03-15T06:20:08.000Z",
-    "available_at": "2026-03-28T11:00:00.000Z",
+    "available_at": "2026-03-28T10:55:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 14
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
