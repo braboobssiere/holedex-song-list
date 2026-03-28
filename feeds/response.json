@@ -19,44 +19,6 @@
     }
   },
   {
-    "id": "REijJizYO7I",
-    "title": "【Kobolonimbus】Playing the guitar again!",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2026-03-28T11:36:46.000Z",
-    "available_at": "2026-03-28T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCjLEmnpCNeisMxy134KPwWw",
-      "name": "Kobo Kanaeru Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kobo Kanaeru"
-    }
-  },
-  {
-    "id": "AEI8J0WHLME",
-    "title": "【Membirbship】Let's welcome spring together my Hakkito, Let's take more 3DIO ASMR requests ~♡【T3】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2026-03-28T10:30:07.000Z",
-    "available_at": "2026-03-28T13:15:00.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
     "id": "mjjSz4f-GFw",
     "title": "【 縦型/歌枠】NO22.初めてのお昼に🌸🎤ろぼめろでぃ～ Lunch Time RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
     "type": "stream",
@@ -6285,6 +6247,25 @@
     }
   },
   {
+    "id": "k0Z3uPdj3Bk",
+    "title": "【ASMR】[リベンジ]落ち着く声♡ぐっすり安眠耳かき&マッサージ♡【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2025-07-22T16:17:26.000Z",
+    "available_at": "2025-07-22T15:00:17.000Z",
+    "duration": 4267,
+    "status": "past",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "EPZgH-bEQf8",
     "title": "ギター弾いて歌うやつ【 奏手イヅル / ホロスターズ 】",
     "type": "stream",
@@ -6968,6 +6949,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "k1oP9iMXoJo",
+    "title": "【アンダーテール】初のピアノ配信でUNDERTALEの曲を弾くぞ…!そしてホロサマビンゴじゃい!【ホロライブ/沙花叉クロヱ】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2023-08-23T16:59:57.000Z",
+    "available_at": "2023-08-23T14:00:40.000Z",
+    "duration": 10044,
+    "status": "past",
+    "channel": {
+      "id": "UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/laCUmozlesp2wZd9k_DCDG_AYgQRGJm0yiL5pigqWAJE1TzYaOXQ6VcfEGacl8L-gpgR07I7HA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakamata Chloe"
     }
   }
 ]
