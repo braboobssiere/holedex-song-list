@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-28T01:26:11.449Z</updated>
+  <updated>2026-03-28T01:56:11.330Z</updated>
+
+  <entry>
+    <id>urn:uuid:99ae66a3-8912-57e0-b8b3-bfb69913294d</id>
+    <title><![CDATA[【 縦型/歌枠】NO22.初めてのお昼に🌸🎤ろぼめろでぃ~ Lunch Time RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/mjjSz4f-GFw" rel="alternate" type="text/html"/>
+    <published>2026-03-28T01:49:49.000Z</published>
+    <updated>2026-03-28T02:00:00.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mjjSz4f-GFw 【LIVE on &lt;t:1774663200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mjjSz4f-GFw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9aeed91a-56c7-5b1f-8ef9-3b055b7889c6</id>
@@ -1277,20 +1291,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=rYpbqdD1oiQ 【LIVE on &lt;t:1771761491:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rYpbqdD1oiQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d168fb5a-72cb-5db0-9768-4482cf4b1e55</id>
-    <title><![CDATA[【 歌枠 】L'Arc〜en〜Ciel (ラルク) をうなうな歌うのら~!!!🎵 ~ KARAOKE #shorts【姫森ルーナ/ホロライブ】]]></title>
-    <link href="https://youtu.be/FIWfIVFsZhE" rel="alternate" type="text/html"/>
-    <published>2026-02-22T11:44:55.000Z</published>
-    <updated>2026-02-22T09:01:25.000Z</updated>
-    <author>
-      <name>Luna Ch. 姫森ルーナ</name>
-      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FIWfIVFsZhE 【LIVE on &lt;t:1771750885:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FIWfIVFsZhE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
