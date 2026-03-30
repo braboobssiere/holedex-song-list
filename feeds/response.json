@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2026-03-29T15:57:43.000Z",
     "available_at": "2026-03-29T22:57:04.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7778,
+    "status": "past",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -154,25 +154,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "mHs3s78dBlA",
-    "title": "【 #水無世燐央新衣装2026 #水無世燐央4周年 】現世に顕現してもう4年?!【 水無世燐央 l UPROAR!! 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-03-28T05:10:03.000Z",
-    "available_at": "2026-03-30T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
-      "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mkJzn1xrjlH3thWERXxrh-7nnjCyij8mXUTwnreWPJz34vz_QB9obnffAvVNgryyu3uMRO9AhA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Minase Rio"
     }
   },
   {
@@ -5613,6 +5594,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "2b_3GxhBSiA",
+    "title": "【ANNIVERSARY STREAM】A GIANT 'YOU'RE WELCOME' PARTY",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-11-28T08:36:49.000Z",
+    "available_at": "2025-11-28T05:00:07.000Z",
+    "duration": 12122,
+    "status": "past",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/EA7rVsjrX8vvWUcCw-tEiLj4mrTZK3pvCdRmq07ylzGLBvMRL0FyU6rnMvk6-4umPUWJm8TeNg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
