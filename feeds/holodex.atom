@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-30T10:26:13.005Z</updated>
+  <updated>2026-03-30T10:56:09.769Z</updated>
 
   <entry>
     <id>urn:uuid:46b7f978-484e-5b2c-9046-f0fce9822e7e</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=I6-f3asYfM4 【LIVE on &lt;t:1774825024:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/I6-f3asYfM4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8e117b75-49ec-579e-bb56-a7bc61032a3d</id>
+    <title><![CDATA[【歌枠】うたううううう♪【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/h4SZDhJtTW4" rel="alternate" type="text/html"/>
+    <published>2026-03-29T14:44:01.000Z</published>
+    <updated>2026-03-30T12:00:00.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h4SZDhJtTW4 【LIVE on &lt;t:1774872000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h4SZDhJtTW4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yNAYmjmC9ZY 【LIVE on &lt;t:1771934112:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yNAYmjmC9ZY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fbe4641f-6d3b-58ea-af2a-377936133d9e</id>
-    <title><![CDATA[【歌枠】karaoke!朝です!おはよ!【ラプラス・ダークネス/ホロライブ】]]></title>
-    <link href="https://youtu.be/3ZH90yi8O00" rel="alternate" type="text/html"/>
-    <published>2026-02-23T23:34:10.000Z</published>
-    <updated>2026-02-23T21:27:34.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3ZH90yi8O00 【LIVE on &lt;t:1771882054:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3ZH90yi8O00/maxresdefault.jpg"/>
   </entry>
 
   <entry>
