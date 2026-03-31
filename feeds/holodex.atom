@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-03-31T14:56:11.401Z</updated>
+  <updated>2026-03-31T15:26:10.299Z</updated>
+
+  <entry>
+    <id>urn:uuid:eea734b0-2b8f-5487-bf0b-be07edf33017</id>
+    <title><![CDATA[ドリームキャッチピュアいろは! (Instrumental)]]></title>
+    <link href="https://youtu.be/AnIMvnsP2hY" rel="alternate" type="text/html"/>
+    <published>2026-03-31T15:03:19.000Z</published>
+    <updated>2026-03-31T15:03:19.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=AnIMvnsP2hY 【LIVE on &lt;t:1774969399:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AnIMvnsP2hY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5b38a4ce-da72-565b-9f39-1d5c071e46df</id>
+    <title><![CDATA[ドリームキャッチピュアいろは!]]></title>
+    <link href="https://youtu.be/qk6DXZq3BKE" rel="alternate" type="text/html"/>
+    <published>2026-03-31T15:01:47.000Z</published>
+    <updated>2026-03-31T15:01:47.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qk6DXZq3BKE 【LIVE on &lt;t:1774969307:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qk6DXZq3BKE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0f3d52f0-eb9a-5247-a511-a80948c92507</id>
@@ -1280,20 +1308,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:96aa8e8e-201f-5ece-ab36-a6a7c40d9897</id>
-    <title><![CDATA[Liminal (Instrumental)]]></title>
-    <link href="https://youtu.be/0vFo1dD8tQ4" rel="alternate" type="text/html"/>
-    <published>2026-03-02T15:00:02.000Z</published>
-    <updated>2026-03-02T15:00:02.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0vFo1dD8tQ4 【LIVE on &lt;t:1772463602:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0vFo1dD8tQ4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:dd05d77b-6701-570c-bd9e-ec54c084e5a8</id>
     <title><![CDATA[【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ~Liminal~【 桃鈴ねね / 3DLive 】]]></title>
     <link href="https://youtu.be/YgZNZM81OcA" rel="alternate" type="text/html"/>
@@ -1305,20 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YgZNZM81OcA 【LIVE on &lt;t:1772448976:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YgZNZM81OcA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:38f441e6-1145-5895-9004-35741f61ab91</id>
-    <title><![CDATA[【original anime MV】Liminal【 hololive/桃鈴ねね 】]]></title>
-    <link href="https://youtu.be/vcbw8idFtJo" rel="alternate" type="text/html"/>
-    <published>2026-03-02T12:10:07.000Z</published>
-    <updated>2026-03-02T12:10:07.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vcbw8idFtJo 【LIVE on &lt;t:1772453407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vcbw8idFtJo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
