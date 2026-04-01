@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-01T14:56:21.261Z</updated>
+  <updated>2026-04-01T15:26:17.867Z</updated>
+
+  <entry>
+    <id>urn:uuid:8dcbd466-a2da-5cb3-90db-953e1af99a3f</id>
+    <title><![CDATA[めくるめくランデヴー (Instrumental)]]></title>
+    <link href="https://youtu.be/p-52xGZpgbU" rel="alternate" type="text/html"/>
+    <published>2026-04-01T15:01:06.000Z</published>
+    <updated>2026-04-01T15:01:06.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=p-52xGZpgbU 【LIVE on &lt;t:1775055666:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p-52xGZpgbU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3bc487e3-baa1-59a8-87ce-d7f9a471ed63</id>
+    <title><![CDATA[めくるめくランデヴー]]></title>
+    <link href="https://youtu.be/f-RJZrD4q4Y" rel="alternate" type="text/html"/>
+    <published>2026-04-01T15:00:59.000Z</published>
+    <updated>2026-04-01T15:00:59.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=f-RJZrD4q4Y 【LIVE on &lt;t:1775055659:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/f-RJZrD4q4Y/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:117067f6-20af-5fba-a9cc-215c0a9ab8b7</id>
@@ -1252,20 +1280,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:c94fcca7-d8ce-5c9e-9813-9ccf15344baa</id>
-    <title><![CDATA[【Animation MV】ファッションビート / さくらみこ (official)]]></title>
-    <link href="https://youtu.be/cm0R2rqDJJ4" rel="alternate" type="text/html"/>
-    <published>2026-03-05T13:05:06.000Z</published>
-    <updated>2026-03-05T13:05:06.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cm0R2rqDJJ4 【LIVE on &lt;t:1772715906:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cm0R2rqDJJ4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:57dea8e1-ab26-5e1d-b5b0-aa0e9a1282fd</id>
     <title><![CDATA[【平成歌枠】Fes&EXPO前夜祭?!パパのウォークマンに入ってた曲を歌う!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/zMZv9ztIuDQ" rel="alternate" type="text/html"/>
@@ -1305,20 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7rlxCYXOl3Y 【LIVE on &lt;t:1772622013:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7rlxCYXOl3Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9421119a-53f3-5d3b-8a5e-49b2c8a58464</id>
-    <title><![CDATA[Vivid Stampede!!!! /白上フブキ.不知火フレア.角巻わため.尾丸ポルカ【バカタレサーカス】]]></title>
-    <link href="https://youtu.be/3FaVukSkqas" rel="alternate" type="text/html"/>
-    <published>2026-03-04T12:00:06.000Z</published>
-    <updated>2026-03-04T12:00:06.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3FaVukSkqas 【LIVE on &lt;t:1772625606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3FaVukSkqas/maxresdefault.jpg"/>
   </entry>
 
   <entry>
