@@ -43,9 +43,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-04-01T10:42:52.000Z",
-    "available_at": "2026-04-01T13:00:00.000Z",
+    "available_at": "2026-04-01T12:58:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -139,15 +142,15 @@
   },
   {
     "id": "G0Ts4ZXqQ5E",
-    "title": "【#BIG3】3Dバラエティ新番組!知的教育番組?!BIG3といっしょ!【ホロライブ】",
+    "title": "【#BIG3】３Dバラエティ新番組！知的教育番組？！BIG3といっしょ！【ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-03-31T10:14:09.000Z",
     "available_at": "2026-04-01T12:01:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3782,
+    "status": "past",
     "live_tl_count": {
-      "en": 154
+      "en": 173
     },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
@@ -277,7 +280,7 @@
   },
   {
     "id": "pSmxwzTdF40",
-    "title": "振り返り|『夜十神封魔4周年記念LIVE』本当にありがとうございました!",
+    "title": "振り返り｜『夜十神封魔4周年記念LIVE』本当にありがとうございました！",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-03-30T12:41:07.000Z",
