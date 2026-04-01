@@ -1,5 +1,24 @@
 [
   {
+    "id": "JJaZ7uuyosM",
+    "title": "【3D】NEW MODEL, After Talk, Polaroids! #kfp",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-04-01T10:58:49.000Z",
+    "available_at": "2026-04-01T18:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
+    }
+  },
+  {
     "id": "dzEqOHCop14",
     "title": "APRIL UNARCHIVED KARAOKE !",
     "type": "stream",
@@ -25,9 +44,9 @@
     "topic_id": "singing",
     "published_at": "2026-04-01T10:01:43.000Z",
     "available_at": "2026-04-01T10:05:13.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 6,
+    "duration": 4191,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -45,8 +64,8 @@
     "topic_id": "singing",
     "published_at": "2026-04-01T08:25:10.000Z",
     "available_at": "2026-04-01T10:00:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3917,
+    "status": "past",
     "channel": {
       "id": "UCtyWhCj3AqKh2dXctLkDtng",
       "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
@@ -240,9 +259,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-03-30T12:41:07.000Z",
-    "available_at": "2026-04-01T11:00:00.000Z",
+    "available_at": "2026-04-01T11:01:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCc88OV45ICgHbn3ZqLLb52w",
       "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
@@ -5020,26 +5039,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "Wxs4X1tPktM",
-    "title": "【3D歌枠 / karaoke】3Dでカラオケコラボ!!! / アステル 水無世燐央",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T11:30:10.000Z",
-    "available_at": "2025-12-22T09:00:52.000Z",
-    "duration": 8144,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
