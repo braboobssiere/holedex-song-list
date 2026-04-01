@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-01T16:26:16.340Z</updated>
+  <updated>2026-04-01T16:56:23.873Z</updated>
 
   <entry>
     <id>urn:uuid:8dcbd466-a2da-5cb3-90db-953e1af99a3f</id>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jpUKhoZErdU 【LIVE on &lt;t:1774990860:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jpUKhoZErdU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fa529463-09b1-55dd-87f7-80d4cc3da5d1</id>
+    <title><![CDATA[【ORIGINAL SONG】めくるめくランデヴー/Mekurumeku Rendezvous (TVアニメ『自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season』主題歌【FUWAMOCO】]]></title>
+    <link href="https://youtu.be/vSwxof0K8lk" rel="alternate" type="text/html"/>
+    <published>2026-03-31T05:48:33.000Z</published>
+    <updated>2026-04-02T10:30:00.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vSwxof0K8lk 【LIVE on &lt;t:1775125800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vSwxof0K8lk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1249,20 +1263,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=l1wCLh5UM1s 【LIVE on &lt;t:1772723033:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/l1wCLh5UM1s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d79f84a5-df03-5bea-b88a-0fd8dd6214d6</id>
-    <title><![CDATA[ファッションビート (Instrumental)]]></title>
-    <link href="https://youtu.be/410pjjdv76c" rel="alternate" type="text/html"/>
-    <published>2026-03-05T15:02:24.000Z</published>
-    <updated>2026-03-05T15:02:24.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=410pjjdv76c 【LIVE on &lt;t:1772722944:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/410pjjdv76c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
