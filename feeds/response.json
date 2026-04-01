@@ -1,5 +1,24 @@
 [
   {
+    "id": "dzEqOHCop14",
+    "title": "APRIL UNARCHIVED KARAOKE !",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-01T10:42:52.000Z",
+    "available_at": "2026-04-01T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
     "id": "joKMhpIR70Y",
     "title": "【歌枠】かわいいうたわくです【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -8,7 +27,7 @@
     "available_at": "2026-04-01T10:05:13.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 1,
+    "songcount": 6,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -82,7 +101,7 @@
   },
   {
     "id": "G0Ts4ZXqQ5E",
-    "title": "【#BIG3】3Dバラエティ新番組!知的教育番組?!BIG3といっしょ!【ホロライブ/大空スバル】",
+    "title": "【#BIG3】3Dバラエティ新番組!知的教育番組?!BIG3といっしょ!【ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-03-31T10:14:09.000Z",
@@ -3239,26 +3258,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakos Baelz"
-    }
-  },
-  {
-    "id": "3aWK2oK-Rh4",
-    "title": "【歌枠/KARAOKE】ごきげんなテンションで歌う🎶華金💮【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-02-27T14:22:28.000Z",
-    "available_at": "2026-02-27T12:00:55.000Z",
-    "duration": 7926,
-    "status": "past",
-    "songcount": 29,
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {

@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-01T10:26:17.198Z</updated>
+  <updated>2026-04-01T10:56:16.472Z</updated>
+
+  <entry>
+    <id>urn:uuid:117067f6-20af-5fba-a9cc-215c0a9ab8b7</id>
+    <title><![CDATA[APRIL UNARCHIVED KARAOKE !]]></title>
+    <link href="https://youtu.be/dzEqOHCop14" rel="alternate" type="text/html"/>
+    <published>2026-04-01T10:42:52.000Z</published>
+    <updated>2026-04-01T13:00:00.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dzEqOHCop14 【LIVE on &lt;t:1775048400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dzEqOHCop14/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:625e8aa5-d0f9-5cf6-bab6-ba652bcb2335</id>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=khQRCrrtVjA 【LIVE on &lt;t:1772247571:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/khQRCrrtVjA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:485bb9b6-c839-5a1a-9b00-88432bd39fca</id>
-    <title><![CDATA[【歌枠/KARAOKE】ごきげんなテンションで歌う🎶華金💮【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/3aWK2oK-Rh4" rel="alternate" type="text/html"/>
-    <published>2026-02-27T14:22:28.000Z</published>
-    <updated>2026-02-27T12:00:55.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3aWK2oK-Rh4 【LIVE on &lt;t:1772193655:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3aWK2oK-Rh4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
