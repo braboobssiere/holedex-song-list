@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-04-01T12:00:58.000Z",
-    "available_at": "2026-04-01T14:30:00.000Z",
+    "available_at": "2026-04-01T14:34:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -16,25 +16,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
-    }
-  },
-  {
-    "id": "JJaZ7uuyosM",
-    "title": "【3D】NEW MODEL, After Talk, Polaroids! #kfp",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-04-01T10:58:49.000Z",
-    "available_at": "2026-04-01T18:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "name": "Takanashi Kiara Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Takanashi Kiara"
     }
   },
   {
@@ -47,7 +28,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 16
+      "en": 19
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -138,28 +119,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "G0Ts4ZXqQ5E",
-    "title": "【#BIG3】３Dバラエティ新番組！知的教育番組？！BIG3といっしょ！【ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-03-31T10:14:09.000Z",
-    "available_at": "2026-04-01T12:01:23.000Z",
-    "duration": 3782,
-    "status": "past",
-    "live_tl_count": {
-      "en": 173
-    },
-    "channel": {
-      "id": "UCvzGlP9oQwU--Y0r9id_jnA",
-      "name": "Subaru Ch. 大空スバル",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Oozora Subaru"
     }
   },
   {
@@ -5064,6 +5023,49 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "Wxs4X1tPktM",
+    "title": "【3D歌枠 / karaoke】3Dでカラオケコラボ!!! / アステル 水無世燐央",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-22T11:30:10.000Z",
+    "available_at": "2025-12-22T09:00:52.000Z",
+    "duration": 8144,
+    "status": "past",
+    "songcount": 22,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "3ClR51LxbaM",
+    "title": "【名探偵カナタン】3Dかなあずラストコラボ!謎を解くと?スペシャルゲスト：やなぎなぎ【ホロライブ / AZKi / 天音かなた】#かなあず",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-21T11:46:33.000Z",
+    "available_at": "2025-12-21T10:00:27.000Z",
+    "duration": 6061,
+    "status": "past",
+    "songcount": 4,
+    "live_tl_count": {
+      "en": 112
+    },
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
