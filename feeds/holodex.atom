@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-01T03:26:09.170Z</updated>
+  <updated>2026-04-01T03:56:12.873Z</updated>
 
   <entry>
     <id>urn:uuid:eea734b0-2b8f-5487-bf0b-be07edf33017</id>
@@ -731,6 +731,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AiYFdpcKfm8 【LIVE on &lt;t:1773922782:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AiYFdpcKfm8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c286b4a5-f18a-5892-9ae0-8f724515acdf</id>
+    <title><![CDATA[黎明]]></title>
+    <link href="https://youtu.be/G_8hUXbVNrk" rel="alternate" type="text/html"/>
+    <published>2026-03-18T14:26:32.000Z</published>
+    <updated>2026-03-18T14:26:32.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=G_8hUXbVNrk 【LIVE on &lt;t:1773843992:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G_8hUXbVNrk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:95a2e120-aa40-502b-9c3f-d4ecdd58779e</id>
+    <title><![CDATA[mind reader]]></title>
+    <link href="https://youtu.be/ZJyoEX5fDUk" rel="alternate" type="text/html"/>
+    <published>2026-03-18T13:33:24.000Z</published>
+    <updated>2026-03-18T13:33:24.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZJyoEX5fDUk 【LIVE on &lt;t:1773840804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZJyoEX5fDUk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
