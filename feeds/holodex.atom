@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-02T12:26:20.725Z</updated>
+  <updated>2026-04-02T12:56:19.589Z</updated>
+
+  <entry>
+    <id>urn:uuid:c7e9e899-70bd-5c4e-a666-29b5f73969e6</id>
+    <title><![CDATA[Silent Flame,Never Fade(/不知火フレア(official)]]></title>
+    <link href="https://youtu.be/dzI-3uW_7QA" rel="alternate" type="text/html"/>
+    <published>2026-04-02T12:20:06.000Z</published>
+    <updated>2026-04-02T12:20:06.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dzI-3uW_7QA 【LIVE on &lt;t:1775132406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dzI-3uW_7QA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:fa529463-09b1-55dd-87f7-80d4cc3da5d1</id>
@@ -1235,20 +1249,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XX3toTL6ihs 【LIVE on &lt;t:1772800183:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XX3toTL6ihs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:871bb452-205b-5cfa-8976-3bfe4aeb3103</id>
-    <title><![CDATA[『異薔薇-IBARA-』獅子志司【アキ・ローゼンタール/ホロライブ】3D Live映像MV]]></title>
-    <link href="https://youtu.be/QUb1KgD7RG8" rel="alternate" type="text/html"/>
-    <published>2026-03-06T12:30:39.000Z</published>
-    <updated>2026-03-06T12:30:39.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QUb1KgD7RG8 【LIVE on &lt;t:1772800239:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QUb1KgD7RG8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
