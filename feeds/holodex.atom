@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-03T07:56:09.544Z</updated>
+  <updated>2026-04-03T08:26:13.442Z</updated>
 
   <entry>
     <id>urn:uuid:8b17a325-66ca-5645-8cf8-dc821096715b</id>
@@ -87,6 +87,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Fw9dmVHDCf8 【LIVE on &lt;t:1775037619:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fw9dmVHDCf8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:709fbcdb-7d5a-515a-b60e-82a153acb390</id>
+    <title><![CDATA[けもももももも! (Instrumental)]]></title>
+    <link href="https://youtu.be/24KrBOnf9rw" rel="alternate" type="text/html"/>
+    <published>2026-04-01T15:04:50.000Z</published>
+    <updated>2026-04-01T15:04:50.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=24KrBOnf9rw 【LIVE on &lt;t:1775055890:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/24KrBOnf9rw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e450558f-a88a-5960-b8d5-22d200a1fc35</id>
+    <title><![CDATA[けもももももも!]]></title>
+    <link href="https://youtu.be/GsfzgqEcMjc" rel="alternate" type="text/html"/>
+    <published>2026-04-01T15:04:07.000Z</published>
+    <updated>2026-04-01T15:04:07.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GsfzgqEcMjc 【LIVE on &lt;t:1775055847:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GsfzgqEcMjc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1081,34 +1109,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sBm4KJD6P7Q 【LIVE on &lt;t:1773399606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sBm4KJD6P7Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e1cd5cbb-0e7c-5df3-9ba7-97d0cbd42911</id>
-    <title><![CDATA[炎夏 (Instrumental)]]></title>
-    <link href="https://youtu.be/7UOa9iXmd_w" rel="alternate" type="text/html"/>
-    <published>2026-03-12T15:00:11.000Z</published>
-    <updated>2026-03-12T15:00:11.000Z</updated>
-    <author>
-      <name>Anya Melfissa Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7UOa9iXmd_w 【LIVE on &lt;t:1773327611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7UOa9iXmd_w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f228d849-a04c-596b-8de4-fc83452b8707</id>
-    <title><![CDATA[炎夏]]></title>
-    <link href="https://youtu.be/50cvi2ApdEc" rel="alternate" type="text/html"/>
-    <published>2026-03-12T15:00:09.000Z</published>
-    <updated>2026-03-12T15:00:09.000Z</updated>
-    <author>
-      <name>Anya Melfissa Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=50cvi2ApdEc 【LIVE on &lt;t:1773327609:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/50cvi2ApdEc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
