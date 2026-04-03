@@ -585,9 +585,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-03-30T04:09:27.000Z",
-    "available_at": "2026-04-03T13:00:00.000Z",
+    "available_at": "2026-04-03T13:00:49.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -1976,48 +1976,6 @@
     }
   },
   {
-    "id": "G_8hUXbVNrk",
-    "title": "黎明",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-18T14:26:32.000Z",
-    "available_at": "2026-03-18T14:26:32.000Z",
-    "duration": 200,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
-    "id": "ZJyoEX5fDUk",
-    "title": "mind reader",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-18T13:33:24.000Z",
-    "available_at": "2026-03-18T13:33:24.000Z",
-    "duration": 219,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UChW98xJ71aUQ7Vns_QkLy-w",
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
-    }
-  },
-  {
     "id": "Wy_iCblHgEQ",
     "title": "A Tribute to my mom 【UNARCHIVED REBROADCAST】",
     "type": "stream",
@@ -2596,6 +2554,26 @@
     }
   },
   {
+    "id": "sBm4KJD6P7Q",
+    "title": "【オリジナル楽曲】ときのそら「Diva」【Official Music Video】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-13T11:00:06.000Z",
+    "available_at": "2026-03-13T11:00:06.000Z",
+    "duration": 189,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "VQuVYvIEF1s",
     "title": "【UMAMUSUME PRETTY DERBY】FIRST YEAR ANNIVERSARY!!! HERE I COME KITASAN BLACK!!!",
     "type": "stream",
@@ -2612,6 +2590,27 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Axel Syrios"
+    }
+  },
+  {
+    "id": "7UOa9iXmd_w",
+    "title": "炎夏 (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-03-12T15:00:11.000Z",
+    "available_at": "2026-03-12T15:00:11.000Z",
+    "duration": 212,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCrDrxzW0E9dXhcLSqEWLxrw",
+    "channel": {
+      "id": "UC727SQYUvx5pDDGQpTICNWg",
+      "name": "Anya Melfissa Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Anya Melfissa"
     }
   },
   {
