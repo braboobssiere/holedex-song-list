@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-03T03:26:06.883Z</updated>
+  <updated>2026-04-03T03:56:13.032Z</updated>
 
   <entry>
     <id>urn:uuid:8b17a325-66ca-5645-8cf8-dc821096715b</id>
@@ -76,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ef2fb55f-f215-5682-b8a2-294008bd879a</id>
+    <title><![CDATA[【エイプリルフール企画】せいそちゃんとお歌【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/Fw9dmVHDCf8" rel="alternate" type="text/html"/>
+    <published>2026-04-01T18:46:06.000Z</published>
+    <updated>2026-04-01T10:00:19.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Fw9dmVHDCf8 【LIVE on &lt;t:1775037619:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fw9dmVHDCf8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:8dcbd466-a2da-5cb3-90db-953e1af99a3f</id>
     <title><![CDATA[めくるめくランデヴー (Instrumental)]]></title>
     <link href="https://youtu.be/p-52xGZpgbU" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=joKMhpIR70Y 【LIVE on &lt;t:1775037913:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/joKMhpIR70Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ef2fb55f-f215-5682-b8a2-294008bd879a</id>
-    <title><![CDATA[【エイプリルフール企画】せいそちゃんとお歌【一条莉々華/hololive DEV_IS　ReGLOSS】]]></title>
-    <link href="https://youtu.be/Fw9dmVHDCf8" rel="alternate" type="text/html"/>
-    <published>2026-04-01T08:25:10.000Z</published>
-    <updated>2026-04-01T10:00:19.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Fw9dmVHDCf8 【LIVE on &lt;t:1775037619:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fw9dmVHDCf8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
