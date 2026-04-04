@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-04-04T02:53:39.000Z",
-    "available_at": "2026-04-04T04:00:00.000Z",
+    "available_at": "2026-04-04T04:00:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCyxtGMdWlURZ30WSnEjDOQw",
       "name": "Regis Altare Ch. HOLOSTARS-EN",
@@ -16,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/12Y9I0cP0EqJe4Wpkm19p_MythjFqYcMZRC3vN4bYPSzE9ANTIFXOhZdfP1TQpAi4Thw741twyg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Regis Altare"
+    }
+  },
+  {
+    "id": "kjpXrHPEy-Q",
+    "title": "【歌枠 / karaoke】土曜の昼は一旦盛り上げないと。 / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-04T01:55:13.000Z",
+    "available_at": "2026-04-04T03:02:46.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
@@ -3201,25 +3220,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/i0PRMJxOR1NaZQp_YuPNp9q6FsyBq3Mlj3RIbtFtPAYUYAx9HcDZn18xFXRHFiXosJBmGl2mGA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hanasaki Miyabi"
-    }
-  },
-  {
-    "id": "BKo-nVvLnKQ",
-    "title": "【歌枠 / karaoke】きえるまきゅう  / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-03T06:32:49.000Z",
-    "available_at": "2026-03-03T07:06:11.000Z",
-    "duration": 7080,
-    "status": "missing",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
