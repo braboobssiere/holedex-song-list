@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-04-06T10:11:52.000Z",
-    "available_at": "2026-04-06T13:00:00.000Z",
+    "available_at": "2026-04-06T13:00:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -65,10 +65,10 @@
     "topic_id": "Anniversary",
     "published_at": "2026-04-05T14:45:02.000Z",
     "available_at": "2026-04-06T12:00:24.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3954,
+    "status": "past",
     "live_tl_count": {
-      "en": 108
+      "en": 133
     },
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
