@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-07T20:26:17.489Z</updated>
+  <updated>2026-04-07T20:56:11.690Z</updated>
+
+  <entry>
+    <id>urn:uuid:03211c2d-9b21-5999-af95-651c62baa05a</id>
+    <title><![CDATA[【 歌枠 】アニメBLEACH縛りで歌うのら~!!!🎵 ~ KARAOKE【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/ph5_5j7N-0I" rel="alternate" type="text/html"/>
+    <published>2026-04-07T20:18:52.000Z</published>
+    <updated>2026-04-08T12:00:00.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ph5_5j7N-0I 【LIVE on &lt;t:1775649600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ph5_5j7N-0I/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e7b3fcae-d325-5d7e-aea9-a58ac58a6662</id>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q9ACLUv90yI 【LIVE on &lt;t:1772854217:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q9ACLUv90yI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2b2f5be1-c9a7-56b6-8c44-11b6c65e7fdf</id>
-    <title><![CDATA[【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #キアライブ  (archived)]]></title>
-    <link href="https://youtu.be/XX3toTL6ihs" rel="alternate" type="text/html"/>
-    <published>2026-03-06T14:27:29.000Z</published>
-    <updated>2026-03-06T12:29:43.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XX3toTL6ihs 【LIVE on &lt;t:1772800183:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XX3toTL6ihs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
