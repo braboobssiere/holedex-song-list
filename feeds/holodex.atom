@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-09T17:26:13.156Z</updated>
+  <updated>2026-04-09T17:56:15.754Z</updated>
 
   <entry>
     <id>urn:uuid:6eae8a1f-c210-5d0c-b4f9-8f964ab733c8</id>
@@ -31,20 +31,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ghl5XqjZBtU 【LIVE on &lt;t:1775815200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ghl5XqjZBtU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:31b36ced-bc81-5ba9-966e-17f76cbaca84</id>
-    <title><![CDATA[Pretty Little Baby]]></title>
-    <link href="https://youtu.be/FP5Xxws4P7k" rel="alternate" type="text/html"/>
-    <published>2026-04-09T10:04:40.000Z</published>
-    <updated>2026-04-09T10:04:40.000Z</updated>
-    <author>
-      <name>Ayunda Risu Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FP5Xxws4P7k 【LIVE on &lt;t:1775729080:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FP5Xxws4P7k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1165,6 +1151,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=J53rX5brbUw 【LIVE on &lt;t:1774061852:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/J53rX5brbUw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:40fede7e-b5d5-5d7c-98f3-838e8c9f5bc9</id>
+    <title><![CDATA[色は匂えども]]></title>
+    <link href="https://youtu.be/ElvTBT4nfDQ" rel="alternate" type="text/html"/>
+    <published>2026-03-20T15:03:32.000Z</published>
+    <updated>2026-03-20T15:03:32.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ElvTBT4nfDQ 【LIVE on &lt;t:1774019012:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ElvTBT4nfDQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
