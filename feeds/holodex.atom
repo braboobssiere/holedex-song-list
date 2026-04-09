@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-09T15:56:20.895Z</updated>
+  <updated>2026-04-09T16:26:18.373Z</updated>
 
   <entry>
     <id>urn:uuid:6eae8a1f-c210-5d0c-b4f9-8f964ab733c8</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UcQJnfOQppc 【LIVE on &lt;t:1775738720:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UcQJnfOQppc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bb2d40d9-6796-5a35-b01b-5d8995d5d207</id>
+    <title><![CDATA[【アニソンクラシックス】アニメ映像あり歌枠!?【告知あり♡】]]></title>
+    <link href="https://youtu.be/Ghl5XqjZBtU" rel="alternate" type="text/html"/>
+    <published>2026-04-09T11:03:31.000Z</published>
+    <updated>2026-04-10T10:00:00.000Z</updated>
+    <author>
+      <name>Korone Ch. 戌神ころね</name>
+      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ghl5XqjZBtU 【LIVE on &lt;t:1775815200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ghl5XqjZBtU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1277,20 +1291,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qqi8yXuH35Y 【LIVE on &lt;t:1773453615:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qqi8yXuH35Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:363695d9-d4f7-5dad-9349-316c459a32a2</id>
-    <title><![CDATA[【歌枠】リクエスト曲歌いまくる!【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/WGFGVKKWBek" rel="alternate" type="text/html"/>
-    <published>2026-03-12T14:11:41.000Z</published>
-    <updated>2026-03-12T13:00:11.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WGFGVKKWBek 【LIVE on &lt;t:1773320411:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WGFGVKKWBek/maxresdefault.jpg"/>
   </entry>
 
   <entry>
