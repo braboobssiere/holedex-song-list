@@ -1,5 +1,24 @@
 [
   {
+    "id": "M8C-INVwPRo",
+    "title": "【歌枠 / karaoke】半分寝ている人の歌枠。なんか曲増えたらしい。探す / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-09T13:07:03.000Z",
+    "available_at": "2026-04-09T13:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "UcQJnfOQppc",
     "title": "新曲を歌いたい∼!!【轟はじめ】",
     "type": "stream",
@@ -3146,26 +3165,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Anya Melfissa"
-    }
-  },
-  {
-    "id": "1voEsSu78tw",
-    "title": "【歌枠】深夜のちるわく【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-11T17:51:49.000Z",
-    "available_at": "2026-03-11T15:31:47.000Z",
-    "duration": 7931,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
