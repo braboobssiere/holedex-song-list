@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-09T08:56:08.929Z</updated>
+  <updated>2026-04-09T09:26:12.455Z</updated>
+
+  <entry>
+    <id>urn:uuid:ff7007fa-c5c7-5d65-814a-714244d0e5a2</id>
+    <title><![CDATA[【ポルカの伝説】ドライブで聞くホロメンの歌は最高だな!]]></title>
+    <link href="https://youtu.be/q19vw6Cu2Yo" rel="alternate" type="text/html"/>
+    <published>2026-04-09T09:06:40.000Z</published>
+    <updated>2026-04-09T10:00:00.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=q19vw6Cu2Yo 【LIVE on &lt;t:1775728800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q19vw6Cu2Yo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c8167661-4395-5f23-8fcb-3991a5b10170</id>
@@ -1291,20 +1305,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1voEsSu78tw 【LIVE on &lt;t:1773243107:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1voEsSu78tw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3c72b46b-e90b-589a-b38a-a19581395199</id>
-    <title><![CDATA[【縦型歌枠】ゲリラ深夜歌枠です。寝る前にどうですか?【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/yxudPJJmSiY" rel="alternate" type="text/html"/>
-    <published>2026-03-09T16:56:54.000Z</published>
-    <updated>2026-03-09T15:00:21.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yxudPJJmSiY 【LIVE on &lt;t:1773068421:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yxudPJJmSiY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
