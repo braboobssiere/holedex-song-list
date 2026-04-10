@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-10T16:56:13.907Z</updated>
+  <updated>2026-04-10T17:26:08.603Z</updated>
+
+  <entry>
+    <id>urn:uuid:103bf73e-b016-50e0-94db-82f7fe19bc82</id>
+    <title><![CDATA[【ゲリラ】深夜の歌枠【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/WBDBf7p5m8Y" rel="alternate" type="text/html"/>
+    <published>2026-04-10T17:01:02.000Z</published>
+    <updated>2026-04-10T17:03:16.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WBDBf7p5m8Y 【LIVE on &lt;t:1775840596:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WBDBf7p5m8Y/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:57afaae5-b2ca-5c5e-93e9-7de7d4de9c14</id>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4ecKH71LPKg 【LIVE on &lt;t:1773651900:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4ecKH71LPKg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:50762511-48dd-52c2-9c26-589d6b059a5e</id>
-    <title><![CDATA[【KARAOKE】 GONNA SING UNTIL WE SING 1.4M!!! 【Kureiji Ollie】]]></title>
-    <link href="https://youtu.be/WV5A13Bh41U" rel="alternate" type="text/html"/>
-    <published>2026-03-15T15:00:02.000Z</published>
-    <updated>2026-03-15T08:02:52.000Z</updated>
-    <author>
-      <name>Kureiji Ollie Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WV5A13Bh41U 【LIVE on &lt;t:1773561772:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WV5A13Bh41U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
