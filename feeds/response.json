@@ -26,7 +26,7 @@
     "published_at": "2026-04-10T15:40:05.000Z",
     "available_at": "2026-04-10T15:42:24.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
       "name": "Koseki Bijou Ch. hololive-EN",
@@ -191,6 +191,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
+    }
+  },
+  {
+    "id": "kxAAY51-FNM",
+    "title": "【#リオナ生誕記念歌枠リレーVol2】ギャル爆誕なら応援するしかない【 Vtuber/魔王トゥルシー/VEE 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-08T17:10:03.000Z",
+    "available_at": "2026-04-11T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCUdlDvZJGGP78zvta3swIhw",
+      "name": "魔王トゥルシー / Tulsi-Nightmare Madness IV",
+      "org": "VEE",
+      "suborg": "0aDev-a",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/THomKa30j-WmQMgPILCb-qiO1TfefYa3My_OMJP7Vn73B4QndfC-q1slhlj8hALRGdSJ5P9kEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tulsi-Nightmare Madness IV"
     }
   },
   {
@@ -2949,25 +2968,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "8FwrcQDPhDg",
-    "title": "Rebroadcast =【UNARCHIVED KARAOKE】Happy Mothers Day ~! 💄",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-15T13:38:06.000Z",
-    "available_at": "2026-03-15T13:55:06.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "name": "Elizabeth Rose Bloodflame Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Elizabeth Rose Bloodflame"
     }
   },
   {
