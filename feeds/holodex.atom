@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-11T11:26:06.271Z</updated>
+  <updated>2026-04-11T11:56:11.908Z</updated>
 
   <entry>
     <id>urn:uuid:b9a94c95-fcea-5d30-b642-5cc73c108145</id>
@@ -143,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ghl5XqjZBtU 【LIVE on &lt;t:1775815242:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ghl5XqjZBtU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c765960c-45a0-5c6c-be9f-ddc822370424</id>
-    <title><![CDATA[【#リオナ生誕記念歌枠リレーVol2】ギャル爆誕なら応援するしかない【 Vtuber/魔王トゥルシー/VEE 】]]></title>
-    <link href="https://youtu.be/kxAAY51-FNM" rel="alternate" type="text/html"/>
-    <published>2026-04-08T17:10:03.000Z</published>
-    <updated>2026-04-11T14:00:00.000Z</updated>
-    <author>
-      <name>魔王トゥルシー / Tulsi-Nightmare Madness IV</name>
-      <uri>https://www.youtube.com/channel/UCUdlDvZJGGP78zvta3swIhw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kxAAY51-FNM 【LIVE on &lt;t:1775916000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kxAAY51-FNM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1277,6 +1263,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1U5kZHtV1dw 【LIVE on &lt;t:1773735615:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1U5kZHtV1dw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:875f2fd4-8cf6-52c9-990a-75536def4947</id>
+    <title><![CDATA[【歌枠】春に聴きたい曲!歌う~~~!!!J-POP・アニソン・ボカロ Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/L3V2ifVy5bw" rel="alternate" type="text/html"/>
+    <published>2026-03-16T15:14:23.000Z</published>
+    <updated>2026-03-16T13:02:39.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=L3V2ifVy5bw 【LIVE on &lt;t:1773666159:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L3V2ifVy5bw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
