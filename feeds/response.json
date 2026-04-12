@@ -45,8 +45,8 @@
     "topic_id": "asmr",
     "published_at": "2026-04-11T15:48:41.000Z",
     "available_at": "2026-04-12T14:00:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4945,
+    "status": "past",
     "channel": {
       "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
       "name": "Noel Ch. 白銀ノエル",
@@ -115,28 +115,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "WM2b_g0ZBkc",
-    "title": "NEW COSTUME ! #AnniversaRisu6 HAPPY ANNIVERSARY ME !",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-04-10T16:39:57.000Z",
-    "available_at": "2026-04-10T11:59:57.000Z",
-    "duration": 4419,
-    "status": "past",
-    "live_tl_count": {
-      "en": 13
-    },
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
@@ -5630,6 +5608,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirogane Noel"
+    }
+  },
+  {
+    "id": "m45zkmBHxLI",
+    "title": "【#holoIndie 応援大使🎮】お知らせ盛りだくさん!2周年を皆と一緒にお祝いしよ~~!【#一条莉々華 / ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-12-03T12:40:40.000Z",
+    "available_at": "2025-12-03T11:00:45.000Z",
+    "duration": 3835,
+    "status": "past",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
     }
   },
   {
