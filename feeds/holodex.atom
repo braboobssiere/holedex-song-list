@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-13T10:56:14.112Z</updated>
+  <updated>2026-04-13T11:26:13.603Z</updated>
+
+  <entry>
+    <id>urn:uuid:3b9e645c-127b-5d84-9208-077bab05ecae</id>
+    <title><![CDATA[【歌枠】月曜の夜にしっとり歌います🌙ピアノ歌枠 Piano Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/euQT3W3Yep4" rel="alternate" type="text/html"/>
+    <published>2026-04-13T11:05:59.000Z</published>
+    <updated>2026-04-13T13:00:00.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=euQT3W3Yep4 【LIVE on &lt;t:1776085200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/euQT3W3Yep4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b9a94c95-fcea-5d30-b642-5cc73c108145</id>
