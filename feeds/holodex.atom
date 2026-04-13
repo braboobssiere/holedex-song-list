@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-13T08:56:11.575Z</updated>
+  <updated>2026-04-13T09:26:13.635Z</updated>
+
+  <entry>
+    <id>urn:uuid:b9a94c95-fcea-5d30-b642-5cc73c108145</id>
+    <title><![CDATA[【歌枠】第133回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/P4AE5yHtNmE" rel="alternate" type="text/html"/>
+    <published>2026-04-11T16:35:16.000Z</published>
+    <updated>2026-04-11T13:06:38.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=P4AE5yHtNmE 【LIVE on &lt;t:1775912798:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P4AE5yHtNmE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:32fecfbc-41ed-5f1e-b02f-edd71755f0eb</id>
@@ -31,20 +45,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=E8P7wKZnKrA 【LIVE on &lt;t:1775905196:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E8P7wKZnKrA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b9a94c95-fcea-5d30-b642-5cc73c108145</id>
-    <title><![CDATA[【歌枠】第１３３回！わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ４期生】]]></title>
-    <link href="https://youtu.be/P4AE5yHtNmE" rel="alternate" type="text/html"/>
-    <published>2026-04-11T04:54:23.000Z</published>
-    <updated>2026-04-11T13:06:38.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=P4AE5yHtNmE 【LIVE on &lt;t:1775912798:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P4AE5yHtNmE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
