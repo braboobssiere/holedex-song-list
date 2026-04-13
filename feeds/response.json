@@ -1,13 +1,32 @@
 [
   {
+    "id": "GUT0nncedZQ",
+    "title": "You made WHAT for my birthday?!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-04-13T10:28:22.000Z",
+    "available_at": "2026-04-14T00:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/5HiIXTzTdEshOsSWiokzHqPwZ4rFNXoa2Fjnh2Oj8w4glqXsyU2y3VQds7jaevVf__iilUJtJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "Ldav3Wv67YI",
-    "title": "【 歌枠 l KARAOKE 】REC前の声出し!【 水無世燐央 l UPROAR!! 】",
+    "title": "【 歌枠 l KARAOKE 】REC前の声出し！【 水無世燐央 l UPROAR!! 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-04-13T09:38:34.000Z",
     "available_at": "2026-04-13T09:47:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2600,
+    "status": "past",
     "channel": {
       "id": "UCdfMHxjcCc2HSd9qFvfJgjg",
       "name": "Rio Ch. 水無世燐央 - UPROAR!! -",
@@ -4672,26 +4691,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "VYSAfYJ6FhI",
-    "title": "【Ayunda Risu 3D Birthday】The Rise of the NUT Warrior 【#TheNutWarrior】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-01-15T13:56:47.000Z",
-    "available_at": "2026-01-15T12:59:42.000Z",
-    "duration": 3110,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
