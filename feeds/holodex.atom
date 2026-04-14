@@ -3,20 +3,34 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-14T14:56:19.496Z</updated>
+  <updated>2026-04-14T15:26:10.798Z</updated>
 
   <entry>
-    <id>urn:uuid:777fdf19-f2e1-5492-bf1e-3a36a047ecb1</id>
-    <title><![CDATA[random eepy karaoke]]></title>
-    <link href="https://youtu.be/cQrXcQCAaP4" rel="alternate" type="text/html"/>
-    <published>2026-04-14T14:48:46.000Z</published>
-    <updated>2026-04-14T15:00:00.000Z</updated>
+    <id>urn:uuid:010cb1c5-8bfa-5b75-91e9-04a24168719b</id>
+    <title><![CDATA[「ゎ」]]></title>
+    <link href="https://youtu.be/_EsXxQDyZCo" rel="alternate" type="text/html"/>
+    <published>2026-04-14T15:03:55.000Z</published>
+    <updated>2026-04-14T15:03:55.000Z</updated>
     <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=cQrXcQCAaP4 【LIVE on &lt;t:1776178800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cQrXcQCAaP4/maxresdefault.jpg"/>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_EsXxQDyZCo 【LIVE on &lt;t:1776179035:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_EsXxQDyZCo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2aec2d53-c014-571f-8304-73c85a367c2d</id>
+    <title><![CDATA[「ゎ」 (Instrumental)]]></title>
+    <link href="https://youtu.be/PjxPbRNAveM" rel="alternate" type="text/html"/>
+    <published>2026-04-14T15:03:29.000Z</published>
+    <updated>2026-04-14T15:03:29.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PjxPbRNAveM 【LIVE on &lt;t:1776179009:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PjxPbRNAveM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1109,62 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BuoSfJTKYIc 【LIVE on &lt;t:1774359116:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BuoSfJTKYIc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1c165104-dedc-5cbe-9ceb-b9c69290200b</id>
-    <title><![CDATA[シルべ]]></title>
-    <link href="https://youtu.be/wp75Ae32rYM" rel="alternate" type="text/html"/>
-    <published>2026-03-24T15:01:43.000Z</published>
-    <updated>2026-03-24T15:01:43.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=wp75Ae32rYM 【LIVE on &lt;t:1774364503:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wp75Ae32rYM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6bd23d8c-cc46-5742-bf7f-2718845944eb</id>
-    <title><![CDATA[シルべ(Instrumental)]]></title>
-    <link href="https://youtu.be/mCxRvUfQMf0" rel="alternate" type="text/html"/>
-    <published>2026-03-24T15:01:31.000Z</published>
-    <updated>2026-03-24T15:01:31.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mCxRvUfQMf0 【LIVE on &lt;t:1774364491:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mCxRvUfQMf0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d560b4fc-2507-5aac-a5c9-d20021bebdc3</id>
-    <title><![CDATA[Present Day (Live ver. Tokoyami Towa 2nd Live “SHINier"@有明アリーナ)]]></title>
-    <link href="https://youtu.be/Ig7_D9uPH10" rel="alternate" type="text/html"/>
-    <published>2026-03-24T15:00:27.000Z</published>
-    <updated>2026-03-24T15:00:27.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ig7_D9uPH10 【LIVE on &lt;t:1774364427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ig7_D9uPH10/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:01a2d34c-8673-5ec6-9fb3-a4f458f874fe</id>
-    <title><![CDATA[プリマドンナ]]></title>
-    <link href="https://youtu.be/HsuGYhLsKyo" rel="alternate" type="text/html"/>
-    <published>2026-03-22T15:00:34.000Z</published>
-    <updated>2026-03-22T15:00:34.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HsuGYhLsKyo 【LIVE on &lt;t:1774191634:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HsuGYhLsKyo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
