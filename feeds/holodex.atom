@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-16T11:56:12.694Z</updated>
+  <updated>2026-04-16T12:26:16.175Z</updated>
 
   <entry>
     <id>urn:uuid:9ef6c18a-7dc8-5889-8616-81f71c487f8c</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=daYHapH3ozY 【LIVE on &lt;t:1776274451:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/daYHapH3ozY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d59e452a-3e5a-576c-921d-235cdcce2a69</id>
+    <title><![CDATA[【ギター練習】ゆるゆるぎた~~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/LH96HKaQ7qo" rel="alternate" type="text/html"/>
+    <published>2026-04-15T17:25:30.000Z</published>
+    <updated>2026-04-16T12:02:51.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LH96HKaQ7qo 【LIVE on &lt;t:1776340971:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH96HKaQ7qo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2551,19 +2565,5 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=dExGvpGLLxY 【LIVE on &lt;t:1710417674:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dExGvpGLLxY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cc260065-fe73-5273-9a04-eb37737b07f7</id>
-    <title><![CDATA[【Valentine's Afterparty】If I Tangent, Bonk Me Challenge]]></title>
-    <link href="https://youtu.be/-7e3SugNjl0" rel="alternate" type="text/html"/>
-    <published>2024-02-16T05:13:21.000Z</published>
-    <updated>2024-02-16T03:00:05.000Z</updated>
-    <author>
-      <name>Shiori Novella Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-7e3SugNjl0 【LIVE on &lt;t:1708052405:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-7e3SugNjl0/maxresdefault.jpg"/>
   </entry>
 </feed>
