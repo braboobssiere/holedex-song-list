@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-17T14:56:18.800Z</updated>
+  <updated>2026-04-17T15:26:15.685Z</updated>
+
+  <entry>
+    <id>urn:uuid:a83941dc-362f-51f3-9827-d60b35523dcb</id>
+    <title><![CDATA[GET THE CROWN (Instrumental)]]></title>
+    <link href="https://youtu.be/vAD1-zSpo-I" rel="alternate" type="text/html"/>
+    <published>2026-04-17T15:04:24.000Z</published>
+    <updated>2026-04-17T15:04:24.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vAD1-zSpo-I 【LIVE on &lt;t:1776438264:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vAD1-zSpo-I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e19bfae0-4753-5f9b-9799-caf9a0ca6a9b</id>
+    <title><![CDATA[BEEP BEEP (Instrumental)]]></title>
+    <link href="https://youtu.be/B5yGiYJbeE8" rel="alternate" type="text/html"/>
+    <published>2026-04-17T15:04:07.000Z</published>
+    <updated>2026-04-17T15:04:07.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B5yGiYJbeE8 【LIVE on &lt;t:1776438247:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B5yGiYJbeE8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:898b37d8-7beb-596c-a206-646fac9681bd</id>
+    <title><![CDATA[GET THE CROWN]]></title>
+    <link href="https://youtu.be/_xaIb9XOsUo" rel="alternate" type="text/html"/>
+    <published>2026-04-17T15:01:32.000Z</published>
+    <updated>2026-04-17T15:01:32.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_xaIb9XOsUo 【LIVE on &lt;t:1776438092:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_xaIb9XOsUo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8f9a91b1-9599-5309-ac01-8ae1973621c8</id>
+    <title><![CDATA[BEEP BEEP]]></title>
+    <link href="https://youtu.be/Hew0tgd9Ipg" rel="alternate" type="text/html"/>
+    <published>2026-04-17T15:01:10.000Z</published>
+    <updated>2026-04-17T15:01:10.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Hew0tgd9Ipg 【LIVE on &lt;t:1776438070:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hew0tgd9Ipg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:803f0cd0-cf7d-5e63-90e1-6d13d31f9303</id>
@@ -1070,20 +1126,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:337a7f78-bafb-56c9-9a45-5c901fb7b646</id>
-    <title><![CDATA[【MV】初恋  - Kobo Kanaeru]]></title>
-    <link href="https://youtu.be/dGhY9i98hKI" rel="alternate" type="text/html"/>
-    <published>2026-03-27T13:00:07.000Z</published>
-    <updated>2026-03-27T13:00:07.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dGhY9i98hKI 【LIVE on &lt;t:1774616407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dGhY9i98hKI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:f2847d95-7375-5ce6-b0df-2f8d154907d2</id>
     <title><![CDATA[【#3DJAVU】Déjà vu: its all coming back to me now【3D Redebut Live】]]></title>
     <link href="https://youtu.be/BoVbE4adiwk" rel="alternate" type="text/html"/>
@@ -1123,48 +1165,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Ja324uGDFKU 【LIVE on &lt;t:1774447213:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ja324uGDFKU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eb181238-daae-5ac0-92b8-f1bc60915239</id>
-    <title><![CDATA[Unchained (Instrumental)]]></title>
-    <link href="https://youtu.be/tj5o5yPnsIg" rel="alternate" type="text/html"/>
-    <published>2026-03-25T15:04:48.000Z</published>
-    <updated>2026-03-25T15:04:48.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tj5o5yPnsIg 【LIVE on &lt;t:1774451088:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj5o5yPnsIg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7de93448-34aa-5275-98bc-afb95fb3eb26</id>
-    <title><![CDATA[Unchained]]></title>
-    <link href="https://youtu.be/S9uHWI_T8-w" rel="alternate" type="text/html"/>
-    <published>2026-03-25T15:02:11.000Z</published>
-    <updated>2026-03-25T15:02:11.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=S9uHWI_T8-w 【LIVE on &lt;t:1774450931:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S9uHWI_T8-w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:60493fcc-58aa-5696-990d-a061ed16802a</id>
-    <title><![CDATA[CLOSE(R) (Instrumental)]]></title>
-    <link href="https://youtu.be/0Hfx9uMsxDo" rel="alternate" type="text/html"/>
-    <published>2026-03-25T15:01:46.000Z</published>
-    <updated>2026-03-25T15:01:46.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=0Hfx9uMsxDo 【LIVE on &lt;t:1774450906:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0Hfx9uMsxDo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
