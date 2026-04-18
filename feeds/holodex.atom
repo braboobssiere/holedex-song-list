@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-18T04:26:10.523Z</updated>
+  <updated>2026-04-18T04:56:13.961Z</updated>
 
   <entry>
     <id>urn:uuid:a83941dc-362f-51f3-9827-d60b35523dcb</id>
@@ -118,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5c20dd29-b3fa-5ae6-af84-70bb289d6143</id>
+    <title><![CDATA[【 歌枠 】春ですわ~~~🎤✦【 猫又おかゆ/ホロライブ 】]]></title>
+    <link href="https://youtu.be/2Y4rW9sOyfw" rel="alternate" type="text/html"/>
+    <published>2026-04-16T11:05:51.000Z</published>
+    <updated>2026-04-16T10:02:10.000Z</updated>
+    <author>
+      <name>Okayu Ch. 猫又おかゆ</name>
+      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2Y4rW9sOyfw 【LIVE on &lt;t:1776333730:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2Y4rW9sOyfw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9ef6c18a-7dc8-5889-8616-81f71c487f8c</id>
     <title><![CDATA[お人形 / 赤井はあと (official)]]></title>
     <link href="https://youtu.be/ApL3K5KccV8" rel="alternate" type="text/html"/>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LH96HKaQ7qo 【LIVE on &lt;t:1776340971:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH96HKaQ7qo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5c20dd29-b3fa-5ae6-af84-70bb289d6143</id>
-    <title><![CDATA[【 歌枠 】春ですわ～～～🎤✦【 猫又おかゆ/ホロライブ 】]]></title>
-    <link href="https://youtu.be/2Y4rW9sOyfw" rel="alternate" type="text/html"/>
-    <published>2026-04-15T17:16:07.000Z</published>
-    <updated>2026-04-16T10:02:10.000Z</updated>
-    <author>
-      <name>Okayu Ch. 猫又おかゆ</name>
-      <uri>https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2Y4rW9sOyfw 【LIVE on &lt;t:1776333730:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2Y4rW9sOyfw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
