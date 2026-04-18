@@ -1,5 +1,24 @@
 [
   {
+    "id": "eBWbOnVNXFk",
+    "title": "[UNARCHIVED KARAOKE] 200K CELEBRATION YAY!",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-18T04:34:48.000Z",
+    "available_at": "2026-04-19T00:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCHP4f7G2dWD4qib7BMatGAw",
+      "name": "Gavis Bettel Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/kv71-xuB9kzbU7Bi4qsmkRXHc3wAgEU4rhllRnmGH4H23T825BKdGqEAcagTSE9r8BdsnG4lqQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gavis Bettel"
+    }
+  },
+  {
     "id": "yc7Iy-RACXY",
     "title": "【#ふたりは神様MaxDOG】3Dオフコラボ DE ホラゲー『Emily(予定)』やるで【ミオしゃのSAN値もMaxDOG】",
     "type": "stream",
@@ -398,7 +417,7 @@
     "published_at": "2026-04-15T02:44:40.000Z",
     "available_at": "2026-04-18T03:00:32.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -2899,26 +2918,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eaZmrKtEBhhvADqoqfrfkxVIkju_JJPCV5U-DmzkzcsKOJWx0jIVpKhOMT_GzfdsGDjmfNyK=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Riki Poppet"
-    }
-  },
-  {
-    "id": "7qm-5x-h9PI",
-    "title": "【歌枠 / karaoke】明日4時起きなんすよWWWW / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-23T17:34:27.000Z",
-    "available_at": "2026-03-23T15:01:03.000Z",
-    "duration": 6380,
-    "status": "past",
-    "songcount": 19,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
