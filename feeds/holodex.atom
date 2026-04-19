@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-19T08:56:13.435Z</updated>
+  <updated>2026-04-19T09:26:10.775Z</updated>
+
+  <entry>
+    <id>urn:uuid:20792765-2d69-5932-936b-c5b03030eedc</id>
+    <title><![CDATA[【3D Performance Video】 SNAKE EYES || HAKOS BAELZ]]></title>
+    <link href="https://youtu.be/EEYbf4PiuKY" rel="alternate" type="text/html"/>
+    <published>2026-04-19T07:04:59.000Z</published>
+    <updated>2026-04-20T03:00:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EEYbf4PiuKY 【LIVE on &lt;t:1776654000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EEYbf4PiuKY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ed03e41c-9d4d-5a02-860e-36722e37a55e</id>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KRKPwkrLrPo 【LIVE on &lt;t:1774623634:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KRKPwkrLrPo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c247337c-09cd-5784-becb-110dcfce4fea</id>
-    <title><![CDATA[First Love]]></title>
-    <link href="https://youtu.be/GzC2sXbqJvE" rel="alternate" type="text/html"/>
-    <published>2026-03-27T13:00:20.000Z</published>
-    <updated>2026-03-27T13:00:20.000Z</updated>
-    <author>
-      <name>Kobo Kanaeru Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GzC2sXbqJvE 【LIVE on &lt;t:1774616420:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GzC2sXbqJvE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
