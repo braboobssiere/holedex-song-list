@@ -732,9 +732,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-04-13T12:51:34.000Z",
-    "available_at": "2026-04-20T11:00:00.000Z",
+    "available_at": "2026-04-20T10:55:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 46
+    },
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
