@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-20T07:56:18.074Z</updated>
+  <updated>2026-04-20T08:26:13.725Z</updated>
+
+  <entry>
+    <id>urn:uuid:8c1e5590-8d84-581b-8427-e66455b9e13c</id>
+    <title><![CDATA[【歌枠 Singing】チルバラード歌枠【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/sYjDql19XwI" rel="alternate" type="text/html"/>
+    <published>2026-04-20T08:16:54.000Z</published>
+    <updated>2026-04-20T13:00:00.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sYjDql19XwI 【LIVE on &lt;t:1776690000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sYjDql19XwI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:20792765-2d69-5932-936b-c5b03030eedc</id>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IO6yuu0FysM 【LIVE on &lt;t:1774400287:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IO6yuu0FysM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ade1a51c-e932-55d1-8589-56660bdd9d0d</id>
-    <title><![CDATA[【歌枠】オリ曲中心にのんびり歌います。【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/BuoSfJTKYIc" rel="alternate" type="text/html"/>
-    <published>2026-03-24T15:52:40.000Z</published>
-    <updated>2026-03-24T13:31:56.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BuoSfJTKYIc 【LIVE on &lt;t:1774359116:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BuoSfJTKYIc/maxresdefault.jpg"/>
   </entry>
 
   <entry>

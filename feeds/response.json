@@ -1,5 +1,24 @@
 [
   {
+    "id": "sYjDql19XwI",
+    "title": "【歌枠 Singing】チルバラード歌枠【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-20T08:16:54.000Z",
+    "available_at": "2026-04-20T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "Wvz2B3W7_M0",
     "title": "【 #音乃瀬奏生誕祭2026 】アンコールLIVE【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -2932,30 +2951,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
-    }
-  },
-  {
-    "id": "BuoSfJTKYIc",
-    "title": "【歌枠】オリ曲中心にのんびり歌います。【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-24T15:52:40.000Z",
-    "available_at": "2026-03-24T13:31:56.000Z",
-    "duration": 7876,
-    "status": "past",
-    "songcount": 16,
-    "live_tl_count": {
-      "en": 146,
-      "ko": 114
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
