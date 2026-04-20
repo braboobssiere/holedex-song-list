@@ -1,5 +1,24 @@
 [
   {
+    "id": "lroEoH_sEvk",
+    "title": "【歌枠 / karaoke】リクエスト受付中!!僕に刺さる曲をリクエストしろ!! / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-20T13:39:31.000Z",
+    "available_at": "2026-04-20T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "_xwOiIMM2a4",
     "title": "You&合図 / 音乃瀬奏",
     "type": "stream",
@@ -35,25 +54,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "Wvz2B3W7_M0",
-    "title": "【 #音乃瀬奏生誕祭2026 】アンコールLIVE【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-04-20T06:58:45.000Z",
-    "available_at": "2026-04-20T12:28:16.000Z",
-    "duration": 950,
-    "status": "past",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
@@ -754,6 +754,7 @@
     "available_at": "2026-04-20T10:55:26.000Z",
     "duration": 4375,
     "status": "past",
+    "songcount": 1,
     "live_tl_count": {
       "en": 157
     },
@@ -2916,26 +2917,6 @@
     }
   },
   {
-    "id": "Ja324uGDFKU",
-    "title": "≪LATE NIGHT KARAOKE≫ casual singing while i sign some cards #shorts",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-25T16:12:29.000Z",
-    "available_at": "2026-03-25T14:00:13.000Z",
-    "duration": 7489,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
-    }
-  },
-  {
     "id": "IO6yuu0FysM",
     "title": "【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announcement?! 🐾 【FUWAMOCO】",
     "type": "stream",
@@ -4590,6 +4571,25 @@
     "duration": 5539,
     "status": "past",
     "songcount": 4,
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
+    "id": "2pdO8HZQ7WU",
+    "title": "【歌枠】2月4日は誕生日!!前夜祭歌枠 #儒烏風亭らでん生誕祭2026【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-02-03T15:50:12.000Z",
+    "available_at": "2026-02-03T14:00:23.000Z",
+    "duration": 5331,
+    "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
