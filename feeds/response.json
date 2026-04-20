@@ -1,5 +1,24 @@
 [
   {
+    "id": "_xwOiIMM2a4",
+    "title": "You&合図 / 音乃瀬奏",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-04-20T12:10:06.000Z",
+    "available_at": "2026-04-20T12:10:06.000Z",
+    "duration": 177,
+    "status": "past",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "sYjDql19XwI",
     "title": "【歌枠 Singing】チルバラード歌枠【一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
@@ -728,15 +747,15 @@
   },
   {
     "id": "zZ2Ce3eDamU",
-    "title": "【 3D LIVE  】IN PROGRESS【 #音乃瀬奏生誕祭2026 】#hololiveDEV_IS #ReGLOSS",
+    "title": "【 3D LIVE 】IN PROGRESS【 #音乃瀬奏生誕祭2026 】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-04-13T12:51:34.000Z",
     "available_at": "2026-04-20T10:55:26.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4375,
+    "status": "past",
     "live_tl_count": {
-      "en": 119
+      "en": 157
     },
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -2781,27 +2800,6 @@
     "topic_id": "Original_Song",
     "published_at": "2026-03-27T15:01:01.000Z",
     "available_at": "2026-03-27T15:01:01.000Z",
-    "duration": 298,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCaqURDDJdLP7l0TFOovDJ2g",
-    "channel": {
-      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "name": "Nerissa Ravencroft Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "KRKPwkrLrPo",
-    "title": "Blue World",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-27T15:00:34.000Z",
-    "available_at": "2026-03-27T15:00:34.000Z",
     "duration": 298,
     "status": "past",
     "songcount": 1,
