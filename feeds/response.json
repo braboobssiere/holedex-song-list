@@ -3,11 +3,12 @@
     "id": "Oj4CbNCZ7Cc",
     "title": "【3DアニメーションMV】爆鳴DIVER!!!! / 秘密結社holoX【#ssholox 】",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "Original_Song",
     "published_at": "2026-04-24T12:00:45.000Z",
     "available_at": "2026-04-24T12:00:45.000Z",
     "duration": 188,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -2849,27 +2850,6 @@
     }
   },
   {
-    "id": "_-vCcp3imx4",
-    "title": "管制塔より (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-28T15:00:39.000Z",
-    "available_at": "2026-03-28T15:00:39.000Z",
-    "duration": 188,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCcnU5oR_hC9SUtAFFDwJj6w",
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
     "id": "yGN0gj0o1GU",
     "title": "【 3D LIVE 】新3Dお披露目!豪華ゲスト&重大告知あり!ゲームソングライブ開催だああ!🎮✨ #博衣こより生誕Live2026 【博衣こより/ホロライブ】",
     "type": "stream",
@@ -5261,6 +5241,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "NsueHCfU1Ak",
+    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2025-12-25T14:00:19.000Z",
+    "available_at": "2025-12-25T11:57:55.000Z",
+    "duration": 6883,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
     }
   },
   {
