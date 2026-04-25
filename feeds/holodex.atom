@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-25T07:56:11.504Z</updated>
+  <updated>2026-04-25T08:26:11.321Z</updated>
 
   <entry>
-    <id>urn:uuid:c533349c-8749-5432-957e-5e3fd685c092</id>
+    <id>urn:uuid:369d719f-7229-5d50-9d22-bd677e006cdc</id>
     <title><![CDATA[【歌枠】アニソン歌って上がる歌枠~~!!!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/t9_Bpg40-3I" rel="alternate" type="text/html"/>
-    <published>2026-04-25T06:24:59.000Z</published>
-    <updated>2026-04-25T08:00:00.000Z</updated>
+    <link href="https://youtu.be/WZEfe3uT0uE" rel="alternate" type="text/html"/>
+    <published>2026-04-25T08:10:47.000Z</published>
+    <updated>2026-04-25T08:11:46.000Z</updated>
     <author>
       <name>Mio Channel 大神ミオ</name>
       <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=t9_Bpg40-3I 【LIVE on &lt;t:1777104000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WZEfe3uT0uE 【LIVE on &lt;t:1777104706:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WZEfe3uT0uE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c533349c-8749-5432-957e-5e3fd685c092</id>
+    <title><![CDATA[【歌枠】アニソン歌って上がる歌枠～～！！！【 ホロライブ / 大神ミオ 】]]></title>
+    <link href="https://youtu.be/t9_Bpg40-3I" rel="alternate" type="text/html"/>
+    <published>2026-04-25T06:24:59.000Z</published>
+    <updated>2026-04-25T08:01:35.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=t9_Bpg40-3I 【LIVE on &lt;t:1777104095:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/t9_Bpg40-3I/maxresdefault.jpg"/>
   </entry>
 

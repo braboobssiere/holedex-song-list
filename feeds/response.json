@@ -1,13 +1,32 @@
 [
   {
-    "id": "t9_Bpg40-3I",
+    "id": "WZEfe3uT0uE",
     "title": "【歌枠】アニソン歌って上がる歌枠~~!!!【 ホロライブ / 大神ミオ 】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2026-04-25T06:24:59.000Z",
-    "available_at": "2026-04-25T08:00:00.000Z",
+    "published_at": "2026-04-25T08:10:47.000Z",
+    "available_at": "2026-04-25T08:11:46.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
+    "id": "t9_Bpg40-3I",
+    "title": "【歌枠】アニソン歌って上がる歌枠～～！！！【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-25T06:24:59.000Z",
+    "available_at": "2026-04-25T08:01:35.000Z",
+    "duration": 465,
+    "status": "past",
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -2909,25 +2928,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "00sWytn1nyo",
-    "title": "【KARAOKE STREAM】It's been a while since I last sang hey?🎶",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-03-28T05:48:08.000Z",
-    "available_at": "2026-03-28T03:41:02.000Z",
-    "duration": 7224,
-    "status": "past",
-    "channel": {
-      "id": "UC2hx0xVkMoHGWijwr_lA01w",
-      "name": "Axel Syrios Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oaHOLOSTARS English -TEMPUS- HQ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/uAvVek-I4lHF06RJdq5uPL-KHP3BvwtFgfBi7c9Yma8xUdAx_s8p0jc5GNooXJMSGizeoHXLiAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Axel Syrios"
     }
   },
   {
