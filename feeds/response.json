@@ -160,6 +160,7 @@
     "available_at": "2026-04-25T04:30:27.000Z",
     "duration": 188,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -210,6 +211,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "Oj4CbNCZ7Cc",
+    "title": "【3DアニメーションMV】爆鳴DIVER!!!! / 秘密結社holoX【#ssholox 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-04-24T12:00:45.000Z",
+    "available_at": "2026-04-24T12:00:45.000Z",
+    "duration": 188,
+    "status": "missing",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -2697,27 +2717,6 @@
     "topic_id": "Original_Song",
     "published_at": "2026-03-31T15:03:19.000Z",
     "available_at": "2026-03-31T15:03:19.000Z",
-    "duration": 231,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCjva3gVObXVZP2ooPnuyaAA",
-    "channel": {
-      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
-      "name": "Iroha ch. 風真いろは - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kazama Iroha"
-    }
-  },
-  {
-    "id": "qk6DXZq3BKE",
-    "title": "ドリームキャッチピュアいろは!",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-03-31T15:01:47.000Z",
-    "available_at": "2026-03-31T15:01:47.000Z",
     "duration": 231,
     "status": "past",
     "songcount": 1,
