@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-27T10:56:11.966Z</updated>
+  <updated>2026-04-27T11:26:10.689Z</updated>
+
+  <entry>
+    <id>urn:uuid:955c7598-0f2c-565c-a2eb-8c8accbb8710</id>
+    <title><![CDATA[【ケモMV】けもももももも! /にゃんぐこーん🌽🍙(original)]]></title>
+    <link href="https://youtu.be/OwpDnsBO4R4" rel="alternate" type="text/html"/>
+    <published>2026-04-27T11:00:06.000Z</published>
+    <updated>2026-04-27T11:00:06.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OwpDnsBO4R4 【LIVE on &lt;t:1777287606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OwpDnsBO4R4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:62f55ade-2214-5098-95f2-a0a1aa7af35e</id>
@@ -1067,20 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=joKMhpIR70Y 【LIVE on &lt;t:1775037913:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/joKMhpIR70Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eea734b0-2b8f-5487-bf0b-be07edf33017</id>
-    <title><![CDATA[ドリームキャッチピュアいろは! (Instrumental)]]></title>
-    <link href="https://youtu.be/AnIMvnsP2hY" rel="alternate" type="text/html"/>
-    <published>2026-03-31T15:03:19.000Z</published>
-    <updated>2026-03-31T15:03:19.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=AnIMvnsP2hY 【LIVE on &lt;t:1774969399:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AnIMvnsP2hY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
