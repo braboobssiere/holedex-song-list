@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-04-28T13:34:34.000Z",
     "available_at": "2026-04-28T14:04:31.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6902,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -947,6 +947,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/jxI6FmNKDpYKXB0puyLhB5gq4JgWFvRT9Rr2C_d3hFT1q0SSOHh3QIUfvSxfTHupTXFnleqI=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Akai Haato"
+    }
+  },
+  {
+    "id": "5Cy0vzUhQhE",
+    "title": "【チラ見せ】秘密結社holoX Live 2026「First MISSION」【 #SSholoX世界リペイント計画】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-04-16T03:34:10.000Z",
+    "available_at": "2026-04-29T08:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -5338,25 +5357,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "YDlJA_eGX7k",
-    "title": "【#メリクリホロパーティ】サンタになって爆笑企画!!メリクリホロパーティ!【3Dバラエティ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-22T12:05:02.000Z",
-    "available_at": "2025-12-25T12:00:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
