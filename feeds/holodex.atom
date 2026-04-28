@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-04-28T06:26:17.563Z</updated>
+  <updated>2026-04-28T06:56:18.553Z</updated>
 
   <entry>
     <id>urn:uuid:29c81294-c4ce-5a7d-a2fa-5c3aa7a8f81a</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qWZGv3V7vaY 【LIVE on &lt;t:1777248006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qWZGv3V7vaY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cb35607d-8bec-55c1-941d-86f6095d1e5b</id>
+    <title><![CDATA[【ASMR】メン限お試し15分・微糖…?バイノーラルでお話☁️【水宮枢/ホロライブDEV_IS】]]></title>
+    <link href="https://youtu.be/Lri_lJmao7c" rel="alternate" type="text/html"/>
+    <published>2026-04-26T13:53:52.000Z</published>
+    <updated>2026-04-26T13:31:09.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Lri_lJmao7c 【LIVE on &lt;t:1777210269:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Lri_lJmao7c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=S6dzYvCQxoc 【LIVE on &lt;t:1777091427:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S6dzYvCQxoc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cb35607d-8bec-55c1-941d-86f6095d1e5b</id>
-    <title><![CDATA[【ASMR】メン限お試し15分・微糖…？バイノーラルでお話☁️【水宮枢／ホロライブDEV_IS】]]></title>
-    <link href="https://youtu.be/Lri_lJmao7c" rel="alternate" type="text/html"/>
-    <published>2026-04-24T17:59:13.000Z</published>
-    <updated>2026-04-26T13:31:09.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Lri_lJmao7c 【LIVE on &lt;t:1777210269:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Lri_lJmao7c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
