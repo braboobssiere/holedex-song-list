@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-04-28T13:34:34.000Z",
-    "available_at": "2026-04-28T14:00:00.000Z",
+    "available_at": "2026-04-28T14:04:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -16,25 +16,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
-    }
-  },
-  {
-    "id": "CQbXtM6CvaA",
-    "title": "ときのそら 9th Anniversary Party「Everyday of Light」ティザー映像",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-04-27T12:00:21.000Z",
-    "available_at": "2026-04-27T12:00:21.000Z",
-    "duration": 63,
-    "status": "past",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -5685,6 +5666,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Anya Melfissa"
+    }
+  },
+  {
+    "id": "RdH9FqVKSwY",
+    "title": "【#LovellieUnion - CLOSING】 THANK YOU FOR CELEBRATING MY 5th ANNIVERSARY WITH ME 【Kureiji Ollie】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-12-04T16:46:21.000Z",
+    "available_at": "2025-12-04T16:12:00.000Z",
+    "duration": 1744,
+    "status": "past",
+    "channel": {
+      "id": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kcIndonesia 2nd Gen (holoro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/fCQ1LUhWHfIGkCLeZl2BG_uQhQ6IqxJ3AJJxFbG6uEpLJ1hlJ2JOoBG7FJiAREeDeEVtwJoZKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kureiji Ollie"
     }
   },
   {
