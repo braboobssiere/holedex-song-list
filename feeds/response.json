@@ -1,5 +1,24 @@
 [
   {
+    "id": "CSXk6_wXs5s",
+    "title": "【弾き語り歌枠】ほぼひと月ぶりかも【律可/ホロスターズ】#りつすた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-29T13:30:49.000Z",
+    "available_at": "2026-04-29T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
+      "name": "Rikka ch.律可",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rikka"
+    }
+  },
+  {
     "id": "FGpBn_60xzc",
     "title": "【RETRO REWIND ASMR】RELAXING VIDEO STORE SIMULATOR",
     "type": "stream",
@@ -28,7 +47,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 89
+      "en": 101
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -88,7 +107,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 63
+      "en": 150
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -2811,26 +2830,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/mtWfNstoxFmQrInOC7ZcIkOvzoMzDHUchDNpKTRR5ujOtI6bJD0YNFgKHqJpHPOmw2UDqjCu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yatogami Fuma"
-    }
-  },
-  {
-    "id": "joKMhpIR70Y",
-    "title": "【歌枠】かわいいうたわくです【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-01T11:46:20.000Z",
-    "available_at": "2026-04-01T10:05:13.000Z",
-    "duration": 4182,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
