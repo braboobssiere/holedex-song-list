@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-04-29T13:30:49.000Z",
-    "available_at": "2026-04-29T14:00:00.000Z",
+    "available_at": "2026-04-29T14:00:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -47,7 +47,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 101
+      "en": 120
     },
     "channel": {
       "id": "UC7fk0CB07ly8oSl0aqKkqFg",
@@ -99,15 +99,15 @@
   },
   {
     "id": "ua8QKKIXT2s",
-    "title": "【3D配信】ねぽらぼでお菓子パーティー!はしゃいじゃうぞっ!!【ねぽらぼ /ホロライブ】",
+    "title": "【３D配信】ねぽらぼでお菓子パーティー！はしゃいじゃうぞっ！！【ねぽらぼ /ホロライブ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-04-28T10:41:26.000Z",
     "available_at": "2026-04-29T13:00:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3887,
+    "status": "past",
     "live_tl_count": {
-      "en": 150
+      "en": 197
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
