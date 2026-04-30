@@ -1,5 +1,25 @@
 [
   {
+    "id": "nUWqmGPVxio",
+    "title": "【MV】Just for X / 秘密結社holoX【 #ssholox 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-04-30T10:00:06.000Z",
+    "available_at": "2026-04-30T10:00:06.000Z",
+    "duration": 185,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "k4ltWU3P1ks",
     "title": "【#影山シエン6周年】6周年だヨ!情報開示SP!【影山シエン/ホロスターズ】",
     "type": "stream",
@@ -98,26 +118,6 @@
     }
   },
   {
-    "id": "nUWqmGPVxio",
-    "title": "【MV】Just for X / 秘密結社holoX【 #ssholox 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-04-29T08:28:27.000Z",
-    "available_at": "2026-04-30T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
     "id": "H-9PYoERfDY",
     "title": "YOU BETTER BELIEB IT【UNARCHIVED KARAOKE】",
     "type": "stream",
@@ -202,9 +202,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-04-27T23:46:14.000Z",
-    "available_at": "2026-04-30T10:00:00.000Z",
+    "available_at": "2026-04-30T10:05:28.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 29
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
