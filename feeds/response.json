@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-05-01T14:31:51.000Z",
-    "available_at": "2026-05-02T02:00:00.000Z",
+    "available_at": "2026-05-02T02:01:27.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -94,6 +94,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "FGpBn_60xzc",
+    "title": "【RETRO REWIND ASMR】RELAXING VIDEO STORE SIMULATOR",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2026-04-30T08:31:04.000Z",
+    "available_at": "2026-04-30T03:00:14.000Z",
+    "duration": 18381,
+    "status": "past",
+    "channel": {
+      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
+      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Jurard T Rexford"
     }
   },
   {
@@ -197,25 +216,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "FGpBn_60xzc",
-    "title": "【RETRO REWIND ASMR】RELAXING VIDEO STORE SIMULATOR",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2026-04-29T10:27:33.000Z",
-    "available_at": "2026-04-30T03:00:14.000Z",
-    "duration": 18380,
-    "status": "past",
-    "channel": {
-      "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
-      "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Jurard T Rexford"
     }
   },
   {
