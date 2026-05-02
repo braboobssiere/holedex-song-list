@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-05-02T05:24:31.000Z",
-    "available_at": "2026-05-02T07:00:00.000Z",
+    "available_at": "2026-05-02T07:00:59.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -1587,6 +1587,25 @@
     }
   },
   {
+    "id": "K5tAD9J2kU8",
+    "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-13T03:30:27.000Z",
+    "available_at": "2026-05-03T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC060r4zABV18vcahAWR1n7w",
+      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Machina X Flayon"
+    }
+  },
+  {
     "id": "TJdOEqCP5_k",
     "title": "Let's See How Many Hamtaro Tottoko Uta I Can Sing in 1 Hour",
     "type": "stream",
@@ -2606,26 +2625,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ookami Mio"
-    }
-  },
-  {
-    "id": "kjpXrHPEy-Q",
-    "title": "【歌枠 / karaoke】土曜の昼は一旦盛り上げないと。 / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-04T05:11:58.000Z",
-    "available_at": "2026-04-04T03:02:46.000Z",
-    "duration": 6350,
-    "status": "past",
-    "songcount": 17,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
