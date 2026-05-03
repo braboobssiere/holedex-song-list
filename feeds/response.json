@@ -1,24 +1,5 @@
 [
   {
-    "id": "_Wls4gK4xts",
-    "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね!?【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-05-03T15:44:11.000Z",
-    "available_at": "2026-05-04T09:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
     "id": "SRSm0_gjjrI",
     "title": "【original】「出囃子ジャポニズム」静岡県立美術館ver【儒烏風亭らでん】",
     "type": "stream",
@@ -26,6 +7,25 @@
     "published_at": "2026-05-03T14:23:07.000Z",
     "available_at": "2026-05-03T14:23:07.000Z",
     "duration": 222,
+    "status": "past",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
+    "id": "vB3KeSND8aA",
+    "title": "【らでんラボ】絵画で!それってあなたの感想ですよね?カルタ【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-05-03T13:00:06.000Z",
+    "available_at": "2026-05-03T13:00:06.000Z",
+    "duration": 4749,
     "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
@@ -5343,25 +5343,6 @@
     }
   },
   {
-    "id": "DtvMI2ONoxY",
-    "title": "【#年末みこち25時】即席⁉ 年末みこち25時間生放送やっちゃうにぇ!!!??【2枠目】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2025-12-29T02:50:50.000Z",
-    "available_at": "2025-12-28T18:05:32.000Z",
-    "duration": 28851,
-    "status": "past",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
-    }
-  },
-  {
     "id": "fuPaHO_aTDY",
     "title": "【 6周年カウントダウン 】12月29日で6周年!いつも支えてくれてありがとう🍀【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -5707,6 +5688,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Anya Melfissa"
+    }
+  },
+  {
+    "id": "0_jMk5IrrWI",
+    "title": "GRWM: Lobotomy【Second Anniversary!】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2025-12-05T02:49:46.000Z",
+    "available_at": "2025-12-05T01:05:43.000Z",
+    "duration": 5810,
+    "status": "past",
+    "channel": {
+      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
+      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Crimzon Ruze"
     }
   },
   {
