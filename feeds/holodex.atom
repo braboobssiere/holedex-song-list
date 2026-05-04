@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-04T14:56:31.920Z</updated>
+  <updated>2026-05-04T15:26:22.838Z</updated>
+
+  <entry>
+    <id>urn:uuid:afee6a65-8874-5073-9458-f21c5cf907f6</id>
+    <title><![CDATA[NaN GAME]]></title>
+    <link href="https://youtu.be/lfs_M3e9MtI" rel="alternate" type="text/html"/>
+    <published>2026-05-04T15:01:26.000Z</published>
+    <updated>2026-05-04T15:01:26.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lfs_M3e9MtI 【LIVE on &lt;t:1777906886:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lfs_M3e9MtI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:469e06ab-a284-54c5-93df-19440c568ac6</id>
+    <title><![CDATA[NaN GAME (Instrumental)]]></title>
+    <link href="https://youtu.be/cNiZ05B7_QY" rel="alternate" type="text/html"/>
+    <published>2026-05-04T15:01:06.000Z</published>
+    <updated>2026-05-04T15:01:06.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=cNiZ05B7_QY 【LIVE on &lt;t:1777906866:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cNiZ05B7_QY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:706d5aed-3019-56a9-bef2-45b904a42517</id>
@@ -1137,34 +1165,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=24KrBOnf9rw 【LIVE on &lt;t:1775055890:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/24KrBOnf9rw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e450558f-a88a-5960-b8d5-22d200a1fc35</id>
-    <title><![CDATA[けもももももも!]]></title>
-    <link href="https://youtu.be/GsfzgqEcMjc" rel="alternate" type="text/html"/>
-    <published>2026-04-01T15:04:07.000Z</published>
-    <updated>2026-04-01T15:04:07.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GsfzgqEcMjc 【LIVE on &lt;t:1775055847:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GsfzgqEcMjc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8dcbd466-a2da-5cb3-90db-953e1af99a3f</id>
-    <title><![CDATA[めくるめくランデヴー (Instrumental)]]></title>
-    <link href="https://youtu.be/p-52xGZpgbU" rel="alternate" type="text/html"/>
-    <published>2026-04-01T15:01:06.000Z</published>
-    <updated>2026-04-01T15:01:06.000Z</updated>
-    <author>
-      <name>FUWAMOCO Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=p-52xGZpgbU 【LIVE on &lt;t:1775055666:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/p-52xGZpgbU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
