@@ -46,6 +46,7 @@
     "available_at": "2026-05-05T01:26:13.000Z",
     "duration": 6175,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -149,7 +150,7 @@
     "available_at": "2026-05-04T12:02:12.000Z",
     "duration": 3970,
     "status": "past",
-    "songcount": 1,
+    "songcount": 10,
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -831,25 +832,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "Oj4CbNCZ7Cc",
-    "title": "【3DアニメーションMV】爆鳴DIVER!!!! / 秘密結社holoX【#ssholox 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-04-24T12:00:45.000Z",
-    "available_at": "2026-04-24T12:00:45.000Z",
-    "duration": 188,
-    "status": "missing",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
     }
   },
   {
@@ -2965,6 +2947,27 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "24KrBOnf9rw",
+    "title": "けもももももも! (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-04-01T15:04:50.000Z",
+    "available_at": "2026-04-01T15:04:50.000Z",
+    "duration": 163,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCU8Hg6vnmq6GcXPmCG5vEAQ",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
     }
   },
   {
