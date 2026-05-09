@@ -1,5 +1,24 @@
 [
   {
+    "id": "oElWN45HHPw",
+    "title": "【UNARCHIVED KARAOKE】gigijam and gremjam",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-05-09T07:10:35.000Z",
+    "available_at": "2026-05-09T21:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "RHRtmcWwt5I",
     "title": "【UNARCHIVED KARAOKE】TAVICHELLA 【REBROADCAST】",
     "type": "stream",
@@ -358,6 +377,25 @@
     }
   },
   {
+    "id": "w37yVSXhV_c",
+    "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-02T14:51:36.000Z",
+    "available_at": "2026-05-10T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "name": "Raora Panthera Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Raora Panthera"
+    }
+  },
+  {
     "id": "cM9H5jKzU1g",
     "title": "【 耐久歌枠 】GW企画!80万人いけるかな?!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -385,6 +423,25 @@
     "published_at": "2026-05-01T18:36:52.000Z",
     "available_at": "2026-05-02T13:02:27.000Z",
     "duration": 5027,
+    "status": "missing",
+    "channel": {
+      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "name": "Raora Panthera Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Raora Panthera"
+    }
+  },
+  {
+    "id": "yGyA_j8798o",
+    "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-01T18:29:21.000Z",
+    "available_at": "2026-05-10T01:00:00.000Z",
+    "duration": 0,
     "status": "missing",
     "channel": {
       "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
@@ -2651,26 +2708,6 @@
     }
   },
   {
-    "id": "dPR8nACkDKg",
-    "title": "【歌枠 / karaoke】お力添えお願いできますか!!!!!!!!!!!! / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-07T02:07:25.000Z",
-    "available_at": "2026-04-07T01:31:47.000Z",
-    "duration": 1884,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
-    }
-  },
-  {
     "id": "YIdyUierCmU",
     "title": "【雑談】ホロライブ移籍4周年ありがとう【ホロライブ / AZKi】",
     "type": "stream",
@@ -4504,29 +4541,6 @@
     }
   },
   {
-    "id": "_tBlI-l8WLk",
-    "title": "【 3DLIVE 】#アキロゼ生誕祭2026 ーLife is GAMEー【ホロライブ/アキ・ローゼンタール】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-02-17T12:16:53.000Z",
-    "available_at": "2026-02-17T10:57:18.000Z",
-    "duration": 4281,
-    "status": "past",
-    "songcount": 12,
-    "live_tl_count": {
-      "en": 109
-    },
-    "channel": {
-      "id": "UCFTLzh12_nrtzqBPsTCqenA",
-      "name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aki Rosenthal"
-    }
-  },
-  {
     "id": "C95nRnWsBo0",
     "title": "【GO LIVE for LOVE!】ASMR OF EVERYTHING IN MY BAG!!! FOR THE ANIMALS!!",
     "type": "stream",
@@ -4546,25 +4560,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "Uts3UcAt0nM",
-    "title": "特別回!誕生日カウントダウン!『 #バレンタイン事件簿  💕』 アキちょこナイトパレット第25回 ~ホロライブ深夜ラジオ~",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-02-16T15:35:43.000Z",
-    "available_at": "2026-02-16T14:35:17.000Z",
-    "duration": 3374,
-    "status": "past",
-    "channel": {
-      "id": "UCFTLzh12_nrtzqBPsTCqenA",
-      "name": "アキロゼCh。Vtuber/ホロライブ所属",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Aki Rosenthal"
     }
   },
   {
