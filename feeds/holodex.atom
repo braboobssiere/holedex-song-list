@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-10T02:56:19.258Z</updated>
+  <updated>2026-05-10T03:26:12.701Z</updated>
+
+  <entry>
+    <id>urn:uuid:5492babc-9fae-5ce4-9c1a-49c1d5bc75d4</id>
+    <title><![CDATA[【歌枠】自分のオリ曲!採点で90点超えられるか!?【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/TiI0Hm84fbs" rel="alternate" type="text/html"/>
+    <published>2026-05-10T03:22:32.000Z</published>
+    <updated>2026-05-10T04:00:00.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TiI0Hm84fbs 【LIVE on &lt;t:1778385600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TiI0Hm84fbs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:180fed7f-317f-5bb3-ab31-790472f2d922</id>
@@ -913,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-0x9vGCP6pc 【LIVE on &lt;t:1775734211:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-0x9vGCP6pc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3323dfd5-66bd-5874-be3e-482a0e47407f</id>
-    <title><![CDATA[【歌枠】とにかく歌が歌いたいんじゃああああああ💛【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/DlsQkKbQUoM" rel="alternate" type="text/html"/>
-    <published>2026-04-08T14:28:56.000Z</published>
-    <updated>2026-04-08T12:00:11.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DlsQkKbQUoM 【LIVE on &lt;t:1775649611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DlsQkKbQUoM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
