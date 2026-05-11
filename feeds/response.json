@@ -3,7 +3,7 @@
     "id": "VOCdk1ej9gs",
     "title": "【 3D KARAOKE / 歌枠 】べーちゃんと一緒にカラオケするぞ~‼【Hakos Baelz/鷹嶺ルイ/ホロライブ】",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2026-05-11T00:48:56.000Z",
     "available_at": "2026-05-11T09:00:00.000Z",
     "duration": 0,
@@ -2522,26 +2522,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "-0x9vGCP6pc",
-    "title": "【#こうましろファミリーフェス】リレーを繋げるはじめまして🎶元気な歌声をお届けします💓楽しもう🌟【尾丸ポルカ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-09T12:04:27.000Z",
-    "available_at": "2026-04-09T11:30:11.000Z",
-    "duration": 1807,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
     }
   },
   {
@@ -5291,6 +5271,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ZvpWDidOvm_9UnejMCODc3culF4kl6S5habu5ZcO6beczmcYE2kkcB6JEjOQOCOp_0_fV1_5HA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ren Zotto"
+    }
+  },
+  {
+    "id": "kzDzLKb-lEA",
+    "title": "【2026】ReGLOSSと新年を楽しもう!!【#ことよろReGLOSS】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-01-01T04:00:06.000Z",
+    "available_at": "2026-01-01T04:00:06.000Z",
+    "duration": 1238,
+    "status": "past",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive DEV_IS ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
