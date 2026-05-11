@@ -1,5 +1,24 @@
 [
   {
+    "id": "pQDceiet9Bc",
+    "title": "【歌枠】うたうみぉーー-------ん!【 ホロライブ / 大神ミオ 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-05-11T12:09:02.000Z",
+    "available_at": "2026-05-11T12:16:51.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "VOCdk1ej9gs",
     "title": "【 3D KARAOKE / 歌枠 】べーちゃんと一緒にカラオケするぞ～‼【Hakos Baelz/鷹嶺ルイ/ホロライブ】",
     "type": "stream",
@@ -20,13 +39,13 @@
   },
   {
     "id": "NigsJ967r0U",
-    "title": "【お披露目】お家3Dお披露目📣配信復活します! 【ホロライブ/癒月ちょこ】",
+    "title": "【お披露目】お家３Dお披露目📣配信復活します！ 【ホロライブ/癒月ちょこ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-05-10T23:39:25.000Z",
     "available_at": "2026-05-11T10:59:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4197,
+    "status": "past",
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -2520,26 +2539,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ayunda Risu"
-    }
-  },
-  {
-    "id": "M8C-INVwPRo",
-    "title": "【歌枠 / karaoke】半分寝ている人の歌枠。なんか曲増えたらしい。探す / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-09T17:09:22.000Z",
-    "available_at": "2026-04-09T13:33:09.000Z",
-    "duration": 12400,
-    "status": "past",
-    "songcount": 39,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
