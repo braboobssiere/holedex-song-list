@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-11T15:56:27.799Z</updated>
+  <updated>2026-05-11T16:26:28.692Z</updated>
+
+  <entry>
+    <id>urn:uuid:7af84662-ac3f-5501-9570-c830b42187d4</id>
+    <title><![CDATA[【UNARCHIVED KARAOKE】I sing some songs my mom requested :D]]></title>
+    <link href="https://youtu.be/XHoD-W_Vw6w" rel="alternate" type="text/html"/>
+    <published>2026-05-11T16:19:21.000Z</published>
+    <updated>2026-05-11T23:00:00.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XHoD-W_Vw6w 【LIVE on &lt;t:1778540400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XHoD-W_Vw6w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bd340c05-f047-5fdc-943b-47124a9ed874</id>
@@ -941,20 +955,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XlVr4LDiICU 【LIVE on &lt;t:1775833317:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XlVr4LDiICU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:68e89bfb-4b08-5b1a-b372-00853ad5a480</id>
-    <title><![CDATA[【 縦型/歌枠】NO23.今日はダウナーろぼちゃんでし🌸🎤ろぼめろでぃ~ RBmelody  🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
-    <link href="https://youtu.be/-DCl364Qfws" rel="alternate" type="text/html"/>
-    <published>2026-04-10T09:29:43.000Z</published>
-    <updated>2026-04-10T08:00:34.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-DCl364Qfws 【LIVE on &lt;t:1775808034:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-DCl364Qfws/maxresdefault.jpg"/>
   </entry>
 
   <entry>
