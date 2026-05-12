@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-12T14:56:17.414Z</updated>
+  <updated>2026-05-12T15:26:19.235Z</updated>
+
+  <entry>
+    <id>urn:uuid:e298dc81-9931-5a82-9d2a-ca1a12b12f7a</id>
+    <title><![CDATA[ガチマジ☆デスゲーム]]></title>
+    <link href="https://youtu.be/nO3pG3slzL8" rel="alternate" type="text/html"/>
+    <published>2026-05-12T15:01:29.000Z</published>
+    <updated>2026-05-12T15:01:29.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nO3pG3slzL8 【LIVE on &lt;t:1778598089:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nO3pG3slzL8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1b1f5e15-ca3f-5413-86f6-f013f9c6ad36</id>
+    <title><![CDATA[ガチマジ☆デスゲーム (Instrumental)]]></title>
+    <link href="https://youtu.be/HOtzSNt9qp8" rel="alternate" type="text/html"/>
+    <published>2026-05-12T15:00:23.000Z</published>
+    <updated>2026-05-12T15:00:23.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HOtzSNt9qp8 【LIVE on &lt;t:1778598023:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HOtzSNt9qp8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bd4a3ba9-beac-5949-8a7b-84357e6d1617</id>
@@ -1151,34 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=JpQwgw0ENhw 【LIVE on &lt;t:1775401235:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JpQwgw0ENhw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cb533d19-bd49-5e01-88bb-7df07bda6af0</id>
-    <title><![CDATA[Lucky Loud (Instrumental)]]></title>
-    <link href="https://youtu.be/CQt3fAnRXkU" rel="alternate" type="text/html"/>
-    <published>2026-04-05T15:00:18.000Z</published>
-    <updated>2026-04-05T15:00:18.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=CQt3fAnRXkU 【LIVE on &lt;t:1775401218:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CQt3fAnRXkU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cbb3b218-849e-5458-b32d-2fb8dcd0a601</id>
-    <title><![CDATA[ReGLOSS 'Lucky Loud' OFFICIAL MV]]></title>
-    <link href="https://youtu.be/hvqSFRncqMA" rel="alternate" type="text/html"/>
-    <published>2026-04-05T11:00:07.000Z</published>
-    <updated>2026-04-05T11:00:07.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hvqSFRncqMA 【LIVE on &lt;t:1775386807:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hvqSFRncqMA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
