@@ -27,6 +27,7 @@
     "available_at": "2026-05-11T12:16:51.000Z",
     "duration": 4725,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCp-5t9SrOQwXMU7iIjQfARg",
       "name": "Mio Channel 大神ミオ",
@@ -138,6 +139,25 @@
     }
   },
   {
+    "id": "hh1Pe6Q62_E",
+    "title": "羽継烏有 2026誕生日配信!! 【 ホロスターズ 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-10T12:59:24.000Z",
+    "available_at": "2026-05-10T11:03:41.000Z",
+    "duration": 5415,
+    "status": "past",
+    "channel": {
+      "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
+      "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Utsugi Uyu"
+    }
+  },
+  {
     "id": "972c2QVi2wE",
     "title": "【歌枠】ゆるっとおしゃべりしながらカラオケ～～～【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -185,6 +205,7 @@
     "available_at": "2026-05-10T04:04:28.000Z",
     "duration": 3800,
     "status": "past",
+    "songcount": 8,
     "live_tl_count": {
       "en": 91,
       "ko": 90
@@ -332,25 +353,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "hh1Pe6Q62_E",
-    "title": "羽継烏有 2026誕生日配信!! 【 ホロスターズ 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-08T18:05:58.000Z",
-    "available_at": "2026-05-10T11:03:41.000Z",
-    "duration": 5429,
-    "status": "past",
-    "channel": {
-      "id": "UCgRqGV1gBf2Esxh0Tz1vxzw",
-      "name": "Uyu Ch. 羽継烏有 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F8QDMCx8IrRiERV_Aat8HYnDDq8TmIEnquF6Sp8H6T-EuSF29q9Rf0YN57g1Yb6VJETuqkdM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Utsugi Uyu"
     }
   },
   {
@@ -3170,6 +3172,7 @@
     "available_at": "2026-05-11T11:31:11.000Z",
     "duration": 6563,
     "status": "past",
+    "songcount": 16,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
