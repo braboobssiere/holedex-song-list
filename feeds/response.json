@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-05-13T05:11:29.000Z",
     "available_at": "2026-05-13T06:00:26.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7115,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -99,6 +99,25 @@
     }
   },
   {
+    "id": "3bpvjKXsros",
+    "title": "【#一条莉々華生誕祭2026前夜祭】一緒に乾杯しよおおおおおおおおおお【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-11T15:30:35.000Z",
+    "available_at": "2026-05-11T13:00:51.000Z",
+    "duration": 8386,
+    "status": "past",
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
+    }
+  },
+  {
     "id": "zeZyghu4jF0",
     "title": "【縦型歌枠】そこのあなた!歌聴いていかない?♡【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -175,25 +194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "3bpvjKXsros",
-    "title": "【#一条莉々華生誕祭2026前夜祭】一緒に乾杯しよおおおおおおおおおお【一条莉々華/hololive DEV_IS ReGLOSS】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-10T16:19:04.000Z",
-    "available_at": "2026-05-11T13:00:51.000Z",
-    "duration": 8415,
-    "status": "past",
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
