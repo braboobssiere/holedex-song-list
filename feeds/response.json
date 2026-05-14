@@ -1,5 +1,45 @@
 [
   {
+    "id": "RX9Fj6lsANo",
+    "title": "決意のソラへ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-05-14T10:00:41.000Z",
+    "available_at": "2026-05-14T10:00:41.000Z",
+    "duration": 257,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCX1VP45sH-XFxNDzXbMeEBg",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "_Z_XAxbsYx4",
+    "title": "【誕生日カウントダウン】15日はお知らせがいっぱいです。【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-14T09:41:17.000Z",
+    "available_at": "2026-05-14T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "nBcExqAmA5I",
     "title": "【歌枠】リベンジするぞ~シェフの気まぐれBANを添えて~",
     "type": "stream",
@@ -104,8 +144,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-05-12T18:17:21.000Z",
     "available_at": "2026-05-14T09:00:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3482,
+    "status": "past",
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -3010,27 +3050,6 @@
     }
   },
   {
-    "id": "zeLjIdkwmdA",
-    "title": "Just for X",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-04-07T15:01:50.000Z",
-    "available_at": "2026-04-07T15:01:50.000Z",
-    "duration": 186,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCZiL8R8ytelvV9x8wWtRSWw",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
     "id": "YIdyUierCmU",
     "title": "【雑談】ホロライブ移籍4周年ありがとう【ホロライブ / AZKi】",
     "type": "stream",
@@ -4359,29 +4378,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
-    }
-  },
-  {
-    "id": "YgZNZM81OcA",
-    "title": "【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ~Liminal~【 桃鈴ねね / 3DLive 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-03-02T12:17:50.000Z",
-    "available_at": "2026-03-02T10:56:16.000Z",
-    "duration": 4365,
-    "status": "past",
-    "songcount": 10,
-    "live_tl_count": {
-      "en": 49
-    },
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
