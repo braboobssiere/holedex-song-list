@@ -64,9 +64,13 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-05-14T09:41:17.000Z",
-    "available_at": "2026-05-14T14:30:00.000Z",
+    "available_at": "2026-05-14T14:30:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 34,
+      "ko": 29
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -84,10 +88,10 @@
     "topic_id": "singing",
     "published_at": "2026-05-14T07:31:34.000Z",
     "available_at": "2026-05-14T13:00:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6500,
+    "status": "past",
     "live_tl_count": {
-      "en": 131
+      "en": 176
     },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
