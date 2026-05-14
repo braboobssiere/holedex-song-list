@@ -1,5 +1,24 @@
 [
   {
+    "id": "nBcExqAmA5I",
+    "title": "【歌枠】リベンジするぞ~シェフの気まぐれBANを添えて~",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-05-14T07:31:34.000Z",
+    "available_at": "2026-05-14T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
+      "name": "Korone Ch. 戌神ころね",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Inugami Korone"
+    }
+  },
+  {
     "id": "b16EFJhIiHc",
     "title": "【#一条莉々華生誕祭2026】生誕振り返りトークするよ~!!【一条莉々華/hololive DEV_IS ReGLOSS】",
     "type": "stream",
@@ -54,6 +73,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
+    "id": "3VJ8vx-dcTs",
+    "title": "【#3D】リアル対決に描き下ろしも！チョコザップコラボの魅力全部大公開！【 雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-05-13T03:23:37.000Z",
+    "available_at": "2026-05-13T10:59:59.000Z",
+    "duration": 3452,
+    "status": "past",
+    "live_tl_count": {
+      "en": 149
+    },
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -2618,26 +2659,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "WBDBf7p5m8Y",
-    "title": "【ゲリラ】深夜の歌枠【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-10T18:04:04.000Z",
-    "available_at": "2026-04-10T17:03:16.000Z",
-    "duration": 3445,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -5269,26 +5290,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "c-rBty6nz58",
-    "title": "【#RENZOTTO1STCONTACT】 First 3D LIVE Concert! 【レンゾット3Dライブ / NIJISANJI EN】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-02T11:55:49.000Z",
-    "available_at": "2026-01-02T11:00:16.000Z",
-    "duration": 3076,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCKu59gTZ_rdEmerdx5rV4Yg",
-      "name": "Ren Zotto 【NIJISANJI EN】",
-      "org": "Nijisanji",
-      "suborg": "5aEN ILUNA",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZvpWDidOvm_9UnejMCODc3culF4kl6S5habu5ZcO6beczmcYE2kkcB6JEjOQOCOp_0_fV1_5HA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ren Zotto"
     }
   },
   {
