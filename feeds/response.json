@@ -1,5 +1,43 @@
 [
   {
+    "id": "RIEqLwMhFyM",
+    "title": "【歌枠 / karaoke】最近ちょっと歌ってなかったんでね / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-05-14T11:03:37.000Z",
+    "available_at": "2026-05-14T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "b32OxBZVypM",
+    "title": "【original】色をくれたキミへ/癒月ちょこ【ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-05-14T11:00:06.000Z",
+    "available_at": "2026-05-14T11:00:06.000Z",
+    "duration": 168,
+    "status": "past",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
     "id": "RX9Fj6lsANo",
     "title": "決意のソラへ",
     "type": "stream",
@@ -56,25 +94,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "b16EFJhIiHc",
-    "title": "【#一条莉々華生誕祭2026】生誕振り返りトークするよ~!!【一条莉々華/hololive DEV_IS ReGLOSS】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-14T01:36:47.000Z",
-    "available_at": "2026-05-14T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCtyWhCj3AqKh2dXctLkDtng",
-      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ichijou Ririka"
     }
   },
   {
@@ -154,25 +173,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "b32OxBZVypM",
-    "title": "【original】色をくれたキミへ/癒月ちょこ【ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-05-12T15:53:44.000Z",
-    "available_at": "2026-05-14T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1suqwovbL1kzsoaZgFZLKg",
-      "name": "Choco Ch. 癒月ちょこ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yuzuki Choco"
     }
   },
   {
@@ -2682,26 +2682,6 @@
     }
   },
   {
-    "id": "J6W86LOJxnY",
-    "title": "【#リオナ生誕記念歌枠リレーVol2 】LET'S SING OUR HEARTS OUT / 思い切り歌いましょう 😈🔥【BANZOIN HAKKA / 万象院ハッカ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-04-11T09:10:05.000Z",
-    "available_at": "2026-04-11T08:29:58.000Z",
-    "duration": 1910,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
-    }
-  },
-  {
     "id": "t8JpLiG4GRA",
     "title": "トキハナテ (Instrumental)",
     "type": "stream",
@@ -4378,6 +4358,29 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0Nx9jWdjiUrkizCVCDZg_MasdF6b85DAsQATmAkNC2A8b3Y89vXlnSDZ_v1fM_X4w3088sJnmA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aki Rosenthal"
+    }
+  },
+  {
+    "id": "YgZNZM81OcA",
+    "title": "【 超重大告知あり‼ 】 #桃鈴ねね誕生日ライブ2026 ~Liminal~【 桃鈴ねね / 3DLive 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-03-02T12:17:50.000Z",
+    "available_at": "2026-03-02T10:56:16.000Z",
+    "duration": 4365,
+    "status": "past",
+    "songcount": 10,
+    "live_tl_count": {
+      "en": 49
+    },
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
     }
   },
   {
