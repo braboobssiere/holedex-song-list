@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-05-15T05:29:07.000Z",
     "available_at": "2026-05-15T10:00:44.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3990,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -1034,9 +1034,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-05-03T04:32:18.000Z",
-    "available_at": "2026-05-15T11:00:00.000Z",
+    "available_at": "2026-05-15T10:57:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
