@@ -26,7 +26,7 @@
     "published_at": "2026-05-15T22:19:49.000Z",
     "available_at": "2026-05-16T04:23:42.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
     "channel": {
       "id": "UC2hx0xVkMoHGWijwr_lA01w",
       "name": "Axel Syrios Ch. HOLOSTARS-EN",
@@ -182,9 +182,9 @@
     "title": "【歌枠 / karaoke】最近ちょっと歌ってなかったんでね / アステル",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2026-05-14T11:03:37.000Z",
+    "published_at": "2026-05-14T14:30:57.000Z",
     "available_at": "2026-05-14T11:44:25.000Z",
-    "duration": 8099,
+    "duration": 8094,
     "status": "past",
     "songcount": 24,
     "channel": {
@@ -581,6 +581,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
+    }
+  },
+  {
+    "id": "JmnlnzBgMOc",
+    "title": "【3D LIVE】THE CCGG NETWORK #AUTOFISTNETWORK @holoen_ceciliaimmergreen",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-05-10T23:17:11.000Z",
+    "available_at": "2026-05-17T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
     }
   },
   {
@@ -5148,26 +5167,6 @@
     "published_at": "2026-01-10T10:27:32.000Z",
     "available_at": "2026-01-10T09:43:30.000Z",
     "duration": 2471,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "5NbNvtpj2-c",
-    "title": "【チラ見せ枠_DAY】ときのそら New Year's Party 2026『Dreams in Motion』",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-01-10T05:23:07.000Z",
-    "available_at": "2026-01-10T04:56:37.000Z",
-    "duration": 1456,
     "status": "past",
     "songcount": 3,
     "channel": {
