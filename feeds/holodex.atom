@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-16T18:26:12.827Z</updated>
+  <updated>2026-05-16T18:56:11.518Z</updated>
 
   <entry>
     <id>urn:uuid:aed82f31-7e5c-5692-ac29-09187cfcc397</id>
@@ -493,6 +493,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=7ZjHPXhPdXw 【LIVE on &lt;t:1777772129:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7ZjHPXhPdXw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6f0f55c9-32ca-5e88-b1c9-4e6bb601bcf9</id>
+    <title><![CDATA[【#ときのそらお披露目誕生日2026】１０年目に向けた最高のパフォーマンスを！～告知もあるよ～【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/sflyOJD5y50" rel="alternate" type="text/html"/>
+    <published>2026-05-03T04:32:18.000Z</published>
+    <updated>2026-05-15T10:57:26.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sflyOJD5y50 【LIVE on &lt;t:1778842646:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sflyOJD5y50/maxresdefault.jpg"/>
   </entry>
 
   <entry>
