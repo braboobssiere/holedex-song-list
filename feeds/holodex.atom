@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-17T14:56:16.109Z</updated>
+  <updated>2026-05-17T15:26:24.156Z</updated>
+
+  <entry>
+    <id>urn:uuid:086d7288-3de0-528d-bfc5-a9a6dfca5798</id>
+    <title><![CDATA[Miracle Palette (Instrumental)]]></title>
+    <link href="https://youtu.be/df2yMS7uZCw" rel="alternate" type="text/html"/>
+    <published>2026-05-17T15:00:37.000Z</published>
+    <updated>2026-05-17T15:00:37.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=df2yMS7uZCw 【LIVE on &lt;t:1779030037:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/df2yMS7uZCw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fc0894a0-cd1a-524e-9df5-530c0f54911b</id>
+    <title><![CDATA[Miracle Palette]]></title>
+    <link href="https://youtu.be/STg1B8CXzk4" rel="alternate" type="text/html"/>
+    <published>2026-05-17T15:00:01.000Z</published>
+    <updated>2026-05-17T15:00:01.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=STg1B8CXzk4 【LIVE on &lt;t:1779030001:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/STg1B8CXzk4/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:55e00f19-88af-50e4-9891-f07111399e8f</id>
@@ -1193,34 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xbeLllggJ0o 【LIVE on &lt;t:1775574289:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xbeLllggJ0o/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2fc0eb5d-88f9-562f-8dd2-6a248fb0fb37</id>
-    <title><![CDATA[暁闇エクスデス]]></title>
-    <link href="https://youtu.be/m1OU7NusKHI" rel="alternate" type="text/html"/>
-    <published>2026-04-07T15:04:11.000Z</published>
-    <updated>2026-04-07T15:04:11.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=m1OU7NusKHI 【LIVE on &lt;t:1775574251:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m1OU7NusKHI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f8ac00e0-4303-517f-a98b-a892431bb5ba</id>
-    <title><![CDATA[爆鳴DIVER!!!!]]></title>
-    <link href="https://youtu.be/o4HKUi4U1S4" rel="alternate" type="text/html"/>
-    <published>2026-04-07T15:03:57.000Z</published>
-    <updated>2026-04-07T15:03:57.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=o4HKUi4U1S4 【LIVE on &lt;t:1775574237:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/o4HKUi4U1S4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
