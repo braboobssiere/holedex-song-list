@@ -1,13 +1,14 @@
 [
   {
     "id": "bTxEGwMOQQI",
-    "title": "【??】 ??? || ???",
+    "title": "【ORIGINAL MV】 CCGG MADNESS || Cecilia Immergreen, Gigi Murin",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-05-17T02:18:06.000Z",
     "available_at": "2026-05-17T02:18:06.000Z",
     "duration": 185,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive-EN",
@@ -406,13 +407,35 @@
     }
   },
   {
+    "id": "3VJ8vx-dcTs",
+    "title": "【#3D】リアル対決に描き下ろしも!チョコザップコラボの魅力全部大公開!【 雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-05-13T12:01:26.000Z",
+    "available_at": "2026-05-13T10:59:59.000Z",
+    "duration": 3452,
+    "status": "past",
+    "live_tl_count": {
+      "en": 149
+    },
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "wddxHXk6aS0",
-    "title": "【歌枠】なんと！歌枠だ！【岸堂天真/ホロスターズ】",
+    "title": "【歌枠】なんと!歌枠だ!【岸堂天真/ホロスターズ】",
     "type": "stream",
     "topic_id": "singing",
-    "published_at": "2026-05-13T10:40:08.000Z",
+    "published_at": "2026-05-13T12:01:23.000Z",
     "available_at": "2026-05-13T10:45:35.000Z",
-    "duration": 3678,
+    "duration": 3673,
     "status": "past",
     "songcount": 8,
     "channel": {
@@ -443,28 +466,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Natsuiro Matsuri"
-    }
-  },
-  {
-    "id": "3VJ8vx-dcTs",
-    "title": "【#3D】リアル対決に描き下ろしも！チョコザップコラボの魅力全部大公開！【 雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-05-13T03:23:37.000Z",
-    "available_at": "2026-05-13T10:59:59.000Z",
-    "duration": 3452,
-    "status": "past",
-    "live_tl_count": {
-      "en": 149
-    },
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
     }
   },
   {
