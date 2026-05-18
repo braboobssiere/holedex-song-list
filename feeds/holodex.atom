@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-18T20:56:16.309Z</updated>
+  <updated>2026-05-18T21:26:20.178Z</updated>
 
   <entry>
     <id>urn:uuid:cbbdbec4-8bab-5758-925b-eaa258b24a0b</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:aed82f31-7e5c-5692-ac29-09187cfcc397</id>
+    <title><![CDATA[【 歌枠 】ホロライブという自覚を持ちながら歌います。【常闇トワ/ホロライブ】]]></title>
+    <link href="https://youtu.be/yJC-cGyshOg" rel="alternate" type="text/html"/>
+    <published>2026-05-16T14:13:01.000Z</published>
+    <updated>2026-05-16T13:00:56.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yJC-cGyshOg 【LIVE on &lt;t:1778936456:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yJC-cGyshOg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:f0fce48e-2e70-5e20-a5e2-16dc6dee0c0d</id>
     <title><![CDATA[【歌枠】光を捨てて世界を黒く染める【#宙月ティラ #Vsinger】]]></title>
     <link href="https://youtu.be/FbvNPBuJmlE" rel="alternate" type="text/html"/>
@@ -101,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FbvNPBuJmlE 【LIVE on &lt;t:1778929214:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FbvNPBuJmlE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aed82f31-7e5c-5692-ac29-09187cfcc397</id>
-    <title><![CDATA[【 歌枠 】ホロライブという自覚を持ちながら歌います。【常闇トワ/ホロライブ】]]></title>
-    <link href="https://youtu.be/yJC-cGyshOg" rel="alternate" type="text/html"/>
-    <published>2026-05-16T09:44:10.000Z</published>
-    <updated>2026-05-16T13:00:56.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yJC-cGyshOg 【LIVE on &lt;t:1778936456:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yJC-cGyshOg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
