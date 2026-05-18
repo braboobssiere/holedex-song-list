@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-18T11:26:23.495Z</updated>
+  <updated>2026-05-18T11:56:15.598Z</updated>
 
   <entry>
     <id>urn:uuid:086d7288-3de0-528d-bfc5-a9a6dfca5798</id>
@@ -202,6 +202,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d425733e-c122-565e-be93-561a8ccfd53f</id>
+    <title><![CDATA[【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ~‼【夏色まつり/鷹嶺ルイ/ホロライブ】]]></title>
+    <link href="https://youtu.be/tojEGz-odMc" rel="alternate" type="text/html"/>
+    <published>2026-05-14T10:46:44.000Z</published>
+    <updated>2026-05-14T09:00:53.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tojEGz-odMc 【LIVE on &lt;t:1778749253:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tojEGz-odMc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4989c794-7525-5c89-9e41-a9b6c29f369f</id>
     <title><![CDATA[決意のソラへ]]></title>
     <link href="https://youtu.be/RX9Fj6lsANo" rel="alternate" type="text/html"/>
@@ -227,20 +241,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jOxACBS-uOo 【LIVE on &lt;t:1778652026:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jOxACBS-uOo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d425733e-c122-565e-be93-561a8ccfd53f</id>
-    <title><![CDATA[【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ～‼【夏色まつり/鷹嶺ルイ/ホロライブ】]]></title>
-    <link href="https://youtu.be/tojEGz-odMc" rel="alternate" type="text/html"/>
-    <published>2026-05-12T18:17:21.000Z</published>
-    <updated>2026-05-14T09:00:53.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tojEGz-odMc 【LIVE on &lt;t:1778749253:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tojEGz-odMc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
