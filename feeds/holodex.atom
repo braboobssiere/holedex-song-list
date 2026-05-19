@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-19T05:26:28.682Z</updated>
+  <updated>2026-05-19T05:56:13.803Z</updated>
 
   <entry>
     <id>urn:uuid:9a721b27-e179-5956-bf0d-d8807449aad0</id>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bTxEGwMOQQI 【LIVE on &lt;t:1778984286:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bTxEGwMOQQI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3f348da4-4d63-51bf-8f38-0fa1f247766d</id>
+    <title><![CDATA[【3D LIVE】THE CCGG NETWORK PT. 1 #AUTOFISTNETWORK @holoen_ceciliaimmergreen]]></title>
+    <link href="https://youtu.be/JmnlnzBgMOc" rel="alternate" type="text/html"/>
+    <published>2026-05-17T01:48:10.000Z</published>
+    <updated>2026-05-17T01:01:02.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JmnlnzBgMOc 【LIVE on &lt;t:1778979662:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JmnlnzBgMOc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -395,20 +409,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aPSUhJaels0 【LIVE on &lt;t:1778982251:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aPSUhJaels0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3f348da4-4d63-51bf-8f38-0fa1f247766d</id>
-    <title><![CDATA[【3D LIVE】THE CCGG NETWORK PT. 1 #AUTOFISTNETWORK @holoen_ceciliaimmergreen]]></title>
-    <link href="https://youtu.be/JmnlnzBgMOc" rel="alternate" type="text/html"/>
-    <published>2026-05-10T23:17:11.000Z</published>
-    <updated>2026-05-17T01:01:02.000Z</updated>
-    <author>
-      <name>Gigi Murin Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JmnlnzBgMOc 【LIVE on &lt;t:1778979662:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JmnlnzBgMOc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
