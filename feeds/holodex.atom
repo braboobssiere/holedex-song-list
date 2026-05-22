@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-22T15:26:17.422Z</updated>
+  <updated>2026-05-22T15:56:12.336Z</updated>
+
+  <entry>
+    <id>urn:uuid:c542e7ec-a68e-584d-ba0f-cd7e0e47383b</id>
+    <title><![CDATA[【Karaoke 歌枠】A bit of singing before I sleep 寝る前にちょっとだけ歌う]]></title>
+    <link href="https://youtu.be/XtcbIwNE4JU" rel="alternate" type="text/html"/>
+    <published>2026-05-22T15:23:30.000Z</published>
+    <updated>2026-05-22T15:28:45.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XtcbIwNE4JU 【LIVE on &lt;t:1779463725:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XtcbIwNE4JU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:754d911f-50b6-5830-a413-f70ff0743b7c</id>
@@ -983,20 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UyBSQ4zoHrw 【LIVE on &lt;t:1776852006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UyBSQ4zoHrw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8c1e5590-8d84-581b-8427-e66455b9e13c</id>
-    <title><![CDATA[【歌枠 Singing】チルバラード歌枠【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
-    <link href="https://youtu.be/sYjDql19XwI" rel="alternate" type="text/html"/>
-    <published>2026-04-20T16:18:36.000Z</published>
-    <updated>2026-04-20T13:01:25.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=sYjDql19XwI 【LIVE on &lt;t:1776690085:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sYjDql19XwI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
