@@ -190,7 +190,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 5
+      "en": 7
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -625,25 +625,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "FbvNPBuJmlE",
-    "title": "【歌枠】光を捨てて世界を黒く染める【#宙月ティラ #Vsinger】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-16T12:15:02.000Z",
-    "available_at": "2026-05-16T11:00:14.000Z",
-    "duration": 3033,
-    "status": "past",
-    "channel": {
-      "id": "UCdQYcUyffHZoz0KOwuiG0lQ",
-      "name": "宙月ティラ",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VDswD8-12jSyMaZfnyFUKFZk7XpwAHh4jR_1foTzeNByuzRDRyY8GY3sVBiRS7YYmWdFEuHK=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Soraduki Tyra"
     }
   },
   {
@@ -2588,6 +2569,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "sYjDql19XwI",
+    "title": "【歌枠 Singing】チルバラード歌枠【一条莉々華/hololive DEV_IS ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-20T16:18:36.000Z",
+    "available_at": "2026-04-20T13:01:25.000Z",
+    "duration": 6255,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UCtyWhCj3AqKh2dXctLkDtng",
+      "name": "Ririka Ch. 一条莉々華 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ichijou Ririka"
     }
   },
   {
