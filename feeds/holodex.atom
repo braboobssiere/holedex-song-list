@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-23T09:56:25.952Z</updated>
+  <updated>2026-05-23T10:26:13.282Z</updated>
 
   <entry>
     <id>urn:uuid:403e27fc-4b57-525e-beed-5a695e661bb2</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XtcbIwNE4JU 【LIVE on &lt;t:1779463725:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XtcbIwNE4JU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:754d911f-50b6-5830-a413-f70ff0743b7c</id>
+    <title><![CDATA[【 ASMR /KU100 】お試しメンバー限定！５月病を吹き飛ばすASMR！みんなに元気あげる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/X3AadLUgub8" rel="alternate" type="text/html"/>
+    <published>2026-05-22T14:01:33.000Z</published>
+    <updated>2026-05-23T08:59:10.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=X3AadLUgub8 【LIVE on &lt;t:1779526750:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X3AadLUgub8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2243,20 +2257,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AlOdoA5eoTk 【LIVE on &lt;t:1756648813:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AlOdoA5eoTk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2dce92f-c162-5021-a0e8-562d6b64f0e1</id>
-    <title><![CDATA[[ASMR Teaser] Voicemail 001]]></title>
-    <link href="https://youtu.be/2iFAm4TkXDs" rel="alternate" type="text/html"/>
-    <published>2025-08-21T15:00:05.000Z</published>
-    <updated>2025-08-21T15:00:05.000Z</updated>
-    <author>
-      <name>Vain Ch.</name>
-      <uri>https://www.youtube.com/channel/UCiDSFTxFuXIzZkpzobjen4Q</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2iFAm4TkXDs 【LIVE on &lt;t:1755788405:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2iFAm4TkXDs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
