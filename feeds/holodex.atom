@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-25T14:56:15.845Z</updated>
+  <updated>2026-05-25T15:26:14.444Z</updated>
+
+  <entry>
+    <id>urn:uuid:8a80f6cc-ed4c-5b1c-9e50-548314aca572</id>
+    <title><![CDATA[お姉さま♡ラヴコール]]></title>
+    <link href="https://youtu.be/EvZwptR-jfY" rel="alternate" type="text/html"/>
+    <published>2026-05-25T15:00:32.000Z</published>
+    <updated>2026-05-25T15:00:32.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EvZwptR-jfY 【LIVE on &lt;t:1779721232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EvZwptR-jfY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e652f992-413e-5100-91df-32d7fce01343</id>
+    <title><![CDATA[お姉さま♡ラヴコール (Instrumental)]]></title>
+    <link href="https://youtu.be/znZ3AOEHlAE" rel="alternate" type="text/html"/>
+    <published>2026-05-25T15:00:04.000Z</published>
+    <updated>2026-05-25T15:00:04.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=znZ3AOEHlAE 【LIVE on &lt;t:1779721204:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/znZ3AOEHlAE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:35b9ca08-388a-5516-9b0e-1f5f4d6382c7</id>
@@ -1249,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PjxPbRNAveM 【LIVE on &lt;t:1776179009:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PjxPbRNAveM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a96a2682-9d94-5d52-be1d-4ac363e41879</id>
-    <title><![CDATA[【original】「ゎ」/癒月ちょこ【ホロライブ】]]></title>
-    <link href="https://youtu.be/UVaN5DI_YYs" rel="alternate" type="text/html"/>
-    <published>2026-04-14T11:00:06.000Z</published>
-    <updated>2026-04-14T11:00:06.000Z</updated>
-    <author>
-      <name>Choco Ch. 癒月ちょこ</name>
-      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UVaN5DI_YYs 【LIVE on &lt;t:1776164406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UVaN5DI_YYs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
