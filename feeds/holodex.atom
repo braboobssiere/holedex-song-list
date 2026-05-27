@@ -3,19 +3,33 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-27T09:56:18.482Z</updated>
+  <updated>2026-05-27T10:26:18.587Z</updated>
+
+  <entry>
+    <id>urn:uuid:8e1ffd9a-3280-5b68-a840-62b7d7fe7ccd</id>
+    <title><![CDATA[electrify my heart ah ah ah oh oh oh ohoh | SINGLE SONG KARAOKE]]></title>
+    <link href="https://youtu.be/2EX7ysQJArU" rel="alternate" type="text/html"/>
+    <published>2026-05-27T10:20:10.000Z</published>
+    <updated>2026-05-27T10:20:33.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2EX7ysQJArU 【LIVE on &lt;t:1779877233:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2EX7ysQJArU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b66b4af4-548a-54c3-a3a8-84674c9148cd</id>
     <title><![CDATA[【#NELLマットレス】癒月ちょこのNELLラジ放送!団長と一緒にうたた寝風に!?【癒月ちょこ/白銀ノエル】]]></title>
     <link href="https://youtu.be/4BBGP5zwTBI" rel="alternate" type="text/html"/>
     <published>2026-05-27T03:44:03.000Z</published>
-    <updated>2026-05-27T10:00:00.000Z</updated>
+    <updated>2026-05-27T09:57:31.000Z</updated>
     <author>
       <name>Choco Ch. 癒月ちょこ</name>
       <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=4BBGP5zwTBI 【LIVE on &lt;t:1779876000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4BBGP5zwTBI 【LIVE on &lt;t:1779875851:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4BBGP5zwTBI/maxresdefault.jpg"/>
   </entry>
 
@@ -1067,20 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=PGppUhILuP4 【LIVE on &lt;t:1777118435:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PGppUhILuP4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:369d719f-7229-5d50-9d22-bd677e006cdc</id>
-    <title><![CDATA[【歌枠】アニソン歌って上がる歌枠~~!!!【 ホロライブ / 大神ミオ 】]]></title>
-    <link href="https://youtu.be/WZEfe3uT0uE" rel="alternate" type="text/html"/>
-    <published>2026-04-25T09:11:32.000Z</published>
-    <updated>2026-04-25T08:11:46.000Z</updated>
-    <author>
-      <name>Mio Channel 大神ミオ</name>
-      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WZEfe3uT0uE 【LIVE on &lt;t:1777104706:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WZEfe3uT0uE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
