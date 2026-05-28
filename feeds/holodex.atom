@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-28T08:56:12.751Z</updated>
+  <updated>2026-05-28T09:26:21.503Z</updated>
+
+  <entry>
+    <id>urn:uuid:392a4b0d-f688-58a5-9981-a4666228a378</id>
+    <title><![CDATA[electrify my heart ah ah ah oh oh oh ohoh | SINGLE SONG KARAOKE REBROADCAST]]></title>
+    <link href="https://youtu.be/KPBE4inypFk" rel="alternate" type="text/html"/>
+    <published>2026-05-28T09:03:12.000Z</published>
+    <updated>2026-05-28T09:04:19.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KPBE4inypFk 【LIVE on &lt;t:1779959059:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KPBE4inypFk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bff53e45-48eb-5b70-a3c9-adebfa3c4b2c</id>
@@ -1011,20 +1025,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=V1yGuLLbHJo 【LIVE on &lt;t:1777464116:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/V1yGuLLbHJo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:29c81294-c4ce-5a7d-a2fa-5c3aa7a8f81a</id>
-    <title><![CDATA[【歌枠/KARAOKE】春はJ-POP?ボカロ?まったりしながら今週もがんばろ🎶【尾丸ポルカ/ホロライブ】]]></title>
-    <link href="https://youtu.be/kpL7afPk0TA" rel="alternate" type="text/html"/>
-    <published>2026-04-27T15:19:07.000Z</published>
-    <updated>2026-04-27T13:07:47.000Z</updated>
-    <author>
-      <name>Polka Ch. 尾丸ポルカ</name>
-      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kpL7afPk0TA 【LIVE on &lt;t:1777295267:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kpL7afPk0TA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
