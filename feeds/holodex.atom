@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-28T16:26:17.103Z</updated>
+  <updated>2026-05-28T16:56:11.441Z</updated>
+
+  <entry>
+    <id>urn:uuid:63d73034-bc82-59b9-8978-5bb6942d9fe9</id>
+    <title><![CDATA[CCGG MADNESS]]></title>
+    <link href="https://youtu.be/IawWM4HHD1w" rel="alternate" type="text/html"/>
+    <published>2026-05-28T15:03:57.000Z</published>
+    <updated>2026-05-28T15:03:57.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IawWM4HHD1w 【LIVE on &lt;t:1779980637:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IawWM4HHD1w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f659513d-d7b4-5ae9-8814-110049c33fb0</id>
+    <title><![CDATA[CCGG MADNESS (Instrumental)]]></title>
+    <link href="https://youtu.be/BrMBUuWWAjg" rel="alternate" type="text/html"/>
+    <published>2026-05-28T15:02:36.000Z</published>
+    <updated>2026-05-28T15:02:36.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BrMBUuWWAjg 【LIVE on &lt;t:1779980556:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BrMBUuWWAjg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:392a4b0d-f688-58a5-9981-a4666228a378</id>
@@ -1291,34 +1319,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ApL3K5KccV8 【LIVE on &lt;t:1776330006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ApL3K5KccV8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:010cb1c5-8bfa-5b75-91e9-04a24168719b</id>
-    <title><![CDATA[「ゎ」]]></title>
-    <link href="https://youtu.be/_EsXxQDyZCo" rel="alternate" type="text/html"/>
-    <published>2026-04-14T15:03:55.000Z</published>
-    <updated>2026-04-14T15:03:55.000Z</updated>
-    <author>
-      <name>Choco Ch. 癒月ちょこ</name>
-      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_EsXxQDyZCo 【LIVE on &lt;t:1776179035:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_EsXxQDyZCo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2aec2d53-c014-571f-8304-73c85a367c2d</id>
-    <title><![CDATA[「ゎ」 (Instrumental)]]></title>
-    <link href="https://youtu.be/PjxPbRNAveM" rel="alternate" type="text/html"/>
-    <published>2026-04-14T15:03:29.000Z</published>
-    <updated>2026-04-14T15:03:29.000Z</updated>
-    <author>
-      <name>Choco Ch. 癒月ちょこ</name>
-      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PjxPbRNAveM 【LIVE on &lt;t:1776179009:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PjxPbRNAveM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
