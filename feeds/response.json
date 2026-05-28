@@ -19,25 +19,6 @@
     }
   },
   {
-    "id": "UdH4oURm_zk",
-    "title": "【ギャ。】ーギャルが歌う理由についてー【 #UNIT_B / 宵凪ネオン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-28T05:52:04.000Z",
-    "available_at": "2026-05-28T10:58:34.000Z",
-    "duration": 0,
-    "status": "live",
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
     "id": "Kr2lbQwHQeY",
     "title": "【Original Song MV】Way 2 U - Ouro Kronii",
     "type": "stream",
@@ -214,13 +195,13 @@
   },
   {
     "id": "ARlSu8ZP1aE",
-    "title": "【#リオナ生誕祭36時】そらリオ3D歌枠🎤【ホロライブ DEV_IS 響咲リオナ】",
+    "title": "【#リオナ生誕祭３６時】そらリオ３D歌枠🎤【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-05-26T12:32:46.000Z",
     "available_at": "2026-05-28T11:13:39.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3854,
+    "status": "past",
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2574,6 +2555,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "FT3ao0iDlxU",
+    "title": "【歌枠 / karaoke】うたいづくせ! / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-04-28T16:24:39.000Z",
+    "available_at": "2026-04-28T14:04:31.000Z",
+    "duration": 6900,
+    "status": "past",
+    "songcount": 23,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
