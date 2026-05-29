@@ -624,9 +624,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-05-22T11:18:02.000Z",
-    "available_at": "2026-05-29T11:00:00.000Z",
+    "available_at": "2026-05-29T10:57:51.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
