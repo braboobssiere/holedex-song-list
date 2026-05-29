@@ -1,5 +1,24 @@
 [
   {
+    "id": "f8BtL7bxj9s",
+    "title": "【Original】Ring my name / 響咲リオナ【Official MV】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-05-29T11:55:06.000Z",
+    "available_at": "2026-05-29T11:55:06.000Z",
+    "duration": 178,
+    "status": "past",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "AIU2-ZH4pf0",
     "title": "CHILL SONGS ONLY【UNARCHIVED KARAOKE】",
     "type": "stream",
@@ -19,33 +38,14 @@
     }
   },
   {
-    "id": "f8BtL7bxj9s",
-    "title": "【Original】Ring my name / 響咲リオナ【Official MV】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-05-29T08:52:24.000Z",
-    "available_at": "2026-05-29T11:55:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
     "id": "8MCgzq_ekkw",
     "title": "【歌枠】みんなに告知したいことがあります!!聞いてください!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-05-28T20:52:21.000Z",
-    "available_at": "2026-05-29T12:00:00.000Z",
+    "available_at": "2026-05-29T12:00:19.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -663,10 +663,10 @@
     "topic_id": "Birthday",
     "published_at": "2026-05-22T11:18:02.000Z",
     "available_at": "2026-05-29T10:57:51.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3427,
+    "status": "past",
     "live_tl_count": {
-      "en": 63
+      "en": 65
     },
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
