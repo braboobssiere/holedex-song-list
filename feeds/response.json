@@ -1,5 +1,24 @@
 [
   {
+    "id": "5SR6fNC5wQ0",
+    "title": "【 3D LIVE 】THE ONE & ONLY 振り返り配信✨【 #⁠響咲リオナ生誕祭2026】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-30T03:14:02.000Z",
+    "available_at": "2026-05-30T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
+    }
+  },
+  {
     "id": "f8BtL7bxj9s",
     "title": "【Original】Ring my name / 響咲リオナ【Official MV】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2026-05-29T11:55:06.000Z",
     "duration": 178,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -26,7 +46,10 @@
     "published_at": "2026-05-29T11:45:45.000Z",
     "available_at": "2026-05-30T01:02:56.000Z",
     "duration": 0,
-    "status": "live",
+    "status": "missing",
+    "live_tl_count": {
+      "en": 12
+    },
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -4480,29 +4503,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "qqi8yXuH35Y",
-    "title": "【3D Birthday Live + New Outfit】The Goddess Descends #krorigin",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-03-14T03:18:03.000Z",
-    "available_at": "2026-03-14T02:00:15.000Z",
-    "duration": 4282,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "ja": 6
-    },
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
