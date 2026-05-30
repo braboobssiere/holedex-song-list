@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-30T14:56:12.404Z</updated>
+  <updated>2026-05-30T15:26:11.218Z</updated>
+
+  <entry>
+    <id>urn:uuid:5745d6a8-f99d-5b3e-bd78-0cce431a4b5c</id>
+    <title><![CDATA[Freaky Deaky Love (Instrumental)]]></title>
+    <link href="https://youtu.be/lYkYvuVBR7Q" rel="alternate" type="text/html"/>
+    <published>2026-05-30T15:00:33.000Z</published>
+    <updated>2026-05-30T15:00:33.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lYkYvuVBR7Q 【LIVE on &lt;t:1780153233:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lYkYvuVBR7Q/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0d107d65-5715-5e6b-84c1-f977549630c1</id>
+    <title><![CDATA[Freaky Deaky Love]]></title>
+    <link href="https://youtu.be/TImWAPjYWfA" rel="alternate" type="text/html"/>
+    <published>2026-05-30T15:00:21.000Z</published>
+    <updated>2026-05-30T15:00:21.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TImWAPjYWfA 【LIVE on &lt;t:1780153221:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TImWAPjYWfA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:57dc34b5-4dfd-5e61-9722-be82c9f437eb</id>
@@ -1308,20 +1336,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:803f0cd0-cf7d-5e63-90e1-6d13d31f9303</id>
-    <title><![CDATA[BEEP BEEP / Hoshimatic Project (official)]]></title>
-    <link href="https://youtu.be/kPqmld3_lSs" rel="alternate" type="text/html"/>
-    <published>2026-04-17T12:00:06.000Z</published>
-    <updated>2026-04-17T12:00:06.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kPqmld3_lSs 【LIVE on &lt;t:1776427206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kPqmld3_lSs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:d59e452a-3e5a-576c-921d-235cdcce2a69</id>
     <title><![CDATA[【ギター練習】ゆるゆるぎた~~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/LH96HKaQ7qo" rel="alternate" type="text/html"/>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=LH96HKaQ7qo 【LIVE on &lt;t:1776340971:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH96HKaQ7qo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9ef6c18a-7dc8-5889-8616-81f71c487f8c</id>
-    <title><![CDATA[お人形 / 赤井はあと (official)]]></title>
-    <link href="https://youtu.be/ApL3K5KccV8" rel="alternate" type="text/html"/>
-    <published>2026-04-16T09:00:06.000Z</published>
-    <updated>2026-04-16T09:00:06.000Z</updated>
-    <author>
-      <name>HAACHAMA Ch 赤井はあと</name>
-      <uri>https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ApL3K5KccV8 【LIVE on &lt;t:1776330006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ApL3K5KccV8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
