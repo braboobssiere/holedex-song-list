@@ -155,6 +155,26 @@
     }
   },
   {
+    "id": "8MCgzq_ekkw",
+    "title": "【歌枠】みんなに告知したいことがあります!!聞いてください!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-05-29T13:32:04.000Z",
+    "available_at": "2026-05-29T12:00:19.000Z",
+    "duration": 5047,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
+    }
+  },
+  {
     "id": "gvGDJyWKHbk",
     "title": "【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】",
     "type": "stream",
@@ -217,26 +237,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "8MCgzq_ekkw",
-    "title": "【歌枠】みんなに告知したいことがあります！！聞いてください！！！ Singing Stream🎤🎶【角巻わため/ホロライブ４期生】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-28T20:52:21.000Z",
-    "available_at": "2026-05-29T12:00:19.000Z",
-    "duration": 5068,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
-      "name": "Watame Ch. 角巻わため",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -3228,7 +3228,7 @@
     "published_at": "2026-04-17T15:04:24.000Z",
     "available_at": "2026-04-17T15:04:24.000Z",
     "duration": 223,
-    "status": "past",
+    "status": "missing",
     "songcount": 1,
     "original_channel_id": "UCSizuuBcBPqwLMrVFTuIfVg",
     "channel": {

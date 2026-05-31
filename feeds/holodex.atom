@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-05-31T07:26:21.660Z</updated>
+  <updated>2026-05-31T07:56:12.216Z</updated>
 
   <entry>
     <id>urn:uuid:4dd5065a-7737-586c-95c0-ed4c6dc37b51</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6067fefd-4ed7-5ba0-b9cb-2baaef5538c8</id>
+    <title><![CDATA[【歌枠】みんなに告知したいことがあります!!聞いてください!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/8MCgzq_ekkw" rel="alternate" type="text/html"/>
+    <published>2026-05-29T13:32:04.000Z</published>
+    <updated>2026-05-29T12:00:19.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8MCgzq_ekkw 【LIVE on &lt;t:1780056019:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8MCgzq_ekkw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:be34a17e-91eb-537f-86ec-bb8910ef794b</id>
     <title><![CDATA[【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】]]></title>
     <link href="https://youtu.be/gvGDJyWKHbk" rel="alternate" type="text/html"/>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=f8BtL7bxj9s 【LIVE on &lt;t:1780055706:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/f8BtL7bxj9s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6067fefd-4ed7-5ba0-b9cb-2baaef5538c8</id>
-    <title><![CDATA[【歌枠】みんなに告知したいことがあります！！聞いてください！！！ Singing Stream🎤🎶【角巻わため/ホロライブ４期生】]]></title>
-    <link href="https://youtu.be/8MCgzq_ekkw" rel="alternate" type="text/html"/>
-    <published>2026-05-28T20:52:21.000Z</published>
-    <updated>2026-05-29T12:00:19.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8MCgzq_ekkw 【LIVE on &lt;t:1780056019:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8MCgzq_ekkw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1277,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HTDbJmNy03U 【LIVE on &lt;t:1776515561:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HTDbJmNy03U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a83941dc-362f-51f3-9827-d60b35523dcb</id>
-    <title><![CDATA[GET THE CROWN (Instrumental)]]></title>
-    <link href="https://youtu.be/vAD1-zSpo-I" rel="alternate" type="text/html"/>
-    <published>2026-04-17T15:04:24.000Z</published>
-    <updated>2026-04-17T15:04:24.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vAD1-zSpo-I 【LIVE on &lt;t:1776438264:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vAD1-zSpo-I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
