@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-04T10:31:20.000Z",
-    "available_at": "2026-06-04T11:00:00.000Z",
+    "available_at": "2026-06-04T11:05:24.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1suqwovbL1kzsoaZgFZLKg",
       "name": "Choco Ch. 癒月ちょこ",
@@ -58,13 +58,13 @@
   },
   {
     "id": "jXLfAeRkc8w",
-    "title": "【弾き語り歌枠】最後の歌枠リレー!【律可/ホロスターズ】#Vtuber弾き語リレー",
+    "title": "【弾き語り歌枠】最後の歌枠リレー！【律可/ホロスターズ】#Vtuber弾き語リレー",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-03T08:45:32.000Z",
     "available_at": "2026-06-04T10:27:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2000,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
