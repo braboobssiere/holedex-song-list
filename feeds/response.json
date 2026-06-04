@@ -1,7 +1,26 @@
 [
   {
+    "id": "VRmkl5pNBD0",
+    "title": "【歌枠】滅びのバーストストリーム📣 【ホロライブ/癒月ちょこ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-04T10:31:20.000Z",
+    "available_at": "2026-06-04T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yuzuki Choco"
+    }
+  },
+  {
     "id": "tVGtua2YaWs",
-    "title": "【夜のお供に】今日はチルい感じでいくよ〜!【 #UNIT_B / #宵凪ネオン】",
+    "title": "【夜の歌枠】今日はチルい感じでいくよ〜!【 #UNIT_B / #宵凪ネオン】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-04T06:19:05.000Z",
@@ -43,9 +62,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-03T08:45:32.000Z",
-    "available_at": "2026-06-04T10:30:00.000Z",
+    "available_at": "2026-06-04T10:27:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -58,13 +77,13 @@
   },
   {
     "id": "XFfKSDzUfA0",
-    "title": "【3Dオフコラボ】犬猿の仲ですから(笑)ドキドキなんかしないですけど(笑)【ちはニコ】",
+    "title": "【３Dオフコラボ】犬猿の仲ですから(笑)ドキドキなんかしないですけど（笑）【ちはニコ】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-06-03T08:14:39.000Z",
     "available_at": "2026-06-04T09:52:40.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3415,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -2603,25 +2622,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "K5tAD9J2kU8",
-    "title": "【 ARCHIVED KARAOKE】who want me? 👀👇#LMK ! 💯 | 1st Karaoke in New Japan Apartment!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-04T01:55:56.000Z",
-    "available_at": "2026-05-03T01:37:56.000Z",
-    "duration": 11844,
-    "status": "past",
-    "channel": {
-      "id": "UC060r4zABV18vcahAWR1n7w",
-      "name": "Machina X Flayon Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Iqey4d65X8ZWvYVCSY_xkdzdDMcw1wSESqTenq3Lk6a0nUhwPe7csjYFT5rbAhIxnUFkpQl2=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Machina X Flayon"
     }
   },
   {
