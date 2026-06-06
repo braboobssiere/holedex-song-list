@@ -1,32 +1,13 @@
 [
   {
-    "id": "j09pTJ-7uJ4",
-    "title": "【 同時視聴  】ホロガチオタと見る!#角巻わため生誕祭2026  同時視聴 【  #ホロライブ #同時視聴 #角巻わため  】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-06-06T10:46:48.000Z",
-    "available_at": "2026-06-06T11:45:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCDJA7L_fC9ix9YrknyeU0BQ",
-      "name": "nemuCh. 音夢多 ねむね",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2S_W9BYtjUulNKC4hM_poG4dOwNqJCTlxL03vrwKDeR4nX36IJVM5sFRm_swcYEQN_xZBwuuVw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nemuta Nemune"
-    }
-  },
-  {
     "id": "u4Ek89T0o-M",
     "title": "【明日は誕生日】ソワソワ....!!【轟はじめ/ReGLOSS】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-06T10:11:23.000Z",
-    "available_at": "2026-06-06T11:00:00.000Z",
+    "available_at": "2026-06-06T11:01:04.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -46,6 +27,9 @@
     "available_at": "2026-06-06T10:02:02.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -81,9 +65,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-06T07:04:22.000Z",
-    "available_at": "2026-06-06T11:10:00.000Z",
+    "available_at": "2026-06-06T11:11:56.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -158,8 +142,8 @@
     "topic_id": "singing",
     "published_at": "2026-06-06T03:57:11.000Z",
     "available_at": "2026-06-06T09:59:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4866,
+    "status": "past",
     "channel": {
       "id": "UC9mf_ZVpouoILRY9NUIaK-w",
       "name": "Rikka ch.律可",
@@ -4675,6 +4659,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "ait1rQSbclU",
+    "title": "【 #博衣こより生誕祭2026 】アポ無し凸待ち‼7人来ないと✨超重大告知✨できません!????????告知3つ!!告知時ゲストも!?【博衣こより/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-03-15T14:52:05.000Z",
+    "available_at": "2026-03-15T10:50:09.000Z",
+    "duration": 13535,
+    "status": "past",
+    "live_tl_count": {
+      "en": 140
+    },
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
