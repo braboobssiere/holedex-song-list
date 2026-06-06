@@ -5,28 +5,9 @@
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2026-06-06T09:11:35.000Z",
-    "available_at": "2026-06-06T10:00:00.000Z",
+    "available_at": "2026-06-06T09:31:58.000Z",
     "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "nhJU4eo9_DU",
-    "title": "【人生初】エレキギターを買いに行きます。【#輪堂千速 / #hololivedev_is #FLOWGLOW 】】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2026-06-06T09:00:07.000Z",
-    "available_at": "2026-06-06T09:00:07.000Z",
-    "duration": 1009,
-    "status": "past",
+    "status": "live",
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -82,8 +63,8 @@
     "topic_id": "singing",
     "published_at": "2026-06-06T06:50:59.000Z",
     "available_at": "2026-06-06T08:58:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2851,
+    "status": "past",
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -6955,6 +6936,27 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "k26xlhHvUXo",
+    "title": "【ご本人降臨www】星街すいせい☄️と生歌ピアノで奇跡のコラボ‼️「♪ビビデバ」を含むボカロ神メドレーを生歌唱【ホロライブ/suisei/hololive/Bibideba/千本桜/シャルル/天ノ弱】",
+    "type": "stream",
+    "topic_id": "Musical_Instrument",
+    "published_at": "2024-08-10T10:00:06.000Z",
+    "available_at": "2024-08-10T10:00:06.000Z",
+    "duration": 772,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCr4fZBNv69P-09f98l7CshA",
+    "channel": {
+      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel",
+      "org": "Hololive",
+      "suborg": "0x0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hoshimachi Suisei"
     }
   }
 ]

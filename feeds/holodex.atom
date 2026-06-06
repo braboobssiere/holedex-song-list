@@ -3,34 +3,20 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-06T09:26:18.972Z</updated>
+  <updated>2026-06-06T09:56:23.645Z</updated>
 
   <entry>
     <id>urn:uuid:a20e14ae-0baa-58ac-b1c9-b4a3a0c553a5</id>
     <title><![CDATA[【ギター練習】エレキデビューすっぞ!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/UiU3ptAdzHU" rel="alternate" type="text/html"/>
     <published>2026-06-06T09:11:35.000Z</published>
-    <updated>2026-06-06T10:00:00.000Z</updated>
+    <updated>2026-06-06T09:31:58.000Z</updated>
     <author>
       <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780740000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780738318:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UiU3ptAdzHU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0c2f9de0-fcc7-568d-9584-07744b292f49</id>
-    <title><![CDATA[【人生初】エレキギターを買いに行きます。【#輪堂千速 / #hololivedev_is #FLOWGLOW 】】]]></title>
-    <link href="https://youtu.be/nhJU4eo9_DU" rel="alternate" type="text/html"/>
-    <published>2026-06-06T09:00:07.000Z</published>
-    <updated>2026-06-06T09:00:07.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nhJU4eo9_DU 【LIVE on &lt;t:1780736407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nhJU4eo9_DU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -2509,5 +2495,19 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0iJfc7DZqHo 【LIVE on &lt;t:1723467727:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0iJfc7DZqHo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cf6c9e73-20df-58d5-9ae2-5a94a4a986b8</id>
+    <title><![CDATA[【ご本人降臨www】星街すいせい☄️と生歌ピアノで奇跡のコラボ‼️「♪ビビデバ」を含むボカロ神メドレーを生歌唱【ホロライブ/suisei/hololive/Bibideba/千本桜/シャルル/天ノ弱】]]></title>
+    <link href="https://youtu.be/k26xlhHvUXo" rel="alternate" type="text/html"/>
+    <published>2024-08-10T10:00:06.000Z</published>
+    <updated>2024-08-10T10:00:06.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=k26xlhHvUXo 【LIVE on &lt;t:1723284006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/k26xlhHvUXo/maxresdefault.jpg"/>
   </entry>
 </feed>
