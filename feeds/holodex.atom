@@ -3,7 +3,49 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-06T07:56:20.953Z</updated>
+  <updated>2026-06-06T08:26:16.321Z</updated>
+
+  <entry>
+    <id>urn:uuid:32fe3223-7dfd-5a70-abf8-3e3c9ff8f746</id>
+    <title><![CDATA[【ライラの枠】収益化記念!歌枠リレー!【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/zSmwIonV55U" rel="alternate" type="text/html"/>
+    <published>2026-06-06T07:04:22.000Z</published>
+    <updated>2026-06-06T11:00:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zSmwIonV55U 【LIVE on &lt;t:1780743600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zSmwIonV55U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:22e8eb49-454c-5d2c-ba6a-744d6d88e13d</id>
+    <title><![CDATA[【ミラの枠】収益化記念!歌枠リレー!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/qliKuM5K2hg" rel="alternate" type="text/html"/>
+    <published>2026-06-06T07:01:24.000Z</published>
+    <updated>2026-06-06T10:00:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qliKuM5K2hg 【LIVE on &lt;t:1780740000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qliKuM5K2hg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1b68afbc-b101-5754-b787-ba4d8d46a38f</id>
+    <title><![CDATA[【ネオンの枠】収益化記念!歌枠リレー!【 #UNIT_B / #宵凪ネオン】]]></title>
+    <link href="https://youtu.be/-Cm4Zjy4YgY" rel="alternate" type="text/html"/>
+    <published>2026-06-06T06:50:59.000Z</published>
+    <updated>2026-06-06T09:00:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-Cm4Zjy4YgY 【LIVE on &lt;t:1780736400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-Cm4Zjy4YgY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:15028497-fa05-5252-82b1-0353379098e0</id>
@@ -1028,20 +1070,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:f0afd3d1-a81b-5c56-a226-0f5266cf5a54</id>
-    <title><![CDATA[【歌枠】告知あり!第134回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/fAcT-LezxAY" rel="alternate" type="text/html"/>
-    <published>2026-05-05T17:38:09.000Z</published>
-    <updated>2026-05-05T13:02:47.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fAcT-LezxAY 【LIVE on &lt;t:1777986167:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fAcT-LezxAY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:efb9373e-2e9d-5081-a9f2-3cda9d212600</id>
     <title><![CDATA[ときのそら「Dream☆Story」(8th Anniversary Party「Starry Bl∞min'」Live at CLUB CITTA 2025.10.02)]]></title>
     <link href="https://youtu.be/Hco85QAF9FA" rel="alternate" type="text/html"/>
@@ -1053,20 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Hco85QAF9FA 【LIVE on &lt;t:1777975207:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Hco85QAF9FA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:22ab7eef-6212-5b64-8edb-87517ff46b78</id>
-    <title><![CDATA[【歌枠】GWって最強だ。【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/DX139lPvzv0" rel="alternate" type="text/html"/>
-    <published>2026-05-05T03:16:07.000Z</published>
-    <updated>2026-05-05T01:26:13.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DX139lPvzv0 【LIVE on &lt;t:1777944373:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DX139lPvzv0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
