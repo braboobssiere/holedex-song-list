@@ -1,5 +1,24 @@
 [
   {
+    "id": "rUznWz2anLk",
+    "title": "【弾き語り】おやすみ前に1曲聴いていきませんか?【 #UNIT_B / #清澄ライラ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-07T10:58:07.000Z",
+    "available_at": "2026-06-07T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
+    }
+  },
+  {
     "id": "SL0Nj1Dp8Ig",
     "title": "【 雑談。たまにオリ曲歌枠 】最近は防災グッズと夏対策にはまってます【ホロライブ/ときのそら】",
     "type": "stream",
@@ -584,6 +603,9 @@
     "available_at": "2026-06-07T10:53:17.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 35
+    },
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -2617,26 +2639,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/hoR2TgfGwUZ4mbNY07Ygu88wPLY0JcArmFKZDTwaPOtJmK78gdIg3dmp87NZM8SRBCpxlv02hg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takane Lui"
-    }
-  },
-  {
-    "id": "972c2QVi2wE",
-    "title": "【歌枠】ゆるっとおしゃべりしながらカラオケ~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-10T15:18:31.000Z",
-    "available_at": "2026-05-10T12:00:41.000Z",
-    "duration": 10014,
-    "status": "past",
-    "songcount": 23,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
