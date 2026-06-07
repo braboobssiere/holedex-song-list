@@ -6,10 +6,10 @@
     "topic_id": "singing",
     "published_at": "2026-06-07T06:34:47.000Z",
     "available_at": "2026-06-07T07:02:24.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9215,
+    "status": "past",
     "live_tl_count": {
-      "en": 172,
+      "en": 200,
       "ko": 76
     },
     "channel": {
@@ -322,6 +322,25 @@
     }
   },
   {
+    "id": "jw4MistTJbU",
+    "title": "【誕生日を迎えるだけ】 みんなが愛する日常 ♪ / アステル",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-05T17:20:04.000Z",
+    "available_at": "2026-06-05T14:47:13.000Z",
+    "duration": 8765,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "NaAQeNBKEp4",
     "title": "【誕生日カウントダウン】6/6は、わためのお誕生日!なんと告知もあります!【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -357,25 +376,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "jw4MistTJbU",
-    "title": "【誕生日を迎えるだけ】 みんなが愛する日常 ♪ / アステル",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-06-05T13:49:35.000Z",
-    "available_at": "2026-06-05T14:47:13.000Z",
-    "duration": 8768,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
