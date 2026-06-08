@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-08T03:56:21.030Z</updated>
+  <updated>2026-06-08T04:26:19.300Z</updated>
 
   <entry>
     <id>urn:uuid:44c45586-8e49-5a92-9288-9a360f8773e1</id>
@@ -146,6 +146,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:15028497-fa05-5252-82b1-0353379098e0</id>
+    <title><![CDATA[【歌枠】かかぽと最後のコラボ!一緒にカラオケするぞー!!【儒烏風亭らでん #ReGLOSS 】]]></title>
+    <link href="https://youtu.be/Ywgr33dovHI" rel="alternate" type="text/html"/>
+    <published>2026-06-06T12:34:25.000Z</published>
+    <updated>2026-06-06T10:00:25.000Z</updated>
+    <author>
+      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ywgr33dovHI 【LIVE on &lt;t:1780740025:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ywgr33dovHI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a20e14ae-0baa-58ac-b1c9-b4a3a0c553a5</id>
+    <title><![CDATA[【ギター練習】エレキデビューすっぞ!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/UiU3ptAdzHU" rel="alternate" type="text/html"/>
+    <published>2026-06-06T11:49:31.000Z</published>
+    <updated>2026-06-06T09:31:58.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780738318:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UiU3ptAdzHU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:22e8eb49-454c-5d2c-ba6a-744d6d88e13d</id>
     <title><![CDATA[【ミラの枠】収益化記念!歌枠リレー!【 #UNIT_B / #玲銘ミラ】]]></title>
     <link href="https://youtu.be/qliKuM5K2hg" rel="alternate" type="text/html"/>
@@ -157,6 +185,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qliKuM5K2hg 【LIVE on &lt;t:1780740182:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qliKuM5K2hg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:78f27f20-8c80-5c5b-81b8-b1363b4648b1</id>
+    <title><![CDATA[【 歌枠】NO25.も、、、もう6月!???今日はリクエストからうたってみようかな///🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/5smn_hw7kcs" rel="alternate" type="text/html"/>
+    <published>2026-06-06T11:35:23.000Z</published>
+    <updated>2026-06-06T10:02:02.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5smn_hw7kcs 【LIVE on &lt;t:1780740122:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5smn_hw7kcs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -174,34 +216,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:78f27f20-8c80-5c5b-81b8-b1363b4648b1</id>
-    <title><![CDATA[【 歌枠】NO25.も、、、もう６月！？？？今日はリクエストからうたってみようかな///🎤ろぼめろでぃ～ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
-    <link href="https://youtu.be/5smn_hw7kcs" rel="alternate" type="text/html"/>
-    <published>2026-06-06T09:56:24.000Z</published>
-    <updated>2026-06-06T10:02:02.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5smn_hw7kcs 【LIVE on &lt;t:1780740122:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5smn_hw7kcs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a20e14ae-0baa-58ac-b1c9-b4a3a0c553a5</id>
-    <title><![CDATA[【ギター練習】エレキデビューすっぞ！！！！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】]]></title>
-    <link href="https://youtu.be/UiU3ptAdzHU" rel="alternate" type="text/html"/>
-    <published>2026-06-06T09:11:35.000Z</published>
-    <updated>2026-06-06T09:31:58.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780738318:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UiU3ptAdzHU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:32fe3223-7dfd-5a70-abf8-3e3c9ff8f746</id>
     <title><![CDATA[【ライラの枠】収益化記念！歌枠リレー！【 #UNIT_B / #清澄ライラ】]]></title>
     <link href="https://youtu.be/zSmwIonV55U" rel="alternate" type="text/html"/>
@@ -213,20 +227,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zSmwIonV55U 【LIVE on &lt;t:1780744316:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zSmwIonV55U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:15028497-fa05-5252-82b1-0353379098e0</id>
-    <title><![CDATA[【歌枠】かかぽと最後のコラボ！一緒にカラオケするぞー！！【儒烏風亭らでん #ReGLOSS 】]]></title>
-    <link href="https://youtu.be/Ywgr33dovHI" rel="alternate" type="text/html"/>
-    <published>2026-06-06T06:08:31.000Z</published>
-    <updated>2026-06-06T10:00:25.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Ywgr33dovHI 【LIVE on &lt;t:1780740025:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ywgr33dovHI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
