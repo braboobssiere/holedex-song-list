@@ -102,6 +102,26 @@
     }
   },
   {
+    "id": "rUznWz2anLk",
+    "title": "【弾き語り】おやすみ前に1曲聴いていきませんか?【 #UNIT_B / #清澄ライラ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-07T14:55:17.000Z",
+    "available_at": "2026-06-07T12:00:18.000Z",
+    "duration": 9863,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
+    }
+  },
+  {
     "id": "3KYUTeLy56Y",
     "title": "【 #アキロゼ8周年 】○○お願いしてみたらこうなった！？【アキロゼ/ホロライブ】",
     "type": "stream",
@@ -164,26 +184,6 @@
     }
   },
   {
-    "id": "rUznWz2anLk",
-    "title": "【弾き語り】おやすみ前に1曲聴いていきませんか？【 #UNIT_B / #清澄ライラ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-07T10:58:07.000Z",
-    "available_at": "2026-06-07T12:00:18.000Z",
-    "duration": 9932,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
     "id": "SL0Nj1Dp8Ig",
     "title": "【 雑談。たまにオリ曲歌枠 】最近は防災グッズと夏対策にはまってます【ホロライブ/ときのそら】",
     "type": "stream",
@@ -215,7 +215,7 @@
     "published_at": "2026-06-07T00:55:13.000Z",
     "available_at": "2026-06-07T13:01:02.000Z",
     "duration": 6520,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
