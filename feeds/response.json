@@ -19,6 +19,25 @@
     }
   },
   {
+    "id": "U05ofFK2hCo",
+    "title": "【余裕です】私は寝起きでも歌えます。【#UNIT_B / #清澄ライラ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-11T13:30:12.000Z",
+    "available_at": "2026-06-12T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
+    }
+  },
+  {
     "id": "zRfugM7ZT4M",
     "title": "Soar / 鷹嶺ルイ(official)",
     "type": "stream",
@@ -39,15 +58,15 @@
   },
   {
     "id": "nzeN_nNBndQ",
-    "title": "【ついに…!!!】告知あり歌枠🎤🐶✨",
+    "title": "【ついに…！！！】告知あり歌枠🎤🐶✨",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-11T11:21:03.000Z",
     "available_at": "2026-06-11T13:00:57.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4723,
+    "status": "past",
     "live_tl_count": {
-      "en": 72
+      "en": 108
     },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
@@ -61,13 +80,13 @@
   },
   {
     "id": "IFAa-cQxDwA",
-    "title": "【挑戦】色んな楽器を弾いてみたい!歌いたい!【 #UNIT_B / #宵凪ネオン】",
+    "title": "【挑戦】色んな楽器を弾いてみたい！歌いたい！【 #UNIT_B / #宵凪ネオン】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-11T07:06:34.000Z",
     "available_at": "2026-06-11T12:00:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7391,
+    "status": "past",
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -2684,26 +2703,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "wddxHXk6aS0",
-    "title": "【歌枠】なんと!歌枠だ!【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-13T12:01:23.000Z",
-    "available_at": "2026-05-13T10:45:35.000Z",
-    "duration": 3673,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
