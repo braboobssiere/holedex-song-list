@@ -1,13 +1,32 @@
 [
   {
+    "id": "YMYC-mVkrWM",
+    "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-12T10:02:28.000Z",
+    "available_at": "2026-06-12T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "cUZcGarMKnw",
     "title": "【 3D KARAOKE / 歌枠 】カラオケ屋に新衣装できた~~~!!沢山歌うぞ~~~!!!【鷹嶺ルイ/ホロライブ】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-12T04:47:31.000Z",
     "available_at": "2026-06-12T08:59:38.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3417,
+    "status": "past",
     "channel": {
       "id": "UCs9_O1tRPMQTHQ-N_L6FU2g",
       "name": "Lui ch. 鷹嶺ルイ - holoX -",
@@ -145,7 +164,7 @@
     "id": "IFAa-cQxDwA",
     "title": "【挑戦】色んな楽器を弾いてみたい！歌いたい！【 #UNIT_B / #宵凪ネオン】",
     "type": "stream",
-    "topic_id": "singing",
+    "topic_id": "Musical_Instrument",
     "published_at": "2026-06-11T07:06:34.000Z",
     "available_at": "2026-06-11T12:00:25.000Z",
     "duration": 7391,
@@ -6951,28 +6970,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "0iJfc7DZqHo",
-    "title": "【夜のまったり練習】ピアノの練習しようかな?【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "Musical_Instrument",
-    "published_at": "2024-08-12T16:20:42.000Z",
-    "available_at": "2024-08-12T13:02:07.000Z",
-    "duration": 11360,
-    "status": "past",
-    "live_tl_count": {
-      "en": 262
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   }
 ]
