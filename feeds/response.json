@@ -1,5 +1,24 @@
 [
   {
+    "id": "3NE9KUMKZH0",
+    "title": "Pls recommend songs to sing | UNARCHIVED KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-12T10:23:01.000Z",
+    "available_at": "2026-06-12T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "name": "Nerissa Ravencroft Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nerissa Ravencroft"
+    }
+  },
+  {
     "id": "YMYC-mVkrWM",
     "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
     "type": "stream",
@@ -107,6 +126,7 @@
     "available_at": "2026-06-12T02:58:19.000Z",
     "duration": 7702,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -809,7 +829,7 @@
   },
   {
     "id": "NaAQeNBKEp4",
-    "title": "【誕生日カウントダウン】6/6は、わためのお誕生日！なんと告知もあります！【角巻わため/ホロライブ４期生】",
+    "title": "【誕生日カウントダウン】6/6は、わためのお誕生日!なんと告知もあります!【角巻わため/ホロライブ4期生】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-05T17:09:17.000Z",
@@ -2660,29 +2680,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yuzuki Choco"
-    }
-  },
-  {
-    "id": "nBcExqAmA5I",
-    "title": "【歌枠】リベンジするぞ~シェフの気まぐれBANを添えて~",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-14T14:57:04.000Z",
-    "available_at": "2026-05-14T13:00:19.000Z",
-    "duration": 6460,
-    "status": "past",
-    "songcount": 16,
-    "live_tl_count": {
-      "en": 176
-    },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
