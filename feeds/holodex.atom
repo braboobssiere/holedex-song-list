@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-13T04:26:38.990Z</updated>
+  <updated>2026-06-13T04:56:21.305Z</updated>
 
   <entry>
     <id>urn:uuid:13365774-7c3d-5c34-a6db-77bbc117e4a6</id>
@@ -129,6 +129,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U05ofFK2hCo 【LIVE on &lt;t:1781233099:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U05ofFK2hCo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e0417e83-fcee-502d-9767-3ab6d0e0c8bd</id>
+    <title><![CDATA[【3DLIVE】超重大告知アリ!3D新衣装お披露目!!『Luminous Stairs』【鷹嶺ルイ/ホロライブ】#鷹嶺ルイ超重大生誕LIVE]]></title>
+    <link href="https://youtu.be/T71ds94dnnM" rel="alternate" type="text/html"/>
+    <published>2026-06-11T12:07:44.000Z</published>
+    <updated>2026-06-11T10:52:56.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=T71ds94dnnM 【LIVE on &lt;t:1781175176:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T71ds94dnnM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -311,20 +325,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oJj9VybmzaE 【LIVE on &lt;t:1780833006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oJj9VybmzaE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e0417e83-fcee-502d-9767-3ab6d0e0c8bd</id>
-    <title><![CDATA[【3DLIVE】超重大告知アリ！3D新衣装お披露目！！『Luminous Stairs』【鷹嶺ルイ/ホロライブ】#鷹嶺ルイ超重大生誕LIVE]]></title>
-    <link href="https://youtu.be/T71ds94dnnM" rel="alternate" type="text/html"/>
-    <published>2026-06-07T10:11:03.000Z</published>
-    <updated>2026-06-11T10:52:56.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=T71ds94dnnM 【LIVE on &lt;t:1781175176:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T71ds94dnnM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1743,7 +1743,7 @@
 
   <entry>
     <id>urn:uuid:2256bda0-9627-5e8b-923e-12319a3d58a3</id>
-    <title><![CDATA[【 縦型歌枠/KARAOKE 】66万人ありがとう!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
+    <title><![CDATA[【 縦型歌枠/KARAOKE 】66万人ありがとう！！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/K1nIWY8Bck8" rel="alternate" type="text/html"/>
     <published>2026-03-16T13:10:55.000Z</published>
     <updated>2026-06-13T01:14:09.000Z</updated>
