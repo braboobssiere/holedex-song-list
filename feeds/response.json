@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-06-12T20:46:56.000Z",
     "available_at": "2026-06-12T21:00:34.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11500,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -223,6 +223,25 @@
     }
   },
   {
+    "id": "dIgD4tGFIBM",
+    "title": "【BIRTHDAY STREAM】The Party Continues #NayuCelebrate2026【Nayuta Umbrage | FIRST STAGE PRODUCTION EN】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-11T07:18:22.000Z",
+    "available_at": "2026-06-11T02:07:16.000Z",
+    "duration": 17827,
+    "status": "past",
+    "channel": {
+      "id": "UCkN17JBEg63-17srUnyfWaA",
+      "name": "Nayuta Umbrage【FIRST STAGE PRODUCTION EN】",
+      "org": "FIRST STAGE PRODUCTION",
+      "suborg": "3bEN Ravanis",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gSr61dRFWSAjYijPWELrQ_Tx40aStbhyZ2tHaDS8aZoLiHfqv66ZZv7oZ4DFRv0DSQ3LVUzwnA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nayuta Umbrage"
+    }
+  },
+  {
     "id": "IFAa-cQxDwA",
     "title": "【挑戦】色んな楽器を弾いてみたい！歌いたい！【 #UNIT_B / #宵凪ネオン】",
     "type": "stream",
@@ -239,25 +258,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "dIgD4tGFIBM",
-    "title": "【BIRTHDAY STREAM】The Party Continues #NayuCelebrate2026【Nayuta Umbrage | FIRST STAGE PRODUCTION EN】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-06-10T05:06:39.000Z",
-    "available_at": "2026-06-11T02:07:16.000Z",
-    "duration": 17826,
-    "status": "past",
-    "channel": {
-      "id": "UCkN17JBEg63-17srUnyfWaA",
-      "name": "Nayuta Umbrage【FIRST STAGE PRODUCTION EN】",
-      "org": "FIRST STAGE PRODUCTION",
-      "suborg": "3bEN Ravanis",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gSr61dRFWSAjYijPWELrQ_Tx40aStbhyZ2tHaDS8aZoLiHfqv66ZZv7oZ4DFRv0DSQ3LVUzwnA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nayuta Umbrage"
     }
   },
   {
