@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-14T15:14:54.000Z",
-    "available_at": "2026-06-14T15:25:00.000Z",
+    "available_at": "2026-06-14T15:26:18.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8rcEBzJSleTkf_-agPM20g",
       "name": "IRyS Ch. hololive-EN",
@@ -86,8 +86,8 @@
     "topic_id": "singing",
     "published_at": "2026-06-14T10:36:59.000Z",
     "available_at": "2026-06-14T13:28:21.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7008,
+    "status": "past",
     "live_tl_count": {
       "en": 12
     },
