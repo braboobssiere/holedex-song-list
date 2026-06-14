@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-14T18:56:23.111Z</updated>
+  <updated>2026-06-14T19:26:39.656Z</updated>
+
+  <entry>
+    <id>urn:uuid:0412bbbb-09fe-5ce1-ac3e-5653a10b17d5</id>
+    <title><![CDATA[【歌枠】お歌を歌わせてください!!!🎤👑【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/KeF4lDJnu8Q" rel="alternate" type="text/html"/>
+    <published>2026-06-14T15:41:31.000Z</published>
+    <updated>2026-06-15T13:00:00.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KeF4lDJnu8Q 【LIVE on &lt;t:1781528400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KeF4lDJnu8Q/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5a6b5caf-78fb-5848-bf32-7f4170b372d6</id>
@@ -185,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cUZcGarMKnw 【LIVE on &lt;t:1781254778:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cUZcGarMKnw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:91e2b893-7cbb-57af-8495-51db01ccdb26</id>
+    <title><![CDATA[【ARCHIVED KARAOKE】 SINGING SONGS THAT'S BEEN STUCK IN MY HEAD 脳内リピしてる曲、歌います! 【Kureiji Ollie】]]></title>
+    <link href="https://youtu.be/owRV0zwkgJE" rel="alternate" type="text/html"/>
+    <published>2026-06-12T06:38:01.000Z</published>
+    <updated>2026-06-15T13:00:00.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=owRV0zwkgJE 【LIVE on &lt;t:1781528400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/owRV0zwkgJE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1028,20 +1056,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a28abd8c-d783-5637-bf5c-136182f7dc91</id>
-    <title><![CDATA[【 歌枠 】久しぶりの横長歌枠!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/a8GYotCWqxs" rel="alternate" type="text/html"/>
-    <published>2026-05-21T13:10:00.000Z</published>
-    <updated>2026-05-21T11:02:21.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=a8GYotCWqxs 【LIVE on &lt;t:1779361341:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a8GYotCWqxs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:cbbdbec4-8bab-5758-925b-eaa258b24a0b</id>
     <title><![CDATA[Going My Way / AZKi × 星街すいせい (official)]]></title>
     <link href="https://youtu.be/2Z6f4XNNOls" rel="alternate" type="text/html"/>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=STg1B8CXzk4 【LIVE on &lt;t:1779030001:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/STg1B8CXzk4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c2d5141d-1b09-5b4a-baec-af2e3ba07395</id>
-    <title><![CDATA[【歌枠】歌ってもいいですか?♡【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/uv7dMY8dU9E" rel="alternate" type="text/html"/>
-    <published>2026-05-17T13:19:56.000Z</published>
-    <updated>2026-05-17T10:01:11.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uv7dMY8dU9E 【LIVE on &lt;t:1779012071:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uv7dMY8dU9E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
