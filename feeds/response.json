@@ -501,9 +501,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-06-11T14:27:54.000Z",
-    "available_at": "2026-06-15T11:00:00.000Z",
+    "available_at": "2026-06-15T11:00:34.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UChAnqc_AY5_I3Px5dig3X1Q",
       "name": "Korone Ch. 戌神ころね",
