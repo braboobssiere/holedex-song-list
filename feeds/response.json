@@ -699,9 +699,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-09T18:18:32.000Z",
-    "available_at": "2026-06-16T12:00:00.000Z",
+    "available_at": "2026-06-16T11:54:21.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
       "name": "Su Ch. 水宮枢 - FLOW GLOW",
