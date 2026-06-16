@@ -1,5 +1,24 @@
 [
   {
+    "id": "uHi7n1EU8oE",
+    "title": "Late Night Karaoke",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-16T05:36:31.000Z",
+    "available_at": "2026-06-16T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
     "id": "SXQJsC3YR2s",
     "title": "【セルフ3D】「美少女無罪♡パイレーツ」の振り入れしちゃいます🏴‍☠️【ホロライブ/夏色まつり】",
     "type": "stream",
@@ -2374,30 +2393,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "zy8zaovKqUw",
-    "title": "【歌枠】まったりのそら【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-22T15:30:00.000Z",
-    "available_at": "2026-05-22T14:01:28.000Z",
-    "duration": 4952,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 97,
-      "ko": 56
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
