@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-06-17T12:20:50.000Z",
-    "available_at": "2026-06-17T14:30:00.000Z",
+    "available_at": "2026-06-17T14:30:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
@@ -24,9 +24,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-17T11:47:50.000Z",
-    "available_at": "2026-06-17T14:45:00.000Z",
+    "available_at": "2026-06-17T14:46:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 35
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
