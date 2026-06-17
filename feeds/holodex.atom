@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-17T11:56:25.319Z</updated>
+  <updated>2026-06-17T12:26:35.608Z</updated>
+
+  <entry>
+    <id>urn:uuid:ac352ac0-1308-5d23-9e42-518439208303</id>
+    <title><![CDATA[silly strawberry sings]]></title>
+    <link href="https://youtu.be/JdxwtmSExA0" rel="alternate" type="text/html"/>
+    <published>2026-06-17T12:20:50.000Z</published>
+    <updated>2026-06-17T14:30:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JdxwtmSExA0 【LIVE on &lt;t:1781706600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JdxwtmSExA0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5be68785-3e55-578b-b3f2-8998a7d7744d</id>
@@ -969,20 +983,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lInjMdh_aNE 【LIVE on &lt;t:1779891145:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lInjMdh_aNE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c18cc41b-7843-524e-9388-80ae718c1e06</id>
-    <title><![CDATA[【歌枠】今日も楽しく歌っていこう!!【ホロライブ/ときのそら】]]></title>
-    <link href="https://youtu.be/r_NA2Egnuls" rel="alternate" type="text/html"/>
-    <published>2026-05-26T15:18:40.000Z</published>
-    <updated>2026-05-26T13:33:50.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=r_NA2Egnuls 【LIVE on &lt;t:1779802430:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r_NA2Egnuls/maxresdefault.jpg"/>
   </entry>
 
   <entry>

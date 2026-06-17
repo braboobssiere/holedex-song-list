@@ -1,5 +1,24 @@
 [
   {
+    "id": "JdxwtmSExA0",
+    "title": "silly strawberry sings",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-17T12:20:50.000Z",
+    "available_at": "2026-06-17T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ibEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakos Baelz"
+    }
+  },
+  {
     "id": "pC6Y7QSUZZY",
     "title": "お誕生日・・・くるｯ!!!in2026【風真いろは/ホロライブ】",
     "type": "stream",
@@ -86,6 +105,7 @@
     "available_at": "2026-06-17T02:58:22.000Z",
     "duration": 6868,
     "status": "past",
+    "songcount": 6,
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -2208,29 +2228,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "r_NA2Egnuls",
-    "title": "【歌枠】今日も楽しく歌っていこう!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-26T15:18:40.000Z",
-    "available_at": "2026-05-26T13:33:50.000Z",
-    "duration": 5918,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "ko": 127
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
