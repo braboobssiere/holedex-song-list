@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-17T06:56:21.093Z</updated>
+  <updated>2026-06-17T07:26:34.471Z</updated>
 
   <entry>
     <id>urn:uuid:a18858bd-77e5-53d2-8d0b-f4c1cf1ad21e</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=T060Goa2yxg 【LIVE on &lt;t:1781614857:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T060Goa2yxg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0412bbbb-09fe-5ce1-ac3e-5653a10b17d5</id>
+    <title><![CDATA[【歌枠】お歌を歌わせてください!!!🎤👑【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/KeF4lDJnu8Q" rel="alternate" type="text/html"/>
+    <published>2026-06-15T16:37:13.000Z</published>
+    <updated>2026-06-15T13:00:17.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KeF4lDJnu8Q 【LIVE on &lt;t:1781528417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KeF4lDJnu8Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lgV-C_ifrM4 【LIVE on &lt;t:1781450778:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lgV-C_ifrM4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0412bbbb-09fe-5ce1-ac3e-5653a10b17d5</id>
-    <title><![CDATA[【歌枠】お歌を歌わせてください！！！🎤👑【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/KeF4lDJnu8Q" rel="alternate" type="text/html"/>
-    <published>2026-06-14T15:41:31.000Z</published>
-    <updated>2026-06-15T13:00:17.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KeF4lDJnu8Q 【LIVE on &lt;t:1781528417:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KeF4lDJnu8Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1574,6 +1574,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4571272e-4cbf-5867-8d61-8495c6aa09c7</id>
+    <title><![CDATA[【歌枠】あした誕生日なんでライブみにきてくださいの歌枠🎤【風真いろは/ホロライブ】]]></title>
+    <link href="https://youtu.be/b99OMm1WlNI" rel="alternate" type="text/html"/>
+    <published>2026-04-15T13:40:15.000Z</published>
+    <updated>2026-06-17T10:00:00.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=b99OMm1WlNI 【LIVE on &lt;t:1781690400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/b99OMm1WlNI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:f73b2fed-8d5a-58fd-8c70-4364ca5ca42c</id>
     <title><![CDATA[【ギター練習/雑談】ゆるっとギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/r5z_ai-UJms" rel="alternate" type="text/html"/>
@@ -1627,6 +1641,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Rb163zkoNSo 【LIVE on &lt;t:1775300276:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Rb163zkoNSo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:99ce2323-69cc-50e7-9fa5-443d83f3a5da</id>
+    <title><![CDATA[【 #不知火フレア生誕祭2026 】BEMANI楽曲3D LIVE!みんなで盛り上がれ!【不知火フレア/ホロライブ】]]></title>
+    <link href="https://youtu.be/FgA6hgxJH4I" rel="alternate" type="text/html"/>
+    <published>2026-04-02T12:24:48.000Z</published>
+    <updated>2026-04-02T10:57:13.000Z</updated>
+    <author>
+      <name>Flare Ch. 不知火フレア</name>
+      <uri>https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FgA6hgxJH4I 【LIVE on &lt;t:1775127433:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FgA6hgxJH4I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
