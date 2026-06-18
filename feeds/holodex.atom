@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-18T14:56:31.769Z</updated>
+  <updated>2026-06-18T15:26:42.657Z</updated>
+
+  <entry>
+    <id>urn:uuid:e5884b5e-6fab-59b9-a688-fb5817ac5f10</id>
+    <title><![CDATA[風向きエントロピー (Instrumental)]]></title>
+    <link href="https://youtu.be/fDiqCHyUmvE" rel="alternate" type="text/html"/>
+    <published>2026-06-18T15:00:24.000Z</published>
+    <updated>2026-06-18T15:00:24.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fDiqCHyUmvE 【LIVE on &lt;t:1781794824:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fDiqCHyUmvE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b6402513-37c1-5122-afdd-e713f91137de</id>
+    <title><![CDATA[風向きエントロピー]]></title>
+    <link href="https://youtu.be/DYDEeXyrNxw" rel="alternate" type="text/html"/>
+    <published>2026-06-18T15:00:23.000Z</published>
+    <updated>2026-06-18T15:00:23.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DYDEeXyrNxw 【LIVE on &lt;t:1781794823:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DYDEeXyrNxw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:292a6db9-0a90-5088-9ad4-23d2decbbe75</id>
@@ -1473,34 +1501,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=w37yVSXhV_c 【LIVE on &lt;t:1778374802:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w37yVSXhV_c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9f504e60-5619-577d-9863-b9337f321b03</id>
-    <title><![CDATA[STORM]]></title>
-    <link href="https://youtu.be/yDkgi5dGU-U" rel="alternate" type="text/html"/>
-    <published>2026-05-07T15:01:45.000Z</published>
-    <updated>2026-05-07T15:01:45.000Z</updated>
-    <author>
-      <name>Ouro Kronii Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yDkgi5dGU-U 【LIVE on &lt;t:1778166105:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yDkgi5dGU-U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f9fe10a4-ea36-5d27-a5c1-4619a80cd49d</id>
-    <title><![CDATA[STORM (Instrumental)]]></title>
-    <link href="https://youtu.be/_nlk43_pdpc" rel="alternate" type="text/html"/>
-    <published>2026-05-07T15:00:59.000Z</published>
-    <updated>2026-05-07T15:00:59.000Z</updated>
-    <author>
-      <name>Ouro Kronii Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_nlk43_pdpc 【LIVE on &lt;t:1778166059:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_nlk43_pdpc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
