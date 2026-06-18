@@ -99,6 +99,25 @@
     }
   },
   {
+    "id": "l8X4bhI0xHk",
+    "title": "【 同時視聴  】ホロガチオタと見る!#風真いろは生誕ライブ2026  同時視聴 【  #ホロライブ #同時視聴 #風真いろは】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-16T14:10:53.000Z",
+    "available_at": "2026-06-18T10:45:50.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCDJA7L_fC9ix9YrknyeU0BQ",
+      "name": "nemuCh. 音夢多 ねむね",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2S_W9BYtjUulNKC4hM_poG4dOwNqJCTlxL03vrwKDeR4nX36IJVM5sFRm_swcYEQN_xZBwuuVw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nemuta Nemune"
+    }
+  },
+  {
     "id": "h0jykfxgmj0",
     "title": "【 3DLIVE 】Step Into Dreams【水宮枢/ホロライブDEV_IS】#水宮枢生誕祭2026",
     "type": "stream",
@@ -292,9 +311,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-15T02:41:44.000Z",
-    "available_at": "2026-06-18T11:00:00.000Z",
+    "available_at": "2026-06-18T10:55:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 34
+    },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
       "name": "Iroha ch. 風真いろは - holoX -",
@@ -4342,25 +4364,6 @@
     "live_tl_count": {
       "en": 15
     },
-    "channel": {
-      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "name": "Mori Calliope Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mori Calliope"
-    }
-  },
-  {
-    "id": "bDsvGgBeoVY",
-    "title": "【BIRTHDAY COUNTDOWN 凸待ち】NEW OUTFIT REVEAL!! #calliolive #metalmori",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-04-03T15:30:37.000Z",
-    "available_at": "2026-04-03T13:00:49.000Z",
-    "duration": 8456,
-    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
