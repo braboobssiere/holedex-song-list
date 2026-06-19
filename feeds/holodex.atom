@@ -3,11 +3,39 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-19T14:56:25.620Z</updated>
+  <updated>2026-06-19T15:26:31.370Z</updated>
+
+  <entry>
+    <id>urn:uuid:b2b1c253-b35e-5a93-9de1-fc7d61dd83c4</id>
+    <title><![CDATA[Serendipity]]></title>
+    <link href="https://youtu.be/LSZ3Q6G9A34" rel="alternate" type="text/html"/>
+    <published>2026-06-19T15:00:16.000Z</published>
+    <updated>2026-06-19T15:00:16.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LSZ3Q6G9A34 【LIVE on &lt;t:1781881216:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LSZ3Q6G9A34/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:328442c9-0561-597a-a4e9-84b4cc321627</id>
+    <title><![CDATA[Serendipity (Instrumental)]]></title>
+    <link href="https://youtu.be/D43r5aM3Wq8" rel="alternate" type="text/html"/>
+    <published>2026-06-19T15:00:13.000Z</published>
+    <updated>2026-06-19T15:00:13.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=D43r5aM3Wq8 【LIVE on &lt;t:1781881213:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D43r5aM3Wq8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c744478d-3a4d-511e-8930-c12670490165</id>
-    <title><![CDATA[【歌枠】みんなに嬉しい告知があります!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <title><![CDATA[【歌枠】みんなに嬉しい告知があります！！！ Singing Stream🎤🎶【角巻わため/ホロライブ４期生】]]></title>
     <link href="https://youtu.be/Fxhq4FijB78" rel="alternate" type="text/html"/>
     <published>2026-06-18T21:39:12.000Z</published>
     <updated>2026-06-19T12:00:32.000Z</updated>
@@ -1501,34 +1529,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Yv3d73UWx1w 【LIVE on &lt;t:1778425235:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Yv3d73UWx1w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:314d4207-d817-5dee-ab22-6f2567cc4492</id>
-    <title><![CDATA[Draw. (Instrumental)]]></title>
-    <link href="https://youtu.be/eWc0jIgUWJY" rel="alternate" type="text/html"/>
-    <published>2026-05-10T15:00:13.000Z</published>
-    <updated>2026-05-10T15:00:13.000Z</updated>
-    <author>
-      <name>Raora Panthera Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eWc0jIgUWJY 【LIVE on &lt;t:1778425213:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eWc0jIgUWJY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:180fed7f-317f-5bb3-ab31-790472f2d922</id>
-    <title><![CDATA[Draw. - Raora Panthera【Original Song MV】]]></title>
-    <link href="https://youtu.be/uKYxf3wfwP4" rel="alternate" type="text/html"/>
-    <published>2026-05-10T02:15:06.000Z</published>
-    <updated>2026-05-10T02:15:06.000Z</updated>
-    <author>
-      <name>Raora Panthera Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uKYxf3wfwP4 【LIVE on &lt;t:1778379306:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uKYxf3wfwP4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
