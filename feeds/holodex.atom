@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-20T14:26:28.659Z</updated>
+  <updated>2026-06-20T14:56:32.907Z</updated>
+
+  <entry>
+    <id>urn:uuid:356ad7db-9848-587a-8563-3b3cd521c533</id>
+    <title><![CDATA[【 歌枠】NO27.土曜の夜はまだまだ起きていたい、えも=くうたお🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/CG8AQgKVe-0" rel="alternate" type="text/html"/>
+    <published>2026-06-20T14:24:30.000Z</published>
+    <updated>2026-06-20T14:28:40.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CG8AQgKVe-0 【LIVE on &lt;t:1781965720:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CG8AQgKVe-0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9ae7452d-6c0c-50a3-ad5f-979ffef5e0f5</id>
@@ -1109,20 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BrMBUuWWAjg 【LIVE on &lt;t:1779980556:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BrMBUuWWAjg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6b1fb5ab-85bf-5d3d-8a6a-b7d0980db119</id>
-    <title><![CDATA[【#リオナ生誕祭36時】そらリオ3D歌枠🎤【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/ARlSu8ZP1aE" rel="alternate" type="text/html"/>
-    <published>2026-05-28T12:23:15.000Z</published>
-    <updated>2026-05-28T11:13:39.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ARlSu8ZP1aE 【LIVE on &lt;t:1779966819:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ARlSu8ZP1aE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
