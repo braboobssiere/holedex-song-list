@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-20T06:26:30.585Z</updated>
+  <updated>2026-06-20T06:56:29.830Z</updated>
+
+  <entry>
+    <id>urn:uuid:f66cb572-6a78-5f55-ac50-401144754dbf</id>
+    <title><![CDATA[≪3D KARAOKE・歌枠≫ Behold Minase Rio]]></title>
+    <link href="https://youtu.be/xwqYwIbm9Lo" rel="alternate" type="text/html"/>
+    <published>2026-06-20T03:22:38.000Z</published>
+    <updated>2026-06-20T11:00:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xwqYwIbm9Lo 【LIVE on &lt;t:1781953200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xwqYwIbm9Lo/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b2b1c253-b35e-5a93-9de1-fc7d61dd83c4</id>

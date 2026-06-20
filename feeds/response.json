@@ -22,7 +22,7 @@
     "id": "xwqYwIbm9Lo",
     "title": "≪3D KARAOKE・歌枠≫ Behold Minase Rio",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "singing",
     "published_at": "2026-06-20T03:22:38.000Z",
     "available_at": "2026-06-20T11:00:00.000Z",
     "duration": 0,
@@ -2360,26 +2360,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ouro Kronii"
-    }
-  },
-  {
-    "id": "LYFNr8ggPyc",
-    "title": "【弾き語り歌枠】寝る前に歌う【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-05-27T16:51:31.000Z",
-    "available_at": "2026-05-27T15:00:43.000Z",
-    "duration": 5095,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -5285,6 +5265,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
+    "id": "8ZbKPMCPl7I",
+    "title": "[IRISÉ LIVE] Takanashi Kiara x IRISÉ | Finally We Meet!🏵️",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-02-20T14:21:59.000Z",
+    "available_at": "2026-02-20T11:30:40.000Z",
+    "duration": 8078,
+    "status": "past",
+    "channel": {
+      "id": "UCMmcz1ybSoAD-GUlDx_7H2A",
+      "name": "IRISÉ",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KfDK1nMfNoXocYSkgO2WZ12dC2AvhIPUQFlRX3xAo6HxaFc0Z3q5RwWlYeddAJFIlPPQtvPTalI=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRISE"
     }
   },
   {
