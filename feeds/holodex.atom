@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-21T07:56:24.519Z</updated>
+  <updated>2026-06-21T08:26:26.624Z</updated>
+
+  <entry>
+    <id>urn:uuid:53fca4a7-0845-5e45-8710-b5113ab71229</id>
+    <title><![CDATA[#AyundaWeekDay7 : UNARCHIVED KARAOKE]]></title>
+    <link href="https://youtu.be/emiAWXejfVw" rel="alternate" type="text/html"/>
+    <published>2026-06-21T08:02:21.000Z</published>
+    <updated>2026-06-21T13:00:00.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=emiAWXejfVw 【LIVE on &lt;t:1782046800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/emiAWXejfVw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:356ad7db-9848-587a-8563-3b3cd521c533</id>
@@ -76,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:c744478d-3a4d-511e-8930-c12670490165</id>
+    <title><![CDATA[【歌枠】みんなに嬉しい告知があります!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/Fxhq4FijB78" rel="alternate" type="text/html"/>
+    <published>2026-06-19T15:01:25.000Z</published>
+    <updated>2026-06-19T12:00:32.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Fxhq4FijB78 【LIVE on &lt;t:1781870432:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fxhq4FijB78/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:b2b1c253-b35e-5a93-9de1-fc7d61dd83c4</id>
     <title><![CDATA[Serendipity]]></title>
     <link href="https://youtu.be/LSZ3Q6G9A34" rel="alternate" type="text/html"/>
@@ -101,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=D43r5aM3Wq8 【LIVE on &lt;t:1781881213:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D43r5aM3Wq8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c744478d-3a4d-511e-8930-c12670490165</id>
-    <title><![CDATA[【歌枠】みんなに嬉しい告知があります！！！ Singing Stream🎤🎶【角巻わため/ホロライブ４期生】]]></title>
-    <link href="https://youtu.be/Fxhq4FijB78" rel="alternate" type="text/html"/>
-    <published>2026-06-18T21:39:12.000Z</published>
-    <updated>2026-06-19T12:00:32.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Fxhq4FijB78 【LIVE on &lt;t:1781870432:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fxhq4FijB78/maxresdefault.jpg"/>
   </entry>
 
   <entry>
