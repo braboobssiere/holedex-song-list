@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-22T05:26:25.041Z</updated>
+  <updated>2026-06-22T05:56:26.784Z</updated>
 
   <entry>
     <id>urn:uuid:e92b8f06-e763-51b9-a057-a2c4e2aec2bf</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:f66cb572-6a78-5f55-ac50-401144754dbf</id>
+    <title><![CDATA[≪3D KARAOKE・歌枠≫ Behold Minase Rio]]></title>
+    <link href="https://youtu.be/xwqYwIbm9Lo" rel="alternate" type="text/html"/>
+    <published>2026-06-20T14:13:30.000Z</published>
+    <updated>2026-06-20T11:00:38.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xwqYwIbm9Lo 【LIVE on &lt;t:1781953238:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xwqYwIbm9Lo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:db85a84a-42c0-50f0-9877-04829c874ed9</id>
     <title><![CDATA[【黒歴史】過去演奏聞かせちゃいます！【 #UNIT_B / #玲銘ミラ】]]></title>
     <link href="https://youtu.be/UQ8Nmr5F4J4" rel="alternate" type="text/html"/>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ygSOjScZVZQ 【LIVE on &lt;t:1781956801:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ygSOjScZVZQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f66cb572-6a78-5f55-ac50-401144754dbf</id>
-    <title><![CDATA[≪3D KARAOKE・歌枠≫ Behold Minase Rio]]></title>
-    <link href="https://youtu.be/xwqYwIbm9Lo" rel="alternate" type="text/html"/>
-    <published>2026-06-20T03:22:38.000Z</published>
-    <updated>2026-06-20T11:00:38.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xwqYwIbm9Lo 【LIVE on &lt;t:1781953238:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xwqYwIbm9Lo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
