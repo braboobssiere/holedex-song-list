@@ -1,5 +1,43 @@
 [
   {
+    "id": "1PxEmKQvM70",
+    "title": "【RISU VERSION】MIR//or 【KARAOKE】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-06-22T05:00:06.000Z",
+    "available_at": "2026-06-22T05:00:06.000Z",
+    "duration": 253,
+    "status": "past",
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
+    "id": "toMMyF1ZxKM",
+    "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-06-22T05:00:06.000Z",
+    "available_at": "2026-06-22T05:00:06.000Z",
+    "duration": 255,
+    "status": "past",
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
     "id": "xnZEEiYkGN4",
     "title": "【ギター練習】眠れない夜のアコギ練習【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
@@ -84,6 +122,7 @@
     "available_at": "2026-06-21T22:01:54.000Z",
     "duration": 12767,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -724,44 +763,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Inugami Korone"
-    }
-  },
-  {
-    "id": "1PxEmKQvM70",
-    "title": "【RISU VERSION】MIR//or 【KARAOKE】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-06-15T04:12:56.000Z",
-    "available_at": "2026-06-22T05:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
-    }
-  },
-  {
-    "id": "toMMyF1ZxKM",
-    "title": "【KARAOKE】MIR//or【AYUNDA VERSION】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-06-15T04:09:34.000Z",
-    "available_at": "2026-06-22T05:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
-      "name": "Ayunda Risu Ch. hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ayunda Risu"
     }
   },
   {
