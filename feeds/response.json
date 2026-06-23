@@ -108,6 +108,7 @@
     "available_at": "2026-06-22T05:00:06.000Z",
     "duration": 253,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -127,6 +128,7 @@
     "available_at": "2026-06-22T05:00:06.000Z",
     "duration": 255,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
       "name": "Ayunda Risu Ch. hololive-ID",
@@ -174,6 +176,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "_uXtu4ZHnzw",
+    "title": "【 #笑虎ネクト 】第1回目!歌って!笑虎ネクト🐯ゲスト AZKi先輩⚒️【虎金妃笑虎/AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-21T11:13:13.000Z",
+    "available_at": "2026-06-21T09:56:35.000Z",
+    "duration": 4315,
+    "status": "past",
+    "songcount": 3,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -323,26 +345,6 @@
     "duration": 4425,
     "status": "past",
     "songcount": 11,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "_uXtu4ZHnzw",
-    "title": "【 #笑虎ネクト 】第１回目！歌って！笑虎ネクト🐯ゲスト AZKi先輩⚒️【虎金妃笑虎/AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-20T08:29:16.000Z",
-    "available_at": "2026-06-21T09:56:35.000Z",
-    "duration": 4309,
-    "status": "past",
-    "songcount": 3,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
