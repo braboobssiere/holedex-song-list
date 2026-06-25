@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-25T08:56:22.532Z</updated>
+  <updated>2026-06-25T09:26:30.314Z</updated>
 
   <entry>
     <id>urn:uuid:20dcc191-bd63-5a67-9627-eaa782db868c</id>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tIwxKCALjqM 【LIVE on &lt;t:1782356411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tIwxKCALjqM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4a4f4e6a-5a9f-5c14-a94b-9e29a18829f6</id>
+    <title><![CDATA[【MV】Serendipity【hololive English Original Song】]]></title>
+    <link href="https://youtu.be/Df6etdLFqso" rel="alternate" type="text/html"/>
+    <published>2026-06-24T14:23:58.000Z</published>
+    <updated>2026-06-26T03:00:00.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Df6etdLFqso 【LIVE on &lt;t:1782442800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Df6etdLFqso/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1473,20 +1487,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Kr2lbQwHQeY 【LIVE on &lt;t:1779926406:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kr2lbQwHQeY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8a80f6cc-ed4c-5b1c-9e50-548314aca572</id>
-    <title><![CDATA[お姉さま♡ラヴコール]]></title>
-    <link href="https://youtu.be/EvZwptR-jfY" rel="alternate" type="text/html"/>
-    <published>2026-05-25T15:00:32.000Z</published>
-    <updated>2026-05-25T15:00:32.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=EvZwptR-jfY 【LIVE on &lt;t:1779721232:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EvZwptR-jfY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
