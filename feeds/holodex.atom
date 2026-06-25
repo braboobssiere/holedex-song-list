@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-25T04:56:25.011Z</updated>
+  <updated>2026-06-25T05:26:26.014Z</updated>
+
+  <entry>
+    <id>urn:uuid:20dcc191-bd63-5a67-9627-eaa782db868c</id>
+    <title><![CDATA[【歌枠/KARAOKE】リハビリ歌枠💓こいついつもリハビリしてんな👊【尾丸ポルカ/ホロライブ】]]></title>
+    <link href="https://youtu.be/qt3CZg8GcXs" rel="alternate" type="text/html"/>
+    <published>2026-06-25T04:55:37.000Z</published>
+    <updated>2026-06-25T08:00:00.000Z</updated>
+    <author>
+      <name>Polka Ch. 尾丸ポルカ</name>
+      <uri>https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qt3CZg8GcXs 【LIVE on &lt;t:1782374400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qt3CZg8GcXs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:785f9366-6dfa-5fe6-b522-987e4e901253</id>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ouIeDbNHl8s 【LIVE on &lt;t:1780664337:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ouIeDbNHl8s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d4ba79ec-5ef4-5007-8bfa-b61cd03c316e</id>
-    <title><![CDATA[【夜の歌枠】今日はチルい感じでいくよ〜!【 #UNIT_B / #宵凪ネオン】]]></title>
-    <link href="https://youtu.be/tVGtua2YaWs" rel="alternate" type="text/html"/>
-    <published>2026-06-04T13:14:30.000Z</published>
-    <updated>2026-06-04T10:01:17.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tVGtua2YaWs 【LIVE on &lt;t:1780567277:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tVGtua2YaWs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
