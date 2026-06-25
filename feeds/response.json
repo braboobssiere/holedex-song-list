@@ -44,8 +44,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-06-25T03:31:56.000Z",
     "available_at": "2026-06-25T12:03:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3323,
+    "status": "past",
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -875,6 +875,28 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "EqSbZC_sakY",
+    "title": "【#カグラナナ7周年LIVE】 新3Dお披露目 / ナナ周年、いつもありがとう!「Re:Meteor」【超重大発表&豪華ゲスト多数🎉🌶】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-06-20T16:02:17.000Z",
+    "available_at": "2026-06-25T12:04:01.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 8
+    },
+    "channel": {
+      "id": "UCbfv8uuUXt3RSJGEwxny5Rw",
+      "name": "カグラナナchannel／ななかぐら",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Lrkb820ziKH17d7ZpORwUM5EwHe3-LCl5fVRrzSjb0gvrdFNcdCdFNHHBPW-FjawIq-QaPL3B5Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagura Nana"
     }
   },
   {
@@ -5966,25 +5988,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "YXJCe-CODKs",
-    "title": "【雑談】6周年を振り返ったり、最近の話をする!【岸堂天真/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-19T11:20:22.000Z",
-    "available_at": "2025-12-19T09:59:27.000Z",
-    "duration": 4220,
-    "status": "past",
-    "channel": {
-      "id": "UCGNI4MENvnsymYjKiZwv9eg",
-      "name": "Temma Ch. 岸堂天真",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nwurwFIJZ5Ekdq5WHp21uytJEo5ZmdXy-q4b8odSSThQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kishido Temma"
     }
   },
   {
