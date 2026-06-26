@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-26T07:26:24.293Z</updated>
+  <updated>2026-06-26T07:56:30.781Z</updated>
 
   <entry>
     <id>urn:uuid:046ab695-e565-58db-9633-0d1fffd9a39b</id>
@@ -185,6 +185,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tIwxKCALjqM 【LIVE on &lt;t:1782356411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tIwxKCALjqM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:47b92c8a-1672-5b66-8efa-a02bc3ab9a45</id>
+    <title><![CDATA[【 3DLIVE 】"アニソン Night Fever2" / 重大告知あり!【 #角巻わため生誕祭2026 】]]></title>
+    <link href="https://youtu.be/BADL5x3Ftzc" rel="alternate" type="text/html"/>
+    <published>2026-06-24T13:06:57.000Z</published>
+    <updated>2026-06-24T11:57:32.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BADL5x3Ftzc 【LIVE on &lt;t:1782302252:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BADL5x3Ftzc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -409,20 +423,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xnZEEiYkGN4 【LIVE on &lt;t:1782057005:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xnZEEiYkGN4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:47b92c8a-1672-5b66-8efa-a02bc3ab9a45</id>
-    <title><![CDATA[【 3DLIVE 】"アニソン Night Fever２" / 重大告知あり！【 #角巻わため生誕祭2026 】]]></title>
-    <link href="https://youtu.be/BADL5x3Ftzc" rel="alternate" type="text/html"/>
-    <published>2026-06-21T16:43:03.000Z</published>
-    <updated>2026-06-24T11:57:32.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BADL5x3Ftzc 【LIVE on &lt;t:1782302252:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BADL5x3Ftzc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
