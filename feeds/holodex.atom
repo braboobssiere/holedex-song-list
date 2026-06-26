@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-26T15:56:23.833Z</updated>
+  <updated>2026-06-26T16:26:30.681Z</updated>
+
+  <entry>
+    <id>urn:uuid:e1e5f5bb-df04-5793-ac1c-1c816096d6ee</id>
+    <title><![CDATA[博衣こよりはいいぞ配信]]></title>
+    <link href="https://youtu.be/y0NtcsNmtZg" rel="alternate" type="text/html"/>
+    <published>2026-06-26T16:03:08.000Z</published>
+    <updated>2026-06-26T16:06:55.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=y0NtcsNmtZg 【LIVE on &lt;t:1782490015:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/y0NtcsNmtZg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:046ab695-e565-58db-9633-0d1fffd9a39b</id>
