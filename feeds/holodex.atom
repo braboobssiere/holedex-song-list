@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-27T03:56:21.227Z</updated>
+  <updated>2026-06-27T04:26:26.722Z</updated>
+
+  <entry>
+    <id>urn:uuid:ab47adcc-8268-54f9-8176-9133d33d925f</id>
+    <title><![CDATA[【UNARCHIVE KARAOKE】LET'S SING!!!! ANNIVERSARY SINGING! #C2]]></title>
+    <link href="https://youtu.be/iRc8ZsYDK5c" rel="alternate" type="text/html"/>
+    <published>2026-06-26T23:41:11.000Z</published>
+    <updated>2026-06-27T22:15:00.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iRc8ZsYDK5c 【LIVE on &lt;t:1782598500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iRc8ZsYDK5c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e1e5f5bb-df04-5793-ac1c-1c816096d6ee</id>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5smn_hw7kcs 【LIVE on &lt;t:1780740122:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5smn_hw7kcs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1b68afbc-b101-5754-b787-ba4d8d46a38f</id>
-    <title><![CDATA[【ネオンの枠】収益化記念!歌枠リレー!【 #UNIT_B / #宵凪ネオン】]]></title>
-    <link href="https://youtu.be/-Cm4Zjy4YgY" rel="alternate" type="text/html"/>
-    <published>2026-06-06T09:58:20.000Z</published>
-    <updated>2026-06-06T08:58:19.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-Cm4Zjy4YgY 【LIVE on &lt;t:1780736299:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-Cm4Zjy4YgY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
