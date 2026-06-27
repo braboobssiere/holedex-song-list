@@ -1,5 +1,24 @@
 [
   {
+    "id": "CGKxbNEyLoQ",
+    "title": "【歌枠 KARAOKE】縦型歌💙雑談〜❕【水宮枢/ホロライブDEV_IS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-27T08:00:21.000Z",
+    "available_at": "2026-06-27T08:00:35.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
+      "name": "Su Ch. 水宮枢 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mizumiya Su"
+    }
+  },
+  {
     "id": "iRc8ZsYDK5c",
     "title": "【UNARCHIVE KARAOKE】LET'S SING!!!! ANNIVERSARY SINGING! #C2",
     "type": "stream",
@@ -46,6 +65,7 @@
     "available_at": "2026-06-26T16:06:55.000Z",
     "duration": 1900,
     "status": "past",
+    "songcount": 4,
     "channel": {
       "id": "UCENwRMx5Yh42zWpzURebzTw",
       "name": "Laplus ch. ラプラス・ダークネス - holoX -",
@@ -135,6 +155,28 @@
     }
   },
   {
+    "id": "EqSbZC_sakY",
+    "title": "【#カグラナナ7周年LIVE】 新3Dお披露目 / ナナ周年、いつもありがとう!「Re:Meteor」【超重大発表&豪華ゲスト多数🎉🌶】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-06-25T14:41:25.000Z",
+    "available_at": "2026-06-25T12:04:01.000Z",
+    "duration": 5212,
+    "status": "past",
+    "live_tl_count": {
+      "en": 8
+    },
+    "channel": {
+      "id": "UCbfv8uuUXt3RSJGEwxny5Rw",
+      "name": "カグラナナchannel／ななかぐら",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Lrkb820ziKH17d7ZpORwUM5EwHe3-LCl5fVRrzSjb0gvrdFNcdCdFNHHBPW-FjawIq-QaPL3B5Y=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kagura Nana"
+    }
+  },
+  {
     "id": "QSlgbRMSMjQ",
     "title": "【ツアー続報アリ‼ / 3D配信✨】StudioSTELLARスタッフからのすいちゃん取扱説明書⁉【星街すいせい / #ほしまちすたじお】",
     "type": "stream",
@@ -181,6 +223,7 @@
     "available_at": "2026-06-25T08:01:11.000Z",
     "duration": 7219,
     "status": "past",
+    "songcount": 25,
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -1014,28 +1057,6 @@
     }
   },
   {
-    "id": "EqSbZC_sakY",
-    "title": "【#カグラナナ7周年LIVE】 新3Dお披露目 / ナナ周年、いつもありがとう！「Re:Meteor」【超重大発表&豪華ゲスト多数🎉🌶】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-06-20T16:02:17.000Z",
-    "available_at": "2026-06-25T12:04:01.000Z",
-    "duration": 5219,
-    "status": "past",
-    "live_tl_count": {
-      "en": 8
-    },
-    "channel": {
-      "id": "UCbfv8uuUXt3RSJGEwxny5Rw",
-      "name": "カグラナナchannel／ななかぐら",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Lrkb820ziKH17d7ZpORwUM5EwHe3-LCl5fVRrzSjb0gvrdFNcdCdFNHHBPW-FjawIq-QaPL3B5Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kagura Nana"
-    }
-  },
-  {
     "id": "xwqYwIbm9Lo",
     "title": "≪3D KARAOKE・歌枠≫ Behold Minase Rio",
     "type": "stream",
@@ -1240,6 +1261,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kazama Iroha"
+    }
+  },
+  {
+    "id": "zGPkH0j8Jug",
+    "title": "hololive English -Justice- 2nd Anniversary Live: How to Protect JUSTICE!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-06-18T07:38:35.000Z",
+    "available_at": "2026-06-28T02:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
     }
   },
   {
@@ -2585,26 +2625,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "YCpM3nx55pI",
-    "title": "【最後の弾き語り歌枠】歌【律可/ホロスターズ】#りつすた",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-06T11:51:43.000Z",
-    "available_at": "2026-06-06T09:59:19.000Z",
-    "duration": 4867,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UC9mf_ZVpouoILRY9NUIaK-w",
-      "name": "Rikka ch.律可",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/zDlkBDLFpnxskIUhp4gqthOauFDWnjbaPJ7t-Xa6vBr9-R6PmhVkI52RFf3cJ9-8nft_rv3Y=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rikka"
     }
   },
   {
@@ -5966,26 +5986,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "Km_jZfAv1EI",
-    "title": "【期間限定公開】ときのそら 6th Anniversary Party「Keep Shinin'」",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-24T11:00:06.000Z",
-    "available_at": "2025-12-24T11:00:06.000Z",
-    "duration": 5372,
-    "status": "missing",
-    "original_channel_id": "UC3G2QylAJ8NN3_ZzrPV6vzg",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
