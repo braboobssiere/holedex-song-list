@@ -184,7 +184,7 @@
     "published_at": "2026-06-25T11:11:39.000Z",
     "available_at": "2026-06-25T20:31:32.000Z",
     "duration": 5380,
-    "status": "past",
+    "status": "missing",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -763,6 +763,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
+    }
+  },
+  {
+    "id": "Iv6YK5msNwM",
+    "title": "【 #清楚の日9 】活動9周年🐬🎊VTuber界のレジェンドをお呼びして緊急会議🏄【キズナアイ・ときのそら・博衣こより・富士葵・電脳少女シロ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-06-22T05:40:49.000Z",
+    "available_at": "2026-06-28T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCLhUvJ_wO9hOvv_yYENu4fQ",
+      "name": "Siro Channel",
+      "org": ".LIVE",
+      "suborg": "00Pre-Idol Club",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/-Y3EZf0U20U7K9ZKbz5u2cNDdW_9_L7tzQ18JeVuj2193ZcApJ0DjHkxusT6Q5EJOb5nVgDa6A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Dennou Shojo Siro"
     }
   },
   {
@@ -5967,26 +5986,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "Km_jZfAv1EI",
-    "title": "【期間限定公開】ときのそら 6th Anniversary Party「Keep Shinin'」",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2025-12-24T11:00:06.000Z",
-    "available_at": "2025-12-24T11:00:06.000Z",
-    "duration": 5372,
-    "status": "missing",
-    "original_channel_id": "UC3G2QylAJ8NN3_ZzrPV6vzg",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
