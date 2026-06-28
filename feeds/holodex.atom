@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-28T12:56:32.906Z</updated>
+  <updated>2026-06-28T13:26:26.495Z</updated>
+
+  <entry>
+    <id>urn:uuid:b66e15d8-d064-5620-9d08-c78aeeb6973f</id>
+    <title><![CDATA[【オリジナルMV】「会心の一撃/YOASOBI」歌ってみた【神楽めあ】]]></title>
+    <link href="https://youtu.be/sp8eH_oDC9g" rel="alternate" type="text/html"/>
+    <published>2026-06-28T13:00:32.000Z</published>
+    <updated>2026-06-28T13:00:32.000Z</updated>
+    <author>
+      <name>神楽めあ / KaguraMea</name>
+      <uri>https://www.youtube.com/channel/UCWCc8tO-uUl_7SJXIKJACMw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sp8eH_oDC9g 【LIVE on &lt;t:1782651632:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sp8eH_oDC9g/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dbdbb859-104b-5eab-afcf-47b083132637</id>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=u3YVky6Jh1M 【LIVE on &lt;t:1780758032:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/u3YVky6Jh1M/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:26ad8e39-c9f9-5e46-9d44-a3443affa17d</id>
-    <title><![CDATA[灰色の証明]]></title>
-    <link href="https://youtu.be/vfiLQHjmtyk" rel="alternate" type="text/html"/>
-    <published>2026-06-06T15:00:06.000Z</published>
-    <updated>2026-06-06T15:00:06.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vfiLQHjmtyk 【LIVE on &lt;t:1780758006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vfiLQHjmtyk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
