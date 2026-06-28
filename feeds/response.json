@@ -8,6 +8,7 @@
     "available_at": "2026-06-28T03:13:06.000Z",
     "duration": 179,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
       "name": "hololive English",
@@ -28,7 +29,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 4
+      "en": 7
     },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
@@ -38,6 +39,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "VeVOGjX3L2E",
+    "title": "【UNARCHIVED PERSONA KARAOKE】baby baby baby baby baby yeeeEEEEEAH #calliolive",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-28T00:35:33.000Z",
+    "available_at": "2026-06-28T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ZZuzZBS3JHrZz49K3ApCYQo1NQLhN3ApfW0R9hAaIfCLMfx5YTL51bOgJv0zk6Ikdngmmn0G=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Mori Calliope"
     }
   },
   {
@@ -2762,29 +2782,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "5smn_hw7kcs",
-    "title": "【 歌枠】NO25.も、、、もう6月!???今日はリクエストからうたってみようかな///🎤ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-06T11:35:23.000Z",
-    "available_at": "2026-06-06T10:02:02.000Z",
-    "duration": 5160,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 4
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
