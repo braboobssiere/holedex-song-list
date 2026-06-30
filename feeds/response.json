@@ -27,7 +27,7 @@
     "available_at": "2026-06-30T09:00:17.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 5,
+    "songcount": 8,
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -196,6 +196,28 @@
     }
   },
   {
+    "id": "CYIuQDlO7_c",
+    "title": "【ゲリラ】眠くなるまでうた雑談うう筋トレ酸素運動ちよ【ホロライブ/ ロボ子さん】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-06-28T16:42:37.000Z",
+    "available_at": "2026-06-28T15:03:47.000Z",
+    "duration": 5557,
+    "status": "past",
+    "live_tl_count": {
+      "en": 15
+    },
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "2ki3sBxtNzo",
     "title": "SUPERNOVA SUPER GIRL (Instrumental)",
     "type": "stream",
@@ -235,28 +257,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RhkoXVesjeO80YBwpSvFz_WtaEptXbXLZ0JncX9zzI4q9eYzlgOnNapKkFd5mzjj1kVTUHytJA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": ""
-    }
-  },
-  {
-    "id": "CYIuQDlO7_c",
-    "title": "【ゲリラ】眠くなるまでうた雑談うう筋トレ酸素運動ちよ【ホロライブ/ ロボ子さん】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-28T14:59:44.000Z",
-    "available_at": "2026-06-28T15:03:47.000Z",
-    "duration": 5557,
-    "status": "past",
-    "live_tl_count": {
-      "en": 15
-    },
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
