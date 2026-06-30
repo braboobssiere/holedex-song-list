@@ -1,13 +1,32 @@
 [
   {
+    "id": "E1y-3X8mczE",
+    "title": "【HOLOEARTH BGM_19】World Horizon",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-06-30T12:00:28.000Z",
+    "available_at": "2026-06-30T12:00:28.000Z",
+    "duration": 264,
+    "status": "past",
+    "channel": {
+      "id": "UCfpWrWvbA34LmrZ9h4Lbwag",
+      "name": "HOLOEARTH ホロアース",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/9oSEoTc7tIyJQFUS3tIJg_Vt1osObTggabiwYENMm_jHAhphKsO7R9kNpACnS4CF6VIu2KVjOb0=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Holoearth"
+    }
+  },
+  {
     "id": "LRiJcTQU9QQ",
-    "title": "【もうすぐ誕生日】みんなと一緒に迎える誕生日!カウントダウン!!!【ホロライブ / AZKi】",
+    "title": "【もうすぐ誕生日】みんなと一緒に迎える誕生日！カウントダウン！！！【ホロライブ / AZKi】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-30T09:14:22.000Z",
     "available_at": "2026-06-30T14:30:53.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4023,
+    "status": "past",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -2691,27 +2710,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
-    "id": "ayh5GVsI3QE",
-    "title": "Deep Dive(Acapella)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-06-07T15:00:39.000Z",
-    "available_at": "2026-06-07T15:00:39.000Z",
-    "duration": 160,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCc_goqg5cuZSlEK3lJNDFjg",
-    "channel": {
-      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
-      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Todoroki Hajime"
     }
   },
   {

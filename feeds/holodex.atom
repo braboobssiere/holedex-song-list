@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-06-30T15:26:26.356Z</updated>
+  <updated>2026-06-30T15:56:28.503Z</updated>
+
+  <entry>
+    <id>urn:uuid:d2fbfd59-1608-59fd-9471-cddd43810ff8</id>
+    <title><![CDATA[【HOLOEARTH BGM_19】World Horizon]]></title>
+    <link href="https://youtu.be/E1y-3X8mczE" rel="alternate" type="text/html"/>
+    <published>2026-06-30T12:00:28.000Z</published>
+    <updated>2026-06-30T12:00:28.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E1y-3X8mczE 【LIVE on &lt;t:1782820828:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1y-3X8mczE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a2fe694e-92ef-5a40-8516-eda8b18b0da2</id>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1sD5u358cxU 【LIVE on &lt;t:1780907589:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1sD5u358cxU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:44c45586-8e49-5a92-9288-9a360f8773e1</id>
-    <title><![CDATA[Deep Dive(Acapella)]]></title>
-    <link href="https://youtu.be/ayh5GVsI3QE" rel="alternate" type="text/html"/>
-    <published>2026-06-07T15:00:39.000Z</published>
-    <updated>2026-06-07T15:00:39.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ayh5GVsI3QE 【LIVE on &lt;t:1780844439:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ayh5GVsI3QE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
