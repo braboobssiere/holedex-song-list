@@ -6,8 +6,8 @@
     "topic_id": "Birthday",
     "published_at": "2026-06-30T23:47:32.000Z",
     "available_at": "2026-07-01T02:00:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 16203,
+    "status": "past",
     "channel": {
       "id": "UCMqGG8BRAiI1lJfKOpETM_w",
       "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
@@ -138,6 +138,25 @@
     }
   },
   {
+    "id": "uaw3z_PB7cQ",
+    "title": "【#ホロボドゲ部】しりとりを閃け!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-06-29T12:36:58.000Z",
+    "available_at": "2026-06-29T11:01:55.000Z",
+    "duration": 5365,
+    "status": "past",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
     "id": "4flP14V9uRI",
     "title": "【 縦型歌枠 】今日はセンチメンタルな気分・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
     "type": "stream",
@@ -193,25 +212,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tsunomaki Watame"
-    }
-  },
-  {
-    "id": "uaw3z_PB7cQ",
-    "title": "【#ホロボドゲ部】しりとりを閃け!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-06-29T03:25:26.000Z",
-    "available_at": "2026-06-29T11:01:55.000Z",
-    "duration": 5369,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
