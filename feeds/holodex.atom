@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-01T09:56:21.570Z</updated>
+  <updated>2026-07-01T10:26:28.107Z</updated>
 
   <entry>
     <id>urn:uuid:d2fbfd59-1608-59fd-9471-cddd43810ff8</id>
@@ -507,6 +507,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yLU58n0Z2Hk 【LIVE on &lt;t:1782291620:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yLU58n0Z2Hk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a0e36ed3-7adc-50d9-b666-a6c66d15c621</id>
+    <title><![CDATA[【縦型歌雑枠】お話多めのお歌枠🎤【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/50uRJZK1JA4" rel="alternate" type="text/html"/>
+    <published>2026-06-24T10:27:39.000Z</published>
+    <updated>2026-07-01T09:31:39.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=50uRJZK1JA4 【LIVE on &lt;t:1782898299:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/50uRJZK1JA4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1263,20 +1277,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cUZcGarMKnw 【LIVE on &lt;t:1781254778:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cUZcGarMKnw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c09de27f-424e-5e1d-be37-0025cb275dbe</id>
-    <title><![CDATA[【余裕です】私は寝起きでも歌えます。【#UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/U05ofFK2hCo" rel="alternate" type="text/html"/>
-    <published>2026-06-12T05:13:55.000Z</published>
-    <updated>2026-06-12T02:58:19.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U05ofFK2hCo 【LIVE on &lt;t:1781233099:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U05ofFK2hCo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
