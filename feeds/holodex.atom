@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-02T14:56:31.672Z</updated>
+  <updated>2026-07-02T15:26:21.694Z</updated>
+
+  <entry>
+    <id>urn:uuid:19102211-4af5-5747-b925-fb75a2de2c1a</id>
+    <title><![CDATA[Okie Dokie Dance (Instrumental)]]></title>
+    <link href="https://youtu.be/B6rNHlzGyKw" rel="alternate" type="text/html"/>
+    <published>2026-07-02T15:00:32.000Z</published>
+    <updated>2026-07-02T15:00:32.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B6rNHlzGyKw 【LIVE on &lt;t:1783004432:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B6rNHlzGyKw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8a6468b4-456f-5d82-a4b8-1de9b76c5e9e</id>
+    <title><![CDATA[Okie Dokie Dance]]></title>
+    <link href="https://youtu.be/vNx_vZTaY20" rel="alternate" type="text/html"/>
+    <published>2026-07-02T15:00:29.000Z</published>
+    <updated>2026-07-02T15:00:29.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vNx_vZTaY20 【LIVE on &lt;t:1783004429:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vNx_vZTaY20/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f02b15e9-85d3-576b-9101-27bc6fca7c32</id>
@@ -1280,20 +1308,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:412dcf6b-3b32-5d30-bdff-3b2566366253</id>
-    <title><![CDATA[【MV】Dirty Look- picco × 八王子P feat.ラプラス・ダークネス]]></title>
-    <link href="https://youtu.be/uCoq3Riir6Q" rel="alternate" type="text/html"/>
-    <published>2026-06-13T11:00:06.000Z</published>
-    <updated>2026-06-13T11:00:06.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uCoq3Riir6Q 【LIVE on &lt;t:1781348406:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uCoq3Riir6Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2256bda0-9627-5e8b-923e-12319a3d58a3</id>
     <title><![CDATA[【 縦型歌枠/KARAOKE 】66万人ありがとう!!【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】]]></title>
     <link href="https://youtu.be/K1nIWY8Bck8" rel="alternate" type="text/html"/>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YMYC-mVkrWM 【LIVE on &lt;t:1781266715:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YMYC-mVkrWM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d9ba1dd2-3da6-5255-8470-f4025e3f19b1</id>
-    <title><![CDATA[Soar]]></title>
-    <link href="https://youtu.be/aGL-ho04XzY" rel="alternate" type="text/html"/>
-    <published>2026-06-11T15:00:30.000Z</published>
-    <updated>2026-06-11T15:00:30.000Z</updated>
-    <author>
-      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=aGL-ho04XzY 【LIVE on &lt;t:1781190030:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aGL-ho04XzY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
