@@ -100,14 +100,14 @@
   },
   {
     "id": "zYRo9EosGPA",
-    "title": "【歌枠/KARAOKE】告知だ~~~!歌うぞ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "title": "【歌枠/KARAOKE】告知だ～～～！歌うぞ！！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-07-01T12:03:58.000Z",
     "available_at": "2026-07-02T11:00:10.000Z",
-    "duration": 0,
-    "status": "live",
-    "songcount": 8,
+    "duration": 3717,
+    "status": "past",
+    "songcount": 9,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -143,9 +143,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-06-30T17:59:55.000Z",
-    "available_at": "2026-07-02T12:00:00.000Z",
+    "available_at": "2026-07-02T12:01:15.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 92
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
