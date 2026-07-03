@@ -1,5 +1,24 @@
 [
   {
+    "id": "M3MCo4j7frs",
+    "title": "本当に絶対安静なんですよ。歌います。絶対安静です / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-03T10:27:34.000Z",
+    "available_at": "2026-07-03T10:32:21.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "CFH1s2D8y1w",
     "title": "BooooM!!!",
     "type": "stream",
@@ -118,6 +137,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
+    }
+  },
+  {
+    "id": "RxxXpcK2GTk",
+    "title": "【HORSE STARS 2026】LET THE RACES BEGIN #Horsestars2026 #HappyBirthdayGribby",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-01T16:27:36.000Z",
+    "available_at": "2026-07-01T14:51:15.000Z",
+    "duration": 4494,
+    "status": "past",
+    "channel": {
+      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
+      "name": "Goldbullet Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Goldbullet"
     }
   },
   {
@@ -1448,25 +1486,6 @@
     }
   },
   {
-    "id": "RxxXpcK2GTk",
-    "title": "【HORSE STARS 2026】LET THE RACES BEGIN #Horsestars2026 #HappyBirthdayGribby",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-06-23T05:19:06.000Z",
-    "available_at": "2026-07-01T14:51:15.000Z",
-    "duration": 4730,
-    "status": "past",
-    "channel": {
-      "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
-      "name": "Goldbullet Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Goldbullet"
-    }
-  },
-  {
     "id": "nIFokjdtUB8",
     "title": "【#BirthdayKoi2026】Birthday handcam! My toxic trait says I can pull off baking koi macrons ezpz clap",
     "type": "stream",
@@ -2714,30 +2733,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "YMYC-mVkrWM",
-    "title": "【 コールありオリ曲 】ライブチケット始まったし、歌っていこう!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-12T15:07:48.000Z",
-    "available_at": "2026-06-12T12:18:35.000Z",
-    "duration": 9676,
-    "status": "past",
-    "songcount": 15,
-    "live_tl_count": {
-      "en": 28,
-      "ko": 215
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
