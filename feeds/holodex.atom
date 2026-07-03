@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-03T12:55:55.279Z</updated>
+  <updated>2026-07-03T13:26:29.235Z</updated>
+
+  <entry>
+    <id>urn:uuid:6b84afaa-08ae-5c44-ae40-b91a360a315f</id>
+    <title><![CDATA[BooooM!!!]]></title>
+    <link href="https://youtu.be/CFH1s2D8y1w" rel="alternate" type="text/html"/>
+    <published>2026-07-03T10:00:32.000Z</published>
+    <updated>2026-07-03T10:00:32.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CFH1s2D8y1w 【LIVE on &lt;t:1783072832:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CFH1s2D8y1w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:19102211-4af5-5747-b925-fb75a2de2c1a</id>
+    <title><![CDATA[Okie Dokie Dance (Instrumental)]]></title>
+    <link href="https://youtu.be/B6rNHlzGyKw" rel="alternate" type="text/html"/>
+    <published>2026-07-02T15:00:32.000Z</published>
+    <updated>2026-07-02T15:00:32.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=B6rNHlzGyKw 【LIVE on &lt;t:1783004432:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B6rNHlzGyKw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8a6468b4-456f-5d82-a4b8-1de9b76c5e9e</id>
+    <title><![CDATA[Okie Dokie Dance]]></title>
+    <link href="https://youtu.be/vNx_vZTaY20" rel="alternate" type="text/html"/>
+    <published>2026-07-02T15:00:29.000Z</published>
+    <updated>2026-07-02T15:00:29.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vNx_vZTaY20 【LIVE on &lt;t:1783004429:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vNx_vZTaY20/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f02b15e9-85d3-576b-9101-27bc6fca7c32</id>
+    <title><![CDATA[電子ピアノの音色は無限大！！【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/6DpoaxkzpzI" rel="alternate" type="text/html"/>
+    <published>2026-07-02T07:02:45.000Z</published>
+    <updated>2026-07-02T10:59:52.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6DpoaxkzpzI 【LIVE on &lt;t:1782989992:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6DpoaxkzpzI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:f7554b17-fd71-503b-bdb7-d91b72ad483e</id>
@@ -17,6 +73,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HSgIJAnLKBg 【LIVE on &lt;t:1782973917:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HSgIJAnLKBg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:30271d19-b298-53cd-96f8-102776651677</id>
+    <title><![CDATA[最強未来衝動]]></title>
+    <link href="https://youtu.be/z6c9WBWz9Ts" rel="alternate" type="text/html"/>
+    <published>2026-07-01T15:00:10.000Z</published>
+    <updated>2026-07-01T15:00:10.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=z6c9WBWz9Ts 【LIVE on &lt;t:1782918010:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z6c9WBWz9Ts/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:65269b16-023e-52cf-8399-2333c64922de</id>
+    <title><![CDATA[最強未来衝動 (Instrumental)]]></title>
+    <link href="https://youtu.be/e0jozed0fGw" rel="alternate" type="text/html"/>
+    <published>2026-07-01T15:00:08.000Z</published>
+    <updated>2026-07-01T15:00:08.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=e0jozed0fGw 【LIVE on &lt;t:1782918008:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/e0jozed0fGw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:42b5c1da-6431-5af2-8d24-a2bab4da0260</id>
+    <title><![CDATA[【3D LIVE】AZKi 8th Birthday Live "Cross Over" 新衣装お披露目&重大告知【#AZKi生誕ライブ2026】]]></title>
+    <link href="https://youtu.be/Kib9k58WLn0" rel="alternate" type="text/html"/>
+    <published>2026-07-01T12:22:34.000Z</published>
+    <updated>2026-07-01T10:55:11.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Kib9k58WLn0 【LIVE on &lt;t:1782903311:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kib9k58WLn0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -48,6 +146,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:d2fbfd59-1608-59fd-9471-cddd43810ff8</id>
+    <title><![CDATA[【HOLOEARTH BGM_19】World Horizon]]></title>
+    <link href="https://youtu.be/E1y-3X8mczE" rel="alternate" type="text/html"/>
+    <published>2026-06-30T12:00:28.000Z</published>
+    <updated>2026-06-30T12:00:28.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E1y-3X8mczE 【LIVE on &lt;t:1782820828:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1y-3X8mczE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:a2fe694e-92ef-5a40-8516-eda8b18b0da2</id>
     <title><![CDATA[【弾き語り】作曲家を目指した理由【 #UNIT_B / #清澄ライラ 】]]></title>
     <link href="https://youtu.be/ElzjB001UAo" rel="alternate" type="text/html"/>
@@ -76,6 +188,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:e7818f69-6804-5909-81a9-c8c88fe30007</id>
+    <title><![CDATA[星をみる少女 (Instrumental)]]></title>
+    <link href="https://youtu.be/VV77mu3-q-M" rel="alternate" type="text/html"/>
+    <published>2026-06-29T15:00:22.000Z</published>
+    <updated>2026-06-29T15:00:22.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VV77mu3-q-M 【LIVE on &lt;t:1782745222:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VV77mu3-q-M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8712ba41-d444-5211-b24f-cd21f5fa33bc</id>
+    <title><![CDATA[星をみる少女]]></title>
+    <link href="https://youtu.be/5L9HHedmLY4" rel="alternate" type="text/html"/>
+    <published>2026-06-29T15:00:14.000Z</published>
+    <updated>2026-06-29T15:00:14.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5L9HHedmLY4 【LIVE on &lt;t:1782745214:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5L9HHedmLY4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e3a15ddd-1c56-5cb1-b957-eaa76875020d</id>
     <title><![CDATA[【 縦型歌枠 】今日はセンチメンタルな気分・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/4flP14V9uRI" rel="alternate" type="text/html"/>
@@ -90,6 +230,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:cf850d71-c315-5deb-bd8c-5ad60824ce81</id>
+    <title><![CDATA[星をみる少女 / 星街すいせい (official)]]></title>
+    <link href="https://youtu.be/9ijHd0knEww" rel="alternate" type="text/html"/>
+    <published>2026-06-29T09:00:06.000Z</published>
+    <updated>2026-06-29T09:00:06.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9ijHd0knEww 【LIVE on &lt;t:1782723606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ijHd0knEww/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:cfc4641f-81ba-5eeb-8b0c-2cc78e2fb495</id>
     <title><![CDATA[【ゲリラ】眠くなるまでうた雑談うう筋トレ酸素運動ちよ【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/CYIuQDlO7_c" rel="alternate" type="text/html"/>
@@ -101,6 +255,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CYIuQDlO7_c 【LIVE on &lt;t:1782659027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CYIuQDlO7_c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:62dfcce1-90fc-57bc-8057-ed30e2288bca</id>
+    <title><![CDATA[SUPERNOVA SUPER GIRL (Instrumental)]]></title>
+    <link href="https://youtu.be/2ki3sBxtNzo" rel="alternate" type="text/html"/>
+    <published>2026-06-28T15:04:36.000Z</published>
+    <updated>2026-06-28T15:04:36.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2ki3sBxtNzo 【LIVE on &lt;t:1782659076:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2ki3sBxtNzo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b3b878ab-85fa-5ff3-9b2d-43c3dfa5e0be</id>
+    <title><![CDATA[SUPERNOVA SUPER GIRL]]></title>
+    <link href="https://youtu.be/3w3qvqiLYSY" rel="alternate" type="text/html"/>
+    <published>2026-06-28T15:03:42.000Z</published>
+    <updated>2026-06-28T15:03:42.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3w3qvqiLYSY 【LIVE on &lt;t:1782659022:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3w3qvqiLYSY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -146,6 +328,76 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:44a8745a-19f7-50c6-92f7-a1045a47954b</id>
+    <title><![CDATA[【MV】SUPERNOVA SUPER GIRL【hololive English -Justice- Original Song】]]></title>
+    <link href="https://youtu.be/DnV8w1Exte4" rel="alternate" type="text/html"/>
+    <published>2026-06-28T03:13:06.000Z</published>
+    <updated>2026-06-28T03:13:06.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DnV8w1Exte4 【LIVE on &lt;t:1782616386:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DnV8w1Exte4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:63c18323-b1af-5cf7-bce4-af484f2cc722</id>
+    <title><![CDATA[【HOLOEARTH BGM_18】A Holy Night Stage【#ホロアース】]]></title>
+    <link href="https://youtu.be/DmacjxoREkQ" rel="alternate" type="text/html"/>
+    <published>2026-06-27T15:01:34.000Z</published>
+    <updated>2026-06-27T15:01:34.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DmacjxoREkQ 【LIVE on &lt;t:1782572494:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DmacjxoREkQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:12b9c9d4-a746-5a9f-9706-d38fb37b2fb7</id>
+    <title><![CDATA[【HOLOEARTH BGM_00】Hello, Pathfinder【#ホロアース】]]></title>
+    <link href="https://youtu.be/-rmg4hj7X-M" rel="alternate" type="text/html"/>
+    <published>2026-06-27T15:00:35.000Z</published>
+    <updated>2026-06-27T15:00:35.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-rmg4hj7X-M 【LIVE on &lt;t:1782572435:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-rmg4hj7X-M/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a4c1d173-f44c-5dab-8046-03091a1dd2b4</id>
+    <title><![CDATA[【HOLOEARTH BGM_17】Glass Moon【#ホロアース】]]></title>
+    <link href="https://youtu.be/WiZ7qaeqTls" rel="alternate" type="text/html"/>
+    <published>2026-06-27T15:00:19.000Z</published>
+    <updated>2026-06-27T15:00:19.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WiZ7qaeqTls 【LIVE on &lt;t:1782572419:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WiZ7qaeqTls/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c281e228-cb55-5897-b040-972e4b1f24bd</id>
+    <title><![CDATA[【HOLOEARTH BGM_16】We are happy to have you【#ホロアース】]]></title>
+    <link href="https://youtu.be/8I0uSYWBrLo" rel="alternate" type="text/html"/>
+    <published>2026-06-27T15:00:10.000Z</published>
+    <updated>2026-06-27T15:00:10.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8I0uSYWBrLo 【LIVE on &lt;t:1782572410:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8I0uSYWBrLo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:81aecb5d-d801-5685-8c64-0c30e5f57813</id>
     <title><![CDATA[【歌枠 KARAOKE】縦型歌💙雑談〜❕【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/CGKxbNEyLoQ" rel="alternate" type="text/html"/>
@@ -174,6 +426,48 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:046ab695-e565-58db-9633-0d1fffd9a39b</id>
+    <title><![CDATA[【HOLOEARTH BGM_15】Alternative City【#ホロアース】]]></title>
+    <link href="https://youtu.be/9Y7Cqab0iXY" rel="alternate" type="text/html"/>
+    <published>2026-06-26T03:05:23.000Z</published>
+    <updated>2026-06-26T03:05:23.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9Y7Cqab0iXY 【LIVE on &lt;t:1782443123:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9Y7Cqab0iXY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4a4f4e6a-5a9f-5c14-a94b-9e29a18829f6</id>
+    <title><![CDATA[【MV】Serendipity【hololive English Original Song】]]></title>
+    <link href="https://youtu.be/Df6etdLFqso" rel="alternate" type="text/html"/>
+    <published>2026-06-26T03:00:06.000Z</published>
+    <updated>2026-06-26T03:00:06.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Df6etdLFqso 【LIVE on &lt;t:1782442806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Df6etdLFqso/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b92e8465-0239-547a-ac08-6d1f3a0662d6</id>
+    <title><![CDATA[【ORIGINAL MV】enough - Gigi Murin]]></title>
+    <link href="https://youtu.be/3m15lUh0WP4" rel="alternate" type="text/html"/>
+    <published>2026-06-25T22:00:06.000Z</published>
+    <updated>2026-06-25T22:00:06.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3m15lUh0WP4 【LIVE on &lt;t:1782424806:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3m15lUh0WP4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:20dcc191-bd63-5a67-9627-eaa782db868c</id>
     <title><![CDATA[【歌枠/KARAOKE】リハビリ歌枠💓こいついつもリハビリしてんな👊【尾丸ポルカ/ホロライブ】]]></title>
     <link href="https://youtu.be/qt3CZg8GcXs" rel="alternate" type="text/html"/>
@@ -199,6 +493,118 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MJCaRfxx8Uk 【LIVE on &lt;t:1782298932:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MJCaRfxx8Uk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:785f9366-6dfa-5fe6-b522-987e4e901253</id>
+    <title><![CDATA[【HOLOEARTH BGM_09】Dawn【#ホロアース】]]></title>
+    <link href="https://youtu.be/Ky82m6tmfV8" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:05:11.000Z</published>
+    <updated>2026-06-25T03:05:11.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ky82m6tmfV8 【LIVE on &lt;t:1782356711:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ky82m6tmfV8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:15cc2621-fef0-54ce-9741-e7e6a6a19a40</id>
+    <title><![CDATA[【HOLOEARTH BGM_14】Stonebound Clash【#ホロアース】]]></title>
+    <link href="https://youtu.be/__q0UmajFNE" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:04:30.000Z</published>
+    <updated>2026-06-25T03:04:30.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=__q0UmajFNE 【LIVE on &lt;t:1782356670:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/__q0UmajFNE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:52ec4078-af7f-550b-94f4-c81d8fa6d2f9</id>
+    <title><![CDATA[【HOLOEARTH BGM_08】Simulation Room & My Room【#ホロアース】]]></title>
+    <link href="https://youtu.be/UxOhOM9EeSI" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:04:16.000Z</published>
+    <updated>2026-06-25T03:04:16.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UxOhOM9EeSI 【LIVE on &lt;t:1782356656:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UxOhOM9EeSI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:eab539b5-0b9d-5df9-8d7b-91fcc96020a4</id>
+    <title><![CDATA[【HOLOEARTH BGM_13】Ooze Clash【#ホロアース】]]></title>
+    <link href="https://youtu.be/gnjsuI1xs-I" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:03:43.000Z</published>
+    <updated>2026-06-25T03:03:43.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gnjsuI1xs-I 【LIVE on &lt;t:1782356623:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gnjsuI1xs-I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6b8a2926-b5f0-544f-8c47-00c93d69a976</id>
+    <title><![CDATA[【HOLOEARTH BGM_12】Skirmish【#ホロアース】]]></title>
+    <link href="https://youtu.be/w5sb2NGY7qc" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:02:28.000Z</published>
+    <updated>2026-06-25T03:02:28.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=w5sb2NGY7qc 【LIVE on &lt;t:1782356548:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w5sb2NGY7qc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:df6c17df-6090-5122-9ebc-53f0f1e88226</id>
+    <title><![CDATA[【HOLOEARTH BGM_11】Feral Howl【#ホロアース】]]></title>
+    <link href="https://youtu.be/iYmwox5V9Qo" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:01:48.000Z</published>
+    <updated>2026-06-25T03:01:48.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iYmwox5V9Qo 【LIVE on &lt;t:1782356508:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iYmwox5V9Qo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8854731d-9f75-547d-88da-7b493f7abcb7</id>
+    <title><![CDATA[【HOLOEARTH BGM_10】Nightfall【#ホロアース】]]></title>
+    <link href="https://youtu.be/tIwxKCALjqM" rel="alternate" type="text/html"/>
+    <published>2026-06-25T03:00:11.000Z</published>
+    <updated>2026-06-25T03:00:11.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tIwxKCALjqM 【LIVE on &lt;t:1782356411:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tIwxKCALjqM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:47b92c8a-1672-5b66-8efa-a02bc3ab9a45</id>
+    <title><![CDATA[【 3DLIVE 】"アニソン Night Fever2" / 重大告知あり!【 #角巻わため生誕祭2026 】]]></title>
+    <link href="https://youtu.be/BADL5x3Ftzc" rel="alternate" type="text/html"/>
+    <published>2026-06-24T13:06:57.000Z</published>
+    <updated>2026-06-24T11:57:32.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BADL5x3Ftzc 【LIVE on &lt;t:1782302252:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BADL5x3Ftzc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -241,6 +647,202 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=yLU58n0Z2Hk 【LIVE on &lt;t:1782291620:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yLU58n0Z2Hk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:86bdfd92-eeca-5b66-80ed-bcfe7483fbe4</id>
+    <title><![CDATA[【HOLOEARTH BGM_07】Call or Fold【#ホロアース】]]></title>
+    <link href="https://youtu.be/D_Y2C6R9jeQ" rel="alternate" type="text/html"/>
+    <published>2026-06-24T03:03:39.000Z</published>
+    <updated>2026-06-24T03:03:39.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=D_Y2C6R9jeQ 【LIVE on &lt;t:1782270219:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D_Y2C6R9jeQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:683486a3-f308-54f4-80bd-53844cbd3859</id>
+    <title><![CDATA[【HOLOEARTH BGM_06】Poker Room【#ホロアース】]]></title>
+    <link href="https://youtu.be/zROI07rKqJE" rel="alternate" type="text/html"/>
+    <published>2026-06-24T03:02:32.000Z</published>
+    <updated>2026-06-24T03:02:32.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zROI07rKqJE 【LIVE on &lt;t:1782270152:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zROI07rKqJE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fd1da199-5c62-53b5-bfb0-48b00c5bb17c</id>
+    <title><![CDATA[【HOLOEARTH BGM_05】Underworld Geo【#ホロアース】]]></title>
+    <link href="https://youtu.be/szveqH-uTCs" rel="alternate" type="text/html"/>
+    <published>2026-06-24T03:01:42.000Z</published>
+    <updated>2026-06-24T03:01:42.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=szveqH-uTCs 【LIVE on &lt;t:1782270102:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/szveqH-uTCs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bd4e4040-f937-5e39-bda2-7ab8737471d6</id>
+    <title><![CDATA[enough (Instrumental)]]></title>
+    <link href="https://youtu.be/-4Ah1dqs9R8" rel="alternate" type="text/html"/>
+    <published>2026-06-23T15:00:39.000Z</published>
+    <updated>2026-06-23T15:00:39.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-4Ah1dqs9R8 【LIVE on &lt;t:1782226839:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-4Ah1dqs9R8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9133a06c-da50-58ae-bb89-4e345e437b85</id>
+    <title><![CDATA[enough]]></title>
+    <link href="https://youtu.be/LCD3I3cJtik" rel="alternate" type="text/html"/>
+    <published>2026-06-23T15:00:09.000Z</published>
+    <updated>2026-06-23T15:00:09.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LCD3I3cJtik 【LIVE on &lt;t:1782226809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LCD3I3cJtik/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2733fb25-39ba-56a9-a7cd-3da63b26eaf9</id>
+    <title><![CDATA[グランドピアノばいばいコンサート【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/DW0kvUXckWw" rel="alternate" type="text/html"/>
+    <published>2026-06-23T12:12:04.000Z</published>
+    <updated>2026-06-23T09:57:38.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DW0kvUXckWw 【LIVE on &lt;t:1782208658:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DW0kvUXckWw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:10160940-ed6e-51b1-9e91-436aec11df70</id>
+    <title><![CDATA[【HOLOEARTH BGM_04】Walled City of Vesta【#ホロアース】]]></title>
+    <link href="https://youtu.be/UyGlXkkBlbc" rel="alternate" type="text/html"/>
+    <published>2026-06-23T03:00:38.000Z</published>
+    <updated>2026-06-23T03:00:38.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UyGlXkkBlbc 【LIVE on &lt;t:1782183638:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UyGlXkkBlbc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e92b8f06-e763-51b9-a057-a2c4e2aec2bf</id>
+    <title><![CDATA[【RISU VERSION】MIR//or 【KARAOKE】]]></title>
+    <link href="https://youtu.be/1PxEmKQvM70" rel="alternate" type="text/html"/>
+    <published>2026-06-22T05:00:06.000Z</published>
+    <updated>2026-06-22T05:00:06.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1PxEmKQvM70 【LIVE on &lt;t:1782104406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1PxEmKQvM70/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b073159d-0349-512b-97df-e44ffca28060</id>
+    <title><![CDATA[【KARAOKE】MIR//or【AYUNDA VERSION】]]></title>
+    <link href="https://youtu.be/toMMyF1ZxKM" rel="alternate" type="text/html"/>
+    <published>2026-06-22T05:00:06.000Z</published>
+    <updated>2026-06-22T05:00:06.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=toMMyF1ZxKM 【LIVE on &lt;t:1782104406:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/toMMyF1ZxKM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a4ea90f0-42ed-50ce-b292-6603a074ff64</id>
+    <title><![CDATA[【HOLOEARTH BGM_03】Tower of Achievement【#ホロアース】]]></title>
+    <link href="https://youtu.be/yew27_xeRlM" rel="alternate" type="text/html"/>
+    <published>2026-06-22T03:00:19.000Z</published>
+    <updated>2026-06-22T03:00:19.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yew27_xeRlM 【LIVE on &lt;t:1782097219:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yew27_xeRlM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8510ac87-145c-5f79-83d4-4df2989d8e53</id>
+    <title><![CDATA[【HOLOEARTH BGM_01】Kyo-no-Miyako【#ホロアース】]]></title>
+    <link href="https://youtu.be/R__hZcEQ4uU" rel="alternate" type="text/html"/>
+    <published>2026-06-22T03:00:06.000Z</published>
+    <updated>2026-06-22T03:00:06.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R__hZcEQ4uU 【LIVE on &lt;t:1782097206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R__hZcEQ4uU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6f76649a-bb44-5368-943e-dd024711ddd0</id>
+    <title><![CDATA[【HOLOEARTH BGM_02】Kyo-no-Miyako – Live Arrangement【#ホロアース】]]></title>
+    <link href="https://youtu.be/6UEwqvXWNd8" rel="alternate" type="text/html"/>
+    <published>2026-06-22T03:00:03.000Z</published>
+    <updated>2026-06-22T03:00:03.000Z</updated>
+    <author>
+      <name>HOLOEARTH ホロアース</name>
+      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6UEwqvXWNd8 【LIVE on &lt;t:1782097203:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6UEwqvXWNd8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b092ef85-fc92-5465-ad4f-fab9c3a92302</id>
+    <title><![CDATA[【ギター練習】眠れない夜のアコギ練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/xnZEEiYkGN4" rel="alternate" type="text/html"/>
+    <published>2026-06-21T18:52:32.000Z</published>
+    <updated>2026-06-21T15:50:05.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xnZEEiYkGN4 【LIVE on &lt;t:1782057005:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xnZEEiYkGN4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:db85a84a-42c0-50f0-9877-04829c874ed9</id>
+    <title><![CDATA[【黒歴史】過去演奏聞かせちゃいます!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/UQ8Nmr5F4J4" rel="alternate" type="text/html"/>
+    <published>2026-06-21T15:56:54.000Z</published>
+    <updated>2026-06-21T13:00:41.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UQ8Nmr5F4J4 【LIVE on &lt;t:1782046841:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UQ8Nmr5F4J4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -356,6 +958,90 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b2b1c253-b35e-5a93-9de1-fc7d61dd83c4</id>
+    <title><![CDATA[Serendipity]]></title>
+    <link href="https://youtu.be/LSZ3Q6G9A34" rel="alternate" type="text/html"/>
+    <published>2026-06-19T15:00:16.000Z</published>
+    <updated>2026-06-19T15:00:16.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LSZ3Q6G9A34 【LIVE on &lt;t:1781881216:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LSZ3Q6G9A34/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:328442c9-0561-597a-a4e9-84b4cc321627</id>
+    <title><![CDATA[Serendipity (Instrumental)]]></title>
+    <link href="https://youtu.be/D43r5aM3Wq8" rel="alternate" type="text/html"/>
+    <published>2026-06-19T15:00:13.000Z</published>
+    <updated>2026-06-19T15:00:13.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=D43r5aM3Wq8 【LIVE on &lt;t:1781881213:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/D43r5aM3Wq8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e5884b5e-6fab-59b9-a688-fb5817ac5f10</id>
+    <title><![CDATA[風向きエントロピー (Instrumental)]]></title>
+    <link href="https://youtu.be/fDiqCHyUmvE" rel="alternate" type="text/html"/>
+    <published>2026-06-18T15:00:24.000Z</published>
+    <updated>2026-06-18T15:00:24.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fDiqCHyUmvE 【LIVE on &lt;t:1781794824:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fDiqCHyUmvE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b6402513-37c1-5122-afdd-e713f91137de</id>
+    <title><![CDATA[風向きエントロピー]]></title>
+    <link href="https://youtu.be/DYDEeXyrNxw" rel="alternate" type="text/html"/>
+    <published>2026-06-18T15:00:23.000Z</published>
+    <updated>2026-06-18T15:00:23.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DYDEeXyrNxw 【LIVE on &lt;t:1781794823:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DYDEeXyrNxw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b7ba815d-6617-5b1a-bf86-a3804ae8e477</id>
+    <title><![CDATA[【3DLIVE】Wind Trails🍃#風真いろは生誕ライブ2026 告知&ゲストあり🎈【風真いろは/ホロライブ】]]></title>
+    <link href="https://youtu.be/23UEX1Yh43U" rel="alternate" type="text/html"/>
+    <published>2026-06-18T12:12:30.000Z</published>
+    <updated>2026-06-18T10:55:16.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=23UEX1Yh43U 【LIVE on &lt;t:1781780116:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/23UEX1Yh43U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:292a6db9-0a90-5088-9ad4-23d2decbbe75</id>
+    <title><![CDATA[風向きエントロピー/ 風真いろは(official)]]></title>
+    <link href="https://youtu.be/RDobidAdBCA" rel="alternate" type="text/html"/>
+    <published>2026-06-18T12:08:16.000Z</published>
+    <updated>2026-06-18T12:08:16.000Z</updated>
+    <author>
+      <name>Iroha ch. 風真いろは - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RDobidAdBCA 【LIVE on &lt;t:1781784496:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RDobidAdBCA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4571272e-4cbf-5867-8d61-8495c6aa09c7</id>
     <title><![CDATA[【歌枠】あした誕生日なんでライブみにきてくださいの歌枠🎤#shorts #歌枠【風真いろは/ホロライブ】]]></title>
     <link href="https://youtu.be/b99OMm1WlNI" rel="alternate" type="text/html"/>
@@ -412,6 +1098,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a4796f42-d778-5ee9-8249-dffe91c3d263</id>
+    <title><![CDATA[【私は先生】楽譜が読めるようになる!かも!?]]></title>
+    <link href="https://youtu.be/T060Goa2yxg" rel="alternate" type="text/html"/>
+    <published>2026-06-16T15:09:35.000Z</published>
+    <updated>2026-06-16T13:00:57.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=T060Goa2yxg 【LIVE on &lt;t:1781614857:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T060Goa2yxg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1346741b-576c-58ce-b382-61d01083e04f</id>
+    <title><![CDATA[【 3DLIVE 】Step Into Dreams【水宮枢/ホロライブDEV_IS】#水宮枢生誕祭2026]]></title>
+    <link href="https://youtu.be/h0jykfxgmj0" rel="alternate" type="text/html"/>
+    <published>2026-06-16T13:05:49.000Z</published>
+    <updated>2026-06-16T11:54:21.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=h0jykfxgmj0 【LIVE on &lt;t:1781610861:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h0jykfxgmj0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:5be68785-3e55-578b-b3f2-8998a7d7744d</id>
     <title><![CDATA[【ARCHIVED KARAOKE】 Pt. 2: SINGING SONGS THAT'S BEEN STUCK IN MY HEAD 脳内リピしてる曲、歌います! 【Kureiji Ollie】]]></title>
     <link href="https://youtu.be/TGTgovK--ow" rel="alternate" type="text/html"/>
@@ -423,6 +1137,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=TGTgovK--ow 【LIVE on &lt;t:1781531433:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TGTgovK--ow/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a18858bd-77e5-53d2-8d0b-f4c1cf1ad21e</id>
+    <title><![CDATA[【Original】うみゃうにゃはっぴーらいふ【水宮枢/ホロライブDEV_IS】]]></title>
+    <link href="https://youtu.be/_tVZp3ufOOs" rel="alternate" type="text/html"/>
+    <published>2026-06-16T13:00:07.000Z</published>
+    <updated>2026-06-16T13:00:07.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_tVZp3ufOOs 【LIVE on &lt;t:1781614807:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_tVZp3ufOOs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -451,6 +1179,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=owRV0zwkgJE 【LIVE on &lt;t:1781528735:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/owRV0zwkgJE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85fa5faf-97fb-55e0-98d2-f13b304a04d3</id>
+    <title><![CDATA[【3DLIVE】Lazy DOOG Night! 【戌神ころね】#戌神ころね7周年]]></title>
+    <link href="https://youtu.be/Z1_nnb7LxYs" rel="alternate" type="text/html"/>
+    <published>2026-06-15T12:08:22.000Z</published>
+    <updated>2026-06-15T11:00:34.000Z</updated>
+    <author>
+      <name>Korone Ch. 戌神ころね</name>
+      <uri>https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z1_nnb7LxYs 【LIVE on &lt;t:1781521234:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z1_nnb7LxYs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -496,6 +1238,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4ceb279c-b9a2-5036-8c5b-24d05313813f</id>
+    <title><![CDATA[お陰様で (Instrumental)]]></title>
+    <link href="https://youtu.be/o7HEpxu1stE" rel="alternate" type="text/html"/>
+    <published>2026-06-14T15:03:37.000Z</published>
+    <updated>2026-06-14T15:03:37.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=o7HEpxu1stE 【LIVE on &lt;t:1781449417:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/o7HEpxu1stE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:88c577a0-979a-517d-afbe-806edd662772</id>
+    <title><![CDATA[お陰様で]]></title>
+    <link href="https://youtu.be/zwBUXhAWvAQ" rel="alternate" type="text/html"/>
+    <published>2026-06-14T15:02:01.000Z</published>
+    <updated>2026-06-14T15:02:01.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zwBUXhAWvAQ 【LIVE on &lt;t:1781449321:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zwBUXhAWvAQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:64098a13-6978-5ba6-84f3-ac38966f7791</id>
     <title><![CDATA[【3D】#ホロライブ歌うま大賞【生放送】]]></title>
     <link href="https://youtu.be/HViPZmjIa14" rel="alternate" type="text/html"/>
@@ -507,6 +1277,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HViPZmjIa14 【LIVE on &lt;t:1781434629:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HViPZmjIa14/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6c73fdc2-1ae2-5dba-a128-ef4a2da81878</id>
+    <title><![CDATA[【original】お陰様で/癒月ちょこ【ホロライブ】]]></title>
+    <link href="https://youtu.be/DiDmv47ExUc" rel="alternate" type="text/html"/>
+    <published>2026-06-14T09:00:06.000Z</published>
+    <updated>2026-06-14T09:00:06.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DiDmv47ExUc 【LIVE on &lt;t:1781427606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DiDmv47ExUc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -563,6 +1347,146 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zpYCySU8jR0 【LIVE on &lt;t:1781274595:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zpYCySU8jR0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c7844e9e-6792-5ad3-b873-f57f2ce0ae5f</id>
+    <title><![CDATA[【挑戦】色んな楽器を弾いてみたい!歌いたい!【 #UNIT_B / #宵凪ネオン】]]></title>
+    <link href="https://youtu.be/IFAa-cQxDwA" rel="alternate" type="text/html"/>
+    <published>2026-06-11T14:10:07.000Z</published>
+    <updated>2026-06-11T12:00:25.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IFAa-cQxDwA 【LIVE on &lt;t:1781179225:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IFAa-cQxDwA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e0417e83-fcee-502d-9767-3ab6d0e0c8bd</id>
+    <title><![CDATA[【3DLIVE】超重大告知アリ!3D新衣装お披露目!!『Luminous Stairs』【鷹嶺ルイ/ホロライブ】#鷹嶺ルイ超重大生誕LIVE]]></title>
+    <link href="https://youtu.be/T71ds94dnnM" rel="alternate" type="text/html"/>
+    <published>2026-06-11T12:07:44.000Z</published>
+    <updated>2026-06-11T10:52:56.000Z</updated>
+    <author>
+      <name>Lui ch. 鷹嶺ルイ - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=T71ds94dnnM 【LIVE on &lt;t:1781175176:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T71ds94dnnM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a5d78d53-e9f6-507d-a8e9-ef017b28c2b4</id>
+    <title><![CDATA[【ギター練習】エレキの練習~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/1sD5u358cxU" rel="alternate" type="text/html"/>
+    <published>2026-06-08T14:15:00.000Z</published>
+    <updated>2026-06-08T08:33:09.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1sD5u358cxU 【LIVE on &lt;t:1780907589:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1sD5u358cxU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3395e422-d29c-5c47-a9b1-5abc2d8265a4</id>
+    <title><![CDATA[【3DLIVE】Rise In Motion【轟はじめ】 #轟はじめ生誕祭2026]]></title>
+    <link href="https://youtu.be/Zcx1344XAmI" rel="alternate" type="text/html"/>
+    <published>2026-06-07T11:59:55.000Z</published>
+    <updated>2026-06-07T10:53:17.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Zcx1344XAmI 【LIVE on &lt;t:1780829597:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Zcx1344XAmI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a20e14ae-0baa-58ac-b1c9-b4a3a0c553a5</id>
+    <title><![CDATA[【ギター練習】エレキデビューすっぞ!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/UiU3ptAdzHU" rel="alternate" type="text/html"/>
+    <published>2026-06-06T11:49:31.000Z</published>
+    <updated>2026-06-06T09:31:58.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780738318:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UiU3ptAdzHU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5adaba53-06e8-5395-b299-3926cf3e86ab</id>
+    <title><![CDATA[【みんなが先生】スパルタピアノレッスンを実施します!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/ouIeDbNHl8s" rel="alternate" type="text/html"/>
+    <published>2026-06-05T15:10:24.000Z</published>
+    <updated>2026-06-05T12:58:57.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ouIeDbNHl8s 【LIVE on &lt;t:1780664337:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ouIeDbNHl8s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac1e7fc8-b2f9-581d-be9a-884b555dc30b</id>
+    <title><![CDATA[【天才に挑戦】今日は巨匠の楽曲に挑みます。【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/nBPlJL6kydA" rel="alternate" type="text/html"/>
+    <published>2026-06-02T12:16:49.000Z</published>
+    <updated>2026-06-02T09:28:18.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nBPlJL6kydA 【LIVE on &lt;t:1780392498:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nBPlJL6kydA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:14b414cd-fd45-5925-90c8-70593469a70b</id>
+    <title><![CDATA[【ピアノ弾く】今日はたくさん演奏します!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/NSQTp3BIR5Y" rel="alternate" type="text/html"/>
+    <published>2026-05-31T14:01:39.000Z</published>
+    <updated>2026-05-31T10:59:38.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NSQTp3BIR5Y 【LIVE on &lt;t:1780225178:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NSQTp3BIR5Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:be34a17e-91eb-537f-86ec-bb8910ef794b</id>
+    <title><![CDATA[【 3D LIVE 】THE ONE & ONLY【 #⁠響咲リオナ生誕祭2026】]]></title>
+    <link href="https://youtu.be/gvGDJyWKHbk" rel="alternate" type="text/html"/>
+    <published>2026-05-29T12:00:07.000Z</published>
+    <updated>2026-05-29T10:57:51.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gvGDJyWKHbk 【LIVE on &lt;t:1780052271:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gvGDJyWKHbk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aba6f520-03bf-5adf-b34d-496a15b95f7a</id>
+    <title><![CDATA[【演奏するかも】みんなで初配信の振り返りをしませんか?【 #UNIT_B /玲銘ミラ】]]></title>
+    <link href="https://youtu.be/uVlyJmT69bo" rel="alternate" type="text/html"/>
+    <published>2026-05-25T14:06:54.000Z</published>
+    <updated>2026-05-25T11:59:32.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uVlyJmT69bo 【LIVE on &lt;t:1779710372:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVlyJmT69bo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -650,6 +1574,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6f0f55c9-32ca-5e88-b1c9-4e6bb601bcf9</id>
+    <title><![CDATA[【#ときのそらお披露目誕生日2026】10年目に向けた最高のパフォーマンスを!~告知もあるよ~【ホロライブ/ときのそら】]]></title>
+    <link href="https://youtu.be/sflyOJD5y50" rel="alternate" type="text/html"/>
+    <published>2026-05-15T12:05:02.000Z</published>
+    <updated>2026-05-15T10:57:26.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sflyOJD5y50 【LIVE on &lt;t:1778842646:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sflyOJD5y50/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d425733e-c122-565e-be93-561a8ccfd53f</id>
     <title><![CDATA[【 3D KARAOKE / 歌枠 】まつりちゃんと一緒にカラオケするぞ~‼【夏色まつり/鷹嶺ルイ/ホロライブ】]]></title>
     <link href="https://youtu.be/tojEGz-odMc" rel="alternate" type="text/html"/>
@@ -661,6 +1599,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tojEGz-odMc 【LIVE on &lt;t:1778749253:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tojEGz-odMc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a639b917-c321-5449-afd4-8fc9d4013ef3</id>
+    <title><![CDATA[【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026]]></title>
+    <link href="https://youtu.be/w37yVSXhV_c" rel="alternate" type="text/html"/>
+    <published>2026-05-10T02:13:21.000Z</published>
+    <updated>2026-05-10T01:00:02.000Z</updated>
+    <author>
+      <name>Raora Panthera Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCl69AEx4MdqMZH7Jtsm7Tig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=w37yVSXhV_c 【LIVE on &lt;t:1778374802:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/w37yVSXhV_c/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -706,6 +1658,76 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:35891348-bdb7-55c8-9e09-39f20112bcf1</id>
+    <title><![CDATA[【3D BIRTHDAY LIVE】NOW That's an 80s BOP! #ERBday2026]]></title>
+    <link href="https://youtu.be/PGppUhILuP4" rel="alternate" type="text/html"/>
+    <published>2026-04-25T13:03:23.000Z</published>
+    <updated>2026-04-25T12:00:35.000Z</updated>
+    <author>
+      <name>Elizabeth Rose Bloodflame Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=PGppUhILuP4 【LIVE on &lt;t:1777118435:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PGppUhILuP4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:550ba5ac-a148-5f22-8916-1bd2e64d6e45</id>
+    <title><![CDATA[【 3D LIVE  】IN PROGRESS【 #音乃瀬奏生誕祭2026 】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/zZ2Ce3eDamU" rel="alternate" type="text/html"/>
+    <published>2026-04-20T12:15:16.000Z</published>
+    <updated>2026-04-20T10:55:26.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zZ2Ce3eDamU 【LIVE on &lt;t:1776682526:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zZ2Ce3eDamU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ed03e41c-9d4d-5a02-860e-36722e37a55e</id>
+    <title><![CDATA[【ギター練習】ゆるっとギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/HTDbJmNy03U" rel="alternate" type="text/html"/>
+    <published>2026-04-18T16:03:17.000Z</published>
+    <updated>2026-04-18T12:32:41.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HTDbJmNy03U 【LIVE on &lt;t:1776515561:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HTDbJmNy03U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d59e452a-3e5a-576c-921d-235cdcce2a69</id>
+    <title><![CDATA[【ギター練習】ゆるゆるぎた~~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/LH96HKaQ7qo" rel="alternate" type="text/html"/>
+    <published>2026-04-16T15:15:59.000Z</published>
+    <updated>2026-04-16T12:02:51.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LH96HKaQ7qo 【LIVE on &lt;t:1776340971:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH96HKaQ7qo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f73b2fed-8d5a-58fd-8c70-4364ca5ca42c</id>
+    <title><![CDATA[【ギター練習/雑談】ゆるっとギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/r5z_ai-UJms" rel="alternate" type="text/html"/>
+    <published>2026-04-13T15:11:07.000Z</published>
+    <updated>2026-04-13T12:39:31.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r5z_ai-UJms 【LIVE on &lt;t:1776083971:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r5z_ai-UJms/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:32fecfbc-41ed-5f1e-b02f-edd71755f0eb</id>
     <title><![CDATA[【ASMR】病み上がり彼女による脳みそトロふわ安眠ASMR💊【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/4Dr0bWuE7wQ" rel="alternate" type="text/html"/>
@@ -731,6 +1753,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Jh2SUbSwGSw 【LIVE on &lt;t:1775610036:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jh2SUbSwGSw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4396987a-eed3-513a-a98c-9961019fa301</id>
+    <title><![CDATA[【雑談/弾き語り】ほんとうに練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/E0K3vemMMEE" rel="alternate" type="text/html"/>
+    <published>2026-03-30T17:49:13.000Z</published>
+    <updated>2026-03-30T14:14:03.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E0K3vemMMEE 【LIVE on &lt;t:1774880043:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E0K3vemMMEE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:78385fd7-db95-58eb-98e5-7a8a59acbeab</id>
+    <title><![CDATA[【#大空スバル7周年LIVE】大空スバル 7th 記念LIVE ラブミ❣：7th anniversary live【ホロライブ/大空スバル】]]></title>
+    <link href="https://youtu.be/NfJsoMi1y0s" rel="alternate" type="text/html"/>
+    <published>2026-03-29T13:07:05.000Z</published>
+    <updated>2026-03-29T12:00:11.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NfJsoMi1y0s 【LIVE on &lt;t:1774785611:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NfJsoMi1y0s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -790,6 +1840,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:c1a78545-fb78-5689-9e46-9fa244396947</id>
+    <title><![CDATA[【8周年アコースティックLIVE】#星街すいせい重大発表LIVE]]></title>
+    <link href="https://youtu.be/Jz2xEfAjC8Y" rel="alternate" type="text/html"/>
+    <published>2026-03-22T12:03:43.000Z</published>
+    <updated>2026-03-22T11:00:12.000Z</updated>
+    <author>
+      <name>Suisei Channel</name>
+      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Jz2xEfAjC8Y 【LIVE on &lt;t:1774177212:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Jz2xEfAjC8Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e40e228a-eb06-5a7f-8a8f-00569b973fc9</id>
+    <title><![CDATA[【雑談/弾き語り】のんびり練習つきあってよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/VfDpe5ashdY" rel="alternate" type="text/html"/>
+    <published>2026-03-21T17:37:46.000Z</published>
+    <updated>2026-03-21T13:39:00.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VfDpe5ashdY 【LIVE on &lt;t:1774100340:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VfDpe5ashdY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d5e0b44a-603d-5129-b68c-383e05697495</id>
     <title><![CDATA[【#ホロカラ覗き見】ホロメンのカラオケ覗き見!? / 3Dstream【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/R-yE9Mut4Yc" rel="alternate" type="text/html"/>
@@ -801,6 +1879,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R-yE9Mut4Yc 【LIVE on &lt;t:1774094306:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R-yE9Mut4Yc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8eb34f62-52d7-597e-80ce-417a1dd20b0a</id>
+    <title><![CDATA[【 エレクトーン 】2ヶ月ぶりに演奏するのら!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/orfLAQUXejQ" rel="alternate" type="text/html"/>
+    <published>2026-03-20T13:47:10.000Z</published>
+    <updated>2026-03-20T06:58:43.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=orfLAQUXejQ 【LIVE on &lt;t:1773989923:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/orfLAQUXejQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1028,6 +2120,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0465a04f-81ce-59a9-80ae-d75f517b1b82</id>
+    <title><![CDATA[【雑談/ギター】ギターはじめ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/GQ2IFNnP-Ds" rel="alternate" type="text/html"/>
+    <published>2026-01-18T16:10:51.000Z</published>
+    <updated>2026-01-18T13:30:39.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GQ2IFNnP-Ds 【LIVE on &lt;t:1768743039:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GQ2IFNnP-Ds/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6a51e82f-21ad-509e-9b33-16d212042391</id>
+    <title><![CDATA[【 エレクトーン 】3ヶ月ぶりに演奏するのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/7HfzPoQkotk" rel="alternate" type="text/html"/>
+    <published>2026-01-12T10:54:06.000Z</published>
+    <updated>2026-01-12T06:57:37.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7HfzPoQkotk 【LIVE on &lt;t:1768201057:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7HfzPoQkotk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d77fd9dc-4704-57b6-8bd4-c019c778fbd9</id>
     <title><![CDATA[≪ASMR TYPING STREAM≫ I am become TTS]]></title>
     <link href="https://youtu.be/flfKicFEA0U" rel="alternate" type="text/html"/>
@@ -1039,6 +2159,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=flfKicFEA0U 【LIVE on &lt;t:1767834118:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/flfKicFEA0U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ee85d210-96a9-51b4-bf5a-e4ea20647fcb</id>
+    <title><![CDATA[【 #常闇トワ6周年記念LIVE 】ROCK Festa !!!【 3DLIVE 】]]></title>
+    <link href="https://youtu.be/pmWH-wAJYRE" rel="alternate" type="text/html"/>
+    <published>2026-01-03T12:06:40.000Z</published>
+    <updated>2026-01-03T10:50:44.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pmWH-wAJYRE 【LIVE on &lt;t:1767437444:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pmWH-wAJYRE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1098,6 +2232,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:dd08c21f-8cac-52f5-b358-d79093a94428</id>
+    <title><![CDATA[【雑談/CHAT】ギターの練習しながらまったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/FNiBJUO0GjY" rel="alternate" type="text/html"/>
+    <published>2025-12-01T16:02:01.000Z</published>
+    <updated>2025-12-01T13:21:59.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FNiBJUO0GjY 【LIVE on &lt;t:1764595319:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FNiBJUO0GjY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:71fe25a6-9f4f-5e61-98a6-79a8cdd82158</id>
     <title><![CDATA[【ASMR】ささやきつつ歌いつつ、告知もあるよ!【ホロライブ/ときのそら】]]></title>
     <link href="https://youtu.be/pwPdsNZrIEE" rel="alternate" type="text/html"/>
@@ -1123,6 +2271,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WaMRN51S-0k 【LIVE on &lt;t:1763863695:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WaMRN51S-0k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:60e3e28d-4dca-57ef-8b91-ca15924ab9d7</id>
+    <title><![CDATA[【PIANO】LET'S PRESS THE KEYS!!!!!!]]></title>
+    <link href="https://youtu.be/HGEQfQgd2bk" rel="alternate" type="text/html"/>
+    <published>2025-11-19T22:07:04.000Z</published>
+    <updated>2025-11-19T20:03:07.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582587:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d9fcb95d-8059-5ac0-9d28-8bc7b4bb86ef</id>
+    <title><![CDATA[Let's practice together~ | Lyre ASMR]]></title>
+    <link href="https://youtu.be/zCI6n1l_TGM" rel="alternate" type="text/html"/>
+    <published>2025-11-17T03:25:19.000Z</published>
+    <updated>2025-11-17T00:55:10.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zCI6n1l_TGM 【LIVE on &lt;t:1763340910:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zCI6n1l_TGM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b6aa5bbb-4c4a-5436-a2c3-641d9712a0ff</id>
+    <title><![CDATA[【雑談/chat】朝のスキマ時間にギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/-FsPuaFLpsU" rel="alternate" type="text/html"/>
+    <published>2025-11-17T01:13:11.000Z</published>
+    <updated>2025-11-16T23:33:15.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-FsPuaFLpsU 【LIVE on &lt;t:1763335995:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-FsPuaFLpsU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1168,6 +2358,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:91bd0ff0-7331-59d8-93cc-8da1f663fc1f</id>
+    <title><![CDATA[【雑談/chat】ギターの練習しつつ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/eivEMTEdw2A" rel="alternate" type="text/html"/>
+    <published>2025-11-06T15:52:09.000Z</published>
+    <updated>2025-11-06T13:21:15.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eivEMTEdw2A 【LIVE on &lt;t:1762435275:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eivEMTEdw2A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3d597177-bd31-5575-9318-dd5e091c029a</id>
+    <title><![CDATA[【雑談/ギター練習】弾き語り練習したり喋ったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/m02P03R9j1k" rel="alternate" type="text/html"/>
+    <published>2025-10-26T15:25:03.000Z</published>
+    <updated>2025-10-26T12:48:17.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=m02P03R9j1k 【LIVE on &lt;t:1761482897:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m02P03R9j1k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:369f0138-644a-5422-8431-71908437481f</id>
     <title><![CDATA[【ASMR】肌寒い日はお姉さんと一緒に心とお耳をぽかぽかにしよ♡極上安眠ASMR💤【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/zUzrsNNpAGg" rel="alternate" type="text/html"/>
@@ -1210,6 +2428,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:097b30be-013c-5c1c-a115-267b0bdeafb3</id>
+    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/i65Gl-3qIFA" rel="alternate" type="text/html"/>
+    <published>2025-10-09T16:26:26.000Z</published>
+    <updated>2025-10-09T14:08:19.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=i65Gl-3qIFA 【LIVE on &lt;t:1760018899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i65Gl-3qIFA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4af86b90-44eb-5b2d-9820-9c0134639bba</id>
     <title><![CDATA[【 #サウナASMR 】マリこよによる温度差バリバリ整いASMR~ラプラス同時視聴を添えて~【宝鐘マリン・博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/JYT8XNR6tq8" rel="alternate" type="text/html"/>
@@ -1249,5 +2481,145 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h5PxX-CGNZA 【LIVE on &lt;t:1759068127:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h5PxX-CGNZA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4c496ed8-080c-504e-820d-82f883bcec90</id>
+    <title><![CDATA[【 エレクトーン 】姫の楽器演奏♪休日の嗜みの時間なのら~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/RERwIq5kpDw" rel="alternate" type="text/html"/>
+    <published>2025-09-23T11:28:17.000Z</published>
+    <updated>2025-09-23T06:59:13.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RERwIq5kpDw 【LIVE on &lt;t:1758610753:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RERwIq5kpDw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85664cbd-3524-5435-9dd6-73c4b9f54c0c</id>
+    <title><![CDATA[【トロンボーン練習】 基礎練はたいせつです!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/ojdnksHikH8" rel="alternate" type="text/html"/>
+    <published>2025-09-07T10:40:24.000Z</published>
+    <updated>2025-09-07T08:38:22.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ojdnksHikH8 【LIVE on &lt;t:1757234302:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ojdnksHikH8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:78ddb9a0-1b7b-5842-841c-28c8f8622035</id>
+    <title><![CDATA[【 エレクトーン 】2ヶ月ぶりの演奏なのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/ozvv4hK82D0" rel="alternate" type="text/html"/>
+    <published>2025-07-27T11:47:44.000Z</published>
+    <updated>2025-07-27T07:07:51.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ozvv4hK82D0 【LIVE on &lt;t:1753600071:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ozvv4hK82D0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5a824a77-4ae6-5fd7-867d-821f4f14f431</id>
+    <title><![CDATA[【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED]]></title>
+    <link href="https://youtu.be/EQhdClmT1cs" rel="alternate" type="text/html"/>
+    <published>2025-05-01T20:52:22.000Z</published>
+    <updated>2025-05-01T19:06:32.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126392:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EQhdClmT1cs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:34cc9928-779b-5b0a-817c-d90753a97b7a</id>
+    <title><![CDATA[【トロンボーン練習】何曲か吹けるように練習したい!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/IEC6NX2UWjA" rel="alternate" type="text/html"/>
+    <published>2025-05-01T14:17:34.000Z</published>
+    <updated>2025-05-01T12:18:28.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IEC6NX2UWjA 【LIVE on &lt;t:1746101908:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IEC6NX2UWjA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fa6d8b84-9c48-53ae-9ea3-e3a20c65aa89</id>
+    <title><![CDATA[【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MBTe3cDomgs" rel="alternate" type="text/html"/>
+    <published>2025-04-13T11:19:49.000Z</published>
+    <updated>2025-04-13T05:59:42.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MBTe3cDomgs 【LIVE on &lt;t:1744523982:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MBTe3cDomgs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2725e618-74f9-595b-85ba-ff395f4ace0c</id>
+    <title><![CDATA[【 エレクトーン 】華麗なる姫の特技を見せちゃうのら~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/pTpVbAduBm4" rel="alternate" type="text/html"/>
+    <published>2025-03-23T11:47:23.000Z</published>
+    <updated>2025-03-23T06:00:02.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pTpVbAduBm4 【LIVE on &lt;t:1742709602:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pTpVbAduBm4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7ac5d667-e8ea-5256-addd-03a5aaed9e06</id>
+    <title><![CDATA[【 楽器演奏 】エレクトーンを2ヶ月ぶりに演奏するのら!!!🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MIR5amvbvXk" rel="alternate" type="text/html"/>
+    <published>2025-01-25T13:03:18.000Z</published>
+    <updated>2025-01-25T07:00:25.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MIR5amvbvXk 【LIVE on &lt;t:1737788425:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MIR5amvbvXk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:50aae8f5-8be3-507a-b7eb-ef851cf70e1e</id>
+    <title><![CDATA[#holoENadventcalendar Day 2]]></title>
+    <link href="https://youtu.be/MZWCwOSzfQM" rel="alternate" type="text/html"/>
+    <published>2024-12-01T17:17:55.000Z</published>
+    <updated>2024-12-01T17:17:55.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MZWCwOSzfQM 【LIVE on &lt;t:1733073475:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MZWCwOSzfQM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7b79696c-7707-5a3a-874c-ad92e9ad064f</id>
+    <title><![CDATA[【 55万人耐久 】リコーダー枠。ソウルを込めて。リクエスト受け付けてます。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/Z9O494QY-ao" rel="alternate" type="text/html"/>
+    <published>2024-12-01T05:43:36.000Z</published>
+    <updated>2024-12-01T03:01:33.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z9O494QY-ao 【LIVE on &lt;t:1733022093:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z9O494QY-ao/maxresdefault.jpg"/>
   </entry>
 </feed>
