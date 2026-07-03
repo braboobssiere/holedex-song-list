@@ -105,8 +105,8 @@
     "topic_id": "Anniversary",
     "published_at": "2026-07-02T05:52:29.000Z",
     "available_at": "2026-07-03T03:00:23.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 10399,
+    "status": "past",
     "channel": {
       "id": "UCTVSOgYuSWmNAt-lnJPkEEw",
       "name": "Jurard T Rexford Ch. HOLOSTARS-EN",
@@ -177,6 +177,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "50uRJZK1JA4",
+    "title": "【縦型歌雑枠】お話多めのお歌枠🎤【ホロライブ DEV_IS 響咲リオナ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-01T11:52:17.000Z",
+    "available_at": "2026-07-01T09:31:39.000Z",
+    "duration": 4266,
+    "status": "past",
+    "songcount": 6,
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -1238,26 +1258,6 @@
     "duration": 5239,
     "status": "past",
     "songcount": 14,
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "50uRJZK1JA4",
-    "title": "【縦型歌雑枠】お話多めのお歌枠🎤【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-24T10:27:39.000Z",
-    "available_at": "2026-07-01T09:31:39.000Z",
-    "duration": 4256,
-    "status": "past",
-    "songcount": 6,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
