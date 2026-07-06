@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-06T11:26:31.488Z</updated>
+  <updated>2026-07-06T11:56:25.167Z</updated>
+
+  <entry>
+    <id>urn:uuid:4b622726-b22d-549a-9954-dc8b91031e65</id>
+    <title><![CDATA[【歌枠】まったりチルしていこ♪【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/LmLcTFr4oWw" rel="alternate" type="text/html"/>
+    <published>2026-07-06T07:51:57.000Z</published>
+    <updated>2026-07-06T13:00:00.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LmLcTFr4oWw 【LIVE on &lt;t:1783342800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LmLcTFr4oWw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e3b85d5a-9f8e-5f80-b594-cc5e5fb67512</id>
@@ -1347,20 +1361,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DiDmv47ExUc 【LIVE on &lt;t:1781427606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DiDmv47ExUc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a53d17b0-5fb0-529a-8b50-c0df4473ceee</id>
-    <title><![CDATA[【歌枠】ざわ…ざわ…ざわ…ざわ…【#宙月ティラ #Vsinger】]]></title>
-    <link href="https://youtu.be/S7dcgvtsQXU" rel="alternate" type="text/html"/>
-    <published>2026-06-13T13:30:51.000Z</published>
-    <updated>2026-06-13T12:05:10.000Z</updated>
-    <author>
-      <name>宙月ティラ</name>
-      <uri>https://www.youtube.com/channel/UCdQYcUyffHZoz0KOwuiG0lQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=S7dcgvtsQXU 【LIVE on &lt;t:1781352310:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/S7dcgvtsQXU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
