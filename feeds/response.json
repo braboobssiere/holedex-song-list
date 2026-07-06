@@ -1,5 +1,25 @@
 [
   {
+    "id": "foUgVcpF4x8",
+    "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-06T23:14:59.000Z",
+    "available_at": "2026-07-06T23:20:23.000Z",
+    "duration": 0,
+    "status": "live",
+    "songcount": 1,
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
+    }
+  },
+  {
     "id": "ZEAgcWCnkwQ",
     "title": "【 3Ⅾ歌枠 】久しぶりの3Dカラオケ🎤告知あります✨【ホロライブ DEV_IS 響咲リオナ】",
     "type": "stream",
@@ -160,9 +180,10 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-07-03T18:49:53.000Z",
-    "available_at": "2026-07-06T23:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "available_at": "2026-07-06T22:59:32.000Z",
+    "duration": 631,
+    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -4425,25 +4446,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "WW1vJyPkOwQ",
-    "title": "【生誕ライブ振り返り】うおおおおライブからただいまああ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-04-21T12:55:53.000Z",
-    "available_at": "2026-04-21T11:00:53.000Z",
-    "duration": 5015,
-    "status": "past",
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
