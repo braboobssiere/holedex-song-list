@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-06T23:26:16.993Z</updated>
+  <updated>2026-07-06T23:56:18.439Z</updated>
+
+  <entry>
+    <id>urn:uuid:c95b0b74-9f24-5fd9-a23b-130c661a1e10</id>
+    <title><![CDATA[【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026]]></title>
+    <link href="https://youtu.be/foUgVcpF4x8" rel="alternate" type="text/html"/>
+    <published>2026-07-06T23:14:59.000Z</published>
+    <updated>2026-07-06T23:20:23.000Z</updated>
+    <author>
+      <name>Takanashi Kiara Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=foUgVcpF4x8 【LIVE on &lt;t:1783380023:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/foUgVcpF4x8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bf6374fe-1dd7-5751-9a12-4d113a964bdd</id>
+    <title><![CDATA[【 3Ⅾ歌枠 】久しぶりの3Dカラオケ🎤告知あります✨【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/ZEAgcWCnkwQ" rel="alternate" type="text/html"/>
+    <published>2026-07-06T14:38:37.000Z</published>
+    <updated>2026-07-07T09:00:00.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ZEAgcWCnkwQ 【LIVE on &lt;t:1783414800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ZEAgcWCnkwQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4b622726-b22d-549a-9954-dc8b91031e65</id>
@@ -1308,20 +1336,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:6c75d351-bbe4-5e84-af41-09c38241d993</id>
-    <title><![CDATA[YATTA 1 MILLION SUBS !! THANK YOU GUYSSS!! (ARCHIVED)]]></title>
-    <link href="https://youtu.be/B_0oDL6iuC8" rel="alternate" type="text/html"/>
-    <published>2026-06-14T15:30:20.000Z</published>
-    <updated>2026-06-14T13:28:21.000Z</updated>
-    <author>
-      <name>Ayunda Risu Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B_0oDL6iuC8 【LIVE on &lt;t:1781443701:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B_0oDL6iuC8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:4ceb279c-b9a2-5036-8c5b-24d05313813f</id>
     <title><![CDATA[お陰様で (Instrumental)]]></title>
     <link href="https://youtu.be/o7HEpxu1stE" rel="alternate" type="text/html"/>
@@ -1921,6 +1935,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MX4G_JcdZPo 【LIVE on &lt;t:1771662631:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MX4G_JcdZPo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:580718cd-ebd2-5e9d-9d10-b3c7f4ab1431</id>
+    <title><![CDATA[【 #司賀りこが3Dだよ 】君を笑顔へご案内✨しがりこが動くよ。【司賀りこ/にじさんじ】]]></title>
+    <link href="https://youtu.be/jYy00EAsT74" rel="alternate" type="text/html"/>
+    <published>2026-02-20T13:00:12.000Z</published>
+    <updated>2026-02-20T11:59:05.000Z</updated>
+    <author>
+      <name>司賀りこ / Shiga Riko【にじさんじ】</name>
+      <uri>https://www.youtube.com/channel/UCzsCWYuvPUky3-DKzphYbEw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jYy00EAsT74 【LIVE on &lt;t:1771588745:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jYy00EAsT74/maxresdefault.jpg"/>
   </entry>
 
   <entry>
