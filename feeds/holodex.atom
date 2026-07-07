@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-07T06:56:25.702Z</updated>
+  <updated>2026-07-07T07:26:17.624Z</updated>
+
+  <entry>
+    <id>urn:uuid:9a4f1a54-e2bf-5b6e-820b-5338f7560b18</id>
+    <title><![CDATA[【七夕ライブ】願いを込めて🎋弾き語りします【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/3fsZulsmdgE" rel="alternate" type="text/html"/>
+    <published>2026-07-07T06:21:37.000Z</published>
+    <updated>2026-07-07T14:00:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3fsZulsmdgE 【LIVE on &lt;t:1783432800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3fsZulsmdgE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c95b0b74-9f24-5fd9-a23b-130c661a1e10</id>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5USC52G_s1c 【LIVE on &lt;t:1781467205:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5USC52G_s1c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5a6b5caf-78fb-5848-bf32-7f4170b372d6</id>
-    <title><![CDATA[【Karaoke 歌枠】I need to sing :o まだ歌い足りない!]]></title>
-    <link href="https://youtu.be/lgV-C_ifrM4" rel="alternate" type="text/html"/>
-    <published>2026-06-14T18:11:14.000Z</published>
-    <updated>2026-06-14T15:26:18.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lgV-C_ifrM4 【LIVE on &lt;t:1781450778:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lgV-C_ifrM4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
