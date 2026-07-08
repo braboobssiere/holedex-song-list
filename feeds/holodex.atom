@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-08T08:26:26.099Z</updated>
+  <updated>2026-07-08T08:56:17.777Z</updated>
 
   <entry>
     <id>urn:uuid:bac35472-01e7-514c-9d3b-3b4c2607b774</id>
@@ -174,6 +174,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4b622726-b22d-549a-9954-dc8b91031e65</id>
+    <title><![CDATA[【歌枠】まったりチルしていこ♪【轟はじめ/ReGLOSS】]]></title>
+    <link href="https://youtu.be/LmLcTFr4oWw" rel="alternate" type="text/html"/>
+    <published>2026-07-06T14:32:47.000Z</published>
+    <updated>2026-07-06T13:00:29.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LmLcTFr4oWw 【LIVE on &lt;t:1783342829:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LmLcTFr4oWw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:873e87c2-4d8f-5af6-bc8d-e6df28d90cfe</id>
     <title><![CDATA[【70万人耐久】歌と雑談!/KARAOKE➕freeTalk【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/dhiBuRYeiCQ" rel="alternate" type="text/html"/>
@@ -199,20 +213,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=N4f6ZtqrNfc 【LIVE on &lt;t:1783335517:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N4f6ZtqrNfc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4b622726-b22d-549a-9954-dc8b91031e65</id>
-    <title><![CDATA[【歌枠】まったりチルしていこ♪【轟はじめ/ReGLOSS】]]></title>
-    <link href="https://youtu.be/LmLcTFr4oWw" rel="alternate" type="text/html"/>
-    <published>2026-07-06T07:51:57.000Z</published>
-    <updated>2026-07-06T13:00:29.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LmLcTFr4oWw 【LIVE on &lt;t:1783342829:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LmLcTFr4oWw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
