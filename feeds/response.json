@@ -1,24 +1,5 @@
 [
   {
-    "id": "YAL0OwMKtPo",
-    "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 振り返り【#輪堂千速生誕祭2026 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-09T05:25:28.000Z",
-    "available_at": "2026-07-09T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "mnz1T4iDWPk",
     "title": "Ruzebow Karaoke 3 Rebroadcast!【UNARCHIVED KARAOKE】",
     "type": "stream",
@@ -525,6 +506,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
+    }
+  },
+  {
+    "id": "2eZtgOuX6zQ",
+    "title": "歌枠|電車にゆられながら - 夜十神封魔",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-05T14:35:38.000Z",
+    "available_at": "2026-07-07T10:00:44.000Z",
+    "duration": 3990,
+    "status": "past",
+    "channel": {
+      "id": "UCc88OV45ICgHbn3ZqLLb52w",
+      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yatogami Fuma"
     }
   },
   {
@@ -2773,26 +2773,6 @@
     }
   },
   {
-    "id": "uHi7n1EU8oE",
-    "title": "Late Night Karaoke",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-06-16T17:00:23.000Z",
-    "available_at": "2026-06-16T14:01:13.000Z",
-    "duration": 6423,
-    "status": "past",
-    "songcount": 15,
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
     "id": "T060Goa2yxg",
     "title": "【私は先生】楽譜が読めるようになる!かも!?",
     "type": "stream",
@@ -4258,6 +4238,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_no8uiFd1WlhKoZYuEgmQqu4HfEdgKbvh5NF21Tw24b4A=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Aragami Oga"
+    }
+  },
+  {
+    "id": "_2sGqRQKgoU",
+    "title": "IT'S TIME FOR HAKKAMAMA'S BIRTHDAY BASH, LET'S PARTY MY HAKKITO 🐦‍⬛✨【KARAOKE, ZATSU & HANDCAM】🐦‍⬛🎂🎉",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-01T14:31:51.000Z",
+    "available_at": "2026-05-02T02:01:27.000Z",
+    "duration": 15273,
+    "status": "missing",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
     }
   },
   {
