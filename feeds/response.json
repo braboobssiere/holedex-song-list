@@ -47,9 +47,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-07-09T11:39:25.000Z",
-    "available_at": "2026-07-10T09:00:00.000Z",
+    "available_at": "2026-07-10T09:05:14.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -216,6 +216,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Octavio"
+    }
+  },
+  {
+    "id": "gEp7-SgCods",
+    "title": "[BIG ANNOUNCEMENT / 重大告知] Initial I: Racing for the Fastest & ANNOUNCEMENTS #5thAnniversaRyS",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-07-07T17:50:40.000Z",
+    "available_at": "2026-07-11T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "iaEnglish -Promise-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/zztv3u0fMtIbGu5nLjKPTwR_8-U0nSq80kmWW0xBpc42tA6dFHlDb_TG3VjSPLNFBuAIZtaFrw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRyS"
     }
   },
   {
@@ -6009,25 +6028,6 @@
     "published_at": "2026-01-04T13:16:34.000Z",
     "available_at": "2026-01-04T11:58:51.000Z",
     "duration": 4367,
-    "status": "past",
-    "channel": {
-      "id": "UCa9Y57gfeY0Zro_noHRVrnw",
-      "name": "Luna Ch. 姫森ルーナ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "t4zhPbqf5IA",
-    "title": "【 6周年カウントダウン 】 #姫森ルーナ6周年 !!これが姫の生きる道なのらね!!!【姫森ルーナ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-01-03T15:32:06.000Z",
-    "available_at": "2026-01-03T13:57:55.000Z",
-    "duration": 5356,
     "status": "past",
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
