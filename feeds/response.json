@@ -48,8 +48,8 @@
     "topic_id": "singing",
     "published_at": "2026-07-09T11:39:25.000Z",
     "available_at": "2026-07-10T09:05:14.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2259,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -118,6 +118,26 @@
     }
   },
   {
+    "id": "n29115yzt5o",
+    "title": "【歌枠】新衣装で歌う~~~!!!J-POP・アニソン・ボカロ Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-08T15:02:34.000Z",
+    "available_at": "2026-07-08T13:01:30.000Z",
+    "duration": 6860,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "WybVvRW85xE",
     "title": "【#みこスバ謎解き】みこスバ3D!謎解き大脱出やるしゅばあああああああああああああああああああああああああああああ!!!!!!：Mystery solving MIKOSUBA 3D【ホロライブ】",
     "type": "stream",
@@ -174,26 +194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "n29115yzt5o",
-    "title": "【歌枠】新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream【ホロライブ / AZKi】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-08T08:27:10.000Z",
-    "available_at": "2026-07-08T13:01:30.000Z",
-    "duration": 6860,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
-      "name": "AZKi Channel",
-      "org": "Hololive",
-      "suborg": "0z0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "AZKi"
     }
   },
   {
