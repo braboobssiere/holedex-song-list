@@ -1,5 +1,24 @@
 [
   {
+    "id": "r5TzLsU2_aU",
+    "title": "Birthday Update!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-11T11:37:15.000Z",
+    "available_at": "2026-07-11T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
+    }
+  },
+  {
     "id": "gpsBHhWIjTI",
     "title": "【Summertime GB: The Glorious Bucketlist!】BIRTHDAY SHOWCASE",
     "type": "stream",
@@ -127,6 +146,7 @@
     "available_at": "2026-07-10T13:59:15.000Z",
     "duration": 6000,
     "status": "past",
+    "songcount": 5,
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -188,6 +208,7 @@
     "available_at": "2026-07-10T09:05:14.000Z",
     "duration": 2259,
     "status": "past",
+    "songcount": 7,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -234,6 +255,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
+    }
+  },
+  {
+    "id": "JmUi3RSdB4E",
+    "title": "【#FGヘタレクイーン決定戦】怪談まじ怖すぎ!!チキンレース勇気出ない…😭ってか全然ビビってないし!",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-07-09T06:30:23.000Z",
+    "available_at": "2026-07-11T10:59:09.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCu2n3qHuOuQIygREMnWeQWg",
+      "name": "hololive DEV_IS FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "0gOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -4257,25 +4296,6 @@
     }
   },
   {
-    "id": "rHn3lw8zxHE",
-    "title": "IT'S MY 3RD BIRTHDAY! #partyvella2026",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-03T03:07:47.000Z",
-    "available_at": "2026-05-03T01:56:31.000Z",
-    "duration": 4047,
-    "status": "past",
-    "channel": {
-      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-      "name": "Shiori Novella Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shiori Novella"
-    }
-  },
-  {
     "id": "yGyA_j8798o",
     "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
     "type": "stream",
@@ -5617,26 +5637,6 @@
       "suborg": "0gOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "MX4G_JcdZPo",
-    "title": "【チラ見せ】Hoshimachi Suisei Live \"SuperNova: REBOOT\"",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-02-21T09:29:42.000Z",
-    "available_at": "2026-02-21T08:30:31.000Z",
-    "duration": 3345,
-    "status": "past",
-    "songcount": 3,
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
     }
   },
   {
