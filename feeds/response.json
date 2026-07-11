@@ -1,24 +1,5 @@
 [
   {
-    "id": "r5TzLsU2_aU",
-    "title": "Birthday Update!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-11T11:37:15.000Z",
-    "available_at": "2026-07-11T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
     "id": "gpsBHhWIjTI",
     "title": "【Summertime GB: The Glorious Bucketlist!】BIRTHDAY SHOWCASE",
     "type": "stream",
@@ -146,7 +127,7 @@
     "available_at": "2026-07-10T13:59:15.000Z",
     "duration": 6000,
     "status": "past",
-    "songcount": 5,
+    "songcount": 11,
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -264,8 +245,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-07-09T06:30:23.000Z",
     "available_at": "2026-07-11T10:59:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3664,
+    "status": "past",
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive DEV_IS FLOW GLOW",
@@ -4293,6 +4274,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
+    }
+  },
+  {
+    "id": "rHn3lw8zxHE",
+    "title": "IT'S MY 3RD BIRTHDAY! #partyvella2026",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-05-03T03:07:47.000Z",
+    "available_at": "2026-05-03T01:56:31.000Z",
+    "duration": 4047,
+    "status": "past",
+    "channel": {
+      "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "name": "Shiori Novella Ch. hololive-EN",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/q23ZTL-eIurUV4sMNtq5pJpFXWKI7dr-XuScFGVtSiDhTR_jrs4v1BpsWX1WP51sP4jjlmA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shiori Novella"
     }
   },
   {
