@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-11T06:26:21.922Z</updated>
+  <updated>2026-07-11T06:56:17.601Z</updated>
 
   <entry>
     <id>urn:uuid:abb28596-0d35-59a4-9cd1-274512ba51ca</id>
@@ -132,6 +132,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:87ffc6f2-6cd8-5189-abf7-0fff2e4f63e7</id>
+    <title><![CDATA[私のピアノ、光るらしいよ!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/U37GB7ab51I" rel="alternate" type="text/html"/>
+    <published>2026-07-09T11:26:18.000Z</published>
+    <updated>2026-07-09T09:00:53.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U37GB7ab51I 【LIVE on &lt;t:1783587653:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U37GB7ab51I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:241bd7e5-40fe-509a-9c25-c384e2f78432</id>
     <title><![CDATA[#ウチらしか勝たん / 常闇トワ×桃鈴ねね (official)]]></title>
     <link href="https://youtu.be/oUd1hLK7p2I" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oUd1hLK7p2I 【LIVE on &lt;t:1783594806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oUd1hLK7p2I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:87ffc6f2-6cd8-5189-abf7-0fff2e4f63e7</id>
-    <title><![CDATA[今日のピアノ、光るらしいよ！！【 #UNIT_B / #玲銘ミラ】]]></title>
-    <link href="https://youtu.be/U37GB7ab51I" rel="alternate" type="text/html"/>
-    <published>2026-07-09T03:28:19.000Z</published>
-    <updated>2026-07-09T09:00:53.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U37GB7ab51I 【LIVE on &lt;t:1783587653:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U37GB7ab51I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
