@@ -258,8 +258,8 @@
     "topic_id": "Birthday",
     "published_at": "2026-07-11T08:19:45.000Z",
     "available_at": "2026-07-12T01:48:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9458,
+    "status": "past",
     "channel": {
       "id": "UCJv02SHZgav7Mv3V0kBOR8Q",
       "name": "Goldbullet Ch. HOLOSTARS-EN",
@@ -410,6 +410,26 @@
     }
   },
   {
+    "id": "qfGoQ_PE6hg",
+    "title": "【ゲスト歌枠】あなたは....かの有名な虎のッ....!!!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-10T09:57:04.000Z",
+    "available_at": "2026-07-10T09:05:14.000Z",
+    "duration": 2265,
+    "status": "past",
+    "songcount": 7,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "0bEJgWdoq74",
     "title": "#ウチらしか勝たん (Instrumental)",
     "type": "stream",
@@ -449,26 +469,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
-    }
-  },
-  {
-    "id": "qfGoQ_PE6hg",
-    "title": "【ゲスト歌枠】あなたは....かの有名な虎のッ....！！！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-09T11:39:25.000Z",
-    "available_at": "2026-07-10T09:05:14.000Z",
-    "duration": 2259,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bEDo7y7rywqDZpSqS7StN3vxPg4YPEfh_faAf2CENKsk4L9SgrsU0UeClvH-nsPq1i5xNFM89Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
