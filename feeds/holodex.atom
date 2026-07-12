@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-12T09:56:20.352Z</updated>
+  <updated>2026-07-12T10:26:25.474Z</updated>
 
   <entry>
     <id>urn:uuid:0156cfa9-343a-5929-88ec-2a600decf2cb</id>
@@ -174,6 +174,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0a8f48b3-6eeb-5ade-8af8-d023d43df539</id>
+    <title><![CDATA[【 歌枠】NO30.眠れない子おいで、今日こそはちるい落ち着いた歌をうたいたいな ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
+    <link href="https://youtu.be/IKNlomtvxbw" rel="alternate" type="text/html"/>
+    <published>2026-07-10T15:45:46.000Z</published>
+    <updated>2026-07-10T13:59:15.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IKNlomtvxbw 【LIVE on &lt;t:1783691955:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKNlomtvxbw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:35b0f1c8-21c0-5a3c-9c35-79a9c6175a3c</id>
     <title><![CDATA[Lucky Loud (一条莉々華 SOLO ver.)]]></title>
     <link href="https://youtu.be/QqzRAVsrSE4" rel="alternate" type="text/html"/>
@@ -230,22 +244,8 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:0a8f48b3-6eeb-5ade-8af8-d023d43df539</id>
-    <title><![CDATA[【 歌枠】NO30.眠れない子おいで、今日こそはちるい落ち着いた歌をうたいたいな ろぼめろでぃ～ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
-    <link href="https://youtu.be/IKNlomtvxbw" rel="alternate" type="text/html"/>
-    <published>2026-07-10T13:54:29.000Z</published>
-    <updated>2026-07-10T13:59:15.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IKNlomtvxbw 【LIVE on &lt;t:1783691955:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKNlomtvxbw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5f3ad09b-6474-5d46-a193-2d1b551eff44</id>
-    <title><![CDATA[【告知あり!】昭和レトロな歌枠♬【ホロライブ/夏色まつり】]]></title>
+    <title><![CDATA[【告知あり！】昭和レトロな歌枠♬【ホロライブ/夏色まつり】]]></title>
     <link href="https://youtu.be/zjFwKLjxwaI" rel="alternate" type="text/html"/>
     <published>2026-07-10T10:32:53.000Z</published>
     <updated>2026-07-12T09:00:36.000Z</updated>
