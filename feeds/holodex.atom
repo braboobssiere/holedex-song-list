@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-13T18:56:19.216Z</updated>
+  <updated>2026-07-13T19:26:22.814Z</updated>
+
+  <entry>
+    <id>urn:uuid:ee1034de-119b-5ae2-b7a2-85114eed3682</id>
+    <title><![CDATA[【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! (rebroadcast) #calliolive]]></title>
+    <link href="https://youtu.be/BOmtYSp9Vlw" rel="alternate" type="text/html"/>
+    <published>2026-07-13T19:01:45.000Z</published>
+    <updated>2026-07-14T02:00:00.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BOmtYSp9Vlw 【LIVE on &lt;t:1783994400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BOmtYSp9Vlw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e4560d7a-f8b1-50fb-b462-b774134012f0</id>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ygSOjScZVZQ 【LIVE on &lt;t:1781956801:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ygSOjScZVZQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3d667dfa-2ec4-5b46-b10e-bb0c0d7150cd</id>
-    <title><![CDATA[【告知歌枠】復帰してから初の公開歌枠!本気と書いてマジと読みます🔥【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/B4mr_CGcfK8" rel="alternate" type="text/html"/>
-    <published>2026-06-20T11:24:10.000Z</published>
-    <updated>2026-06-20T09:28:57.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B4mr_CGcfK8 【LIVE on &lt;t:1781947737:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B4mr_CGcfK8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
