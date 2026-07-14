@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-14T14:56:29.031Z</updated>
+  <updated>2026-07-14T15:26:21.917Z</updated>
+
+  <entry>
+    <id>urn:uuid:9af3e42f-4c66-5b2d-9136-de86136dc35d</id>
+    <title><![CDATA[サマーラブ (Instrumental)]]></title>
+    <link href="https://youtu.be/ORsOPsIYgAs" rel="alternate" type="text/html"/>
+    <published>2026-07-14T15:05:14.000Z</published>
+    <updated>2026-07-14T15:05:14.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ORsOPsIYgAs 【LIVE on &lt;t:1784041514:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ORsOPsIYgAs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:46224b95-b981-51ff-8040-4b276432c828</id>
+    <title><![CDATA[サマーラブ]]></title>
+    <link href="https://youtu.be/_s9BczKouIY" rel="alternate" type="text/html"/>
+    <published>2026-07-14T15:05:05.000Z</published>
+    <updated>2026-07-14T15:05:05.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_s9BczKouIY 【LIVE on &lt;t:1784041505:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_s9BczKouIY/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e03a0ecd-be9f-55a5-b8f6-737ab534eb85</id>
@@ -1042,20 +1070,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:cf850d71-c315-5deb-bd8c-5ad60824ce81</id>
-    <title><![CDATA[星をみる少女 / 星街すいせい (official)]]></title>
-    <link href="https://youtu.be/9ijHd0knEww" rel="alternate" type="text/html"/>
-    <published>2026-06-29T09:00:06.000Z</published>
-    <updated>2026-06-29T09:00:06.000Z</updated>
-    <author>
-      <name>Suisei Channel</name>
-      <uri>https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9ijHd0knEww 【LIVE on &lt;t:1782723606:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9ijHd0knEww/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:cfc4641f-81ba-5eeb-8b0c-2cc78e2fb495</id>
     <title><![CDATA[【ゲリラ】眠くなるまでうた雑談うう筋トレ酸素運動ちよ【ホロライブ/ ロボ子さん】]]></title>
     <link href="https://youtu.be/CYIuQDlO7_c" rel="alternate" type="text/html"/>
@@ -1067,20 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CYIuQDlO7_c 【LIVE on &lt;t:1782659027:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CYIuQDlO7_c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:62dfcce1-90fc-57bc-8057-ed30e2288bca</id>
-    <title><![CDATA[SUPERNOVA SUPER GIRL (Instrumental)]]></title>
-    <link href="https://youtu.be/2ki3sBxtNzo" rel="alternate" type="text/html"/>
-    <published>2026-06-28T15:04:36.000Z</published>
-    <updated>2026-06-28T15:04:36.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2ki3sBxtNzo 【LIVE on &lt;t:1782659076:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2ki3sBxtNzo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
