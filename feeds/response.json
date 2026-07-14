@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-07-13T19:01:45.000Z",
     "available_at": "2026-07-14T02:59:19.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6526,
+    "status": "past",
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
       "name": "Mori Calliope Ch. hololive-EN",
@@ -69,6 +69,7 @@
     "available_at": "2026-07-13T09:01:05.000Z",
     "duration": 6019,
     "status": "past",
+    "songcount": 17,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -107,6 +108,7 @@
     "available_at": "2026-07-12T16:40:55.000Z",
     "duration": 12881,
     "status": "past",
+    "songcount": 21,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -115,6 +117,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "zjFwKLjxwaI",
+    "title": "【告知あり!】昭和レトロな歌枠♬【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-12T10:08:12.000Z",
+    "available_at": "2026-07-12T09:00:36.000Z",
+    "duration": 3768,
+    "status": "past",
+    "songcount": 11,
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
     }
   },
   {
@@ -183,6 +205,7 @@
     "available_at": "2026-07-11T14:00:57.000Z",
     "duration": 6312,
     "status": "past",
+    "songcount": 14,
     "live_tl_count": {
       "en": 109,
       "ko": 45
@@ -580,25 +603,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "zjFwKLjxwaI",
-    "title": "【告知あり！】昭和レトロな歌枠♬【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-10T10:32:53.000Z",
-    "available_at": "2026-07-12T09:00:36.000Z",
-    "duration": 3772,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {

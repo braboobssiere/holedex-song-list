@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-14T04:26:17.578Z</updated>
+  <updated>2026-07-14T04:56:17.578Z</updated>
 
   <entry>
     <id>urn:uuid:ee1034de-119b-5ae2-b7a2-85114eed3682</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=s1xmTZs_f0U 【LIVE on &lt;t:1783933265:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/s1xmTZs_f0U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5f3ad09b-6474-5d46-a193-2d1b551eff44</id>
+    <title><![CDATA[【告知あり!】昭和レトロな歌枠♬【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/zjFwKLjxwaI" rel="alternate" type="text/html"/>
+    <published>2026-07-12T10:08:12.000Z</published>
+    <updated>2026-07-12T09:00:36.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zjFwKLjxwaI 【LIVE on &lt;t:1783846836:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zjFwKLjxwaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -311,20 +325,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_lvtNtIOK-Y 【LIVE on &lt;t:1783695616:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_lvtNtIOK-Y/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5f3ad09b-6474-5d46-a193-2d1b551eff44</id>
-    <title><![CDATA[【告知あり！】昭和レトロな歌枠♬【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/zjFwKLjxwaI" rel="alternate" type="text/html"/>
-    <published>2026-07-10T10:32:53.000Z</published>
-    <updated>2026-07-12T09:00:36.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zjFwKLjxwaI 【LIVE on &lt;t:1783846836:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zjFwKLjxwaI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
