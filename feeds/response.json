@@ -25,8 +25,8 @@
     "topic_id": "singing",
     "published_at": "2026-07-15T07:08:29.000Z",
     "available_at": "2026-07-15T07:26:42.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 11189,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -116,6 +116,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nekomata Okayu"
+    }
+  },
+  {
+    "id": "gd4O5uNxqcY",
+    "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-14T07:45:08.000Z",
+    "available_at": "2026-07-15T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -4303,26 +4322,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Dt0zSMEC-iVhIQ4MpTe-FBRUl7_wInXMtC3TklZ2rW3Sver_c8AGenK4h7QSElitTXYePqWZ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ryzar Blazenfang"
-    }
-  },
-  {
-    "id": "w37yVSXhV_c",
-    "title": "【3D LIVE CONCERT】Raora Panthera First Birthday Live Concert! #RaoraBday2026",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-10T02:13:21.000Z",
-    "available_at": "2026-05-10T01:00:02.000Z",
-    "duration": 4145,
-    "status": "past",
-    "songcount": 7,
-    "channel": {
-      "id": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "name": "Raora Panthera Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/HKYI1ENbRIVyDgLVtpxOKyLAOEdOHWH__-JQu6Kj2dq0S9U-wTccKoZT0-4DBd21O0Cpo6NnlA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Raora Panthera"
     }
   },
   {
