@@ -63,10 +63,10 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-07-15T16:42:23.000Z",
     "available_at": "2026-07-16T10:59:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3933,
+    "status": "past",
     "live_tl_count": {
-      "en": 40
+      "en": 54
     },
     "channel": {
       "id": "UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -114,6 +114,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "IOeOMu6u5-I",
+    "title": "Airani iofifteen Birthday Countdown! #iofiCrimsonKnot",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-14T17:51:49.000Z",
+    "available_at": "2026-07-14T16:00:42.000Z",
+    "duration": 4515,
+    "status": "past",
+    "channel": {
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -237,25 +256,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "IOeOMu6u5-I",
-    "title": "Airani iofifteen Birthday Countdown! #iofiCrimsonKnot",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-14T06:01:15.000Z",
-    "available_at": "2026-07-14T16:00:42.000Z",
-    "duration": 4531,
-    "status": "past",
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
     }
   },
   {
