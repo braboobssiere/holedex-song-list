@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-17T17:26:21.315Z</updated>
+  <updated>2026-07-17T17:56:24.581Z</updated>
+
+  <entry>
+    <id>urn:uuid:1ea6ce58-eaeb-5f4f-9f2a-8a9d7c900f88</id>
+    <title><![CDATA[「Go-Getters」Live from『Mori Calliope 2nd Concert “Grimoire"』]]></title>
+    <link href="https://youtu.be/aYP-bbJ3isw" rel="alternate" type="text/html"/>
+    <published>2026-07-17T09:00:39.000Z</published>
+    <updated>2026-07-17T09:00:39.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aYP-bbJ3isw 【LIVE on &lt;t:1784278839:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aYP-bbJ3isw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:22293bee-ff44-54de-bda4-34ffe5e7dc29</id>
@@ -1067,20 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=50uRJZK1JA4 【LIVE on &lt;t:1782898299:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/50uRJZK1JA4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2fbfd59-1608-59fd-9471-cddd43810ff8</id>
-    <title><![CDATA[【HOLOEARTH BGM_19】World Horizon]]></title>
-    <link href="https://youtu.be/E1y-3X8mczE" rel="alternate" type="text/html"/>
-    <published>2026-06-30T12:00:28.000Z</published>
-    <updated>2026-06-30T12:00:28.000Z</updated>
-    <author>
-      <name>HOLOEARTH ホロアース</name>
-      <uri>https://www.youtube.com/channel/UCfpWrWvbA34LmrZ9h4Lbwag</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=E1y-3X8mczE 【LIVE on &lt;t:1782820828:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E1y-3X8mczE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
