@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-18T12:26:27.149Z</updated>
+  <updated>2026-07-18T12:56:21.818Z</updated>
 
   <entry>
     <id>urn:uuid:88e2d309-86b6-576b-98a7-e98935b4618b</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YbCspLC7xD8 【LIVE on &lt;t:1784358006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YbCspLC7xD8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0e7040ec-c78e-5d65-a6c2-9504892855c3</id>
+    <title><![CDATA[【重大告知】重大ということは、重くて大きいということです【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/t1zcvrAIizw" rel="alternate" type="text/html"/>
+    <published>2026-07-18T00:03:33.000Z</published>
+    <updated>2026-07-18T11:31:51.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=t1zcvrAIizw 【LIVE on &lt;t:1784374311:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/t1zcvrAIizw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -73,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=QGedFqK0yic 【LIVE on &lt;t:1784210431:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QGedFqK0yic/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2495a525-8690-517b-977f-15da576336b2</id>
+    <title><![CDATA[【#兎田ぺこら7周年記念LIVE】7周年3D LIVE！NewOutfit BONUS!!【ホロライブ/兎田ぺこら】]]></title>
+    <link href="https://youtu.be/WJWg8kGKoP0" rel="alternate" type="text/html"/>
+    <published>2026-07-16T14:43:11.000Z</published>
+    <updated>2026-07-17T11:57:42.000Z</updated>
+    <author>
+      <name>Pekora Ch. 兎田ぺこら</name>
+      <uri>https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WJWg8kGKoP0 【LIVE on &lt;t:1784289462:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WJWg8kGKoP0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
