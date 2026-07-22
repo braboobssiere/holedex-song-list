@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-22T10:56:27.213Z</updated>
+  <updated>2026-07-22T11:26:19.216Z</updated>
+
+  <entry>
+    <id>urn:uuid:0fbd80de-d6d4-5754-bdba-e7bf6c3cfc6c</id>
+    <title><![CDATA[【オリジナル曲】美少女戦士まつりみっとZero【ホロライブ/夏色まつり/佐藤貴文】]]></title>
+    <link href="https://youtu.be/kgvB7YRGZvA" rel="alternate" type="text/html"/>
+    <published>2026-07-21T16:11:29.000Z</published>
+    <updated>2026-07-22T12:00:00.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kgvB7YRGZvA 【LIVE on &lt;t:1784721600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kgvB7YRGZvA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:0b4d4378-bf3d-52a9-9ad5-80602e079857</id>
@@ -122,12 +136,12 @@
     <title><![CDATA[【 #笑虎ネクト 】第2回目!歌って!笑虎ネクト🐯ゲスト 角巻わため先輩🐏【虎金妃笑虎/角巻わため】]]></title>
     <link href="https://youtu.be/z7t523K7kYE" rel="alternate" type="text/html"/>
     <published>2026-07-18T01:23:12.000Z</published>
-    <updated>2026-07-22T11:00:00.000Z</updated>
+    <updated>2026-07-22T11:00:09.000Z</updated>
     <author>
       <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
       <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=z7t523K7kYE 【LIVE on &lt;t:1784718000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=z7t523K7kYE 【LIVE on &lt;t:1784718009:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z7t523K7kYE/maxresdefault.jpg"/>
   </entry>
 
@@ -1095,20 +1109,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6DpoaxkzpzI 【LIVE on &lt;t:1782989992:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6DpoaxkzpzI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:19102211-4af5-5747-b925-fb75a2de2c1a</id>
-    <title><![CDATA[Okie Dokie Dance (Instrumental)]]></title>
-    <link href="https://youtu.be/B6rNHlzGyKw" rel="alternate" type="text/html"/>
-    <published>2026-07-02T15:00:32.000Z</published>
-    <updated>2026-07-02T15:00:32.000Z</updated>
-    <author>
-      <name>Subaru Ch. 大空スバル</name>
-      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=B6rNHlzGyKw 【LIVE on &lt;t:1783004432:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/B6rNHlzGyKw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
