@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-23T19:56:22.171Z</updated>
+  <updated>2026-07-23T20:26:18.408Z</updated>
 
   <entry>
     <id>urn:uuid:a204991e-996c-520d-acff-3d77b7a0e5b9</id>
@@ -986,6 +986,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b94a990b-2a91-5e1a-8543-7523b93102c7</id>
+    <title><![CDATA[咽骸]]></title>
+    <link href="https://youtu.be/dUPYPqeuOqA" rel="alternate" type="text/html"/>
+    <published>2026-07-06T19:20:05.000Z</published>
+    <updated>2026-07-06T19:20:05.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dUPYPqeuOqA 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dUPYPqeuOqA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:5b0b84d2-5bd9-5342-ba5c-dec3fce68c35</id>
     <title><![CDATA[狐狗狸]]></title>
     <link href="https://youtu.be/MztnQqPt41w" rel="alternate" type="text/html"/>
@@ -997,20 +1011,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MztnQqPt41w 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MztnQqPt41w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:fa7057fb-031d-586c-827c-bf9d331f786a</id>
-    <title><![CDATA[気炎万丈]]></title>
-    <link href="https://youtu.be/R6TtWftz_-0" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R6TtWftz_-0 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R6TtWftz_-0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
