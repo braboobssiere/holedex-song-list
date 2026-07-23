@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-23T14:56:35.379Z</updated>
+  <updated>2026-07-23T15:26:28.431Z</updated>
+
+  <entry>
+    <id>urn:uuid:a204991e-996c-520d-acff-3d77b7a0e5b9</id>
+    <title><![CDATA[夢色ワンダー (Instrumental)]]></title>
+    <link href="https://youtu.be/a2RMalZK4IQ" rel="alternate" type="text/html"/>
+    <published>2026-07-23T15:00:27.000Z</published>
+    <updated>2026-07-23T15:00:27.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=a2RMalZK4IQ 【LIVE on &lt;t:1784818827:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a2RMalZK4IQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5262fa81-b184-5534-b47d-ddba0105dde0</id>
+    <title><![CDATA[夢色ワンダー]]></title>
+    <link href="https://youtu.be/fGxGTToC1-A" rel="alternate" type="text/html"/>
+    <published>2026-07-23T15:00:09.000Z</published>
+    <updated>2026-07-23T15:00:09.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fGxGTToC1-A 【LIVE on &lt;t:1784818809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fGxGTToC1-A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:89705cd3-fc5c-5171-81b8-208a5ef36239</id>
@@ -87,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=tj_Tv0TTOMw 【LIVE on &lt;t:1784721582:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj_Tv0TTOMw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:40dc9f0f-25ae-5d18-a261-4631ba03550f</id>
+    <title><![CDATA[【ホロドリ】『ギミギミエンターテイメント』Official Music Video]]></title>
+    <link href="https://youtu.be/9vv7FBVkY-8" rel="alternate" type="text/html"/>
+    <published>2026-07-20T06:44:30.000Z</published>
+    <updated>2026-07-24T09:00:00.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9vv7FBVkY-8 【LIVE on &lt;t:1784883600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9vv7FBVkY-8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -944,34 +986,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:5a2ca779-32e6-5db5-99d1-63dc3852c9d4</id>
-    <title><![CDATA[神殺荒魂]]></title>
-    <link href="https://youtu.be/Elt_AThFeUs" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Elt_AThFeUs 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Elt_AThFeUs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:da195be9-11bc-5aa1-a86b-ef959428c037</id>
-    <title><![CDATA[禍津百鬼、黄泉を裂きて天を侵す]]></title>
-    <link href="https://youtu.be/lPLL0NOqm3g" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lPLL0NOqm3g 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lPLL0NOqm3g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5b0b84d2-5bd9-5342-ba5c-dec3fce68c35</id>
     <title><![CDATA[狐狗狸]]></title>
     <link href="https://youtu.be/MztnQqPt41w" rel="alternate" type="text/html"/>
@@ -1011,20 +1025,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R6TtWftz_-0 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R6TtWftz_-0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2e9c7a4e-93c6-5819-9096-55c601d90840</id>
-    <title><![CDATA[痕 (-百鬼-Ver)]]></title>
-    <link href="https://youtu.be/SpgG8etqRw8" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SpgG8etqRw8 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SpgG8etqRw8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
