@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-23T23:56:22.573Z</updated>
+  <updated>2026-07-24T00:26:25.648Z</updated>
 
   <entry>
     <id>urn:uuid:a204991e-996c-520d-acff-3d77b7a0e5b9</id>
@@ -986,20 +986,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b94a990b-2a91-5e1a-8543-7523b93102c7</id>
-    <title><![CDATA[咽骸]]></title>
-    <link href="https://youtu.be/dUPYPqeuOqA" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dUPYPqeuOqA 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dUPYPqeuOqA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5a2ca779-32e6-5db5-99d1-63dc3852c9d4</id>
     <title><![CDATA[神殺荒魂]]></title>
     <link href="https://youtu.be/Elt_AThFeUs" rel="alternate" type="text/html"/>
@@ -1011,6 +997,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Elt_AThFeUs 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Elt_AThFeUs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:26f6dc6e-4197-5ad8-81d9-697707602033</id>
+    <title><![CDATA[独虚残生]]></title>
+    <link href="https://youtu.be/nMJxgUR5HpQ" rel="alternate" type="text/html"/>
+    <published>2026-07-06T19:20:05.000Z</published>
+    <updated>2026-07-06T19:20:05.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nMJxgUR5HpQ 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nMJxgUR5HpQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
