@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-24T07:56:19.500Z</updated>
+  <updated>2026-07-24T08:26:22.940Z</updated>
 
   <entry>
     <id>urn:uuid:a204991e-996c-520d-acff-3d77b7a0e5b9</id>
@@ -76,6 +76,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:9f07a0e4-2eb3-5ea7-9a34-01c7f4edbc1d</id>
+    <title><![CDATA[【歌枠】暑い夏も吹っ飛ばしてこ??👊🍉【 #UNIT_B / #宵凪ネオン】]]></title>
+    <link href="https://youtu.be/tj_Tv0TTOMw" rel="alternate" type="text/html"/>
+    <published>2026-07-22T13:35:03.000Z</published>
+    <updated>2026-07-22T11:59:42.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=tj_Tv0TTOMw 【LIVE on &lt;t:1784721582:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj_Tv0TTOMw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:cfa3d01e-e708-5bd6-8e07-090ac2860d65</id>
     <title><![CDATA[【 #笑虎ネクト 】第2回目!歌って!笑虎ネクト🐯ゲスト 角巻わため先輩🐏【虎金妃笑虎/角巻わため】]]></title>
     <link href="https://youtu.be/z7t523K7kYE" rel="alternate" type="text/html"/>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=mA9GuNIO0OE 【LIVE on &lt;t:1784631577:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mA9GuNIO0OE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9f07a0e4-2eb3-5ea7-9a34-01c7f4edbc1d</id>
-    <title><![CDATA[【歌枠】暑い夏も吹っ飛ばしてこ？？👊🍉【 #UNIT_B / #宵凪ネオン】]]></title>
-    <link href="https://youtu.be/tj_Tv0TTOMw" rel="alternate" type="text/html"/>
-    <published>2026-07-21T10:29:25.000Z</published>
-    <updated>2026-07-22T11:59:42.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tj_Tv0TTOMw 【LIVE on &lt;t:1784721582:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj_Tv0TTOMw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -986,6 +986,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5b0b84d2-5bd9-5342-ba5c-dec3fce68c35</id>
+    <title><![CDATA[狐狗狸]]></title>
+    <link href="https://youtu.be/MztnQqPt41w" rel="alternate" type="text/html"/>
+    <published>2026-07-06T19:20:05.000Z</published>
+    <updated>2026-07-06T19:20:05.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MztnQqPt41w 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MztnQqPt41w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:26f6dc6e-4197-5ad8-81d9-697707602033</id>
     <title><![CDATA[独虚残生]]></title>
     <link href="https://youtu.be/nMJxgUR5HpQ" rel="alternate" type="text/html"/>
@@ -1011,20 +1025,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R6TtWftz_-0 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R6TtWftz_-0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2e9c7a4e-93c6-5819-9096-55c601d90840</id>
-    <title><![CDATA[痕 (-百鬼-Ver)]]></title>
-    <link href="https://youtu.be/SpgG8etqRw8" rel="alternate" type="text/html"/>
-    <published>2026-07-06T19:20:05.000Z</published>
-    <updated>2026-07-06T19:20:05.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=SpgG8etqRw8 【LIVE on &lt;t:1783365605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/SpgG8etqRw8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
