@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-07-24T11:22:00.000Z",
-    "available_at": "2026-07-24T12:00:00.000Z",
+    "available_at": "2026-07-24T11:55:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive-EN",
@@ -536,8 +536,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-07-18T01:24:49.000Z",
     "available_at": "2026-07-24T11:00:14.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3521,
+    "status": "past",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -2049,27 +2049,6 @@
     }
   },
   {
-    "id": "lPLL0NOqm3g",
-    "title": "禍津百鬼、黄泉を裂きて天を侵す",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-07-06T19:20:05.000Z",
-    "available_at": "2026-07-06T19:20:05.000Z",
-    "duration": 90,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UC2PZFCHAqVuXMGPPNR09K5Q",
-    "channel": {
-      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
-      "name": "Nakiri Ayame Ch. 百鬼あやめ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Nakiri Ayame"
-    }
-  },
-  {
     "id": "MztnQqPt41w",
     "title": "狐狗狸",
     "type": "stream",
@@ -2091,13 +2070,34 @@
     }
   },
   {
-    "id": "R6TtWftz_-0",
-    "title": "気炎万丈",
+    "id": "nMJxgUR5HpQ",
+    "title": "独虚残生",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-07-06T19:20:05.000Z",
     "available_at": "2026-07-06T19:20:05.000Z",
-    "duration": 258,
+    "duration": 232,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UC2PZFCHAqVuXMGPPNR09K5Q",
+    "channel": {
+      "id": "UC7fk0CB07ly8oSl0aqKkqFg",
+      "name": "Nakiri Ayame Ch. 百鬼あやめ",
+      "org": "Hololive",
+      "suborg": "d 2nd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/3CeLWGYb6cLUywTJzNt-UpITviNxeGNvtjhIqbV-AIybCqCoFw9onWtg91bjwpqvfEP9mfqIR4Q=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Nakiri Ayame"
+    }
+  },
+  {
+    "id": "SpgG8etqRw8",
+    "title": "痕 (-百鬼-Ver)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-07-06T19:20:05.000Z",
+    "available_at": "2026-07-06T19:20:05.000Z",
+    "duration": 240,
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UC2PZFCHAqVuXMGPPNR09K5Q",
