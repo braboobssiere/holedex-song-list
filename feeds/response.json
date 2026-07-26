@@ -85,6 +85,9 @@
     "available_at": "2026-07-26T10:59:46.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -161,6 +164,7 @@
     "available_at": "2026-07-24T14:31:50.000Z",
     "duration": 4414,
     "status": "past",
+    "songcount": 12,
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",

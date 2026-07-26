@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-26T11:56:16.342Z</updated>
+  <updated>2026-07-26T12:26:24.788Z</updated>
 
   <entry>
     <id>urn:uuid:3c71158c-93f5-5d6b-b7b6-f9f43020c6f7</id>
@@ -87,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=71RbIturcnM 【LIVE on &lt;t:1784984447:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/71RbIturcnM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a344110a-a9b4-5b07-a185-62424992fb8a</id>
+    <title><![CDATA[【生誕カウントダウン】今年も君と迎えられて、ほんとうによかった【虎金妃笑虎】#ニコたん生たん2026]]></title>
+    <link href="https://youtu.be/1hVdLzCTlTI" rel="alternate" type="text/html"/>
+    <published>2026-07-24T15:59:18.000Z</published>
+    <updated>2026-07-24T14:31:50.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1hVdLzCTlTI 【LIVE on &lt;t:1784903510:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1hVdLzCTlTI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
