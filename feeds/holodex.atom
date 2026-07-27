@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-27T14:56:25.588Z</updated>
+  <updated>2026-07-27T15:26:26.360Z</updated>
 
   <entry>
     <id>urn:uuid:8b215e56-7cf4-5873-920d-a6f9b67df8c7</id>
@@ -199,6 +199,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=qBhKDicu9Jc 【LIVE on &lt;t:1785034743:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qBhKDicu9Jc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:19a8a8ab-1650-5e06-a606-6c21fe66c67f</id>
+    <title><![CDATA[【ホロドリ】『爆夏!!トロピカバケーション』Official Music Video]]></title>
+    <link href="https://youtu.be/Z3rqP6VmqU4" rel="alternate" type="text/html"/>
+    <published>2026-07-24T12:11:18.000Z</published>
+    <updated>2026-07-28T09:00:00.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Z3rqP6VmqU4 【LIVE on &lt;t:1785229200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Z3rqP6VmqU4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1123,20 +1137,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jzy9mCdHBig 【LIVE on &lt;t:1783436405:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jzy9mCdHBig/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:603b0238-407b-5cbc-9eff-2df2b29a9ff2</id>
-    <title><![CDATA[Liminal]]></title>
-    <link href="https://youtu.be/7jhaWKRTn7k" rel="alternate" type="text/html"/>
-    <published>2026-07-07T15:00:01.000Z</published>
-    <updated>2026-07-07T15:00:01.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7jhaWKRTn7k 【LIVE on &lt;t:1783436401:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7jhaWKRTn7k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
