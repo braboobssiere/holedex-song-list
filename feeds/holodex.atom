@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-07-30T12:56:26.668Z</updated>
+  <updated>2026-07-30T13:26:33.401Z</updated>
 
   <entry>
     <id>urn:uuid:4382d994-bbe9-5e77-86e8-408a44965536</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zfYGdSqliRU 【LIVE on &lt;t:1785412806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zfYGdSqliRU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5b0af9c6-f441-5f8c-95ee-be8a40c86ef3</id>
+    <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】all routes lead to your smile 🐾【VISUAL NOVEL SONGS|美少女ゲームソング縛り】#FWMC3rd]]></title>
+    <link href="https://youtu.be/z1vE21rZEv8" rel="alternate" type="text/html"/>
+    <published>2026-07-30T10:58:50.000Z</published>
+    <updated>2026-07-31T03:00:00.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=z1vE21rZEv8 【LIVE on &lt;t:1785466800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z1vE21rZEv8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=50uRJZK1JA4 【LIVE on &lt;t:1782898299:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/50uRJZK1JA4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a2fe694e-92ef-5a40-8516-eda8b18b0da2</id>
-    <title><![CDATA[【弾き語り】作曲家を目指した理由【 #UNIT_B / #清澄ライラ 】]]></title>
-    <link href="https://youtu.be/ElzjB001UAo" rel="alternate" type="text/html"/>
-    <published>2026-06-30T11:50:25.000Z</published>
-    <updated>2026-06-30T09:00:17.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ElzjB001UAo 【LIVE on &lt;t:1782810017:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ElzjB001UAo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
