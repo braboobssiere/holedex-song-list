@@ -63,9 +63,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-07-30T11:07:05.000Z",
-    "available_at": "2026-07-31T05:30:00.000Z",
+    "available_at": "2026-07-31T05:36:58.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -215,6 +215,26 @@
     }
   },
   {
+    "id": "f4EZ7LDp-cI",
+    "title": "【耐久歌枠/KARAOKE】遂に60万人目前!一緒に迎えたいです!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-07-29T10:18:50.000Z",
+    "available_at": "2026-07-29T09:02:17.000Z",
+    "duration": 4026,
+    "status": "past",
+    "songcount": 12,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "r2d6FdzPvzM",
     "title": "[IRISÉ LIVE] WELCOME TO KOREA, KIARA !!🐔🩵💙",
     "type": "stream",
@@ -231,26 +251,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/KfDK1nMfNoXocYSkgO2WZ12dC2AvhIPUQFlRX3xAo6HxaFc0Z3q5RwWlYeddAJFIlPPQtvPTalI=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "IRISE"
-    }
-  },
-  {
-    "id": "f4EZ7LDp-cI",
-    "title": "【耐久歌枠/KARAOKE】遂に60万人目前！一緒に迎えたいです！！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-29T07:36:34.000Z",
-    "available_at": "2026-07-29T09:02:17.000Z",
-    "duration": 4030,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
     }
   },
   {
