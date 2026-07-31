@@ -25,8 +25,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-07-30T13:23:52.000Z",
     "available_at": "2026-07-31T10:02:24.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7965,
+    "status": "past",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive-EN",
@@ -141,6 +141,25 @@
     "published_at": "2026-07-30T00:17:34.000Z",
     "available_at": "2026-07-30T10:59:29.000Z",
     "duration": 3720,
+    "status": "past",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
+    "id": "iBwdA4RWQUM",
+    "title": "【誕生日カウントダウン!】三十路の向こう側【ホロライブ/宝鐘マリン】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-29T17:11:53.000Z",
+    "available_at": "2026-07-29T14:01:17.000Z",
+    "duration": 10504,
     "status": "past",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
@@ -276,25 +295,6 @@
     }
   },
   {
-    "id": "iBwdA4RWQUM",
-    "title": "【誕生日カウントダウン！】三十路の向こう側【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-29T03:28:06.000Z",
-    "available_at": "2026-07-29T14:01:17.000Z",
-    "duration": 10502,
-    "status": "past",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
     "id": "1xV8zKmL4wc",
     "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET'S OPEN A BUSINESS! #CLUB81800",
     "type": "stream",
@@ -378,8 +378,8 @@
     "topic_id": "singing",
     "published_at": "2026-07-27T13:51:11.000Z",
     "available_at": "2026-07-31T11:01:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4077,
+    "status": "past",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive-EN",
