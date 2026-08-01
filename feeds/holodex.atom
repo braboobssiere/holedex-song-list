@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-01T13:26:22.205Z</updated>
+  <updated>2026-08-01T13:56:29.007Z</updated>
+
+  <entry>
+    <id>urn:uuid:e91d89e4-996d-52e2-b7da-b22e5347d286</id>
+    <title><![CDATA[【MV】サキミダレアッパレード♪ / さくらみこ]]></title>
+    <link href="https://youtu.be/gF4UwqAvFOE" rel="alternate" type="text/html"/>
+    <published>2026-08-01T13:15:06.000Z</published>
+    <updated>2026-08-01T13:15:06.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gF4UwqAvFOE 【LIVE on &lt;t:1785590106:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gF4UwqAvFOE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:238acd6d-5323-5be2-94b1-e09de10740be</id>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jg-rQelXnLg 【LIVE on &lt;t:1783436439:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jg-rQelXnLg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d7b6f919-7dec-58fe-8a7e-581ad471e643</id>
-    <title><![CDATA[ねねちのギラギラファンミーティング]]></title>
-    <link href="https://youtu.be/T73Vw2tYGyI" rel="alternate" type="text/html"/>
-    <published>2026-07-07T15:00:37.000Z</published>
-    <updated>2026-07-07T15:00:37.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=T73Vw2tYGyI 【LIVE on &lt;t:1783436437:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T73Vw2tYGyI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
