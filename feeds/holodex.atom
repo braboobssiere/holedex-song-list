@@ -3,7 +3,63 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-01T14:56:29.103Z</updated>
+  <updated>2026-08-01T15:26:28.467Z</updated>
+
+  <entry>
+    <id>urn:uuid:f46f0fae-0daf-52fa-ab4a-ee50a01811fe</id>
+    <title><![CDATA[Spotlight (Instrumental)]]></title>
+    <link href="https://youtu.be/IyJ27NEFlBs" rel="alternate" type="text/html"/>
+    <published>2026-08-01T15:04:38.000Z</published>
+    <updated>2026-08-01T15:04:38.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IyJ27NEFlBs 【LIVE on &lt;t:1785596678:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IyJ27NEFlBs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:65ab1d31-5c5e-504d-aca9-8008ebf59114</id>
+    <title><![CDATA[Spotlight]]></title>
+    <link href="https://youtu.be/7bPNXiVZ7Eo" rel="alternate" type="text/html"/>
+    <published>2026-08-01T15:01:51.000Z</published>
+    <updated>2026-08-01T15:01:51.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7bPNXiVZ7Eo 【LIVE on &lt;t:1785596511:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7bPNXiVZ7Eo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6d5a1dc0-ec2b-5480-94f4-1e43044adbcd</id>
+    <title><![CDATA[サキミダレアッパレード♪ (Instrumental)]]></title>
+    <link href="https://youtu.be/P6Z3wHOYJEU" rel="alternate" type="text/html"/>
+    <published>2026-08-01T15:00:29.000Z</published>
+    <updated>2026-08-01T15:00:29.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=P6Z3wHOYJEU 【LIVE on &lt;t:1785596429:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/P6Z3wHOYJEU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d01ba27a-d84d-5eaf-bb90-0611f170225b</id>
+    <title><![CDATA[サキミダレアッパレード♪]]></title>
+    <link href="https://youtu.be/boXhSOPRa4Q" rel="alternate" type="text/html"/>
+    <published>2026-08-01T15:00:04.000Z</published>
+    <updated>2026-08-01T15:00:04.000Z</updated>
+    <author>
+      <name>Miko Ch. さくらみこ</name>
+      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=boXhSOPRa4Q 【LIVE on &lt;t:1785596404:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/boXhSOPRa4Q/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e91d89e4-996d-52e2-b7da-b22e5347d286</id>
@@ -1084,20 +1140,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:cd0efa19-2668-59f1-8ae8-777e0dcbda76</id>
-    <title><![CDATA[#ウチらしか勝たん]]></title>
-    <link href="https://youtu.be/YiZw79bvG6c" rel="alternate" type="text/html"/>
-    <published>2026-07-09T15:00:10.000Z</published>
-    <updated>2026-07-09T15:00:10.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YiZw79bvG6c 【LIVE on &lt;t:1783609210:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YiZw79bvG6c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:87ffc6f2-6cd8-5189-abf7-0fff2e4f63e7</id>
     <title><![CDATA[私のピアノ、光るらしいよ!!【 #UNIT_B / #玲銘ミラ】]]></title>
     <link href="https://youtu.be/U37GB7ab51I" rel="alternate" type="text/html"/>
@@ -1109,20 +1151,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=U37GB7ab51I 【LIVE on &lt;t:1783587653:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U37GB7ab51I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:241bd7e5-40fe-509a-9c25-c384e2f78432</id>
-    <title><![CDATA[#ウチらしか勝たん / 常闇トワ×桃鈴ねね (official)]]></title>
-    <link href="https://youtu.be/oUd1hLK7p2I" rel="alternate" type="text/html"/>
-    <published>2026-07-09T11:00:06.000Z</published>
-    <updated>2026-07-09T11:00:06.000Z</updated>
-    <author>
-      <name>Towa Ch. 常闇トワ</name>
-      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=oUd1hLK7p2I 【LIVE on &lt;t:1783594806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oUd1hLK7p2I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1154,20 +1182,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:ce505284-f3cc-5a67-8e4f-75345138792e</id>
-    <title><![CDATA[Flat out  / 輪堂千速 (official)]]></title>
-    <link href="https://youtu.be/ose8Cq4OmNA" rel="alternate" type="text/html"/>
-    <published>2026-07-08T12:08:07.000Z</published>
-    <updated>2026-07-08T12:08:07.000Z</updated>
-    <author>
-      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ose8Cq4OmNA 【LIVE on &lt;t:1783512487:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ose8Cq4OmNA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9a4f1a54-e2bf-5b6e-820b-5338f7560b18</id>
     <title><![CDATA[【七夕ライブ】願いを込めて🎋弾き語りします【 #UNIT_B / #清澄ライラ】]]></title>
     <link href="https://youtu.be/3fsZulsmdgE" rel="alternate" type="text/html"/>
@@ -1179,20 +1193,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3fsZulsmdgE 【LIVE on &lt;t:1783432931:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3fsZulsmdgE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bac35472-01e7-514c-9d3b-3b4c2607b774</id>
-    <title><![CDATA[コングラッCHU☆マーチ]]></title>
-    <link href="https://youtu.be/jg-rQelXnLg" rel="alternate" type="text/html"/>
-    <published>2026-07-07T15:00:39.000Z</published>
-    <updated>2026-07-07T15:00:39.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=jg-rQelXnLg 【LIVE on &lt;t:1783436439:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jg-rQelXnLg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1935,20 +1935,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=VfDpe5ashdY 【LIVE on &lt;t:1774100340:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VfDpe5ashdY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d5e0b44a-603d-5129-b68c-383e05697495</id>
-    <title><![CDATA[【#ホロカラ覗き見】ホロメンのカラオケ覗き見!? / 3Dstream【ホロライブ/夏色まつり】]]></title>
-    <link href="https://youtu.be/R-yE9Mut4Yc" rel="alternate" type="text/html"/>
-    <published>2026-03-21T13:20:25.000Z</published>
-    <updated>2026-03-21T11:58:26.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R-yE9Mut4Yc 【LIVE on &lt;t:1774094306:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R-yE9Mut4Yc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
