@@ -5,9 +5,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-08-02T17:28:52.000Z",
-    "available_at": "2026-08-03T10:00:00.000Z",
+    "available_at": "2026-08-03T10:01:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 70
+    },
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -113,6 +116,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/iATADgRHFUjwjw_IBRN_G_MN4zsQ6UEHHibOroZhTKQuxj6So1oFIm4EthlZF_Iv73UnkGm4ZuY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
+    }
+  },
+  {
+    "id": "LI62pKibK-c",
+    "title": "【願望】不憫なネオンと誕生日を一緒に迎えて欲しい!!【 #UNIT_B / #宵凪ネオン】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-08-01T15:28:01.000Z",
+    "available_at": "2026-08-01T13:00:02.000Z",
+    "duration": 8538,
+    "status": "past",
+    "songcount": 8,
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
     }
   },
   {
@@ -237,26 +260,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "LI62pKibK-c",
-    "title": "【願望】不憫なネオンと誕生日を一緒に迎えて欲しい！！【 #UNIT_B / #宵凪ネオン】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-08-01T09:36:07.000Z",
-    "available_at": "2026-08-01T13:00:02.000Z",
-    "duration": 8533,
-    "status": "past",
-    "songcount": 8,
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
     }
   },
   {
