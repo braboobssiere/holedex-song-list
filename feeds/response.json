@@ -6,11 +6,11 @@
     "topic_id": "singing",
     "published_at": "2026-08-03T14:05:22.000Z",
     "available_at": "2026-08-03T14:30:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4711,
+    "status": "past",
     "live_tl_count": {
-      "en": 66,
-      "ko": 73
+      "en": 94,
+      "ko": 100
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -29,8 +29,8 @@
     "topic_id": "singing",
     "published_at": "2026-08-03T12:26:51.000Z",
     "available_at": "2026-08-03T13:08:45.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9107,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -39,6 +39,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "R-MDTIC8bpU",
+    "title": "【RIZAP監修】ラミィと一緒にレッツワークアウト!|下半身編【雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-03T09:00:13.000Z",
+    "available_at": "2026-08-03T09:00:13.000Z",
+    "duration": 320,
+    "status": "past",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -5845,24 +5864,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Takanashi Kiara"
-    }
-  },
-  {
-    "id": "XVFuomb5MOI",
-    "title": "おでんの祭典?O-1ぐらんぷり!【#ReGLOSSおでん】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-02-27T10:00:06.000Z",
-    "available_at": "2026-02-27T10:00:06.000Z",
-    "duration": 895,
-    "status": "past",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive DEV_IS ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
