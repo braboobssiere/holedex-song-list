@@ -1,5 +1,28 @@
 [
   {
+    "id": "2K1ExyX2IR8",
+    "title": "【 歌枠 】ホロドリで遊べる曲とその他少し歌いたい!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-03T14:05:22.000Z",
+    "available_at": "2026-08-03T14:30:13.000Z",
+    "duration": 0,
+    "status": "live",
+    "live_tl_count": {
+      "en": 66,
+      "ko": 73
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "9GPyp4U6BP8",
     "title": "【歌枠 / karaoke】告ります。 / アステル",
     "type": "stream",
@@ -3108,26 +3131,6 @@
     }
   },
   {
-    "id": "zYRo9EosGPA",
-    "title": "【歌枠/KARAOKE】告知だ~~~!歌うぞ!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-02T12:32:24.000Z",
-    "available_at": "2026-07-02T11:00:10.000Z",
-    "duration": 3711,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "RxxXpcK2GTk",
     "title": "【HORSE STARS 2026】LET THE RACES BEGIN #Horsestars2026 #HappyBirthdayGribby",
     "type": "stream",
@@ -3166,6 +3169,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
+    }
+  },
+  {
+    "id": "7G2ClpZj-CQ",
+    "title": "【3D新衣装】9回目の誕生日は好き放題に「絢・爛・豪・華!!!」【#朝ノ瑠璃生誕3D2026】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-01T13:35:39.000Z",
+    "available_at": "2026-08-04T09:10:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCODNLyn3L83wEmC0DLL0cxA",
+      "name": "朝ノ姉妹ぷろじぇくと",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Y2D0FcAyWjdJimvrJwkefntu0uLaanSw6FY_8bE1ZSpc8EB89_yyqqPlbRyhc4QLyJOjcnQajMY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Asano Ninja Sisters"
     }
   },
   {
@@ -4626,25 +4648,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GVJNX-Qfx7GBvrGw7x5isWLm1gneYy1t7Y1zbC5l2NPT60zCNH9xD0Ajt2s1bFbhX8Qd_EV9sQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Zonchu"
-    }
-  },
-  {
-    "id": "9G8nfmcM0lU",
-    "title": "【#BdayINA2026】H-h-h-hi I-It's My Birthday......!!!!!!",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-21T02:39:07.000Z",
-    "available_at": "2026-05-21T00:00:11.000Z",
-    "duration": 8776,
-    "status": "past",
-    "channel": {
-      "id": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "name": "Ninomae Ina'nis Ch. hololive-EN",
-      "org": "Hololive",
-      "suborg": "h English -Myth-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/hJ45UDEa_rKtqxjNcIcYYJ_3eBvl9Jj2H-gXHBwNDwKOcSvDLjSwgOVbU9tEbUQmpGnyGwQFLQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ninomae Ina'nis"
     }
   },
   {
