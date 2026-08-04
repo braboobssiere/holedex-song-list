@@ -6,8 +6,8 @@
     "topic_id": "singing",
     "published_at": "2026-08-04T05:40:31.000Z",
     "available_at": "2026-08-04T05:41:16.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3631,
+    "status": "past",
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
       "name": "Gigi Murin Ch. hololive-EN",
@@ -119,8 +119,27 @@
     }
   },
   {
+    "id": "ydMK3hE3Q4o",
+    "title": "【初凸待ち】誕生日パーティーだ〜!みんな集合!【 #UNIT_B / #宵凪ネオン 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-08-02T12:14:55.000Z",
+    "available_at": "2026-08-02T10:00:02.000Z",
+    "duration": 7737,
+    "status": "past",
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
+    }
+  },
+  {
     "id": "_buc53b7gs8",
-    "title": "現世アリス :Robocosan Original Song",
+    "title": "現世アリス  :Robocosan Original Song",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-08-02T12:00:16.000Z",
@@ -194,25 +213,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "ydMK3hE3Q4o",
-    "title": "【初凸待ち】誕生日パーティーだ〜！みんな集合！【 #UNIT_B / #宵凪ネオン 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-08-02T08:32:48.000Z",
-    "available_at": "2026-08-02T10:00:02.000Z",
-    "duration": 7732,
-    "status": "past",
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
     }
   },
   {
