@@ -3,11 +3,39 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-05T14:56:25.942Z</updated>
+  <updated>2026-08-05T15:26:29.147Z</updated>
+
+  <entry>
+    <id>urn:uuid:41e1fe62-ce9f-5fac-aab3-8b093749dd77</id>
+    <title><![CDATA[Windy Traveler]]></title>
+    <link href="https://youtu.be/FBVAv8VxF_E" rel="alternate" type="text/html"/>
+    <published>2026-08-05T15:03:33.000Z</published>
+    <updated>2026-08-05T15:03:33.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FBVAv8VxF_E 【LIVE on &lt;t:1785942213:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FBVAv8VxF_E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dc69e530-178b-54de-b780-07517486bb08</id>
+    <title><![CDATA[Windy Traveler (Instrumental)]]></title>
+    <link href="https://youtu.be/Zd_Div1611w" rel="alternate" type="text/html"/>
+    <published>2026-08-05T15:02:42.000Z</published>
+    <updated>2026-08-05T15:02:42.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Zd_Div1611w 【LIVE on &lt;t:1785942162:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Zd_Div1611w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5bba081e-331a-5c5e-a06e-ce5b6b6ff733</id>
-    <title><![CDATA[【 歌枠 】縛りなしで色々歌うのら~!!!Let's Singing🎶【姫森ルーナ/ホロライブ】]]></title>
+    <title><![CDATA[【 歌枠 】縛りなしで色々歌うのら～！！！Let's Singing🎶【姫森ルーナ/ホロライブ】]]></title>
     <link href="https://youtu.be/Up_tE6a6QRg" rel="alternate" type="text/html"/>
     <published>2026-08-05T10:35:14.000Z</published>
     <updated>2026-08-05T12:59:41.000Z</updated>
@@ -1196,20 +1224,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:abb28596-0d35-59a4-9cd1-274512ba51ca</id>
-    <title><![CDATA[MUSE - IRyS【Original Song 3D MV】]]></title>
-    <link href="https://youtu.be/xF4BlRbwjB0" rel="alternate" type="text/html"/>
-    <published>2026-07-11T04:05:07.000Z</published>
-    <updated>2026-07-11T04:05:07.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=xF4BlRbwjB0 【LIVE on &lt;t:1783742707:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xF4BlRbwjB0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:0a8f48b3-6eeb-5ade-8af8-d023d43df539</id>
     <title><![CDATA[【 歌枠】NO30.眠れない子おいで、今日こそはちるい落ち着いた歌をうたいたいな ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
     <link href="https://youtu.be/IKNlomtvxbw" rel="alternate" type="text/html"/>
@@ -1221,20 +1235,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IKNlomtvxbw 【LIVE on &lt;t:1783691955:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKNlomtvxbw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:35b0f1c8-21c0-5a3c-9c35-79a9c6175a3c</id>
-    <title><![CDATA[Lucky Loud (一条莉々華 SOLO ver.)]]></title>
-    <link href="https://youtu.be/QqzRAVsrSE4" rel="alternate" type="text/html"/>
-    <published>2026-07-10T15:00:23.000Z</published>
-    <updated>2026-07-10T15:00:23.000Z</updated>
-    <author>
-      <name>hololive DEV_IS ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QqzRAVsrSE4 【LIVE on &lt;t:1783695623:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QqzRAVsrSE4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
