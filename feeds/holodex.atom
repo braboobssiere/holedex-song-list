@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-06T17:00:19.576Z</updated>
+  <updated>2026-08-06T19:26:31.790Z</updated>
 
   <entry>
     <id>urn:uuid:32458b31-769e-5b8b-b658-c06ffbfb4c5c</id>
@@ -31,6 +31,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HylMLbRlJ1c 【LIVE on &lt;t:1786028535:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HylMLbRlJ1c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d8f3a542-35cf-5638-8e2c-8aba71dde40c</id>
+    <title><![CDATA['LOVE MISSION♡' MV / Vestia Zeta]]></title>
+    <link href="https://youtu.be/XdgzEDySUS8" rel="alternate" type="text/html"/>
+    <published>2026-08-06T11:48:29.000Z</published>
+    <updated>2026-08-07T12:00:00.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XdgzEDySUS8 【LIVE on &lt;t:1786104000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XdgzEDySUS8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f277f030-d6ec-541c-ad77-d14dfa362498</id>
+    <title><![CDATA[【ZOMILY - KARAOKE】 SINGING, JUST A LITTLE BIT 【Kureiji Ollie】]]></title>
+    <link href="https://youtu.be/A7LcPA4gaPg" rel="alternate" type="text/html"/>
+    <published>2026-08-06T11:46:20.000Z</published>
+    <updated>2026-08-07T13:00:00.000Z</updated>
+    <author>
+      <name>Kureiji Ollie Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=A7LcPA4gaPg 【LIVE on &lt;t:1786107600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A7LcPA4gaPg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1210,20 +1238,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:91db5e6d-c57f-5e23-ab73-acc174e7e64a</id>
-    <title><![CDATA[Escalate]]></title>
-    <link href="https://youtu.be/QH0WGVXfkB0" rel="alternate" type="text/html"/>
-    <published>2026-07-11T15:00:13.000Z</published>
-    <updated>2026-07-11T15:00:13.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QH0WGVXfkB0 【LIVE on &lt;t:1783782013:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QH0WGVXfkB0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:0a8f48b3-6eeb-5ade-8af8-d023d43df539</id>
     <title><![CDATA[【 歌枠】NO30.眠れない子おいで、今日こそはちるい落ち着いた歌をうたいたいな ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
     <link href="https://youtu.be/IKNlomtvxbw" rel="alternate" type="text/html"/>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=foUgVcpF4x8 【LIVE on &lt;t:1783380023:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/foUgVcpF4x8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4b622726-b22d-549a-9954-dc8b91031e65</id>
-    <title><![CDATA[【歌枠】まったりチルしていこ♪【轟はじめ/ReGLOSS】]]></title>
-    <link href="https://youtu.be/LmLcTFr4oWw" rel="alternate" type="text/html"/>
-    <published>2026-07-06T14:32:47.000Z</published>
-    <updated>2026-07-06T13:00:29.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LmLcTFr4oWw 【LIVE on &lt;t:1783342829:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LmLcTFr4oWw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
