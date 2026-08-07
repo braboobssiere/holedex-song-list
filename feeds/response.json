@@ -101,9 +101,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-08-07T09:07:20.000Z",
-    "available_at": "2026-08-07T14:00:00.000Z",
+    "available_at": "2026-08-07T14:00:29.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 17
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
