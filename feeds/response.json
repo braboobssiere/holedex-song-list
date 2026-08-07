@@ -1,5 +1,24 @@
 [
   {
+    "id": "gz6oAcL8Cw4",
+    "title": "W/X/Y【 #ホロライブ/ #ロボ子海底3Dライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-07T01:41:37.000Z",
+    "available_at": "2026-08-07T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "LNAXHC_psU0",
     "title": "【#holoAdvent Q&A COLLAB】answering your BURNING questions for our 3rd anniversary 🐾 【FUWAMOCO】",
     "type": "stream",
@@ -8,6 +27,9 @@
     "available_at": "2026-08-07T00:56:12.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "es": 10
+    },
     "channel": {
       "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
       "name": "FUWAMOCO Ch. hololive-EN",
@@ -5805,25 +5827,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/05zupy7ai3DW0mEmY3tSgkb4CGjHadAXG0bs_PSzg09l0_5MInPrG4Bh-ZRlAWcPncOe9cnQkQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Himemori Luna"
-    }
-  },
-  {
-    "id": "qvP8sGFMc3I",
-    "title": "【#明堂しろね3D】ご主人様!お嬢様!ついに3Dお披露目の夢が叶う瞬間です!【明堂しろね/ハコネクト】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-03-20T12:10:08.000Z",
-    "available_at": "2026-03-20T10:59:57.000Z",
-    "duration": 3147,
-    "status": "past",
-    "channel": {
-      "id": "UCI-aDQ7k0Ghd9JlFv_qzB7w",
-      "name": "明堂しろね Shirone Ch.",
-      "org": "HACONECT",
-      "suborg": "1g4th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/1AE054WJYoeKKloskXZPowzuTgS1xLjIa47l0nukErUeiUDhm_zZg9r5rcwUurEa7L99yevw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Meido Shirone"
     }
   },
   {
