@@ -3,11 +3,53 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-07T11:56:33.571Z</updated>
+  <updated>2026-08-07T12:26:29.483Z</updated>
+
+  <entry>
+    <id>urn:uuid:b1c48e18-c702-5920-9fe9-e1d076ab06c1</id>
+    <title><![CDATA[【UNARCHIVED】2 HOUR POP RADIO KARAOKE]]></title>
+    <link href="https://youtu.be/ENlNsWX4PEI" rel="alternate" type="text/html"/>
+    <published>2026-08-07T12:10:01.000Z</published>
+    <updated>2026-08-07T21:00:00.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ENlNsWX4PEI 【LIVE on &lt;t:1786136400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ENlNsWX4PEI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d8f3a542-35cf-5638-8e2c-8aba71dde40c</id>
+    <title><![CDATA['LOVE MISSION♡' MV / Vestia Zeta]]></title>
+    <link href="https://youtu.be/XdgzEDySUS8" rel="alternate" type="text/html"/>
+    <published>2026-08-07T12:00:06.000Z</published>
+    <updated>2026-08-07T12:00:06.000Z</updated>
+    <author>
+      <name>Vestia Zeta Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XdgzEDySUS8 【LIVE on &lt;t:1786104006:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XdgzEDySUS8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:21671c61-1e8b-5bf1-bd27-cfc441f632a1</id>
+    <title><![CDATA[It's time for : UNARCHIVED KARAOKE]]></title>
+    <link href="https://youtu.be/zn2VL5wWC1c" rel="alternate" type="text/html"/>
+    <published>2026-08-07T10:49:10.000Z</published>
+    <updated>2026-08-07T13:00:00.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zn2VL5wWC1c 【LIVE on &lt;t:1786107600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zn2VL5wWC1c/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7090c5c0-7a74-5c99-a4e7-d162426c36ab</id>
-    <title><![CDATA[【 縦型歌枠 】呼吸!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <title><![CDATA[【 縦型歌枠 】呼吸！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
     <link href="https://youtu.be/8JNJ8GYgTQk" rel="alternate" type="text/html"/>
     <published>2026-08-07T10:38:28.000Z</published>
     <updated>2026-08-07T11:00:15.000Z</updated>
@@ -73,20 +115,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HylMLbRlJ1c 【LIVE on &lt;t:1786028535:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HylMLbRlJ1c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d8f3a542-35cf-5638-8e2c-8aba71dde40c</id>
-    <title><![CDATA['LOVE MISSION♡' MV / Vestia Zeta]]></title>
-    <link href="https://youtu.be/XdgzEDySUS8" rel="alternate" type="text/html"/>
-    <published>2026-08-06T11:48:29.000Z</published>
-    <updated>2026-08-07T12:00:00.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XdgzEDySUS8 【LIVE on &lt;t:1786104000:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XdgzEDySUS8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1305,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-dqLfiQ5IHU 【LIVE on &lt;t:1783508051:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-dqLfiQ5IHU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9a4f1a54-e2bf-5b6e-820b-5338f7560b18</id>
-    <title><![CDATA[【七夕ライブ】願いを込めて🎋弾き語りします【 #UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/3fsZulsmdgE" rel="alternate" type="text/html"/>
-    <published>2026-07-07T16:25:56.000Z</published>
-    <updated>2026-07-07T14:02:11.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3fsZulsmdgE 【LIVE on &lt;t:1783432931:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3fsZulsmdgE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
