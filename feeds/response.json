@@ -1,5 +1,24 @@
 [
   {
+    "id": "pxD2WEoI9DI",
+    "title": "【朝活雑談】8周年目がはじまったね...♡【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-08-08T11:45:18.000Z",
+    "available_at": "2026-08-09T01:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "NCBzuep4GrU",
     "title": "【RIZAP監修】ラミィと一緒にレッツワークアウト!|第七回：太もも、脚痩せ編【雪花ラミィ /ホロライブ】",
     "type": "stream",
@@ -25,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2026-08-08T07:06:19.000Z",
     "available_at": "2026-08-08T09:59:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5753,
+    "status": "past",
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -35,25 +54,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "sDXwaagq_jU",
-    "title": "【 日本監視協会3 】3Dで恐ろしい監視業務やるで…【ホロライブ/さくらみこ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-08-08T06:52:36.000Z",
-    "available_at": "2026-08-08T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
-      "name": "Miko Ch. さくらみこ",
-      "org": "Hololive",
-      "suborg": "0y0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Sakura Miko"
     }
   },
   {
@@ -555,13 +555,13 @@
   },
   {
     "id": "07qx3PL4b3U",
-    "title": "【 #常闇トワ生誕祭2026 】告知あり!新衣装お披露目ミニライブ🎶【 3DLIVE 】",
+    "title": "【 #常闇トワ生誕祭2026 】告知あり！新衣装お披露目ミニライブ🎶【 3DLIVE 】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-08-06T04:19:47.000Z",
     "available_at": "2026-08-08T11:00:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 2368,
+    "status": "past",
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -1546,6 +1546,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "N1z9JiRUsFM",
+    "title": "【 #昏昏アリア3Dお披露目 】ついに…!【昏昏アリア/ネオポルテ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-07-29T08:37:53.000Z",
+    "available_at": "2026-08-08T10:55:03.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCo6mwsozDGMW0UNGowBJGhg",
+      "name": "昏昏アリア / Konkon Aria",
+      "org": "Neo-Porte",
+      "suborg": "0g3rd Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/0tvpfHLnPtiDpBkKNqWnggOh5Me7aO4EHLcvzZAJUmZLGRGwa5Ak1HV2GO8PwmH5b3XD5BolhA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Konkon Aria"
     }
   },
   {
@@ -5724,26 +5743,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_k5mjdt1wcbaYCXKwmDpVXmSGtOc-LH3WjIyUHVC4soP28=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Oozora Subaru"
-    }
-  },
-  {
-    "id": "2MbRL7JC3R0",
-    "title": "【 3D LIVE 】豪華ゲスト多数出演!「転生したらお供だった件について」#夜十神封魔4周年記念LIVE 開催!🎊✨",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-03-29T12:46:37.000Z",
-    "available_at": "2026-03-29T11:00:11.000Z",
-    "duration": 3311,
-    "status": "past",
-    "songcount": 6,
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
     }
   },
   {
