@@ -38,6 +38,25 @@
     }
   },
   {
+    "id": "sDXwaagq_jU",
+    "title": "【 日本監視協会3 】3Dで恐ろしい監視業務やるで…【ホロライブ/さくらみこ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-08T06:52:36.000Z",
+    "available_at": "2026-08-08T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ",
+      "org": "Hololive",
+      "suborg": "0y0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sakura Miko"
+    }
+  },
+  {
     "id": "gNui7mRucYA",
     "title": "【歌枠】アニソン縛り!歌うよ~~~! Singing Stream【ホロライブ / AZKi】",
     "type": "stream",
@@ -84,6 +103,7 @@
     "available_at": "2026-08-08T13:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -414,6 +434,26 @@
     }
   },
   {
+    "id": "ZgSNBsMmlV8",
+    "title": "【歌枠 / karaoke】風流ですなぁ~ / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-06T15:45:33.000Z",
+    "available_at": "2026-08-06T13:33:30.000Z",
+    "duration": 7362,
+    "status": "past",
+    "songcount": 22,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "TUV4DsrQuxM",
     "title": "LOVE MISSION♡ (Instrumental)",
     "type": "stream",
@@ -453,26 +493,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0pxwGbJZbeMVkF9wGW4FNE2vJERPo0zUkzSEFWj6IHio-uiLWMSJKdjhkqwRkWwDHNu0dXiynw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Vestia Zeta"
-    }
-  },
-  {
-    "id": "ZgSNBsMmlV8",
-    "title": "【歌枠 / karaoke】風流ですなぁ～ / アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-06T13:31:53.000Z",
-    "available_at": "2026-08-06T13:33:30.000Z",
-    "duration": 7365,
-    "status": "past",
-    "songcount": 22,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
@@ -535,13 +555,13 @@
   },
   {
     "id": "07qx3PL4b3U",
-    "title": "【 #常闇トワ生誕祭2026 】告知あり！新衣装お披露目ミニライブ🎶【 3DLIVE 】",
+    "title": "【 #常闇トワ生誕祭2026 】告知あり!新衣装お披露目ミニライブ🎶【 3DLIVE 】",
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-08-06T04:19:47.000Z",
-    "available_at": "2026-08-08T11:00:00.000Z",
+    "available_at": "2026-08-08T11:00:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1uv2Oq6kNxgATlCiez59hw",
       "name": "Towa Ch. 常闇トワ",
@@ -5684,25 +5704,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "9_-JwXshO8Y",
-    "title": "【3D歌枠🎤】3月のソロセルフブース3D歌枠です❤【ホロライブ DEV_IS 響咲リオナ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-03-30T11:15:14.000Z",
-    "available_at": "2026-03-30T10:00:55.000Z",
-    "duration": 4059,
-    "status": "past",
-    "channel": {
-      "id": "UC9LSiN9hXI55svYEBrrK-tw",
-      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Isaki Riona"
     }
   },
   {
