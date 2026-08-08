@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-08T14:56:27.361Z</updated>
+  <updated>2026-08-08T15:26:25.122Z</updated>
+
+  <entry>
+    <id>urn:uuid:8755268f-7b27-53f4-8652-de715ae914e8</id>
+    <title><![CDATA[SM4SH IT UP (Instrumental)]]></title>
+    <link href="https://youtu.be/JV9uwZ4mlug" rel="alternate" type="text/html"/>
+    <published>2026-08-08T15:05:16.000Z</published>
+    <updated>2026-08-08T15:05:16.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JV9uwZ4mlug 【LIVE on &lt;t:1786201516:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JV9uwZ4mlug/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:51cd5004-4e99-56c3-bc6d-6f45a183e1e9</id>
+    <title><![CDATA[SM4SH IT UP]]></title>
+    <link href="https://youtu.be/lmBkWOkBCBA" rel="alternate" type="text/html"/>
+    <published>2026-08-08T15:05:11.000Z</published>
+    <updated>2026-08-08T15:05:11.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lmBkWOkBCBA 【LIVE on &lt;t:1786201511:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lmBkWOkBCBA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:74a01536-5233-5b79-8624-14cd6f42355f</id>
@@ -143,6 +171,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=pL4Xt1D3iCU 【LIVE on &lt;t:1786100490:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pL4Xt1D3iCU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c4663397-78b3-5a1b-b0e4-91c6384a5959</id>
+    <title><![CDATA[現世アリス【 #ホロライブ/ #ロボ子海底3Dライブ】]]></title>
+    <link href="https://youtu.be/3KzdBBAMg8E" rel="alternate" type="text/html"/>
+    <published>2026-08-07T01:52:00.000Z</published>
+    <updated>2026-08-09T09:00:00.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3KzdBBAMg8E 【LIVE on &lt;t:1786266000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3KzdBBAMg8E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1154,20 +1196,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e4560d7a-f8b1-50fb-b462-b774134012f0</id>
-    <title><![CDATA[ファッションビート]]></title>
-    <link href="https://youtu.be/dzcfXjQwGJ8" rel="alternate" type="text/html"/>
-    <published>2026-07-13T13:42:57.000Z</published>
-    <updated>2026-07-13T13:42:57.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dzcfXjQwGJ8 【LIVE on &lt;t:1783950177:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dzcfXjQwGJ8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9a63bed8-a586-5024-9e06-fe8bb82cad8b</id>
     <title><![CDATA[ファッションビート (Instrumental)]]></title>
     <link href="https://youtu.be/Zs8V61lfgQ0" rel="alternate" type="text/html"/>
@@ -1235,34 +1263,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MIqMfWQBqe4 【LIVE on &lt;t:1783778457:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MIqMfWQBqe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0156cfa9-343a-5929-88ec-2a600decf2cb</id>
-    <title><![CDATA[LIVING DEAD]]></title>
-    <link href="https://youtu.be/lLwe7ZQESUo" rel="alternate" type="text/html"/>
-    <published>2026-07-11T15:00:40.000Z</published>
-    <updated>2026-07-11T15:00:40.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lLwe7ZQESUo 【LIVE on &lt;t:1783782040:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lLwe7ZQESUo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0dad1b34-edee-597d-bc7f-8f3c0dffcbaa</id>
-    <title><![CDATA[Unspoken]]></title>
-    <link href="https://youtu.be/OTcG-HhvSP8" rel="alternate" type="text/html"/>
-    <published>2026-07-11T15:00:34.000Z</published>
-    <updated>2026-07-11T15:00:34.000Z</updated>
-    <author>
-      <name>IRyS Ch. hololive-EN</name>
-      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OTcG-HhvSP8 【LIVE on &lt;t:1783782034:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OTcG-HhvSP8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
