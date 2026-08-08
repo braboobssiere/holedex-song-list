@@ -1,5 +1,24 @@
 [
   {
+    "id": "gNui7mRucYA",
+    "title": "【歌枠】アニソン縛り!歌うよ~~~! Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-08T06:28:38.000Z",
+    "available_at": "2026-08-08T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "WxKT1tfrMr8",
     "title": "【PERO'S BIRTHDAY PARTY】i want a birthday wake-up kiss from the rufferans 🐾✨ 【FUWAMOCO】",
     "type": "stream",
@@ -381,6 +400,26 @@
     }
   },
   {
+    "id": "jbu_zJtuMU0",
+    "title": "【歌枠】夏っぽい歌を聞いてください【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-06T10:54:32.000Z",
+    "available_at": "2026-08-06T09:32:26.000Z",
+    "duration": 4640,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "7QFBqP936xc",
     "title": "【RIZAP監修】ラミィと一緒にレッツワークアウト!|第五回：胸の筋肉(大胸筋)編【雪花ラミィ /ホロライブ】",
     "type": "stream",
@@ -397,26 +436,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "jbu_zJtuMU0",
-    "title": "【歌枠】夏っぽい歌を聞いてください【ホロライブ/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-06T07:50:25.000Z",
-    "available_at": "2026-08-06T09:32:26.000Z",
-    "duration": 4649,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
@@ -3217,28 +3236,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VW2sZveoSaP-ZrCVPqNdM57LyRWIaTAVpSeWjcWScm3v1lqHqgNL2_bKZSX1jvuKBDehi0fFPQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "VPEKcuNdLr4",
-    "title": "【REBROADCAST】CHILL KARAOKE + WEDDING KARAOKE",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-08T01:46:17.000Z",
-    "available_at": "2026-07-08T12:03:44.000Z",
-    "duration": 0,
-    "status": "missing",
-    "live_tl_count": {
-      "en": 17
-    },
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
