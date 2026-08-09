@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-09T07:26:23.141Z</updated>
+  <updated>2026-08-09T07:56:30.005Z</updated>
 
   <entry>
     <id>urn:uuid:8755268f-7b27-53f4-8652-de715ae914e8</id>
@@ -104,6 +104,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:65575ebb-f59b-534d-92a9-13c98f51711c</id>
+    <title><![CDATA[5億年ぶり激レアのカラオケ配信です。【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
+    <link href="https://youtu.be/pL4Xt1D3iCU" rel="alternate" type="text/html"/>
+    <published>2026-08-07T12:39:36.000Z</published>
+    <updated>2026-08-07T11:01:30.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pL4Xt1D3iCU 【LIVE on &lt;t:1786100490:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pL4Xt1D3iCU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7090c5c0-7a74-5c99-a4e7-d162426c36ab</id>
+    <title><![CDATA[【 縦型歌枠 】呼吸!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
+    <link href="https://youtu.be/8JNJ8GYgTQk" rel="alternate" type="text/html"/>
+    <published>2026-08-07T12:13:01.000Z</published>
+    <updated>2026-08-07T11:00:15.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=8JNJ8GYgTQk 【LIVE on &lt;t:1786100415:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8JNJ8GYgTQk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:b1c48e18-c702-5920-9fe9-e1d076ab06c1</id>
     <title><![CDATA[【UNARCHIVED】2 HOUR POP RADIO KARAOKE]]></title>
     <link href="https://youtu.be/ENlNsWX4PEI" rel="alternate" type="text/html"/>
@@ -146,20 +174,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7090c5c0-7a74-5c99-a4e7-d162426c36ab</id>
-    <title><![CDATA[【 縦型歌枠 】呼吸！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS]]></title>
-    <link href="https://youtu.be/8JNJ8GYgTQk" rel="alternate" type="text/html"/>
-    <published>2026-08-07T10:38:28.000Z</published>
-    <updated>2026-08-07T11:00:15.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8JNJ8GYgTQk 【LIVE on &lt;t:1786100415:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8JNJ8GYgTQk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:c0bf8e7d-8ae7-57b2-a3f1-09849261863f</id>
     <title><![CDATA[【平成アニソン老人会カラオケ】1990年代～2000年代のアニソンや声優ソングに想いを馳せる深夜の歌枠【博衣こより/ホロライブ】]]></title>
     <link href="https://youtu.be/R2BSE9fah5s" rel="alternate" type="text/html"/>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=R2BSE9fah5s 【LIVE on &lt;t:1786111229:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R2BSE9fah5s/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:65575ebb-f59b-534d-92a9-13c98f51711c</id>
-    <title><![CDATA[5億年ぶり激レアのカラオケ配信です。【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
-    <link href="https://youtu.be/pL4Xt1D3iCU" rel="alternate" type="text/html"/>
-    <published>2026-08-07T03:46:16.000Z</published>
-    <updated>2026-08-07T11:01:30.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pL4Xt1D3iCU 【LIVE on &lt;t:1786100490:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pL4Xt1D3iCU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
