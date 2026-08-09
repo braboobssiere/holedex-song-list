@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-09T11:26:33.815Z</updated>
+  <updated>2026-08-09T11:56:32.405Z</updated>
 
   <entry>
     <id>urn:uuid:c4663397-78b3-5a1b-b0e4-91c6384a5959</id>
@@ -118,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:c0bf8e7d-8ae7-57b2-a3f1-09849261863f</id>
+    <title><![CDATA[【平成アニソン老人会カラオケ】1990年代~2000年代のアニソンや声優ソングに想いを馳せる深夜の歌枠【博衣こより/ホロライブ】]]></title>
+    <link href="https://youtu.be/R2BSE9fah5s" rel="alternate" type="text/html"/>
+    <published>2026-08-07T16:46:46.000Z</published>
+    <updated>2026-08-07T14:00:29.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R2BSE9fah5s 【LIVE on &lt;t:1786111229:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R2BSE9fah5s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:65575ebb-f59b-534d-92a9-13c98f51711c</id>
     <title><![CDATA[5億年ぶり激レアのカラオケ配信です。【一条莉々華/hololive DEV_IS ReGLOSS】]]></title>
     <link href="https://youtu.be/pL4Xt1D3iCU" rel="alternate" type="text/html"/>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XdgzEDySUS8 【LIVE on &lt;t:1786104006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XdgzEDySUS8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c0bf8e7d-8ae7-57b2-a3f1-09849261863f</id>
-    <title><![CDATA[【平成アニソン老人会カラオケ】1990年代～2000年代のアニソンや声優ソングに想いを馳せる深夜の歌枠【博衣こより/ホロライブ】]]></title>
-    <link href="https://youtu.be/R2BSE9fah5s" rel="alternate" type="text/html"/>
-    <published>2026-08-07T09:07:20.000Z</published>
-    <updated>2026-08-07T14:00:29.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=R2BSE9fah5s 【LIVE on &lt;t:1786111229:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R2BSE9fah5s/maxresdefault.jpg"/>
   </entry>
 
   <entry>
