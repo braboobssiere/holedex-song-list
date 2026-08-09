@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-09T03:26:19.397Z</updated>
+  <updated>2026-08-09T03:56:18.238Z</updated>
 
   <entry>
     <id>urn:uuid:8755268f-7b27-53f4-8652-de715ae914e8</id>
@@ -619,6 +619,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=f4EZ7LDp-cI 【LIVE on &lt;t:1785315737:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/f4EZ7LDp-cI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2835da42-7b1a-5b12-b3ad-153726920355</id>
+    <title><![CDATA[【 #昏昏アリア3Dお披露目 】ついに…！【昏昏アリア/ネオポルテ】]]></title>
+    <link href="https://youtu.be/N1z9JiRUsFM" rel="alternate" type="text/html"/>
+    <published>2026-07-29T08:37:53.000Z</published>
+    <updated>2026-08-08T10:55:03.000Z</updated>
+    <author>
+      <name>昏昏アリア / Konkon Aria</name>
+      <uri>https://www.youtube.com/channel/UCo6mwsozDGMW0UNGowBJGhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N1z9JiRUsFM 【LIVE on &lt;t:1786186503:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N1z9JiRUsFM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
