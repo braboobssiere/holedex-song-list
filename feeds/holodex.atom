@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-11T15:56:29.485Z</updated>
+  <updated>2026-08-11T16:26:31.228Z</updated>
 
   <entry>
     <id>urn:uuid:babe6e2e-eb17-5901-8acb-d919c2998aeb</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kEa2wHboln0 【LIVE on &lt;t:1786449606:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kEa2wHboln0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e52938dd-1f2b-5627-809d-01148e221524</id>
+    <title><![CDATA[【歌枠】特大告知をして、みんなと乾杯する配信!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/ff-wBqeRj5Q" rel="alternate" type="text/html"/>
+    <published>2026-08-11T10:47:19.000Z</published>
+    <updated>2026-08-12T10:00:00.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ff-wBqeRj5Q 【LIVE on &lt;t:1786528800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ff-wBqeRj5Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1319,20 +1333,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MIqMfWQBqe4 【LIVE on &lt;t:1783778457:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MIqMfWQBqe4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0a8f48b3-6eeb-5ade-8af8-d023d43df539</id>
-    <title><![CDATA[【 歌枠】NO30.眠れない子おいで、今日こそはちるい落ち着いた歌をうたいたいな ろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】]]></title>
-    <link href="https://youtu.be/IKNlomtvxbw" rel="alternate" type="text/html"/>
-    <published>2026-07-10T15:45:46.000Z</published>
-    <updated>2026-07-10T13:59:15.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=IKNlomtvxbw 【LIVE on &lt;t:1783691955:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IKNlomtvxbw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
