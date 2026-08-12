@@ -1,5 +1,24 @@
 [
   {
+    "id": "pP3Jwc3bfNM",
+    "title": "【3D LIVE】コンプレックス♡プリンセス【かぐや(from超かぐや姫!)×宝鐘マリン】テロップ・歌詞なしVer",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-12T03:00:39.000Z",
+    "available_at": "2026-08-12T03:00:39.000Z",
+    "duration": 201,
+    "status": "past",
+    "channel": {
+      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Houshou Marine"
+    }
+  },
+  {
     "id": "kezHd5aVgdk",
     "title": "【水着おうち3Dお披露目】7周年ライブ&LuckyFes'26振り返り!【ホロライブ/宝鐘マリン】",
     "type": "stream",
@@ -16,25 +35,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "4TnEjQO0WVg",
-    "title": "【伝説再び】みこち×SHARPコラボ第2弾!あなたの考えた記念日がボイスに!?【#昼ホロ / #井月みちる】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-08-11T18:13:13.000Z",
-    "available_at": "2026-08-12T03:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCozx5csNhCx1wsVq3SZVkBQ",
-      "name": "holoAN room (ホロアナ)",
-      "org": "Hololive",
-      "suborg": "0hOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/bLqkQmKBq5rRp53-TLpg1wa9Bn0aFwmjsnZ6LTPgq0NjJSs2304Rm61481alRP8mTdyNLFiJ9c0=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "holoAN room"
     }
   },
   {
@@ -472,7 +472,7 @@
   },
   {
     "id": "V_09zQsoH1o",
-    "title": "'LOVE MISSION♡' Fanchant Guide",
+    "title": "'LOVE MISSION♡' FANCHANT GUIDE",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-08-08T13:00:07.000Z",
@@ -5482,25 +5482,6 @@
     }
   },
   {
-    "id": "c2NL4EnaXj8",
-    "title": "【3Dで大集合✨】#HoshimaticProject 再始動‼️みんなでMV撮影に挑戦⁉️📸",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-04-17T12:04:39.000Z",
-    "available_at": "2026-04-17T10:57:07.000Z",
-    "duration": 3737,
-    "status": "past",
-    "channel": {
-      "id": "UC5CwaMl1eIgY8h02uZw7u8A",
-      "name": "Suisei Channel",
-      "org": "Hololive",
-      "suborg": "0x0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hoshimachi Suisei"
-    }
-  },
-  {
     "id": "LH96HKaQ7qo",
     "title": "【ギター練習】ゆるゆるぎた~~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
     "type": "stream",
@@ -5720,6 +5701,25 @@
     "published_at": "2026-04-01T13:02:02.000Z",
     "available_at": "2026-04-01T11:01:16.000Z",
     "duration": 6321,
+    "status": "past",
+    "channel": {
+      "id": "UCc88OV45ICgHbn3ZqLLb52w",
+      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
+      "org": "Hololive",
+      "suborg": "naHOLOSTARS UPROAR!!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yatogami Fuma"
+    }
+  },
+  {
+    "id": "lgHDoD8-uuQ",
+    "title": "🎉UPROAR!!4周年記念配信🎉開廷!UPROAR!!裁判‼!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-03-31T13:45:53.000Z",
+    "available_at": "2026-03-31T11:00:59.000Z",
+    "duration": 5798,
     "status": "past",
     "channel": {
       "id": "UCc88OV45ICgHbn3ZqLLb52w",
