@@ -43,9 +43,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-08-12T04:03:02.000Z",
-    "available_at": "2026-08-12T13:00:00.000Z",
+    "available_at": "2026-08-12T13:00:18.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 68
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
