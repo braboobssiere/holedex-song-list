@@ -1,5 +1,24 @@
 [
   {
+    "id": "PfZzYrOK8Aw",
+    "title": "弾き語りをする漢【#奏手イヅル】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-12T10:51:25.000Z",
+    "available_at": "2026-08-12T12:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
+      "name": "Izuru Ch. 奏手イヅル",
+      "org": "Hololive",
+      "suborg": "maHOLOSTARS 1st Gen",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kanade Izuru"
+    }
+  },
+  {
     "id": "xj9Vj-8WAUM",
     "title": "【ホロライブ ドリームス】3期生7周年だよ!全員集合!【不知火フレア/ホロライブ】",
     "type": "stream",
@@ -3353,30 +3372,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/pP_ShozRg9Hn8dyB4D8ODtdI9ShTY3AMOKui418InNDz9jwGYIRRH6bxdl7KX55SjmFMZlMUvg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Goldbullet"
-    }
-  },
-  {
-    "id": "MIqMfWQBqe4",
-    "title": "【 歌枠 】久々にお歌を歌っていくのだ~!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-11T15:51:59.000Z",
-    "available_at": "2026-07-11T14:00:57.000Z",
-    "duration": 6312,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "en": 109,
-      "ko": 45
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
