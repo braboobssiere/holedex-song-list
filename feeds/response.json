@@ -20,13 +20,13 @@
   },
   {
     "id": "xj9Vj-8WAUM",
-    "title": "【ホロライブ ドリームス】3期生7周年だよ!全員集合!【不知火フレア/ホロライブ】",
+    "title": "【ホロライブ ドリームス】3期生７周年だよ！全員集合！【不知火フレア/ホロライブ】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-08-12T09:38:05.000Z",
     "available_at": "2026-08-12T12:02:43.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5780,
+    "status": "past",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -35,6 +35,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/XGJE8dQHKGyKma2oLZM-oZxF2c5OnQsjQx68tTowiPfh7gI2cHhP8REzXC7exvw2ri5QxFxEA-4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shiranui Flare"
+    }
+  },
+  {
+    "id": "hXctctIKfrA",
+    "title": "【original MV】Snowlight Stories【雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-12T04:05:45.000Z",
+    "available_at": "2026-08-12T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -47,7 +66,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 68
+      "en": 138
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
@@ -2880,26 +2899,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Nd6K_cman-Bdkl_pv4_3UNpijyb7t5RXjhsso5IreKu0pwigFrc2f5KIM9aGrciqYeHZoJwVUDE=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
-    }
-  },
-  {
-    "id": "Z3ZVLuI4XI4",
-    "title": "【original】サマーラブ/癒月ちょこ【ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-07-19T11:00:06.000Z",
-    "available_at": "2026-07-19T11:00:06.000Z",
-    "duration": 214,
-    "status": "past",
-    "songcount": 1,
-    "channel": {
-      "id": "UC1suqwovbL1kzsoaZgFZLKg",
-      "name": "Choco Ch. 癒月ちょこ",
-      "org": "Hololive",
-      "suborg": "d 2nd Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yuzuki Choco"
     }
   },
   {
