@@ -1,5 +1,24 @@
 [
   {
+    "id": "hXctctIKfrA",
+    "title": "【original MV】Snowlight Stories【雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-12T14:00:16.000Z",
+    "available_at": "2026-08-12T14:00:16.000Z",
+    "duration": 211,
+    "status": "past",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "PfZzYrOK8Aw",
     "title": "弾き語りをする漢【#奏手イヅル】",
     "type": "stream",
@@ -38,25 +57,6 @@
     }
   },
   {
-    "id": "hXctctIKfrA",
-    "title": "【original MV】Snowlight Stories【雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-12T04:05:45.000Z",
-    "available_at": "2026-08-12T14:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
-    }
-  },
-  {
     "id": "NPIxxZxXIxc",
     "title": "【#雪花ラミィ6周年】告知あり!みんなのお陰で6周年迎えました!!晩酌するぞ!!【雪花ラミィ /ホロライブ】",
     "type": "stream",
@@ -66,7 +66,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 138
+      "en": 229
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
