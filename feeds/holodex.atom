@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-13T08:26:36.106Z</updated>
+  <updated>2026-08-13T08:56:28.023Z</updated>
 
   <entry>
     <id>urn:uuid:72204bd6-592d-587e-bda4-de47147bee8c</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5hWjMfWoFHk 【LIVE on &lt;t:1786460416:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5hWjMfWoFHk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:64409800-7bb0-5fbe-8420-21ecdfa10637</id>
+    <title><![CDATA[【水着新衣装お披露目!!】#宝鐘マリン7周年3DLIVE【ホロライブ/宝鐘マリン】]]></title>
+    <link href="https://youtu.be/qp1bA1A5bTQ" rel="alternate" type="text/html"/>
+    <published>2026-08-11T13:11:27.000Z</published>
+    <updated>2026-08-11T11:57:22.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qp1bA1A5bTQ 【LIVE on &lt;t:1786449442:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qp1bA1A5bTQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -171,20 +185,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=3KzdBBAMg8E 【LIVE on &lt;t:1786266006:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3KzdBBAMg8E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:64409800-7bb0-5fbe-8420-21ecdfa10637</id>
-    <title><![CDATA[【水着新衣装お披露目!!】#宝鐘マリン7周年3DLIVE【ホロライブ/宝鐘マリン】]]></title>
-    <link href="https://youtu.be/qp1bA1A5bTQ" rel="alternate" type="text/html"/>
-    <published>2026-08-09T05:07:56.000Z</published>
-    <updated>2026-08-11T11:57:22.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qp1bA1A5bTQ 【LIVE on &lt;t:1786449442:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qp1bA1A5bTQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
