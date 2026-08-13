@@ -1,5 +1,43 @@
 [
   {
+    "id": "t6nT7AtKdWM",
+    "title": "【歌枠 / karaoke】明日はライブです。鳴らしておきますか(*^▽^*) / アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-13T11:52:14.000Z",
+    "available_at": "2026-08-13T12:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
+    "id": "stmI9QkpKuw",
+    "title": "祝!6周年✨トワワ先輩に褒められたい2026限定凸待ち!【 桃鈴ねね / hololive 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-08-13T09:17:32.000Z",
+    "available_at": "2026-08-13T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Momosuzu Nene"
+    }
+  },
+  {
     "id": "OKr0rgXI3Tg",
     "title": "【3D LIVE】III ~Justen × Sena ver.~【こぼ・かなえる×宝鐘マリン】テロップ・歌詞なしVer",
     "type": "stream",
@@ -3341,30 +3379,6 @@
     }
   },
   {
-    "id": "MIqMfWQBqe4",
-    "title": "【 歌枠 】久々にお歌を歌っていくのだ~!!【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-11T15:51:59.000Z",
-    "available_at": "2026-07-11T14:00:57.000Z",
-    "duration": 6312,
-    "status": "past",
-    "songcount": 14,
-    "live_tl_count": {
-      "en": 109,
-      "ko": 45
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
     "id": "JmUi3RSdB4E",
     "title": "【#FGヘタレクイーン決定戦】怪談まじ怖すぎ!!チキンレース勇気出ない…😭ってか全然ビビってないし!",
     "type": "stream",
@@ -5704,25 +5718,6 @@
     "published_at": "2026-04-01T13:02:02.000Z",
     "available_at": "2026-04-01T11:01:16.000Z",
     "duration": 6321,
-    "status": "past",
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
-    }
-  },
-  {
-    "id": "lgHDoD8-uuQ",
-    "title": "🎉UPROAR!!4周年記念配信🎉開廷!UPROAR!!裁判‼!",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-03-31T13:45:53.000Z",
-    "available_at": "2026-03-31T11:00:59.000Z",
-    "duration": 5798,
     "status": "past",
     "channel": {
       "id": "UCc88OV45ICgHbn3ZqLLb52w",
