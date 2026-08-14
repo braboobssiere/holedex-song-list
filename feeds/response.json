@@ -1,13 +1,32 @@
 [
   {
+    "id": "1_slmzwTMQ0",
+    "title": "【 歌枠】NO33.お昼のえもえもろぼめろでぃ~ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-14T02:53:28.000Z",
+    "available_at": "2026-08-14T03:01:20.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "kMfXxuQqCYM",
     "title": "【祝】ねぽらぼ6周年!ホロプラス企画にMV、ライブまで盛りだくさん!【#昼ホロ/#花園さやか】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-08-14T02:35:36.000Z",
-    "available_at": "2026-08-14T03:00:00.000Z",
+    "available_at": "2026-08-14T02:58:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCozx5csNhCx1wsVq3SZVkBQ",
       "name": "holoAN room (ホロアナ)",
@@ -3395,26 +3414,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yatogami Fuma"
-    }
-  },
-  {
-    "id": "zjFwKLjxwaI",
-    "title": "【告知あり!】昭和レトロな歌枠♬【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-12T10:08:12.000Z",
-    "available_at": "2026-07-12T09:00:36.000Z",
-    "duration": 3768,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
