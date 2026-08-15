@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-15T16:56:27.022Z</updated>
+  <updated>2026-08-15T17:26:28.029Z</updated>
+
+  <entry>
+    <id>urn:uuid:cdc968a5-baa2-5633-b159-f522b154722f</id>
+    <title><![CDATA[カガミヨカガミ]]></title>
+    <link href="https://youtu.be/2bGyah6312A" rel="alternate" type="text/html"/>
+    <published>2026-08-15T15:05:01.000Z</published>
+    <updated>2026-08-15T15:05:01.000Z</updated>
+    <author>
+      <name>Noel Ch. 白銀ノエル</name>
+      <uri>https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=2bGyah6312A 【LIVE on &lt;t:1786806301:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2bGyah6312A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:97d4f924-7d66-50c9-8a10-9218b09564ce</id>
@@ -1168,20 +1182,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:a204991e-996c-520d-acff-3d77b7a0e5b9</id>
-    <title><![CDATA[夢色ワンダー (Instrumental)]]></title>
-    <link href="https://youtu.be/a2RMalZK4IQ" rel="alternate" type="text/html"/>
-    <published>2026-07-23T15:00:27.000Z</published>
-    <updated>2026-07-23T15:00:27.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=a2RMalZK4IQ 【LIVE on &lt;t:1784818827:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/a2RMalZK4IQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:9f07a0e4-2eb3-5ea7-9a34-01c7f4edbc1d</id>
     <title><![CDATA[【歌枠】暑い夏も吹っ飛ばしてこ??👊🍉【 #UNIT_B / #宵凪ネオン】]]></title>
     <link href="https://youtu.be/tj_Tv0TTOMw" rel="alternate" type="text/html"/>
@@ -1739,20 +1739,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uVlyJmT69bo 【LIVE on &lt;t:1779710372:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVlyJmT69bo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:03cf1d8d-b8cc-5739-9b96-05d28448397f</id>
-    <title><![CDATA[【生誕3Dライブ】#ラプさま大解放2026 超超超豪華ゲストありのラプ様ご褒美ライブ⁉重大告知もあるよ‼🔥【ラプラス・ダークネス/ホロライブ】]]></title>
-    <link href="https://youtu.be/8W_Pml3XIdM" rel="alternate" type="text/html"/>
-    <published>2026-05-25T12:04:33.000Z</published>
-    <updated>2026-05-25T10:55:35.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8W_Pml3XIdM 【LIVE on &lt;t:1779706535:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8W_Pml3XIdM/maxresdefault.jpg"/>
   </entry>
 
   <entry>

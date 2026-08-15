@@ -1,5 +1,26 @@
 [
   {
+    "id": "2bGyah6312A",
+    "title": "カガミヨカガミ",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-15T15:05:01.000Z",
+    "available_at": "2026-08-15T15:05:01.000Z",
+    "duration": 133,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UChcyAwXM80VTBCy6sknzZuQ",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "thCs02rs3sU",
     "title": "カガミヨカガミ (Instrumental)",
     "type": "stream",
@@ -156,6 +177,44 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "0FazK9Mh06U",
+    "title": "【 #獅子神レオナ生誕祭2026 】お祝いしてね🎂アニソンでみんなで盛り上がろう🧡告知あり【 獅子神レオナ/Re:AcT】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-08-14T13:19:22.000Z",
+    "available_at": "2026-08-16T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "name": "獅子神レオナ/レオナちゃんねる",
+      "org": "ReAcT",
+      "suborg": "aaArtists",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/lQ-mJIz6vDcKOKn2kPvLJ10W1u8Xpa9rQUxvBfDdsp-P5FioazzD7fcfYvWFwWwH5oOEq0Hl=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shishigami Leona"
+    }
+  },
+  {
+    "id": "N5EHBv7ndeM",
+    "title": "【3D】究極心理戦!?第2回ホロライブ電気椅子ゲーム【#ホロライブ電気椅子ゲーム】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-14T03:02:09.000Z",
+    "available_at": "2026-08-16T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -2907,27 +2966,6 @@
     }
   },
   {
-    "id": "a2RMalZK4IQ",
-    "title": "夢色ワンダー (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-07-23T15:00:27.000Z",
-    "available_at": "2026-07-23T15:00:27.000Z",
-    "duration": 285,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCuCfKSM0_23RRXxQGYTVJlw",
-    "channel": {
-      "id": "UCJFZiqLMntJufDCHc6bQixg",
-      "name": "hololive ホロライブ - VTuber Group",
-      "org": "Hololive",
-      "suborg": "0aOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive VTuber Group"
-    }
-  },
-  {
     "id": "wA2K3usJhno",
     "title": "【 3Dコラボ 】地獄くじ引き一緒に引いて絆を深めよう💜🤝💜【 猫又おかゆ / ラプラス・ダークネス / ホロライブ 】",
     "type": "stream",
@@ -5093,26 +5131,6 @@
     }
   },
   {
-    "id": "8W_Pml3XIdM",
-    "title": "【生誕3Dライブ】#ラプさま大解放2026 超超超豪華ゲストありのラプ様ご褒美ライブ⁉重大告知もあるよ‼🔥【ラプラス・ダークネス/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-05-25T12:04:33.000Z",
-    "available_at": "2026-05-25T10:55:35.000Z",
-    "duration": 3755,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
-    }
-  },
-  {
     "id": "Ti5HYVR5SqQ",
     "title": "【3D】ENigmatic Recollection - Chapter 3 Begins!【#ENreco】",
     "type": "stream",
@@ -5502,25 +5520,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "0Oc6rOAAloU",
-    "title": "THE VOICE THAT PIERCED HEAVEN🐦‍⬛🔥🔅 POST #HAKKAMINI3D 3D ZATSUDAN 🎉✨",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-04-25T05:02:43.000Z",
-    "available_at": "2026-04-25T03:41:47.000Z",
-    "duration": 3589,
-    "status": "past",
-    "channel": {
-      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
-      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Banzoin Hakka"
     }
   },
   {
