@@ -1,5 +1,24 @@
 [
   {
+    "id": "Br2Tjs4d3HA",
+    "title": "【新曲MV】カガミヨカガミ【白銀ノエル/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-15T13:05:07.000Z",
+    "available_at": "2026-08-15T13:05:07.000Z",
+    "duration": 136,
+    "status": "past",
+    "channel": {
+      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル",
+      "org": "Hololive",
+      "suborg": "ea3rd Generation (Fantasy)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirogane Noel"
+    }
+  },
+  {
     "id": "_flEAvR_8RQ",
     "title": "【尾丸ポルカ6周年カウントダウン】今年も一緒にむかえるぞ!!!!!!!!!【尾丸ポルカ/ホロライブ】",
     "type": "stream",
@@ -35,25 +54,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "Br2Tjs4d3HA",
-    "title": "【新曲MV】???【白銀ノエル/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-15T02:09:17.000Z",
-    "available_at": "2026-08-15T13:05:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCdyqAaZDKHXg4Ahi7VENThQ",
-      "name": "Noel Ch. 白銀ノエル",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kIKJPVEqJLs9FNMgdti5WWHtc1t0MwihOlW-ZK90nGUdk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirogane Noel"
     }
   },
   {
@@ -2321,7 +2321,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 126
+      "en": 175
     },
     "channel": {
       "id": "UChpRPsAeSZn5DistGacR3iA",
