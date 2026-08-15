@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-15T08:56:23.661Z</updated>
+  <updated>2026-08-15T09:26:31.471Z</updated>
 
   <entry>
     <id>urn:uuid:5f55d4bf-95de-53f6-84db-aa160059c43c</id>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OKr0rgXI3Tg 【LIVE on &lt;t:1786611605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OKr0rgXI3Tg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:59c431c8-abf7-5335-9df7-45c79fef84ab</id>
+    <title><![CDATA[≪SELF 3D - Nostalgic Anime Karaoke≫ Throwback Time!! w/ ANNOUNCEMENTS]]></title>
+    <link href="https://youtu.be/dQoSezn8UGc" rel="alternate" type="text/html"/>
+    <published>2026-08-12T15:41:01.000Z</published>
+    <updated>2026-08-16T03:00:00.000Z</updated>
+    <author>
+      <name>Hakos Baelz Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=dQoSezn8UGc 【LIVE on &lt;t:1786849200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dQoSezn8UGc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1333,20 +1347,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=DTZg5qYJCYY 【LIVE on &lt;t:1783933121:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DTZg5qYJCYY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:74988393-9713-57c7-a74f-2c12d9f8aed7</id>
-    <title><![CDATA[【 耐久歌枠 】ついに50万人耐久です🔥歌います!【ホロライブ DEV_IS 響咲リオナ】]]></title>
-    <link href="https://youtu.be/s1xmTZs_f0U" rel="alternate" type="text/html"/>
-    <published>2026-07-13T10:48:56.000Z</published>
-    <updated>2026-07-13T09:01:05.000Z</updated>
-    <author>
-      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=s1xmTZs_f0U 【LIVE on &lt;t:1783933265:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/s1xmTZs_f0U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
