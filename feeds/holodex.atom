@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-16T10:26:32.750Z</updated>
+  <updated>2026-08-16T10:56:31.408Z</updated>
+
+  <entry>
+    <id>urn:uuid:23325dba-faaf-5a55-b7ed-fc7e0fea0340</id>
+    <title><![CDATA[Original Song Behind The Scenes Talk 【 iofi / hololiveID 】]]></title>
+    <link href="https://youtu.be/xJ6wQD5d1Gs" rel="alternate" type="text/html"/>
+    <published>2026-08-16T10:34:44.000Z</published>
+    <updated>2026-08-16T13:30:00.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive-ID</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xJ6wQD5d1Gs 【LIVE on &lt;t:1786887000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xJ6wQD5d1Gs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:ba74857a-0364-5490-8a06-29bc047b92e8</id>
@@ -1165,20 +1179,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bus1nuOZzn8 【LIVE on &lt;t:1784905223:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bus1nuOZzn8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ff7093c7-acf7-5512-a241-6a509b14d80f</id>
-    <title><![CDATA[ギミギミエンターテイメント (Instrumental)]]></title>
-    <link href="https://youtu.be/NY4jLVGEgkc" rel="alternate" type="text/html"/>
-    <published>2026-07-24T15:00:01.000Z</published>
-    <updated>2026-07-24T15:00:01.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NY4jLVGEgkc 【LIVE on &lt;t:1784905201:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NY4jLVGEgkc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
