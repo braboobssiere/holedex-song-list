@@ -19,25 +19,6 @@
     }
   },
   {
-    "id": "xJ6wQD5d1Gs",
-    "title": "Original Song Behind The Scenes Talk 【 iofi / hololiveID 】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-16T10:34:44.000Z",
-    "available_at": "2026-08-16T13:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive-ID",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
     "id": "NvC7SqK3UXM",
     "title": "【アニメーションMV】燦然燃焼 - Omaru Polka(Original)【尾丸ポルカ】",
     "type": "stream",
@@ -265,7 +246,7 @@
     "available_at": "2026-08-16T10:59:49.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 3,
+    "songcount": 7,
     "channel": {
       "id": "UCB1s_IdO-r0nUkY2mXeti-A",
       "name": "獅子神レオナ/レオナちゃんねる",
@@ -2179,8 +2160,8 @@
     "topic_id": "3D_Stream",
     "published_at": "2026-07-31T06:43:06.000Z",
     "available_at": "2026-08-16T08:55:15.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 9227,
+    "status": "past",
     "channel": {
       "id": "UCJFZiqLMntJufDCHc6bQixg",
       "name": "hololive ホロライブ - VTuber Group",
@@ -2852,6 +2833,27 @@
     "topic_id": "Original_Song",
     "published_at": "2026-07-24T15:00:23.000Z",
     "available_at": "2026-07-24T15:00:23.000Z",
+    "duration": 242,
+    "status": "past",
+    "songcount": 1,
+    "original_channel_id": "UCuCfKSM0_23RRXxQGYTVJlw",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
+    "id": "NY4jLVGEgkc",
+    "title": "ギミギミエンターテイメント (Instrumental)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-07-24T15:00:01.000Z",
+    "available_at": "2026-07-24T15:00:01.000Z",
     "duration": 242,
     "status": "past",
     "songcount": 1,
