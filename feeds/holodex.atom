@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-17T17:26:22.360Z</updated>
+  <updated>2026-08-17T18:26:36.232Z</updated>
 
   <entry>
     <id>urn:uuid:a5ad85c9-3b1f-5204-9d68-2f77111948bb</id>
@@ -846,6 +846,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:097cf427-7eec-554e-848d-8b63069ae8b2</id>
+    <title><![CDATA[現世アリス (Instrumental)]]></title>
+    <link href="https://youtu.be/JPOnKCBQAPg" rel="alternate" type="text/html"/>
+    <published>2026-08-02T15:04:57.000Z</published>
+    <updated>2026-08-02T15:04:57.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JPOnKCBQAPg 【LIVE on &lt;t:1785683097:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JPOnKCBQAPg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1c22f7aa-397e-541c-824a-f4803c8846dd</id>
+    <title><![CDATA[現世アリス]]></title>
+    <link href="https://youtu.be/yzhMEOjQY7I" rel="alternate" type="text/html"/>
+    <published>2026-08-02T15:03:35.000Z</published>
+    <updated>2026-08-02T15:03:35.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yzhMEOjQY7I 【LIVE on &lt;t:1785683015:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yzhMEOjQY7I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:3443e62f-950c-5002-a669-47a75615bbf8</id>
     <title><![CDATA[【3DLIVE】重大告知付き! 今年は深海で #ロボ子海底3Dライブ  🪸 【ホロライブ/ロボ子さん】]]></title>
     <link href="https://youtu.be/9uv6ihLUXtQ" rel="alternate" type="text/html"/>
@@ -1011,34 +1039,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zfYGdSqliRU 【LIVE on &lt;t:1785412806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zfYGdSqliRU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5e70ae1c-5fe2-57f3-988c-cefee675de93</id>
-    <title><![CDATA[【original MV】ももいろの砂時計【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/M_lEYDMxHhY" rel="alternate" type="text/html"/>
-    <published>2026-07-29T15:00:39.000Z</published>
-    <updated>2026-07-29T15:00:39.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=M_lEYDMxHhY 【LIVE on &lt;t:1785337239:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M_lEYDMxHhY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:944a06cc-5a39-5f6e-a562-0be5acadbcf4</id>
-    <title><![CDATA[ももいろの砂時計 (Instrumental)]]></title>
-    <link href="https://youtu.be/zm8dD_vrKls" rel="alternate" type="text/html"/>
-    <published>2026-07-29T15:00:35.000Z</published>
-    <updated>2026-07-29T15:00:35.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zm8dD_vrKls 【LIVE on &lt;t:1785337235:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zm8dD_vrKls/maxresdefault.jpg"/>
   </entry>
 
   <entry>
