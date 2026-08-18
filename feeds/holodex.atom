@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-18T11:26:27.096Z</updated>
+  <updated>2026-08-18T11:56:32.903Z</updated>
 
   <entry>
     <id>urn:uuid:75402e23-d9a6-5854-b119-e67258a1dd21</id>
@@ -101,6 +101,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Re-ecg_XWr8 【LIVE on &lt;t:1786978886:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Re-ecg_XWr8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fccf43b7-eb31-568c-8030-3a5bf2a599d8</id>
+    <title><![CDATA[FLOW GLOW / magic summer【Official Music Video】]]></title>
+    <link href="https://youtu.be/Mo5zXXNaLc4" rel="alternate" type="text/html"/>
+    <published>2026-08-17T00:16:13.000Z</published>
+    <updated>2026-08-18T12:00:00.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Mo5zXXNaLc4 【LIVE on &lt;t:1787054400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Mo5zXXNaLc4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -997,20 +1011,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9uv6ihLUXtQ 【LIVE on &lt;t:1785668130:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9uv6ihLUXtQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5afe6f93-44d8-5be0-9ca1-44aac4bb27e4</id>
-    <title><![CDATA[現世アリス  :Robocosan Original Song]]></title>
-    <link href="https://youtu.be/_buc53b7gs8" rel="alternate" type="text/html"/>
-    <published>2026-08-02T12:00:16.000Z</published>
-    <updated>2026-08-02T12:00:16.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_buc53b7gs8 【LIVE on &lt;t:1785672016:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_buc53b7gs8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
