@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-18T16:56:22.887Z</updated>
+  <updated>2026-08-18T17:26:20.556Z</updated>
 
   <entry>
     <id>urn:uuid:896a1645-6840-5385-bcc6-91f73c1e83fd</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=iCqqRNt6KIM 【LIVE on &lt;t:1787065232:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iCqqRNt6KIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3badf419-da1e-5878-9cf0-fae1a84e0446</id>
+    <title><![CDATA[【ホロドリ】『NIGHTBREAK』Mori Calliope (Full ver.)]]></title>
+    <link href="https://youtu.be/pKN2Rr5LktE" rel="alternate" type="text/html"/>
+    <published>2026-08-18T15:00:19.000Z</published>
+    <updated>2026-08-18T15:00:19.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pKN2Rr5LktE 【LIVE on &lt;t:1787065219:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pKN2Rr5LktE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -983,20 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=2K1ExyX2IR8 【LIVE on &lt;t:1785767413:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2K1ExyX2IR8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:afb08206-d9e8-5f5e-8934-d10650e5448f</id>
-    <title><![CDATA[【Official MV】交錯 OMNIVERSE 【X VORDER RUNWAY】]]></title>
-    <link href="https://youtu.be/uScdhQ-dA8E" rel="alternate" type="text/html"/>
-    <published>2026-08-03T09:45:11.000Z</published>
-    <updated>2026-08-03T09:45:11.000Z</updated>
-    <author>
-      <name>X VORDER RUNWAY</name>
-      <uri>https://www.youtube.com/channel/UCZnZn-PIfo_REKwUvETBFOg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=uScdhQ-dA8E 【LIVE on &lt;t:1785750311:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uScdhQ-dA8E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
