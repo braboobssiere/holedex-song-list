@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-18T00:26:24.020Z</updated>
+  <updated>2026-08-18T00:56:28.423Z</updated>
 
   <entry>
     <id>urn:uuid:a5ad85c9-3b1f-5204-9d68-2f77111948bb</id>
@@ -311,6 +311,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OKr0rgXI3Tg 【LIVE on &lt;t:1786611605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OKr0rgXI3Tg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5f7ce76b-aba8-55e8-a1c2-f7505d171c51</id>
+    <title><![CDATA[Snowlight Stories]]></title>
+    <link href="https://youtu.be/YrPKGmgySr8" rel="alternate" type="text/html"/>
+    <published>2026-08-12T15:02:31.000Z</published>
+    <updated>2026-08-12T15:02:31.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YrPKGmgySr8 【LIVE on &lt;t:1786546951:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YrPKGmgySr8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fc30d9ad-60cb-50c5-a3ca-a1f1c5675d28</id>
+    <title><![CDATA[Snowlight Stories (Instrumental)]]></title>
+    <link href="https://youtu.be/4NecZLzLZoQ" rel="alternate" type="text/html"/>
+    <published>2026-08-12T15:01:50.000Z</published>
+    <updated>2026-08-12T15:01:50.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4NecZLzLZoQ 【LIVE on &lt;t:1786546910:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4NecZLzLZoQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1014,20 +1042,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:238acd6d-5323-5be2-94b1-e09de10740be</id>
-    <title><![CDATA[【MV】Spotlight【hololive English -Advent- Original Song】]]></title>
-    <link href="https://youtu.be/hpZUwzlOBOY" rel="alternate" type="text/html"/>
-    <published>2026-08-01T03:00:07.000Z</published>
-    <updated>2026-08-01T03:00:07.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hpZUwzlOBOY 【LIVE on &lt;t:1785553207:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hpZUwzlOBOY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5b0af9c6-f441-5f8c-95ee-be8a40c86ef3</id>
     <title><![CDATA[【FUWAMOCO ROCK N' RAWR PARTY】all routes lead to your smile 🐾【VISUAL NOVEL SONGS|美少女ゲームソング縛り】#FWMC3rd]]></title>
     <link href="https://youtu.be/z1vE21rZEv8" rel="alternate" type="text/html"/>
@@ -1039,20 +1053,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=z1vE21rZEv8 【LIVE on &lt;t:1785466668:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z1vE21rZEv8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4382d994-bbe9-5e77-86e8-408a44965536</id>
-    <title><![CDATA[【original MV】BooooM!!!【hololive/宝鐘マリン】]]></title>
-    <link href="https://youtu.be/zfYGdSqliRU" rel="alternate" type="text/html"/>
-    <published>2026-07-30T12:00:06.000Z</published>
-    <updated>2026-07-30T12:00:06.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zfYGdSqliRU 【LIVE on &lt;t:1785412806:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zfYGdSqliRU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
