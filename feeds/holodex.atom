@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-18T14:56:22.487Z</updated>
+  <updated>2026-08-18T15:26:37.082Z</updated>
+
+  <entry>
+    <id>urn:uuid:896a1645-6840-5385-bcc6-91f73c1e83fd</id>
+    <title><![CDATA[magic summer]]></title>
+    <link href="https://youtu.be/iCqqRNt6KIM" rel="alternate" type="text/html"/>
+    <published>2026-08-18T15:00:32.000Z</published>
+    <updated>2026-08-18T15:00:32.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iCqqRNt6KIM 【LIVE on &lt;t:1787065232:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iCqqRNt6KIM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:972b73ac-3254-5cf5-989b-2d0c28c18b30</id>
+    <title><![CDATA[magic summer (Instrumental)]]></title>
+    <link href="https://youtu.be/luDECMPD2Go" rel="alternate" type="text/html"/>
+    <published>2026-08-18T15:00:10.000Z</published>
+    <updated>2026-08-18T15:00:10.000Z</updated>
+    <author>
+      <name>hololive DEV_IS FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=luDECMPD2Go 【LIVE on &lt;t:1787065210:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/luDECMPD2Go/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:fccf43b7-eb31-568c-8030-3a5bf2a599d8</id>
@@ -969,34 +997,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uScdhQ-dA8E 【LIVE on &lt;t:1785750311:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uScdhQ-dA8E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:097cf427-7eec-554e-848d-8b63069ae8b2</id>
-    <title><![CDATA[現世アリス (Instrumental)]]></title>
-    <link href="https://youtu.be/JPOnKCBQAPg" rel="alternate" type="text/html"/>
-    <published>2026-08-02T15:04:57.000Z</published>
-    <updated>2026-08-02T15:04:57.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=JPOnKCBQAPg 【LIVE on &lt;t:1785683097:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JPOnKCBQAPg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1c22f7aa-397e-541c-824a-f4803c8846dd</id>
-    <title><![CDATA[現世アリス]]></title>
-    <link href="https://youtu.be/yzhMEOjQY7I" rel="alternate" type="text/html"/>
-    <published>2026-08-02T15:03:35.000Z</published>
-    <updated>2026-08-02T15:03:35.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=yzhMEOjQY7I 【LIVE on &lt;t:1785683015:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yzhMEOjQY7I/maxresdefault.jpg"/>
   </entry>
 
   <entry>
