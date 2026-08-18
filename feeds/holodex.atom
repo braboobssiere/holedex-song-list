@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-18T08:56:27.262Z</updated>
+  <updated>2026-08-18T09:26:31.314Z</updated>
+
+  <entry>
+    <id>urn:uuid:8a6c989c-e408-5c32-a5d0-b0f68229ab0a</id>
+    <title><![CDATA[【ホロドリ】『NIGHTBREAK』Mori Calliope (Official Music Video)]]></title>
+    <link href="https://youtu.be/kuas99zAtNM" rel="alternate" type="text/html"/>
+    <published>2026-08-18T09:00:11.000Z</published>
+    <updated>2026-08-18T09:00:11.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kuas99zAtNM 【LIVE on &lt;t:1787043611:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kuas99zAtNM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a5ad85c9-3b1f-5204-9d68-2f77111948bb</id>
@@ -1025,20 +1039,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=boXhSOPRa4Q 【LIVE on &lt;t:1785596404:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/boXhSOPRa4Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e91d89e4-996d-52e2-b7da-b22e5347d286</id>
-    <title><![CDATA[【MV】サキミダレアッパレード♪ / さくらみこ]]></title>
-    <link href="https://youtu.be/gF4UwqAvFOE" rel="alternate" type="text/html"/>
-    <published>2026-08-01T13:15:06.000Z</published>
-    <updated>2026-08-01T13:15:06.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gF4UwqAvFOE 【LIVE on &lt;t:1785590106:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gF4UwqAvFOE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
