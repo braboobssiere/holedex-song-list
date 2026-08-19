@@ -1,5 +1,24 @@
 [
   {
+    "id": "FcNJfwfW52A",
+    "title": "Midnight Grand Orchestra『Hyper Vip』Music Video",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-19T11:05:08.000Z",
+    "available_at": "2026-08-20T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCnVbtCwr-5LXxUlGxsgD7sQ",
+      "name": "Midnight Grand Orchestra",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xw973Y1LNOonqa1rTs0AIEojwoEk20dqBTOM9girxa0ATdQ4GWD8paQxAl5OyxelF5YoEraK5w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Midnight Grand Orchestra"
+    }
+  },
+  {
     "id": "qnf8PYhVG80",
     "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる?【 #大神ミオ生誕2026 】",
     "type": "stream",
@@ -332,6 +351,7 @@
     "available_at": "2026-08-17T04:43:46.000Z",
     "duration": 7445,
     "status": "past",
+    "songcount": 14,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -2208,27 +2228,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Y2D0FcAyWjdJimvrJwkefntu0uLaanSw6FY_8bE1ZSpc8EB89_yyqqPlbRyhc4QLyJOjcnQajMY=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Asano Ninja Sisters"
-    }
-  },
-  {
-    "id": "oZbqT1Mjm3I",
-    "title": "キラメキMODE! feat. 響咲リオナ",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-04T10:00:23.000Z",
-    "available_at": "2026-08-04T10:00:23.000Z",
-    "duration": 189,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCX1VP45sH-XFxNDzXbMeEBg",
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
