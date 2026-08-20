@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-20T10:56:22.236Z</updated>
+  <updated>2026-08-20T11:26:19.949Z</updated>
+
+  <entry>
+    <id>urn:uuid:cab80f3e-e62c-5929-893d-11dc716c54d2</id>
+    <title><![CDATA[Midnight Grand Orchestra『Hyper Vip』Music Video]]></title>
+    <link href="https://youtu.be/FcNJfwfW52A" rel="alternate" type="text/html"/>
+    <published>2026-08-20T11:00:06.000Z</published>
+    <updated>2026-08-20T11:00:06.000Z</updated>
+    <author>
+      <name>Midnight Grand Orchestra</name>
+      <uri>https://www.youtube.com/channel/UCnVbtCwr-5LXxUlGxsgD7sQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FcNJfwfW52A 【LIVE on &lt;t:1787223606:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FcNJfwfW52A/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:bcac0bf1-3dba-5db6-b365-0e2a3cc2c85f</id>
@@ -45,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0hE6CyxqnC8 【LIVE on &lt;t:1787227200:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0hE6CyxqnC8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cab80f3e-e62c-5929-893d-11dc716c54d2</id>
-    <title><![CDATA[Midnight Grand Orchestra『Hyper Vip』Music Video]]></title>
-    <link href="https://youtu.be/FcNJfwfW52A" rel="alternate" type="text/html"/>
-    <published>2026-08-19T11:05:08.000Z</published>
-    <updated>2026-08-20T11:00:00.000Z</updated>
-    <author>
-      <name>Midnight Grand Orchestra</name>
-      <uri>https://www.youtube.com/channel/UCnVbtCwr-5LXxUlGxsgD7sQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FcNJfwfW52A 【LIVE on &lt;t:1787223600:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FcNJfwfW52A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
