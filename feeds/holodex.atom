@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-22T16:56:32.789Z</updated>
+  <updated>2026-08-22T17:26:33.527Z</updated>
 
   <entry>
     <id>urn:uuid:1e03b9f1-d667-593c-be9c-da0654cf34b7</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Nv9x1x7jAz8 【LIVE on &lt;t:1787410838:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nv9x1x7jAz8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4d8c44b8-0dd2-543d-abb5-eb914b79859a</id>
+    <title><![CDATA[【ホロドリ】『Oshi Mode ON』Kureiji Ollie (Full ver.)]]></title>
+    <link href="https://youtu.be/aoVawG9mIx8" rel="alternate" type="text/html"/>
+    <published>2026-08-22T15:00:35.000Z</published>
+    <updated>2026-08-22T15:00:35.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aoVawG9mIx8 【LIVE on &lt;t:1787410835:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aoVawG9mIx8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -913,20 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=4BuB6fcFHLw 【LIVE on &lt;t:1786276806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4BuB6fcFHLw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c4663397-78b3-5a1b-b0e4-91c6384a5959</id>
-    <title><![CDATA[【魅惑的】現世アリス オリジナル曲【 #ホロライブ/ #ロボ子海底3Dライブ】]]></title>
-    <link href="https://youtu.be/3KzdBBAMg8E" rel="alternate" type="text/html"/>
-    <published>2026-08-09T09:00:06.000Z</published>
-    <updated>2026-08-09T09:00:06.000Z</updated>
-    <author>
-      <name>Roboco Ch. - ロボ子</name>
-      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3KzdBBAMg8E 【LIVE on &lt;t:1786266006:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3KzdBBAMg8E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
