@@ -1003,9 +1003,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-08-17T05:00:03.000Z",
-    "available_at": "2026-08-24T13:00:00.000Z",
+    "available_at": "2026-08-24T12:59:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 50
+    },
     "channel": {
       "id": "UChpRPsAeSZn5DistGacR3iA",
       "name": "ACHRORA - mekPark",
