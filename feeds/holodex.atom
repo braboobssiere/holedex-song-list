@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-25T12:56:27.919Z</updated>
+  <updated>2026-08-25T13:26:24.266Z</updated>
+
+  <entry>
+    <id>urn:uuid:70c90005-077a-5aff-bbc3-7ef9cf184480</id>
+    <title><![CDATA[🎶歌うよ!I'm gonna sing! 노래할게!🎤]]></title>
+    <link href="https://youtu.be/L5cACLf6o6M" rel="alternate" type="text/html"/>
+    <published>2026-08-25T13:19:48.000Z</published>
+    <updated>2026-08-25T13:30:00.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=L5cACLf6o6M 【LIVE on &lt;t:1787664600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L5cACLf6o6M/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:4479e183-e3b2-5d6d-971e-7caa4cf2b3cb</id>
@@ -1375,20 +1389,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=z7t523K7kYE 【LIVE on &lt;t:1784718009:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z7t523K7kYE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4d22a0a2-7667-5767-902d-d3e9b1305e77</id>
-    <title><![CDATA[【元気に】爽やか曲で暑さを吹き飛ばそう🎐【 #UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/mA9GuNIO0OE" rel="alternate" type="text/html"/>
-    <published>2026-07-21T12:41:21.000Z</published>
-    <updated>2026-07-21T10:59:37.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mA9GuNIO0OE 【LIVE on &lt;t:1784631577:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mA9GuNIO0OE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
