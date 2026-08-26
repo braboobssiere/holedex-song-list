@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-26T19:56:26.183Z</updated>
+  <updated>2026-08-26T20:26:26.203Z</updated>
 
   <entry>
     <id>urn:uuid:5b224667-3474-5d0b-8b43-1352fd08aad4</id>
@@ -1308,6 +1308,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:222c1427-f992-530c-b0d6-4fd7dc73d41c</id>
+    <title><![CDATA[【#レヌソニ】 王、降臨。 【#宙月ティラ】]]></title>
+    <link href="https://youtu.be/fArm65JcMmU" rel="alternate" type="text/html"/>
+    <published>2026-07-25T13:42:19.000Z</published>
+    <updated>2026-07-25T13:00:12.000Z</updated>
+    <author>
+      <name>宙月ティラ</name>
+      <uri>https://www.youtube.com/channel/UCdQYcUyffHZoz0KOwuiG0lQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fArm65JcMmU 【LIVE on &lt;t:1784984412:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fArm65JcMmU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4deae8b4-cacf-5860-b7d4-8ab79e767697</id>
+    <title><![CDATA[【#レヌソニ】俺の名前を知ってるか【歌衣メイカ】]]></title>
+    <link href="https://youtu.be/O2-nrzwLFwo" rel="alternate" type="text/html"/>
+    <published>2026-07-25T12:31:52.000Z</published>
+    <updated>2026-07-25T11:58:54.000Z</updated>
+    <author>
+      <name>メイカちゃんねる</name>
+      <uri>https://www.youtube.com/channel/UC7-N7MvN5muVIHqyQx9LFbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=O2-nrzwLFwo 【LIVE on &lt;t:1784980734:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/O2-nrzwLFwo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:a664797a-63b1-5acf-b46f-7507662d9493</id>
     <title><![CDATA[【生誕3Dライブ】星炎-Fierstra Diva-  #ニコたん生たん2026【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/5z8osqEvceo" rel="alternate" type="text/html"/>
@@ -1319,6 +1347,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5z8osqEvceo 【LIVE on &lt;t:1784976906:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5z8osqEvceo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2697b8f6-efb7-564f-870a-f75cc03f369f</id>
+    <title><![CDATA[【#レヌソニ 】そうです、私が変なVTuberです【ルキ・ルクス】]]></title>
+    <link href="https://youtu.be/lidOxsCaatg" rel="alternate" type="text/html"/>
+    <published>2026-07-25T11:54:50.000Z</published>
+    <updated>2026-07-25T10:55:51.000Z</updated>
+    <author>
+      <name>ルキ・ルクス / Luki Lux</name>
+      <uri>https://www.youtube.com/channel/UCqS5riKFNe0niYs1AG2wilw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lidOxsCaatg 【LIVE on &lt;t:1784976951:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lidOxsCaatg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1361,34 +1403,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xNCJnz0FQAc 【LIVE on &lt;t:1784898025:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xNCJnz0FQAc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:9f07a0e4-2eb3-5ea7-9a34-01c7f4edbc1d</id>
-    <title><![CDATA[【歌枠】暑い夏も吹っ飛ばしてこ??👊🍉【 #UNIT_B / #宵凪ネオン】]]></title>
-    <link href="https://youtu.be/tj_Tv0TTOMw" rel="alternate" type="text/html"/>
-    <published>2026-07-22T13:35:03.000Z</published>
-    <updated>2026-07-22T11:59:42.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=tj_Tv0TTOMw 【LIVE on &lt;t:1784721582:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/tj_Tv0TTOMw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cfa3d01e-e708-5bd6-8e07-090ac2860d65</id>
-    <title><![CDATA[【 #笑虎ネクト 】第2回目!歌って!笑虎ネクト🐯ゲスト 角巻わため先輩🐏【虎金妃笑虎/角巻わため】]]></title>
-    <link href="https://youtu.be/z7t523K7kYE" rel="alternate" type="text/html"/>
-    <published>2026-07-22T12:35:43.000Z</published>
-    <updated>2026-07-22T11:00:09.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=z7t523K7kYE 【LIVE on &lt;t:1784718009:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z7t523K7kYE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
