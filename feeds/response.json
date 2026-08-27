@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-08-27T08:57:08.000Z",
-    "available_at": "2026-08-27T10:00:00.000Z",
+    "available_at": "2026-08-27T10:01:04.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -73,6 +73,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive Dreams"
+    }
+  },
+  {
+    "id": "7-YhFSgO0GY",
+    "title": "【辛いもの同好会】ご飯に合うもの編!みんなのおすすめの辛い物をいただきます!【儒烏風亭らでん #ReGLOSS 】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-26T09:47:36.000Z",
+    "available_at": "2026-08-27T10:00:00.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
     }
   },
   {
@@ -5614,25 +5633,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "vB3KeSND8aA",
-    "title": "【らでんラボ】絵画で!それってあなたの感想ですよね?カルタ【儒烏風亭らでん #ReGLOSS 】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-05-03T13:00:06.000Z",
-    "available_at": "2026-05-03T13:00:06.000Z",
-    "duration": 4749,
-    "status": "past",
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
