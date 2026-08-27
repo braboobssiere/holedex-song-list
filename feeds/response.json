@@ -1,13 +1,13 @@
 [
   {
     "id": "1uPfUh01PN0",
-    "title": "【歌枠 / karaoke】1時間だけ!20時からチム練?/ アステル",
+    "title": "【歌枠 / karaoke】1時間だけ！20時からチム練？/ アステル",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-08-27T09:08:49.000Z",
     "available_at": "2026-08-27T09:16:25.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4602,
+    "status": "past",
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -136,6 +136,25 @@
     }
   },
   {
+    "id": "L5cACLf6o6M",
+    "title": "🎶歌うよ!I'm gonna sing! 노래할게!🎤",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-25T18:32:42.000Z",
+    "available_at": "2026-08-25T13:24:45.000Z",
+    "duration": 5082,
+    "status": "past",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "yYIOv5y0mpI",
     "title": "Watcha Gatcha!!!!!!!!",
     "type": "stream",
@@ -175,25 +194,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "L5cACLf6o6M",
-    "title": "🎶歌うよ！I’m gonna sing! 노래할게!🎤",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-25T13:19:48.000Z",
-    "available_at": "2026-08-25T13:24:45.000Z",
-    "duration": 5112,
-    "status": "past",
-    "channel": {
-      "id": "UCENwRMx5Yh42zWpzURebzTw",
-      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "La+ Darknesss"
     }
   },
   {
@@ -965,9 +965,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-08-19T05:56:39.000Z",
-    "available_at": "2026-08-27T11:00:00.000Z",
+    "available_at": "2026-08-27T10:52:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
       "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
