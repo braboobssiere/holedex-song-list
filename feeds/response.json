@@ -4,10 +4,10 @@
     "title": "ReGLOSS 'iCONiC' (音乃瀬奏&一条莉々華) OFFICIAL MV",
     "type": "stream",
     "topic_id": "Original_Song",
-    "published_at": "2026-08-28T06:34:42.000Z",
-    "available_at": "2026-08-28T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
+    "published_at": "2026-08-28T11:00:07.000Z",
+    "available_at": "2026-08-28T11:00:07.000Z",
+    "duration": 240,
+    "status": "past",
     "channel": {
       "id": "UC10wVt6hoQiwySRhz7RdOUA",
       "name": "hololive DEV_IS ReGLOSS",
@@ -155,6 +155,28 @@
     }
   },
   {
+    "id": "I4iQMxUdyPs",
+    "title": "【 誕生日カウントダウン 】みんなとお誕生日いっしょに迎えたい!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW  】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-08-26T15:37:45.000Z",
+    "available_at": "2026-08-26T14:47:50.000Z",
+    "duration": 2696,
+    "status": "past",
+    "live_tl_count": {
+      "en": 8
+    },
+    "channel": {
+      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
+      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kikirara Vivi"
+    }
+  },
+  {
     "id": "3amzOH63hDw",
     "title": "【ホロドリ】『星屑カプセル』Ninomae Ina'nis (Full ver.)",
     "type": "stream",
@@ -209,28 +231,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive Dreams"
-    }
-  },
-  {
-    "id": "I4iQMxUdyPs",
-    "title": "【 誕生日カウントダウン 】みんなとお誕生日いっしょに迎えたい！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-08-25T23:08:18.000Z",
-    "available_at": "2026-08-26T14:47:50.000Z",
-    "duration": 2965,
-    "status": "past",
-    "live_tl_count": {
-      "en": 8
-    },
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
