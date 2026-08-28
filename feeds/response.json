@@ -1,5 +1,24 @@
 [
   {
+    "id": "jBZtvAzpZwA",
+    "title": "CREPITUS (FREE PORTION)【VOICE PACK/ORIGINAL SONG】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-28T02:00:07.000Z",
+    "available_at": "2026-08-28T02:00:07.000Z",
+    "duration": 816,
+    "status": "past",
+    "channel": {
+      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
+      "name": "Octavio Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "oeHOLOSTARS English -ARMIS-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Octavio"
+    }
+  },
+  {
     "id": "QcDyMgGSacI",
     "title": "【歌枠】楽しく歌ってから告知だ~~~~!!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
     "type": "stream",
@@ -73,25 +92,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Otonose Kanade"
-    }
-  },
-  {
-    "id": "jBZtvAzpZwA",
-    "title": "CREPITUS (FREE PORTION)【VOICE PACK/ORIGINAL SONG】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-27T03:19:52.000Z",
-    "available_at": "2026-08-28T02:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
     }
   },
   {
@@ -1025,6 +1025,7 @@
     "available_at": "2026-08-27T10:52:16.000Z",
     "duration": 4126,
     "status": "past",
+    "songcount": 2,
     "live_tl_count": {
       "en": 106
     },
