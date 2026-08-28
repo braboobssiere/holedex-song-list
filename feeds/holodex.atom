@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-28T02:56:22.115Z</updated>
+  <updated>2026-08-28T03:26:45.272Z</updated>
 
   <entry>
     <id>urn:uuid:87bf7266-dc07-5951-88d7-4272f47827c6</id>
@@ -17,6 +17,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=QcDyMgGSacI 【LIVE on &lt;t:1787918400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QcDyMgGSacI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:145a6fdb-9f01-529b-9596-9df851b91a22</id>
+    <title><![CDATA[ビビッドキュート (Instrumental)]]></title>
+    <link href="https://youtu.be/fGda-g9HGLc" rel="alternate" type="text/html"/>
+    <published>2026-08-27T15:02:59.000Z</published>
+    <updated>2026-08-27T15:02:59.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fGda-g9HGLc 【LIVE on &lt;t:1787842979:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fGda-g9HGLc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:59ab17b1-29ae-54dc-8dbe-b1d24ee80f8c</id>
+    <title><![CDATA[ビビッドキュート]]></title>
+    <link href="https://youtu.be/LjtKYBFDiI4" rel="alternate" type="text/html"/>
+    <published>2026-08-27T15:01:56.000Z</published>
+    <updated>2026-08-27T15:01:56.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LjtKYBFDiI4 【LIVE on &lt;t:1787842916:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LjtKYBFDiI4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -913,34 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=1_slmzwTMQ0 【LIVE on &lt;t:1786676480:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1_slmzwTMQ0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:0cd279aa-fdbf-55f7-aa27-225918a908ef</id>
-    <title><![CDATA[【3D LIVE】III ~Justen × Sena ver.~【こぼ・かなえる×宝鐘マリン】テロップ・歌詞なしVer]]></title>
-    <link href="https://youtu.be/OKr0rgXI3Tg" rel="alternate" type="text/html"/>
-    <published>2026-08-13T09:00:05.000Z</published>
-    <updated>2026-08-13T09:00:05.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OKr0rgXI3Tg 【LIVE on &lt;t:1786611605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OKr0rgXI3Tg/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5f7ce76b-aba8-55e8-a1c2-f7505d171c51</id>
-    <title><![CDATA[Snowlight Stories]]></title>
-    <link href="https://youtu.be/YrPKGmgySr8" rel="alternate" type="text/html"/>
-    <published>2026-08-12T15:02:31.000Z</published>
-    <updated>2026-08-12T15:02:31.000Z</updated>
-    <author>
-      <name>Lamy Ch. 雪花ラミィ</name>
-      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YrPKGmgySr8 【LIVE on &lt;t:1786546951:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YrPKGmgySr8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
