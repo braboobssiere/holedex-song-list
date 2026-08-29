@@ -1,5 +1,24 @@
 [
   {
+    "id": "wkmXca-m_1Q",
+    "title": "【 歌枠】NO35.楽しく好きな歌を…なんとかなれーーーー!!【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-29T09:00:05.000Z",
+    "available_at": "2026-08-29T09:02:22.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "YzIPpdwu1Rw",
     "title": "【2026 BIRTHDAY COUNTDOWN】tomorrow is my birthday so i wanna check on games ha...hahaha...ha.ha.ha.ha",
     "type": "stream",
@@ -16,25 +35,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2jGAglj5aTcUWO7WRNfq54KV3ipKblUzxI6fAKSjAfMw6J9Qqb6NbzbJA2i0t4cKgUR7SPdWC_w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kaela Kovalskia"
-    }
-  },
-  {
-    "id": "_TUv2dVK0UI",
-    "title": "【 #ヴィヴィ生誕祭2026 】みんなと振り返りや実は…な裏話!!【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-08-29T05:02:05.000Z",
-    "available_at": "2026-08-29T09:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCGzTVXqMQHa4AgJVJIVvtDQ",
-      "name": "Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/mTPMsoVAu5mLVqhULxxIC5187gvo2_8oaHs3D4jhe4T9vl77c0sz6zwj3zx1zN14E2sjDrgrxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kikirara Vivi"
     }
   },
   {
@@ -3530,25 +3530,6 @@
     }
   },
   {
-    "id": "lidOxsCaatg",
-    "title": "【#レヌソニ 】そうです、私が変なVTuberです【ルキ・ルクス】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-25T11:54:50.000Z",
-    "available_at": "2026-07-25T10:55:51.000Z",
-    "duration": 2030,
-    "status": "past",
-    "channel": {
-      "id": "UCqS5riKFNe0niYs1AG2wilw",
-      "name": "ルキ・ルクス / Luki Lux",
-      "org": "MEWLIVE",
-      "suborg": "2bUNIVERSE - Reφilm",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ypsfGpSfvZidZdXluBSSWAVMfj5XYYRNlaUtss5lSZCNUNPfL4qMPn4IL7Ydtm4oBIlX9pOW=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Luki Lux"
-    }
-  },
-  {
     "id": "5lWLd-D44UE",
     "title": "【 MY CHEMICAL ROMANCE KARAOKE REBROADCAST】Three Cheers For Sweet Revenge",
     "type": "stream",
@@ -5128,6 +5109,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "DcvIc0WMpms",
+    "title": "【歌枠 / 誕生日がおわります】 さようなら、誕生日 / アステル",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-06T16:13:03.000Z",
+    "available_at": "2026-06-06T14:02:52.000Z",
+    "duration": 6524,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
     }
   },
   {
