@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-29T10:56:36.258Z</updated>
+  <updated>2026-08-29T11:26:25.106Z</updated>
 
   <entry>
     <id>urn:uuid:e55ad415-b14c-5353-9028-f67023a62223</id>
@@ -563,6 +563,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=lo5d9pS-KMw 【LIVE on &lt;t:1787137124:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lo5d9pS-KMw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f0c5dd7a-e129-5899-bf28-687b84846c21</id>
+    <title><![CDATA[【3D LIVE CONCERT 3周年記念ライブ】thanks to hololive🐾 重大告知あり✨️【#FWMC3rd】]]></title>
+    <link href="https://youtu.be/Pd1rwtbxO6A" rel="alternate" type="text/html"/>
+    <published>2026-08-19T02:55:02.000Z</published>
+    <updated>2026-08-29T10:55:41.000Z</updated>
+    <author>
+      <name>FUWAMOCO Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Pd1rwtbxO6A 【LIVE on &lt;t:1788000941:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Pd1rwtbxO6A/maxresdefault.jpg"/>
   </entry>
 
   <entry>
