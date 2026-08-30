@@ -1,5 +1,24 @@
 [
   {
+    "id": "8fo9PNalED0",
+    "title": "【歌枠】深夜にしっとり歌うよ🌙Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-30T11:14:59.000Z",
+    "available_at": "2026-08-30T14:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "5JXkriZl_9o",
     "title": "GUM & DROP",
     "type": "stream",
@@ -120,13 +139,14 @@
   },
   {
     "id": "Wa8ZX0i_LPw",
-    "title": "【新曲+α告知アリ‼】新デフォ衣装&お部屋お披露目‼ ミニライブも🎶【星街すいせい / #ほしまちすたじお】",
+    "title": "【新曲+α告知アリ‼】新デフォ衣装＆お部屋お披露目‼ ミニライブも🎶【星街すいせい / #ほしまちすたじお】",
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-08-28T18:13:06.000Z",
     "available_at": "2026-08-30T10:00:07.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4372,
+    "status": "past",
+    "songcount": 3,
     "channel": {
       "id": "UC5CwaMl1eIgY8h02uZw7u8A",
       "name": "Suisei Channel",
@@ -186,6 +206,7 @@
     "available_at": "2026-08-28T12:01:48.000Z",
     "duration": 9838,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -1784,23 +1805,23 @@
     }
   },
   {
-    "id": "NvC7SqK3UXM",
-    "title": "【アニメーションMV】燦然燃焼 - Omaru Polka(Original)【尾丸ポルカ】",
+    "id": "nN7c7EgLbhg",
+    "title": "【 Original Song 】 Lucu Juga【 Airani Iofifteen | イオフィ 】",
     "type": "stream",
     "topic_id": "Original_Song",
     "published_at": "2026-08-16T13:00:06.000Z",
     "available_at": "2026-08-16T13:00:06.000Z",
-    "duration": 217,
+    "duration": 198,
     "status": "past",
     "songcount": 1,
     "channel": {
-      "id": "UCK9V2B22uJYu3N7eR_BT9QA",
-      "name": "Polka Ch. 尾丸ポルカ",
+      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID",
       "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/42QEdu1EEbblI1N1nLIghEHb38jSbUCLBbSKBcjRf9_uPwN77Md5_iTXsCDkFU480_QEfTHJnQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Omaru Polka"
+      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Airani Iofifteen"
     }
   },
   {
@@ -3542,25 +3563,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Banzoin Hakka"
-    }
-  },
-  {
-    "id": "O2-nrzwLFwo",
-    "title": "【#レヌソニ】俺の名前を知ってるか【歌衣メイカ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-07-25T12:31:52.000Z",
-    "available_at": "2026-07-25T11:58:54.000Z",
-    "duration": 1822,
-    "status": "past",
-    "channel": {
-      "id": "UC7-N7MvN5muVIHqyQx9LFbA",
-      "name": "メイカちゃんねる",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mq4PLSnpYy83ZUfXHKZVIVXsU8VnFE5xpzLcVXrmImnAg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Utai Meika"
     }
   },
   {
