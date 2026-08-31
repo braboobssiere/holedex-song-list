@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-08-31T14:56:38.638Z</updated>
+  <updated>2026-08-31T15:26:27.963Z</updated>
+
+  <entry>
+    <id>urn:uuid:f8db4939-90d7-54d9-b102-7a5fbc75351d</id>
+    <title><![CDATA[Here Comes the CHADCast (Instrumental)]]></title>
+    <link href="https://youtu.be/TmRLBcTjZnk" rel="alternate" type="text/html"/>
+    <published>2026-08-31T15:00:28.000Z</published>
+    <updated>2026-08-31T15:00:28.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=TmRLBcTjZnk 【LIVE on &lt;t:1788188428:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TmRLBcTjZnk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:753c5200-b96c-508f-979a-cdd710f1e0fe</id>
+    <title><![CDATA[Here Comes the CHADCast]]></title>
+    <link href="https://youtu.be/MjCwAyjBQaw" rel="alternate" type="text/html"/>
+    <published>2026-08-31T15:00:10.000Z</published>
+    <updated>2026-08-31T15:00:10.000Z</updated>
+    <author>
+      <name>Mori Calliope Ch. hololive-EN</name>
+      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MjCwAyjBQaw 【LIVE on &lt;t:1788188410:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MjCwAyjBQaw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:50303002-09fa-5be7-9e35-dfa93feb4d32</id>
@@ -874,20 +902,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:7ff639bc-ab84-5ece-820b-7dcf82267f5f</id>
-    <title><![CDATA[#めろぞーま]]></title>
-    <link href="https://youtu.be/Re-ecg_XWr8" rel="alternate" type="text/html"/>
-    <published>2026-08-17T15:01:26.000Z</published>
-    <updated>2026-08-17T15:01:26.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Re-ecg_XWr8 【LIVE on &lt;t:1786978886:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Re-ecg_XWr8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:86d81cb2-5140-5b55-a5c6-36aecc50e864</id>
     <title><![CDATA[【3D LIVE】ねぽらぼ6周年記念「Grimoire 4♡Ever」【#ねぽらぼ6周年3Dライブ】]]></title>
     <link href="https://youtu.be/foYXAlJiq68" rel="alternate" type="text/html"/>
@@ -899,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=foYXAlJiq68 【LIVE on &lt;t:1786967656:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/foYXAlJiq68/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f8ae610c-3f00-5d0b-9b9e-9a6f727e41b1</id>
-    <title><![CDATA[Lucu Juga (Instrumental)]]></title>
-    <link href="https://youtu.be/2ei5abObL50" rel="alternate" type="text/html"/>
-    <published>2026-08-16T15:04:55.000Z</published>
-    <updated>2026-08-16T15:04:55.000Z</updated>
-    <author>
-      <name>Airani Iofifteen Channel hololive-ID</name>
-      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=2ei5abObL50 【LIVE on &lt;t:1786892695:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/2ei5abObL50/maxresdefault.jpg"/>
   </entry>
 
   <entry>
