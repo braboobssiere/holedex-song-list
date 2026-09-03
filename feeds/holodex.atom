@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-03T16:56:26.709Z</updated>
+  <updated>2026-09-03T17:26:39.716Z</updated>
+
+  <entry>
+    <id>urn:uuid:ca2f45ab-5360-5540-87da-ace4a8d6513b</id>
+    <title><![CDATA[【初歌枠】はじめましてのあなたも力を貸して!6万人耐久🔥【#あくろら6万人耐久歌枠リレー】]]></title>
+    <link href="https://youtu.be/Ie1e9qn5ZVk" rel="alternate" type="text/html"/>
+    <published>2026-09-03T07:00:26.000Z</published>
+    <updated>2026-09-04T11:00:00.000Z</updated>
+    <author>
+      <name>ACHRORA - mekPark</name>
+      <uri>https://www.youtube.com/channel/UChpRPsAeSZn5DistGacR3iA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ie1e9qn5ZVk 【LIVE on &lt;t:1788519600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ie1e9qn5ZVk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:daba74d4-6629-5644-8ea5-a34c44f4c75e</id>
@@ -1417,20 +1431,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q8ktjMwiE4I 【LIVE on &lt;t:1785063586:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q8ktjMwiE4I/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:807184e3-d6b0-5616-a6e9-3d92ec4d401c</id>
-    <title><![CDATA[【歌枠】夏に聞きたい曲歌うよ~🎐【 #UNIT_B / #宵凪ネオン】]]></title>
-    <link href="https://youtu.be/qBhKDicu9Jc" rel="alternate" type="text/html"/>
-    <published>2026-07-26T04:54:34.000Z</published>
-    <updated>2026-07-26T02:59:03.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qBhKDicu9Jc 【LIVE on &lt;t:1785034743:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qBhKDicu9Jc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
