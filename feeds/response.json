@@ -68,9 +68,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-03T07:00:26.000Z",
-    "available_at": "2026-09-04T11:00:00.000Z",
+    "available_at": "2026-09-04T11:00:32.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 31
+    },
     "channel": {
       "id": "UChpRPsAeSZn5DistGacR3iA",
       "name": "ACHRORA - mekPark",
