@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-04T14:56:28.055Z</updated>
+  <updated>2026-09-04T15:26:27.265Z</updated>
 
   <entry>
     <id>urn:uuid:fc5de6d2-a411-505c-afad-5a73b1839992</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=ejrKy8bUUBQ 【LIVE on &lt;t:1788526807:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ejrKy8bUUBQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:72fb69e8-c140-5e39-bb0f-d433ad1ccf6f</id>
+    <title><![CDATA[悪い子にはお注射しちゃう♡]]></title>
+    <link href="https://youtu.be/r-WlMEBgnU4" rel="alternate" type="text/html"/>
+    <published>2026-09-04T10:00:39.000Z</published>
+    <updated>2026-09-04T10:00:39.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r-WlMEBgnU4 【LIVE on &lt;t:1788516039:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r-WlMEBgnU4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -927,20 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=h8lP4QtXWzY 【LIVE on &lt;t:1787047202:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/h8lP4QtXWzY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:8a6c989c-e408-5c32-a5d0-b0f68229ab0a</id>
-    <title><![CDATA[【ホロドリ】『NIGHTBREAK』Mori Calliope (Official Music Video)]]></title>
-    <link href="https://youtu.be/kuas99zAtNM" rel="alternate" type="text/html"/>
-    <published>2026-08-18T09:00:11.000Z</published>
-    <updated>2026-08-18T09:00:11.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=kuas99zAtNM 【LIVE on &lt;t:1787043611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kuas99zAtNM/maxresdefault.jpg"/>
   </entry>
 
   <entry>
