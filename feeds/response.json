@@ -1,16 +1,35 @@
 [
   {
+    "id": "HG6L6rSwkqA",
+    "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-06T15:20:01.000Z",
+    "available_at": "2026-09-07T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
+    }
+  },
+  {
     "id": "onHEZJkKZWE",
-    "title": "【9周年】カウントダウン配信!【ホロライブ/ときのそら】",
+    "title": "【9周年】カウントダウン配信！【ホロライブ/ときのそら】",
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-09-06T13:07:50.000Z",
     "available_at": "2026-09-06T14:29:09.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6162,
+    "status": "past",
     "live_tl_count": {
-      "en": 116,
-      "ko": 62
+      "en": 154,
+      "ko": 65
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -48,8 +67,8 @@
     "topic_id": "singing",
     "published_at": "2026-09-06T04:42:00.000Z",
     "available_at": "2026-09-06T14:05:20.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6924,
+    "status": "past",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive-ID",
@@ -3457,26 +3476,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "pj0TgtP1gog",
-    "title": "【歌枠 KARAOKE】縦型歌雑談〜❕【水宮枢/ホロライブDEV_IS】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-02T11:40:25.000Z",
-    "available_at": "2026-08-02T08:27:25.000Z",
-    "duration": 6883,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCjk2nKmHzgH5Xy-C5qYRd5A",
-      "name": "Su Ch. 水宮枢 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Mizumiya Su"
     }
   },
   {
