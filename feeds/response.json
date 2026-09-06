@@ -306,8 +306,8 @@
     "topic_id": "singing",
     "published_at": "2026-09-01T10:15:01.000Z",
     "available_at": "2026-09-06T01:01:06.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6921,
+    "status": "past",
     "songcount": 18,
     "channel": {
       "id": "UCL_qhgtOy0dy1Agp8vkySQg",
@@ -824,25 +824,7 @@
     "available_at": "2026-08-28T02:15:06.000Z",
     "duration": 218,
     "status": "past",
-    "channel": {
-      "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
-      "name": "Octavio Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ClHHOz-dZWdpgj2NuXdKjE8jdHnpkaKWENIUJboPQtIYClq47xlwD4Eh_GYH-dLSFz5QKEhe0zg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Octavio"
-    }
-  },
-  {
-    "id": "jBZtvAzpZwA",
-    "title": "CREPITUS (FREE PORTION)【VOICE PACK/ORIGINAL SONG】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-28T02:00:07.000Z",
-    "available_at": "2026-08-28T02:00:07.000Z",
-    "duration": 816,
-    "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCLk1hcmxg8rJ3Nm1_GvxTRA",
       "name": "Octavio Ch. HOLOSTARS-EN",
@@ -2061,6 +2043,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xw973Y1LNOonqa1rTs0AIEojwoEk20dqBTOM9girxa0ATdQ4GWD8paQxAl5OyxelF5YoEraK5w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Midnight Grand Orchestra"
+    }
+  },
+  {
+    "id": "kuas99zAtNM",
+    "title": "【ホロドリ】『NIGHTBREAK』Mori Calliope (Official Music Video)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-08-18T09:00:11.000Z",
+    "available_at": "2026-08-18T09:00:11.000Z",
+    "duration": 127,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
     }
   },
   {
