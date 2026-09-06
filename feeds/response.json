@@ -9,8 +9,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 73,
-      "ko": 49
+      "en": 116,
+      "ko": 62
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -20,6 +20,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "2SPSYjb-K7U",
+    "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-09-06T07:12:51.000Z",
+    "available_at": "2026-09-07T09:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
     }
   },
   {
@@ -5525,25 +5544,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "ejfXyARt3jo",
-    "title": "【8周年記念】ホロライブに入ってもう8年!?!【ホロライブ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-05-31T11:06:53.000Z",
-    "available_at": "2026-05-31T10:00:13.000Z",
-    "duration": 3712,
-    "status": "past",
-    "channel": {
-      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
-      "name": "Matsuri Channel 夏色まつり",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Natsuiro Matsuri"
     }
   },
   {
