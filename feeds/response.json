@@ -8,6 +8,9 @@
     "available_at": "2026-09-07T15:14:22.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 4
+    },
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -44,8 +47,8 @@
     "topic_id": "Birthday",
     "published_at": "2026-09-07T01:20:51.000Z",
     "available_at": "2026-09-07T14:31:17.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4511,
+    "status": "past",
     "channel": {
       "id": "UCUKD-uaobj9jiqB-VXt71mA",
       "name": "Botan Ch.獅白ぼたん",
@@ -2118,7 +2121,7 @@
     "original_channel_id": "UC3VId8brfshtHO6gMMqnZ5A",
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive DEV_IS FLOW GLOW",
+      "name": "hololive FLOW GLOW",
       "org": "Hololive",
       "suborg": "0gOfficial",
       "type": "vtuber",
