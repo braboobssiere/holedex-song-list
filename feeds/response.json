@@ -107,9 +107,12 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2026-09-06T07:28:36.000Z",
-    "available_at": "2026-09-07T14:00:00.000Z",
+    "available_at": "2026-09-07T14:00:49.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 30
+    },
     "channel": {
       "id": "UChpRPsAeSZn5DistGacR3iA",
       "name": "ACHRORA - mekPark",
@@ -4941,7 +4944,7 @@
     "songcount": 1,
     "channel": {
       "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive-EN",
+      "name": "Gigi Murin Ch. hololive",
       "org": "Hololive",
       "suborg": "jaEnglish -Justice-",
       "type": "vtuber",
