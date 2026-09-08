@@ -140,6 +140,29 @@
     }
   },
   {
+    "id": "onHEZJkKZWE",
+    "title": "【9周年】カウントダウン配信!【ホロライブ/ときのそら】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-09-06T16:20:21.000Z",
+    "available_at": "2026-09-06T14:29:09.000Z",
+    "duration": 6171,
+    "status": "past",
+    "live_tl_count": {
+      "en": 154,
+      "ko": 65
+    },
+    "channel": {
+      "id": "UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル",
+      "org": "Hololive",
+      "suborg": "0v0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tokino Sora"
+    }
+  },
+  {
     "id": "HG6L6rSwkqA",
     "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ！【虎金妃笑虎】",
     "type": "stream",
@@ -156,29 +179,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
-    }
-  },
-  {
-    "id": "onHEZJkKZWE",
-    "title": "【9周年】カウントダウン配信！【ホロライブ/ときのそら】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-09-06T13:07:50.000Z",
-    "available_at": "2026-09-06T14:29:09.000Z",
-    "duration": 6162,
-    "status": "past",
-    "live_tl_count": {
-      "en": 154,
-      "ko": 65
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_kT9PiLS8BWANuBdGG_-GHsNZxFqmF0YjMnzK55jISdca4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
     }
   },
   {
@@ -3628,7 +3628,7 @@
     "status": "past",
     "channel": {
       "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-      "name": "Shiori Novella Ch. hololive-EN",
+      "name": "Shiori Novella Ch. hololive",
       "org": "Hololive",
       "suborg": "ihEnglish -Advent-",
       "type": "vtuber",
