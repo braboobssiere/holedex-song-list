@@ -82,9 +82,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-09-08T14:53:09.000Z",
-    "available_at": "2026-09-09T14:30:00.000Z",
+    "available_at": "2026-09-09T14:30:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC1iA6_NT4mtAcIII6ygrvCw",
       "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
@@ -221,6 +221,25 @@
     }
   },
   {
+    "id": "2SPSYjb-K7U",
+    "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-09-07T11:10:36.000Z",
+    "available_at": "2026-09-07T09:32:14.000Z",
+    "duration": 5531,
+    "status": "past",
+    "channel": {
+      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
+      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Juufuutei Raden"
+    }
+  },
+  {
     "id": "6iWKB-Tq8aA",
     "title": "【ホロドリ】『三位一体♡ラブシステム』鷹嶺ルイ/FUWAMOCO (Official Music Video)",
     "type": "stream",
@@ -237,6 +256,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive Dreams"
+    }
+  },
+  {
+    "id": "HG6L6rSwkqA",
+    "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-07T10:50:22.000Z",
+    "available_at": "2026-09-07T09:30:36.000Z",
+    "duration": 4298,
+    "status": "past",
+    "songcount": 13,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -325,26 +364,6 @@
     }
   },
   {
-    "id": "HG6L6rSwkqA",
-    "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ！【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-06T15:20:01.000Z",
-    "available_at": "2026-09-07T09:30:36.000Z",
-    "duration": 4530,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
-    }
-  },
-  {
     "id": "GfpBEnTJ24Q",
     "title": "【美少女に戻りたい】登録者が増えるたび美少女に戻るひよこASMR【#ひなみ通信】#ACHRORA #由比河ひなみ",
     "type": "stream",
@@ -364,25 +383,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "ACHRORA"
-    }
-  },
-  {
-    "id": "2SPSYjb-K7U",
-    "title": "【喋る】もうすぐ3周年だってよ【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-09-06T07:12:51.000Z",
-    "available_at": "2026-09-07T09:32:14.000Z",
-    "duration": 5574,
-    "status": "past",
-    "channel": {
-      "id": "UCdXAk5MpyLD8594lm_OvtGQ",
-      "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I3u3NWX2xNjmhVDFm7K8oLn1vZKgzZyyZ2X4_ADINsyLLXv-a2VKLXHO_uHYCKXgVSJdkazjbw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Juufuutei Raden"
     }
   },
   {
