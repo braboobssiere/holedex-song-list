@@ -143,8 +143,8 @@
     "topic_id": "Anniversary",
     "published_at": "2026-09-08T08:27:04.000Z",
     "available_at": "2026-09-09T13:59:59.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5960,
+    "status": "past",
     "channel": {
       "id": "UCdXAk5MpyLD8594lm_OvtGQ",
       "name": "Raden Ch. 儒烏風亭らでん ‐ ReGLOSS",
@@ -218,6 +218,24 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
+    }
+  },
+  {
+    "id": "ra8SCAqWCAg",
+    "title": "【#ReGLOSSパーク】ご褒美GETなるか!? 3周年の絆をアトラクションでチェック!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-09-07T12:50:51.000Z",
+    "available_at": "2026-09-10T09:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5374,29 +5392,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/aeXUwEp2GLWHhXR73XgIzKZpm0YXeN74t4glwn0KTrYZUCPZrOeFapjkWMFCUKs42qDyydBa=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Mizumiya Su"
-    }
-  },
-  {
-    "id": "Z1_nnb7LxYs",
-    "title": "【3DLIVE】Lazy DOOG Night! 【戌神ころね】#戌神ころね7周年",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-06-15T12:08:22.000Z",
-    "available_at": "2026-06-15T11:00:34.000Z",
-    "duration": 3761,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 15
-    },
-    "channel": {
-      "id": "UChAnqc_AY5_I3Px5dig3X1Q",
-      "name": "Korone Ch. 戌神ころね",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Inugami Korone"
     }
   },
   {
