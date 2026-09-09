@@ -161,9 +161,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-09-08T03:15:39.000Z",
-    "available_at": "2026-09-09T12:45:00.000Z",
+    "available_at": "2026-09-09T12:35:16.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive",
@@ -634,6 +634,9 @@
     "available_at": "2026-09-09T11:59:25.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "ja": 6
+    },
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive",
@@ -1477,7 +1480,7 @@
       "org": "Hololive",
       "suborg": "0aOfficial",
       "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/aDD5WjpOtpuZO8QLEVnDI5pX-fjUNcKo5XM0gTpMvWlCxwG5dowWHAUhaooKl7nCstEM_-87=s800-c-k-c0x00ffffff-no-rj",
+      "photo": "https://yt3.ggpht.com/rl6ZG9_MqKPDABLRDNG75FPX7EOPGXHtJ-2Hm97yqWziq6gkcwnsSe6wA8vv8xIhGuQe9joF=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
     }
   },
@@ -3842,7 +3845,7 @@
     "status": "past",
     "channel": {
       "id": "UCgnfPPb9JI3e9A4cXHnWbyg",
-      "name": "Shiori Novella Ch. hololive-EN",
+      "name": "Shiori Novella Ch. hololive",
       "org": "Hololive",
       "suborg": "ihEnglish -Advent-",
       "type": "vtuber",
