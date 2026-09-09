@@ -25,9 +25,9 @@
     "type": "stream",
     "topic_id": "Musical_Instrument",
     "published_at": "2026-09-09T03:27:04.000Z",
-    "available_at": "2026-09-09T12:00:00.000Z",
+    "available_at": "2026-09-09T11:59:37.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
       "name": "UNIT B (Pre-Debut) - mekPark",
@@ -631,9 +631,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-01T13:10:33.000Z",
-    "available_at": "2026-09-09T12:00:00.000Z",
+    "available_at": "2026-09-09T11:59:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCW5uhrG1eCBYditmhL0Ykjw",
       "name": "Elizabeth Rose Bloodflame Ch. hololive",
@@ -6413,7 +6413,7 @@
     "status": "past",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive-EN",
+      "name": "Hakos Baelz Ch. hololive",
       "org": "Hololive",
       "suborg": "ibEnglish -Promise-",
       "type": "vtuber",
