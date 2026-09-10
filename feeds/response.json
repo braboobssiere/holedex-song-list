@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-10T13:23:24.000Z",
-    "available_at": "2026-09-10T14:00:00.000Z",
+    "available_at": "2026-09-10T14:01:41.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 31,
+      "ko": 17
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -16,6 +20,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "WxOsF2lPeeo",
+    "title": "『少女レイ』歌わせていただきました【 #UNIT_B / #清澄ライラ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-10T13:00:10.000Z",
+    "available_at": "2026-09-10T13:00:10.000Z",
+    "duration": 46,
+    "status": "past",
+    "channel": {
+      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
+      "name": "UNIT B (Pre-Debut) - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "UNIT B [Pre-Debut]"
     }
   },
   {
@@ -408,7 +431,7 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "en": 4
+      "en": 16
     },
     "channel": {
       "id": "UCOyYb1c43VlX9rc_lT6NKQw",
@@ -3441,26 +3464,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/JhTtQGtkAfXG5XwH3Adzu9Kl8DBTRElKxHFvWop0Z6J2ndAEJfXfDaU1mLUaBsiAjW_RnXBkOQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Ichijou Ririka"
-    }
-  },
-  {
-    "id": "8JNJ8GYgTQk",
-    "title": "【 縦型歌枠 】呼吸!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-07T12:13:01.000Z",
-    "available_at": "2026-08-07T11:00:15.000Z",
-    "duration": 4086,
-    "status": "past",
-    "songcount": 11,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/3Naw3X40CVtAsDMP8SFCPIpsfVjP2iUID4oAF8PJgA1ob4akPZ_SQC3LlWAya_kE2INeaLtHUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
