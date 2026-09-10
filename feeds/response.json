@@ -1,5 +1,23 @@
 [
   {
+    "id": "ra8SCAqWCAg",
+    "title": "【#ReGLOSSパーク】ご褒美GETなるか!? 3周年の絆をアトラクションでチェック!",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-09-10T09:30:06.000Z",
+    "available_at": "2026-09-10T09:30:06.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UC10wVt6hoQiwySRhz7RdOUA",
+      "name": "hololive ReGLOSS",
+      "org": "Hololive",
+      "suborg": "0fOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     "id": "c-ujFpxFD3k",
     "title": "【 歌枠 】夏曲歌い納め?みんなとお話ししつつ歌うぞー!✨【 桃鈴ねね / hololive 】",
     "type": "stream",
@@ -44,8 +62,11 @@
     "topic_id": "Birthday",
     "published_at": "2026-09-10T04:54:27.000Z",
     "available_at": "2026-09-10T07:59:52.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6300,
+    "status": "past",
+    "live_tl_count": {
+      "en": 5
+    },
     "channel": {
       "id": "UChgTyjG-pdNvxxhdsXfHQ5Q",
       "name": "Pavolia Reine Ch. hololive",
@@ -416,24 +437,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "ra8SCAqWCAg",
-    "title": "【#ReGLOSSパーク】ご褒美GETなるか!? 3周年の絆をアトラクションでチェック!",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-09-07T12:50:51.000Z",
-    "available_at": "2026-09-10T09:30:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
