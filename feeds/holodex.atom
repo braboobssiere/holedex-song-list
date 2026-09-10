@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-10T10:56:58.039Z</updated>
+  <updated>2026-09-10T11:26:31.523Z</updated>
+
+  <entry>
+    <id>urn:uuid:e7f797dd-8656-5c50-9799-abdeed3a4e9c</id>
+    <title><![CDATA[【Original】Go Wild/轟はじめ【Official MV】]]></title>
+    <link href="https://youtu.be/UIQU8WKBwZA" rel="alternate" type="text/html"/>
+    <published>2026-09-10T10:55:06.000Z</published>
+    <updated>2026-09-10T10:55:06.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UIQU8WKBwZA 【LIVE on &lt;t:1789037706:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UIQU8WKBwZA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5761d772-5258-5d24-b94b-6175ca69b5eb</id>
@@ -17,20 +31,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=c-ujFpxFD3k 【LIVE on &lt;t:1789030927:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c-ujFpxFD3k/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e7f797dd-8656-5c50-9799-abdeed3a4e9c</id>
-    <title><![CDATA[【Original】Go Wild/轟はじめ【Official MV】]]></title>
-    <link href="https://youtu.be/UIQU8WKBwZA" rel="alternate" type="text/html"/>
-    <published>2026-09-10T03:26:18.000Z</published>
-    <updated>2026-09-10T10:55:00.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=UIQU8WKBwZA 【LIVE on &lt;t:1789037700:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UIQU8WKBwZA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
