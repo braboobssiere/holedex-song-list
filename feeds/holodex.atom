@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-11T11:56:24.362Z</updated>
+  <updated>2026-09-11T12:26:19.704Z</updated>
+
+  <entry>
+    <id>urn:uuid:fbaa3d6d-6497-54f8-af75-d13bfd767ec4</id>
+    <title><![CDATA[雨に打たれながら歌ってきました]]></title>
+    <link href="https://youtu.be/rb5xEa1Mios" rel="alternate" type="text/html"/>
+    <published>2026-09-11T11:00:02.000Z</published>
+    <updated>2026-09-11T11:00:02.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rb5xEa1Mios 【LIVE on &lt;t:1789124402:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rb5xEa1Mios/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:05e63f93-fb2a-5431-b5ca-bff797378952</id>
@@ -360,12 +374,12 @@
     <title><![CDATA[▶️RERUN▶️【UNARCHIVED KARAOKE】A TRIBUTE TO LOVE SONGS ~! 💄]]></title>
     <link href="https://youtu.be/X1gxkuNzMf4" rel="alternate" type="text/html"/>
     <published>2026-09-01T13:30:44.000Z</published>
-    <updated>2026-09-11T12:00:00.000Z</updated>
+    <updated>2026-09-11T11:59:40.000Z</updated>
     <author>
       <name>Elizabeth Rose Bloodflame Ch. hololive</name>
       <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=X1gxkuNzMf4 【LIVE on &lt;t:1789128000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=X1gxkuNzMf4 【LIVE on &lt;t:1789127980:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/X1gxkuNzMf4/maxresdefault.jpg"/>
   </entry>
 
