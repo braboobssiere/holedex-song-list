@@ -174,8 +174,9 @@
     "available_at": "2026-09-10T14:01:41.000Z",
     "duration": 6152,
     "status": "past",
+    "songcount": 12,
     "live_tl_count": {
-      "en": 153,
+      "en": 154,
       "ko": 68
     },
     "channel": {
@@ -288,6 +289,26 @@
     }
   },
   {
+    "id": "lUHDankrXds",
+    "title": "【#holoAdvent OFF-COLLAB KARAOKE in 3D SELF BOOTH】you never need an excuse to jam 🐾 【FUWAMOCO】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-10T04:09:30.000Z",
+    "available_at": "2026-09-10T02:58:16.000Z",
+    "duration": 3923,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "name": "FUWAMOCO Ch. hololive",
+      "org": "Hololive",
+      "suborg": "ihEnglish -Advent-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
     "id": "3wSKq145owQ",
     "title": "【#轟はじめ3周年】最近のことをお話ししながら3周年迎えよ!【轟はじめ/ReGLOSS】",
     "type": "stream",
@@ -304,26 +325,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6vJDLc-py0cRcuDAgukgsE0SXbuia7AupgIuofdQCAidvdT_fcoy0ib6ssKI7rQO_iZO0Tb40Q=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Todoroki Hajime"
-    }
-  },
-  {
-    "id": "lUHDankrXds",
-    "title": "【#holoAdvent OFF-COLLAB KARAOKE in 3D SELF BOOTH】you never need an excuse to jam 🐾 【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-09T15:57:31.000Z",
-    "available_at": "2026-09-10T02:58:16.000Z",
-    "duration": 3918,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
