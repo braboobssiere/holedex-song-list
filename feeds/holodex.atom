@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-13T14:56:29.575Z</updated>
+  <updated>2026-09-13T15:26:17.806Z</updated>
+
+  <entry>
+    <id>urn:uuid:0a95d95f-0e84-5a52-b744-0bfebb352d7d</id>
+    <title><![CDATA[Night Train to Nowhere]]></title>
+    <link href="https://youtu.be/d-ARIKLmw6o" rel="alternate" type="text/html"/>
+    <published>2026-09-13T15:00:35.000Z</published>
+    <updated>2026-09-13T15:00:35.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=d-ARIKLmw6o 【LIVE on &lt;t:1789311635:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d-ARIKLmw6o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cd9e3ebc-920e-5942-ac5c-24f277ce737a</id>
+    <title><![CDATA[Night Train to Nowhere (Instrumental)]]></title>
+    <link href="https://youtu.be/xf_hXocUfEE" rel="alternate" type="text/html"/>
+    <published>2026-09-13T15:00:03.000Z</published>
+    <updated>2026-09-13T15:00:03.000Z</updated>
+    <author>
+      <name>Moona Hoshinova hololive</name>
+      <uri>https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xf_hXocUfEE 【LIVE on &lt;t:1789311603:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xf_hXocUfEE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:add20426-38e4-53af-9bc1-408d6690f587</id>
@@ -1095,34 +1123,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=M9FRMuBZjXw 【LIVE on &lt;t:1787367656:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M9FRMuBZjXw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:09e5c747-b948-5f60-8aa8-1b745b2b58ac</id>
-    <title><![CDATA[Worth it]]></title>
-    <link href="https://youtu.be/8NllXAN086g" rel="alternate" type="text/html"/>
-    <published>2026-08-21T15:00:34.000Z</published>
-    <updated>2026-08-21T15:00:34.000Z</updated>
-    <author>
-      <name>hololive ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=8NllXAN086g 【LIVE on &lt;t:1787324434:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/8NllXAN086g/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ea5a4bad-da16-5b17-b7d8-36a0b2958a92</id>
-    <title><![CDATA[Worth it (Instrumental)]]></title>
-    <link href="https://youtu.be/nVOtF9OMOxI" rel="alternate" type="text/html"/>
-    <published>2026-08-21T15:00:27.000Z</published>
-    <updated>2026-08-21T15:00:27.000Z</updated>
-    <author>
-      <name>hololive ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=nVOtF9OMOxI 【LIVE on &lt;t:1787324427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nVOtF9OMOxI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
