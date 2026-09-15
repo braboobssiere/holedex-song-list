@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-15T07:56:21.782Z</updated>
+  <updated>2026-09-15T08:26:19.723Z</updated>
 
   <entry>
     <id>urn:uuid:4cb46d7a-26e8-5ba3-af40-fdefb7fccafd</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ce72c785-29b4-572f-8c5b-16ea534bd53f</id>
+    <title><![CDATA[水中で弾き語り【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/naWUto4AUOY" rel="alternate" type="text/html"/>
+    <published>2026-09-13T12:29:56.000Z</published>
+    <updated>2026-09-13T10:01:08.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=naWUto4AUOY 【LIVE on &lt;t:1789293668:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/naWUto4AUOY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ff878d43-00c1-50a3-a63f-5ac4f5fe2cc1</id>
     <title><![CDATA[【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive]]></title>
     <link href="https://youtu.be/AY1v8-jOZxk" rel="alternate" type="text/html"/>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=XuDswo6CBkI 【LIVE on &lt;t:1789268893:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XuDswo6CBkI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ce72c785-29b4-572f-8c5b-16ea534bd53f</id>
-    <title><![CDATA[水中で弾き語り【 #UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/naWUto4AUOY" rel="alternate" type="text/html"/>
-    <published>2026-09-12T17:14:38.000Z</published>
-    <updated>2026-09-13T10:01:08.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=naWUto4AUOY 【LIVE on &lt;t:1789293668:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/naWUto4AUOY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
