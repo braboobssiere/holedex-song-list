@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-16T13:56:27.221Z</updated>
+  <updated>2026-09-16T14:26:29.254Z</updated>
+
+  <entry>
+    <id>urn:uuid:0e4e3bbb-285c-53f3-9723-4f656c843959</id>
+    <title><![CDATA[【MV】Okie Dokie Dance ／ 大空スバル【ホロライブ/大空スバル】]]></title>
+    <link href="https://youtu.be/JyP1hD-IzZg" rel="alternate" type="text/html"/>
+    <published>2026-09-16T13:40:21.000Z</published>
+    <updated>2026-09-16T13:40:21.000Z</updated>
+    <author>
+      <name>Subaru Ch. 大空スバル</name>
+      <uri>https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=JyP1hD-IzZg 【LIVE on &lt;t:1789566021:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/JyP1hD-IzZg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7e4808b0-4a14-5f45-a2cf-aeeaef161868</id>
@@ -1081,20 +1095,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hU_Luteyejk 【LIVE on &lt;t:1787458507:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hU_Luteyejk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1e03b9f1-d667-593c-be9c-da0654cf34b7</id>
-    <title><![CDATA[Way 2 U]]></title>
-    <link href="https://youtu.be/Nv9x1x7jAz8" rel="alternate" type="text/html"/>
-    <published>2026-08-22T15:00:38.000Z</published>
-    <updated>2026-08-22T15:00:38.000Z</updated>
-    <author>
-      <name>Ouro Kronii Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Nv9x1x7jAz8 【LIVE on &lt;t:1787410838:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nv9x1x7jAz8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
