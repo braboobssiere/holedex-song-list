@@ -86,9 +86,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-09-14T19:55:58.000Z",
-    "available_at": "2026-09-16T12:00:00.000Z",
+    "available_at": "2026-09-16T12:00:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 110
+    },
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
