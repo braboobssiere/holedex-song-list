@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-18T23:26:25.004Z</updated>
+  <updated>2026-09-18T23:56:19.071Z</updated>
 
   <entry>
     <id>urn:uuid:84629732-5c7e-5354-86f9-087f885a2566</id>
@@ -62,6 +62,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6cf3cd5d-d00c-5833-a7fe-49ed8e2a8154</id>
+    <title><![CDATA[万歳☆満開]]></title>
+    <link href="https://youtu.be/Vqk92MYaDDg" rel="alternate" type="text/html"/>
+    <published>2026-09-18T15:03:46.000Z</published>
+    <updated>2026-09-18T15:03:46.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Vqk92MYaDDg 【LIVE on &lt;t:1789743826:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Vqk92MYaDDg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:74933edb-8141-52ef-97a9-cdd6c4dd94ac</id>
     <title><![CDATA[Oshi Mode ON (Instrumental)]]></title>
     <link href="https://youtu.be/s2abDrdP5gA" rel="alternate" type="text/html"/>
@@ -73,6 +87,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=s2abDrdP5gA 【LIVE on &lt;t:1789743733:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/s2abDrdP5gA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:17b74fc3-eab4-57d2-89a6-d73b8c75c25e</id>
+    <title><![CDATA[万歳☆満開 (Instrumental)]]></title>
+    <link href="https://youtu.be/3nHdNdQyaxg" rel="alternate" type="text/html"/>
+    <published>2026-09-18T15:01:33.000Z</published>
+    <updated>2026-09-18T15:01:33.000Z</updated>
+    <author>
+      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
+      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3nHdNdQyaxg 【LIVE on &lt;t:1789743693:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3nHdNdQyaxg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1053,34 +1081,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wWs-sl0zXqw 【LIVE on &lt;t:1787914807:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wWs-sl0zXqw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:145a6fdb-9f01-529b-9596-9df851b91a22</id>
-    <title><![CDATA[ビビッドキュート (Instrumental)]]></title>
-    <link href="https://youtu.be/fGda-g9HGLc" rel="alternate" type="text/html"/>
-    <published>2026-08-27T15:02:59.000Z</published>
-    <updated>2026-08-27T15:02:59.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fGda-g9HGLc 【LIVE on &lt;t:1787842979:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fGda-g9HGLc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:59ab17b1-29ae-54dc-8dbe-b1d24ee80f8c</id>
-    <title><![CDATA[ビビッドキュート]]></title>
-    <link href="https://youtu.be/LjtKYBFDiI4" rel="alternate" type="text/html"/>
-    <published>2026-08-27T15:01:56.000Z</published>
-    <updated>2026-08-27T15:01:56.000Z</updated>
-    <author>
-      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LjtKYBFDiI4 【LIVE on &lt;t:1787842916:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LjtKYBFDiI4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
