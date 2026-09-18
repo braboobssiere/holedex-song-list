@@ -69,8 +69,8 @@
     "topic_id": "singing",
     "published_at": "2026-09-18T14:58:06.000Z",
     "available_at": "2026-09-18T15:05:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 6388,
+    "status": "past",
     "channel": {
       "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
       "name": "Izuru Ch. 奏手イヅル",
@@ -79,25 +79,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kanade Izuru"
-    }
-  },
-  {
-    "id": "BtDHUdUV3DI",
-    "title": "【歌】【黒上】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-18T14:47:20.000Z",
-    "available_at": "2026-09-18T15:03:27.000Z",
-    "duration": 2598,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -3485,6 +3466,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yukihana Lamy"
+    }
+  },
+  {
+    "id": "gbctghL3S4M",
+    "title": "【 引っ越します 】さようなら、今の家【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-08-10T10:49:13.000Z",
+    "available_at": "2026-08-10T09:34:28.000Z",
+    "duration": 3846,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
