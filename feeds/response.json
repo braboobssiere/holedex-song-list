@@ -1,5 +1,25 @@
 [
   {
+    "id": "T2351eZtQC0",
+    "title": "【MV】THIS IS MYTH 【hololive -Myth- Original Song】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-09-20T04:00:07.000Z",
+    "available_at": "2026-09-20T04:00:07.000Z",
+    "duration": 193,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English",
+      "org": "Hololive",
+      "suborg": "0dOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/TvszWVCadS-5F30r3omWB2K2SZWfu6ZTcKHZ69N7Mmb0Qx6VD22vgaKkEkm9frbF_x2pnx7K=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": ""
+    }
+  },
+  {
     "id": "vFNbYTSAvwk",
     "title": "【 歌枠 】シルバーウィークもふなふな歌うのら~~~!!!KARAOKE🎵【姫森ルーナ/ホロライブ】",
     "type": "stream",
@@ -1658,25 +1678,6 @@
     }
   },
   {
-    "id": "UGQfq16yY1A",
-    "title": "打上花火 / 猫又おかゆ × 輪堂千速(cover) #輪堂千速生誕祭2026",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-09-06T08:07:45.000Z",
-    "available_at": "2026-09-20T08:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
-      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Rindo Chihaya"
-    }
-  },
-  {
     "id": "N5CW6lmWho4",
     "title": "【3D KARAOKE】last singing this summer! with...an announcement?! #calliolive",
     "type": "stream",
@@ -2164,8 +2165,8 @@
     "topic_id": "Anniversary",
     "published_at": "2026-08-31T11:38:26.000Z",
     "available_at": "2026-09-20T02:55:11.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3779,
+    "status": "past",
     "songcount": 9,
     "channel": {
       "id": "UCotXwY6s8pWmuWd_snKYjhg",
@@ -2473,26 +2474,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "s5BfxzMPZqQ",
-    "title": "iCONiC",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-08-28T15:00:29.000Z",
-    "available_at": "2026-08-28T15:00:29.000Z",
-    "duration": 240,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCXhBruH4SzsyGe1pNHMYceQ",
-    "channel": {
-      "id": "UC10wVt6hoQiwySRhz7RdOUA",
-      "name": "hololive ReGLOSS",
-      "org": "Hololive",
-      "suborg": "0fOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
     }
   },
   {
@@ -5423,6 +5404,28 @@
     "songcount": 11,
     "live_tl_count": {
       "en": 139
+    },
+    "channel": {
+      "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/gq-oA6rRB25b8hLDHhsLqcU1ZSmuuEtIDQabDoaZV1NS-rwAzOit4RdQHz5Afh3mN4FwYnPIPg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kazama Iroha"
+    }
+  },
+  {
+    "id": "pC6Y7QSUZZY",
+    "title": "お誕生日・・・くるｯ!!!in2026【風真いろは/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-17T15:22:19.000Z",
+    "available_at": "2026-06-17T14:46:50.000Z",
+    "duration": 1590,
+    "status": "past",
+    "live_tl_count": {
+      "en": 126
     },
     "channel": {
       "id": "UC_vMYWcDjmfdpH6r4TTn1MQ",
