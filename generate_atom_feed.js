@@ -34,7 +34,7 @@ function createAtomFeed(videos, feedUrl) {
         (!video.title.toLowerCase().includes("unarchive") && (video.songcount === undefined ||
           video.songcount <= 1) && (video.topic_id === "Birthday" ||
           video.topic_id === "Anniversary" || video.topic_id === "3D_Stream")
-        ) || video.channel.name.toLowerCase().includes("holostar") ||
+        ) || video.channel.name.toLowerCase().includes("holostar") || video.title.toLowerCase().includes("(instrumental)") ||
         (video.channel.suborg && video.channel.suborg.toLowerCase().includes("holostar"))
        )
     {
