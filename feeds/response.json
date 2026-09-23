@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-23T09:44:24.000Z",
-    "available_at": "2026-09-23T11:00:00.000Z",
+    "available_at": "2026-09-23T11:00:25.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -97,6 +97,28 @@
     }
   },
   {
+    "id": "nG6WKzqosk4",
+    "title": "【ASMR】新人スパニスト、初出勤です!はじめてのお客様はあ・な・た💗【#ひなみ通信】",
+    "type": "stream",
+    "topic_id": "asmr",
+    "published_at": "2026-09-21T16:49:08.000Z",
+    "available_at": "2026-09-21T14:00:42.000Z",
+    "duration": 4211,
+    "status": "past",
+    "live_tl_count": {
+      "en": 83
+    },
+    "channel": {
+      "id": "UChpRPsAeSZn5DistGacR3iA",
+      "name": "ACHRORA - mekPark",
+      "org": "Hololive",
+      "suborg": "v_mekPark",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "ACHRORA"
+    }
+  },
+  {
     "id": "N-RBlIBPbic",
     "title": "september 21",
     "type": "stream",
@@ -133,28 +155,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/rl6ZG9_MqKPDABLRDNG75FPX7EOPGXHtJ-2Hm97yqWziq6gkcwnsSe6wA8vv8xIhGuQe9joF=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "nG6WKzqosk4",
-    "title": "【ASMR】新人スパニスト、初出勤です!はじめてのお客様はあ・な・た💗【#ひなみ通信】",
-    "type": "stream",
-    "topic_id": "asmr",
-    "published_at": "2026-09-20T19:06:25.000Z",
-    "available_at": "2026-09-21T14:00:42.000Z",
-    "duration": 4207,
-    "status": "past",
-    "live_tl_count": {
-      "en": 83
-    },
-    "channel": {
-      "id": "UChpRPsAeSZn5DistGacR3iA",
-      "name": "ACHRORA - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "ACHRORA"
     }
   },
   {
