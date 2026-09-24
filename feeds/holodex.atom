@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-24T09:26:21.632Z</updated>
+  <updated>2026-09-24T09:56:26.415Z</updated>
+
+  <entry>
+    <id>urn:uuid:36b7c74d-bb6c-56d0-a3ce-1860afd913d7</id>
+    <title><![CDATA[【ホロドリ】『64.』Anya Melfissa (Official Music Video)]]></title>
+    <link href="https://youtu.be/xdtU2P4jzF0" rel="alternate" type="text/html"/>
+    <published>2026-09-24T09:00:18.000Z</published>
+    <updated>2026-09-24T09:00:18.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xdtU2P4jzF0 【LIVE on &lt;t:1790240418:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xdtU2P4jzF0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:36fdfceb-bcf1-53b7-baa7-e542a8690acc</id>
@@ -801,20 +815,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kKjEgVLSaDs 【LIVE on &lt;t:1788955177:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kKjEgVLSaDs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6cfd4433-9e99-5b4c-a03a-a8b8222cc8bd</id>
-    <title><![CDATA[音乃瀬奏 - GREATEST (Official MV)]]></title>
-    <link href="https://youtu.be/PeitgWu6Yj8" rel="alternate" type="text/html"/>
-    <published>2026-09-09T10:55:06.000Z</published>
-    <updated>2026-09-09T10:55:06.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=PeitgWu6Yj8 【LIVE on &lt;t:1788951306:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/PeitgWu6Yj8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
