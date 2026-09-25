@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-25T15:56:24.319Z</updated>
+  <updated>2026-09-25T16:26:35.220Z</updated>
+
+  <entry>
+    <id>urn:uuid:ea1333ef-75f5-5f38-b578-2bb6e0d94f62</id>
+    <title><![CDATA[森で弾き語り🌳【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/M36U2lITl_o" rel="alternate" type="text/html"/>
+    <published>2026-09-25T14:49:12.000Z</published>
+    <updated>2026-09-26T04:30:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=M36U2lITl_o 【LIVE on &lt;t:1790397000:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/M36U2lITl_o/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:b1148fdb-67bd-5b8a-a4a6-955e0e6edcc1</id>
@@ -1207,20 +1221,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0FazK9Mh06U 【LIVE on &lt;t:1786877989:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0FazK9Mh06U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:59c431c8-abf7-5335-9df7-45c79fef84ab</id>
-    <title><![CDATA[≪SELF 3D - Nostalgic Anime Karaoke≫ Throwback Time!! w/ ANNOUNCEMENTS]]></title>
-    <link href="https://youtu.be/dQoSezn8UGc" rel="alternate" type="text/html"/>
-    <published>2026-08-16T05:04:45.000Z</published>
-    <updated>2026-08-16T03:00:29.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=dQoSezn8UGc 【LIVE on &lt;t:1786849229:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/dQoSezn8UGc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
