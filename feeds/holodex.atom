@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-26T12:56:54.207Z</updated>
+  <updated>2026-09-26T13:26:23.804Z</updated>
+
+  <entry>
+    <id>urn:uuid:0c1cd2b4-7528-5e97-bceb-b23980a46a33</id>
+    <title><![CDATA[森の中で弾き語り🌳【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/oi9gTqkpcdU" rel="alternate" type="text/html"/>
+    <published>2026-09-26T13:00:59.000Z</published>
+    <updated>2026-09-27T04:30:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=oi9gTqkpcdU 【LIVE on &lt;t:1790483400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oi9gTqkpcdU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:a8fdf9a1-eb20-56be-8c4b-2aa782b81658</id>
