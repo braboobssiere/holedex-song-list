@@ -3,19 +3,19 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-26T16:56:16.255Z</updated>
+  <updated>2026-09-26T17:26:24.966Z</updated>
 
   <entry>
     <id>urn:uuid:550e2e9e-21cf-5d04-ae99-dee53648ac2f</id>
     <title><![CDATA[【not really ASMR】literally reading a book~ soft talking maybe some humming? just getting relaxed]]></title>
     <link href="https://youtu.be/KyzwAjIkppw" rel="alternate" type="text/html"/>
     <published>2026-09-26T14:51:22.000Z</published>
-    <updated>2026-09-26T17:00:00.000Z</updated>
+    <updated>2026-09-26T17:09:50.000Z</updated>
     <author>
       <name>Cecilia Immergreen Ch. hololive</name>
       <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KyzwAjIkppw 【LIVE on &lt;t:1790442000:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KyzwAjIkppw 【LIVE on &lt;t:1790442590:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KyzwAjIkppw/maxresdefault.jpg"/>
   </entry>
 
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oi9gTqkpcdU 【LIVE on &lt;t:1790483400:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oi9gTqkpcdU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4db4dda1-526c-5dda-858f-bfa8c37e52e7</id>
+    <title><![CDATA[騒げ★ぐるぐるTIME!]]></title>
+    <link href="https://youtu.be/1X1cUk9hyco" rel="alternate" type="text/html"/>
+    <published>2026-09-25T15:02:36.000Z</published>
+    <updated>2026-09-25T15:02:36.000Z</updated>
+    <author>
+      <name>アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCAHwWUotyS3l2qBetFDsjgQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1X1cUk9hyco 【LIVE on &lt;t:1790348556:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1X1cUk9hyco/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -773,34 +787,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=oHz1g-AmrwU 【LIVE on &lt;t:1789052423:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/oHz1g-AmrwU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b8a979d5-108e-5b53-8312-9453b13a8fee</id>
-    <title><![CDATA[Go Wild]]></title>
-    <link href="https://youtu.be/hHJ_xZyphdE" rel="alternate" type="text/html"/>
-    <published>2026-09-10T15:00:03.000Z</published>
-    <updated>2026-09-10T15:00:03.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hHJ_xZyphdE 【LIVE on &lt;t:1789052403:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hHJ_xZyphdE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:60c783af-ea63-5aca-b977-fdb140b8c306</id>
-    <title><![CDATA[らでんの旅ぷらん]]></title>
-    <link href="https://youtu.be/TVU-0uDK4ys" rel="alternate" type="text/html"/>
-    <published>2026-09-10T15:00:02.000Z</published>
-    <updated>2026-09-10T15:00:02.000Z</updated>
-    <author>
-      <name>Raden Ch. 儒烏風亭らでん ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=TVU-0uDK4ys 【LIVE on &lt;t:1789052402:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TVU-0uDK4ys/maxresdefault.jpg"/>
   </entry>
 
   <entry>
