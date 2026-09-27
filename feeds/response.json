@@ -1,13 +1,32 @@
 [
   {
+    "id": "9akgdWHRSCk",
+    "title": "【歌枠】うたっちゃおー!【轟はじめ/ReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-27T05:21:03.000Z",
+    "available_at": "2026-09-27T09:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/IwEr_84NWbwSIRj6ZG3pt0yBieCqPcUwG978KkMw1HiVtorKvHhX3ZaLqOndMAfSU8S9aJw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
     "id": "xlzjpOkwluw",
     "title": "Not my greatest idea | Walking Pad Unarchived karaoke",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-27T03:43:05.000Z",
     "available_at": "2026-09-27T03:47:27.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 5228,
+    "status": "past",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive",
@@ -3231,25 +3250,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "eFkylhywqKU",
-    "title": "【Unarchived Karaoke】Woohooo and there's an announcement yayyy",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-08-20T22:59:58.000Z",
-    "available_at": "2026-08-21T01:06:35.000Z",
-    "duration": 10500,
-    "status": "missing",
-    "channel": {
-      "id": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "name": "Ouro Kronii Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XxF6c2VtpdbRdLcldz5jp05FQY_JTfOXeVd8osfAZsxODIanpt0ymcn_6nitwydHNGek46cfZ04=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ouro Kronii"
     }
   },
   {
