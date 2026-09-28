@@ -1,5 +1,24 @@
 [
   {
+    "id": "11VKhxkxlDs",
+    "title": "【ホロドリ】『PARADISE！』hololive IDOL PROJECT (Official Music Video)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-09-28T11:00:06.000Z",
+    "available_at": "2026-09-28T11:00:06.000Z",
+    "duration": 128,
+    "status": "past",
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
+    }
+  },
+  {
     "id": "31nx6HKpxhQ",
     "title": "ホントノワタシ/風真いろは(official)",
     "type": "stream",
@@ -19,33 +38,17 @@
     }
   },
   {
-    "id": "11VKhxkxlDs",
-    "title": "【ホロドリ】『PARADISE!』hololive IDOL PROJECT (Official Music Video)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-09-28T07:09:32.000Z",
-    "available_at": "2026-09-28T11:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCawGfU44CZxd2ZVf_VGijbA",
-      "name": "hololive Dreams ホロライブドリームス",
-      "org": "Hololive",
-      "suborg": "w_Misc",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "hololive Dreams"
-    }
-  },
-  {
     "id": "hZHAzSPjXpE",
     "title": "【歌枠】十八番ソングを歌います♪【宙科そぴあ/ホロライブ/アソビ★まわり隊!】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-27T17:37:34.000Z",
-    "available_at": "2026-09-28T11:00:00.000Z",
+    "available_at": "2026-09-28T11:00:55.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 11
+    },
     "channel": {
       "id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "name": "Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!",
@@ -338,9 +341,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-09-24T16:03:15.000Z",
-    "available_at": "2026-09-28T11:00:00.000Z",
+    "available_at": "2026-09-28T10:58:39.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
       "name": "Hakos Baelz Ch. hololive",

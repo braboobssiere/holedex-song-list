@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-28T10:56:27.570Z</updated>
+  <updated>2026-09-28T11:26:21.867Z</updated>
+
+  <entry>
+    <id>urn:uuid:aa4a2b74-db18-59ba-95c3-80fd14358048</id>
+    <title><![CDATA[【ホロドリ】『PARADISE！』hololive IDOL PROJECT (Official Music Video)]]></title>
+    <link href="https://youtu.be/11VKhxkxlDs" rel="alternate" type="text/html"/>
+    <published>2026-09-28T11:00:06.000Z</published>
+    <updated>2026-09-28T11:00:06.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=11VKhxkxlDs 【LIVE on &lt;t:1790593206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11VKhxkxlDs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:d5d29232-fc1c-5b3c-a482-530cdcc527a8</id>
@@ -20,30 +34,16 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:aa4a2b74-db18-59ba-95c3-80fd14358048</id>
-    <title><![CDATA[【ホロドリ】『PARADISE!』hololive IDOL PROJECT (Official Music Video)]]></title>
-    <link href="https://youtu.be/11VKhxkxlDs" rel="alternate" type="text/html"/>
-    <published>2026-09-28T07:09:32.000Z</published>
-    <updated>2026-09-28T11:00:00.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=11VKhxkxlDs 【LIVE on &lt;t:1790593200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11VKhxkxlDs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e9e14952-8eeb-5051-aed1-84fa1159ccae</id>
     <title><![CDATA[【歌枠】十八番ソングを歌います♪【宙科そぴあ/ホロライブ/アソビ★まわり隊!】]]></title>
     <link href="https://youtu.be/hZHAzSPjXpE" rel="alternate" type="text/html"/>
     <published>2026-09-27T17:37:34.000Z</published>
-    <updated>2026-09-28T11:00:00.000Z</updated>
+    <updated>2026-09-28T11:00:55.000Z</updated>
     <author>
       <name>Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!</name>
       <uri>https://www.youtube.com/channel/UCROQtXcp2loQEmvpe5rhJzQ</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hZHAzSPjXpE 【LIVE on &lt;t:1790593200:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hZHAzSPjXpE 【LIVE on &lt;t:1790593255:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZHAzSPjXpE/maxresdefault.jpg"/>
   </entry>
 
