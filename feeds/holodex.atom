@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-28T10:26:28.893Z</updated>
+  <updated>2026-09-28T10:56:27.570Z</updated>
 
   <entry>
     <id>urn:uuid:d5d29232-fc1c-5b3c-a482-530cdcc527a8</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=31nx6HKpxhQ 【LIVE on &lt;t:1790589609:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/31nx6HKpxhQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aa4a2b74-db18-59ba-95c3-80fd14358048</id>
+    <title><![CDATA[【ホロドリ】『PARADISE!』hololive IDOL PROJECT (Official Music Video)]]></title>
+    <link href="https://youtu.be/11VKhxkxlDs" rel="alternate" type="text/html"/>
+    <published>2026-09-28T07:09:32.000Z</published>
+    <updated>2026-09-28T11:00:00.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=11VKhxkxlDs 【LIVE on &lt;t:1790593200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11VKhxkxlDs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
