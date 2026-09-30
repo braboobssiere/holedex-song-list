@@ -186,47 +186,9 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-09-29T00:36:05.000Z",
-    "available_at": "2026-09-30T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "FSBDWLjyLvk",
-    "title": "24 hour #Birthdurance | Part 4【MINECRAFT】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-09-29T00:30:37.000Z",
-    "available_at": "2026-09-30T08:21:54.000Z",
+    "available_at": "2026-09-30T12:11:05.000Z",
     "duration": 0,
     "status": "live",
-    "channel": {
-      "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
-      "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
-      "org": "Hololive",
-      "suborg": "oeHOLOSTARS English -ARMIS-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/oOudWIrMa-vuBgBZmxfD-ckb9F8indUDW_aoRF5Ikm2wOFitakpZITg4a7QsO5vwam_bH2xd=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Crimzon Ruze"
-    }
-  },
-  {
-    "id": "Xo0GB3pISss",
-    "title": "24 hour #Birthdurance | Part 3【PARTY TIME】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-09-29T00:12:16.000Z",
-    "available_at": "2026-09-30T04:55:17.000Z",
-    "duration": 12203,
-    "status": "past",
     "channel": {
       "id": "UCajbFh6e_R8QZdHAMbbi4rQ",
       "name": "Crimzon Ruze Ch. HOLOSTARS-EN",
@@ -5466,6 +5428,25 @@
     }
   },
   {
+    "id": "LRiJcTQU9QQ",
+    "title": "【もうすぐ誕生日】みんなと一緒に迎える誕生日!カウントダウン!!!【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-30T15:42:02.000Z",
+    "available_at": "2026-06-30T14:30:53.000Z",
+    "duration": 4006,
+    "status": "past",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "uaw3z_PB7cQ",
     "title": "【#ホロボドゲ部】しりとりを閃け!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
     "type": "stream",
@@ -5482,6 +5463,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "J8mbBLhTNaM",
+    "title": "【#BirthdayKoi2026】2 - Shinri's Spooky Summer Soiree!",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-06-26T06:21:11.000Z",
+    "available_at": "2026-06-26T02:56:54.000Z",
+    "duration": 11712,
+    "status": "past",
+    "channel": {
+      "id": "UCMqGG8BRAiI1lJfKOpETM_w",
+      "name": "Josuiji Shinri Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/GkDmDWOfKfFkcVmG3-ECCRMeFR4bXlWBvuGO3xu3Ud68kVTWssXpn5q266BmtXvcHuzc5Ib2iFQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Josuiji Shinri"
     }
   },
   {
