@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-09-30T08:26:33.292Z</updated>
+  <updated>2026-09-30T08:56:23.740Z</updated>
 
   <entry>
     <id>urn:uuid:17a9eb2c-8d42-59fb-ab63-0c44f0e43896</id>
@@ -118,6 +118,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:e9e14952-8eeb-5051-aed1-84fa1159ccae</id>
+    <title><![CDATA[【初歌枠】十八番ソングを歌います♪【宙科そぴあ/ホロライブ/アソビ★まわり隊!】]]></title>
+    <link href="https://youtu.be/hZHAzSPjXpE" rel="alternate" type="text/html"/>
+    <published>2026-09-28T12:52:03.000Z</published>
+    <updated>2026-09-28T11:00:55.000Z</updated>
+    <author>
+      <name>Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCROQtXcp2loQEmvpe5rhJzQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hZHAzSPjXpE 【LIVE on &lt;t:1790593255:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZHAzSPjXpE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:aa4a2b74-db18-59ba-95c3-80fd14358048</id>
     <title><![CDATA[【ホロドリ】『PARADISE!』hololive IDOL PROJECT (Official Music Video)]]></title>
     <link href="https://youtu.be/11VKhxkxlDs" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=31nx6HKpxhQ 【LIVE on &lt;t:1790589609:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/31nx6HKpxhQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e9e14952-8eeb-5051-aed1-84fa1159ccae</id>
-    <title><![CDATA[【初歌枠】十八番ソングを歌います♪【宙科そぴあ/ホロライブ/アソビ★まわり隊！】]]></title>
-    <link href="https://youtu.be/hZHAzSPjXpE" rel="alternate" type="text/html"/>
-    <published>2026-09-27T17:37:34.000Z</published>
-    <updated>2026-09-28T11:00:55.000Z</updated>
-    <author>
-      <name>Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!</name>
-      <uri>https://www.youtube.com/channel/UCROQtXcp2loQEmvpe5rhJzQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hZHAzSPjXpE 【LIVE on &lt;t:1790593255:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hZHAzSPjXpE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
