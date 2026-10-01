@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "asmr",
     "published_at": "2026-10-01T02:33:57.000Z",
-    "available_at": "2026-10-01T10:00:00.000Z",
+    "available_at": "2026-10-01T09:59:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCK9V2B22uJYu3N7eR_BT9QA",
       "name": "Polka Ch. 尾丸ポルカ",
@@ -80,6 +80,26 @@
     }
   },
   {
+    "id": "aPA_5mR3llY",
+    "title": "【歌枠】たくさん歌っていたけど、歌枠は久しぶりです🎤【ホロライブ/大神ミオ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-09-30T09:15:15.000Z",
+    "available_at": "2026-09-29T12:01:09.000Z",
+    "duration": 4425,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ",
+      "org": "Hololive",
+      "suborg": "d_GAMERS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ookami Mio"
+    }
+  },
+  {
     "id": "lNPh7CdwkWk",
     "title": "【#戌神ころね生誕祭2026】2026年度！！誕生日カウントダウンするぞ～🍰【戌神ころね】",
     "type": "stream",
@@ -107,9 +127,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-09-30T02:30:30.000Z",
-    "available_at": "2026-10-01T10:00:00.000Z",
+    "available_at": "2026-10-01T09:59:05.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC8eitCE9Z6EwUCs-VUi1blg",
       "name": "Mela Ch. 熱千めら‐ アソビ★まわり隊!",
@@ -241,26 +261,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "aPA_5mR3llY",
-    "title": "【歌枠】たくさん歌っていたけど、歌枠は久しぶりです🎤【ホロライブ/大神ミオ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-29T09:20:08.000Z",
-    "available_at": "2026-09-29T12:01:09.000Z",
-    "duration": 4721,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCp-5t9SrOQwXMU7iIjQfARg",
-      "name": "Mio Channel 大神ミオ",
-      "org": "Hololive",
-      "suborg": "d_GAMERS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Ookami Mio"
     }
   },
   {
