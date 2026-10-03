@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-03T17:56:26.137Z</updated>
+  <updated>2026-10-03T18:26:24.030Z</updated>
 
   <entry>
     <id>urn:uuid:cfad6173-7c1e-51e7-8529-e4d7e5318b71</id>
@@ -59,6 +59,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-2PukiIw3qg 【LIVE on &lt;t:1791112800:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-2PukiIw3qg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3f9d875c-d3c3-5da2-b1a0-26474124c22e</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】盛り上がってこーーー!!!!【百灯キョーコ/ホロライブ/アソビ★まわり隊!】]]></title>
+    <link href="https://youtu.be/qZ3kwg_7Zvk" rel="alternate" type="text/html"/>
+    <published>2026-10-02T06:36:24.000Z</published>
+    <updated>2026-10-04T12:00:00.000Z</updated>
+    <author>
+      <name>Kyoko Ch. 百灯キョーコ ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCSjQDxud2HkAO2DVD3lwxmw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qZ3kwg_7Zvk 【LIVE on &lt;t:1791115200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ3kwg_7Zvk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:88fa720b-362d-58cf-97e1-06bd3b828f20</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ!!!【ホロライブ/アソビ★まわり隊!/熱千めら】]]></title>
+    <link href="https://youtu.be/WBgYlpUP0zc" rel="alternate" type="text/html"/>
+    <published>2026-10-02T06:20:14.000Z</published>
+    <updated>2026-10-04T12:20:00.000Z</updated>
+    <author>
+      <name>Mela Ch. 熱千めら‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UC8eitCE9Z6EwUCs-VUi1blg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WBgYlpUP0zc 【LIVE on &lt;t:1791116400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WBgYlpUP0zc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
