@@ -1,5 +1,24 @@
 [
   {
+    "id": "vbSzq1qClNE",
+    "title": "【歌枠】リレーに紛れる1期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-03T17:38:26.000Z",
+    "available_at": "2026-10-04T13:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "Kcgj7JSSHvE",
     "title": "Nerissa - Sweet My Love【original song】",
     "type": "stream",
@@ -8,6 +27,7 @@
     "available_at": "2026-10-03T01:00:11.000Z",
     "duration": 278,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive",
@@ -2989,26 +3009,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/1aoKeoCGzuD7XK2U8nUIHfpynIOLecHxF7Adh09XshlrL9kne2uKGOllFcoA2iXBVVe51_V6E48=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Elizabeth Rose Bloodflame"
-    }
-  },
-  {
-    "id": "SdHUGp6oNW4",
-    "title": "【熱唱】私の歌声を届けたい。【 #UNIT_B / #清澄ライラ 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-01T12:49:31.000Z",
-    "available_at": "2026-09-01T10:59:44.000Z",
-    "duration": 5431,
-    "status": "past",
-    "songcount": 12,
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
     }
   },
   {
