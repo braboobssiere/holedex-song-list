@@ -162,9 +162,10 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-02T10:50:46.000Z",
-    "available_at": "2026-10-04T11:40:00.000Z",
+    "available_at": "2026-10-04T11:40:03.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "songcount": 2,
     "channel": {
       "id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "name": "Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!",
@@ -177,13 +178,17 @@
   },
   {
     "id": "-2PukiIw3qg",
-    "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ!【宙科そぴあ/ホロライブ/アソビ★まわり隊!】",
+    "title": "【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-02T06:39:07.000Z",
     "available_at": "2026-10-04T11:19:34.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 1231,
+    "status": "past",
+    "songcount": 4,
+    "live_tl_count": {
+      "en": 6
+    },
     "channel": {
       "id": "UCROQtXcp2loQEmvpe5rhJzQ",
       "name": "Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!",
