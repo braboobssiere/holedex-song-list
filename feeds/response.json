@@ -5,9 +5,13 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-04T13:42:50.000Z",
-    "available_at": "2026-10-04T14:00:00.000Z",
+    "available_at": "2026-10-04T14:02:54.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 27,
+      "ko": 25
+    },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
       "name": "SoraCh. ときのそらチャンネル",
@@ -58,13 +62,13 @@
   },
   {
     "id": "vbSzq1qClNE",
-    "title": "【歌枠】リレーに紛れる1期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
+    "title": "【歌枠】リレーに紛れる１期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】",
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-03T17:38:26.000Z",
     "available_at": "2026-10-04T13:00:58.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3957,
+    "status": "past",
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
