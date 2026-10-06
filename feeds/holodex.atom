@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-06T07:56:19.800Z</updated>
+  <updated>2026-10-06T08:26:26.756Z</updated>
 
   <entry>
     <id>urn:uuid:f1e5b84f-1829-5b98-b49e-5763269da5fb</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=NfG4zsc_Geo 【LIVE on &lt;t:1791207009:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NfG4zsc_Geo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d1bdc889-18b7-5d04-b18f-eebf4acebdcd</id>
+    <title><![CDATA[【#白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】]]></title>
+    <link href="https://youtu.be/OaUf00UG6sQ" rel="alternate" type="text/html"/>
+    <published>2026-10-04T15:28:00.000Z</published>
+    <updated>2026-10-04T14:49:28.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OaUf00UG6sQ 【LIVE on &lt;t:1791125368:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OaUf00UG6sQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=fvBAsGLCq1c 【LIVE on &lt;t:1791111549:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fvBAsGLCq1c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d1bdc889-18b7-5d04-b18f-eebf4acebdcd</id>
-    <title><![CDATA[【#白上フブキ生誕2026】お誕生日のカウントダウンをする【ホロライブ/白上フブキ】]]></title>
-    <link href="https://youtu.be/OaUf00UG6sQ" rel="alternate" type="text/html"/>
-    <published>2026-10-04T02:54:50.000Z</published>
-    <updated>2026-10-04T14:49:28.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=OaUf00UG6sQ 【LIVE on &lt;t:1791125368:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OaUf00UG6sQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
