@@ -70,6 +70,7 @@
     "available_at": "2026-10-06T11:30:34.000Z",
     "duration": 3667,
     "status": "past",
+    "songcount": 8,
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
@@ -150,6 +151,7 @@
     "available_at": "2026-10-07T10:00:00.000Z",
     "duration": 0,
     "status": "upcoming",
+    "songcount": 1,
     "channel": {
       "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
       "name": "Watame Ch. 角巻わため",
@@ -192,6 +194,29 @@
     "status": "past",
     "songcount": 1,
     "original_channel_id": "UCYOX2W_9yOSgG_KTJLwCepQ",
+    "channel": {
+      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Shirakami Fubuki"
+    }
+  },
+  {
+    "id": "62AgiXDP3tU",
+    "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-10-05T13:52:07.000Z",
+    "available_at": "2026-10-05T12:01:05.000Z",
+    "duration": 3206,
+    "status": "past",
+    "songcount": 11,
+    "live_tl_count": {
+      "en": 16
+    },
     "channel": {
       "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
       "name": "フブキCh。白上フブキ",
@@ -569,29 +594,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SlCos_lnLDMWGDChJ7do9xTh4LsfXM6oKPGJqOmueHk8JMaHxxc2Y6-axY9ddMik95ATJgp5EQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Jurard T Rexford"
-    }
-  },
-  {
-    "id": "62AgiXDP3tU",
-    "title": "【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-10-02T08:52:10.000Z",
-    "available_at": "2026-10-05T12:01:05.000Z",
-    "duration": 3206,
-    "status": "past",
-    "songcount": 11,
-    "live_tl_count": {
-      "en": 16
-    },
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
