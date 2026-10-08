@@ -1,5 +1,24 @@
 [
   {
+    "id": "yGaeRFePsWs",
+    "title": "うた",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-08T18:15:17.000Z",
+    "available_at": "2026-10-08T18:19:49.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "50C6XFeSIBg",
     "title": "Rewrite the Answer",
     "type": "stream",
@@ -2962,26 +2981,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/6aFGCylqMMh3ouhXoi_qkWJDO10HoWqpA-2wy6a3g0MWGepsRToWn0q-OvCbmkVX7lDWV3zt=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Juufuutei Raden"
-    }
-  },
-  {
-    "id": "HG6L6rSwkqA",
-    "title": "【 歌枠 】ダークな曲多めの歌を歌っていきますわよ!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-07T10:50:22.000Z",
-    "available_at": "2026-09-07T09:30:36.000Z",
-    "duration": 4298,
-    "status": "past",
-    "songcount": 13,
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
