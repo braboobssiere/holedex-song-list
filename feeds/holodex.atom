@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-08T11:26:30.715Z</updated>
+  <updated>2026-10-08T11:56:26.607Z</updated>
 
   <entry>
     <id>urn:uuid:9048e80c-5cc2-50ec-b24f-50f3b183426f</id>
@@ -171,90 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=zP9ieFhlgcQ 【LIVE on &lt;t:1791455359:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zP9ieFhlgcQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e9d9a947-7c27-5898-b134-cbc0cec709cd</id>
-    <title><![CDATA[蜩-HIGURASHI-]]></title>
-    <link href="https://youtu.be/95IwyhtgnR4" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:04:31.000Z</published>
-    <updated>2026-10-08T10:04:31.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=95IwyhtgnR4 【LIVE on &lt;t:1791453871:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/95IwyhtgnR4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:eeff2fe8-84b4-5f16-beeb-3d57ddf27c48</id>
-    <title><![CDATA[狐ノ窓]]></title>
-    <link href="https://youtu.be/A8bOJp-w4cE" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:04:00.000Z</published>
-    <updated>2026-10-08T10:04:00.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=A8bOJp-w4cE 【LIVE on &lt;t:1791453840:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/A8bOJp-w4cE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ebfa76e0-da18-5f43-9493-cc2567728dfd</id>
-    <title><![CDATA[紫陽花]]></title>
-    <link href="https://youtu.be/5uWrZto9PF0" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:03:37.000Z</published>
-    <updated>2026-10-08T10:03:37.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5uWrZto9PF0 【LIVE on &lt;t:1791453817:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5uWrZto9PF0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3d33a8e5-0b27-578d-b821-0f80f8e5a5fa</id>
-    <title><![CDATA[悉皆]]></title>
-    <link href="https://youtu.be/fr31l3JBmqc" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:02:43.000Z</published>
-    <updated>2026-10-08T10:02:43.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=fr31l3JBmqc 【LIVE on &lt;t:1791453763:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fr31l3JBmqc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f4dcab47-b527-5733-8d66-d50eb5d4124a</id>
-    <title><![CDATA[カミソリ]]></title>
-    <link href="https://youtu.be/9J_peF59rZo" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:02:23.000Z</published>
-    <updated>2026-10-08T10:02:23.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9J_peF59rZo 【LIVE on &lt;t:1791453743:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9J_peF59rZo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d226c6e3-8294-5ba6-9af8-e06d04fcae5d</id>
-    <title><![CDATA[月華]]></title>
-    <link href="https://youtu.be/gkGqhPxXkd4" rel="alternate" type="text/html"/>
-    <published>2026-10-08T10:01:31.000Z</published>
-    <updated>2026-10-08T10:01:31.000Z</updated>
-    <author>
-      <name>Nakiri Ayame Ch. 百鬼あやめ</name>
-      <uri>https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gkGqhPxXkd4 【LIVE on &lt;t:1791453691:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gkGqhPxXkd4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -916,6 +832,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:bcc1df6b-6a63-5b34-a051-ba4eea84c34f</id>
+    <title><![CDATA[【ホロドリ】『リーサルドーズ・パラノイド』ラプラス・ダークネス (Full ver.)]]></title>
+    <link href="https://youtu.be/7-2tSQYbdI0" rel="alternate" type="text/html"/>
+    <published>2026-09-23T12:00:29.000Z</published>
+    <updated>2026-09-23T12:00:29.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7-2tSQYbdI0 【LIVE on &lt;t:1790164829:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7-2tSQYbdI0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:5ce3eb1c-196f-51aa-a5f1-ff6464b26393</id>
     <title><![CDATA[【歌枠】第136回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/KK1s6V3r-zA" rel="alternate" type="text/html"/>
@@ -944,6 +874,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:253c0fab-ca69-5cb8-88af-d2ff75b28647</id>
+    <title><![CDATA[スキ⇄スキ☆うろぼろす]]></title>
+    <link href="https://youtu.be/z3vft8VKyls" rel="alternate" type="text/html"/>
+    <published>2026-09-22T10:00:30.000Z</published>
+    <updated>2026-09-22T10:00:30.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=z3vft8VKyls 【LIVE on &lt;t:1790071230:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z3vft8VKyls/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:15567964-2b44-5a6d-980b-e3406729fd7a</id>
+    <title><![CDATA[【ホロドリ】『リーサルドーズ・パラノイド』ラプラス・ダークネス (Official Music Video)]]></title>
+    <link href="https://youtu.be/3iTM2nBOc1k" rel="alternate" type="text/html"/>
+    <published>2026-09-22T09:00:28.000Z</published>
+    <updated>2026-09-22T09:00:28.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3iTM2nBOc1k 【LIVE on &lt;t:1790067628:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3iTM2nBOc1k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9141cbb8-e630-5614-8749-ff48f7e26952</id>
     <title><![CDATA[【ASMR】新人スパニスト、初出勤です!はじめてのお客様はあ・な・た💗【#ひなみ通信】]]></title>
     <link href="https://youtu.be/nG6WKzqosk4" rel="alternate" type="text/html"/>
@@ -955,6 +913,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=nG6WKzqosk4 【LIVE on &lt;t:1789999242:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nG6WKzqosk4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bfa2398e-da96-57b2-9922-d8a2394893fa</id>
+    <title><![CDATA[【ホロドリ】『Glitch Through』Shiori Novella (Full ver.)]]></title>
+    <link href="https://youtu.be/9BMxcO7IrAA" rel="alternate" type="text/html"/>
+    <published>2026-09-21T12:00:28.000Z</published>
+    <updated>2026-09-21T12:00:28.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9BMxcO7IrAA 【LIVE on &lt;t:1789992028:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9BMxcO7IrAA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:cd3ff198-15ee-5986-97ce-b758c28fc4ef</id>
+    <title><![CDATA[【MV】Watcha Gatcha!!!!!!!! / ねぽらぼ × 秘密結社holoX【#ねぽっくす】]]></title>
+    <link href="https://youtu.be/iSQYbf9XFg8" rel="alternate" type="text/html"/>
+    <published>2026-09-21T11:24:21.000Z</published>
+    <updated>2026-09-21T11:24:21.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=iSQYbf9XFg8 【LIVE on &lt;t:1789989861:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iSQYbf9XFg8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
