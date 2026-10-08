@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-08T14:56:34.936Z</updated>
+  <updated>2026-10-08T15:26:23.030Z</updated>
+
+  <entry>
+    <id>urn:uuid:deae17c2-c429-5fed-a8f4-6a484f1afd82</id>
+    <title><![CDATA[Rewrite the Answer]]></title>
+    <link href="https://youtu.be/50C6XFeSIBg" rel="alternate" type="text/html"/>
+    <published>2026-10-08T15:04:57.000Z</published>
+    <updated>2026-10-08T15:04:57.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=50C6XFeSIBg 【LIVE on &lt;t:1791471897:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/50C6XFeSIBg/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3ced43bd-d901-5b79-8cc5-19face208037</id>
@@ -941,20 +955,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=9BMxcO7IrAA 【LIVE on &lt;t:1789992028:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9BMxcO7IrAA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:cd3ff198-15ee-5986-97ce-b758c28fc4ef</id>
-    <title><![CDATA[【MV】Watcha Gatcha!!!!!!!! / ねぽらぼ × 秘密結社holoX【#ねぽっくす】]]></title>
-    <link href="https://youtu.be/iSQYbf9XFg8" rel="alternate" type="text/html"/>
-    <published>2026-09-21T11:24:21.000Z</published>
-    <updated>2026-09-21T11:24:21.000Z</updated>
-    <author>
-      <name>hololive ホロライブ - VTuber Group</name>
-      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=iSQYbf9XFg8 【LIVE on &lt;t:1789989861:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/iSQYbf9XFg8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
