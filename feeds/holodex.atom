@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-08T10:56:17.235Z</updated>
+  <updated>2026-10-08T11:26:30.715Z</updated>
+
+  <entry>
+    <id>urn:uuid:9048e80c-5cc2-50ec-b24f-50f3b183426f</id>
+    <title><![CDATA[Rewrite the Answer / 常闇トワ (official)]]></title>
+    <link href="https://youtu.be/yOI1qMpfuRw" rel="alternate" type="text/html"/>
+    <published>2026-10-08T11:00:07.000Z</published>
+    <updated>2026-10-08T11:00:07.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yOI1qMpfuRw 【LIVE on &lt;t:1791457207:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yOI1qMpfuRw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:dbe68a93-bbaf-5479-957b-0dfd934ad593</id>
@@ -899,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UCLliJRLf7U 【LIVE on &lt;t:1790161225:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UCLliJRLf7U/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bcc1df6b-6a63-5b34-a051-ba4eea84c34f</id>
-    <title><![CDATA[【ホロドリ】『リーサルドーズ・パラノイド』ラプラス・ダークネス (Full ver.)]]></title>
-    <link href="https://youtu.be/7-2tSQYbdI0" rel="alternate" type="text/html"/>
-    <published>2026-09-23T12:00:29.000Z</published>
-    <updated>2026-09-23T12:00:29.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7-2tSQYbdI0 【LIVE on &lt;t:1790164829:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7-2tSQYbdI0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
