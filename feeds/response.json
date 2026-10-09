@@ -1,5 +1,24 @@
 [
   {
+    "id": "lAywdxhTGKY",
+    "title": "【UNARCHIVED】SMALL LITTLE KARAOKE",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-09T22:17:13.000Z",
+    "available_at": "2026-10-09T22:27:33.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
+    }
+  },
+  {
     "id": "yGaeRFePsWs",
     "title": "うた",
     "type": "stream",
@@ -3019,29 +3038,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "s-Vc83Kr6lA",
-    "title": "【歌枠】重大告知アリ‼ セトリに隠された告知を探せ⁉歌枠~~~!【博衣こより/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-07T12:23:07.000Z",
-    "available_at": "2026-09-07T10:00:13.000Z",
-    "duration": 8104,
-    "status": "past",
-    "songcount": 8,
-    "live_tl_count": {
-      "en": 214
-    },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
     }
   },
   {
