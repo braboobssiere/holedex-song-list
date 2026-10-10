@@ -1,5 +1,24 @@
 [
   {
+    "id": "cJCd_eCQx9M",
+    "title": "UNCARCHIVED KARAOKE : singing singing",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-10T11:38:09.000Z",
+    "available_at": "2026-10-10T12:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive",
+      "org": "Hololive",
+      "suborg": "kaIndonesia 1st Gen (AREA 15)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/8dYniYG0Fm49TBxwOW39wDzM25P3aAU7r-wecNaOz5a3I1t8dsYbS5OPZXFeHYQpmVRrY9KrSg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ayunda Risu"
+    }
+  },
+  {
     "id": "lZPgy6bHPcQ",
     "title": "フレアグランス / UNIT B（official）",
     "type": "stream",
@@ -556,6 +575,9 @@
     "available_at": "2026-10-10T10:57:53.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 21
+    },
     "channel": {
       "id": "UCa9Y57gfeY0Zro_noHRVrnw",
       "name": "Luna Ch. 姫森ルーナ",
@@ -2791,26 +2813,6 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "lUHDankrXds",
-    "title": "【#holoAdvent OFF-COLLAB KARAOKE in 3D SELF BOOTH】you never need an excuse to jam 🐾 【FUWAMOCO】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-10T04:09:30.000Z",
-    "available_at": "2026-09-10T02:58:16.000Z",
-    "duration": 3923,
-    "status": "past",
-    "songcount": 10,
-    "channel": {
-      "id": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "name": "FUWAMOCO Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Fuwawa & Mococo Abyssgard"
     }
   },
   {
