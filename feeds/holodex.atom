@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-10T14:56:17.449Z</updated>
+  <updated>2026-10-10T15:26:26.660Z</updated>
+
+  <entry>
+    <id>urn:uuid:50f7e0f0-f19f-543e-b3f8-ea2b3bdacba1</id>
+    <title><![CDATA[プリプリプリンセス]]></title>
+    <link href="https://youtu.be/zkQV9IRQfYA" rel="alternate" type="text/html"/>
+    <published>2026-10-10T15:01:11.000Z</published>
+    <updated>2026-10-10T15:01:11.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zkQV9IRQfYA 【LIVE on &lt;t:1791644471:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zkQV9IRQfYA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:283b959e-155d-5b29-af7b-060dcd9d892f</id>
@@ -902,20 +916,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:bcc1df6b-6a63-5b34-a051-ba4eea84c34f</id>
-    <title><![CDATA[【ホロドリ】『リーサルドーズ・パラノイド』ラプラス・ダークネス (Full ver.)]]></title>
-    <link href="https://youtu.be/7-2tSQYbdI0" rel="alternate" type="text/html"/>
-    <published>2026-09-23T12:00:29.000Z</published>
-    <updated>2026-09-23T12:00:29.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=7-2tSQYbdI0 【LIVE on &lt;t:1790164829:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7-2tSQYbdI0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:5ce3eb1c-196f-51aa-a5f1-ff6464b26393</id>
     <title><![CDATA[【歌枠】第136回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/KK1s6V3r-zA" rel="alternate" type="text/html"/>
@@ -941,20 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=kzAwDumsYHc 【LIVE on &lt;t:1790060368:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kzAwDumsYHc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:253c0fab-ca69-5cb8-88af-d2ff75b28647</id>
-    <title><![CDATA[スキ⇄スキ☆うろぼろす]]></title>
-    <link href="https://youtu.be/z3vft8VKyls" rel="alternate" type="text/html"/>
-    <published>2026-09-22T10:00:30.000Z</published>
-    <updated>2026-09-22T10:00:30.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=z3vft8VKyls 【LIVE on &lt;t:1790071230:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/z3vft8VKyls/maxresdefault.jpg"/>
   </entry>
 
   <entry>
