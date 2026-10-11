@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-11T16:56:28.164Z</updated>
+  <updated>2026-10-11T17:26:29.839Z</updated>
 
   <entry>
     <id>urn:uuid:37c0ba0a-d2e7-54a5-b8a2-74d7546c50df</id>
@@ -115,6 +115,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=jCy5SoVLZqo 【LIVE on &lt;t:1791626155:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jCy5SoVLZqo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aa602c5f-26af-58dc-ba9c-c675d060751f</id>
+    <title><![CDATA[音乃瀬奏 - ??? (Official MV)]]></title>
+    <link href="https://youtu.be/LjuKylF4udw" rel="alternate" type="text/html"/>
+    <published>2026-10-09T10:42:25.000Z</published>
+    <updated>2026-10-12T11:00:00.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LjuKylF4udw 【LIVE on &lt;t:1791802800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LjuKylF4udw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -899,20 +913,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=UrLISw5iDWU 【LIVE on &lt;t:1790391315:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UrLISw5iDWU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4db4dda1-526c-5dda-858f-bfa8c37e52e7</id>
-    <title><![CDATA[騒げ★ぐるぐるTIME!]]></title>
-    <link href="https://youtu.be/1X1cUk9hyco" rel="alternate" type="text/html"/>
-    <published>2026-09-25T15:02:36.000Z</published>
-    <updated>2026-09-25T15:02:36.000Z</updated>
-    <author>
-      <name>アソビ★まわり隊!</name>
-      <uri>https://www.youtube.com/channel/UCAHwWUotyS3l2qBetFDsjgQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1X1cUk9hyco 【LIVE on &lt;t:1790348556:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1X1cUk9hyco/maxresdefault.jpg"/>
   </entry>
 
   <entry>
