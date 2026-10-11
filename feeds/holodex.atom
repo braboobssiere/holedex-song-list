@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-11T14:56:30.536Z</updated>
+  <updated>2026-10-11T15:26:22.527Z</updated>
+
+  <entry>
+    <id>urn:uuid:37c0ba0a-d2e7-54a5-b8a2-74d7546c50df</id>
+    <title><![CDATA[RISING 酸]]></title>
+    <link href="https://youtu.be/_Sb7_i3e0sw" rel="alternate" type="text/html"/>
+    <published>2026-10-11T15:00:13.000Z</published>
+    <updated>2026-10-11T15:00:13.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_Sb7_i3e0sw 【LIVE on &lt;t:1791730813:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Sb7_i3e0sw/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:74a3d90c-933d-50fb-bc23-042d12c76e11</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WOZTqdQ6bnE 【LIVE on &lt;t:1791720197:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WOZTqdQ6bnE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2af8dbd4-732d-5b4d-8ff6-e6f7ceee0fa6</id>
+    <title><![CDATA[夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/shtv2FbPF-w" rel="alternate" type="text/html"/>
+    <published>2026-10-11T09:34:31.000Z</published>
+    <updated>2026-10-12T09:15:00.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791796500:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -888,34 +916,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b1148fdb-67bd-5b8a-a4a6-955e0e6edcc1</id>
-    <title><![CDATA[【Official MV】騒げ★ぐるぐるTIME! / アソビ★まわり隊!]]></title>
-    <link href="https://youtu.be/09PC6CQbHeQ" rel="alternate" type="text/html"/>
-    <published>2026-09-25T13:00:09.000Z</published>
-    <updated>2026-09-25T13:00:09.000Z</updated>
-    <author>
-      <name>アソビ★まわり隊!</name>
-      <uri>https://www.youtube.com/channel/UCAHwWUotyS3l2qBetFDsjgQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=09PC6CQbHeQ 【LIVE on &lt;t:1790341209:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/09PC6CQbHeQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:892f62af-ccef-5571-8ac2-f813a85e9de7</id>
-    <title><![CDATA[【ホロドリ】『64.』Anya Melfissa (Full ver.)]]></title>
-    <link href="https://youtu.be/9PSoZY2X3L4" rel="alternate" type="text/html"/>
-    <published>2026-09-25T12:00:11.000Z</published>
-    <updated>2026-09-25T12:00:11.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9PSoZY2X3L4 【LIVE on &lt;t:1790337611:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9PSoZY2X3L4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e1a4fbe6-179f-52e6-9330-c684686dc5fa</id>
     <title><![CDATA[【 歌枠 】どうやらシルバーウィーク最後の日だって?【音乃瀬奏】#ReGLOSS]]></title>
     <link href="https://youtu.be/UCLliJRLf7U" rel="alternate" type="text/html"/>
@@ -1151,20 +1151,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sKnnNqCFEkU 【LIVE on &lt;t:1789048901:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sKnnNqCFEkU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:5761d772-5258-5d24-b94b-6175ca69b5eb</id>
-    <title><![CDATA[【 歌枠 】夏曲歌い納め?みんなとお話ししつつ歌うぞー!✨【 桃鈴ねね / hololive 】]]></title>
-    <link href="https://youtu.be/c-ujFpxFD3k" rel="alternate" type="text/html"/>
-    <published>2026-09-10T10:49:28.000Z</published>
-    <updated>2026-09-10T09:02:07.000Z</updated>
-    <author>
-      <name>Nene Ch.桃鈴ねね</name>
-      <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=c-ujFpxFD3k 【LIVE on &lt;t:1789030927:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c-ujFpxFD3k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
