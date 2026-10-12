@@ -308,9 +308,12 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-10-09T11:15:15.000Z",
-    "available_at": "2026-10-12T10:00:00.000Z",
+    "available_at": "2026-10-12T09:59:11.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 42
+    },
     "channel": {
       "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
       "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
