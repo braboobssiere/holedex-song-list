@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-12T14:56:20.332Z</updated>
+  <updated>2026-10-12T15:26:21.751Z</updated>
+
+  <entry>
+    <id>urn:uuid:95069bc0-e9a2-5833-8588-44c70940f92e</id>
+    <title><![CDATA[アイシカケ]]></title>
+    <link href="https://youtu.be/5L4DDPQCPg0" rel="alternate" type="text/html"/>
+    <published>2026-10-12T15:00:16.000Z</published>
+    <updated>2026-10-12T15:00:16.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5L4DDPQCPg0 【LIVE on &lt;t:1791817216:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5L4DDPQCPg0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:aa602c5f-26af-58dc-ba9c-c675d060751f</id>
@@ -829,20 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=11VKhxkxlDs 【LIVE on &lt;t:1790593206:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/11VKhxkxlDs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d5d29232-fc1c-5b3c-a482-530cdcc527a8</id>
-    <title><![CDATA[ホントノワタシ/風真いろは(official)]]></title>
-    <link href="https://youtu.be/31nx6HKpxhQ" rel="alternate" type="text/html"/>
-    <published>2026-09-28T10:00:09.000Z</published>
-    <updated>2026-09-28T10:00:09.000Z</updated>
-    <author>
-      <name>Iroha ch. 風真いろは - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=31nx6HKpxhQ 【LIVE on &lt;t:1790589609:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/31nx6HKpxhQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
