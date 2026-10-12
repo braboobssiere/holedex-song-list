@@ -1128,9 +1128,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-10-05T11:28:21.000Z",
-    "available_at": "2026-10-12T15:30:00.000Z",
+    "available_at": "2026-10-12T15:29:37.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "ja": 9
+    },
     "channel": {
       "id": "UCYz_5n-uDuChHtLo7My1HnQ",
       "name": "Kureiji Ollie Ch. hololive",
