@@ -38,25 +38,6 @@
     }
   },
   {
-    "id": "z3qd7Kj8Shk",
-    "title": "≪Ollie's Ramen Birthday Party!!≫ HAPPY BIRTHDAY MUM",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-10-12T15:16:29.000Z",
-    "available_at": "2026-10-13T12:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
-    }
-  },
-  {
     "id": "WRC4rUL5ghw",
     "title": "アイシカケ (Instrumental)",
     "type": "stream",
@@ -5477,6 +5458,28 @@
     "duration": 4270,
     "status": "past",
     "songcount": 11,
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
+    "id": "8TcyHoU_Fv8",
+    "title": "【誕生日カウントダウン】一緒に誕生日迎えよう~~~!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-07-07T15:43:42.000Z",
+    "available_at": "2026-07-07T14:01:30.000Z",
+    "duration": 4301,
+    "status": "past",
+    "live_tl_count": {
+      "ja": 4
+    },
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
