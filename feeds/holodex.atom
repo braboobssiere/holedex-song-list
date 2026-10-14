@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-14T03:26:27.421Z</updated>
+  <updated>2026-10-14T03:56:20.323Z</updated>
 
   <entry>
     <id>urn:uuid:2fd498a5-31a8-573d-865d-720ca7f8686d</id>
@@ -48,6 +48,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:2af8dbd4-732d-5b4d-8ff6-e6f7ceee0fa6</id>
+    <title><![CDATA[夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/shtv2FbPF-w" rel="alternate" type="text/html"/>
+    <published>2026-10-12T11:17:30.000Z</published>
+    <updated>2026-10-12T09:02:06.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791795726:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:aa602c5f-26af-58dc-ba9c-c675d060751f</id>
     <title><![CDATA[音乃瀬奏 - アイシカケ (Official MV)]]></title>
     <link href="https://youtu.be/LjuKylF4udw" rel="alternate" type="text/html"/>
@@ -87,20 +101,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WOZTqdQ6bnE 【LIVE on &lt;t:1791720197:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WOZTqdQ6bnE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2af8dbd4-732d-5b4d-8ff6-e6f7ceee0fa6</id>
-    <title><![CDATA[夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/shtv2FbPF-w" rel="alternate" type="text/html"/>
-    <published>2026-10-11T09:34:31.000Z</published>
-    <updated>2026-10-12T09:02:06.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791795726:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
