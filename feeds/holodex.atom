@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-16T07:56:16.491Z</updated>
+  <updated>2026-10-16T08:26:30.765Z</updated>
+
+  <entry>
+    <id>urn:uuid:4560daf4-1e6f-5c84-b0cd-76aa2b70a7d7</id>
+    <title><![CDATA[【歌枠 KARAOKE】75万人耐久【水宮枢/ホロライブDEV_IS】]]></title>
+    <link href="https://youtu.be/MbMHsVK5fcQ" rel="alternate" type="text/html"/>
+    <published>2026-10-16T08:05:52.000Z</published>
+    <updated>2026-10-16T08:06:09.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MbMHsVK5fcQ 【LIVE on &lt;t:1792137969:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MbMHsVK5fcQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:674d5b11-cdf1-56e6-b0e2-2908f03ef92c</id>
@@ -1641,20 +1655,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=6DpoaxkzpzI 【LIVE on &lt;t:1782989992:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6DpoaxkzpzI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:60e7de0d-5cf9-5e93-b1cb-a91c18ee03af</id>
-    <title><![CDATA[【75万人耐久】縦型歌枠 KARAOKE〜❕💙【水宮枢/ホロライブ】]]></title>
-    <link href="https://youtu.be/eC1ZQowie2Y" rel="alternate" type="text/html"/>
-    <published>2026-07-02T07:32:14.000Z</published>
-    <updated>2026-10-16T08:00:00.000Z</updated>
-    <author>
-      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eC1ZQowie2Y 【LIVE on &lt;t:1792137600:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eC1ZQowie2Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
