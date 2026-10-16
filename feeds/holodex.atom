@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-16T05:26:16.537Z</updated>
+  <updated>2026-10-16T05:56:17.201Z</updated>
 
   <entry>
     <id>urn:uuid:e83e68c8-ee5e-580b-818e-52e96280f5ad</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a04b1fad-5af7-54cf-8dfc-4822fa16080d</id>
+    <title><![CDATA[【メン限お試し】KU100❤ASMRで疲れを癒してあげる❤【一条莉々華/hololive ReGLOSS】]]></title>
+    <link href="https://youtu.be/NGqnvza7N-U" rel="alternate" type="text/html"/>
+    <published>2026-10-14T12:13:58.000Z</published>
+    <updated>2026-10-14T12:00:39.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NGqnvza7N-U 【LIVE on &lt;t:1791979239:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NGqnvza7N-U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:59b860aa-7714-52fa-811b-124a4c7cdeae</id>
     <title><![CDATA[【歌枠】KARAOKE]]></title>
     <link href="https://youtu.be/_ZeTBy2v9hE" rel="alternate" type="text/html"/>
@@ -129,20 +143,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FSDwet-B1P8 【LIVE on &lt;t:1791975611:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FSDwet-B1P8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a04b1fad-5af7-54cf-8dfc-4822fa16080d</id>
-    <title><![CDATA[【メン限お試し】KU100❤ASMRで疲れを癒してあげる❤【一条莉々華/hololive ReGLOSS】]]></title>
-    <link href="https://youtu.be/NGqnvza7N-U" rel="alternate" type="text/html"/>
-    <published>2026-10-14T10:15:41.000Z</published>
-    <updated>2026-10-14T12:00:39.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NGqnvza7N-U 【LIVE on &lt;t:1791979239:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NGqnvza7N-U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
