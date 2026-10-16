@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-16T04:56:19.514Z</updated>
+  <updated>2026-10-16T05:26:16.537Z</updated>
 
   <entry>
     <id>urn:uuid:e83e68c8-ee5e-580b-818e-52e96280f5ad</id>
@@ -104,6 +104,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:59b860aa-7714-52fa-811b-124a4c7cdeae</id>
+    <title><![CDATA[【歌枠】KARAOKE]]></title>
+    <link href="https://youtu.be/_ZeTBy2v9hE" rel="alternate" type="text/html"/>
+    <published>2026-10-14T11:46:07.000Z</published>
+    <updated>2026-10-14T10:04:00.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_ZeTBy2v9hE 【LIVE on &lt;t:1791972240:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_ZeTBy2v9hE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ef6e1fbd-03b3-5e39-986e-95f115d9b899</id>
     <title><![CDATA[【original】Candy Candy Midnight/癒月ちょこ【ホロライブ】]]></title>
     <link href="https://youtu.be/FSDwet-B1P8" rel="alternate" type="text/html"/>
@@ -143,20 +157,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hpfbbvQvB-E 【LIVE on &lt;t:1791972219:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hpfbbvQvB-E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:59b860aa-7714-52fa-811b-124a4c7cdeae</id>
-    <title><![CDATA[【歌枠】KARAOKE]]></title>
-    <link href="https://youtu.be/_ZeTBy2v9hE" rel="alternate" type="text/html"/>
-    <published>2026-10-14T10:02:13.000Z</published>
-    <updated>2026-10-14T10:04:00.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_ZeTBy2v9hE 【LIVE on &lt;t:1791972240:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_ZeTBy2v9hE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
