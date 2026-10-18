@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-18T03:26:26.133Z</updated>
+  <updated>2026-10-18T03:56:16.759Z</updated>
+
+  <entry>
+    <id>urn:uuid:e8fb2800-741a-5620-8129-1ace3cc7f0a3</id>
+    <title><![CDATA[【MV】La Mascarade【hololive Promise Original Song】]]></title>
+    <link href="https://youtu.be/FLuj-J_8OrQ" rel="alternate" type="text/html"/>
+    <published>2026-10-18T03:29:07.000Z</published>
+    <updated>2026-10-18T03:29:07.000Z</updated>
+    <author>
+      <name>hololive English</name>
+      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FLuj-J_8OrQ 【LIVE on &lt;t:1792294147:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FLuj-J_8OrQ/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e693cb8e-5859-5cdb-be59-39cf148d38c0</id>
@@ -20,6 +34,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:674d5b11-cdf1-56e6-b0e2-2908f03ef92c</id>
+    <title><![CDATA[【 歌枠 】久しぶりにうたうぞー!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/qv113q2fMZA" rel="alternate" type="text/html"/>
+    <published>2026-10-16T10:16:31.000Z</published>
+    <updated>2026-10-16T09:00:46.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qv113q2fMZA 【LIVE on &lt;t:1792141246:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qv113q2fMZA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:4560daf4-1e6f-5c84-b0cd-76aa2b70a7d7</id>
     <title><![CDATA[【歌枠 KARAOKE】75万人耐久【水宮枢/ホロライブDEV_IS】]]></title>
     <link href="https://youtu.be/MbMHsVK5fcQ" rel="alternate" type="text/html"/>
@@ -31,20 +59,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=MbMHsVK5fcQ 【LIVE on &lt;t:1792137969:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MbMHsVK5fcQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:674d5b11-cdf1-56e6-b0e2-2908f03ef92c</id>
-    <title><![CDATA[【 歌枠 】久しぶりにうたうぞー!【虎金妃笑虎】]]></title>
-    <link href="https://youtu.be/qv113q2fMZA" rel="alternate" type="text/html"/>
-    <published>2026-10-16T07:42:14.000Z</published>
-    <updated>2026-10-16T09:00:46.000Z</updated>
-    <author>
-      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qv113q2fMZA 【LIVE on &lt;t:1792141246:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qv113q2fMZA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -717,20 +731,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=62AgiXDP3tU 【LIVE on &lt;t:1791201665:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/62AgiXDP3tU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:bf3f8cd6-0f46-5aed-8bdb-09e0e9c2bab5</id>
-    <title><![CDATA[FOXXXROOM/白上フブキ(original)]]></title>
-    <link href="https://youtu.be/NfG4zsc_Geo" rel="alternate" type="text/html"/>
-    <published>2026-10-05T13:30:09.000Z</published>
-    <updated>2026-10-05T13:30:09.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=NfG4zsc_Geo 【LIVE on &lt;t:1791207009:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NfG4zsc_Geo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
