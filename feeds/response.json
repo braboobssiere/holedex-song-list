@@ -96,6 +96,25 @@
     }
   },
   {
+    "id": "P4DZ1vl5eX8",
+    "title": "【収益化記念配信リレー/歌枠】みんなへのでっけぇ感謝を込めて歌いますっ!!【宙科そぴあ/ホロライブ/アソビ★まわり隊!】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-16T18:47:44.000Z",
+    "available_at": "2026-10-19T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCROQtXcp2loQEmvpe5rhJzQ",
+      "name": "Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!",
+      "org": "Hololive",
+      "suborg": "gpASOBI★MAWARI-TAI!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YXxYUbMUyZJoaXHM6o6t5DrJKypsgFxrLoQofAa6gUlBpahlVI4fhcskR53XfzDahQkH_PsjaUY=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Sorashina Sopia"
+    }
+  },
+  {
     "id": "XP9Ir9VdF20",
     "title": "空で弾き語り☁️【 #UNIT_B / #清澄ライラ】",
     "type": "stream",
@@ -587,6 +606,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/gv-5tmPSiFipkP01atgnCS6WwdxzUxfermmqGw_UhuDNtRFmbdb2NALcL6rR0LxaM5JX9JhE9g=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yuzuki Choco"
+    }
+  },
+  {
+    "id": "gX9AoYgK46A",
+    "title": "【 #歌うまスンギ歌枠リレー   】【音乃瀬奏】#ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-14T10:08:36.000Z",
+    "available_at": "2026-10-19T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F6JBwH9DTYVbtij80QQ7sisiFWLOBv1MdNopYjU2CrcVSnjXU0ZDLU0XiP6G3LwSyX-B_PZ1-5o=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
     }
   },
   {
@@ -2786,49 +2824,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "ZL0vgsjJkNE",
-    "title": "【オリ曲で採点!】お歌歌っちゃうぞ~!!【ときのそら/ホロライブ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-19T09:15:35.000Z",
-    "available_at": "2026-09-19T07:34:01.000Z",
-    "duration": 5758,
-    "status": "past",
-    "songcount": 16,
-    "live_tl_count": {
-      "en": 120
-    },
-    "channel": {
-      "id": "UCp6993wxpyDPHUpavwDFqgg",
-      "name": "SoraCh. ときのそらチャンネル",
-      "org": "Hololive",
-      "suborg": "0v0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokino Sora"
-    }
-  },
-  {
-    "id": "YsvrZzgtCOk",
-    "title": "深夜の 弾き語り 歌配信【 #奏手イヅル 】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-18T16:56:24.000Z",
-    "available_at": "2026-09-18T15:05:37.000Z",
-    "duration": 6389,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCZgOv3YDEs-ZnZWDYVwJdmA",
-      "name": "Izuru Ch. 奏手イヅル",
-      "org": "Hololive",
-      "suborg": "maHOLOSTARS 1st Gen",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Qs61AtpO3KUdrX8ojVBFPZmLIXK3s5DiLrZ9ub6h2-ym_TckG1oox2Il1L4qOFzjy4wACxncFUQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kanade Izuru"
     }
   },
   {
