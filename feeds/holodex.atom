@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-19T00:56:25.849Z</updated>
+  <updated>2026-10-19T01:26:27.188Z</updated>
 
   <entry>
     <id>urn:uuid:83efc957-fff0-5492-b62e-391d89e4f9cc</id>
@@ -311,6 +311,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=i5GP5VRzB4E 【LIVE on &lt;t:1791896411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i5GP5VRzB4E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f6809fa7-26d1-5687-8e96-7e32a738de3b</id>
+    <title><![CDATA[【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY]]></title>
+    <link href="https://youtu.be/i7PxwGBGIl0" rel="alternate" type="text/html"/>
+    <published>2026-10-13T06:27:42.000Z</published>
+    <updated>2026-10-19T00:58:39.000Z</updated>
+    <author>
+      <name>Gigi Murin Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=i7PxwGBGIl0 【LIVE on &lt;t:1792371519:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i7PxwGBGIl0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
