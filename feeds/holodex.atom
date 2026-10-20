@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-20T23:26:15.114Z</updated>
+  <updated>2026-10-20T23:56:20.854Z</updated>
 
   <entry>
     <id>urn:uuid:14cdf5f0-6acf-5874-a539-8bf43a91b6d6</id>
@@ -202,6 +202,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:33683300-249f-5542-b068-cda21a6e3833</id>
+    <title><![CDATA[空で弾き語り☁️【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/XP9Ir9VdF20" rel="alternate" type="text/html"/>
+    <published>2026-10-19T06:13:11.000Z</published>
+    <updated>2026-10-19T05:01:01.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XP9Ir9VdF20 【LIVE on &lt;t:1792386061:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XP9Ir9VdF20/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:f6809fa7-26d1-5687-8e96-7e32a738de3b</id>
     <title><![CDATA[【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY]]></title>
     <link href="https://youtu.be/i7PxwGBGIl0" rel="alternate" type="text/html"/>
@@ -283,20 +297,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=0-21K73BYWc 【LIVE on &lt;t:1792412965:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0-21K73BYWc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:33683300-249f-5542-b068-cda21a6e3833</id>
-    <title><![CDATA[空で弾き語り☁️【 #UNIT_B / #清澄ライラ】]]></title>
-    <link href="https://youtu.be/XP9Ir9VdF20" rel="alternate" type="text/html"/>
-    <published>2026-10-16T14:02:36.000Z</published>
-    <updated>2026-10-19T05:01:01.000Z</updated>
-    <author>
-      <name>UNIT B (Pre-Debut) - mekPark</name>
-      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=XP9Ir9VdF20 【LIVE on &lt;t:1792386061:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XP9Ir9VdF20/maxresdefault.jpg"/>
   </entry>
 
   <entry>
