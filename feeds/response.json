@@ -194,9 +194,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-20T12:46:44.000Z",
-    "available_at": "2026-10-20T19:00:00.000Z",
+    "available_at": "2026-10-20T19:00:26.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvN5h1ShZtc7nly3pezRayg",
       "name": "Cecilia Immergreen Ch. hololive",
@@ -281,6 +281,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
+    }
+  },
+  {
+    "id": "i7PxwGBGIl0",
+    "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-10-19T02:08:53.000Z",
+    "available_at": "2026-10-19T00:58:39.000Z",
+    "duration": 3741,
+    "status": "past",
+    "songcount": 9,
+    "channel": {
+      "id": "UCDHABijvPBnJm7F-KlNME3w",
+      "name": "Gigi Murin Ch. hololive",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Gigi Murin"
     }
   },
   {
@@ -1086,26 +1106,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/b8EKl_i-e2dinoparyhUJEaRhInlSWwm-dZX0oIq-x1mUvQga530G_PIdutlSNkGKEAyX9aaBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Sakura Miko"
-    }
-  },
-  {
-    "id": "i7PxwGBGIl0",
-    "title": "【3D BIRTHDAY LIVE】GIGI ROOM PARTY!! YOU'RE INVITED!! #GGROOMPARTY",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-10-13T06:27:42.000Z",
-    "available_at": "2026-10-19T00:58:39.000Z",
-    "duration": 3727,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCDHABijvPBnJm7F-KlNME3w",
-      "name": "Gigi Murin Ch. hololive",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Gigi Murin"
     }
   },
   {
