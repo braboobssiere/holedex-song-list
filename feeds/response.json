@@ -42,9 +42,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-20T19:00:50.000Z",
-    "available_at": "2026-10-21T12:00:00.000Z",
+    "available_at": "2026-10-21T11:59:33.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 9
+    },
     "channel": {
       "id": "UCy9mgxB8pn2C4aNK_MPthDQ",
       "name": "Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!",
