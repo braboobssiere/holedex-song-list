@@ -1,5 +1,24 @@
 [
   {
+    "id": "fLicfFnhb1k",
+    "title": "【歌枠 / 告知あり】歌って告知!!!!!最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-23T16:14:17.000Z",
+    "available_at": "2026-10-24T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
+    }
+  },
+  {
     "id": "AZvVbDcSaEY",
     "title": "ゾンビゾンビゾンビ",
     "type": "stream",
@@ -18,6 +37,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ytc/AIdro_kLDBK5ksSvk5-XJ6S8e0kWfjy7mVl3jyUkgDeMQ7rlCpU=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hoshimachi Suisei"
+    }
+  },
+  {
+    "id": "3BEzO_E1aMo",
+    "title": "【ホロドリ】『アマリリス』獅白ぼたん (Full ver.)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-10-23T12:00:18.000Z",
+    "available_at": "2026-10-23T12:00:18.000Z",
+    "duration": 243,
+    "status": "past",
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
     }
   },
   {
@@ -1879,27 +1917,6 @@
     }
   },
   {
-    "id": "50C6XFeSIBg",
-    "title": "Rewrite the Answer",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-10-08T15:04:57.000Z",
-    "available_at": "2026-10-08T15:04:57.000Z",
-    "duration": 199,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCL6zH0jSt3-2MqzAZ1ciUAw",
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
-    }
-  },
-  {
     "id": "nR7YhNhQb-E",
     "title": "【耐久】75.1万人目指して!!新アプリ『hololive raku』で歌う!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
     "type": "stream",
@@ -2820,26 +2837,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/3DKslDQ-fYLyIA5WNS3cl3Hesu6QRWD74C1kU1MYgoLtzenCSdkz1H4mOmFJ3HT_3ZlhNfFR=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Yakumo Beni"
-    }
-  },
-  {
-    "id": "raT1xwkbxlY",
-    "title": "【歌枠 / karaoke】一旦リハビリで歌いながらゲーム探そう/ アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-09-24T14:46:19.000Z",
-    "available_at": "2026-09-24T11:32:10.000Z",
-    "duration": 5559,
-    "status": "past",
-    "songcount": 9,
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
