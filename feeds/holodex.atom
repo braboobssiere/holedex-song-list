@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-27T14:26:28.790Z</updated>
+  <updated>2026-10-27T14:56:28.372Z</updated>
 
   <entry>
     <id>urn:uuid:eccb9368-83ef-5314-959b-263ae8ef2783</id>
@@ -580,20 +580,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:e8fb2800-741a-5620-8129-1ace3cc7f0a3</id>
-    <title><![CDATA[【MV】La Mascarade【hololive Promise Original Song】]]></title>
-    <link href="https://youtu.be/FLuj-J_8OrQ" rel="alternate" type="text/html"/>
-    <published>2026-10-18T03:29:07.000Z</published>
-    <updated>2026-10-18T03:29:07.000Z</updated>
-    <author>
-      <name>hololive English</name>
-      <uri>https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=FLuj-J_8OrQ 【LIVE on &lt;t:1792294147:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FLuj-J_8OrQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:e693cb8e-5859-5cdb-be59-39cf148d38c0</id>
     <title><![CDATA[Karaoke or Stand Up Comedy?]]></title>
     <link href="https://youtu.be/HoKQmoJExkE" rel="alternate" type="text/html"/>
@@ -843,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791795726:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aa602c5f-26af-58dc-ba9c-c675d060751f</id>
+    <title><![CDATA[音乃瀬奏 - アイシカケ (Official MV)]]></title>
+    <link href="https://youtu.be/LjuKylF4udw" rel="alternate" type="text/html"/>
+    <published>2026-10-12T11:00:09.000Z</published>
+    <updated>2026-10-12T11:00:09.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LjuKylF4udw 【LIVE on &lt;t:1791802809:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LjuKylF4udw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
