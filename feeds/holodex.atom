@@ -3,7 +3,77 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-27T09:56:26.925Z</updated>
+  <updated>2026-10-27T10:26:21.089Z</updated>
+
+  <entry>
+    <id>urn:uuid:eccb9368-83ef-5314-959b-263ae8ef2783</id>
+    <title><![CDATA[マルゴトミライ]]></title>
+    <link href="https://youtu.be/kpMgniQvIEM" rel="alternate" type="text/html"/>
+    <published>2026-10-27T10:00:29.000Z</published>
+    <updated>2026-10-27T10:00:29.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kpMgniQvIEM 【LIVE on &lt;t:1793095229:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kpMgniQvIEM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8c88fe49-d78b-5bed-835d-3dc7bf560fa9</id>
+    <title><![CDATA[スキ⇄スキ☆うろぼろす]]></title>
+    <link href="https://youtu.be/sr5nJSExxrk" rel="alternate" type="text/html"/>
+    <published>2026-10-27T10:00:25.000Z</published>
+    <updated>2026-10-27T10:00:25.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sr5nJSExxrk 【LIVE on &lt;t:1793095225:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sr5nJSExxrk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ecc6fbf9-cbe9-59c9-80b4-d6c3b00b9cad</id>
+    <title><![CDATA[キラメキMODE! feat. 響咲リオナ]]></title>
+    <link href="https://youtu.be/mMO8VSZrZWI" rel="alternate" type="text/html"/>
+    <published>2026-10-27T10:00:10.000Z</published>
+    <updated>2026-10-27T10:00:10.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mMO8VSZrZWI 【LIVE on &lt;t:1793095210:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mMO8VSZrZWI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:495824c4-26ac-5ed7-9ad7-93a75b2588c1</id>
+    <title><![CDATA[決意のソラへ]]></title>
+    <link href="https://youtu.be/KDfB6ag_h6c" rel="alternate" type="text/html"/>
+    <published>2026-10-27T10:00:06.000Z</published>
+    <updated>2026-10-27T10:00:06.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=KDfB6ag_h6c 【LIVE on &lt;t:1793095206:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KDfB6ag_h6c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a81b9dc5-36cc-5032-b300-42df4934b022</id>
+    <title><![CDATA[ハイパーチャッチャカチャージ]]></title>
+    <link href="https://youtu.be/BUGV22uYc9Y" rel="alternate" type="text/html"/>
+    <published>2026-10-27T10:00:00.000Z</published>
+    <updated>2026-10-27T10:00:00.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BUGV22uYc9Y 【LIVE on &lt;t:1793095200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BUGV22uYc9Y/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:7ef3b235-d9b2-5c82-8165-b0505fa724a1</id>
@@ -773,48 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791795726:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aa602c5f-26af-58dc-ba9c-c675d060751f</id>
-    <title><![CDATA[音乃瀬奏 - アイシカケ (Official MV)]]></title>
-    <link href="https://youtu.be/LjuKylF4udw" rel="alternate" type="text/html"/>
-    <published>2026-10-12T11:00:09.000Z</published>
-    <updated>2026-10-12T11:00:09.000Z</updated>
-    <author>
-      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LjuKylF4udw 【LIVE on &lt;t:1791802809:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LjuKylF4udw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:37c0ba0a-d2e7-54a5-b8a2-74d7546c50df</id>
-    <title><![CDATA[RISING 酸]]></title>
-    <link href="https://youtu.be/_Sb7_i3e0sw" rel="alternate" type="text/html"/>
-    <published>2026-10-11T15:00:13.000Z</published>
-    <updated>2026-10-11T15:00:13.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_Sb7_i3e0sw 【LIVE on &lt;t:1791730813:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_Sb7_i3e0sw/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:74a3d90c-933d-50fb-bc23-042d12c76e11</id>
-    <title><![CDATA[RISING 酸 / 博衣こより【 ケンモチヒデフミ 】(Official)]]></title>
-    <link href="https://youtu.be/WOZTqdQ6bnE" rel="alternate" type="text/html"/>
-    <published>2026-10-11T12:03:17.000Z</published>
-    <updated>2026-10-11T12:03:17.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WOZTqdQ6bnE 【LIVE on &lt;t:1791720197:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WOZTqdQ6bnE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
