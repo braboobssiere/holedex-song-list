@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-29T15:56:11.397Z</updated>
+  <updated>2026-10-29T16:26:21.435Z</updated>
 
   <entry>
     <id>urn:uuid:988ee1c0-b7f3-573d-ba74-2973e4a3cf96</id>
@@ -17,6 +17,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=CAuo9Nrfor4 【LIVE on &lt;t:1793278808:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CAuo9Nrfor4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:de7dadf1-fb08-52df-b897-825048a51080</id>
+    <title><![CDATA[【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS]]></title>
+    <link href="https://youtu.be/YUnpx-WpTGA" rel="alternate" type="text/html"/>
+    <published>2026-10-29T11:45:28.000Z</published>
+    <updated>2026-10-29T12:01:13.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YUnpx-WpTGA 【LIVE on &lt;t:1793275273:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YUnpx-WpTGA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:59bb4aad-4ea8-53f2-b858-42c471aa591a</id>
+    <title><![CDATA[【 歌枠 】ゲリラで歌います!!聴いてええええ❤【ホロライブ DEV_IS 響咲リオナ】]]></title>
+    <link href="https://youtu.be/EG9DEE9eKvw" rel="alternate" type="text/html"/>
+    <published>2026-10-29T07:57:50.000Z</published>
+    <updated>2026-10-29T08:03:49.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EG9DEE9eKvw 【LIVE on &lt;t:1793261029:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EG9DEE9eKvw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -104,6 +132,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:03a26685-ff96-571c-95a4-121fd325442b</id>
+    <title><![CDATA[【歌枠】ボカロオタクはじめての…【ホロライブ/熱千めら】]]></title>
+    <link href="https://youtu.be/GtTgOHWTJ-c" rel="alternate" type="text/html"/>
+    <published>2026-10-26T16:17:22.000Z</published>
+    <updated>2026-10-28T09:58:59.000Z</updated>
+    <author>
+      <name>Mela Ch. 熱千めら‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UC8eitCE9Z6EwUCs-VUi1blg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GtTgOHWTJ-c 【LIVE on &lt;t:1793181539:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GtTgOHWTJ-c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7ef3b235-d9b2-5c82-8165-b0505fa724a1</id>
+    <title><![CDATA[【 重大告知 】90点以上とらないと告知できない歌枠!【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/arKJjOrXReg" rel="alternate" type="text/html"/>
+    <published>2026-10-26T10:53:05.000Z</published>
+    <updated>2026-10-26T09:00:59.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=arKJjOrXReg 【LIVE on &lt;t:1793005259:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/arKJjOrXReg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:c8bc1354-48f5-5db6-b5e2-874e166482b3</id>
     <title><![CDATA[【ホロドリ】『CORE//UNBREAKABLE』Koseki Bijou (Full ver.)]]></title>
     <link href="https://youtu.be/cm-pPP1WeiU" rel="alternate" type="text/html"/>
@@ -115,6 +171,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=cm-pPP1WeiU 【LIVE on &lt;t:1792929631:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/cm-pPP1WeiU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e7209a6d-a83f-5715-be42-ad72c378cce1</id>
+    <title><![CDATA[【歌枠 / 告知あり】歌って告知!!!!!最後に嬉しいお知らせあり🎤✨ Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/fLicfFnhb1k" rel="alternate" type="text/html"/>
+    <published>2026-10-24T12:15:26.000Z</published>
+    <updated>2026-10-24T10:01:03.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fLicfFnhb1k 【LIVE on &lt;t:1792836063:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fLicfFnhb1k/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -188,6 +258,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:28489abb-4166-5d5a-80f8-9b38bb450dc7</id>
+    <title><![CDATA[【歌枠】ボカロを歌おう!!【 #UNIT_B / #宵凪ネオン】]]></title>
+    <link href="https://youtu.be/ziV3XCAKQuI" rel="alternate" type="text/html"/>
+    <published>2026-10-23T06:10:13.000Z</published>
+    <updated>2026-10-23T04:00:35.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ziV3XCAKQuI 【LIVE on &lt;t:1792728035:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ziV3XCAKQuI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:e0b881c8-9d1c-5a40-bcb4-789d9d153ecd</id>
     <title><![CDATA[【ホロドリ】『アマリリス』獅白ぼたん (Official Music Video)]]></title>
     <link href="https://youtu.be/BtpR74RBESc" rel="alternate" type="text/html"/>
@@ -199,6 +283,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=BtpR74RBESc 【LIVE on &lt;t:1792666820:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BtpR74RBESc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b46e8bf0-3702-536c-8808-8680a114140c</id>
+    <title><![CDATA[【音楽勉強会】教えて!ライラちゃん!【 #UNIT_B / #フレアグランス 】]]></title>
+    <link href="https://youtu.be/YUUa9KyOdwU" rel="alternate" type="text/html"/>
+    <published>2026-10-22T07:34:20.000Z</published>
+    <updated>2026-10-22T04:58:21.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YUUa9KyOdwU 【LIVE on &lt;t:1792645101:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YUUa9KyOdwU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:9c090b3d-0ceb-57c3-b4b5-a2229cf71bc6</id>
+    <title><![CDATA[KARAOKE + NEW  ORIGINAL SONG MV PREMIERE !!!!!]]></title>
+    <link href="https://youtu.be/IOExErf_EcQ" rel="alternate" type="text/html"/>
+    <published>2026-10-21T19:58:44.000Z</published>
+    <updated>2026-10-21T14:43:54.000Z</updated>
+    <author>
+      <name>Ayunda Risu Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IOExErf_EcQ 【LIVE on &lt;t:1792593834:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IOExErf_EcQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -216,6 +328,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:b18cefac-0c19-5d8f-aa82-2dd6de457e9f</id>
+    <title><![CDATA[【歌枠/KARAOKE】ちょっと歌ってみるか!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/XHI2asm60G4" rel="alternate" type="text/html"/>
+    <published>2026-10-21T15:40:18.000Z</published>
+    <updated>2026-10-21T13:33:23.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XHI2asm60G4 【LIVE on &lt;t:1792589603:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XHI2asm60G4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:65148b4b-8f91-5ee8-aa6c-edb1e99d122f</id>
     <title><![CDATA[S.O.R.e : Song of Reality]]></title>
     <link href="https://youtu.be/aWJO567YPc4" rel="alternate" type="text/html"/>
@@ -227,6 +353,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=aWJO567YPc4 【LIVE on &lt;t:1792595029:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aWJO567YPc4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d4bd5898-34de-55bf-aa3b-d9379a68dd53</id>
+    <title><![CDATA[【歌枠】 はじめての歌枠!!!!楽しむぞー!!!! 【鈴鳴つづり/ホロライブ/アソビ★まわり隊!】 #ホロライブ #アソビまわり隊  #つづり配達中]]></title>
+    <link href="https://youtu.be/r-NQcMkTvmo" rel="alternate" type="text/html"/>
+    <published>2026-10-21T13:17:00.000Z</published>
+    <updated>2026-10-21T11:59:33.000Z</updated>
+    <author>
+      <name>Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCy9mgxB8pn2C4aNK_MPthDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r-NQcMkTvmo 【LIVE on &lt;t:1792583973:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r-NQcMkTvmo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -370,6 +510,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a32007b9-17b2-594f-9c17-817232812cac</id>
+    <title><![CDATA[【リベンジ】空で弾き語り2☁️リクエスト曲もたくさん歌いたい日です【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/e37QsduMNu4" rel="alternate" type="text/html"/>
+    <published>2026-10-20T11:04:30.000Z</published>
+    <updated>2026-10-20T08:57:32.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=e37QsduMNu4 【LIVE on &lt;t:1792486652:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/e37QsduMNu4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:fab4a6e0-4e89-595b-a1ee-878ebebbe1bb</id>
     <title><![CDATA[【ホロドリ】『Forge My Soul』Kaela Kovalskia (Official Music Video)]]></title>
     <link href="https://youtu.be/8On-I5qQeLw" rel="alternate" type="text/html"/>
@@ -384,6 +538,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5861ffe1-ccda-57d2-b67d-aaae58ec5eff</id>
+    <title><![CDATA[お昼にピアノの音色を届けます【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/pRrRzqPVIuk" rel="alternate" type="text/html"/>
+    <published>2026-10-20T06:08:34.000Z</published>
+    <updated>2026-10-20T03:57:42.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pRrRzqPVIuk 【LIVE on &lt;t:1792468662:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pRrRzqPVIuk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1bae822e-1801-5825-860d-6b82180a165b</id>
+    <title><![CDATA[【 #歌うまスンギ歌枠リレー】HELLO!!! LET'S SING TOGETHER ~ !! 【こぼ・かなえる 様】]]></title>
+    <link href="https://youtu.be/0-21K73BYWc" rel="alternate" type="text/html"/>
+    <published>2026-10-19T13:03:12.000Z</published>
+    <updated>2026-10-19T12:29:25.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=0-21K73BYWc 【LIVE on &lt;t:1792412965:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/0-21K73BYWc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:47346383-0fc5-585a-8978-f3c7b5de7716</id>
     <title><![CDATA[【ホロドリ】『Shallow Shadow』常闇トワ (Full ver.)]]></title>
     <link href="https://youtu.be/HADLHRboKJY" rel="alternate" type="text/html"/>
@@ -395,6 +577,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=HADLHRboKJY 【LIVE on &lt;t:1792411229:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HADLHRboKJY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6a40b42a-7ea9-5a30-b675-75f44e886d16</id>
+    <title><![CDATA[【 #歌うまスンギ歌枠リレー   】【音乃瀬奏】#ReGLOSS]]></title>
+    <link href="https://youtu.be/gX9AoYgK46A" rel="alternate" type="text/html"/>
+    <published>2026-10-19T11:02:35.000Z</published>
+    <updated>2026-10-19T10:31:30.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gX9AoYgK46A 【LIVE on &lt;t:1792405890:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gX9AoYgK46A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:33683300-249f-5542-b068-cda21a6e3833</id>
+    <title><![CDATA[空で弾き語り☁️【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/XP9Ir9VdF20" rel="alternate" type="text/html"/>
+    <published>2026-10-19T06:13:11.000Z</published>
+    <updated>2026-10-19T05:01:01.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=XP9Ir9VdF20 【LIVE on &lt;t:1792386061:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/XP9Ir9VdF20/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -451,6 +661,48 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=FLuj-J_8OrQ 【LIVE on &lt;t:1792294147:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FLuj-J_8OrQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e693cb8e-5859-5cdb-be59-39cf148d38c0</id>
+    <title><![CDATA[Karaoke or Stand Up Comedy?]]></title>
+    <link href="https://youtu.be/HoKQmoJExkE" rel="alternate" type="text/html"/>
+    <published>2026-10-17T17:18:52.000Z</published>
+    <updated>2026-10-17T15:01:33.000Z</updated>
+    <author>
+      <name>Airani Iofifteen Channel hololive</name>
+      <uri>https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HoKQmoJExkE 【LIVE on &lt;t:1792249293:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HoKQmoJExkE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4560daf4-1e6f-5c84-b0cd-76aa2b70a7d7</id>
+    <title><![CDATA[【歌枠 KARAOKE】75万人耐久【水宮枢/ホロライブDEV_IS】]]></title>
+    <link href="https://youtu.be/MbMHsVK5fcQ" rel="alternate" type="text/html"/>
+    <published>2026-10-16T10:43:47.000Z</published>
+    <updated>2026-10-16T08:06:09.000Z</updated>
+    <author>
+      <name>Su Ch. 水宮枢 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCjk2nKmHzgH5Xy-C5qYRd5A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MbMHsVK5fcQ 【LIVE on &lt;t:1792137969:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MbMHsVK5fcQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:674d5b11-cdf1-56e6-b0e2-2908f03ef92c</id>
+    <title><![CDATA[【 歌枠 】久しぶりにうたうぞー!【虎金妃笑虎】]]></title>
+    <link href="https://youtu.be/qv113q2fMZA" rel="alternate" type="text/html"/>
+    <published>2026-10-16T10:16:31.000Z</published>
+    <updated>2026-10-16T09:00:46.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qv113q2fMZA 【LIVE on &lt;t:1792141246:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qv113q2fMZA/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -566,6 +818,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:59b860aa-7714-52fa-811b-124a4c7cdeae</id>
+    <title><![CDATA[【歌枠】KARAOKE]]></title>
+    <link href="https://youtu.be/_ZeTBy2v9hE" rel="alternate" type="text/html"/>
+    <published>2026-10-14T11:46:07.000Z</published>
+    <updated>2026-10-14T10:04:00.000Z</updated>
+    <author>
+      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
+      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_ZeTBy2v9hE 【LIVE on &lt;t:1791972240:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_ZeTBy2v9hE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ef6e1fbd-03b3-5e39-986e-95f115d9b899</id>
     <title><![CDATA[【original】Candy Candy Midnight/癒月ちょこ【ホロライブ】]]></title>
     <link href="https://youtu.be/FSDwet-B1P8" rel="alternate" type="text/html"/>
@@ -594,6 +860,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a41b1ab0-7465-5491-9c81-c955c87d6913</id>
+    <title><![CDATA[【歌枠】第137回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
+    <link href="https://youtu.be/gEs6f4ARWW8" rel="alternate" type="text/html"/>
+    <published>2026-10-13T19:07:09.000Z</published>
+    <updated>2026-10-13T14:00:42.000Z</updated>
+    <author>
+      <name>Watame Ch. 角巻わため</name>
+      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=gEs6f4ARWW8 【LIVE on &lt;t:1791900042:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gEs6f4ARWW8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:2fd498a5-31a8-573d-865d-720ca7f8686d</id>
     <title><![CDATA[【Animation MV】PON-DERFUL!!! / さくらみこ (official)]]></title>
     <link href="https://youtu.be/i5GP5VRzB4E" rel="alternate" type="text/html"/>
@@ -605,6 +885,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=i5GP5VRzB4E 【LIVE on &lt;t:1791896411:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i5GP5VRzB4E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2af8dbd4-732d-5b4d-8ff6-e6f7ceee0fa6</id>
+    <title><![CDATA[夜の公園で弾き語り🛝【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/shtv2FbPF-w" rel="alternate" type="text/html"/>
+    <published>2026-10-12T11:17:30.000Z</published>
+    <updated>2026-10-12T09:02:06.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=shtv2FbPF-w 【LIVE on &lt;t:1791795726:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/shtv2FbPF-w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -622,6 +916,104 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6785225d-2d8b-50a1-987f-1791fd3210ae</id>
+    <title><![CDATA[【 120万人耐久】120万人達成で重大告知解禁!?? 新アプリを使ってうたっちゃお!!【ホロライブ/ ロボ子さん 】]]></title>
+    <link href="https://youtu.be/jCy5SoVLZqo" rel="alternate" type="text/html"/>
+    <published>2026-10-10T11:18:22.000Z</published>
+    <updated>2026-10-10T09:55:55.000Z</updated>
+    <author>
+      <name>Roboco Ch. - ロボ子</name>
+      <uri>https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=jCy5SoVLZqo 【LIVE on &lt;t:1791626155:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/jCy5SoVLZqo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:246a1984-99b0-5769-bb46-8f14d76ac958</id>
+    <title><![CDATA[うた]]></title>
+    <link href="https://youtu.be/yGaeRFePsWs" rel="alternate" type="text/html"/>
+    <published>2026-10-08T19:01:26.000Z</published>
+    <updated>2026-10-08T18:19:49.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yGaeRFePsWs 【LIVE on &lt;t:1791483589:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yGaeRFePsWs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f282900c-510e-55f8-8dd3-82cfc07c4034</id>
+    <title><![CDATA[【耐久】75.1万人目指して!!新アプリ『hololive raku』で歌う!!【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】]]></title>
+    <link href="https://youtu.be/nR7YhNhQb-E" rel="alternate" type="text/html"/>
+    <published>2026-10-08T12:10:54.000Z</published>
+    <updated>2026-10-08T09:09:19.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nR7YhNhQb-E 【LIVE on &lt;t:1791450559:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nR7YhNhQb-E/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8e4cd53a-d7f0-5989-be27-1c70aae18a9e</id>
+    <title><![CDATA[1 MILLIONS? PEBBLES!]]></title>
+    <link href="https://youtu.be/xbvwxTMOAgo" rel="alternate" type="text/html"/>
+    <published>2026-10-08T04:43:21.000Z</published>
+    <updated>2026-10-08T03:56:02.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xbvwxTMOAgo 【LIVE on &lt;t:1791431762:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xbvwxTMOAgo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d6961ec0-8b96-516a-ad26-b779c4b3a5d9</id>
+    <title><![CDATA[【歌枠】歌うよおおおおお!新アプリ「hololive raku」で歌ってみる!Singing Stream【ホロライブ / AZKi】]]></title>
+    <link href="https://youtu.be/OI5bHKtbQ1o" rel="alternate" type="text/html"/>
+    <published>2026-10-07T14:42:47.000Z</published>
+    <updated>2026-10-07T13:01:54.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=OI5bHKtbQ1o 【LIVE on &lt;t:1791378114:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OI5bHKtbQ1o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c69420ff-bda8-5972-8c7b-2c31edaa21bc</id>
+    <title><![CDATA[【今日はリクエスト曲限定】森で弾き語り、続編です🌳【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/aWyU7kSXxMU" rel="alternate" type="text/html"/>
+    <published>2026-10-07T06:49:41.000Z</published>
+    <updated>2026-10-07T04:29:40.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aWyU7kSXxMU 【LIVE on &lt;t:1791347380:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aWyU7kSXxMU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac5384b2-0958-59dd-9ef8-f6b5cf72550b</id>
+    <title><![CDATA[【 歌枠 】rakuを使ってゆるく歌ってみる【音乃瀬奏】#ReGLOSS]]></title>
+    <link href="https://youtu.be/irjNowlxPMc" rel="alternate" type="text/html"/>
+    <published>2026-10-06T12:36:48.000Z</published>
+    <updated>2026-10-06T11:30:34.000Z</updated>
+    <author>
+      <name>Kanade Ch. 音乃瀬奏 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=irjNowlxPMc 【LIVE on &lt;t:1791286234:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/irjNowlxPMc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:17737f3f-a4fc-5034-a79d-48e66165f60a</id>
     <title><![CDATA[【#ふぉっくするーむ】白上フブキ生誕3DLIVE「ふぉっくするーむ!!」【白上フブキ/ホロライブ】]]></title>
     <link href="https://youtu.be/62AgiXDP3tU" rel="alternate" type="text/html"/>
@@ -633,6 +1025,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=62AgiXDP3tU 【LIVE on &lt;t:1791201665:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/62AgiXDP3tU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:efad9722-e351-5ba9-a79a-eacea47d5eac</id>
+    <title><![CDATA[【歌枠】お歌の時間です!楽しんでいこう【ときのそら/ホロライブ】]]></title>
+    <link href="https://youtu.be/393MVuGi41Q" rel="alternate" type="text/html"/>
+    <published>2026-10-04T17:07:12.000Z</published>
+    <updated>2026-10-04T14:02:54.000Z</updated>
+    <author>
+      <name>SoraCh. ときのそらチャンネル</name>
+      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=393MVuGi41Q 【LIVE on &lt;t:1791122574:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/393MVuGi41Q/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -650,6 +1056,132 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:5a522834-25e2-524b-aed7-c2a418a3cfd2</id>
+    <title><![CDATA[【歌枠】リレーに紛れる1期生 / Shinging KARAOKE♬【ホロライブ/夏色まつり】]]></title>
+    <link href="https://youtu.be/vbSzq1qClNE" rel="alternate" type="text/html"/>
+    <published>2026-10-04T14:11:49.000Z</published>
+    <updated>2026-10-04T13:00:58.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=vbSzq1qClNE 【LIVE on &lt;t:1791118858:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vbSzq1qClNE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:88fa720b-362d-58cf-97e1-06bd3b828f20</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】4人コラボで歌うのじゃ!!!【ホロライブ/アソビ★まわり隊!/熱千めら】]]></title>
+    <link href="https://youtu.be/WBgYlpUP0zc" rel="alternate" type="text/html"/>
+    <published>2026-10-04T13:23:02.000Z</published>
+    <updated>2026-10-04T12:19:51.000Z</updated>
+    <author>
+      <name>Mela Ch. 熱千めら‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UC8eitCE9Z6EwUCs-VUi1blg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WBgYlpUP0zc 【LIVE on &lt;t:1791116391:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WBgYlpUP0zc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3f9d875c-d3c3-5da2-b1a0-26474124c22e</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】盛り上がってこーーー!!!!【百灯キョーコ/ホロライブ/アソビ★まわり隊!】]]></title>
+    <link href="https://youtu.be/qZ3kwg_7Zvk" rel="alternate" type="text/html"/>
+    <published>2026-10-04T12:22:16.000Z</published>
+    <updated>2026-10-04T11:59:09.000Z</updated>
+    <author>
+      <name>Kyoko Ch. 百灯キョーコ ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCSjQDxud2HkAO2DVD3lwxmw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qZ3kwg_7Zvk 【LIVE on &lt;t:1791115149:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qZ3kwg_7Zvk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:95375eae-40e4-5075-9b6f-e19273bc1ab1</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】お歌のお届けです!! #ホロライブ #アソビまわり隊]]></title>
+    <link href="https://youtu.be/rPIuD8ql7Fg" rel="alternate" type="text/html"/>
+    <published>2026-10-04T12:01:53.000Z</published>
+    <updated>2026-10-04T11:40:03.000Z</updated>
+    <author>
+      <name>Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCy9mgxB8pn2C4aNK_MPthDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=rPIuD8ql7Fg 【LIVE on &lt;t:1791114003:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/rPIuD8ql7Fg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:98840337-fba1-5175-9398-d5ac652f9159</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】色んな一面、見せちゃうぞっ!【宙科そぴあ/ホロライブ/アソビ★まわり隊!】]]></title>
+    <link href="https://youtu.be/-2PukiIw3qg" rel="alternate" type="text/html"/>
+    <published>2026-10-04T11:44:06.000Z</published>
+    <updated>2026-10-04T11:19:34.000Z</updated>
+    <author>
+      <name>Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UCROQtXcp2loQEmvpe5rhJzQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=-2PukiIw3qg 【LIVE on &lt;t:1791112774:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-2PukiIw3qg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1293a03b-b9f0-5afc-ac9e-e1e09d9d5dd1</id>
+    <title><![CDATA[【#アソビまわり隊歌枠リレー】トップバッターなのじゃ!【ホロライブ/アソビ★まわり隊!/熱千めら】]]></title>
+    <link href="https://youtu.be/fvBAsGLCq1c" rel="alternate" type="text/html"/>
+    <published>2026-10-04T11:24:42.000Z</published>
+    <updated>2026-10-04T10:59:09.000Z</updated>
+    <author>
+      <name>Mela Ch. 熱千めら‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UC8eitCE9Z6EwUCs-VUi1blg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=fvBAsGLCq1c 【LIVE on &lt;t:1791111549:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/fvBAsGLCq1c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2d742564-a334-5b29-8bff-f1b6c928b8d3</id>
+    <title><![CDATA[【歌枠】はじめての歌枠なのじゃ!!!【ホロライブ/アソビ★まわり隊!/熱千めら】]]></title>
+    <link href="https://youtu.be/_RP6UbtnO3k" rel="alternate" type="text/html"/>
+    <published>2026-10-01T11:20:11.000Z</published>
+    <updated>2026-10-01T09:59:05.000Z</updated>
+    <author>
+      <name>Mela Ch. 熱千めら‐ アソビ★まわり隊!</name>
+      <uri>https://www.youtube.com/channel/UC8eitCE9Z6EwUCs-VUi1blg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=_RP6UbtnO3k 【LIVE on &lt;t:1790848745:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_RP6UbtnO3k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b0cf253a-7f23-5596-9a8f-872db4fac15a</id>
+    <title><![CDATA[【歌枠】たくさん歌っていたけど、歌枠は久しぶりです🎤【ホロライブ/大神ミオ】]]></title>
+    <link href="https://youtu.be/aPA_5mR3llY" rel="alternate" type="text/html"/>
+    <published>2026-09-30T09:15:15.000Z</published>
+    <updated>2026-09-29T12:01:09.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=aPA_5mR3llY 【LIVE on &lt;t:1790683269:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/aPA_5mR3llY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:332cd1ac-00ab-5ab5-9fc1-4b1a69c0997c</id>
+    <title><![CDATA[【新アプリ】新しい3Dアプリでたらしいので歌枠してみます【ホロライブ  響咲リオナ】]]></title>
+    <link href="https://youtu.be/4UR4XCh5-OA" rel="alternate" type="text/html"/>
+    <published>2026-09-29T11:11:53.000Z</published>
+    <updated>2026-09-29T09:30:41.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=4UR4XCh5-OA 【LIVE on &lt;t:1790674241:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/4UR4XCh5-OA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:550e2e9e-21cf-5d04-ae99-dee53648ac2f</id>
     <title><![CDATA[【not really ASMR】literally reading a book~ soft talking maybe some humming? just getting relaxed]]></title>
     <link href="https://youtu.be/KyzwAjIkppw" rel="alternate" type="text/html"/>
@@ -661,6 +1193,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KyzwAjIkppw 【LIVE on &lt;t:1790442590:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KyzwAjIkppw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:174faee0-0001-5ba9-8f0b-d09a9723d20d</id>
+    <title><![CDATA[【 エレクトーン 】6ヶ月ぶりに演奏するのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/kzAwDumsYHc" rel="alternate" type="text/html"/>
+    <published>2026-09-22T10:41:44.000Z</published>
+    <updated>2026-09-22T06:59:28.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kzAwDumsYHc 【LIVE on &lt;t:1790060368:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kzAwDumsYHc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -720,6 +1266,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ce72c785-29b4-572f-8c5b-16ea534bd53f</id>
+    <title><![CDATA[水中で弾き語り【 #UNIT_B / #清澄ライラ】]]></title>
+    <link href="https://youtu.be/naWUto4AUOY" rel="alternate" type="text/html"/>
+    <published>2026-09-13T12:29:56.000Z</published>
+    <updated>2026-09-13T10:01:08.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=naWUto4AUOY 【LIVE on &lt;t:1789293668:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/naWUto4AUOY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:ff878d43-00c1-50a3-a63f-5ac4f5fe2cc1</id>
     <title><![CDATA[【6th Anniversary Event】DEATH Before DISCO!! Concert and Celebration?! #calliolive]]></title>
     <link href="https://youtu.be/AY1v8-jOZxk" rel="alternate" type="text/html"/>
@@ -759,6 +1319,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=E7cbFrX0xMY 【LIVE on &lt;t:1788962399:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E7cbFrX0xMY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ffc3cf4b-0043-5137-ad3d-d73debd84869</id>
+    <title><![CDATA[【東方】ピアノで弾きたい!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/kKjEgVLSaDs" rel="alternate" type="text/html"/>
+    <published>2026-09-09T14:17:06.000Z</published>
+    <updated>2026-09-09T11:59:37.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=kKjEgVLSaDs 【LIVE on &lt;t:1788955177:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/kKjEgVLSaDs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -885,6 +1459,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=WsznkSFiDU4 【LIVE on &lt;t:1787581806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WsznkSFiDU4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:bfcd7a19-287b-53ed-89f6-d7046d010072</id>
+    <title><![CDATA[【本業】ピアノレディの演奏を聴きませんか?【 #UNIT_B / #玲銘ミラ 】]]></title>
+    <link href="https://youtu.be/lo5d9pS-KMw" rel="alternate" type="text/html"/>
+    <published>2026-08-19T13:10:55.000Z</published>
+    <updated>2026-08-19T10:58:44.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=lo5d9pS-KMw 【LIVE on &lt;t:1787137124:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lo5d9pS-KMw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1042,6 +1630,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:8b215e56-7cf4-5873-920d-a6f9b67df8c7</id>
+    <title><![CDATA[【ピアノで弾いてみる】J-POPの名曲を練習!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/5C7wY8L-OKU" rel="alternate" type="text/html"/>
+    <published>2026-07-27T14:21:42.000Z</published>
+    <updated>2026-07-27T11:59:48.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=5C7wY8L-OKU 【LIVE on &lt;t:1785153588:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5C7wY8L-OKU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:eb6d2435-4b5b-583b-9cb1-9f16a8c70029</id>
     <title><![CDATA[【ASMR】季節の変わり目にお耳も心も癒される吐息♡囁き♡耳かき&マッサージ♡【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/X2QgJmJnrBA" rel="alternate" type="text/html"/>
@@ -1098,6 +1700,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6475ad69-8f6c-559c-8cab-8e288c6095a7</id>
+    <title><![CDATA[ソナタ 6番に挑戦!練習方法も大公開!【 #UNIT_B / # 玲銘ミラ】]]></title>
+    <link href="https://youtu.be/ku_ZK4Hj9H8" rel="alternate" type="text/html"/>
+    <published>2026-07-16T13:30:34.000Z</published>
+    <updated>2026-07-16T09:58:21.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ku_ZK4Hj9H8 【LIVE on &lt;t:1784195901:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ku_ZK4Hj9H8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:43325507-65c0-5ada-b21f-a243b98c43d3</id>
     <title><![CDATA[#iofiCrimsonKnot , Celebrating The Red Strings Between Us]]></title>
     <link href="https://youtu.be/gd4O5uNxqcY" rel="alternate" type="text/html"/>
@@ -1109,6 +1725,104 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=gd4O5uNxqcY 【LIVE on &lt;t:1784120446:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gd4O5uNxqcY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4a6defca-f81c-5149-ae56-08ef46077c4f</id>
+    <title><![CDATA[全力クラシック演奏会!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/DTZg5qYJCYY" rel="alternate" type="text/html"/>
+    <published>2026-07-13T11:15:08.000Z</published>
+    <updated>2026-07-13T08:58:41.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DTZg5qYJCYY 【LIVE on &lt;t:1783933121:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DTZg5qYJCYY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:87ffc6f2-6cd8-5189-abf7-0fff2e4f63e7</id>
+    <title><![CDATA[私のピアノ、光るらしいよ!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/U37GB7ab51I" rel="alternate" type="text/html"/>
+    <published>2026-07-09T11:26:18.000Z</published>
+    <updated>2026-07-09T09:00:53.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=U37GB7ab51I 【LIVE on &lt;t:1783587653:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U37GB7ab51I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:86c7bfae-c87a-5483-937b-ccfeb5bcf0f4</id>
+    <title><![CDATA[【後夜祭】昨日の振り返り!&ピアノも弾くよ【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/N4f6ZtqrNfc" rel="alternate" type="text/html"/>
+    <published>2026-07-06T13:26:43.000Z</published>
+    <updated>2026-07-06T10:58:37.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N4f6ZtqrNfc 【LIVE on &lt;t:1783335517:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N4f6ZtqrNfc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f02b15e9-85d3-576b-9101-27bc6fca7c32</id>
+    <title><![CDATA[電子ピアノの音色は無限大!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/6DpoaxkzpzI" rel="alternate" type="text/html"/>
+    <published>2026-07-02T15:26:34.000Z</published>
+    <updated>2026-07-02T10:59:52.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=6DpoaxkzpzI 【LIVE on &lt;t:1782989992:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/6DpoaxkzpzI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2733fb25-39ba-56a9-a7cd-3da63b26eaf9</id>
+    <title><![CDATA[グランドピアノばいばいコンサート【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/DW0kvUXckWw" rel="alternate" type="text/html"/>
+    <published>2026-06-23T12:12:04.000Z</published>
+    <updated>2026-06-23T09:57:38.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DW0kvUXckWw 【LIVE on &lt;t:1782208658:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DW0kvUXckWw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:b092ef85-fc92-5465-ad4f-fab9c3a92302</id>
+    <title><![CDATA[【ギター練習】眠れない夜のアコギ練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/xnZEEiYkGN4" rel="alternate" type="text/html"/>
+    <published>2026-06-21T18:52:32.000Z</published>
+    <updated>2026-06-21T15:50:05.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xnZEEiYkGN4 【LIVE on &lt;t:1782057005:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xnZEEiYkGN4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:db85a84a-42c0-50f0-9877-04829c874ed9</id>
+    <title><![CDATA[【黒歴史】過去演奏聞かせちゃいます!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/UQ8Nmr5F4J4" rel="alternate" type="text/html"/>
+    <published>2026-06-21T15:56:54.000Z</published>
+    <updated>2026-06-21T13:00:41.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UQ8Nmr5F4J4 【LIVE on &lt;t:1782046841:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UQ8Nmr5F4J4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1126,6 +1840,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:a4796f42-d778-5ee9-8249-dffe91c3d263</id>
+    <title><![CDATA[【私は先生】楽譜が読めるようになる!かも!?]]></title>
+    <link href="https://youtu.be/T060Goa2yxg" rel="alternate" type="text/html"/>
+    <published>2026-06-16T15:09:35.000Z</published>
+    <updated>2026-06-16T13:00:57.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=T060Goa2yxg 【LIVE on &lt;t:1781614857:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/T060Goa2yxg/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:36530c3d-bb62-53c0-8f04-8849459bb358</id>
     <title><![CDATA[Flirty Cops Make You Squeal | ASMR RP | [MM4A] [Good Cop] [Bad Cop] ft. ⁨@BanzoinHakka⁩]]></title>
     <link href="https://youtu.be/5USC52G_s1c" rel="alternate" type="text/html"/>
@@ -1137,6 +1865,104 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5USC52G_s1c 【LIVE on &lt;t:1781467205:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5USC52G_s1c/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c7844e9e-6792-5ad3-b873-f57f2ce0ae5f</id>
+    <title><![CDATA[【挑戦】色んな楽器を弾いてみたい!歌いたい!【 #UNIT_B / #宵凪ネオン】]]></title>
+    <link href="https://youtu.be/IFAa-cQxDwA" rel="alternate" type="text/html"/>
+    <published>2026-06-11T14:10:07.000Z</published>
+    <updated>2026-06-11T12:00:25.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IFAa-cQxDwA 【LIVE on &lt;t:1781179225:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IFAa-cQxDwA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a5d78d53-e9f6-507d-a8e9-ef017b28c2b4</id>
+    <title><![CDATA[【ギター練習】エレキの練習~~~!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/1sD5u358cxU" rel="alternate" type="text/html"/>
+    <published>2026-06-08T14:15:00.000Z</published>
+    <updated>2026-06-08T08:33:09.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1sD5u358cxU 【LIVE on &lt;t:1780907589:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1sD5u358cxU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a20e14ae-0baa-58ac-b1c9-b4a3a0c553a5</id>
+    <title><![CDATA[【ギター練習】エレキデビューすっぞ!!!!!!!!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/UiU3ptAdzHU" rel="alternate" type="text/html"/>
+    <published>2026-06-06T11:49:31.000Z</published>
+    <updated>2026-06-06T09:31:58.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=UiU3ptAdzHU 【LIVE on &lt;t:1780738318:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/UiU3ptAdzHU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5adaba53-06e8-5395-b299-3926cf3e86ab</id>
+    <title><![CDATA[【みんなが先生】スパルタピアノレッスンを実施します!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/ouIeDbNHl8s" rel="alternate" type="text/html"/>
+    <published>2026-06-05T15:10:24.000Z</published>
+    <updated>2026-06-05T12:58:57.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ouIeDbNHl8s 【LIVE on &lt;t:1780664337:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ouIeDbNHl8s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ac1e7fc8-b2f9-581d-be9a-884b555dc30b</id>
+    <title><![CDATA[【天才に挑戦】今日は巨匠の楽曲に挑みます。【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/nBPlJL6kydA" rel="alternate" type="text/html"/>
+    <published>2026-06-02T12:16:49.000Z</published>
+    <updated>2026-06-02T09:28:18.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=nBPlJL6kydA 【LIVE on &lt;t:1780392498:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/nBPlJL6kydA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:14b414cd-fd45-5925-90c8-70593469a70b</id>
+    <title><![CDATA[【ピアノ弾く】今日はたくさん演奏します!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/NSQTp3BIR5Y" rel="alternate" type="text/html"/>
+    <published>2026-05-31T14:01:39.000Z</published>
+    <updated>2026-05-31T10:59:38.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=NSQTp3BIR5Y 【LIVE on &lt;t:1780225178:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/NSQTp3BIR5Y/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:aba6f520-03bf-5adf-b34d-496a15b95f7a</id>
+    <title><![CDATA[【演奏するかも】みんなで初配信の振り返りをしませんか?【 #UNIT_B /玲銘ミラ】]]></title>
+    <link href="https://youtu.be/uVlyJmT69bo" rel="alternate" type="text/html"/>
+    <published>2026-05-25T14:06:54.000Z</published>
+    <updated>2026-05-25T11:59:32.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=uVlyJmT69bo 【LIVE on &lt;t:1779710372:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uVlyJmT69bo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1182,6 +2008,48 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:ed03e41c-9d4d-5a02-860e-36722e37a55e</id>
+    <title><![CDATA[【ギター練習】ゆるっとギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/HTDbJmNy03U" rel="alternate" type="text/html"/>
+    <published>2026-04-18T16:03:17.000Z</published>
+    <updated>2026-04-18T12:32:41.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HTDbJmNy03U 【LIVE on &lt;t:1776515561:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HTDbJmNy03U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d59e452a-3e5a-576c-921d-235cdcce2a69</id>
+    <title><![CDATA[【ギター練習】ゆるゆるぎた~~~~【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/LH96HKaQ7qo" rel="alternate" type="text/html"/>
+    <published>2026-04-16T15:15:59.000Z</published>
+    <updated>2026-04-16T12:02:51.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=LH96HKaQ7qo 【LIVE on &lt;t:1776340971:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LH96HKaQ7qo/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f73b2fed-8d5a-58fd-8c70-4364ca5ca42c</id>
+    <title><![CDATA[【ギター練習/雑談】ゆるっとギター練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/r5z_ai-UJms" rel="alternate" type="text/html"/>
+    <published>2026-04-13T15:11:07.000Z</published>
+    <updated>2026-04-13T12:39:31.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=r5z_ai-UJms 【LIVE on &lt;t:1776083971:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r5z_ai-UJms/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:32fecfbc-41ed-5f1e-b02f-edd71755f0eb</id>
     <title><![CDATA[【ASMR】病み上がり彼女による脳みそトロふわ安眠ASMR💊【白銀ノエル/ホロライブ】]]></title>
     <link href="https://youtu.be/4Dr0bWuE7wQ" rel="alternate" type="text/html"/>
@@ -1210,6 +2078,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:4396987a-eed3-513a-a98c-9961019fa301</id>
+    <title><![CDATA[【雑談/弾き語り】ほんとうに練習【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/E0K3vemMMEE" rel="alternate" type="text/html"/>
+    <published>2026-03-30T17:49:13.000Z</published>
+    <updated>2026-03-30T14:14:03.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=E0K3vemMMEE 【LIVE on &lt;t:1774880043:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/E0K3vemMMEE/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:81d0434b-fe12-54d0-84b3-6eaf02861303</id>
     <title><![CDATA[【#holoAdvent PAJAMA PARTY ASMR COLLAB】sleepover ASMR experiment + big announcement?! 🐾 【FUWAMOCO】]]></title>
     <link href="https://youtu.be/IO6yuu0FysM" rel="alternate" type="text/html"/>
@@ -1221,6 +2103,34 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=IO6yuu0FysM 【LIVE on &lt;t:1774400287:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IO6yuu0FysM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:e40e228a-eb06-5a7f-8a8f-00569b973fc9</id>
+    <title><![CDATA[【雑談/弾き語り】のんびり練習つきあってよ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/VfDpe5ashdY" rel="alternate" type="text/html"/>
+    <published>2026-03-21T17:37:46.000Z</published>
+    <updated>2026-03-21T13:39:00.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VfDpe5ashdY 【LIVE on &lt;t:1774100340:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VfDpe5ashdY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:8eb34f62-52d7-597e-80ce-417a1dd20b0a</id>
+    <title><![CDATA[【 エレクトーン 】2ヶ月ぶりに演奏するのら!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/orfLAQUXejQ" rel="alternate" type="text/html"/>
+    <published>2026-03-20T13:47:10.000Z</published>
+    <updated>2026-03-20T06:58:43.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=orfLAQUXejQ 【LIVE on &lt;t:1773989923:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/orfLAQUXejQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1392,6 +2302,34 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:0465a04f-81ce-59a9-80ae-d75f517b1b82</id>
+    <title><![CDATA[【雑談/ギター】ギターはじめ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/GQ2IFNnP-Ds" rel="alternate" type="text/html"/>
+    <published>2026-01-18T16:10:51.000Z</published>
+    <updated>2026-01-18T13:30:39.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GQ2IFNnP-Ds 【LIVE on &lt;t:1768743039:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GQ2IFNnP-Ds/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6a51e82f-21ad-509e-9b33-16d212042391</id>
+    <title><![CDATA[【 エレクトーン 】3ヶ月ぶりに演奏するのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/7HfzPoQkotk" rel="alternate" type="text/html"/>
+    <published>2026-01-12T10:54:06.000Z</published>
+    <updated>2026-01-12T06:57:37.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7HfzPoQkotk 【LIVE on &lt;t:1768201057:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7HfzPoQkotk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:d77fd9dc-4704-57b6-8bd4-c019c778fbd9</id>
     <title><![CDATA[≪ASMR TYPING STREAM≫ I am become TTS]]></title>
     <link href="https://youtu.be/flfKicFEA0U" rel="alternate" type="text/html"/>
@@ -1403,5 +2341,187 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=flfKicFEA0U 【LIVE on &lt;t:1767834118:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/flfKicFEA0U/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:dd08c21f-8cac-52f5-b358-d79093a94428</id>
+    <title><![CDATA[【雑談/CHAT】ギターの練習しながらまったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/FNiBJUO0GjY" rel="alternate" type="text/html"/>
+    <published>2025-12-01T16:02:01.000Z</published>
+    <updated>2025-12-01T13:21:59.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=FNiBJUO0GjY 【LIVE on &lt;t:1764595319:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/FNiBJUO0GjY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:60e3e28d-4dca-57ef-8b91-ca15924ab9d7</id>
+    <title><![CDATA[【PIANO】LET'S PRESS THE KEYS!!!!!!]]></title>
+    <link href="https://youtu.be/HGEQfQgd2bk" rel="alternate" type="text/html"/>
+    <published>2025-11-19T22:07:04.000Z</published>
+    <updated>2025-11-19T20:03:07.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=HGEQfQgd2bk 【LIVE on &lt;t:1763582587:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HGEQfQgd2bk/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:d9fcb95d-8059-5ac0-9d28-8bc7b4bb86ef</id>
+    <title><![CDATA[Let's practice together~ | Lyre ASMR]]></title>
+    <link href="https://youtu.be/zCI6n1l_TGM" rel="alternate" type="text/html"/>
+    <published>2025-11-17T03:25:19.000Z</published>
+    <updated>2025-11-17T00:55:10.000Z</updated>
+    <author>
+      <name>Nerissa Ravencroft Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zCI6n1l_TGM 【LIVE on &lt;t:1763340910:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zCI6n1l_TGM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:91bd0ff0-7331-59d8-93cc-8da1f663fc1f</id>
+    <title><![CDATA[【雑談/chat】ギターの練習しつつ【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/eivEMTEdw2A" rel="alternate" type="text/html"/>
+    <published>2025-11-06T15:52:09.000Z</published>
+    <updated>2025-11-06T13:21:15.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=eivEMTEdw2A 【LIVE on &lt;t:1762435275:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eivEMTEdw2A/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3d597177-bd31-5575-9318-dd5e091c029a</id>
+    <title><![CDATA[【雑談/ギター練習】弾き語り練習したり喋ったり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/m02P03R9j1k" rel="alternate" type="text/html"/>
+    <published>2025-10-26T15:25:03.000Z</published>
+    <updated>2025-10-26T12:48:17.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=m02P03R9j1k 【LIVE on &lt;t:1761482897:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/m02P03R9j1k/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:097b30be-013c-5c1c-a115-267b0bdeafb3</id>
+    <title><![CDATA[【ギター】初心者ギター練習会【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/i65Gl-3qIFA" rel="alternate" type="text/html"/>
+    <published>2025-10-09T16:26:26.000Z</published>
+    <updated>2025-10-09T14:08:19.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=i65Gl-3qIFA 【LIVE on &lt;t:1760018899:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i65Gl-3qIFA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:4c496ed8-080c-504e-820d-82f883bcec90</id>
+    <title><![CDATA[【 エレクトーン 】姫の楽器演奏♪休日の嗜みの時間なのら~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/RERwIq5kpDw" rel="alternate" type="text/html"/>
+    <published>2025-09-23T11:28:17.000Z</published>
+    <updated>2025-09-23T06:59:13.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=RERwIq5kpDw 【LIVE on &lt;t:1758610753:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/RERwIq5kpDw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:85664cbd-3524-5435-9dd6-73c4b9f54c0c</id>
+    <title><![CDATA[【トロンボーン練習】 基礎練はたいせつです!【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/ojdnksHikH8" rel="alternate" type="text/html"/>
+    <published>2025-09-07T10:40:24.000Z</published>
+    <updated>2025-09-07T08:38:22.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ojdnksHikH8 【LIVE on &lt;t:1757234302:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ojdnksHikH8/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:78ddb9a0-1b7b-5842-841c-28c8f8622035</id>
+    <title><![CDATA[【 エレクトーン 】2ヶ月ぶりの演奏なのら~~~!!!🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/ozvv4hK82D0" rel="alternate" type="text/html"/>
+    <published>2025-07-27T11:47:44.000Z</published>
+    <updated>2025-07-27T07:07:51.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=ozvv4hK82D0 【LIVE on &lt;t:1753600071:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ozvv4hK82D0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5a824a77-4ae6-5fd7-867d-821f4f14f431</id>
+    <title><![CDATA[【PIANO】practicing and making silly notes by pressing keys! CASUAL RELAXING I AM SO RELAXED]]></title>
+    <link href="https://youtu.be/EQhdClmT1cs" rel="alternate" type="text/html"/>
+    <published>2025-05-01T20:52:22.000Z</published>
+    <updated>2025-05-01T19:06:32.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=EQhdClmT1cs 【LIVE on &lt;t:1746126392:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/EQhdClmT1cs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:34cc9928-779b-5b0a-817c-d90753a97b7a</id>
+    <title><![CDATA[【トロンボーン練習】何曲か吹けるように練習したい!【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】]]></title>
+    <link href="https://youtu.be/IEC6NX2UWjA" rel="alternate" type="text/html"/>
+    <published>2025-05-01T14:17:34.000Z</published>
+    <updated>2025-05-01T12:18:28.000Z</updated>
+    <author>
+      <name>Chihaya Ch. 輪堂 千速 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCKMWFR6lAstLa7Vbf5dH7ig</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=IEC6NX2UWjA 【LIVE on &lt;t:1746101908:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/IEC6NX2UWjA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:fa6d8b84-9c48-53ae-9ea3-e3a20c65aa89</id>
+    <title><![CDATA[【 エレクトーン 】ルーナ姫が楽器のお稽古中なのら~~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/MBTe3cDomgs" rel="alternate" type="text/html"/>
+    <published>2025-04-13T11:19:49.000Z</published>
+    <updated>2025-04-13T05:59:42.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=MBTe3cDomgs 【LIVE on &lt;t:1744523982:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/MBTe3cDomgs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:2725e618-74f9-595b-85ba-ff395f4ace0c</id>
+    <title><![CDATA[【 エレクトーン 】華麗なる姫の特技を見せちゃうのら~~!!!🎹🎶(・o・🍬) Playing the Electone【姫森ルーナ/ホロライブ】]]></title>
+    <link href="https://youtu.be/pTpVbAduBm4" rel="alternate" type="text/html"/>
+    <published>2025-03-23T11:47:23.000Z</published>
+    <updated>2025-03-23T06:00:02.000Z</updated>
+    <author>
+      <name>Luna Ch. 姫森ルーナ</name>
+      <uri>https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pTpVbAduBm4 【LIVE on &lt;t:1742709602:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pTpVbAduBm4/maxresdefault.jpg"/>
   </entry>
 </feed>
