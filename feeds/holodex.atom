@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-30T02:56:29.803Z</updated>
+  <updated>2026-10-30T03:26:28.780Z</updated>
+
+  <entry>
+    <id>urn:uuid:d2aedda9-381e-58be-98e8-64d45fc910b3</id>
+    <title><![CDATA[IRISÉ (아이리제) ‘TRAUMA (Feat. Takanashi Kiara)' Official MV]]></title>
+    <link href="https://youtu.be/3f0PTj1xrvw" rel="alternate" type="text/html"/>
+    <published>2026-10-30T03:00:07.000Z</published>
+    <updated>2026-10-30T03:00:07.000Z</updated>
+    <author>
+      <name>IRISÉ</name>
+      <uri>https://www.youtube.com/channel/UCMmcz1ybSoAD-GUlDx_7H2A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=3f0PTj1xrvw 【LIVE on &lt;t:1793329207:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3f0PTj1xrvw/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:654ddaef-9249-56ab-9592-7ad4d031d556</id>
+    <title><![CDATA[IRISÉ (아이리제) ‘TRAUMA (Feat. Takanashi Kiara)' (Official Audio)]]></title>
+    <link href="https://youtu.be/CeTdduq4KbI" rel="alternate" type="text/html"/>
+    <published>2026-10-30T03:00:02.000Z</published>
+    <updated>2026-10-30T03:00:02.000Z</updated>
+    <author>
+      <name>IRISÉ</name>
+      <uri>https://www.youtube.com/channel/UCMmcz1ybSoAD-GUlDx_7H2A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=CeTdduq4KbI 【LIVE on &lt;t:1793329202:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/CeTdduq4KbI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:988ee1c0-b7f3-573d-ba74-2973e4a3cf96</id>
@@ -846,20 +874,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:76dddc51-42c5-5124-a51a-7cca13ef8b89</id>
-    <title><![CDATA[【ホロドリ】『PARADISE!』hololive IDOL PROJECT (Full ver.)]]></title>
-    <link href="https://youtu.be/hpfbbvQvB-E" rel="alternate" type="text/html"/>
-    <published>2026-10-14T10:03:39.000Z</published>
-    <updated>2026-10-14T10:03:39.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=hpfbbvQvB-E 【LIVE on &lt;t:1791972219:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hpfbbvQvB-E/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:a41b1ab0-7465-5491-9c81-c955c87d6913</id>
     <title><![CDATA[【歌枠】第137回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/gEs6f4ARWW8" rel="alternate" type="text/html"/>
@@ -871,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=gEs6f4ARWW8 【LIVE on &lt;t:1791900042:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gEs6f4ARWW8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2fd498a5-31a8-573d-865d-720ca7f8686d</id>
-    <title><![CDATA[【Animation MV】PON-DERFUL!!! / さくらみこ (official)]]></title>
-    <link href="https://youtu.be/i5GP5VRzB4E" rel="alternate" type="text/html"/>
-    <published>2026-10-13T13:00:11.000Z</published>
-    <updated>2026-10-13T13:00:11.000Z</updated>
-    <author>
-      <name>Miko Ch. さくらみこ</name>
-      <uri>https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=i5GP5VRzB4E 【LIVE on &lt;t:1791896411:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i5GP5VRzB4E/maxresdefault.jpg"/>
   </entry>
 
   <entry>
