@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-10-30T08:28:43.000Z",
-    "available_at": "2026-10-30T09:00:00.000Z",
+    "available_at": "2026-10-30T08:59:36.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
       "name": "Takanashi Kiara Ch. hololive",
@@ -24,9 +24,9 @@
     "type": "stream",
     "topic_id": "3D_Stream",
     "published_at": "2026-10-30T04:14:19.000Z",
-    "available_at": "2026-10-30T09:00:00.000Z",
+    "available_at": "2026-10-30T08:58:28.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCMmcz1ybSoAD-GUlDx_7H2A",
       "name": "IRISÉ",
@@ -133,6 +133,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/SVUeFR_FT5vqSsETqWnu5UVGE5gAdeCoJUJT93aYnX8XF_4uhgM97zG57m3BkddT05WamMnIBQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "Fp67-5QI3gM",
+    "title": "【MINI 3D LIVE】 The spell you have cast on me is eternal. Welcome to my #HAUNTEDMOONMINI3D 🌕✨",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-10-29T02:56:06.000Z",
+    "available_at": "2026-10-31T03:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC7gxU6NXjKF1LrgOddPzgTw",
+      "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
+      "org": "Hololive",
+      "suborg": "ocHOLOSTARS English -TEMPUS- Vanguard",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/nC2GAWdVE3d-zpIcTLf0Tj4kve2VQ-12GqKB237p9aqT69TGKcRldFTnKT4MR8B4OjZFIYU_=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Banzoin Hakka"
     }
   },
   {
@@ -5329,25 +5348,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/0U4db4K3UONasRaHqLJJL5ZERP5Jo9uBM17eNR3iLhQCPcFqoWqaaIwa4bY-IRrEOodEULLdTg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Compsaurus"
-    }
-  },
-  {
-    "id": "IbyN7S23r9Y",
-    "title": "【 #FGママ力対決 】ママはこのあたしよ♡【ラプラス・ダークネス/水宮枢/輪堂千速/虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-07-24T12:02:25.000Z",
-    "available_at": "2026-07-24T11:00:14.000Z",
-    "duration": 3525,
-    "status": "past",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
