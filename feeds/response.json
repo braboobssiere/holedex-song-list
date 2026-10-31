@@ -137,6 +137,26 @@
     }
   },
   {
+    "id": "YUnpx-WpTGA",
+    "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-29T17:11:22.000Z",
+    "available_at": "2026-10-29T12:01:13.000Z",
+    "duration": 5341,
+    "status": "past",
+    "songcount": 16,
+    "channel": {
+      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
+      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/F6JBwH9DTYVbtij80QQ7sisiFWLOBv1MdNopYjU2CrcVSnjXU0ZDLU0XiP6G3LwSyX-B_PZ1-5o=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Otonose Kanade"
+    }
+  },
+  {
     "id": "CAuo9Nrfor4",
     "title": "【Animation MV】果てない旅 / 輪堂千速(official)",
     "type": "stream",
@@ -154,26 +174,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "YUnpx-WpTGA",
-    "title": "【 歌枠 】ゆるくゆるく【音乃瀬奏】#ReGLOSS",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-29T11:45:28.000Z",
-    "available_at": "2026-10-29T12:01:13.000Z",
-    "duration": 5339,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UCWQtYtq9EOB4-I5P-3fh8lA",
-      "name": "Kanade Ch. 音乃瀬奏 ‐ ReGLOSS",
-      "org": "Hololive",
-      "suborg": "taDEV_IS ReGLOSS",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F6JBwH9DTYVbtij80QQ7sisiFWLOBv1MdNopYjU2CrcVSnjXU0ZDLU0XiP6G3LwSyX-B_PZ1-5o=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Otonose Kanade"
     }
   },
   {
@@ -205,6 +205,7 @@
     "available_at": "2026-10-31T02:59:35.000Z",
     "duration": 3039,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
