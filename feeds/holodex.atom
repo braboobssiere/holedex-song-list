@@ -3,21 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-31T01:56:31.259Z</updated>
-
-  <entry>
-    <id>urn:uuid:ac513344-e5d6-54ae-a43a-7d536389857a</id>
-    <title><![CDATA[Takanashi Kiara reacts to IRISÉ (아이리제) ‘TRAUMA (Feat. Takanashi Kiara)' Official MV]]></title>
-    <link href="https://youtu.be/LYb4A_Syxbg" rel="alternate" type="text/html"/>
-    <published>2026-10-30T21:58:46.000Z</published>
-    <updated>2026-10-30T21:58:46.000Z</updated>
-    <author>
-      <name>Takanashi Kiara Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=LYb4A_Syxbg 【LIVE on &lt;t:1793397526:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/LYb4A_Syxbg/maxresdefault.jpg"/>
-  </entry>
+  <updated>2026-10-31T02:26:27.941Z</updated>
 
   <entry>
     <id>urn:uuid:c2f9ef8b-3a37-5dd8-aaf7-65f4fac6c80d</id>
@@ -843,6 +829,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=pjHzp3oNG0o 【LIVE on &lt;t:1792076412:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pjHzp3oNG0o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1e9e47ea-8c9f-5c81-ae7c-8dd5f86a019c</id>
+    <title><![CDATA[Candy Candy Midnight]]></title>
+    <link href="https://youtu.be/pF9Z04db2xY" rel="alternate" type="text/html"/>
+    <published>2026-10-14T15:04:09.000Z</published>
+    <updated>2026-10-14T15:04:09.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pF9Z04db2xY 【LIVE on &lt;t:1791990249:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pF9Z04db2xY/maxresdefault.jpg"/>
   </entry>
 
   <entry>
