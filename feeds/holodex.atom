@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-10-31T14:56:25.370Z</updated>
+  <updated>2026-10-31T15:26:57.971Z</updated>
+
+  <entry>
+    <id>urn:uuid:6724a3df-fcc0-53ba-85a1-162d106aa07b</id>
+    <title><![CDATA[推したら引けない恋でした]]></title>
+    <link href="https://youtu.be/WQddgm8A1R8" rel="alternate" type="text/html"/>
+    <published>2026-10-31T15:00:02.000Z</published>
+    <updated>2026-10-31T15:00:02.000Z</updated>
+    <author>
+      <name>Koyori ch. 博衣こより - holoX -</name>
+      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=WQddgm8A1R8 【LIVE on &lt;t:1793458802:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WQddgm8A1R8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c6afcc4d-41cf-58f2-93e5-3859950101ca</id>
@@ -885,20 +899,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=H6HLlUWShrQ 【LIVE on &lt;t:1792076419:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/H6HLlUWShrQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ad4b1220-6522-5019-ab64-9f520135e7ae</id>
-    <title><![CDATA[Glitch Through]]></title>
-    <link href="https://youtu.be/pjHzp3oNG0o" rel="alternate" type="text/html"/>
-    <published>2026-10-15T15:00:12.000Z</published>
-    <updated>2026-10-15T15:00:12.000Z</updated>
-    <author>
-      <name>Shiori Novella Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pjHzp3oNG0o 【LIVE on &lt;t:1792076412:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pjHzp3oNG0o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
