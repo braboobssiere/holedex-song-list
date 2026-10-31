@@ -1,5 +1,24 @@
 [
   {
+    "id": "OOHD0S51ay0",
+    "title": "【KARAOKE】50%の確率でアーカイブメン限歌",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-31T11:37:18.000Z",
+    "available_at": "2026-10-31T11:38:33.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/6Y5lj4DhikLBo0UqIZ1dT3-D3aYXVPbxUgNTyYiyE_Se8AVxkGAn05D3oc1y3whpzDu-CzEQ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "La+ Darknesss"
+    }
+  },
+  {
     "id": "hIZStHIIISo",
     "title": "HALLOWEEN KARAOKE TIME!!!",
     "type": "stream",
@@ -243,7 +262,7 @@
     "available_at": "2026-10-31T02:59:35.000Z",
     "duration": 3039,
     "status": "past",
-    "songcount": 1,
+    "songcount": 6,
     "channel": {
       "id": "UC7gxU6NXjKF1LrgOddPzgTw",
       "name": "Banzoin Hakka Ch. HOLOSTARS-EN",
@@ -6649,25 +6668,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/NMQf5pvmMxTtKtKz0ALKMHP_XZvhwscg1kYRMO_Ig91U3Ljh1gM6vzso-NwXdkqAMEu-Dm-9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Rindo Chihaya"
-    }
-  },
-  {
-    "id": "cg18GJwiv9Q",
-    "title": "【歌枠】夏休みしてきたンゴー!!【虎金妃笑虎】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2025-10-10T12:07:35.000Z",
-    "available_at": "2026-10-01T09:30:00.000Z",
-    "duration": 0,
-    "status": "missing",
-    "channel": {
-      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
-      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "tcDEV_IS FLOW GLOW",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/DGtZSaUmDAhy_snQvVMofjDgWXHzNkKD-UdjFatWkknIlHXSsrLp8JvPKUCe5Gik_4bhm6eBlQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koganei Niko"
     }
   },
   {
