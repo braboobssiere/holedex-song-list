@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-10-31T10:19:57.000Z",
-    "available_at": "2026-10-31T11:00:00.000Z",
+    "available_at": "2026-10-31T10:55:35.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC_sFNM0z0MWm9A6WlKPuMMg",
       "name": "Nerissa Ravencroft Ch. hololive",
@@ -16,25 +16,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/V1Ow-KEzUUTOpE6dp3oQzxRAH1t-zwkfnlG8lGG6TbJ5SLPyfNXCSH3xAGVmaDEZfNA4xe4kJQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Nerissa Ravencroft"
-    }
-  },
-  {
-    "id": "RSX-jUjc9Hw",
-    "title": "【3D LIVE】らぶりー属性♡/テロップ・歌詞無しver【ホロライブ/白上フブキ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-10-31T10:00:31.000Z",
-    "available_at": "2026-10-31T10:00:31.000Z",
-    "duration": 232,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
     }
   },
   {
@@ -5171,6 +5152,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/eC6k63zvyZma-t4NwtxhKXaP7smdQuXM6KA9r8i-ZLxnfSh5ngfAPibEAwtbFy4QEGnt_lY6lA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Fuwawa & Mococo Abyssgard"
+    }
+  },
+  {
+    "id": "r2d6FdzPvzM",
+    "title": "[IRISÉ LIVE] WELCOME TO KOREA, KIARA !!🐔🩵💙",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-07-30T12:18:41.000Z",
+    "available_at": "2026-07-30T10:02:15.000Z",
+    "duration": 7716,
+    "status": "past",
+    "channel": {
+      "id": "UCMmcz1ybSoAD-GUlDx_7H2A",
+      "name": "IRISÉ",
+      "org": "Independents",
+      "suborg": "ZZ",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/KfFjZcrWvgoEaWW2VExZ_qxEs3eLlckFQMb05PglTx_yrocBD-zHqCMMTSf-fPjJWrt1bII9pAk=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "IRISE"
     }
   },
   {
