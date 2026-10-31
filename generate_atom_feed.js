@@ -31,7 +31,8 @@ function createAtomFeed(videos, feedUrl) {
   videos.forEach(video => {
     //skip missing, holostars video, no song live
     if (video.status === "missing" ||
-        (!video.title.toLowerCase().includes("unarchive") && (video.songcount === undefined ||
+        (!video.title.toLowerCase().includes("unarchive") && !video.title.toLowerCase().includes("no archive") &&
+         (video.songcount === undefined ||
           video.songcount <= 1) && (video.topic_id === "Birthday" ||
           video.topic_id === "Anniversary" || video.topic_id === "3D_Stream")
         ) || video.channel.name.toLowerCase().includes("holostar") || video.title.toLowerCase().includes("(instrumental)") ||
