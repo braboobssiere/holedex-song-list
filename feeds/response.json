@@ -1,5 +1,24 @@
 [
   {
+    "id": "LCCe_mqLNH8",
+    "title": "???",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-01T12:05:07.000Z",
+    "available_at": "2026-11-01T12:05:07.000Z",
+    "duration": 230,
+    "status": "past",
+    "channel": {
+      "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり",
+      "org": "Hololive",
+      "suborg": "c 1st Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/LZBvU0s_S-xi7fHmeab_iA8ztfGimxzisUBMODGKaIEx3r3R-tIDReiX3SlmbH2showigElJ=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Natsuiro Matsuri"
+    }
+  },
+  {
     "id": "gcw3FDCFWi8",
     "title": "【ORIGINAL 3D MV】 HEADSHOT || HAKOS BAELZ (Prod. TeddyLoid x MATZ)",
     "type": "stream",
@@ -421,10 +440,10 @@
     "topic_id": "Birthday",
     "published_at": "2026-10-29T07:24:20.000Z",
     "available_at": "2026-11-01T10:53:13.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4373,
+    "status": "past",
     "live_tl_count": {
-      "en": 61
+      "en": 114
     },
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -1885,27 +1904,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive Dreams"
-    }
-  },
-  {
-    "id": "__cHmEg8N50",
-    "title": "64. (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-10-15T15:00:17.000Z",
-    "available_at": "2026-10-15T15:00:17.000Z",
-    "duration": 182,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCrDrxzW0E9dXhcLSqEWLxrw",
-    "channel": {
-      "id": "UC727SQYUvx5pDDGQpTICNWg",
-      "name": "Anya Melfissa Ch. hololive",
-      "org": "Hololive",
-      "suborg": "kcIndonesia 2nd Gen (holoro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/I1hkzp7Vty4M-KkSccRORE32t4cFq2HI2uAB1t4BPlwej6_XJ4eRlpy7NNZ9x4JBnqlkOnGz=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Anya Melfissa"
     }
   },
   {
