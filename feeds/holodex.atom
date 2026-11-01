@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-01T15:56:32.130Z</updated>
+  <updated>2026-11-01T16:26:29.232Z</updated>
+
+  <entry>
+    <id>urn:uuid:810cfde0-3134-5783-92bd-069899822508</id>
+    <title><![CDATA[【not really ASMR】Literally and figuratively reading you a book!]]></title>
+    <link href="https://youtu.be/Ae0g2ETlea0" rel="alternate" type="text/html"/>
+    <published>2026-11-01T15:55:40.000Z</published>
+    <updated>2026-11-01T19:00:00.000Z</updated>
+    <author>
+      <name>Cecilia Immergreen Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCvN5h1ShZtc7nly3pezRayg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Ae0g2ETlea0 【LIVE on &lt;t:1793559600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Ae0g2ETlea0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:da00a70e-f39c-577c-b546-8681314948f5</id>
@@ -2355,20 +2369,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=OcLBU4oNhnI 【LIVE on &lt;t:1769432505:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/OcLBU4oNhnI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:e6a1df0c-06a4-57f7-a5f0-e4c2ca335d4d</id>
-    <title><![CDATA[【ASMR】 chatting  - ear massage - random quirky affection - beep boop ~! 💄]]></title>
-    <link href="https://youtu.be/9x1RSPP5jxg" rel="alternate" type="text/html"/>
-    <published>2026-01-23T04:58:35.000Z</published>
-    <updated>2026-01-23T03:13:01.000Z</updated>
-    <author>
-      <name>Elizabeth Rose Bloodflame Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCW5uhrG1eCBYditmhL0Ykjw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=9x1RSPP5jxg 【LIVE on &lt;t:1769137981:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9x1RSPP5jxg/maxresdefault.jpg"/>
   </entry>
 
   <entry>
