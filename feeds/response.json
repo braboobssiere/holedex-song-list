@@ -44,8 +44,8 @@
     "topic_id": "singing",
     "published_at": "2026-10-31T20:27:35.000Z",
     "available_at": "2026-11-01T10:06:29.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3675,
+    "status": "past",
     "channel": {
       "id": "UCvzGlP9oQwU--Y0r9id_jnA",
       "name": "Subaru Ch. 大空スバル",
@@ -418,11 +418,14 @@
     "id": "oMXaXv1q7kw",
     "title": "【 3DLIVE 】速報!夏色まつり古神曲ライブ~ktkr(ﾟ∀ﾟ)視聴キボンヌ~【ホロライブ/夏色まつり】",
     "type": "stream",
-    "topic_id": "3D_Stream",
+    "topic_id": "Birthday",
     "published_at": "2026-10-29T07:24:20.000Z",
     "available_at": "2026-11-01T10:53:13.000Z",
     "duration": 0,
     "status": "live",
+    "live_tl_count": {
+      "en": 32
+    },
     "channel": {
       "id": "UCQ0UDLQCjY0rmuxCDE38FGg",
       "name": "Matsuri Channel 夏色まつり",
@@ -5154,6 +5157,25 @@
     }
   },
   {
+    "id": "wZTVdKbkvRI",
+    "title": "【3D OFFCOLLAB】First Time Meeting @gosegu IRL in KOREA!!! #kfp",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-07-31T12:21:28.000Z",
+    "available_at": "2026-07-31T10:02:24.000Z",
+    "duration": 7970,
+    "status": "past",
+    "channel": {
+      "id": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive",
+      "org": "Hololive",
+      "suborg": "h English -Myth-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/vnzn_RiKneABPPnp1-0SO4IAZQRXqVsL5RNDQYGR9GhT-Flm47vM4UJeyGfn4U_gteKqJMBwNA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Takanashi Kiara"
+    }
+  },
+  {
     "id": "7K2atJEZLsM",
     "title": "【FUWAMOCO 3rd ANNIVERSARY】we're the luckiest demon dogs ever because of YOU 🐾✨️ #FWMC3rd",
     "type": "stream",
@@ -5486,25 +5508,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "ENEbrnw0WgQ",
-    "title": "#夜十神封魔生誕祭2026|完食するまで終われません!悲しみと辛さのその先へ。※3D&カメラあり【夜十神封魔/ホロスターズ】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-13T12:59:57.000Z",
-    "available_at": "2026-07-13T11:02:09.000Z",
-    "duration": 4993,
-    "status": "past",
-    "channel": {
-      "id": "UCc88OV45ICgHbn3ZqLLb52w",
-      "name": "Fuma Ch. 夜十神封魔 - UPROAR!! -",
-      "org": "Hololive",
-      "suborg": "naHOLOSTARS UPROAR!!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/wHtqHQ5LdCv_PnI-EeHUoedJgOe-fQcv9Fhkb7cod7oTo-f3rKJBJA0xSsVS4BhO9HnShdrnBA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yatogami Fuma"
     }
   },
   {
