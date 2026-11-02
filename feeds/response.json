@@ -1,5 +1,43 @@
 [
   {
+    "id": "N0zOqrloArU",
+    "title": "【歌枠】リクエスト歌枠∼!【轟はじめ/ホロライブReGLOSS】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-11-02T10:21:04.000Z",
+    "available_at": "2026-11-02T11:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC1iA6_NT4mtAcIII6ygrvCw",
+      "name": "Hajime Ch. 轟はじめ ‐ ReGLOSS",
+      "org": "Hololive",
+      "suborg": "taDEV_IS ReGLOSS",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/IwEr_84NWbwSIRj6ZG3pt0yBieCqPcUwG978KkMw1HiVtorKvHhX3ZaLqOndMAfSU8S9aJw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Todoroki Hajime"
+    }
+  },
+  {
+    "id": "X2vuO3s1vBE",
+    "title": "【歌枠/KARAOKE】やっとこさ新アプリ!『楽』試してみるぞい!!!【#輪堂千速 / #hololive #FLOWGLOW 】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-11-02T09:44:20.000Z",
+    "available_at": "2026-11-02T10:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
+      "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Stp3Ku6cyXyfOfhe-_QQQItPbBTKSUDm0ySR-VsbzbMxqJtGoyrIlI-O_rjqFB0F391WMBFA7A=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Rindo Chihaya"
+    }
+  },
+  {
     "id": "r3k4XVlqXCs",
     "title": "Hot Bosses Can't Keep Their Hands Off You | ASMR RP | [MM4A] [Mafia] [Teasing] ft. @JurardTRexford",
     "type": "stream",
@@ -255,8 +293,8 @@
     "topic_id": "singing",
     "published_at": "2026-11-01T13:11:09.000Z",
     "available_at": "2026-11-02T08:59:18.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 4972,
+    "status": "past",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -2709,46 +2747,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Achichi Mela"
-    }
-  },
-  {
-    "id": "qZ3kwg_7Zvk",
-    "title": "【#アソビまわり隊歌枠リレー】盛り上がってこーーー!!!!【百灯キョーコ/ホロライブ/アソビ★まわり隊!】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-04T12:22:16.000Z",
-    "available_at": "2026-10-04T11:59:09.000Z",
-    "duration": 1256,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCSjQDxud2HkAO2DVD3lwxmw",
-      "name": "Kyoko Ch. 百灯キョーコ ‐ アソビ★まわり隊!",
-      "org": "Hololive",
-      "suborg": "gpASOBI★MAWARI-TAI!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ICKlWnk7O6HXu8Y46SJhzgTUvCAwGWaEaGrrrT88VpGOerP9BOpZtYOKZ7MB5fIgAa4_R4u1ncM=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hyakuto Kyoko"
-    }
-  },
-  {
-    "id": "rPIuD8ql7Fg",
-    "title": "【#アソビまわり隊歌枠リレー】お歌のお届けです!! #ホロライブ #アソビまわり隊",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-04T12:01:53.000Z",
-    "available_at": "2026-10-04T11:40:03.000Z",
-    "duration": 1153,
-    "status": "past",
-    "songcount": 4,
-    "channel": {
-      "id": "UCy9mgxB8pn2C4aNK_MPthDQ",
-      "name": "Tsuzuri Ch. 鈴鳴つづり ‐ アソビ★まわり隊!",
-      "org": "Hololive",
-      "suborg": "gpASOBI★MAWARI-TAI!",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XcXvmoDV0Cx77O7Lh730dwbR-f2-XlSwPSdvcfh_zS5jBY3R2Qe0NWEGeJTWVXDY025ShlmER2o=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Suzuna Tsuzuri"
     }
   },
   {
