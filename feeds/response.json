@@ -27,6 +27,7 @@
     "available_at": "2026-11-02T10:33:26.000Z",
     "duration": 0,
     "status": "live",
+    "songcount": 4,
     "channel": {
       "id": "UCKMWFR6lAstLa7Vbf5dH7ig",
       "name": "Chihaya Ch. 輪堂 千速 - FLOW GLOW",
@@ -385,6 +386,25 @@
     }
   },
   {
+    "id": "qQDZTNU3Itg",
+    "title": "【歌枠 / karaoke】おかしくださーーーーーーーーーーーーい!!!!(無邪気)/ アステル",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-31T19:36:30.000Z",
+    "available_at": "2026-10-31T13:05:16.000Z",
+    "duration": 8063,
+    "status": "past",
+    "channel": {
+      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
+      "name": "astel ch.アステル",
+      "org": "Hololive",
+      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Astel Leda"
+    }
+  },
+  {
     "id": "H2ZY7Tav_V8",
     "title": "推したら引けない恋でした (Instrumental)",
     "type": "stream",
@@ -462,25 +482,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/Ql2-jBLy79msxT5WUCZPjgzxec-WKL3kJ0YUydnVeudczL4f7u53wezlZMBr9A-6kXWb5JaPfFw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Granite"
-    }
-  },
-  {
-    "id": "qQDZTNU3Itg",
-    "title": "【歌枠 / karaoke】おかしくださーーーーーーーーーーーーい!!!!(無邪気)/ アステル",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-31T12:17:27.000Z",
-    "available_at": "2026-10-31T13:05:16.000Z",
-    "duration": 8068,
-    "status": "past",
-    "channel": {
-      "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
-      "name": "astel ch.アステル",
-      "org": "Hololive",
-      "suborg": "mcHOLOSTARS 2nd Gen (SunTempo)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/dY6WTtYvc9ocqLWnyTXaGBiZSa_uIYEU7FEqGF8u3Ivbu3d3YBj2NJfls6dn_EvkvIAlr2ztfA=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Astel Leda"
     }
   },
   {
