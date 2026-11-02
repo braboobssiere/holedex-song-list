@@ -254,9 +254,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-11-01T13:11:09.000Z",
-    "available_at": "2026-11-02T09:00:00.000Z",
+    "available_at": "2026-11-02T08:59:18.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCDqI2jOz0weumE8s7paEk6g",
       "name": "Roboco Ch. - ロボ子",
@@ -386,6 +386,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "NebfZQFj5Zg",
+    "title": "【 #グラニット生誕祭2026 】豪華な人達を迎えてハロウィン記念凸待ち!【グラニット/ゆにれいど!】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-10-31T13:29:28.000Z",
+    "available_at": "2026-10-31T09:56:32.000Z",
+    "duration": 10777,
+    "status": "past",
+    "channel": {
+      "id": "UC1_HUmjQShLtT_MuZjry3hQ",
+      "name": "グラニット / Granite",
+      "org": "Uniraid!",
+      "suborg": "30LIEMEL",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ql2-jBLy79msxT5WUCZPjgzxec-WKL3kJ0YUydnVeudczL4f7u53wezlZMBr9A-6kXWb5JaPfFw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Granite"
     }
   },
   {
@@ -5480,25 +5499,6 @@
     "live_tl_count": {
       "en": 48
     },
-    "channel": {
-      "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
-      "name": "Airani Iofifteen Channel hololive",
-      "org": "Hololive",
-      "suborg": "kaIndonesia 1st Gen (AREA 15)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ghhBoD-8O908tlUkF45A49D5jbEOkzYR7dgxweO-sOdtlOvE21BLtVSpn6w4sapj4YEtAVoc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Airani Iofifteen"
-    }
-  },
-  {
-    "id": "IOeOMu6u5-I",
-    "title": "Airani iofifteen Birthday Countdown! #iofiCrimsonKnot",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-14T17:51:49.000Z",
-    "available_at": "2026-07-14T16:00:42.000Z",
-    "duration": 4515,
-    "status": "past",
     "channel": {
       "id": "UCAoy6rzhSf4ydcYjJw3WoVg",
       "name": "Airani Iofifteen Channel hololive",
