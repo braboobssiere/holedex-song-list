@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-04T08:56:28.729Z</updated>
+  <updated>2026-11-04T09:26:44.752Z</updated>
 
   <entry>
     <id>urn:uuid:591928c6-5a9e-5e0c-98b0-cee8373c438f</id>
@@ -90,6 +90,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:df4754be-fd19-598d-af8e-e3b1deffe0f2</id>
+    <title><![CDATA[【歌枠】リクエスト歌枠∼!【轟はじめ/ホロライブReGLOSS】]]></title>
+    <link href="https://youtu.be/N0zOqrloArU" rel="alternate" type="text/html"/>
+    <published>2026-11-02T13:21:20.000Z</published>
+    <updated>2026-11-02T11:30:43.000Z</updated>
+    <author>
+      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=N0zOqrloArU 【LIVE on &lt;t:1793619043:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N0zOqrloArU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:59f10553-fc4f-5d11-bad2-c307e9a5fe80</id>
     <title><![CDATA[【歌枠/KARAOKE】やっとこさ新アプリ!『楽』試してみるぞい!!!【#輪堂千速 / #hololive #FLOWGLOW 】]]></title>
     <link href="https://youtu.be/X2vuO3s1vBE" rel="alternate" type="text/html"/>
@@ -115,20 +129,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=TEPBDaYLqOE 【LIVE on &lt;t:1793609958:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/TEPBDaYLqOE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:df4754be-fd19-598d-af8e-e3b1deffe0f2</id>
-    <title><![CDATA[【歌枠】リクエスト歌枠∼!【轟はじめ/ホロライブReGLOSS】]]></title>
-    <link href="https://youtu.be/N0zOqrloArU" rel="alternate" type="text/html"/>
-    <published>2026-11-02T10:21:04.000Z</published>
-    <updated>2026-11-02T11:30:43.000Z</updated>
-    <author>
-      <name>Hajime Ch. 轟はじめ ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=N0zOqrloArU 【LIVE on &lt;t:1793619043:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/N0zOqrloArU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
