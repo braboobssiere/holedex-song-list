@@ -3,7 +3,77 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-04T14:56:24.066Z</updated>
+  <updated>2026-11-04T15:26:28.610Z</updated>
+
+  <entry>
+    <id>urn:uuid:de101b5d-ad59-51f4-a719-994575815793</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説 (宝鐘マリン SOLO ver.)]]></title>
+    <link href="https://youtu.be/q4P_cEApp44" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:04:37.000Z</published>
+    <updated>2026-11-04T15:04:37.000Z</updated>
+    <author>
+      <name>Marine Ch. 宝鐘マリン hololive3期生</name>
+      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=q4P_cEApp44 【LIVE on &lt;t:1793804677:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q4P_cEApp44/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1fb19eeb-8da1-55fc-9e21-a965d87904f6</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説 (一条莉々華 SOLO ver.)]]></title>
+    <link href="https://youtu.be/YwH7pW1k2yc" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:04:05.000Z</published>
+    <updated>2026-11-04T15:04:05.000Z</updated>
+    <author>
+      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
+      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YwH7pW1k2yc 【LIVE on &lt;t:1793804645:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YwH7pW1k2yc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:db53174d-7827-50d1-8b7f-c6f70c748d10</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説]]></title>
+    <link href="https://youtu.be/BNz8E49HkkI" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:03:25.000Z</published>
+    <updated>2026-11-04T15:03:25.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BNz8E49HkkI 【LIVE on &lt;t:1793804605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BNz8E49HkkI/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:f1500854-93f8-5596-aee0-b79d1bfcf066</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説 (白上フブキ SOLO ver.)]]></title>
+    <link href="https://youtu.be/Nfbr10KhVWs" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:03:23.000Z</published>
+    <updated>2026-11-04T15:03:23.000Z</updated>
+    <author>
+      <name>フブキCh。白上フブキ</name>
+      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Nfbr10KhVWs 【LIVE on &lt;t:1793804603:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nfbr10KhVWs/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:af69151b-11e3-5ee3-8ba6-c7dc04dcb873</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説 (アキ・ローゼンタール SOLO ver.)]]></title>
+    <link href="https://youtu.be/zlIbXAyUdgA" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:02:52.000Z</published>
+    <updated>2026-11-04T15:02:52.000Z</updated>
+    <author>
+      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
+      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zlIbXAyUdgA 【LIVE on &lt;t:1793804572:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zlIbXAyUdgA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:6ccd54c4-cb88-586c-bb6d-2efacb76796f</id>
@@ -857,90 +927,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=mIxdik5YxQU 【LIVE on &lt;t:1792508437:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mIxdik5YxQU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:40351c4c-ee87-5efd-a4b4-d4d9f373c630</id>
-    <title><![CDATA[合縁事変]]></title>
-    <link href="https://youtu.be/vCdbSuABnrA" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:32.000Z</published>
-    <updated>2026-10-20T15:00:32.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vCdbSuABnrA 【LIVE on &lt;t:1792508432:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vCdbSuABnrA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:80acc275-9252-5f22-814f-898c5de8205b</id>
-    <title><![CDATA[Jumping in the Time]]></title>
-    <link href="https://youtu.be/5UJOIEdWxPM" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:27.000Z</published>
-    <updated>2026-10-20T15:00:27.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=5UJOIEdWxPM 【LIVE on &lt;t:1792508427:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5UJOIEdWxPM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:aadd317c-c8e6-54a5-8111-175fcdb51895</id>
-    <title><![CDATA[興味ないよ]]></title>
-    <link href="https://youtu.be/_SPZljrdBJM" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:20.000Z</published>
-    <updated>2026-10-20T15:00:20.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=_SPZljrdBJM 【LIVE on &lt;t:1792508420:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_SPZljrdBJM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:35c7fc30-b502-544f-9781-6036854de95b</id>
-    <title><![CDATA[お姉さま♡ラヴコール]]></title>
-    <link href="https://youtu.be/lk2LwlBpP8Q" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:18.000Z</published>
-    <updated>2026-10-20T15:00:18.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=lk2LwlBpP8Q 【LIVE on &lt;t:1792508418:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/lk2LwlBpP8Q/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:2074d5fe-b418-5053-ab8c-a20bd9aebc09</id>
-    <title><![CDATA[バグラブ]]></title>
-    <link href="https://youtu.be/29oV0QRu9gU" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:12.000Z</published>
-    <updated>2026-10-20T15:00:12.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=29oV0QRu9gU 【LIVE on &lt;t:1792508412:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/29oV0QRu9gU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:80bbbb8f-5b8f-5b6e-94bc-d31cb3352eb2</id>
-    <title><![CDATA[Dark Breath]]></title>
-    <link href="https://youtu.be/ahwfxPrNxfE" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:03.000Z</published>
-    <updated>2026-10-20T15:00:03.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=ahwfxPrNxfE 【LIVE on &lt;t:1792508403:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/ahwfxPrNxfE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
