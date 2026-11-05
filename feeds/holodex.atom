@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-05T09:56:25.493Z</updated>
+  <updated>2026-11-05T10:26:30.775Z</updated>
 
   <entry>
     <id>urn:uuid:de101b5d-ad59-51f4-a719-994575815793</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YwH7pW1k2yc 【LIVE on &lt;t:1793804645:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YwH7pW1k2yc/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:db53174d-7827-50d1-8b7f-c6f70c748d10</id>
+    <title><![CDATA[神ツモ☆ドラドラ伝説]]></title>
+    <link href="https://youtu.be/BNz8E49HkkI" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:03:25.000Z</published>
+    <updated>2026-11-04T15:03:25.000Z</updated>
+    <author>
+      <name>ホロライブ麻雀 -ホロじゃん-</name>
+      <uri>https://www.youtube.com/channel/UCIvJ2ws0x3ulxR5EZ8ZzA2A</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=BNz8E49HkkI 【LIVE on &lt;t:1793804605:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BNz8E49HkkI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -927,34 +941,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=d0C4OS-Rsec 【LIVE on &lt;t:1792508439:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/d0C4OS-Rsec/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:591711e2-f39a-5152-90ba-0af46025909a</id>
-    <title><![CDATA[喰ライ]]></title>
-    <link href="https://youtu.be/HVffaWstKbY" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:38.000Z</published>
-    <updated>2026-10-20T15:00:38.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=HVffaWstKbY 【LIVE on &lt;t:1792508438:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/HVffaWstKbY/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d804124d-ff1e-53bf-b0d9-3111accf1ab1</id>
-    <title><![CDATA[BLOCK YOU]]></title>
-    <link href="https://youtu.be/mIxdik5YxQU" rel="alternate" type="text/html"/>
-    <published>2026-10-20T15:00:37.000Z</published>
-    <updated>2026-10-20T15:00:37.000Z</updated>
-    <author>
-      <name>Laplus ch. ラプラス・ダークネス - holoX -</name>
-      <uri>https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mIxdik5YxQU 【LIVE on &lt;t:1792508437:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mIxdik5YxQU/maxresdefault.jpg"/>
   </entry>
 
   <entry>
