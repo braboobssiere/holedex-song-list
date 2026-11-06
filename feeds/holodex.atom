@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-06T11:26:32.066Z</updated>
+  <updated>2026-11-06T11:56:31.100Z</updated>
 
   <entry>
     <id>urn:uuid:039ead44-5832-57f8-a3c0-1b82f847fb34</id>
@@ -59,6 +59,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eaPEREHrA5w 【LIVE on &lt;t:1793876409:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eaPEREHrA5w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:6ccd54c4-cb88-586c-bb6d-2efacb76796f</id>
+    <title><![CDATA[【歌枠】はじめての個人歌枠🎤💐アイドルを目指す第一歩🎀歌って語りたい‼️【#琉海垣りらら #りららだいびんぐ】]]></title>
+    <link href="https://youtu.be/1dnTeOVuCw4" rel="alternate" type="text/html"/>
+    <published>2026-11-04T15:53:48.000Z</published>
+    <updated>2026-11-04T12:12:38.000Z</updated>
+    <author>
+      <name>ACHRORA - mekPark</name>
+      <uri>https://www.youtube.com/channel/UChpRPsAeSZn5DistGacR3iA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1dnTeOVuCw4 【LIVE on &lt;t:1793794358:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1dnTeOVuCw4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -157,20 +171,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=YGC2AAIXVSU 【LIVE on &lt;t:1793793607:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YGC2AAIXVSU/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6ccd54c4-cb88-586c-bb6d-2efacb76796f</id>
-    <title><![CDATA[【歌枠】はじめての個人歌枠🎤💐アイドルを目指す第一歩🎀歌って語りたい‼️【#琉海垣りらら #りららだいびんぐ】]]></title>
-    <link href="https://youtu.be/1dnTeOVuCw4" rel="alternate" type="text/html"/>
-    <published>2026-11-04T12:08:06.000Z</published>
-    <updated>2026-11-04T12:12:38.000Z</updated>
-    <author>
-      <name>ACHRORA - mekPark</name>
-      <uri>https://www.youtube.com/channel/UChpRPsAeSZn5DistGacR3iA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=1dnTeOVuCw4 【LIVE on &lt;t:1793794358:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1dnTeOVuCw4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
