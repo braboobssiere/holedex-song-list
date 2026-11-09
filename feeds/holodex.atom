@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-09T14:56:36.781Z</updated>
+  <updated>2026-11-09T15:26:33.701Z</updated>
+
+  <entry>
+    <id>urn:uuid:e137398a-07d8-55e5-b3b4-24eed102bc05</id>
+    <title><![CDATA[BOUNCE BACK!]]></title>
+    <link href="https://youtu.be/Fv8ijeYqTS8" rel="alternate" type="text/html"/>
+    <published>2026-11-09T15:00:00.000Z</published>
+    <updated>2026-11-09T15:00:00.000Z</updated>
+    <author>
+      <name>hololive FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Fv8ijeYqTS8 【LIVE on &lt;t:1794236400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fv8ijeYqTS8/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:527e1581-dcc3-5138-b9d7-164bebdc43d4</id>
@@ -871,34 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=mMO8VSZrZWI 【LIVE on &lt;t:1793095210:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mMO8VSZrZWI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:495824c4-26ac-5ed7-9ad7-93a75b2588c1</id>
-    <title><![CDATA[決意のソラへ]]></title>
-    <link href="https://youtu.be/KDfB6ag_h6c" rel="alternate" type="text/html"/>
-    <published>2026-10-27T10:00:06.000Z</published>
-    <updated>2026-10-27T10:00:06.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=KDfB6ag_h6c 【LIVE on &lt;t:1793095206:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KDfB6ag_h6c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a81b9dc5-36cc-5032-b300-42df4934b022</id>
-    <title><![CDATA[ハイパーチャッチャカチャージ]]></title>
-    <link href="https://youtu.be/BUGV22uYc9Y" rel="alternate" type="text/html"/>
-    <published>2026-10-27T10:00:00.000Z</published>
-    <updated>2026-10-27T10:00:00.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BUGV22uYc9Y 【LIVE on &lt;t:1793095200:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BUGV22uYc9Y/maxresdefault.jpg"/>
   </entry>
 
   <entry>
