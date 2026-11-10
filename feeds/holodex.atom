@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-10T10:56:31.176Z</updated>
+  <updated>2026-11-10T11:26:47.053Z</updated>
+
+  <entry>
+    <id>urn:uuid:40c14121-fc11-5a0c-833e-9d8a0a8ea460</id>
+    <title><![CDATA[【original MV】ビビッドキュート【綺々羅々ヴィヴィ/hololive】]]></title>
+    <link href="https://youtu.be/wdpiw6KsLMU" rel="alternate" type="text/html"/>
+    <published>2026-11-10T11:00:19.000Z</published>
+    <updated>2026-11-10T11:00:19.000Z</updated>
+    <author>
+      <name>Vivi Ch. 綺々羅々ヴィヴィ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCGzTVXqMQHa4AgJVJIVvtDQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=wdpiw6KsLMU 【LIVE on &lt;t:1794308419:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wdpiw6KsLMU/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:e137398a-07d8-55e5-b3b4-24eed102bc05</id>
@@ -871,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=sr5nJSExxrk 【LIVE on &lt;t:1793095225:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sr5nJSExxrk/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:ecc6fbf9-cbe9-59c9-80b4-d6c3b00b9cad</id>
-    <title><![CDATA[キラメキMODE! feat. 響咲リオナ]]></title>
-    <link href="https://youtu.be/mMO8VSZrZWI" rel="alternate" type="text/html"/>
-    <published>2026-10-27T10:00:10.000Z</published>
-    <updated>2026-10-27T10:00:10.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=mMO8VSZrZWI 【LIVE on &lt;t:1793095210:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mMO8VSZrZWI/maxresdefault.jpg"/>
   </entry>
 
   <entry>
