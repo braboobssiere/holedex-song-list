@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-11T18:56:40.446Z</updated>
+  <updated>2026-11-11T19:26:33.062Z</updated>
 
   <entry>
     <id>urn:uuid:b571338e-713d-570b-b9bb-698c94b80202</id>
@@ -45,6 +45,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wdpiw6KsLMU 【LIVE on &lt;t:1794308419:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wdpiw6KsLMU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:7c9700f2-b7ce-53bb-8f37-2a30c425a454</id>
+    <title><![CDATA[【Lyric MV】Switch It Up - Kobo Kanaeru]]></title>
+    <link href="https://youtu.be/yVyjAo6j43U" rel="alternate" type="text/html"/>
+    <published>2026-11-10T07:18:12.000Z</published>
+    <updated>2026-11-12T13:00:00.000Z</updated>
+    <author>
+      <name>Kobo Kanaeru Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=yVyjAo6j43U 【LIVE on &lt;t:1794488400:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/yVyjAo6j43U/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -787,20 +801,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=c2l-3G2UnVc 【LIVE on &lt;t:1793329230:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/c2l-3G2UnVc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:d2aedda9-381e-58be-98e8-64d45fc910b3</id>
-    <title><![CDATA[IRISÉ (아이리제) ‘TRAUMA (Feat. Takanashi Kiara)' Official MV]]></title>
-    <link href="https://youtu.be/3f0PTj1xrvw" rel="alternate" type="text/html"/>
-    <published>2026-10-30T03:00:07.000Z</published>
-    <updated>2026-10-30T03:00:07.000Z</updated>
-    <author>
-      <name>IRISÉ</name>
-      <uri>https://www.youtube.com/channel/UCMmcz1ybSoAD-GUlDx_7H2A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=3f0PTj1xrvw 【LIVE on &lt;t:1793329207:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/3f0PTj1xrvw/maxresdefault.jpg"/>
   </entry>
 
   <entry>
