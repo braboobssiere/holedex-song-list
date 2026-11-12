@@ -1,5 +1,25 @@
 [
   {
+    "id": "yVyjAo6j43U",
+    "title": "【Lyric MV】Switch It Up - Kobo Kanaeru",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-12T13:00:10.000Z",
+    "available_at": "2026-11-12T13:00:10.000Z",
+    "duration": 173,
+    "status": "past",
+    "songcount": 1,
+    "channel": {
+      "id": "UCjLEmnpCNeisMxy134KPwWw",
+      "name": "Kobo Kanaeru Ch. hololive",
+      "org": "Hololive",
+      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Kobo Kanaeru"
+    }
+  },
+  {
     "id": "6Tv_afF1zO4",
     "title": "Still Here - Octavio, Banzoin Hakka, Crimzon Ruze 【OFFICIAL MV】",
     "type": "stream",
@@ -86,9 +106,12 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-11-11T12:41:44.000Z",
-    "available_at": "2026-11-12T13:00:00.000Z",
+    "available_at": "2026-11-12T13:00:07.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 37
+    },
     "channel": {
       "id": "UChpRPsAeSZn5DistGacR3iA",
       "name": "ACHRORA - mekPark",
@@ -233,26 +256,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/GoNhfGdAjTpVy0Ej1lHd1Sg42DZgyfwMD-E0Kt2QcjWV9RrKVEO9cxPFqOmxjGvB_pUAPugOSg=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Kikirara Vivi"
-    }
-  },
-  {
-    "id": "yVyjAo6j43U",
-    "title": "【Lyric MV】Switch It Up - Kobo Kanaeru",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-11-10T07:18:12.000Z",
-    "available_at": "2026-11-12T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "songcount": 1,
-    "channel": {
-      "id": "UCjLEmnpCNeisMxy134KPwWw",
-      "name": "Kobo Kanaeru Ch. hololive",
-      "org": "Hololive",
-      "suborg": "keIndonesia 3rd Gen (holoh3ro)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/XRCP2PC-lvvielp04Eq8KyBzgd3_bFc_DNfptN5s-ftd1v6SadGuMChY6Jm3elaqaK7xwE1B=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Kobo Kanaeru"
     }
   },
   {
