@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-13T14:56:36.709Z</updated>
+  <updated>2026-11-13T15:26:37.817Z</updated>
+
+  <entry>
+    <id>urn:uuid:ef3c87fe-d2a3-588a-8451-3b1188b483bc</id>
+    <title><![CDATA[極楽ごきげん縁日和]]></title>
+    <link href="https://youtu.be/hI7W5ngWOLE" rel="alternate" type="text/html"/>
+    <published>2026-11-13T15:04:02.000Z</published>
+    <updated>2026-11-13T15:04:02.000Z</updated>
+    <author>
+      <name>hololive ホロライブ - VTuber Group</name>
+      <uri>https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=hI7W5ngWOLE 【LIVE on &lt;t:1794582242:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hI7W5ngWOLE/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:c5f71dc6-28cb-5431-9286-c561bb2fa2f8</id>
@@ -17,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wgT-WyXsJp0 【LIVE on &lt;t:1794578330:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wgT-WyXsJp0/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:640e995a-f93d-59d9-bc11-5980e326631b</id>
+    <title><![CDATA[Midnight Grand Orchestra『Rat A Tat』(Live Video)]]></title>
+    <link href="https://youtu.be/DPSaDLItzF4" rel="alternate" type="text/html"/>
+    <published>2026-11-13T13:30:04.000Z</published>
+    <updated>2026-11-13T13:30:04.000Z</updated>
+    <author>
+      <name>Midnight Grand Orchestra</name>
+      <uri>https://www.youtube.com/channel/UCnVbtCwr-5LXxUlGxsgD7sQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=DPSaDLItzF4 【LIVE on &lt;t:1794576604:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DPSaDLItzF4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -846,20 +874,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:b7e637e7-f0a9-5656-a685-84064a4cc19f</id>
-    <title><![CDATA[【ORIGINAL 3D MV】 HEADSHOT || HAKOS BAELZ (Prod. TeddyLoid x MATZ)]]></title>
-    <link href="https://youtu.be/gcw3FDCFWi8" rel="alternate" type="text/html"/>
-    <published>2026-11-01T04:15:06.000Z</published>
-    <updated>2026-11-01T04:15:06.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gcw3FDCFWi8 【LIVE on &lt;t:1793506506:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gcw3FDCFWi8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:2dc6d6a3-67da-57c4-ab0f-2225430c6995</id>
     <title><![CDATA[【歌枠】第138回!Halloween🎃Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
     <link href="https://youtu.be/eIkrwL6j-a4" rel="alternate" type="text/html"/>
@@ -871,20 +885,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=eIkrwL6j-a4 【LIVE on &lt;t:1793451729:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eIkrwL6j-a4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6724a3df-fcc0-53ba-85a1-162d106aa07b</id>
-    <title><![CDATA[推したら引けない恋でした]]></title>
-    <link href="https://youtu.be/WQddgm8A1R8" rel="alternate" type="text/html"/>
-    <published>2026-10-31T15:00:02.000Z</published>
-    <updated>2026-10-31T15:00:02.000Z</updated>
-    <author>
-      <name>Koyori ch. 博衣こより - holoX -</name>
-      <uri>https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=WQddgm8A1R8 【LIVE on &lt;t:1793458802:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/WQddgm8A1R8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
