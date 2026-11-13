@@ -1,5 +1,24 @@
 [
   {
+    "id": "tzJm1yDe-YU",
+    "title": "【MV】極楽ごきげん縁日和 / いろはにほへっと あやふぶみ【 #いろはにほへっとあやふぶみ 】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-13T12:00:11.000Z",
+    "available_at": "2026-11-13T12:00:11.000Z",
+    "duration": 182,
+    "status": "past",
+    "channel": {
+      "id": "UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group",
+      "org": "Hololive",
+      "suborg": "0aOfficial",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/rl6ZG9_MqKPDABLRDNG75FPX7EOPGXHtJ-2Hm97yqWziq6gkcwnsSe6wA8vv8xIhGuQe9joF=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive VTuber Group"
+    }
+  },
+  {
     "id": "uUckK82qZkM",
     "title": "【ホロドリ】『微熱』ロボ子さん (Official Music Video)",
     "type": "stream",
@@ -19,25 +38,6 @@
     }
   },
   {
-    "id": "bc0cupD1cI8",
-    "title": "【3D LIVE】+もしもしダーリン♡/歌詞無しver【ホロライブ/白上フブキ/夏色まつり】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-11-13T09:00:10.000Z",
-    "available_at": "2026-11-13T09:00:10.000Z",
-    "duration": 233,
-    "status": "past",
-    "channel": {
-      "id": "UCdn5BQ06XqgXoAxIhbqw5Rg",
-      "name": "フブキCh。白上フブキ",
-      "org": "Hololive",
-      "suborg": "c 1st Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_mGXEeXXCCPh-sl2jKYbYpLBuCsjEGDgJaL5RQziYhyugQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Shirakami Fubuki"
-    }
-  },
-  {
     "id": "5yuGK3loTws",
     "title": "【歌枠】 かわいいもかっこいいもスマートに歌います!! 【鈴鳴つづり/ホロライブ/アソビ★まわり隊!】 #ホロライブ #アソビまわり隊  #つづり配達中",
     "type": "stream",
@@ -46,6 +46,7 @@
     "available_at": "2026-11-13T09:37:03.000Z",
     "duration": 5968,
     "status": "past",
+    "songcount": 2,
     "live_tl_count": {
       "en": 4
     },
@@ -65,9 +66,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-11-12T15:32:00.000Z",
-    "available_at": "2026-11-13T12:00:00.000Z",
+    "available_at": "2026-11-13T12:04:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCvInZx9h3jC2JzsIzoOebWg",
       "name": "Flare Ch. 不知火フレア",
@@ -1013,6 +1014,25 @@
     }
   },
   {
+    "id": "zo_aAXasJhc",
+    "title": "【#ハユン3D】おまたせ 3Dハユンやっと来たね。   【ハユン/にじさんじ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-11-05T07:29:55.000Z",
+    "available_at": "2026-11-13T11:59:09.000Z",
+    "duration": 0,
+    "status": "live",
+    "channel": {
+      "id": "UCrhhJPNsOqzNIkUfTABoSpg",
+      "name": "ハユン / HaYun【にじさんじ】",
+      "org": "Nijisanji",
+      "suborg": "4aEx-KR Sixth Wave",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/Ql26w_ci1diYWEBznHpPinfEPXu_XLgshcNQL9JyMKqOGUvr--vHtkahvllE-gdL5J6spLu7Ug=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Ha Yun"
+    }
+  },
+  {
     "id": "1dnTeOVuCw4",
     "title": "【歌枠】はじめての個人歌枠🎤💐アイドルを目指す第一歩🎀歌って語りたい‼️【#琉海垣りらら #りららだいびんぐ】",
     "type": "stream",
@@ -1940,26 +1960,6 @@
     "live_tl_count": {
       "en": 193
     },
-    "channel": {
-      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
-      "name": "Koyori ch. 博衣こより - holoX -",
-      "org": "Hololive",
-      "suborg": "gm6th Generation -holoX-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakui Koyori"
-    }
-  },
-  {
-    "id": "Cl3LkvJkQzQ",
-    "title": "推したら引けない恋でした / KoZMy(AZKi・雪花ラミィ・博衣こより (Official)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-10-31T12:00:10.000Z",
-    "available_at": "2026-10-31T12:00:10.000Z",
-    "duration": 176,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
