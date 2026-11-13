@@ -1,24 +1,5 @@
 [
   {
-    "id": "Njtkv24_i5g",
-    "title": "【MEMBER'S UNARCHIVED SINGING PRACTICE】LET'S LEARN SOME NEW SONGS!",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-11-13T20:11:51.000Z",
-    "available_at": "2026-11-14T00:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "name": "Koseki Bijou Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ihEnglish -Advent-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/Wk5Mbh-5z_dbHTp7Hyz7OSd70Cz4GknlZOqiI2J_sIsnbm_YjWN2vb39XyrXBYj-uiMsOi-95w=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Koseki Bijou"
-    }
-  },
-  {
     "id": "K8bLq2XDevc",
     "title": "極楽ごきげん縁日和 (Instrumental)",
     "type": "stream",
@@ -135,6 +116,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive Dreams"
+    }
+  },
+  {
+    "id": "Mj_V7G27VvA",
+    "title": "【晩酌】生誕前夜祭!!誕生日カウントダウン!!【​雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-11-13T09:09:18.000Z",
+    "available_at": "2026-11-14T14:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
@@ -259,6 +259,25 @@
     }
   },
   {
+    "id": "2owfKLjUgaw",
+    "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
+    "type": "stream",
+    "topic_id": "Birthday",
+    "published_at": "2026-11-11T22:54:15.000Z",
+    "available_at": "2026-11-11T20:27:16.000Z",
+    "duration": 8387,
+    "status": "past",
+    "channel": {
+      "id": "UCvN5h1ShZtc7nly3pezRayg",
+      "name": "Cecilia Immergreen Ch. hololive",
+      "org": "Hololive",
+      "suborg": "jaEnglish -Justice-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Cecilia Immergreen"
+    }
+  },
+  {
     "id": "l-Bo_7wgNrE",
     "title": "【雑談&弾き語り】お花畑で歌いたい日🌸リクエスト曲歌います✨【 #UNIT_B / #清澄ライラ】",
     "type": "stream",
@@ -341,25 +360,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/wGOGR-OteUl35wY-H92dK1GHFf8SrYHHmgVrp7WjBNlykURyVTKS1hU-RmnhF1Y8_8tDerT4=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "ACHRORA"
-    }
-  },
-  {
-    "id": "2owfKLjUgaw",
-    "title": "【MY BIRTHDAY!】YOUTUBE vs TWITCH vs TWITTER【THE ULTIMATE CC QUIZ】#CCWEEK",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-11-11T12:38:21.000Z",
-    "available_at": "2026-11-11T20:27:16.000Z",
-    "duration": 8454,
-    "status": "past",
-    "channel": {
-      "id": "UCvN5h1ShZtc7nly3pezRayg",
-      "name": "Cecilia Immergreen Ch. hololive",
-      "org": "Hololive",
-      "suborg": "jaEnglish -Justice-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sSuJylnDA4Si69bKWVzwUhrOhgIkBCzGE6DHgDyHCJux8TKi7WU8GyKaKZHEN0a3QG7s2yJ399g=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Cecilia Immergreen"
     }
   },
   {
@@ -2871,6 +2871,26 @@
       "suborg": "0fOfficial",
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VSEPzRMRZy7FNnZmFujYmVgG24tdNxaLYxfbnQT998wkxBBKm-1VAOq-rbsNZJ-hghM4Ov3FyQ=s800-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
+    "id": "gEs6f4ARWW8",
+    "title": "【歌枠】第137回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-10-13T19:07:09.000Z",
+    "available_at": "2026-10-13T14:00:42.000Z",
+    "duration": 17183,
+    "status": "past",
+    "songcount": 10,
+    "channel": {
+      "id": "UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため",
+      "org": "Hololive",
+      "suborg": "fa4th Generation (holoForce)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/XJYar8ZAQ59ce0nFlf-Dl6V16Dwznu5xfh3XnMW_JE-nCVLHLiRTS-x1gB_eR4_CJY3KDfKxsVo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Tsunomaki Watame"
     }
   },
   {
@@ -5391,25 +5411,6 @@
     "published_at": "2026-07-30T12:05:22.000Z",
     "available_at": "2026-07-30T10:59:29.000Z",
     "duration": 3715,
-    "status": "past",
-    "channel": {
-      "id": "UCCzUftO8KOVkV4wQG1vkUvg",
-      "name": "Marine Ch. 宝鐘マリン hololive3期生",
-      "org": "Hololive",
-      "suborg": "ea3rd Generation (Fantasy)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/RnFYoR_VkEZZ4OGRJz2cPXem1iRqMNzcGVp5LIxTRqhDu4vqckc83DBrVi2uwxiCPWEmmH6vSJk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Houshou Marine"
-    }
-  },
-  {
-    "id": "iBwdA4RWQUM",
-    "title": "【誕生日カウントダウン!】三十路の向こう側【ホロライブ/宝鐘マリン】",
-    "type": "stream",
-    "topic_id": "Birthday",
-    "published_at": "2026-07-29T17:11:53.000Z",
-    "available_at": "2026-07-29T14:01:17.000Z",
-    "duration": 10504,
     "status": "past",
     "channel": {
       "id": "UCCzUftO8KOVkV4wQG1vkUvg",
