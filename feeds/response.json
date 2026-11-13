@@ -1,24 +1,5 @@
 [
   {
-    "id": "tQU2ejMcXWc",
-    "title": "【 セルフ3D 】はじめ先生に『Deep Dive』の振付をレッスンしてもらいます!!🕺【常闇トワ/ホロライブ】",
-    "type": "stream",
-    "topic_id": "3D_Stream",
-    "published_at": "2026-11-13T01:19:55.000Z",
-    "available_at": "2026-11-13T10:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
-    "channel": {
-      "id": "UC1uv2Oq6kNxgATlCiez59hw",
-      "name": "Towa Ch. 常闇トワ",
-      "org": "Hololive",
-      "suborg": "fa4th Generation (holoForce)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Tokoyami Towa"
-    }
-  },
-  {
     "id": "5yuGK3loTws",
     "title": "【歌枠】 かわいいもかっこいいもスマートに歌います!! 【鈴鳴つづり/ホロライブ/アソビ★まわり隊!】 #ホロライブ #アソビまわり隊  #つづり配達中",
     "type": "stream",
@@ -246,6 +227,7 @@
     "available_at": "2026-11-10T14:31:54.000Z",
     "duration": 6977,
     "status": "past",
+    "songcount": 11,
     "channel": {
       "id": "UCNVEsYbiZjH5QLmGeSgTSzg",
       "name": "astel ch.アステル",
@@ -5144,6 +5126,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/kF39-I4IfZJOWuGiciawwB-v4M_X9u6_-jxCvAiYSHSRuUS-LdpeWWRHO7c4Pk8sXROBaPl9iMQ=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokoyami Towa"
+    }
+  },
+  {
+    "id": "NCBzuep4GrU",
+    "title": "【RIZAP監修】ラミィと一緒にレッツワークアウト!|第七回：太もも、脚痩せ編【雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "3D_Stream",
+    "published_at": "2026-08-08T09:00:08.000Z",
+    "available_at": "2026-08-08T09:00:08.000Z",
+    "duration": 367,
+    "status": "past",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
     }
   },
   {
