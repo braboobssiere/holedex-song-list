@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-13T17:56:31.322Z</updated>
+  <updated>2026-11-13T18:26:46.785Z</updated>
 
   <entry>
     <id>urn:uuid:ef3c87fe-d2a3-588a-8451-3b1188b483bc</id>
@@ -73,6 +73,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=uUckK82qZkM 【LIVE on &lt;t:1794567623:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/uUckK82qZkM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:3910c9a6-7062-5377-bd65-0e48684448e3</id>
+    <title><![CDATA[【original】サウダーデ/癒月ちょこ【ホロライブ】]]></title>
+    <link href="https://youtu.be/GImIw_LzGx0" rel="alternate" type="text/html"/>
+    <published>2026-11-13T05:50:53.000Z</published>
+    <updated>2026-11-14T12:00:00.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=GImIw_LzGx0 【LIVE on &lt;t:1794657600:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GImIw_LzGx0/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -829,20 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=24Yb37wigU8 【LIVE on &lt;t:1793545213:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/24Yb37wigU8/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:80a47c60-cba6-592c-aab5-83f6f836d46a</id>
-    <title><![CDATA[For you]]></title>
-    <link href="https://youtu.be/U1EyLzKxtR4" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:00:10.000Z</published>
-    <updated>2026-11-01T15:00:10.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=U1EyLzKxtR4 【LIVE on &lt;t:1793545210:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/U1EyLzKxtR4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
