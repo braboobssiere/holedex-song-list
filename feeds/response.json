@@ -84,9 +84,9 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-11-14T07:06:51.000Z",
-    "available_at": "2026-11-14T14:30:00.000Z",
+    "available_at": "2026-11-14T14:30:50.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
       "name": "AZKi Channel",
@@ -241,9 +241,12 @@
     "type": "stream",
     "topic_id": "Birthday",
     "published_at": "2026-11-13T09:09:18.000Z",
-    "available_at": "2026-11-14T14:30:00.000Z",
+    "available_at": "2026-11-14T14:30:09.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 71
+    },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
