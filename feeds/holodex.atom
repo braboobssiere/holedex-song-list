@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-14T14:56:31.370Z</updated>
+  <updated>2026-11-14T15:26:40.379Z</updated>
+
+  <entry>
+    <id>urn:uuid:165f2ba9-8e79-5d8d-8f8c-ba5e8067ed62</id>
+    <title><![CDATA[サウダーデ]]></title>
+    <link href="https://youtu.be/zFwndEDAjkI" rel="alternate" type="text/html"/>
+    <published>2026-11-14T15:03:04.000Z</published>
+    <updated>2026-11-14T15:03:04.000Z</updated>
+    <author>
+      <name>Choco Ch. 癒月ちょこ</name>
+      <uri>https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zFwndEDAjkI 【LIVE on &lt;t:1794668584:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zFwndEDAjkI/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:3910c9a6-7062-5377-bd65-0e48684448e3</id>
@@ -843,34 +857,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wfZvANELAqo 【LIVE on &lt;t:1793545221:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wfZvANELAqo/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4a8e6a8c-419e-5663-bbb3-e3f23feecda8</id>
-    <title><![CDATA[My Horizon]]></title>
-    <link href="https://youtu.be/O09vMSn_LsM" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:00:15.000Z</published>
-    <updated>2026-11-01T15:00:15.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=O09vMSn_LsM 【LIVE on &lt;t:1793545215:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/O09vMSn_LsM/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:b24e2a61-156f-5433-b306-8f3d1ed10152</id>
-    <title><![CDATA[HEADSHOT]]></title>
-    <link href="https://youtu.be/vJvorHyzFL8" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:00:15.000Z</published>
-    <updated>2026-11-01T15:00:15.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=vJvorHyzFL8 【LIVE on &lt;t:1793545215:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/vJvorHyzFL8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
