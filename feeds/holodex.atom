@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-14T13:26:32.413Z</updated>
+  <updated>2026-11-14T13:56:39.775Z</updated>
 
   <entry>
     <id>urn:uuid:3910c9a6-7062-5377-bd65-0e48684448e3</id>
@@ -31,6 +31,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=5srOdWoNvK4 【LIVE on &lt;t:1794657605:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/5srOdWoNvK4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1a5f9a67-65fc-5b1f-9d24-be97290df92b</id>
+    <title><![CDATA[【雑談&歌】まったり話しながら久々すぎる歌枠をやってみる【ホロライブ/大神ミオ】]]></title>
+    <link href="https://youtu.be/7VaJFM9GkFs" rel="alternate" type="text/html"/>
+    <published>2026-11-14T11:50:41.000Z</published>
+    <updated>2026-11-14T14:00:00.000Z</updated>
+    <author>
+      <name>Mio Channel 大神ミオ</name>
+      <uri>https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=7VaJFM9GkFs 【LIVE on &lt;t:1794664800:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/7VaJFM9GkFs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -118,6 +132,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:6dee090b-143a-546a-ac4b-03b7338b47e3</id>
+    <title><![CDATA[【平成アニソン縛り】アニメトークしながら懐かしのアニソンたくさん歌うよ~!好きなアニメも教えて🥳 #墨汐さやな #さやな時間]]></title>
+    <link href="https://youtu.be/qu2o5J8212o" rel="alternate" type="text/html"/>
+    <published>2026-11-12T16:05:03.000Z</published>
+    <updated>2026-11-12T13:00:07.000Z</updated>
+    <author>
+      <name>ACHRORA - mekPark</name>
+      <uri>https://www.youtube.com/channel/UChpRPsAeSZn5DistGacR3iA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=qu2o5J8212o 【LIVE on &lt;t:1794488407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qu2o5J8212o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:356cf929-c003-5ae3-9f7d-667dfbb63d07</id>
     <title><![CDATA[【歌枠/重大告知】久々に歌っちゃおうかな?!🎤【不知火フレア/ホロライブ】]]></title>
     <link href="https://youtu.be/FocPvoNiNBw" rel="alternate" type="text/html"/>
@@ -171,20 +199,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=l-Bo_7wgNrE 【LIVE on &lt;t:1794459666:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/l-Bo_7wgNrE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:6dee090b-143a-546a-ac4b-03b7338b47e3</id>
-    <title><![CDATA[【平成アニソン縛り】アニメトークしながら懐かしのアニソンたくさん歌うよ~!好きなアニメも教えて🥳 #墨汐さやな #さやな時間]]></title>
-    <link href="https://youtu.be/qu2o5J8212o" rel="alternate" type="text/html"/>
-    <published>2026-11-11T12:41:44.000Z</published>
-    <updated>2026-11-12T13:00:07.000Z</updated>
-    <author>
-      <name>ACHRORA - mekPark</name>
-      <uri>https://www.youtube.com/channel/UChpRPsAeSZn5DistGacR3iA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=qu2o5J8212o 【LIVE on &lt;t:1794488407:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/qu2o5J8212o/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -1193,20 +1207,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=_ZeTBy2v9hE 【LIVE on &lt;t:1791972240:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/_ZeTBy2v9hE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a41b1ab0-7465-5491-9c81-c955c87d6913</id>
-    <title><![CDATA[【歌枠】第137回!わためぇ Night Fever!! Singing Stream🎤🎶【角巻わため/ホロライブ4期生】]]></title>
-    <link href="https://youtu.be/gEs6f4ARWW8" rel="alternate" type="text/html"/>
-    <published>2026-10-13T19:07:09.000Z</published>
-    <updated>2026-10-13T14:00:42.000Z</updated>
-    <author>
-      <name>Watame Ch. 角巻わため</name>
-      <uri>https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=gEs6f4ARWW8 【LIVE on &lt;t:1791900042:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/gEs6f4ARWW8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
