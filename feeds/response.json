@@ -1,5 +1,24 @@
 [
   {
+    "id": "WUgMWQvCzig",
+    "title": "【original MV】Braver【雪花ラミィ /ホロライブ】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-15T13:00:07.000Z",
+    "available_at": "2026-11-15T13:00:07.000Z",
+    "duration": 217,
+    "status": "past",
+    "channel": {
+      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ",
+      "org": "Hololive",
+      "suborg": "ga5th Generation (holoFive)",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Yukihana Lamy"
+    }
+  },
+  {
     "id": "ozuDe2Wn8Hc",
     "title": "【ホロドリ】『ぺこらいざー』兎田ぺこら (Official Music Video)",
     "type": "stream",
@@ -161,6 +180,26 @@
     }
   },
   {
+    "id": "wgT-WyXsJp0",
+    "title": "【 歌枠】NO37 新曲がでたりわちゃ学イベントあったりてんてこ森だからうたう 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-11-13T15:34:16.000Z",
+    "available_at": "2026-11-13T13:58:50.000Z",
+    "duration": 5303,
+    "status": "past",
+    "songcount": 5,
+    "channel": {
+      "id": "UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子",
+      "org": "Hololive",
+      "suborg": "0w0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Robocosan"
+    }
+  },
+  {
     "id": "K8bLq2XDevc",
     "title": "極楽ごきげん縁日和 (Instrumental)",
     "type": "stream",
@@ -200,26 +239,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/rl6ZG9_MqKPDABLRDNG75FPX7EOPGXHtJ-2Hm97yqWziq6gkcwnsSe6wA8vv8xIhGuQe9joF=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive VTuber Group"
-    }
-  },
-  {
-    "id": "wgT-WyXsJp0",
-    "title": "【 歌枠】NO37 新曲がでたりわちゃ学イベントあったりてんてこ森だからうたう 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-11-13T13:53:56.000Z",
-    "available_at": "2026-11-13T13:58:50.000Z",
-    "duration": 5410,
-    "status": "past",
-    "songcount": 5,
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
     }
   },
   {
@@ -394,25 +413,6 @@
     "live_tl_count": {
       "en": 261
     },
-    "channel": {
-      "id": "UCFKOVgVbGmX65RxO3EtH3iw",
-      "name": "Lamy Ch. 雪花ラミィ",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/ytc/AIdro_nHPsjV8KMncrIzZh7NPGaG8xzAgzN8Vf9YAj12dRN7sCc=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Yukihana Lamy"
-    }
-  },
-  {
-    "id": "WUgMWQvCzig",
-    "title": "【original MV】Braver【雪花ラミィ /ホロライブ】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-11-13T07:38:47.000Z",
-    "available_at": "2026-11-15T13:00:00.000Z",
-    "duration": 0,
-    "status": "upcoming",
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -670,10 +670,10 @@
     "topic_id": "Birthday",
     "published_at": "2026-11-11T06:21:08.000Z",
     "available_at": "2026-11-15T12:00:14.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 3591,
+    "status": "past",
     "live_tl_count": {
-      "en": 74
+      "en": 83
     },
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
