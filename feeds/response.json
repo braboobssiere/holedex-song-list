@@ -92,6 +92,7 @@
     "available_at": "2026-11-15T13:00:07.000Z",
     "duration": 217,
     "status": "past",
+    "songcount": 1,
     "channel": {
       "id": "UCFKOVgVbGmX65RxO3EtH3iw",
       "name": "Lamy Ch. 雪花ラミィ",
@@ -586,6 +587,26 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/auWUDx657AsLAGf8xx-NDUgiWGd9DOxM9qTYI_nMCZktK7OOdz_CT0xYSLKONO2H8IzlUkaEig=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "hololive OFFICIAL CARD GAME"
+    }
+  },
+  {
+    "id": "IqN0XeMdGU4",
+    "title": "画面の中と向こうの君へ / AZKi (official)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-12T09:46:20.000Z",
+    "available_at": "2026-11-16T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "songcount": 1,
+    "channel": {
+      "id": "UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel",
+      "org": "Hololive",
+      "suborg": "0z0th Generation",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/tRZGMhn8vSvYE0_15SjaE_3dTH5JTZzjdnb5gs1StecT1tKn1gQ2tVkRfi_n42Q5fYz13ewdayo=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "AZKi"
     }
   },
   {
@@ -1893,27 +1914,6 @@
     "topic_id": "Original_Song",
     "published_at": "2026-11-02T15:02:15.000Z",
     "available_at": "2026-11-02T15:02:15.000Z",
-    "duration": 207,
-    "status": "past",
-    "songcount": 1,
-    "original_channel_id": "UCxzSeX4vGLeuBNPkgsB9ALQ",
-    "channel": {
-      "id": "UCDqI2jOz0weumE8s7paEk6g",
-      "name": "Roboco Ch. - ロボ子",
-      "org": "Hololive",
-      "suborg": "0w0th Generation",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/H8pRHxQm4-FjRl9XUFn9UQbJhVcj5PIvwDW6o7ZlBTRj2bgVP5xonQEl36H-O6NHaWmbP1zaxg=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Robocosan"
-    }
-  },
-  {
-    "id": "0p0iWVgBiJ4",
-    "title": "Pong de Ding (Instrumental)",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-11-02T15:01:59.000Z",
-    "available_at": "2026-11-02T15:01:59.000Z",
     "duration": 207,
     "status": "past",
     "songcount": 1,
