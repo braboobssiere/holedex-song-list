@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-15T19:56:26.315Z</updated>
+  <updated>2026-11-15T20:26:35.573Z</updated>
 
   <entry>
     <id>urn:uuid:8837a726-2893-5d4f-b943-fb48fc1d8df1</id>
@@ -325,6 +325,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=xQNgjQG3m9I 【LIVE on &lt;t:1794394811:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xQNgjQG3m9I/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:efc87bbe-da5d-5c27-b256-986ae139eb21</id>
+    <title><![CDATA[【#雪花ラミィ生誕3ⅮLIVE2026】『 BE BRAVER— 軌跡の先、光輝の彼方へ —』重大告知あり!!【 雪花ラミィ /ホロライブ】]]></title>
+    <link href="https://youtu.be/pnIli_xfMzc" rel="alternate" type="text/html"/>
+    <published>2026-11-11T06:21:08.000Z</published>
+    <updated>2026-11-15T12:00:14.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=pnIli_xfMzc 【LIVE on &lt;t:1794744014:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pnIli_xfMzc/maxresdefault.jpg"/>
   </entry>
 
   <entry>
