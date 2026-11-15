@@ -3,7 +3,35 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-15T14:56:35.320Z</updated>
+  <updated>2026-11-15T15:26:32.967Z</updated>
+
+  <entry>
+    <id>urn:uuid:8837a726-2893-5d4f-b943-fb48fc1d8df1</id>
+    <title><![CDATA[Braver]]></title>
+    <link href="https://youtu.be/xpM1rh5sjXA" rel="alternate" type="text/html"/>
+    <published>2026-11-15T15:02:43.000Z</published>
+    <updated>2026-11-15T15:02:43.000Z</updated>
+    <author>
+      <name>Lamy Ch. 雪花ラミィ</name>
+      <uri>https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=xpM1rh5sjXA 【LIVE on &lt;t:1794754963:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/xpM1rh5sjXA/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:37601d68-178b-5b90-a6df-40fac00892ab</id>
+    <title><![CDATA[画面の中と向こうの君へ]]></title>
+    <link href="https://youtu.be/1EifVbEmDKM" rel="alternate" type="text/html"/>
+    <published>2026-11-15T15:00:23.000Z</published>
+    <updated>2026-11-15T15:00:23.000Z</updated>
+    <author>
+      <name>AZKi Channel</name>
+      <uri>https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=1EifVbEmDKM 【LIVE on &lt;t:1794754823:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/1EifVbEmDKM/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:5b38189b-a956-5c5a-8b8e-f1ec60bd8667</id>
@@ -829,48 +857,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=r3k4XVlqXCs 【LIVE on &lt;t:1793566806:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/r3k4XVlqXCs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:da00a70e-f39c-577c-b546-8681314948f5</id>
-    <title><![CDATA[せんしゅセンセーション]]></title>
-    <link href="https://youtu.be/myEcAxoC8Ks" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:04:59.000Z</published>
-    <updated>2026-11-01T15:04:59.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=myEcAxoC8Ks 【LIVE on &lt;t:1793545499:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/myEcAxoC8Ks/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:98840aa0-aaa0-5e06-a9e6-b2a1ed290370</id>
-    <title><![CDATA[Diamond Spark!]]></title>
-    <link href="https://youtu.be/bnLtvNBx7CA" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:00:48.000Z</published>
-    <updated>2026-11-01T15:00:48.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=bnLtvNBx7CA 【LIVE on &lt;t:1793545248:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bnLtvNBx7CA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:4ec15e15-4c6c-5c2f-95fd-8feb1771c543</id>
-    <title><![CDATA[Our Tomorrow]]></title>
-    <link href="https://youtu.be/G1rZbBCrOCo" rel="alternate" type="text/html"/>
-    <published>2026-11-01T15:00:32.000Z</published>
-    <updated>2026-11-01T15:00:32.000Z</updated>
-    <author>
-      <name>Hakos Baelz Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=G1rZbBCrOCo 【LIVE on &lt;t:1793545232:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/G1rZbBCrOCo/maxresdefault.jpg"/>
   </entry>
 
   <entry>
