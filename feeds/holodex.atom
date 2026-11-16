@@ -3,7 +3,77 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-16T14:56:26.619Z</updated>
+  <updated>2026-11-16T15:26:39.402Z</updated>
+
+  <entry>
+    <id>urn:uuid:68f12e74-f0ee-5ca5-b442-9ca7ef75e389</id>
+    <title><![CDATA[アマリリス]]></title>
+    <link href="https://youtu.be/L2n0z4Y7sFU" rel="alternate" type="text/html"/>
+    <published>2026-11-16T15:04:47.000Z</published>
+    <updated>2026-11-16T15:04:47.000Z</updated>
+    <author>
+      <name>Botan Ch.獅白ぼたん</name>
+      <uri>https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=L2n0z4Y7sFU 【LIVE on &lt;t:1794841487:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/L2n0z4Y7sFU/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1140f0e4-e44b-5486-9e7f-7e4238c7364c</id>
+    <title><![CDATA[怪宴スペクタクル]]></title>
+    <link href="https://youtu.be/Y85TxWZp87s" rel="alternate" type="text/html"/>
+    <published>2026-11-16T15:04:05.000Z</published>
+    <updated>2026-11-16T15:04:05.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Y85TxWZp87s 【LIVE on &lt;t:1794841445:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Y85TxWZp87s/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:73501217-4900-540a-869a-461cf1f957a6</id>
+    <title><![CDATA[Forge My Soul]]></title>
+    <link href="https://youtu.be/zvy16ucrCGY" rel="alternate" type="text/html"/>
+    <published>2026-11-16T15:02:17.000Z</published>
+    <updated>2026-11-16T15:02:17.000Z</updated>
+    <author>
+      <name>Kaela Kovalskia Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=zvy16ucrCGY 【LIVE on &lt;t:1794841337:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zvy16ucrCGY/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:ff3cc627-4463-5d1c-8bc7-9d1df1c71f62</id>
+    <title><![CDATA[CORE//UNBREAKABLE]]></title>
+    <link href="https://youtu.be/Fb3ILr-aEdM" rel="alternate" type="text/html"/>
+    <published>2026-11-16T15:00:03.000Z</published>
+    <updated>2026-11-16T15:00:03.000Z</updated>
+    <author>
+      <name>Koseki Bijou Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=Fb3ILr-aEdM 【LIVE on &lt;t:1794841203:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Fb3ILr-aEdM/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:5f4c8046-e021-5722-949d-24de174dec10</id>
+    <title><![CDATA[Shallow Shadow]]></title>
+    <link href="https://youtu.be/i2VXRmZ63g0" rel="alternate" type="text/html"/>
+    <published>2026-11-16T15:00:03.000Z</published>
+    <updated>2026-11-16T15:00:03.000Z</updated>
+    <author>
+      <name>Towa Ch. 常闇トワ</name>
+      <uri>https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=i2VXRmZ63g0 【LIVE on &lt;t:1794841203:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/i2VXRmZ63g0/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:233609de-fb2e-5558-b4a4-3c3cf3bd5dba</id>
@@ -692,76 +762,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:de101b5d-ad59-51f4-a719-994575815793</id>
-    <title><![CDATA[神ツモ☆ドラドラ伝説 (宝鐘マリン SOLO ver.)]]></title>
-    <link href="https://youtu.be/q4P_cEApp44" rel="alternate" type="text/html"/>
-    <published>2026-11-04T15:04:37.000Z</published>
-    <updated>2026-11-04T15:04:37.000Z</updated>
-    <author>
-      <name>Marine Ch. 宝鐘マリン hololive3期生</name>
-      <uri>https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=q4P_cEApp44 【LIVE on &lt;t:1793804677:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/q4P_cEApp44/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:1fb19eeb-8da1-55fc-9e21-a965d87904f6</id>
-    <title><![CDATA[神ツモ☆ドラドラ伝説 (一条莉々華 SOLO ver.)]]></title>
-    <link href="https://youtu.be/YwH7pW1k2yc" rel="alternate" type="text/html"/>
-    <published>2026-11-04T15:04:05.000Z</published>
-    <updated>2026-11-04T15:04:05.000Z</updated>
-    <author>
-      <name>Ririka Ch. 一条莉々華 ‐ ReGLOSS</name>
-      <uri>https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=YwH7pW1k2yc 【LIVE on &lt;t:1793804645:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YwH7pW1k2yc/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:db53174d-7827-50d1-8b7f-c6f70c748d10</id>
-    <title><![CDATA[神ツモ☆ドラドラ伝説]]></title>
-    <link href="https://youtu.be/BNz8E49HkkI" rel="alternate" type="text/html"/>
-    <published>2026-11-04T15:03:25.000Z</published>
-    <updated>2026-11-04T15:03:25.000Z</updated>
-    <author>
-      <name>ホロライブ麻雀 -ホロじゃん-</name>
-      <uri>https://www.youtube.com/channel/UCIvJ2ws0x3ulxR5EZ8ZzA2A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=BNz8E49HkkI 【LIVE on &lt;t:1793804605:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/BNz8E49HkkI/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:f1500854-93f8-5596-aee0-b79d1bfcf066</id>
-    <title><![CDATA[神ツモ☆ドラドラ伝説 (白上フブキ SOLO ver.)]]></title>
-    <link href="https://youtu.be/Nfbr10KhVWs" rel="alternate" type="text/html"/>
-    <published>2026-11-04T15:03:23.000Z</published>
-    <updated>2026-11-04T15:03:23.000Z</updated>
-    <author>
-      <name>フブキCh。白上フブキ</name>
-      <uri>https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Nfbr10KhVWs 【LIVE on &lt;t:1793804603:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Nfbr10KhVWs/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:af69151b-11e3-5ee3-8ba6-c7dc04dcb873</id>
-    <title><![CDATA[神ツモ☆ドラドラ伝説 (アキ・ローゼンタール SOLO ver.)]]></title>
-    <link href="https://youtu.be/zlIbXAyUdgA" rel="alternate" type="text/html"/>
-    <published>2026-11-04T15:02:52.000Z</published>
-    <updated>2026-11-04T15:02:52.000Z</updated>
-    <author>
-      <name>アキロゼCh。Vtuber/ホロライブ所属</name>
-      <uri>https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=zlIbXAyUdgA 【LIVE on &lt;t:1793804572:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/zlIbXAyUdgA/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:003004b3-9101-55c5-9fa9-f8324f0f18fc</id>
     <title><![CDATA[ぐるぐるなので枠移動しました]]></title>
     <link href="https://youtu.be/YGC2AAIXVSU" rel="alternate" type="text/html"/>
@@ -776,34 +776,6 @@
   </entry>
 
   <entry>
-    <id>urn:uuid:22e390e9-6870-5e3b-b815-0dacfbae31f8</id>
-    <title><![CDATA[【ホロドリ】『怪宴スペクタクル』夏色まつり/Vestia Zeta/Nerissa Ravencroft/儒烏風亭らでん/轟はじめ (Full ver.)]]></title>
-    <link href="https://youtu.be/-4Pkc4dNIL0" rel="alternate" type="text/html"/>
-    <published>2026-11-04T11:00:18.000Z</published>
-    <updated>2026-11-04T11:00:18.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=-4Pkc4dNIL0 【LIVE on &lt;t:1793790018:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-4Pkc4dNIL0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:591928c6-5a9e-5e0c-98b0-cee8373c438f</id>
-    <title><![CDATA[ときのそら「マルゴトミライ」【Official Music Video】]]></title>
-    <link href="https://youtu.be/GKUUf0fs_So" rel="alternate" type="text/html"/>
-    <published>2026-11-04T11:00:08.000Z</published>
-    <updated>2026-11-04T11:00:08.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=GKUUf0fs_So 【LIVE on &lt;t:1793790008:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/GKUUf0fs_So/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
     <id>urn:uuid:12adc98b-d600-54b6-aa0b-3fa3205ff1cc</id>
     <title><![CDATA[【 歌枠 】お歌を歌いますよ!リクエストにも応える!【虎金妃笑虎】]]></title>
     <link href="https://youtu.be/Q3yMMD9GNow" rel="alternate" type="text/html"/>
@@ -815,34 +787,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Q3yMMD9GNow 【LIVE on &lt;t:1793696518:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q3yMMD9GNow/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7231a2c2-7fd8-5c9a-a51c-5d7a1baf952f</id>
-    <title><![CDATA[[PLAY COLOR | 4K] 아이리제 (IRISÉ) - TRAUMA (Feat. Takanashi Kiara)]]></title>
-    <link href="https://youtu.be/pYB-xfIcd9c" rel="alternate" type="text/html"/>
-    <published>2026-11-03T10:00:26.000Z</published>
-    <updated>2026-11-03T10:00:26.000Z</updated>
-    <author>
-      <name>IRISÉ</name>
-      <uri>https://www.youtube.com/channel/UCMmcz1ybSoAD-GUlDx_7H2A</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=pYB-xfIcd9c 【LIVE on &lt;t:1793700026:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/pYB-xfIcd9c/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:3950e203-f827-55ed-951a-75719a96761a</id>
-    <title><![CDATA[【メイドインアビス】劇場シリーズ第一部「目覚める神秘」/主題歌「Chain of the Abyss」Kevin Penkin feat. Mori Calliope(シリーズ振り返りリリックビデオ)]]></title>
-    <link href="https://youtu.be/Q_y5KOEl1dk" rel="alternate" type="text/html"/>
-    <published>2026-11-03T03:00:00.000Z</published>
-    <updated>2026-11-03T03:00:00.000Z</updated>
-    <author>
-      <name>Mori Calliope Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Q_y5KOEl1dk 【LIVE on &lt;t:1793674800:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Q_y5KOEl1dk/maxresdefault.jpg"/>
   </entry>
 
   <entry>
