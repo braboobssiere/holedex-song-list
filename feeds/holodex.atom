@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-17T10:56:49.295Z</updated>
+  <updated>2026-11-17T11:26:33.214Z</updated>
+
+  <entry>
+    <id>urn:uuid:80f015c6-6eb6-5d4d-9ec5-24e9e276a2e4</id>
+    <title><![CDATA[【ホロドリ】『Burning hope』IRyS (Official Music Video)]]></title>
+    <link href="https://youtu.be/bgwcVkAMV8w" rel="alternate" type="text/html"/>
+    <published>2026-11-17T11:00:02.000Z</published>
+    <updated>2026-11-17T11:00:02.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=bgwcVkAMV8w 【LIVE on &lt;t:1794913202:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bgwcVkAMV8w/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:68f12e74-f0ee-5ca5-b442-9ca7ef75e389</id>
@@ -745,20 +759,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=AFBJLmEjrQ0 【LIVE on &lt;t:1793876481:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/AFBJLmEjrQ0/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:c58d5e48-e7e5-5653-b562-b9c9515b0e81</id>
-    <title><![CDATA[ときのそら「ハイパーチャッチャカチャージ」【Official Music Video】]]></title>
-    <link href="https://youtu.be/eaPEREHrA5w" rel="alternate" type="text/html"/>
-    <published>2026-11-05T11:00:09.000Z</published>
-    <updated>2026-11-05T11:00:09.000Z</updated>
-    <author>
-      <name>SoraCh. ときのそらチャンネル</name>
-      <uri>https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=eaPEREHrA5w 【LIVE on &lt;t:1793876409:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/eaPEREHrA5w/maxresdefault.jpg"/>
   </entry>
 
   <entry>
