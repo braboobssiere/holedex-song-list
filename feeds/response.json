@@ -28,7 +28,8 @@
     "duration": 0,
     "status": "live",
     "live_tl_count": {
-      "ko": 91
+      "en": 19,
+      "ko": 153
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -38,6 +39,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/QptILcxFIY8S6gku6TUj7koTTOsWRhqEudcdXASpfzOJwHcxxxCyRbizQ7xt4DtALFqDa5Kh=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Tokino Sora"
+    }
+  },
+  {
+    "id": "5hEsLbUM9hc",
+    "title": "【ホロドリ】『Burning hope』IRyS (Full ver.)",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-18T12:00:14.000Z",
+    "available_at": "2026-11-18T12:00:14.000Z",
+    "duration": 200,
+    "status": "past",
+    "channel": {
+      "id": "UCawGfU44CZxd2ZVf_VGijbA",
+      "name": "hololive Dreams ホロライブドリームス",
+      "org": "Hololive",
+      "suborg": "w_Misc",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/xYBZ3SRfI0dFYmNmUCSvZJ19Jsr6ax6TZQA6Q4ynehOOmNS5TwlFaYXLHeaEEs7w11PtC6VmFu8=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "hololive Dreams"
     }
   },
   {
@@ -1922,25 +1942,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
-    "id": "3d1AbOhFUxE",
-    "title": "IRISÉ (아이리제) ‘TRAUMA (Feat. Takanashi Kiara)' Performance Video",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-11-06T09:00:04.000Z",
-    "available_at": "2026-11-06T09:00:04.000Z",
-    "duration": 165,
-    "status": "past",
-    "channel": {
-      "id": "UCMmcz1ybSoAD-GUlDx_7H2A",
-      "name": "IRISÉ",
-      "org": "Independents",
-      "suborg": "ZZ",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/KfFjZcrWvgoEaWW2VExZ_qxEs3eLlckFQMb05PglTx_yrocBD-zHqCMMTSf-fPjJWrt1bII9pAk=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "IRISE"
     }
   },
   {
