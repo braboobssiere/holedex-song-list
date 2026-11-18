@@ -25,11 +25,11 @@
     "topic_id": "singing",
     "published_at": "2026-11-18T13:17:20.000Z",
     "available_at": "2026-11-18T13:59:34.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 7206,
+    "status": "past",
     "live_tl_count": {
-      "en": 19,
-      "ko": 153
+      "en": 26,
+      "ko": 158
     },
     "channel": {
       "id": "UCp6993wxpyDPHUpavwDFqgg",
@@ -77,6 +77,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/YuUoz9D6C6cKCujiVYy_sWYYfLGPl52L4KKnq00SsKVzeBjAmN-NzHZFMx8niLhe_31qV5E9=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Koganei Niko"
+    }
+  },
+  {
+    "id": "_NIc65kdfsI",
+    "title": "楽曲オタクの歌枠なのじゃ!【ホロライブ/熱千めら】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-11-18T05:46:12.000Z",
+    "available_at": "2026-11-19T10:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC8eitCE9Z6EwUCs-VUi1blg",
+      "name": "Mela Ch. 熱千めら‐ アソビ★まわり隊!",
+      "org": "Hololive",
+      "suborg": "gpASOBI★MAWARI-TAI!",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/w-0D87KiPH6FgFtJKtuodQYepQYJ-XHWMprRBNysqXpWN4FsyRZ4eweLg0xDgIHqThnWt7fD6w=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Achichi Mela"
     }
   },
   {
@@ -2992,25 +3011,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/VTrjE6XoUY0QRq9VgwPIADiUA1S2FYPvJ7qRpUpgix8JLiU-mjKwEtADjS35w9C21Yarxk9kKA=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Gigi Murin"
-    }
-  },
-  {
-    "id": "k8oEFAZ-RQc",
-    "title": "≪UNARCHIVED KARAOKE・歌枠≫ Training those vocal chords for REGALIA! #RoadToREGALIA",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-18T14:56:02.000Z",
-    "available_at": "2026-10-19T02:59:41.000Z",
-    "duration": 7951,
-    "status": "missing",
-    "channel": {
-      "id": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-      "name": "Hakos Baelz Ch. hololive",
-      "org": "Hololive",
-      "suborg": "ibEnglish -Promise-",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/sFBVGkudEnu_MCH23nJdS2oTnOzd9M7e6Mgki5JBhbj4PnjWGgG2hNmW2Vozw5rr8-K0s-DpaPs=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Hakos Baelz"
     }
   },
   {
