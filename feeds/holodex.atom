@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-20T10:26:36.487Z</updated>
+  <updated>2026-11-20T10:56:45.524Z</updated>
 
   <entry>
     <id>urn:uuid:84a1d4a0-0e6f-51c7-a71b-9010d2037320</id>
@@ -143,6 +143,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=bgwcVkAMV8w 【LIVE on &lt;t:1794913202:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/bgwcVkAMV8w/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:a1bca60f-67a8-5d47-8ca2-bb9f06d409ce</id>
+    <title><![CDATA[【ガチ練習】今日も元気に練習だ!!【 #UNIT_B / #玲銘ミラ】]]></title>
+    <link href="https://youtu.be/mqzhPMFOu-8" rel="alternate" type="text/html"/>
+    <published>2026-11-17T07:10:40.000Z</published>
+    <updated>2026-11-20T05:00:15.000Z</updated>
+    <author>
+      <name>UNIT B (Pre-Debut) - mekPark</name>
+      <uri>https://www.youtube.com/channel/UC3OH5FKQ3qtl4uRme_vZTgA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=mqzhPMFOu-8 【LIVE on &lt;t:1795150815:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/mqzhPMFOu-8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
