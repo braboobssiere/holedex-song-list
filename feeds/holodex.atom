@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-20T05:26:28.904Z</updated>
+  <updated>2026-11-20T05:56:25.870Z</updated>
+
+  <entry>
+    <id>urn:uuid:84a1d4a0-0e6f-51c7-a71b-9010d2037320</id>
+    <title><![CDATA[【3D KARAOKE】Singing w/ Friends to celebrate my ANNIVERSARY?! + ANNOUNCEMENT #5YearENCore]]></title>
+    <link href="https://youtu.be/sSkB-FmWpeA" rel="alternate" type="text/html"/>
+    <published>2026-11-19T16:36:24.000Z</published>
+    <updated>2026-11-20T03:03:24.000Z</updated>
+    <author>
+      <name>IRyS Ch. hololive</name>
+      <uri>https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=sSkB-FmWpeA 【LIVE on &lt;t:1795143804:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/sSkB-FmWpeA/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:29e2b532-7074-5f74-a9ea-05189e01e942</id>
