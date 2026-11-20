@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-20T17:26:39.225Z</updated>
+  <updated>2026-11-20T17:56:27.512Z</updated>
 
   <entry>
     <id>urn:uuid:56bacdf0-da3f-5974-8613-7aa4206908aa</id>
@@ -717,6 +717,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=s4bEiaJEljQ 【LIVE on &lt;t:1794222117:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/s4bEiaJEljQ/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:0377a67f-b939-5cb9-a0db-4a9ba34fc093</id>
+    <title><![CDATA[【📢 重大発表 🔥】 BOUNCE BACK!【#FG2周年】]]></title>
+    <link href="https://youtu.be/48hUYLrV8bE" rel="alternate" type="text/html"/>
+    <published>2026-11-09T12:18:04.000Z</published>
+    <updated>2026-11-09T10:57:54.000Z</updated>
+    <author>
+      <name>hololive FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=48hUYLrV8bE 【LIVE on &lt;t:1794221874:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/48hUYLrV8bE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
