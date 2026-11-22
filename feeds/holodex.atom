@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-22T18:26:31.220Z</updated>
+  <updated>2026-11-22T18:56:29.045Z</updated>
 
   <entry>
     <id>urn:uuid:795944e9-3001-5aa2-8973-e35c4f200d7d</id>
@@ -17,6 +17,20 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=KM14kMDVaus 【LIVE on &lt;t:1795422600:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/KM14kMDVaus/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:c4aed0fa-59aa-5cb2-bd47-4831b8bb3cf6</id>
+    <title><![CDATA[【ホロドリ】『Halulu』Pavolia Reine (Full ver.)]]></title>
+    <link href="https://youtu.be/9l8Sz2j_aA8" rel="alternate" type="text/html"/>
+    <published>2026-11-22T12:00:28.000Z</published>
+    <updated>2026-11-22T12:00:28.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=9l8Sz2j_aA8 【LIVE on &lt;t:1795348828:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/9l8Sz2j_aA8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -843,20 +857,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=Mfcj1AdnzhQ 【LIVE on &lt;t:1794226283:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Mfcj1AdnzhQ/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:7da053e5-4952-5346-a5b5-ace1c275f316</id>
-    <title><![CDATA[【3D LIVE】Zero Gravity (Performance)【Vestia Zeta】]]></title>
-    <link href="https://youtu.be/Kkcm0vflYD8" rel="alternate" type="text/html"/>
-    <published>2026-11-08T05:20:05.000Z</published>
-    <updated>2026-11-08T05:20:05.000Z</updated>
-    <author>
-      <name>Vestia Zeta Ch. hololive</name>
-      <uri>https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Kkcm0vflYD8 【LIVE on &lt;t:1794115205:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Kkcm0vflYD8/maxresdefault.jpg"/>
   </entry>
 
   <entry>
