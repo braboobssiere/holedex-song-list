@@ -3,20 +3,34 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-23T08:56:23.980Z</updated>
+  <updated>2026-11-23T09:26:29.928Z</updated>
 
   <entry>
     <id>urn:uuid:8a340a81-3d85-5051-a15e-9dcb63512112</id>
     <title><![CDATA[【 歌枠 】みんなに心配かけちゃったので歌でぶっとばそう!!!【 桃鈴ねね / hololive 】]]></title>
     <link href="https://youtu.be/VWHVPoMD27o" rel="alternate" type="text/html"/>
     <published>2026-11-23T07:22:33.000Z</published>
-    <updated>2026-11-23T09:00:00.000Z</updated>
+    <updated>2026-11-23T09:01:47.000Z</updated>
     <author>
       <name>Nene Ch.桃鈴ねね</name>
       <uri>https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA</uri>
     </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=VWHVPoMD27o 【LIVE on &lt;t:1795424400:f&gt;】]]></summary>
+    <summary><![CDATA[https://www.youtube.com/watch?v=VWHVPoMD27o 【LIVE on &lt;t:1795424507:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/VWHVPoMD27o/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
+    <id>urn:uuid:1df445c9-9eb8-5b8e-a892-6d27eea6e403</id>
+    <title><![CDATA[【Original】Reverberate / 響咲リオナ【Official MV】]]></title>
+    <link href="https://youtu.be/YnvABKEizsE" rel="alternate" type="text/html"/>
+    <published>2026-11-23T07:07:29.000Z</published>
+    <updated>2026-11-23T09:30:00.000Z</updated>
+    <author>
+      <name>Riona Ch. 響咲リオナ - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UC9LSiN9hXI55svYEBrrK-tw</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=YnvABKEizsE 【LIVE on &lt;t:1795426200:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/YnvABKEizsE/maxresdefault.jpg"/>
   </entry>
 
   <entry>
@@ -857,20 +871,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=48hUYLrV8bE 【LIVE on &lt;t:1794221874:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/48hUYLrV8bE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:527e1581-dcc3-5138-b9d7-164bebdc43d4</id>
-    <title><![CDATA[FLOW GLOW / BOUNCE BACK!【Official Music Video】]]></title>
-    <link href="https://youtu.be/Mfcj1AdnzhQ" rel="alternate" type="text/html"/>
-    <published>2026-11-09T12:11:23.000Z</published>
-    <updated>2026-11-09T12:11:23.000Z</updated>
-    <author>
-      <name>hololive FLOW GLOW</name>
-      <uri>https://www.youtube.com/channel/UCu2n3qHuOuQIygREMnWeQWg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=Mfcj1AdnzhQ 【LIVE on &lt;t:1794226283:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/Mfcj1AdnzhQ/maxresdefault.jpg"/>
   </entry>
 
   <entry>

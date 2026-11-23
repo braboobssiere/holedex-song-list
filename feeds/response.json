@@ -5,9 +5,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-11-23T07:22:33.000Z",
-    "available_at": "2026-11-23T09:00:00.000Z",
+    "available_at": "2026-11-23T09:01:47.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCAWSyEs_Io8MtpY3m-zqILA",
       "name": "Nene Ch.桃鈴ねね",
@@ -16,6 +16,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Momosuzu Nene"
+    }
+  },
+  {
+    "id": "YnvABKEizsE",
+    "title": "【Original】Reverberate / 響咲リオナ【Official MV】",
+    "type": "stream",
+    "topic_id": "Original_Song",
+    "published_at": "2026-11-23T07:07:29.000Z",
+    "available_at": "2026-11-23T09:30:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC9LSiN9hXI55svYEBrrK-tw",
+      "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/4eNoZ3izogRHDyK8Bsoaz8rQwOGqCn6oumnmOr9GJ5RW4aD_lD03FSAnm7XNdmDFbuqM9mje=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Isaki Riona"
     }
   },
   {
@@ -84,7 +103,7 @@
     "available_at": "2026-11-23T08:31:04.000Z",
     "duration": 0,
     "status": "live",
-    "songcount": 4,
+    "songcount": 7,
     "channel": {
       "id": "UC9LSiN9hXI55svYEBrrK-tw",
       "name": "Riona Ch. 響咲リオナ - FLOW GLOW",
@@ -2026,25 +2045,6 @@
     "duration": 4386,
     "status": "past",
     "songcount": 4,
-    "channel": {
-      "id": "UCu2n3qHuOuQIygREMnWeQWg",
-      "name": "hololive FLOW GLOW",
-      "org": "Hololive",
-      "suborg": "0gOfficial",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/f9oGulIUN9RbJyNpc-WT3d5aJGJ_9p1Mug3WV6ZkBBQtImvYSusfmMbW03KMY8jZf1kJsHu3jOs=s800-c-k-c0x00ffffff-no-rj"
-    }
-  },
-  {
-    "id": "Mfcj1AdnzhQ",
-    "title": "FLOW GLOW / BOUNCE BACK!【Official Music Video】",
-    "type": "stream",
-    "topic_id": "Original_Song",
-    "published_at": "2026-11-09T12:11:23.000Z",
-    "available_at": "2026-11-09T12:11:23.000Z",
-    "duration": 241,
-    "status": "past",
-    "songcount": 1,
     "channel": {
       "id": "UCu2n3qHuOuQIygREMnWeQWg",
       "name": "hololive FLOW GLOW",
