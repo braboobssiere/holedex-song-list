@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-25T10:56:40.191Z</updated>
+  <updated>2026-11-25T11:26:38.410Z</updated>
+
+  <entry>
+    <id>urn:uuid:a5f77194-3b3b-5e60-9d44-71b8bbf83986</id>
+    <title><![CDATA[【ホロドリ】『Holiday Dream』さくらみこ/姫森ルーナ/Ninomae Ina'nis/Shiori Novella (Official Music Video)]]></title>
+    <link href="https://youtu.be/K18AokpGnBs" rel="alternate" type="text/html"/>
+    <published>2026-11-25T11:00:07.000Z</published>
+    <updated>2026-11-25T11:00:07.000Z</updated>
+    <author>
+      <name>hololive Dreams ホロライブドリームス</name>
+      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=K18AokpGnBs 【LIVE on &lt;t:1795604407:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/K18AokpGnBs/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:9674f5de-a3f7-5c59-a82e-0d41294471d9</id>
@@ -241,20 +255,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=wqCcCrb75ew 【LIVE on &lt;t:1795169390:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/wqCcCrb75ew/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:a5f77194-3b3b-5e60-9d44-71b8bbf83986</id>
-    <title><![CDATA[【ホロドリ】『Holiday Dream』さくらみこ/姫森ルーナ/Ninomae Ina'nis/Shiori Novella (Official Music Video)]]></title>
-    <link href="https://youtu.be/K18AokpGnBs" rel="alternate" type="text/html"/>
-    <published>2026-11-20T09:10:38.000Z</published>
-    <updated>2026-11-25T11:00:00.000Z</updated>
-    <author>
-      <name>hololive Dreams ホロライブドリームス</name>
-      <uri>https://www.youtube.com/channel/UCawGfU44CZxd2ZVf_VGijbA</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=K18AokpGnBs 【LIVE on &lt;t:1795604400:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/K18AokpGnBs/maxresdefault.jpg"/>
   </entry>
 
   <entry>
