@@ -3,7 +3,7 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-26T14:26:34.283Z</updated>
+  <updated>2026-11-26T14:56:27.088Z</updated>
 
   <entry>
     <id>urn:uuid:a5f77194-3b3b-5e60-9d44-71b8bbf83986</id>
@@ -20,6 +20,20 @@
   </entry>
 
   <entry>
+    <id>urn:uuid:14d431dc-5ab2-5ea9-9230-6bb3d6315356</id>
+    <title><![CDATA[深夜歌枠]]></title>
+    <link href="https://youtu.be/QJpTGSscW_4" rel="alternate" type="text/html"/>
+    <published>2026-11-24T16:35:26.000Z</published>
+    <updated>2026-11-24T15:03:11.000Z</updated>
+    <author>
+      <name>Matsuri Channel 夏色まつり</name>
+      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=QJpTGSscW_4 【LIVE on &lt;t:1795532591:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QJpTGSscW_4/maxresdefault.jpg"/>
+  </entry>
+
+  <entry>
     <id>urn:uuid:9674f5de-a3f7-5c59-a82e-0d41294471d9</id>
     <title><![CDATA[ヒカリノ海ヘ]]></title>
     <link href="https://youtu.be/-84iwDaYsv4" rel="alternate" type="text/html"/>
@@ -31,20 +45,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=-84iwDaYsv4 【LIVE on &lt;t:1795532688:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/-84iwDaYsv4/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:14d431dc-5ab2-5ea9-9230-6bb3d6315356</id>
-    <title><![CDATA[深夜歌枠]]></title>
-    <link href="https://youtu.be/QJpTGSscW_4" rel="alternate" type="text/html"/>
-    <published>2026-11-24T14:58:16.000Z</published>
-    <updated>2026-11-24T15:03:11.000Z</updated>
-    <author>
-      <name>Matsuri Channel 夏色まつり</name>
-      <uri>https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=QJpTGSscW_4 【LIVE on &lt;t:1795532591:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/QJpTGSscW_4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
