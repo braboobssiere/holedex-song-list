@@ -90,8 +90,8 @@
     "topic_id": "Anniversary",
     "published_at": "2026-11-27T08:31:12.000Z",
     "available_at": "2026-11-27T14:31:37.000Z",
-    "duration": 0,
-    "status": "live",
+    "duration": 8644,
+    "status": "past",
     "live_tl_count": {
       "en": 124
     },
@@ -103,6 +103,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Hakui Koyori"
+    }
+  },
+  {
+    "id": "3NyUSYm4wm8",
+    "title": "【ホロ曲歌枠】重大告知あり!ホロメン先輩のオリ曲を歌わせていただくぞ~!!【虎金妃笑虎】",
+    "type": "stream",
+    "topic_id": "singing",
+    "published_at": "2026-11-27T04:35:26.000Z",
+    "available_at": "2026-11-28T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
+      "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
+      "org": "Hololive",
+      "suborg": "tcDEV_IS FLOW GLOW",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/YuUoz9D6C6cKCujiVYy_sWYYfLGPl52L4KKnq00SsKVzeBjAmN-NzHZFMx8niLhe_31qV5E9=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Koganei Niko"
     }
   },
   {
@@ -362,6 +381,25 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/4eNoZ3izogRHDyK8Bsoaz8rQwOGqCn6oumnmOr9GJ5RW4aD_lD03FSAnm7XNdmDFbuqM9mje=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Isaki Riona"
+    }
+  },
+  {
+    "id": "tgE4n3G6Va4",
+    "title": "【 #博衣こより5周年ガンダムロケ 】重大告知アリ‼️ガンダムを巡るスペシャルロケ映像公開!?~ユニコーン立像・ガンプラ・BHCPDII MUSEUM~【博衣こより・一伊那尓栖・輪堂千速/ホロライブ】",
+    "type": "stream",
+    "topic_id": "Anniversary",
+    "published_at": "2026-11-23T14:43:00.000Z",
+    "available_at": "2026-11-28T11:00:00.000Z",
+    "duration": 0,
+    "status": "upcoming",
+    "channel": {
+      "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -",
+      "org": "Hololive",
+      "suborg": "gm6th Generation -holoX-",
+      "type": "vtuber",
+      "photo": "https://yt3.ggpht.com/2PoZqbHNPXXxjPRgtAuDGY_p6use0QRNk2rN0oXPeE9NtrQGuTuD1psw6sCFDGy8fO_3JwjQPxw=s800-c-k-c0x00ffffff-no-rj",
+      "english_name": "Hakui Koyori"
     }
   },
   {
@@ -3125,26 +3163,6 @@
     }
   },
   {
-    "id": "ziV3XCAKQuI",
-    "title": "【歌枠】ボカロを歌おう!!【 #UNIT_B / #宵凪ネオン】",
-    "type": "stream",
-    "topic_id": "singing",
-    "published_at": "2026-10-23T06:10:13.000Z",
-    "available_at": "2026-10-23T04:00:35.000Z",
-    "duration": 7355,
-    "status": "past",
-    "songcount": 16,
-    "channel": {
-      "id": "UC3OH5FKQ3qtl4uRme_vZTgA",
-      "name": "UNIT B (Pre-Debut) - mekPark",
-      "org": "Hololive",
-      "suborg": "v_mekPark",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/F891KmsWcmA-_LLQJuh0lQXn-gSf1CXnOgzvyoNYdm07e0BqldmGwX1RQe9Rpg3WavqKEMAREw=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "UNIT B [Pre-Debut]"
-    }
-  },
-  {
     "id": "YUUa9KyOdwU",
     "title": "【音楽勉強会】教えて!ライラちゃん!【 #UNIT_B / #フレアグランス 】",
     "type": "stream",
@@ -5371,25 +5389,6 @@
       "type": "vtuber",
       "photo": "https://yt3.ggpht.com/WSOgf5zOOFKQN8pQB8VL8R6OSO0j81oGQSSzN22m8mts4VWZSPHDou7II8Lk4JA3OlQL-Iuu=s800-c-k-c0x00ffffff-no-rj",
       "english_name": "Shishiro Botan"
-    }
-  },
-  {
-    "id": "stmI9QkpKuw",
-    "title": "祝!6周年✨トワワ先輩に褒められたい2026限定凸待ち!【 桃鈴ねね / hololive 】",
-    "type": "stream",
-    "topic_id": "Anniversary",
-    "published_at": "2026-08-13T14:45:14.000Z",
-    "available_at": "2026-08-13T13:01:47.000Z",
-    "duration": 5806,
-    "status": "past",
-    "channel": {
-      "id": "UCAWSyEs_Io8MtpY3m-zqILA",
-      "name": "Nene Ch.桃鈴ねね",
-      "org": "Hololive",
-      "suborg": "ga5th Generation (holoFive)",
-      "type": "vtuber",
-      "photo": "https://yt3.ggpht.com/yQDRxiMIkbHsn7e4s6BCIBCNb3WmiV1myrpo6Lq2-dfCmAn1N47y12mhZg0NOfQMWQMYW4Qm=s800-c-k-c0x00ffffff-no-rj",
-      "english_name": "Momosuzu Nene"
     }
   },
   {
