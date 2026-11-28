@@ -3,7 +3,21 @@
   <id>urn:uuid:a4d08d69-5955-59c0-ba3a-6011f22581bb</id>
   <title>Hololive Stream Feed</title>
   <link href="https://raw.githubusercontent.com/braboobssiere/holedex-song-list/main/feeds/holodex.atom" rel="self" type="application/atom+xml"/>
-  <updated>2026-11-28T11:56:31.625Z</updated>
+  <updated>2026-11-28T12:26:26.617Z</updated>
+
+  <entry>
+    <id>urn:uuid:15102816-7174-52a3-8221-9e8ebc575ece</id>
+    <title><![CDATA[【オリジナル曲】好きにしてやる/虎金妃笑虎]]></title>
+    <link href="https://youtu.be/R20juZiqbEk" rel="alternate" type="text/html"/>
+    <published>2026-11-28T12:10:22.000Z</published>
+    <updated>2026-11-28T12:10:22.000Z</updated>
+    <author>
+      <name>Niko Ch. 虎金妃笑虎 - FLOW GLOW</name>
+      <uri>https://www.youtube.com/channel/UCuI_opAVX6qbxZY-a-AxFuQ</uri>
+    </author>
+    <summary><![CDATA[https://www.youtube.com/watch?v=R20juZiqbEk 【LIVE on &lt;t:1795867822:f&gt;】]]></summary>
+    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/R20juZiqbEk/maxresdefault.jpg"/>
+  </entry>
 
   <entry>
     <id>urn:uuid:91ea5032-63dc-5395-b3dd-a834bcf50b0e</id>
@@ -829,20 +843,6 @@
     </author>
     <summary><![CDATA[https://www.youtube.com/watch?v=hI7W5ngWOLE 【LIVE on &lt;t:1794582242:f&gt;】]]></summary>
     <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/hI7W5ngWOLE/maxresdefault.jpg"/>
-  </entry>
-
-  <entry>
-    <id>urn:uuid:640e995a-f93d-59d9-bc11-5980e326631b</id>
-    <title><![CDATA[Midnight Grand Orchestra『Rat A Tat』(Live Video)]]></title>
-    <link href="https://youtu.be/DPSaDLItzF4" rel="alternate" type="text/html"/>
-    <published>2026-11-13T13:30:04.000Z</published>
-    <updated>2026-11-13T13:30:04.000Z</updated>
-    <author>
-      <name>Midnight Grand Orchestra</name>
-      <uri>https://www.youtube.com/channel/UCnVbtCwr-5LXxUlGxsgD7sQ</uri>
-    </author>
-    <summary><![CDATA[https://www.youtube.com/watch?v=DPSaDLItzF4 【LIVE on &lt;t:1794576604:f&gt;】]]></summary>
-    <link rel="enclosure" type="image/jpeg" href="https://img.youtube.com/vi/DPSaDLItzF4/maxresdefault.jpg"/>
   </entry>
 
   <entry>
