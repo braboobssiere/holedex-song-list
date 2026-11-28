@@ -111,9 +111,9 @@
     "type": "stream",
     "topic_id": "singing",
     "published_at": "2026-11-27T04:35:26.000Z",
-    "available_at": "2026-11-28T11:00:00.000Z",
+    "available_at": "2026-11-28T11:03:31.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
     "channel": {
       "id": "UCuI_opAVX6qbxZY-a-AxFuQ",
       "name": "Niko Ch. 虎金妃笑虎 - FLOW GLOW",
@@ -408,9 +408,12 @@
     "type": "stream",
     "topic_id": "Anniversary",
     "published_at": "2026-11-23T14:43:00.000Z",
-    "available_at": "2026-11-28T11:00:00.000Z",
+    "available_at": "2026-11-28T10:55:29.000Z",
     "duration": 0,
-    "status": "upcoming",
+    "status": "live",
+    "live_tl_count": {
+      "en": 56
+    },
     "channel": {
       "id": "UC6eWCld0KwmyHFbAqK3V-Rw",
       "name": "Koyori ch. 博衣こより - holoX -",
